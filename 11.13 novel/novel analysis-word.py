@@ -152,9 +152,6 @@ output_path = '/Users/fafaya/Desktop/corpus_linguistics_work/11.13 novel/novel a
 merged_df.to_excel(output_path, index=False)
 
 print("数据已经合并并保存到 Excel 文件。")
-       
-##还需要做可视化内容：词长统计和词长分布的折线图，词频的柱状图（top10-20）   
-##也可以考虑做词汇丰富度
 
 
 

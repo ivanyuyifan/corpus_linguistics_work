@@ -30,7 +30,6 @@ def sent_count(filename, cleaned_novel):
         '平均小句长度': 0,
         '陈述句数量': 0,
         '疑问句数量': 0,
-        '感叹句数量': 0,
         '其他句子数量': 0
     }
     sentences = nltk.sent_tokenize(cleaned_novel)
@@ -165,3 +164,5 @@ if __name__ == '__main__':
     # 将结果保存为 Excel 文件
     output_file = '/Users/fafaya/Desktop/corpus_linguistics_work/11.13 novel/novel analysis on sentence.xlsx'
     result_df.to_excel(output_file, index=False)
+
+###还需要进一步的可视化
