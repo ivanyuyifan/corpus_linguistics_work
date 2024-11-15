@@ -12,14 +12,14 @@ def preprocess_article(processed_content):
     
     return processed_content
 
-#读取文件的函数
+# 读取文件的函数
 def file_read(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
         content = file.read()
     return content
 
 
-###以下统计每本小说的句子情况
+### 以下统计每本小说的句子情况
 def sent_count(filename, cleaned_novel):
     # 初始化每本小说的统计数据
     metrics = {
@@ -30,6 +30,7 @@ def sent_count(filename, cleaned_novel):
         '平均小句长度': 0,
         '陈述句数量': 0,
         '疑问句数量': 0,
+        '感叹句数量': 0,
         '其他句子数量': 0
     }
     sentences = nltk.sent_tokenize(cleaned_novel)
@@ -65,7 +66,7 @@ def sent_count(filename, cleaned_novel):
     
     return metrics
 
-###以下统计小说中的从句数量
+### 以下统计小说中的从句数量
 # 加载spaCy模型
 def clause_count(text):
     doc = nlp(text)
@@ -96,33 +97,34 @@ def clause_count(text):
 
     return clause_metrics
 
-###以下统计每本小说的依存分析结果
+### 以下统计每本小说的依存分析结果
 def spacy_parsing(content):
     metrics = {
-        '依存分析结果': [],
-        '逻辑关系结构': [],
-        '连词结构': [],
-        '限定词结构': [],
-        '名词性主语结构': [],
-        '介词宾语结构': []
+        '逻辑关系结构': 0,
+        '连词结构': 0,
+        '限定词结构': 0,
+        '名词性主语结构': 0,
+        '介词宾语结构': 0
     }
     logical_connectives = ['and',  'or', 'but', 'so', 'because', 'although', 'however']
 
     doc = nlp(content)
     for token in doc:
-        temp_tuple = (token.text,token.tag_,token.dep_,token.head.text,token.head.tag_) #将依存结果组成元组的形式
-        metrics['依存分析结果'].append(temp_tuple) #依次记录每个词的结果
-        #通过依存结果来匹配检索
+        # 统计逻辑关系结构
         if token.text.lower() in logical_connectives:
-            metrics['逻辑关系结构'].append(temp_tuple)
+            metrics['逻辑关系结构'] += 1
+        # 统计连词结构
         if token.dep_ == 'cc':
-            metrics['连词结构'].append(temp_tuple)
+            metrics['连词结构'] += 1
+        # 统计限定词结构
         elif token.dep_ == 'det':
-            metrics['限定词结构'].append(temp_tuple)
+            metrics['限定词结构'] += 1
+        # 统计名词性主语结构
         elif token.dep_ == 'nsubj':
-            metrics['名词性主语结构'].append(temp_tuple)
+            metrics['名词性主语结构'] += 1
+        # 统计介词宾语结构
         elif token.dep_ == 'pobj':
-            metrics['介词宾语结构'].append(temp_tuple)
+            metrics['介词宾语结构'] += 1
 
     return metrics
 
@@ -164,5 +166,3 @@ if __name__ == '__main__':
     # 将结果保存为 Excel 文件
     output_file = '/Users/fafaya/Desktop/corpus_linguistics_work/11.13 novel/novel analysis on sentence.xlsx'
     result_df.to_excel(output_file, index=False)
-
-###还需要进一步的可视化
