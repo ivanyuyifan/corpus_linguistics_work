@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151124T143845Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOJITO CUPCAKES</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫吉托纸杯蛋糕</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>yield: 12 cupcakes </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>产量：12个纸杯蛋糕</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>prep time: 30 minutes </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>准备时间：30分钟</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>cook time: 25 minutes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烘焙时间：25分钟</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>INGREDIENTS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做纸杯蛋糕需要：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/2 cup buttermilk </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>半杯牛奶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/2 cup mint leaves, bruised</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>半杯擦好的薄荷叶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/2 cups all-purpose flour</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一杯加半杯通用面粉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 1/2 teaspoons baking powder</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一茶匙加半茶匙发酵粉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/4 teaspoon salt</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四分之一茶匙盐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/2 cup unsalted butter, at room temperature</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>半杯室温下的无盐黄油</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 cup granulated sugar</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一杯砂糖</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 eggs, at room temperature</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个室温下的鸡蛋</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zest and juice of 1 1/2 limes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一杯加半杯酸橙皮加酸橙汁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 tablespoons white rum</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两汤匙白朗姆酒</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1/4 teaspoon vanilla extract</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四分之一茶匙香草精</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To Brush the Cupcakes:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刷纸杯蛋糕需要：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 tablespoons white rum</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两汤匙白朗姆酒</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 sprigs fresh mint</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两枝新鲜薄荷</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the Frosting:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖霜需要：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 1/2 cups unsalted butter, at room temperature</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一杯加半杯室温下的无盐黄油</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 1/4 cups powdered sugar</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四杯加四分之一杯糖粉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 1/2 tablespoons lime juice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一汤匙加半汤匙柠檬汁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 tablespoons white rum
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三汤匙白朗姆酒</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Combine the buttermilk and the cup mint leaves in a small saucepan over medium heat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把酪乳和半杯薄荷叶混合倒进一个小锅里，中火加热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warm until just starting to steam (do not simmer), then remove from the heat and cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>温热直到刚刚开始冒热气（不沸腾），然后关火揭盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let steep for 15 to 30 minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让它浸泡15至30分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once finished, strain the milk into a bowl using a fine mesh sieve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦完成，用细网筛将牛奶滤入碗中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The milk may appear curdled or clumpy, but don't worry, it will come back together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛奶可能会出现凝结或块状，但不要担心，它会重新溶在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Press on any milk solids and mint leaves to extract all the liquid possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>挤压乳固体和薄荷叶尽可能提取所有的液体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Give the milk a quick stir to smooth it out and set aside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把牛奶快速的搅拌使其变得平滑，放一边备用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the mint is steeping in the milk, preheat the oven to 325 degrees F. Line a standard muffin tin with paper liners; set aside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当把薄荷浸泡在牛奶中时，预热烤箱到325华氏度。在标准松饼托上放上纸杯：放一边备用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a medium bowl, whisk together the flour, baking powder and salt; set aside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个中号碗里，将面粉，发酵粉和盐一起搅拌;放一边备用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an electric mixer on medium-high speed, beat the butter and sugar together until pale, light, and fluffy (about 5 minutes).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用电动搅拌器以中高速，将黄油和糖打至发白，轻柔，蓬松（约5分钟）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reduce the mixer speed to medium and add the eggs one at at time, mixing thoroughly after each addition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>降低搅拌器的速度至中速，逐个加入鸡蛋，每次加入后充分混合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scrape the sides of the bowl and add the lime zest, lime juice, vanilla extract and rum. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刮干净碗边，并加入酸橙皮，酸橙汁，香草精和朗姆酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mix until combined. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>搅拌至混合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(The mixture may start to look curdled at this point, but don’t worry, it will all come back together, power on!)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（该混合物开始可能凝结于一点，但不要担心，它都会重合溶在一起，通电！）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reduce the mixer speed low. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>降低搅拌速度低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the dry ingredients in three batches, alternating with the buttermilk in two batches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分三批添加干的原料，乳酪分两批交替加入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mix only until just incorporated, using a rubber spatula to give it one last mix by hand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调配至刚刚混合，用橡胶铲手动搅拌最后一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Divide the batter between the muffin cups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将每两个松饼杯之间的糊状物划分开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bake for approximately 25 minutes or until just slightly golden and a skewer shows only moist crumbs attached, rotating the pan at the halfway point.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烘焙约25分钟或者烤到颜色略呈金黄色，用针刺穿只有一点潮湿碎屑，转动锅的中间位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the cupcakes are baking, combine the rum and mint sprigs in a small saucepan and warm over medium heat until the rum is heated through (do not let it simmer). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当纸杯蛋糕在烘焙时，把朗姆酒和薄荷小枝混合倒入一个小锅里，并用中火加热，直到朗姆酒温热（不要让它沸腾）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remove the pan from the heat, cover, and let steep until ready to use.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下锅揭盖，浸泡放凉，直到准备使用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Allow cupcakes to cool for 5 to 10 minutes and then remove to a cooling rack. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让蛋糕冷却5至10分钟，然后取出一个散热架。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brush the tops of the cupcakes with the mint-infused rum. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在纸杯蛋糕的顶部刷上薄荷混合的朗姆酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set the cupcakes aside to cool completely before frosting them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将蛋糕放在一边，在刷上糖霜之前使它完全冷却。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To make the frosting, whip the butter on medium-high speed of an electric mixer using the whisk attachment for 5 minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做糖霜，用中高转速的电动搅拌器拂附件搅拌5分钟黄油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reduce the speed to medium-low and gradually add the powdered sugar, mixing and scraping the sides of the bowl until all is incorporated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>降低到中低速，逐渐加入糖粉，混合和刮干净碗边，直至所有的东西都溶合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Give it a mix on medium speed for about 30 seconds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中速混合它约30秒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the lime juice and rum and mix on medium-high speed until incorporated and fluffy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加入酸橙汁和朗姆酒，以中高速拌匀直至充分混合，蓬松。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the frosting appears a bit too soft, add some additional sugar, one spoonful at a time until desired consistency is reached. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果糖霜表现得有点太软了，再加些糖，一次加一匙，直至调到所需稠度为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frost cupcakes and garnish, if desired, with a lime wedge and sprig of fresh mint.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果想要纸杯蛋糕上撒糖霜和装饰，可以用新鲜的薄荷枝和青柠角。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

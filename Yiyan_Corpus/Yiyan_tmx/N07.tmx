@@ -1,0 +1,1263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160901T122230Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen opened a drawer in his desk, the drawer resisting with a bloodcurdling screech, and produced a bottle of Wild Turkey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文拉开桌子的一个抽屉，抽屉很紧，拉开时发出令人头皮发麻的尖声，抽屉里有一瓶野火鸡威士忌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He poured a generous gulp into a cup that had CHICAGO BULLS written around it, shaking his head as if already regretting his decision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他向杯子里倒了一大口酒，杯子围圈写着“芝加哥公牛队”的字样，他摇了摇头，仿佛又后悔不该倒的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He slurped from the cup and his face cramped, as if he'd swallowed urine, then it settled down, a little redder now, as he looked at Pronek, trying to see through him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文拿着杯子喝了一大口，脸抽搐起来，好像吞了尿一样，不久脸又平静下来，现在有点红了，这时他看着普罗涅克，试图看透他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So you wanna be an operative?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么，你想当一名信息调查员？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I would like to be," Pronek said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想。”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We don't solve big cases here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们这不处理大案子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rich women don't make passes at us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富婆们不会青睐我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't tell off big bosses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也不会怪罪大老板们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And we don't wake up in a ditch with a cracked head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不会在沟里醒来，头破血流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We just earn our daily bread doing divorces, checking backgrounds, chasing down deadbeat dads, know what I mean? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们只不过挣点每天吃面包的钱，处理离婚啊，背景调查啊，找找赖账的大爷们啊，等等。你明白我的意思吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's all work, no adventure, pays the rent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是所有的工作，不需要冒险，只要付租金就好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Got it?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知道了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yeah," Pronek said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“知道了。”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you know where the Board of Education is?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道教育董事会在哪吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In the downtown," Pronek said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在商业中心。”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you know where the Six Corners is?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道第六街角在哪吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不知道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Irving Park and . . . Oh, fuck it! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“欧文停车场和......噢，他妈的！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you have a car?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有车吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I want to buy the car." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我想买辆车。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek started fidgeting in his chair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克在他座位上开始坐立不安起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A drop of sweat rolled down from his left armpit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一滴汗从他左腋窝里滚落下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you have a camera?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你有相机吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没有。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you know how to tail?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道怎样跟踪吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tale?" Pronek asked, perplexed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“故事？”普罗涅克问道，有些迷惑不解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You mean, tell the tale?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是说，讲故事？”【译者注：跟踪（tail）与故事（tale）发音相同，所以普罗涅克会误解。】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen formed a pyramid from his hands and put its tip under his nose, then pushed his nose up a little so the bridge of his nose wrinkled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文的双手搭出一个金字塔状，塔尖就在鼻子底下，随后把鼻子往上推了推，鼻梁顿时皱了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He glared at Pronek, as if affronted by his sheer presence, curling his lips inward until his mouth was just a straight line. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他盯着普罗涅克，似乎普罗涅克单单在这儿就已经是对他的一种侮辱了，他把嘴唇往里卷起，直到嘴形成一条直线为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek wanted to tell him that he could learn, that he was really smart, that he used to be a journalist, talked to people--he could make himself over to be an operative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克想告诉欧文自己会学的，自己真的很聪明，自己过去是一名记者，擅长与人交谈——他会改变自己的，让自己成为一名信息调查员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was too late: Owen was blinking in slow motion, gathering strength to finish the interview off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是一切都太迟了：欧文慢慢眯上了眼，正聚集力气彻底结束这次面试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He dismantled the pyramid, unfurled his lips, and said:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手不再搭成金字塔状了，嘴唇也松开了，他说：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Listen, son, I like you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听着，孩子，我喜欢你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I admire people like you, that's what this country's all about: the wretched refuse coming and becoming American. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很欣赏像你这样的人。就是这样的一个国家：可怜的人们不愿意来美国，不愿做美国人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother's family was like that, all the way from Poland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈一家就像这样，从波兰远道而来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I ain't gonna give you a job just 'cause I like you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我不打算给你一份工作，就是因为我喜欢你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tell you what I'll do: Give me your phone and I'll call you if something comes up, okay?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>告诉你我会怎么做：把你的电话号码给我，如果有什么活儿，我会叫你的，好吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Okay," Pronek said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧。”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen was watching him, probably expecting him to get up, shake hands, and leave, but Pronek's body was suddenly heavy, and he could not get up from the sofa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文看着他，可能希望他站起来，挥挥手就走了，但是普罗涅克身体突然沉重起来，他无法从沙发上站起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing in the room moved or produced a sound. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房里鸦雀无声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They could hear the ill cooing of the pigeon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们能听到那只鸽子讨厌的咕咕声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Okay," Owen repeated, as if to break the spell.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧。”欧文又重复了一遍，似乎想打破这局面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek stood at the corner of Granville and Broadway, watching his breath clouding and dissolving before his eyes, waiting for Owen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克站在格兰维尔和百老汇大街的拐角处等欧文，看着自己呵出的气在眼前形成雾并逐渐消散。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The picture-frame shop across the street had nicely framed Halloween paintings in the window--ghosts hovering over disheveled children, ghouls rising out of graves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>街对面卖相框的商店橱窗里挂着几幅有关万圣节前夕的油画，装裱得十分精致——一些幽灵在破烂不堪的孩子们上空徘徊，一些饿鬼从坟墓中走了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A man with a rotund goiter growing sideways on his neck was entering the diner on Granville. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个脖子侧边长着圆鼓鼓甲状腺肿块的男子正走进格兰维尔的小饭馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek thought that the man was growing another, smaller head and imagined a relief of a little, wicked face under the taut goiter skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克觉得那个男人还长了一个小一点肿块，脑海里浮现出一张小且难看的脸的轮廓，皮肤因甲状腺肿而紧绷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just in front of Pronek, a throbbing car stopped at the streetlight, inhabited by a teenager who had a shield of gold chains on his chest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在普罗涅克面前，一辆有节奏地震动着的车停到路灯旁，车里坐着一个十来岁的孩子，胸前挂着一条金链穿起的盾形徽章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was drumming on the wheel with his index fingers, then looked up, pointed one of his fingers at Pronek, and pretended to shoot him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子正在用食指敲打着方向盘，然后抬起头，伸出一只手指瞄准普罗涅克，做出射击的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek smiled, as if getting the joke, but then the teenager turned east and disappeared down Granville. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克微微一笑，仿佛看了一个笑话，不久那孩子转向东边，往格兰维尔那边远去，慢慢看不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek was cold; Owen was late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克感到很冷；欧文来迟了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Chicago Tribune headline behind the filthy glass of a newspaper box read THOUSANDS MISSING IN SREBRENICA. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>透过一个报箱脏脏的玻璃，可以看到芝加哥论坛报头条新闻写着“斯雷布雷尼察上千人失踪”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the distance, Pronek saw a boxy Broadway bus stopping every once in a while on the empty street, sunlight shimmering in its windshield.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>远处，普罗涅克看到一个盒子状的百老汇汽车时不时在空旷的街道上停一停，阳光照得汽车的挡风玻璃闪闪发光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen pulled up, materializing out of nowhere, brakes screeching, right in front of Pronek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文的车不知从哪儿冒了出来，正好停在普罗涅克的面前，刹车声十分刺耳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drove an old Cadillac that looked like the hideous offspring of a tank and a wheel cart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开着一辆老式卡迪亚克车，车看起来像坦克和四轮车的组合，很难看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Pronek could move toward the car, Owen honked impatiently, and the sound violated the early-morning hum, irking Pronek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克还来不及走向车边，欧文就急匆匆地按起了喇叭，喇叭的声音破坏了清晨的绵绵细语，普罗涅克觉得很是讨厌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek opened the door and an eddy of cigarette smoke and coffee smell escaped into the street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克打开车门，一团抽烟的烟雾夹杂着咖啡的气味散进了街道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen said nothing, put the car in gear, and drove off--a bus whizzed by, barely missing them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文一声不吭，推动离合器，车开离了——一辆公共汽车飕飕而过，差一点撞着他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drove with both his hands on top of the wheel, alternately looking at the street and frowning at the tip of his cigarette as it was being transformed into its own ashen ghost. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文双手放在方向盘顶端，一会儿看着街道，一会儿对着烟头直皱眉头，仿佛那烟头上的灰烬正在化作幽灵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, the ash broke off and fell into his lap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>终于，烟灰断落了下来，掉在了他的膝上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen said, as if on cue: "Damn, it's early. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文像找准了这个点儿似的，开口说道：“该死的，还早呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what can we do? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们又能怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We gotta get this guy while he's home sleeping."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要找那个家伙，可他还在家里睡大觉。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek was silent, mulling over a question that would not require too many words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克沉默不语，琢磨着一个不需要太多语句的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were waiting at the light on Hollywood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在好莱坞的灯光下等着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The car in front of them had a bumper sticker reading: IF YOU DON'T LIKE MY DRIVING CALL 1-800-EATSHIT.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们前面有一辆车，车的保险杆贴纸上写着：如果不高兴我开车，致电1-800-吃屎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who is this man?" Pronek asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要找的那个家伙是谁？” 普罗涅克问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's a character, lemme tell you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他可是个怪人，让我跟你说说吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's Serbian, I believe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是塞尔维亚人。我认为是的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Been here for fifteen years or so, married an American girl, had a child, and then split after years of marriage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来这儿大概15年左右了，娶了一个美国妞，生了一个小孩，几年后就离婚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's a runaway daddy is what he is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是个逃跑的老爸，这就是他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Couldn't find the son of a bitch, wouldn't show up in court, the lady couldn't get child support. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再也找不到这个狗娘养的了。他不上法庭，他老婆就得不到孩子的抚养权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I gotta get him to accept the court summons, so if he doesn't show up in court, we can get cops on his ass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要找到他，把法庭传票交给他，如果他还不出庭，我们就可以叫警察找他麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are you all like that over there, son of a bitches?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是不是很喜欢那样，狗娘养的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He put out his cigarette in the ashtray already teeming with butts, a few of them falling on the floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文在满是烟蒂的烟灰缸里熄灭了他的烟，有几个烟蒂掉落在地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek imagined himself snorting up all those ashes and butts: It would be a good way to exhort a confession under torture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克幻想着自己吸食所有的烟灰和烟蒂：这种行为可能是一种拷问逼供的有效方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He coughed nauseously.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克咳嗽起来，咳得作呕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What are you?" Owen asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是怎么一回事？”欧文问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's Serbs fighting Muslims over there, right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那边是塞尔维亚人向穆斯林开仗了，对吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are you a Serb or a Muslim?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是塞尔维亚人还是穆斯林？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I am complicated," Pronek said and retched. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我很复杂，” 普罗涅克边说边作呕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The car was like a gas chamber, and Pronek felt an impulse to rise and breathe from the pocket of air just under the roof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车子像一个毒气室，普罗涅克有一种冲动，想站起来呼吸车顶下的一点点空气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can say I'm the Bosnian." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你可以说我是波斯尼亚人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't give a damn myself, as long as you speak the same language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我才不管呢，只要你们说同样的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You speak the same language, right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们是说同样的话，对吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yugoslavian?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南斯拉夫人？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I guess," Pronek said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想是的，” 普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good," Owen said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很好，”欧文说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's why I called you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这就是我叫你来的原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You get the job done, you get sixty bucks, you're a happy man."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以完成这个任务。你可以拿到60块。你是一个幸福的人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen lit another cigarette, snapped his Zippo shut, and inhaled solemnly, as if inhaling a thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文又点燃了一支烟，啪的一声合上Zippo打火机，郑重其事地吸起烟来，仿佛正在吸入一种思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hair island developed into a vine growing out of his forehead, nearly reaching his eyebrows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文有头发的地方形成了一条藤，长过了额头，差不多要碰到眉毛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drove past Bryn Mawr, where a crew of crazies was already operating: a man who kept lighting matches over a bunch of cigarettes strewn on the pavement before him, muttering to himself, as if performing a recondite ritual; an old toothless woman in tights with a wet stain spreading between her thighs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开车经过布林莫尔，那里一群疯子早就开干了：一个男人把一把香烟撒落在自己面前的人行道上，不停地划着火柴，点燃香烟，还喃喃自语，仿佛正做着玄妙的仪式；一个没有牙齿的老妇人身穿紧身衣服，一片湿湿的污渍在她两腿间漫延。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They stopped at Lawrence, then turned right.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文和普罗涅克在劳伦斯停下，然后向右拐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they were moving westward, Pronek felt the warmth of a sunbeam tickling his neck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们正向西方行驶时，普罗涅克感受到一束阳光的温暖，但照着他的脖子发痒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The windshield had thick eyebrows of dirt and a few splattered insects under them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>挡风玻璃的雨刮积了厚厚的一层灰，雨刮下还粘着几只稀巴烂的虫子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As if reading his mind, Owen said:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文好像在了解普罗涅克的心思，他说：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Lemme ask you something: What's the last thing that goes through a fly's head as it hits the windshield?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“问问你：当一只苍蝇撞到挡风玻璃上，它脑子里想的最后一个东西是什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He glanced sideways at Pronek with a mischievous grin, apparently proud of his cleverness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斜眼看着普罗涅克，顽皮地咧嘴一笑，明摆着对自己的聪明劲洋洋自得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What is it?" he asked again and slammed the brakes, honking violently at the car in front.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是什么嘛？”他又问了一遍，同时猛踩刹车，对着前面的车拼命按着喇叭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know," Pronek said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道，”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I should have gone the other way."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我应该换一条道走。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Went," Owen said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“走，”欧文叫道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Went. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You say I should've went the other way." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是说我应该走另一条道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He slammed the brakes again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文又猛踩刹车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But no, that's not what it is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，不是这个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think again."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再想想。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's the ass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是屁股。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last thing that goes through a fly's head as it hits the windshield is its ass." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当苍蝇撞到挡风玻璃上，它脑子里想到的最后一个东西是它的屁股。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He started laughing, nudging Pronek, until his guffawing turned into coughing and then nearly choking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文大笑起来，用肘轻轻推了推普罗涅克，结果笑得直咳嗽，还差点笑岔了气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They stopped at the Clark light and he thumped his chest like a gorilla, his vine of hair quivering, his throat convulsing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们停在了克拉克灯下，欧文就像一只大猩猩捶着胸，他那藤状头发不停的抖着，喉咙不停地咳着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek realized that there was an entire world of people he knew nothing about--the early-morning people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克发现有一类人的世界自己完全不了解，这类人就是清晨的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their faces had different colors in the morning sunlight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在晨光下，这些人的面色各有不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They seemed to be comfortable so early in the morning, even if they were already tired going to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们清晨起得这么早似乎还很惬意，哪怕他们早已厌倦了上班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could tell they had had their breakfast; their eyes were wide open, their faces developed into alertness--in contrast to Pronek's daze: the itching eyes, the tense, tired muscles, the crumpled face, the growling stomach, the pus taste in his mouth, and a general thought shortage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克看得出他们已经吃了早餐，他们的眼睛都睁得大大的，一脸生机勃勃的样子，与普罗涅克晕沉沉的样子形成了鲜明对比，普罗涅克双眼发痒，肌肉紧张又疲劳，脸皱皱的，肚子咕噜直叫，嘴里一股脓水的味儿，脑子里一片空白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 6:00 A.M. people, the people who existed when Owen and his people were sleeping: old twiggy ladies with a plastic cover over their meticulously puffed-up hair, like wrapped-up gray lettuce heads; kids in McDonald's uniforms on their way to the morning shift, already burdened with the midday drowsihead; workers unloading crates of strawberries onto a stuck-up dolly--they all seemed to be involved in something purposeful.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>清晨6点，当欧文和他的手下还在睡觉的时候，这些人就出来了，就是这些人：骨瘦如柴的老妇人，她们把一个塑料罩子罩在精心梳理的蓬松头发上；穿着有麦当劳制服的小伙子，他们正在上早班的途中，早已被中午的昏昏沉沉折磨不已；卸货的工人，他们把一箱箱草莓卸下，然后再放入一辆手推车里，堆得满满的——他们似乎都做着目标明确的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen completed his coughing, cleared his throat confidently, and asked: "You still have family there?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文咳嗽完后，清了清嗓子，定了定神，问道：“你家还在那儿吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where?" Pronek responded, confused by a sudden change in the communication pace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哪儿？”普罗涅克应道，对谈话节奏突然改变而迷惑不已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Phnom Penh, that's where! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“金边，就是那儿！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wherever you're from, you still have folks there?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管你从哪里来，你还有家人在那，是吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yeah, my parents are still there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，我父母还在那。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But they're still alive."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们还活着。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Now, who's trying to kill them? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，谁想杀了他们？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can never get this right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可永远干不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are they Muslim?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们是穆斯林吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No," Pronek said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是，”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They are in Sarajevo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们在萨拉热窝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some Serbs try to kill the Muslims in Sarajevo and Bosnia, and also the people who don't want to kill the Muslims."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些塞尔维亚人想杀死那些在萨拉热窝和波斯尼亚的穆斯林，还有那些不想去杀穆斯林的人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You probably gonna hate this son of a bitch then."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么你可能会恨那个狗娘养的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know yet," Pronek said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我也不知道，”普罗涅克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if, he thought, what if he were dreaming this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果，普罗涅克想，如果他这样梦想会怎样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if he were one of those 6:00 A.M. people, just about to wake up, slap the snooze button, and linger a few more minutes in bed? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他是那些清晨6点出来的人们中的一员，刚刚睡醒，按一下闹钟的打盹按钮，在床上多赖几分钟，会怎样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen hit the brakes again, and Pronek slapped the dashboard, lest he go through the windshield. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文又推了推刹车，普罗涅克拍了拍仪表板，唯恐飞出挡风玻璃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were at Western: A Lincoln statue was making a step forward, worried as ever, its head and shoulders dotted with dried pigeon shit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们现在在西部：一座林肯的雕塑，林肯正迈步向前，和以往一样忧郁，头和肩上到处都是一点点鸽子的干鸟屎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That son of a bitch lives around here," Owen announced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那个狗娘养的就主要附近。”欧文大声嚷道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He crossed Western, almost running over a chunky businessman who was hugging his briefcase as he scurried across the street.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他穿过西部，差点撞到一个矮矮胖胖的生意人，那个生意人正紧抱着公文包，急匆匆地跑过街道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They parked the car on an empty street with two rows of ochre-brick houses facing each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们把车停到一条空旷的街边，街边各有一排赭色砖砌的房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen adjusted his curl, adhering it to his dome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文整了整卷发，让卷发贴着脑袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was looking in the rearview mirror, his hump breathing on his back, his eyes shrunk because of the fuming cigarette in his mouth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对着后视镜看了看，背部驼起的地方正微微起伏，眼睛被嘴里叼着的香烟熏得眯了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The houses all looked the same, as if they were made in the same lousy factory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子看起来一摸一样，就像是同一家破工厂盖的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owen pointed at the house that had a FOR SALE sign, like a flag, in front of it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文指了指着车前面的房子，房子旗帜状标牌上写有“出售”字样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What I want you to do," he said, handing Pronek a grim envelope, "is to go to that door, ring the bell, and when he asks who it is, talk to him in your monkey language and give him this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想让你做的事，”他一边说，一边递给普罗涅克一个可怕的信封，“就是去那家，按门铃。当他问你是谁时，就用你们那鸟语跟他说，把这个给他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He takes it, you leave, I give you sixty bucks, we all happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他接了后，你就走。我给你60块，咱们皆大欢喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How's that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's fine," Pronek said and wiped his sweaty palms against his pants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好，”普罗涅克说，把满是汗水的手掌往裤子上擦了擦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He considered getting out of the car, passing the house, and running away--it would take him forty minutes to walk back to his place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他寻思着走出车，经过房子，然后快速离开——这要花40分钟才能走回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Piece of cake," Owen said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小菜一碟，”欧文说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Just do it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开干吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What is his name?" Pronek asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他叫什么？”普罗涅克问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's Branko something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“布兰科什么的吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here, you can read it," he pointed at the envelope.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这，你可以看看，”欧文指着那信封。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pronek read: "Brdjanin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普罗涅克念道：“布尔贾宁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It means the mountain man."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意思是高山上的人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whatever," Owen said and excavated a gun from under his armpit--two black, perpendicular, steely rectangles, the nozzle eye glancing at Pronek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“管他的，”欧文说着，从腋窝下两个黑色立着的钢制四方盒子里掏出一支枪，枪口斜对着普罗涅克。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200418T130106Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BELLEVUE, Wash., Oct. 29 /PRNewswire-FirstCall/ -- Expedia, Inc. (Nasdaq: EXPE - News) today announced financial results for its third quarter ended September 30, 2009.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia发布三季度财报 净利润增长</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Quarter in and quarter out, Expedia is consistently proving its leadership and multiple business models for travel are unsurpassed," said Barry Diller, Expedia, Inc.s Chairman and Senior Executive.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia的董事长Barry Diller说：“一个季度接一个季度，Expedia在不断地证明其领导地位和在旅游业多样化的商业模式是不可被超越的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Travelers are clearly responding to our improving value proposition, as we broaden our fee cuts and increase the depth and breadth of our global supply," said Dara Khosrowshahi, Expedia, Inc.s CEO and President. "While were pleased with our financial and operating results in the third quarter, we are busy planning for a 2010 that will prove every bit as competitive and challenging as 2009."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很明显，旅行者对我们不断提升的价值定位表现了积极的反应，我们扩大了服务收费削减的范围，增强了我们全球产品供应的广度和深度。” Expedia的CEO兼总裁Dara Khosrowshahi表示，“对于第三季度的财务和运营业绩，我们非常高兴。我们正在忙于制定2010年的计划，新的一年里竞争将会同样严峻和富有挑战性。“ </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Discussion of Results</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>财务业绩讨论</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gross Bookings, Revenue &amp;amp; Revenue Margins</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预订量、收入及毛利率</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gross bookings increased 9% (12% excluding the estimated negative impact from foreign exchange) for the third quarter of 2009 compared with the third quarter of 2008, driven primarily by 26% growth in transactions, partially offset by lower prices for airline tickets and hotel room nights. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预订量同比增长了9%（扣除外汇汇率的影响，增长为12%），主要是由于订单数增长了26%，部分抵消了机票和酒店较低的平均价格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestic bookings increased 8% and international bookings increased 11% (16% excluding foreign exchange).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内预订量增长了8%，国际预订量增长了11%（排除外汇影响，增长为16%）。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Revenue increased 2% (3% excluding foreign exchange) for the third quarter, primarily driven by an increase in hotel and car rental revenues, partially offset by a reduction in air revenues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收入同比增长了2%（扣除外汇汇率的影响，增长为3%），主要来自于酒店和租车收入的带动，部分抵消了机票收入的下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestic revenue decreased 2% while international revenue increased 10% (11% excluding foreign exchange). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内收入同比下降了2%，国际收入增长了10%（扣除外汇汇率的影响，增长为11%）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestic revenue growth trailed international growth primarily due to a greater impact from our various fee reductions and eliminations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内收入增长落后于国际业务，主要是由于对国内各项服务收费的削减或取消。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Revenue as a percentage of gross bookings ("revenue margin") was 14.4% for the third quarter, a decrease of 98 basis points compared to the third quarter of 2008. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毛利率方面，第三季度达到了 14.4%，同比下降了98个基准点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestic revenue margin decreased 149 basis points to 13.8% while international revenue margin decreased 7 basis points to 15.6%. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内业务下降了149个基准点，达到13.8%；国际业务下降了7个基准点，达到15.6%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The decrease in the worldwide and domestic revenue margins was primarily due to the impact of our fee actions, loyalty programs and a greater mix of lower margin hotels, partially offset by lower air ticket prices and a reduction in the mix of lower margin air product. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毛利率的下滑主要是由于服务收费的削减、客户忠诚度计划和销售低利润率的酒店产品、相对比较低的机票价格等因素所导致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Worldwide revenue margin was also impacted by lower margin bookings from an entity we began consolidating late in the second quarter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际业务毛利率的下降主要是由于在第二季度刚刚整合的一项收购的利润率较低有关。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Products &amp; Services Detail</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>产品与服务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Worldwide hotel revenue increased 3% for the third quarter primarily due to a 27% increase in room nights stayed, including rooms delivered as a component of packages and room nights booked through Venere (which we acquired in September of 2008), partially offset by a 19% decline in revenue per room night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球酒店收入同比增长了3%，其中间夜量增长了27%，包括打包度假和Venere销售的酒店产品（2008年9月收购），但是部分被每间夜的收入下滑了19%所抵消。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Revenue per room night declined largely due to a 14% decrease in average daily rates ("ADRs"), including a reduction in traveler fees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每间夜的收入下滑主要是由于每日平均房价下降了14%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Excluding room nights stayed through Venere, room nights grew 24% in the third quarter, compared with 20% in the second quarter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>扣除Venere所销售的间夜，第三季度间夜量同比增长了24%，第二季度同比增长了20%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Worldwide air revenue decreased 8% for the third quarter, primarily due to a 28% decrease in revenue per air ticket, partially offset by a 27% increase in ticket volumes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球机票收入同比下降了8%，主要是由于每张机票平均收入下降了28%，部分被机票销售量增长了27%所抵消。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia.com eliminated consumer booking fees on online air tickets beginning in March 2009, which primarily drove the decline in revenue per ticket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia.com自09年3月开始取消了在线机票预订费从而拉低了每张机票的平均收入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This elimination of Expedia.com and other points of sale fees, combined with lower average ticket prices, contributed to the lift in our air ticketing volumes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>取消预订费，再加上较低的平均机票价格，带动了机票预订量的上升。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Advertising and media revenue (including net revenue from our TripAdvisor Media Network) increased 5% for the third quarter, driven by a 24% increase in advertising revenue generated by our transaction sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告和媒体收入（包括来自于TripAdvisor的净收入）同比增长了5%，其中来自交易网站的广告收入增长了24%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Advertising and media revenue accounted for 10% of our worldwide revenues in the third quarter. Other revenue (primarily car rentals and destination services) increased 4% for the third quarter, and accounted for 13% of worldwide revenues for the quarter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告和媒体收入在第三季度占了全球总收入的10%，其他收入（主要是租车和目的地服务）同比增长了4%，占了全球总收入的13%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Profitability</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>盈利能力</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>OIBA for the third quarter increased 11% to $256 million and increased 239 basis points as a percentage of revenue to 30.1%, as selling &amp;amp; marketing expense and cost of revenue decreased compared to the increase in revenue, partially offset by growth in technology &amp;amp; content and general &amp;amp; administrative expenses in excess of revenue growth. Operating income increased 12%, driven primarily by the same factors impacting OIBA growth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三季度摊销前运营收入（OIBA）同比增长了11%，达到2.56亿美元，运营收入同比增长了12%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adjusted net income for the third quarter increased $27 million compared to the prior year period primarily due to higher OIBA and lower foreign exchange losses, partially offset by lower interest income. Net income increased $22 million compared to the prior year period primarily due to higher operating income and the same factors impacting adjusted net income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三季度调整后净利润同比增长了2700万美元，净利润同比增长了2200万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adjusted EPS increased 23% to $0.48 and diluted EPS increased 21% to $0.40.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调整后每股盈利（EPS）增长了23%，达到0.48美元，稀释后每股盈利增长了21%，达到0.40美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recent Highlights</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近期主要发展 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Global Presence</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球业务拓展</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gross bookings from Expedia, Inc.s international businesses were $2.12 billion in the third quarter, accounting for 36% of worldwide bookings, up from 35% in the prior year period. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三季度国际业务预订量达到了21.2亿美元，约占全球总预订量的36%，相比去年同期的35%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>International revenues were $331 million, representing 39% of worldwide revenue, up from 36% in the prior year period.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际业务收入增长了3.31亿美元，约占全球总收入的39%，相比去年同期的36%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia and hotels.com branded sites in the APAC region grew gross bookings by more than 60% in the third quarter, with hotel room nights stayed up over 100%.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia 和hotels.com品牌网站第三季度在亚太地区的预订量同比增长了超过60%，其中酒店间夜量增长超过了100%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia.it(TM) (Italy), Expedia.com.au(TM) (Australia) and Expedia.com.nz(TM) (New Zealand) removed air booking fees on flights, and nearly all Expedia sites worldwide have removed change and cancel fees on hotel bookings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia.it (意大利)、 Expedia.com.au (澳大利亚) 和 Expedia.com.nz (新西兰)都取消了机票预订费，几乎全球所有的Expedia网站都取消了酒店预订的变更和取消费用。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tripadvisor launched its 13th international website, tripadvisor.ca, offering Canadian travelers over 25 million global reviews and opinions of destinations, hotels, restaurants and other attractions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Tripadvisor发布了其第13个国际网站tripadvisor.ca 为加拿大旅行者提供2500多条对于酒店、目的地、餐厅和其他景点的全球性评论。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia.ca(TM), Canadas leading online travel website, has become the first online travel agency in Canada to offer reservations on VIA Rail Canada, Canadas national passenger rail service.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia.ca成为了加拿大第一家提供VIA Rail 预订的在线旅行社， VIA Rail 是加拿大国家的铁路服务运营商。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brand Portfolio</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>品牌拓展</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hotwire Group has reached $1.5 billion in gross bookings for the prior twelve month period for the first time in its history. Separately, the Groups Travel-Ticker.com(TM) website marked its one year anniversary, having facilitated the booking of over 400,000 resort and hotel room nights in its first year of operation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Hotwire在过去12个月内预订量有史以来首次突破了15亿美元，同时其所属的Travel-Ticker.com 也已经运营一周年，其一年的预订量超过了40万个间夜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Egencia(TM), the worlds fifth largest travel management company, has partnered with ExpenseWatch to enable client companies to more aggressively reduce out-of-policy travel spend and fraud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Egencia作为全球第五大商务旅行管理公司，与ExpenseWatch合作，使得企业客户更加积极地控制违反公司政策的旅行消费和欺诈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Egencia also introduced a series of new features, including its Egencia On The Go(TM) mobile portal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Egencia 同时推出了一系列新的功能， 其中包括Egencia On The Go手机网站。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia Affiliate Network (EAN) signed agreements to power hotel and package bookings for a number of new partners, including the UK newspaper The Guardian, the FIM Superbike World Championship, Italian web portal MediaShopping, Turkish tourism website www.istanbul.com, Dutch travel retailer D-Reizen, online review platform HolidayCheck, and Europes leading roadside rescue specialist, the AA.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia Affiliate Network (EAN)与几家新的合作伙伴签署了合作协议，为他们提供酒店和度假产品的预订功能，这几家合作伙伴是英国的《卫报》、FIM超级自行车挑战赛、意大利门户网站MediaShopping、土耳其官方旅游网站www.istanbul.com、德国旅游零售商D-Reizen、在线旅游评论网站HolidayCheck以及欧洲领先的道路救援专家AA。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia brands continue to earn global media recognition, with the UK-based Sunday Times Travel Magazine naming Expedia.co.uk as its "Favourite Travel Website." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia的品牌正在不断赢得全球媒体的认可，英国的Sunday Times旅游杂志将Expedia.co.uk评选为“最受欢迎的旅游网站”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, TripAdvisor and VirtualTourist were awarded TravelWeeklys 2009 "Magellan Award," honoring the best in travel and the professionals behind it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除此之外，TripAdvisor和VirtualTourist被获得了TravelWeekly的2009 年"Magellan Award"。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia reached an agreement to acquire Kuxun, a leading China-based metasearch player with approximately 6 million monthly unique visitors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia同时就收购中国垂直旅游网站酷讯达成了协议，酷讯拥有近600万名月独立访问者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kuxun will be managed as part of the TripAdvisor Media Network, and we expect the transaction to close in the fourth quarter 2009.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酷讯将会成为TripAdvisor Media Network的一部分，此次交易预期将于09年第四季度完成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Content and Innovation</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>内容和创新</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia.com collaborated with TripAdvisor to launch a "Drive Getaway" tool, offering travelers a selection of trips that can be made from their homes on a single tank of gas or less, based on top-rated destinations and attractions according to TripAdvisor members.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia.com与TripAdvisor合作发布了一个 "Drive Getaway" 的工具 为旅行者提供一些居住城市周边的精选行程，这些行程都是TripAdvisor用户首选的目的地和景点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>TripAdvisor introduced "Great Escapes Under $199," a tool allowing travelers to enter their point of origin and receive a list of up to 10 destinations based on the lowest priced flights available, as well as the most popular drive-to destinations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>TripAdvisor发布了名为 "Great Escapes Under $199" 的工具，该工具使得旅行者通过填写出发地，就可以收到最多10个目的地的列表，这些目的地是按照最低的机票价格选择，或者是自驾车目的地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia Media Solutions introduced StorePoint Expandables, a new multi-media ad product. The San Diego Convention and Visitors Bureau leveraged the product to increase room nights booked by as much as 45 percent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia 媒体业务推出了StorePoint Expandables的多媒体新产品 圣地亚哥会议和访问局通过使用该产品将预订间夜量增长了45%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia.com partnered with TripAdvisors SeatGuru to integrate qualitative user reviews of airplane seats into the seat maps for most flights offered on Expedia.com.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia.com利用TripAdvisor的SeatGuru，将关于飞机座位的用户评论整合到Expedia.com 所提供的航班座位图中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Supply Portfolio</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>产品供应</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At quarter-end, Expedia and hotels.com branded sites featured over 110,000 bookable properties, including 63,000 merchant properties and nearly 48,000 agency properties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第三季度末，Expedia和hotels.com品牌网站提供11万多家的酒店预订，其中包括63000家提供净价产品的酒店和将近48000家提供佣金模式的酒店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia sites offer nearly 50,000 hotels in the EMEA region and over 10,000 in APAC countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia所属网站提供欧洲、中东、非洲三个地区的将近5万家酒店和亚太地区的1万多家酒店的预订。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expedia signed a global partnership agreement with Prince Hotels &amp;amp; Resorts, the largest independent hotel chain in Japan, offering Princes hotels on Expedia and Hotels.com sites worldwide.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expedia 与日本最大的独立酒店连锁Prince Hotels &amp;amp; Resorts 签署了全球的合作协议，通过Expedia和Hotels.com的全球网站销售Prince Hotels &amp;amp; Resorts的产品。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lodging properties participating in Expedia.coms Summer Sale grew room nights 38% year-over-year from June through August 2009 compared to 15% room night growth for non-participating hotels.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参与Expedia.com的“夏季促销”的酒店间夜量从2009年6月到8月同比增长了38%，而没有参与这一促销的酒店预订量增长了15%。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

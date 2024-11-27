@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160823T030133Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Something Like Happy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些快乐的事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first time I saw Arthur McKechnie, he came into the bank with some checks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我第一次见到亚瑟麦凯尔彻妮时，他正拿着几张支票走进银行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had just started working there, fresh out of school and a bit nervous, I suppose, and I liked the way he behaved, all polite and quietly spoken, which was more than I could have said for some of the other customers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，我刚从学校毕业，开始在那里工作，难免有几分紧张，不过我想，我喜欢他的行事风格，对他有几分好感，他谈吐文雅，语气温和，我感觉他与别的客户完全不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the end of that first, almost wordless transaction, I had already decided he was someone I could like, but I had also noticed that he was a bit too different, one of those men who think too much about stuff that nobody else bothers with, or don't pay enough attention to other people to understand what they might do, when push comes to shove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他第一次来办理业务时，几乎一言未语，办完业务后，我便觉得他是我喜欢的那种人，但我也注意到，他有些过于与众不同，属于那种太在意别人都不在乎的事情的人，但是当面对突如其来的意外，在十分紧要的时刻，对那些别人都知道如何去应对事情他却显得心不在焉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he stood there with the pen in his hand, very obviously reading the badge pinned to my lapel, I found myself wanting to shake him out of the little dream he was in.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只见他站在那里，手里拿着钢笔，显然非常专注地端详着别在我衣领上的徽章，似乎在做梦，我不禁有一种将他从梦中唤醒的冲动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, I noticed the name the moment he handed over the paying-in slip. Arthur McKechnie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，在他轻轻地递过支票时，我注意到了他的名字：阿瑟麦凯尔彻妮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody knew the McKechnies, and most people knew they were a bad lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都知道麦凯尔彻妮兄弟，大多数人都知道他们坏蛋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew them mainly because my sister Marie was going out with the worst of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我之所以知道他们主要是因为我的姐姐玛丽在和其中最坏一个约会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People often told Marie that Stan McKechnie wasn't right for her, which was a mistake, because all that opposition only made her more determined to stick with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经常有人告诉玛丽说斯坦麦凯尔彻妮不适合她，但他们都错了，因为所有的反对意见都适得其反，只是令她更加坚定了要和他交往的决心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, Stan was good-looking, if you didn't study him too closely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不仔细看，斯坦长得还算帅气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not like this Arthur, who seemed put together from a kit, all angles and mess, with an odd cast to the eyes and a mouth that didn't look altogether finished, like the mouth in a kid's drawing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不像这个亚瑟，整个人似乎是由配套元件组合在一起的，满是棱角、邋里邋遢，一双形状古怪的眼睛，略微斜视，那张嘴巴像小孩子在画中画的一样，看上去还没有画成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know then that he was Stan's little brother. Marie had never mentioned an Arthur, though she talked about the McKechnie sisters all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我并不知道他是斯坦的弟弟，玛丽经常会谈起麦凯尔彻妮姐妹们，却从没说起有这么个亚瑟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都常会谈起麦凯尔彻妮姐妹们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some people thought the McKechnie girls were even worse than their brother, if only because they were nice-looking and dressed smart and, if you didn't know them from old, you didn't see what they were capable of until it was too late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人认为她们甚至比她们的弟弟还要糟糕，就算是她们脸蛋漂亮，穿着时髦，如果你认识她们时间不长，根本没法及时看出她们能做出什么事情来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With Stan, you knew what he was at first sight; it didn't matter how well he scrubbed up. There was a meanness in his face that you couldn't miss, unless you were Marie and wanted to miss it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于斯坦，不管他怎样精心打扮、衣冠楚楚，你第一眼见到他，也不难看出他脸上的卑劣相，除非你是玛丽，有意视而不见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Arthur handed over the money and the paying-in slip; then, when I had processed the transaction, he took the confirmation chit and, carefully, making no attempt to hide what he was doing, wrote down on the back what it said on my lapel badge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚瑟把钱和存款单递了过来，我为他办理好手续之后处理的事务，他接过确认单，丝毫也不加掩饰他在做什么，仔细地在背面写下我领章上面的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a slow writer. He held his pen in an awkward way, between the first two fingers of his left hand, and he angled his arm round to make the letters, printing them out large: "FIONA, TRAINEE." He didn't seem to care that I could see what he was doing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他写字很慢，握笔的姿势笨拙不雅，用左手的拇指和食指捏住钢笔，手臂弯曲，用大写字母一个字母一个字母地写着：”菲奥娜，见习生"，我可以看到他在做什么，可他似乎并不在乎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was done, he looked up and nodded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>写罢，他抬起头来，冲我点点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is there anything else I can help you with today?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在还有什么我可以为您帮忙的吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked, not sure whether I was amused or annoyed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我问，不知道是觉得好笑还是恼怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shook his head. His voice, when he talked, was soft. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他摇了摇头，轻声说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not today, thanks," he said, with an odd, even suggestive emphasis on "today." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在没有了，谢谢，”他说话时，特别把重音放到"现在"一词上，有几分古怪又像是想暗示什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiled then; it was a tight, secretive kind of smile, but it wasn't mean, and I could see that he didn't think there was anything out of the ordinary in what he had just done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笑了笑，那笑容很勉强，又很神秘，但并无恶意，我发现，他对刚才的行为并不觉得有什么不正常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wasn't being smart, or impolite. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他并没有出言不逊，或失礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd just written my name on the back of his confirmation slip, the way a child would, for reasons of his own that had nothing to do with anybody else.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刚才不过把我的名字写在他的确认单背面，那样子就像一个孩子，他那样做有他自己的道理，与旁人无关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to say something, but I couldn't find the right words. I just shook my head ever so slightly and looked out to the line for the next customer-and Arthur McKechnie turned to go, that inward little smile on his face, a smile that I could see even then was the sign not only of a secret happiness but also of his inevitable fall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想说点什么，但又不知道说什么好，微微摇摇头，望着排队等候的下一个客户。阿瑟麦凯尔彻妮转身要走时，脸上还挂着一丝浅浅的微笑，那笑容是发自内心的，我察觉到那笑容既流露出某种不为人知的愉悦，又有几分无奈的沮丧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not saying I knew what that fall would be, or claiming that I had some kind of premonition; God knows human beings are made for falling, and most human beings in that town were going to fall sooner rather than later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我并不是说我知道他因什么而沮丧，也不敢断言我有某种预感；只有上帝知道人类必会沮丧，在那个城镇里大多数人迟早将会沮丧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I did see something out of the ordinary, and I'm sorry now that I didn't take more notice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我的确实看到了某种不寻常的东西，但是我当时没太注意，现在（想起来）还感到有些遗憾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked Marie about Arthur when I got home that night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上我回家后，向玛丽打听有关阿瑟的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was preoccupied, getting ready to go out with Stan, so I thought she'd just shrug it off, but she stopped putting on her makeup and sat looking at my reflection in the mirror, her eyeliner suspended in midair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她忙着化妆，准备去和斯坦约会，所以我以为她会耸耸肩，对我的问题不屑理睬，但她停了下来，坐在那里，望着镜子里我的映像，手中的眼线膏悬在半空中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Arthur?" she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“亚瑟？”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where did you come across him, for God's sake?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看在上帝的份上，你在哪里遇到他的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He came into the bank today," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他今天到银行来了，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, yeah?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，是吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her hand dropped and she grimaced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她放下手，厌恶地皱起眉头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, don't be getting interested in him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，别理会他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stan says he's a nutter."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯坦说，他是个怪人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So who is he, then?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他究竟是什么人呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I said, picking up some clothes that were scattered around the place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我边说，边收拾四下散落的衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was always picking up after Marie, even now, when we didn't share a room anymore.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我总是跟在玛丽身后帮她收拾东西，即使是现在，我们已经不住在同一个房间了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's Stan's brother, of course," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他当然是斯坦的哥哥，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's really pissed Stan off, though." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不过，他真的很令斯坦反感。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I folded her powder-blue sweater and put it away in the chest of drawers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我叠好她的淡蓝色毛衣，放进衣柜里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why's that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么会这样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Something to do with money," she said. She watched as I gathered up a pile of obvious laundry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是因为钱的缘故，”她说道，看着我收拢起一大堆该洗的衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're not really interested, are you?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不是真的对他感兴趣了吧，嗯？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I snorted. "Of course not," I said. "I just don't remember you ever mentioning that Stan had a brother."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我轻蔑地哼了一声，说道，“当然不是，只是，我记得你从没提过斯坦有一个哥哥。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yeah, well." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A worried look crossed her face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她脸上泛起一丝愁云。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There's not much to talk about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没有什么好说的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hardly noticed him at first. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开始我几乎没有注意到他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's hardly ever there when I go round. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去时，他很少在那（很少见到他）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he is, he just sits in a corner, reading." The thought of it made her shiver. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便有时他在，也只是坐在一个角落里，看书。”想到这里，她不禁颤抖一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stan's old man says Arthur's not a real McKechnie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“斯坦的父亲说，亚瑟不是一个真正的麦凯尔彻妮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says Margaret must have got him from some tinker woman she met outside the off-license." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，玛格丽特在一家酒馆外遇到过一个流浪女，她一定是从流浪女那把他抱回来的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She started working on her makeup again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她又开始化妆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It might even be true, for all I know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“依我看，这也许是真的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, he's nothing like Stan."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是，他一点也不像斯坦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So why is Stan annoyed with him?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么，斯坦为什么讨厌他？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marie shook her head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玛丽摇摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Search me," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我怎么会知道，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Anyway, I've got to hurry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好了，随他去吧，我得赶紧走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm going to be late."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要迟到了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I studied her as she applied the finishing touches to her face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看着她往脸上上了最后一点妆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wasn't pretty, but she tried hard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她并不漂亮，但总是想方设法去打扮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had been working on the assembly line for three years, and though she would never have admitted it, she was jealous of me, having a good job at the bank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她一直在流水生产线上工作了三年，她嫉妒我，因为我有一份在银行的好工作，虽然她从不会承认。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For her, that meant I had a future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对她来说，这意味着我有一个美好的前途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, I couldn't tell her that a future didn't mean as much to me as she thought it did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，我不能告诉她，我并不像她想的那样过于看重什么前途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a good job, and everybody said I should be grateful; most girls from my background ended up with no prospects, just eight hours a day on the assembly line. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这的确是一份很不错的工作，人人都说我应该感到高兴才是；大多数和我出身一样的女孩都没有什么前途，只是每天在装配线上工作八小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People were always saying how lucky I was, as if I had won the lottery or something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们总说我又多么幸运，仿佛我中了彩票或交了诸如此类的华盖运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where are you going, anyway?" I asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你这是要到哪去啊？”我问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stood up and gave a little twirl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她站起身来，轻轻地旋转了一圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No idea," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不知道，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think Stan's got any money." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得斯坦不像有钱的样子。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Maybe he should ask Arthur for a loan." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许他应该去向亚瑟借钱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I smiled sweetly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我亲切地笑笑甜甜一笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ha-ha," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“呵呵，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Very funny."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“挺有趣的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marie had never thought much of me, or my taste, when it came to matters of the heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说句心里话，每逢遇到感情的事的时候，玛丽向来没有为我着想过，更别提在意我的感受或关心我的喜好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was probably fair to say that I was better-looking than her, and the teachers at school had always referred to me as the smart one, but it's no big secret that, with boys, giving out the right signals matters more than looks or brains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公平地说，我长得比她是好看，而且上学时，所有的老师们都说我聪明，可是交男朋友又不是什么大不了的秘密，向对方正确表达自己的意思，远比漂亮的脸蛋和聪明的大脑重要得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just before this, I'd been going out with a boy called Jack, but when it didn't work out I felt an odd relief, as if I'd been released from the need to maintain some minor but time-consuming pretense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这之前，我一直和一个叫杰克的男孩交往，我们分手后，我感到了解脱，那种感觉怪怪的，就像从某种不得不勉强费力维系的低级而旷日之久的虚伪矫造中解脱出来一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marie had always liked the idea of love; even at nine, she'd had a boyfriend, a kid called Tony Ross, who gave her cards at Christmas and on her birthday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玛丽一直喜欢恋爱，甚至在只有九时，她就交了一个男朋友，小男孩名叫托尼罗斯，他每逢圣诞节和玛丽生日时，都要送贺卡给她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All through her early teens, she had very obviously liked boys, and they had liked her, mostly because boys like to be liked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>才刚刚十来岁，她已经对男孩子产生明显的好感，而他们也很喜欢她，主要是因为男孩子们喜欢被人喜欢的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For Marie, intelligence in a boyfriend was the worst kind of liability, and the few boys I did bring home knew how to write their own names and do basic arithmetic, at the very least. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玛丽交的男友都是些无知、不学无术的家伙，而我带回家几个男生至少还知道如何写自己的名字，最起码还能做出几道最简单的算术题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which was more than anybody could say for Stan, and this was one of the reasons that my father got so angry with Marie a few days after I met Arthur, before he left for his shift at the works.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大凡认识斯坦的人没有几个说他的好话，而且就在不久前他离开了工厂，这也就是在我见到阿瑟几天后，我父亲对玛丽大动肝火的原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stan McKechnie will never amount to anything," he said, in his customary, quiet but final style. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“斯坦麦凯尔彻妮永远不会有出息，”他用自己一贯的语气，平静地说道，但是一锤定音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He can't keep a job, he doesn't know how to handle money, he wants something for nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他连份工作都保不住，不会挣钱，不懂精打细算、不会理财，老是想着天上掉馅饼的好事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someday he'll find out that the world doesn't owe him a living. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总有一天他会发现在这世上没他的活路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You steer clear of him, you hear?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你离他远点，听见了没有？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marie always seemed genuinely surprised that people thought so ill of Stan; after all, she would say, the McKechnies weren't the worst people on the estate, not by a long way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们对斯坦的印象这么不好，玛丽似乎总是感到十分惊讶不解，她常会说，麦凯尔彻妮家的人并不是世上最差劲的人，不管怎么说，还没有糟到那种地步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stan had been unlucky: his mum had died when he was at a vulnerable age, and his sisters had spoiled him rotten. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯坦一直不走运：他年龄很小时，他的妈妈就去世了，他的姐姐们把他给宠坏了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His dad was a bit of a rogue, everybody knew that, a rogue with a liking for the bottle, but Stan was doing the best he could, and he had big plans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都知道，他的父亲简直就是一个无赖，一个终日酗酒的无赖，但斯坦一直在努力，想出人头地，而且他有远大的理想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He just needed a break, that was all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只是需要休息一下，仅此而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, it was sad listening to her talk like that, and I'm not sure she even convinced herself much of the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，听她这样讲我感到挺可悲的，我不知道，在许多时候，即便她自己对那样的说辞是不是信以为真。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact was that after she had chosen Stan she couldn't have let go, even if she'd wanted to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实是，自打她选择了斯坦，她就不能自拔，纵然她想罢手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She didn't want to have to admit she had made a mistake; she couldn't be seen to give in to pressure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不愿承认自己犯了一个错误，面对压力她不能低头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even when the rumor about Bobby Curran started going around, she refused to believe that Stan was involved.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使有传闻说鲍比柯伦开始与人约会了，她仍拒不相信此事与斯坦有关。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

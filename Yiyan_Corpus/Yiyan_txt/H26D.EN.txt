@@ -1,0 +1,21 @@
+Digital platform company Akamai has released its latest State of the Internet Report. The report covers the last quarter of 2009.
+The single oddest statement in the report is Akamai's contention that "slightly more than 465 million unique IP addresses, from 234 countries, connected to the Akamai network - 4.7% more than in the third quarter of 2009, and 16% more than in the same quarter a year ago." 
+Given that most countries in the world recognize between 194 and 196 countries, it is difficult to understand how even the most liberal definition of country could result in Akamai's total.
+Here are a list of important and interesting trends that Akamai has identified in Q4.
+Attacks
+Akamai observed attack traffic originating from 198 unique countries around the world.
+Russia remained the top attack traffic source, accounting for 13% of observed attack traffic in total.
+The United States, China and Brazil took second and third and fourth place for a total of 20%.
+Akamai observed attack traffic targeted at more than 10,000 unique ports.
+Users
+Akamai observed a 4.7% increase (from the third quarter of 2009) globally in the number of unique IP addresses connecting to Akamai's network. 
+Ending 2009 at 465 million unique IPs.
+The metric grew 16% from the end of 2008, and nearly 54% from the end of 2007.
+The United States and China together contribute 40% of unique IP addresses in the world.
+The Scandinavian countries have the highest number of IPs per person. 
+In the U.S. it was New Jersey that took that honor.
+There are 32 countries with fewer than 1,000 unique IP addresses.
+South Korea retained its lead as having the most high broadband (over 5 Mbps) and the highest average speed (12 Mbps).
+Delaware also maintained the highest average connection speed in the United States, increasing to 7.6 Mbps.
+Over 40 of the mobile providers surveyed had average speeds of over 1 Mbps.
+Two out of three U.S. mobile providers lost speed for the second quarter in a row.

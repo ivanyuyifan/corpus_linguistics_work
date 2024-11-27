@@ -1,0 +1,1319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T045030Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ashes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灰烬</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm at work on Saturday when I get the call. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>星期六那天接到电话时我正在上班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carina, from the front counter, pages me over the intercom and when I finally get to the phone it's my older brother, Jano, telling me I might want to sit down because he has upsetting news.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡丽娜从前台用对讲机找到了我。等拿起电话，我才知道是哥哥哈诺打来的。他让我最好坐下来，因为有个不幸的消息要告诉我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell me," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你讲吧。”我说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you have a chair?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你坐好了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Just tell me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“赶紧说吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I have is a hollow feeling in my stomach the size of a coconut.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感觉胃里发虚，好像那里有了一个椰子般大小的洞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mama's gone," he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“咱妈去世了。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My heart seizes.  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的心紧缩成一团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Se?ora López found her today."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“洛佩斯太太今天发现的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Found her? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“发现？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where was Papi?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咱爸去哪儿了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you sitting down?" he asks again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你坐好了没有？”他又问了一遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stop asking me that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别总问这个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why can't you just answer my questions?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你就不能回答我的问题？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's a little bit complicated, O.K.?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这事儿有点复杂。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么个复杂法？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he won't answer that, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可这个问题他也不愿回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He just suggests we meet when I get off work because we have a lot of things to take care of.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只是建议我下班之后碰个面，因为我们还有很多事情要处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not supposed to use the phone during work hours, but I call Armando as soon as I hang up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽说在上班时间内我不应该用电话，可和哈诺讲完后，我还是马上给阿曼德拨了个电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hold the plastic beige contraption trembling next to my ear as I talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通话的时候，我用手攥着耳朵边上抖个不停的灰色电话线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tells me I should take off early, that my boss will understand because this is an extenuating circumstance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说我应该可以提前下班，我的老板会理解的，因为毕竟情有可原。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armando's never had to work anywhere like this, though, and he doesn't get the idea that I'm just a body doing a job, not somebody doing it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿曼德以前从没在这种环境里干过活儿，他不明白，我在老板眼里只是个干活的躯壳，而不是一个大活人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, I tell him I'll try. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，我还是告诉他我会尽量试试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He leaves me with "We can go out for dinner if you want. You don't have to cook."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最后跟我说“如果你愿意，咱们今晚就到外面吃饭好了，这样你不必做饭。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I end up staying at Casa de la Carne for my whole shift. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我最终还是留在了“肉之家”工厂把班上完。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Work helps keep my mind off everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>干活可以让我什么都不想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I'd left early, I would have been a blubbering thing sitting on the curb in the parking lot- the way I can be only in private, or sometimes, when he's being nice, with Armando. Never in front of my family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果提前走，我肯定会坐在停车场边的马路牙子上哭得一塌糊涂。这种事儿只有在我独自一人的时候才能做出来。或者要是赶上阿曼德那阵子对我好的话，我也可以当着他做出来但是我绝不在自己家里人面前这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know they think I'm more heartless than them for that, but I know the truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道他们因此觉得我的心肠比他们硬，可我自己心里清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know my depths.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道深浅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story is that she had a heart attack. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原来我妈是犯了心脏病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was cooking- like she was always cooking- and she simply fell over on the kitchen floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时她正在像平常一样做饭，然后突然就倒在了厨房地板上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Papi was sitting in a wooden chair at the kitchen table, probably smoking a cigarette while she worked, waiting to be served. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸那时坐在餐桌边的木椅子上，也许还抽着烟，看她做饭，等着吃现成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She fell right at his feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她正好就倒在他脚边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We think he tried to help her, tried to blow air into her mouth, pumping and puffing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们觉得他大概也试着去救过她，往她嘴里吹气，给她按压心脏什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jano says Papi picked up the phone but couldn't remember the number for emergency, and, after trying a jumble of numbers over and over again, he just gave up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈诺说我爸拿起了电话，可是想不起急救电话的号码了，胡乱地试了一次又一次之后，他干脆放弃了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why didn't he call one of us?" I say when I see Jano after work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我下班后见到哈诺时问他：“为什么他不给咱们俩随便哪个打电话呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jano shrugs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈诺耸耸肩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think he really knew what was happening."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得他根本就不明白当时到底是怎么回事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We both know Papi is sick, mentally gone, but we never talk about him in those terms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们俩都知道我爸有病，脑子已经完了。可是我们从没那么说起过他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We like to pretend he's just old.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们宁愿假装他只是老了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Sra. López got there this morning, she found Papi sitting in the wooden chair with the phone still in his hand, buzzing because it was off the hook. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天早上洛佩斯太太到那里的时候，她见到我爸手里还拿着电话，坐在木椅子上。电话因为摘了机，还在滴滴作响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She saw Mama at his feet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看见我妈倒在他的脚下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The oven was on, too," Jano says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“连炉子上的火都还没关掉。”哈诺说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There could have been a fire on top of everything else." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“本来已经够乱的了，还差点再来把火。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shakes his head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他边说边摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sra. López pried the phone from Papi's hands and called Jano. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洛佩斯太太把电话从我爸手里掰下来，然后给哈诺打了电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was earlier today.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是今天早些时候的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Papi's going to stay with me now," Jano says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“咱爸往后就跟我住吧。”哈诺说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think he can be alone."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得他一个人没法过。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He can stay with me," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他可以跟我住啊。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jano shakes his head. "Uh-uh."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈诺摇着头说：“不行不行。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why not?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么不行？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He'll like it at our house better."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他会更喜欢我们那里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My place is fine."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我那儿也挺好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?" Jano asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么？”哈诺问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You have a newfound interest in him?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你对他又重新感兴趣了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're at an ice-cream shop near my work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我们是在我单位附近的一个冰激淋店里坐着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cold air has turned Jano's lips slightly purple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷气把哈诺的嘴唇吹得有点发紫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides an employee in a pink apron, we're the only people here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>店里除了一个系着粉色围裙的店员之外，就只有我们俩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bright lights bounce off the white counters and smack me in the face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从白色柜台上反射过来的亮光，直直地砸到我的脸上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm quiet for a minute. Then I start on a reel of questions. How does he know it was a heart attack? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我静了一会儿，然后开始连珠炮似地发问：他怎么知道是心脏病？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are we going to do now? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们现在该怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's happening to the house? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那所房子怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is his wife, Zenia, O.K. with Papi being there? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我嫂子珍妮亚答应我爸住他们那儿吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What else did Papi say? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸还说了些什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why did Sra. López call him instead of me?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洛佩斯太太为什么给他打电话，而没给我打？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He answers every one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个问题他都回答了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's unusually patient with me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对我表现出格外的耐心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's waiting to see if I'll break, I know, if this will be the thing that puts me over the edge, brave-faced little Mireya.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道他在等着看我是不是会掉泪，看这件事会不会把我——外表坚强的小玛利亚——压垮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last time I saw her, my mother was sitting with me on her patio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上一次去见我妈的时候，我和她坐在门外的平台上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was in the metal rocking chair she'd had since before I was born, olive-green seat cushions and floral ironwork along the arms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她坐的那个金属摇椅，是在生我之前就有了的，铺着橄榄绿的坐垫，还有带花纹的铸铁扶手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had her legs stretched out in front of her, knee-high nylons rolled down around her crossed ankles like life preservers, terry house slippers on her feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把双腿伸在身子前面，膝盖高的尼龙袜向下卷到脚踝，活像两个救生圈，脚上套着毛绒拖鞋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looked relaxed as she lectured me on her favorite subject- politics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看上去很放松，滔滔不绝地跟我说着她最喜欢的话题——政治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was telling me how fortunate it was that she had named me Mireya, because the President of Panama was Mireya Moscoso. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她提起当初给我起名叫做玛利亚，是多么幸运的一件事，因为现在巴拿马的总统就叫玛利亚·摩斯科索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She must have said about ten times, "That could have been you," as if the only prerequisite for becoming the President was having the right name.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说了差不多有十遍“没准你也能成。”，好像当总统的唯一条件就是把名字取对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She hated that politics held no interest for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对政治的漠不关心让我妈非常痛心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The one thing my mother liked about Armando was his appetite for the political. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她唯一喜欢阿曼德的地方，就是他对政治十分关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just for that, of all the people in my family, she was his only fan.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就因为这个，她成为他在我家人中唯一的粉丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That day, there was an election parade in the neighborhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天在我家附近有一场竞选游行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin Torrijos was riding all over our section of town, shouting from the windows of his van and waving a Panamanian flag in a bid to become the next President. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁·托里霍斯的竞选车队在我们家那边的街道上经过。他从所坐的面包车窗口向外叫喊着，还挥着一面巴拿马国旗，想要成为下届总统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the reason we were outside on the patio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们就是因为这个才坐在外面的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother was waiting for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈一直在等着他过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We'd been talking for almost an hour when his big white van, followed by pickup trucks with speakers on the flatbeds blasting music, rumbled up our street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们聊了差不多一个小时，他的那辆白色大面包车才开过来，后面跟着一些小卡车，在敞开的车厢里架着高音喇叭，不停地播着音乐，把我们这条街吵得鸡犬不宁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother stood and smoothed out the front of her robe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈站起身，把衣服的前身理平整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was old enough that her spine had begun to bow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她已经老得开始有些驼背了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Torrijos stopped his van in front of our patio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托里霍斯让面包车在我们的平台前停下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He asked my mother how she and her sister, meaning me, were doing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他向我妈和她的妹妹（也就是我）问好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother shouted, "What will you do about the hospitals?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈喊道：“你要把医院怎么样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Torrijos smiled and waved.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托里霍斯微笑着挥挥手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And what about the canal?" she yelled into the sunlight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还有，运河怎么办？”她顶着阳光喊道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Torrijos tossed a T-shirt out the window to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托里霍斯从车窗里向她扔过一件T恤衫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"For you!" he shouted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“送给你！”他叫道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother let it land at her feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈任由它落在脚边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Pendejo!" she shouted, and the van continued up the street.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“蠢货！”她喊道。面包车继续往前开去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't everyone who would call a politician an idiot to his face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是所有人都有胆当着一个政客的面叫他白痴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I smiled until I thought my cheeks would burst. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我笑得简直合不上嘴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd always felt there was something special between my mother and me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直觉得我妈和我之间有某种特殊联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like she was somehow more mine than Jano's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好像她更属于我，而不属于哈诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But maybe all children feel that- a sovereignty of ownership over the parent they love best.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过也许所有的儿女都有类似的感受，他们对自己最爱的家长拥有主权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I get home that night, Armando sprints out to see me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上我回到家，阿曼德跑过来迎我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Pobrecita," he says. He's making a face like I'm a puppy with a broken leg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可怜的宝贝儿。”他说道，脸上的表情好像我是条断了腿的小狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have a poem for you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我要送给你首诗。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Another one?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“又是一首？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When was the last one?" he asks, leaning over the kitchen table, reaching for a book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“上一首是什么时候？”他问道，然后把身子探过餐桌，拿过一本书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He finds the page he wants and says, "It's by Cesar Vallejo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他找到想要找的那页，说：“这是凯撒·瓦拉霍写的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's one of the great writers. He wrote for the people."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是一位为人民而写作的著名作家。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sit down as he reads it to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我坐下来，他开始给我念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't understand poetry the way he does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对诗歌的理解不如他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Things either sound good to me or they don't. That's it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，它要么好听，要么不好听，就这么简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poem he reads tonight is short. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那晚他念的诗歌很短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's about the poet's brother, who died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是关于诗人去世的兄弟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My favorite line is "And now a shadow falls on the soul." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我最喜欢的一句是“现在阴霾覆盖了灵魂。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I feel the tears burn behind my eyes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得泪水就在眼眶里打转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's nice," I say when he's done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“挺好的。”他念完之后我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I quickly scoot my chair back and head for the shower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我迅速向后挪开椅子，进浴室洗澡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under the spray, the meat juices wash from my fingernails, from my pores. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喷头把肉汁从我的指甲下和毛孔中冲走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tilt my head back and let the water stream down my face until I can't tell anymore where the water ends and my tears begin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我向后仰起头，让水流滑下我的脸颊，直到我分不出哪些是热水，哪些是泪水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armando comes in after me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿曼德随后跟了进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knows this is my place to cry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道这里是我哭泣的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He peels off his clothes and steps into the stall and tries to hold me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他扒下衣服，走进淋浴抱住我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His dark, moppish hair sticks to the sides of his face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑色墩布般的头发粘在他的脸侧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His skin slips over mine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的皮肤贴到我身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He pushes me out of the water and examines my eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把我从喷头下推开，然后端详着我的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are the tears gone now?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“眼泪现在流完了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shrug.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我耸耸肩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell me, Mireya," he pleads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“告诉我，玛利亚。”他恳求道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the split second of something in his voice that, despite everything else, makes me love him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有其它种种不满，但那一瞬间他声音里的某种东西，使我仍然爱他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I think they're just starting," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得它们才刚刚开始。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He bends down and licks one cheek, then the other, gently, with the tip of his tongue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他俯下身，温柔的舌尖轻舔着我的脸颊。先是一侧，然后是另一侧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll get them," he says, and he does.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我来清理它们。”他说道。他也确实做到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father cleaned government buildings at night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸的工作是在夜里清扫政府的大楼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He came home in the early morning hours, high on ammonia and bleach, and made my mother prepare dinner for him in the dark. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他每天后半夜才回家，满身都是氨水和漂白水的味道，让我妈摸黑给他准备晚饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he worked overtime, she cooked dinner as the sun rose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时加班回来晚了，她得在日出的时候做晚饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many nights, the smell of spicy chicken or ropa vieja woke me and I knew that my father had just arrived. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有很多夜晚，我在辣子鸡或大杂烩的香味里醒来，明白我爸一定是刚回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the day, he should have been sleeping, but more often he was out in bars or with other women or smoking on our front step, ashes fluttering in the air like confetti. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白天的时候，他应该在家里补觉。可是他通常是去外面的酒吧，或找别的女人，要不就是坐在我家门前的台阶上抽烟，把烟灰扬得像是庆典上撒下的彩屑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother was never happy with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈跟他在一起的时候从来都不开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, she must have been at one time, but I'd never witnessed it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得，她以前肯定也曾经开心过，只不过我从来没见到而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd hear her, at night, through the thin walls, sobbing in her room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在夜里，透过薄薄的墙板，我曾听见她在自己房间里的哭泣声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew about everything my father did- I often heard them arguing about his carryings-on- but, for all her strength, she was never able to stop him and never able to walk away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她清楚我爸在外面做的一切——我常常听见他们为他的那些破事争吵——可是，尽管她那么坚强，却从来没能阻止得了他，也没能下狠心离开他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was one time when I thought she came close. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有一次我觉得她几乎做到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father had taken a job cleaning houses during the day and at some point he started returning home with hair dryers, mixing bowls, toaster ovens, picture frames. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我爸找了份白天打扫房间的活儿，后来他开始不断往家里带回东西，吹风机、和面盆、小烤箱、相框等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, we knew where these things were coming from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们当然都知道东西是从哪儿来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one said anything, though, until a police officer showed up at our house one afternoon asking questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是谁也没提起过一个字。直到有天下午一个警察上门来问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was easy enough to get rid of him- my father offered him a speaker system- but I'd never seen my mother so angry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>搞定警察很容易——我爸用一套扬声器就把他打发了——可是我却从没见我妈那么生气过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a whole week, she spoke to him only once, when she told him, "You shamed me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那之后整整一个星期，我妈只跟他说了一次话。她说的是：“你真让我抬不起头来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only time I even saw a moment of affection between them was much later, after Jano had married and I had moved out on my own. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我唯一一次见到他们俩之间温情脉脉的时候，是在这事儿过去很久之后。哈诺已经结婚，我自己也已搬出去住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father had retired, and they were living off his pension and the odd lottery payout. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸那时已经退休，他们就靠着他的退休金和偶尔中点彩票的收入度日。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother had asked me to get some melons at the stand near my house and bring them over. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈让我从住处附近的一个摊子上买些甜瓜带过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was very particular about which melons she deemed acceptable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她对甜瓜的要求非常严格，只认可某个特别的品种。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I got there, the front door was wide open and inside I saw them, sitting on our old peach-colored couch, my father at one end and my mother stretched out at the other, her feet propped on his lap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等我买好带到他们那里时，房门大敞着，我可以看见他们坐在屋里那个桃色的旧沙发上，我爸坐在一头，我妈躺在另一头，她的脚搁在他的膝盖上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was tickling the soles of her feet with his fingertips and she was flinching, but laughing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他用手指尖轻轻挠着她的脚心，她在笑着躲闪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he reached over and cupped her hair behind her ear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他伸过手去，把她的头发拢到耳后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She followed the movement of his hand with her head, like a horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的头配合着他手上的动作，就像一匹马儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was all. But there was real tenderness in it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然就这么简单，不过那里面满是柔情蜜意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armando is Argentinean, a different breed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿曼德来自阿根廷，完全是另外一种人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We met when I was on my way out of work one afternoon, heading for the bus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是在有天下午我下班之后，去车站的路上遇到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He must have been standing there for hours, surveying every so-and-so who walked by. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他当时一定已经在那儿站了好几个小时，不停打量过往的行人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not beautiful. I know that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不漂亮，这我知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm just this girl with my mother's squash-shaped body, and dense black hair and a mole on my right cheek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只是个普通女孩，从我妈那里继承下来一副扁平身材，头发又黑又密，右颊上还有一颗痣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I always thought it meant something that he seized on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是我一直觉得，那天他能主动找上我，说明我也还行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Came right up to me and said, "You look like you could use a decent meal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他径直走到我跟前，说：“你看上去需要好好吃上顿饭了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

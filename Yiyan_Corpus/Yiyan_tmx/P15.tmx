@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T051418Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Experience</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阅历</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When my marriage fell apart one summer, I had to get out of the little flat in Kentish Town, where I had been first happy and then sad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那年夏天我的婚姻破裂后，我不得不从肯迪什镇的那套小公寓里搬出去，在这套公寓里，我最先很开心，后来却变得很伤心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I arranged to live for a few months in another woman's house; she agreed to let me stay there rent-free, because she was going to America and wanted someone to keep an eye on things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我计划到另一个女人的房子里住几个月，她同意我住在她家，而且不收我房租，因为她要去美国，希望有人照看家中的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know Hana very well; she was a friend of a friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜只是我朋友的朋友，我不是很了解她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I found her intimidating- she was tall and big-boned and gushing, with a high forehead and a curvaceous strong jaw, a mass of chestnut-colored curls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得她有些令人生畏——身材高大，说话煽情，高高的前额，厚实但性感的下巴，还有浓密的栗色卷发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I liked the idea of having her three-story red brick London town house all to myself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，我喜欢一人享受她这栋在伦敦市区的三层红砖房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was generous when we met to sort out arrangements, telling me to make myself at home, entertain my friends, use her iMac and her Wi-Fi, help myself to anything I needed in the kitchen, and sleep in her bed. ("The bed's wonderfully comfortable," she said.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和她碰面安排事情时，她很慷慨大方，告诉我别客气，尽管在家里招待朋友，让我用她的iMac和Wi-Fi,厨房里的东西也让我尽管用，还让我睡她的床——她说：“那张床很舒服。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A woman would come in twice a week to clean, and I didn't have to pay for that, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个女工每周会来打扫两次，而且我也不用付钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We sat at the counter in Hana's kitchen, drinking coffee and eating baklava from a cardboard box- left over from a dinner party the night before, along with the remains of a salad, wilting in its dressing, glasses with dregs of red wine by the sink, the taint of cigarette smoke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和韩娜坐在她的厨房柜台前，喝着咖啡，吃着纸盒里的果仁蜜饼——前一天晚上晚宴剩下的，盘子里还剩着调好味的蔫沙拉，水槽里放着些还剩着红酒的杯子，还有些烟灰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hana had just showered, and her damp hair was twisted in a clip on top of her head; her heated skin gave off the strong smell of her perfume or her shower gel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜刚洗完澡，她把湿头发盘起来别在头上，温热的肌肤发出浓浓的香水味，或者是沐浴露香。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A crumb of baklava stuck to her mouth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她口里咬着一小块蜜饼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guessed that she was in her early forties: the flesh was puffy under her eyes and at the corners of her lips; she might have had work done on her nose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜测，她应该四十出头：眼下和唇角都有些鼓胀；她可能给鼻子整过容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was twenty-eight, and she made me feel inexperienced, although I had been married for six years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我才二十八岁，虽然已经结婚六年，但她却让我觉得自己阅历不够。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wore a bright-yellow kimono embroidered with a dragon, and a heavy ivory bangle on her wrist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她穿着鲜黄色的和服，和服上面绣着一条龙，她手上还戴着一只粗重的象牙手镯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know," she said guiltily, grimacing and twisting it on her arm when she thought I was staring at it. "I shouldn't wear it; it's a sin. But it's an antique. I tell myself that these elephants would be long dead anyway."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道，”她以为我在盯着手镯看，便做了个鬼脸，拧了拧手镯，内疚地说，“我不该戴的，真是罪过，不过这个是个古董，我告诉自己，反正这些大象很久前就死了的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were no curtains on the windows of that house, not even in the bedrooms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她房子的窗户上没有窗帘，卧室里面都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first, I found this unbearable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起初我觉得这无法忍受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I undressed for bed in the bathroom; I got into bed in the dark. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>睡觉前我跑到浴室里脱衣服，然后关了灯抹黑上床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But after a while I began to get used to it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可过了一久，我慢慢就习惯了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was how Hana lived her life- flamboyantly on display, careless of who might be watching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜就是这样生活的——夸张地展示自己，不管有没有人偷看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't flatter myself that anyone was watching me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是炫耀说有人会偷看我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or if they were watching, they thought I was something I was not, so it didn't matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者就算有人看，他们联想到的我，也不是真正的我，所以也就无所谓了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They thought I was the owner of that house, with its big, bare rooms and wood floors and rugs and few, distinctive items of furniture: a retro armchair in tubular steel and black leather, a long glass-topped dining table, two antique mirrors framed with gilded cupids bearing rose garlands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们觉我是房子的主人。这房子有许多空空的大房间，铺着木地板和地毯，还有几件特别的家具——一把钢管和黑色皮革制成的复古手扶椅、一张长长的玻璃面餐桌、两面古董镜子，镜框上有两个镀金的丘比特，手里拿着玫瑰花环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've never had that kind of money, or anything like it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来没有过买这些东西的钱，也没有过类似的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think Hana made her money by dealing in art- there were paintings on all the walls- though some of the phone calls that came for her seemed to be related to the film business.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有些打给韩娜的电话与电影圈有关，但我还是觉得韩娜靠艺术品挣钱——她家墙上全都挂着画。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I moved in with the few boxes of things I'd salvaged from my marriage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我带着从婚姻里拯救的几箱东西，搬了进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I'd really wanted was to walk out of the flat with nothing, shedding it all behind me as cleanly as a skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来是想两手空空离开那套公寓的，把一切都干干净净的抛到身后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The little collection of totems that I took with me everywhere- pebbles from a certain beach, a few framed photographs, my dead mother's empty perfume bottle- looked like rubbish when I spread them out in Hana's bedroom, so I hid them away again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我到任何地方都带着收集的图腾——某个海滩上捡到的卵石、几张加框的照片、我已经去世的母亲的空香水瓶。我把它们摆在韩娜的卧室里，可它们看起来像垃圾一样，我就又把它们收了藏起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I told myself that this house was a good place for me, temporarily: this nowhere where I was nobody. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉自己，这房子于我，暂时是个好地方：在这个无名之地，我谁也不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the woman came in to clean, I went out and walked around on Primrose Hill or went to a museum, if it was raining- it rained a lot that summer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女工进来到扫，我就出去到樱草山散步，或者要是下雨的话——那年夏天雨很多——就去博物馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My husband had given me some money in exchange for my share of the things we'd bought together (fridge, television, sofa, bed), and I was trying to make it last as long as possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于我和我丈夫共同买的那些东西，像冰箱、电视、沙发、床，他给了我一笔钱作为交换，我试着把笔钱花得尽量久一些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hana had told me to help myself to what was in the freezer, so I ate through the odds and ends of food she had in there, including things I'd never tasted before- veal saltimbocca, shrimp in teriyaki sauce, and jerk chicken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜告诉我尽管享用冰箱里的东西，所以我把她留下的东西都吃了个遍，包括之前没有尝过的——牛肉卷、日式浇汁虾、熏烤鸡肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the money runs out, I thought, I'll start looking for work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，等到这笔钱用完了，我就要开始找工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On rainy days, I wandered from room to room in that big house, cocooned by the rushing, persistent sound of the rain sluicing across the slate roof, overflowing in the gutters and downpipes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下雨天时，我在这栋大房子里，从一间房晃悠到另外一间。雨水从板岩屋顶冲刷下来，装满下水道和落水管，发出奔腾持久的声音，把我包围起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At midday, the light outside was blue, and the panes in the tall windows seemed liquefied; I switched on all the lamps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到中午时，外面的光线变成蓝色，高达窗户的窗框好像被熔化了一般，我便打开了屋里所有的灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I made myself coffee and carried it with me to the window, so that the steam from my mug misted the glass; the television flickered and capered, but I couldn't distract myself from the rain's urgency, as if it were something happening.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我给自己煮了咖啡，端着咖啡站到窗边，让杯里的热气把玻璃变模糊。电视机画面闪烁跳跃，我还是不能把注意力从急促的雨中移开，就好像有事情发生一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had thought that I would forget about Hana once she was out of the house, but, moving around inside the shapes of her life, I found myself more powerfully impressed by her than I had been when she was present. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来以为韩娜走了，我就会忘掉她，可是在她的生活模子里，我我对她的印象，比她在时还要有力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wardrobes full of her clothes stood in for her: velvet trousers and brocade jackets, an evening dress of pleated chiffon with a sequinned bodice- everything padded and sculpted, each outfit a performance in itself.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>衣橱里全是她的衣服，在那儿代替她——丝绒裤子、锦缎夹克、褶皱的薄绸晚礼服，上身装饰着亮片。这一切放在那儿，装饰那儿的衣服，各自有其作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were attic rooms at the top of the house and one of these was locked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼顶有几间阁楼，其中一间被锁着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hana had emptied out drawers and cupboards to make space for me, so I guessed that she had tidied everything personal away into this room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜给我腾地方，清空了抽屉和橱柜，所以我想她把全部私人物品搬到了那间房间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I came across the key accidentally, in a kitchen drawer beside some tea towels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在厨房抽屉里的抹布边上，我无意间发现了钥匙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those attic rooms had the original door fittings and this was a long iron key, like something in a novel or a pantomime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些阁楼房间的门，还装这原有的锁具。这把钥匙是一把长长的金属钥匙，像小说或者童话剧里的一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, I hardly registered seeing it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我并没有在意看到了这把钥匙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then it began to weigh on my mind, and one afternoon, when I had nothing better to do, I took it upstairs to try it in the lock. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可后来它在我脑中越来越重，然后一天中午，我没有什么事做，便拿起了它上楼，看看能不能打开那把锁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I feel ashamed of this now, needless to say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，现在想来是有些愧疚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think I felt that because I was nobody my slipping inside Hana's privacy wouldn't count as a real intrusion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时应该是觉得自己谁也不是，溜进韩娜的私人房间里算不上真正的侵犯她的隐私。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And she'd left the key lying around, hadn't she? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且是她把钥匙放在那儿的，对吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyway, I only meant to take a quick look.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反正我就只是打算很快看一看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The room was heaped surprisingly high with stuff, as if she'd been using it for storage for a long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间里的东西，堆得出奇的高，似乎她用这房间存储东西很久了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were the clothes and shoes and bags filled with accessories and old makeup that I'd expected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间里堆着衣服、鞋、包。包里装着装饰品，还有我期待的旧化妆品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were also paintings- speculations that hadn't paid off, perhaps?- propped, sometimes two or three deep, against the walls, their faces turned away as if in disgrace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间里还有画靠在墙上——或许是投机买过来的，还没有卖掉？有些两三幅堆在一起，画面朝墙，像见不得人似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two new mattresses were still in their polythene. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两张新床垫还装在袋子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Art objects- ceramics and ethnic souvenirs and bits of sculpted wood- were muddled on the floor with a food processor and china dinner plates, a steam cleaner, and a broken chandelier with tangled crystals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间地板上，混乱摆着一些艺术品——陶器、民族纪念品、几件木雕——以及一个食品加工机、陶瓷餐盘、蒸汽清洁机，还有一个杂乱挂着水晶的枝形吊灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suitcases were piled on top of hi-fi speakers and an old computer; a black wetsuit was flung dramatically in a corner over surfboards and camping gear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几台高清音响和一台旧电脑上，堆着一些行李箱。角落的冲浪板和露营装备上面，扔着一间黑色的潜水服，十分显眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were boxes filled with DVDs and those big glossy books- biographies and cookbooks- that people give as presents and no one reads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几口箱子里，装着许多光碟和宽大发亮的书，是一些自传和食谱，这些书人们当作礼物送人，却从来没有人读过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stepped inside the room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走进了房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The air was thick with the heat that had collected under the roof and loud with the noise of the rain running down the far side of the sloping ceiling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房顶下聚集起热量，雨水在倾斜屋顶流动至屋檐，发出嘈杂的声音，房间的空气里显得有些浓稠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was like stepping into a cave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我好像走进了一个山洞一般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt as if I'd found my way into the inner workings of the house, or of Hana.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得，进入这栋房子内部或者韩娜内心的道路，已经被我找到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boxes and plastic bags were crammed with papers: letters and postcards and notebooks, photographs, nothing in any kind of order- yellowing letters stuffed in with recent bank statements. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>箱子和塑料袋里，塞满了纸——信件、明信片、笔记本、照片。全都乱堆在一起。发黄的纸张中间，夹着些银行账单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just poked around at first; I wasn't really reading anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我刚开始只是随便看看，并没有真正读什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were a lot of business papers, anyway, which didn't mean much to me, though the sums of money were startling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间里还有很多商务文件，文件上面的金额尽管大得惊人，但对我来说也没有什么意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even without touching the DVDs I could see that they were porn and the kind of hard-core horror films I couldn't watch: she had left the art films and rom-coms downstairs for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些光碟，我还没有碰就能看见是色情和露骨的恐怖电影。她不能给我看，楼下她给我留下的，都是艺术片和浪漫喜剧片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I picked up a heart-shaped box covered in padded red satin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我拾起一个心形的盒子，上面盖着红色的缎子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inside, nestled under a wad of black tissue, were scraps of scarlet lace underwear, furry handcuffs, fishnets, and a vibrator, as bald and blatant as a medical appliance: I put the lid back on hastily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>盒子里一叠黑色薄纱上，放着几小件鲜红的蕾丝内衣、毛皮手铐、几件网状衣服、一个振动器，想医用器械一般，十分显眼，没有丝毫遮掩。我慌忙把盖子合上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this stuff was ordinary, wasn't it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是这些东西都很平常，不是吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody did it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都用过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was the matter with me that I didn't take it for granted, that my heart beat stickily, as if the little sex kit had somehow made a fool of me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有觉得这些东西很正常，心跳让人发慌，就好像这一小套性爱用品让我出尽洋相一样，我这是怎么了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kneeling on the bare boards, I started reading my way through the contents of a plastic bag.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跪在地板上，开始从头到位阅读一个塑料袋里的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the expensive leather-bound notebooks was a kind of diary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些皮面的本子里，有一本像是日记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It began and broke off abruptly, without dates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>内容忽断忽续，而且没有日期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hana had become involved with a man named Julian. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜与一个叫朱利安的男子有些瓜葛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wrote about him in a big, looping hand that filled up two ruled lines at a time, dotting her "i"s with circles, using a lot of asterisks and private code words and exclamation marks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用大大的圆体字迹写关于朱利安的事，大大的字填满了上下线间的空白，用圆圈标记了指她自己的“我”字，还画了很多星号，用了很多个人才能懂的字，以及许多感叹号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything was "amazing" or "terrible." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有的事情，不是“很好”，就是“很糟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I knew this was going to happen," she wrote, "from the first moment he walked into the party that night." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她写道：“那晚他走进晚会那一刻，我就知道会这样。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Julian told her that he couldn't get enough of her, that he was desperate for her, that he wanted her all over again as soon as he'd had her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朱利安告诉她，他爱不够她，疯狂地想要她，爱爱完后马上还想再要她一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were at some dinner where they had to pretend not to know each other, ended up having sex in the bathroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们一起参加过几次宴会，都装着不认识对方，最后却到洗手间去做爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A line of dots, and then more exclamation marks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本子上接着是一行点号，以及更多感叹号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He hurts me and frightens me, but it's the best s*x ever." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他弄痛了我，吓坏了我，但却给我最享受的*爱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Along with the sex, there was some lengthy analysis of Julian's personality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与这次性爱写在一起的，还有一长篇文字分析朱利安个性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two of them were very alike, Hana thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜觉得，她和朱利安很像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They "both had this ambition burning them up" and "a lot of imagination"; also they "needed to be free." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们“都干柴烈火的劲头”和“无尽想象”，都“需要自由”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But a few pages on she was "starting to see through him"- how moody he was, how he always had to be the center of attention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，有那么几页里，她“开始看透了他”——他如何喜怒无常，如何自以为是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Of course it's terrible about the children," she wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谈到孩子，肯定就心烦得不行。”她写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They'd had a blissful weekend away together and swum naked in the sea, f***d in the shower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在一起度过了一个幸福的周末，裸着身子在海里游泳，淋浴时还做了爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Now he's gone back to S and I feel like shit." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他现在回S那儿去了，真烦人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hana made scenes, crawled to him on her knees, begged him to stay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩娜大吵大闹，跪爬在地上拉着他，求他留下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"J came round at three in the morning and I let him in, couldn't help myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“J凌晨三点过来，我让他进来了，真的不能自已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then X and you know what. Crazy with love all over again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有X，你晓得不，我和她又疯狂爱了一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He makes me so happy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他让我很开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the last words in the notebook.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这些是笔记本里她写下的最后一些文字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've never lived, I thought, as I knelt there, reading with my legs cramped underneath me, aware of the rain as if it were drumming on my skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跪在那儿，双腿疼痛地曲在身下读东西，雨滴似乎击打在我皮肤上，让我知道正在下雨。这个时候我想，我从来没有拥有过生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've never lived: the words ran in my head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有拥有生活——这些字在我脑中萦绕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Life was garish and ruthless and exaggerated, and I'd never really had it- I was like one of those child brides in history whose marriage was annulled by the Pope because it wasn't consummated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活光彩夺目，冷酷无情，夸张虚假，而我从来没有拥有过生活——我就像历史上的童养媳，因为没有行房完婚，婚姻就被教皇宣布无效了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, mine had been consummated in the ordinary sense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，从一般意义上说，我已经完婚了的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But even when my husband told me that he wanted us to separate, even when he told me that he wasn't in love with me anymore, and that he'd better keep the flat because I wouldn't be able to afford the rent by myself, I hadn't ranted or thrown pans at him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，我丈夫说想我们分手时，说他已经爱上别人时，说我付不起房租，最好是他留着公寓时，我也没有大吵大闹，没有扔平底锅砸他。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

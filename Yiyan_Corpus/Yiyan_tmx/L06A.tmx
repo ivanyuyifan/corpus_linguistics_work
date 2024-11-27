@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160905T050029Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An Inhabitant of Carcosa</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡尔克萨的居民</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For there be divers sorts of death- some wherein the body remaineth; and in some it vanisheth quite away with the spirit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>死亡的形式多种多样。有的人死后尸体保存下来，而有的人灵魂出窍之后，肉体也随之腐朽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This commonly occurreth only in solitude (such is God's will) and, none seeing the end, we say the man is lost, or gone on a long journey- which indeed he hath; but sometimes it hath happened in sight of many, as abundant testimony showeth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照上帝的旨意，人总要独自面对死亡，生者无法知悉死后的情形。我们说，某个人走了，或者，出门远行了——也许的确是这样的。然而很多人声称自己曾目睹过死后的世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one kind of death the spirit also dieth, and this it hath been known to do while yet the body was in vigor for many years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时人的灵魂已经消失，而肉体却能保持多年的活力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes, as is veritably attested, it dieth with the body, but after a season is raised up again in that place where the body did decay.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有充分的证据表明：有时候，人的灵魂随着肉体一起消亡，一段时间过后，又会回到自己的骸骨旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pondering these words of Hali (whom God rest) and questioning their full meaning, as one who, having an intimation, yet doubts if there be not something behind, other than that which he has discerned, I noted not whither I had strayed until a sudden chill wind striking my face revived in me a sense of my surroundings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我苦苦思索哈利（愿他的灵魂安息）的这段话语，试图找出每个字的确切含义。在它的暗示之下，我不由地疑惑起来，似乎有什么肉眼看不见的东西就在我的身后出没。就这样我迷失了方向，不知走到何方。直到一阵冰冷的风吹上脸庞，我才回过神来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I observed with astonishment that everything seemed unfamiliar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然间，我惊讶地发现，周围的一切都变得异常陌生：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On every side of me stretched a bleak and desolate expanse of plain, covered with a tall overgrowth of sere grass, which rustled and whistled in the autumn wind with heaven knows what mysterious and disquieting suggestion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我站在一片宽阔而荒凉的平原上，大地在我的脚下延伸，上面覆满高大浓密的枯草。秋风中草叶摇摆，发出悉悉沙沙的声响，似乎在传递着某种神秘而令人不安的暗示，唯有上天才能知晓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Protruded at long intervals above it, stood strangely shaped and somber-colored rocks, which seemed to have an understanding with one another and to exchange looks of uncomfortable significance, as if they had reared their heads to watch the issue of some foreseen event. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>草丛中兀立着一些奇形怪状的灰黑色岩石，它们之间都隔开一段特定的距离。这些岩石似乎觉察到什么，神情不安地交换着眼色，抬起头等待它们预料之中的事情发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few blasted trees here and there appeared as leaders in this malevolent conspiracy of silent expectation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四周一片沉寂。在这悄无声息的等待中，几株凋零树木的身影，稀稀拉拉，出现在平原上，仿佛预示着一个邪恶的阴谋即将来临。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The day, I thought, must be far advanced, though the sun was invisible; and although sensible that the air was raw and chill my consciousness of that fact was rather mental than physical- I had no feeling of discomfort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳还没出来，但我想，离日出已经不远了。我发觉空气阴冷冰寒，可这种感觉并非来自感官，而是来自意识——因为我感觉不到丝毫的寒意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over all the dismal landscape a canopy of low, lead-colored clouds hung like a visible curse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>低垂的乌云笼罩了整个灰暗的平原，犹如一道有形的咒语悬于苍穹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In all this there were a menace and a portent- a hint of evil, an intimation of doom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都是一种威胁，一种凶兆、邪恶的暗示，厄运降临的前奏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bird, beast, or insect there was none. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个地方没有鸟，没有野兽，甚至连昆虫也见不到一只。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wind sighed in the bare branches of the dead trees and the gray grass bent to whisper its dread secret to the earth; but no other sound nor motion broke the awful repose of that dismal place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唯有风，叹息着从死树的枯枝中穿过；灰黄的枯草弯腰垂向大地，低声说起它们心中骇人的秘密。除此之外，在这个阴森的地方，再没任何声音、任何活动的物体可以打破这死一般的沉寂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I observed in the herbage a number of weather-worn stones, evidently shaped with tools. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我发觉草丛中有一些风雨剥蚀的石碑，上面带有明显的刀刻斧凿的痕迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were broken, covered with moss and half sunken in the earth. Some lay prostrate, some leaned at various angles, none was vertical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些石碑多已破碎，上面覆满了青苔，半掩在土中，有的已匍匐在地，还有的东倒西歪，呈现各式各样的姿态，但没有一块是竖立的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were obviously headstones of graves, though the graves themselves no longer existed as either mounds or depressions; the years had leveled all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问，这是些墓碑，可它们的坟墓早已荡然无存。无论是隆起的坟丘，还是凹陷的墓穴，岁月已将它们夷平，或掩于土下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scattered here and there, more massive blocks showed where some pompous tomb or ambitious monument had once flung its feeble defiance at oblivion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>草丛中还有一些更大的石块，三三两两，散落四处，看得出它们都来自华丽的寝陵或高大的纪念碑。也许它们曾经拥有傲然挺拔、荣耀不凡的日子，可在风雨侵蚀的岁月里，最终无法逃脱湮灭的命运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So old seemed these relics, these vestiges of vanity and memorials of affection and piety, so battered and worn and stained- so neglected, deserted, forgotten the place, that I could not help thinking myself the discoverer of the burial- ground of a prehistoric race of men whose very name was long extinct.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这片废墟看上去非常古老，既显现出虚荣和奢华的痕迹，又拥有爱与虔诚的记忆。这是一个被人遗忘的地方，残破、荒芜，饱经风霜，我不禁觉得自己发现了一处史前人类的墓群，而这个民族的名字，早已消失在历史的长河之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filled with these reflections, I was for some time heedless of the sequence of my own experiences, but soon I thought, "How came I hither?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>久久地我沉浸在各种遐想之中，对身边发生的事情并没有多加留意。但很快我就想到这样一个问题：“我怎么会来到这儿来呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A moment's reflection seemed to make this all clear and explain at the same time, though in a disquieting way, the singular character with which my fancy had invested all that I saw or heard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我思索了一阵子，似乎有点明白了，也找到了一个合理的解释，尽管这个解释令人不安——我病了，一切所见所闻都源于我离奇的想象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was ill. I remembered now that I had been prostrated by a sudden fever, and that my family had told me that in my periods of delirium I had constantly cried out for liberty and air, and had been held in bed to prevent my escape out-of-doors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时候我好像记起来了：我突发高烧，卧床不起。家人告诉我，在我神志不清的时候，我不停地吵嚷着要到外面去，自由自在地呼吸一下新鲜空气。他们为了防止我逃跑，把我控制在床上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I had eluded the vigilance of my attendants and had wandered hither to- to where? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在看来我已经逃脱了家人的看护、跑出来了，不知不觉独自游荡到这个地方。但这是什么地方呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could not conjecture. Clearly I was at a considerable distance from the city where I dwelt- the ancient and famous city of Carcosa.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我怎么也推测不出来了，不过有一点非常明确：这个地方，离我居住的那座城市——著名的古城卡尔克萨非常遥远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No signs of human life were anywhere visible nor audible; no rising smoke, no watch-dog's bark, no lowing of cattle, no shouts of children at play- nothing but that dismal burial-place, with its air of mystery and dread, due to my own disordered brain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看不到人类生活的迹象，也听不到人类活动的声音。没有炊烟升起，没有看门狗的吠叫和耕牛的低哞，也没有孩童嬉戏时的呼喊，只有一片阴森森的墓地。空气中弥漫着神秘而恐怖的气氛。是我头脑昏昏沉沉吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was I not becoming again delirious, there beyond human aid? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是不是又神志不清了？没人能帮到我了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was it not indeed ALL an illusion of my madness? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一切真的是我癫狂时的幻觉吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I called aloud the names of my wives and sons, reached out my hands in search of theirs, even as I walked among the crumbling stones and in the withered grass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我大声呼喊着妻子们和孩子们的名字，伸出双手去摸索他们的手，就像在乱石堆和枯草丛中行走那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A noise behind me caused me to turn about. A wild animal- a lynx- was approaching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我听到身后有什么动静，于是转过身——一只野兽——确切地说，是一只猞猁，正在悄悄地向我靠近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The thought came to me: If I break down here in the desert- if the fever return and I fail, this beast will be at my throat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我脑子里闪过一个念头：如果我倒在这个荒凉的地方，如果我又发高烧站不起来，这个畜生一定会扑过来咬住我的喉咙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sprang toward it, shouting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我一边大叫着，一边向它冲过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It trotted tranquilly by within a hand's breadth of me and disappeared behind a rock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在离我不到一个手掌的距离，它平静地迈步小跑起来，消失在岩石的背面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A moment later a man's head appeared to rise out of the ground a short distance away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，不远处的地平面上，慢慢升起一个人的脑袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was ascending the farther slope of a low hill whose crest was hardly to be distinguished from the general level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一名男子，正从山坡的另一边爬上来。山坡很缓，从地面看去，几乎分辨不出坡顶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His whole figure soon came into view against the background of gray cloud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快，他整个身子都出来了，身后映衬着的是一片阴沉沉的乌云。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was half naked, half clad in skins. His hair was unkempt, his beard long and ragged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他半身赤裸，半身裹着兽皮，头发乱蓬蓬的，胡须很长，邋里邋遢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one hand he carried a bow and arrow; the other held a blazing torch with a long trail of black smoke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一只手拿着弓箭，另一只手擎着一束燃烧的火把，所到之处拖着一道长长的黑烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He walked slowly and with caution, as if he feared falling into some open grave concealed by the tall grass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个人走得很慢、很小心，似乎生怕掉进被杂草掩盖的墓穴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This strange apparition surprised but did not alarm, and taking such a course as to intercept him I met him almost face to face, accosting him with the familiar salutation, "God keep you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个怪人的出现让我感到吃惊，但并没有惊慌失措。我迎着他走过去，想拦住他。走到几乎面对面的时候，我开始用最平常的问候语跟他搭话：“愿上帝保佑你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gave no heed, nor did he arrest his pace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有理睬，更没有停下脚步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good stranger," I continued, "I am ill and lost. Direct me, I beseech you, to Carcosa."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好心的陌生人，”我说，“我生病了，又迷了路，我恳求你告诉我去卡尔克萨的路。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man broke into a barbarous chant in an unknown tongue, passing on and away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他忽然用我听不懂的语言唱起歌来，曲调非常原始。他边走边唱，很快就走远了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An owl on the branch of a decayed tree hooted dismally and was answered by another in the distance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一只猫头鹰站在枯树枝上悲哀地鸣叫起来。远处传来它同伴的应答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Looking upward, I saw through a sudden rift in the clouds Aldebaran and the Hyades! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我抬起头，就在此刻，云层突然闪现出一道缝隙，我看到毕宿星团的毕宿五星座！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In all this there was a hint of night- the lynx, the man with the torch, the owl. Yet I saw- I saw even the stars in absence of the darkness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一切似乎都是一种暗示，来自黑夜的暗示——猞猁、持火把的人、猫头鹰，然而我看见了，在黑暗没有完全笼罩的地方，我甚至能看见星星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw, but was apparently not seen nor heard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我能看得见，但显然没有人能看见我，也没有人能听到我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under what awful spell did I exist?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道我真的掉进一个可怕的咒语当中了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I seated myself at the root of a great tree, seriously to consider what it were best to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一株大树的树根上，我坐了下来，认真思考下一步的打算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That I was mad I could no longer doubt, yet recognized a ground of doubt in the conviction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我确实是疯了，这一点毋庸置疑了，但是我必须找到一个有说服力的理由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of fever I had no trace. I had, withal, a sense of exhilaration and vigor altogether unknown to me- a feeling of mental and physical exaltation. My senses seemed all alert; I could feel the air as a ponderous substance; I could hear the silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是发烧了吗？没有这个迹象，因为我的体内散发出前所未有的愉悦和振奋，无论精神还是肉体都充满活力，感官也变得敏锐起来；我甚至能够感觉到空气变得滞重而缓慢，还能听见寂静的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A great root of the giant tree against whose trunk I leaned as I sat held inclosed in its grasp a slab of stone, a part of which protruded into a recess formed by another root. The stone was thus partly protected from the weather, though greatly decomposed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我背靠着大树的树干，我所坐的大树根紧紧盘住了一块石板。石板的一部分显露在外，其余部分被另一条树根遮住了，虽然严重剥蚀，但受到树根遮护的部分在风雨中保存下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its edges were worn round, its corners eaten away, its surface deeply furrowed and scaled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>石板边缘被磨得圆滑，棱角也销蚀殆尽，表层出现深深的沟褶和剥落的碎片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Glittering particles of mica were visible in the earth about it- vestiges of its decomposition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在石板的周围可以看到许多闪闪发光的云母颗粒，这是严重风蚀的痕迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This stone had apparently marked the grave out of which the tree had sprung ages ago. The tree's exacting roots had robbed the grave and made the stone a prisoner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，这是一块墓碑。一株树木从它的坟墓中成长起来，在漫长的岁月里，无孔不入的树根盘剥了墓穴的空间，墓碑也逐渐沦为它的囚徒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sudden wind pushed some dry leaves and twigs from the uppermost face of the stone; I saw the low-relief letters of an inscription and bent to read it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵突如其来的风吹走了石碑表面的残枝败叶。石碑上露出浅雕的文字，于是我俯身去看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God in Heaven! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上帝啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MY name in full!- the date of MY birth!- the date of MY death!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上面刻的是我的名字，我的全名！还有我的生日、我的死亡日期！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A level shaft of light illuminated the whole side of the tree as I sprang to my feet in terror. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我惊恐地跳了起来。就在此刻，一束水平的光线照射过来，把大树的整个半面照得通亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sun was rising in the rosy east. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳升起来了，玫瑰色的晨曦渐渐染红了东方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stood between the tree and his broad red disk- no shadow darkened the trunk!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我站在树和一轮硕大的红日之间，树干上却没有投下我的影子！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A chorus of howling wolves saluted the dawn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狼群开始齐声嗥叫，迎接黎明的到来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw them sitting on their haunches, singly and in groups, on the summits of irregular mounds and tumuli filling a half of my desert prospect and extending to the horizon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看到它们蹲坐在大大小小的土丘之上，有的三五成群，有的形单影只。此起彼伏的荒丘和坟冢占据了我另一半视野，一直向远方的地平线延伸开去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then I knew that these were ruins of the ancient and famous city of Carcosa.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时，我终于明白了，这里就是著名古城卡尔克萨的遗址。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such are the facts imparted to the medium Bayrolles by the spirit Hoseib Alar Robardin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以上是已故者霍桑伯-艾拉-罗伯丁的灵魂向通灵人巴尔罗斯讲述的一段真实经历。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

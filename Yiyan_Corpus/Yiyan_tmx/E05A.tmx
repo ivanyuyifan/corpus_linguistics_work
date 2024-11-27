@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T152733Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>DIY Custom Makeup Palette </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DIY彩妆盒	</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are two reasons you need to make a custom makeup palette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你需要制作一个日常彩妆盒的原因有二。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One, you've got a dozen eyeshadow compacts and a handful of brushes and can never find the ones you need when you need them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一，你已经有了一打眼影，还有一手化妆刷，而且在你需要它们的时候却永远找不到它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You likely got some of these from your mom, for free with your latest makeup counter purchase, or for a specific event. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们中的一些可能是你从你妈妈那里得来，或者是你最近从化妆柜台购物时的赠品，亦或是一个特定的事件中拿到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or two, you're a masterful makeup maven and need access to the whole color wheel every time you get your face on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二可能是，你是一位技艺高超的化妆行家，而你每次都需要将所有的颜色应用到你的脸上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Either way, this easy how-to is about to make your life way easier and possibly more beautiful. ;)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论哪种情况，这个简单的如何做就是关于使得你的生活方式更简便和变得更美丽。:)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Materials:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>材料：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- eyeshadow</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 眼影</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- blush</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 腮红</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- brushes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 化妆刷</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- heavy duty glue</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 强力胶水</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- tea light</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 蜡烛</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- pliers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 钳子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- screwdriver</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 螺丝刀</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- something to poke with - a metal kebab stick would work</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 一些用来戳洞的东西——一个金属烤肉串棒子会有用的</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- a case: look around your house for a thin metal or plastic box or stop by the drugstore and pick something up-we used an old pencil case</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>-一个盒子：环顾你的房子，找找一薄金属制或塑料制的盒子，又或者停在药房前时拣点东西——我们使用的是一个旧铅笔盒子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- lace or ribbon for tying brushes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 用于绑化妆刷的链子或花边</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>- something rubbery for keeping brushes in place- we used an old yoga mat scrap but another great material for this would be a rectangular eraser cut in half </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>- 一些固定化妆刷位置的有弹性的东西——我们使用的是一块瑜伽垫料子，除此之外另一个很棒的选择则是一块易于切成两半的长方形橡皮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, get all your materials ready. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，准备好你所有的材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had a handful of eyeshadows, powder and blush.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有一些眼影、粉饼盒腮红。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now the tricky part (but it's actually really easy!): use a screwdriver to pop the plastic shadow container out of the compact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在棘手的部分（但是这事实上真的简单！）：使用一把螺丝刀把塑料眼影容器从眼影盘中扣出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not all makeup compacts use this plastic, but most do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是所有的化妆盘使用这种塑料，但大多数是如此的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once you've popped it out, hold it gently over the flame of a tealight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦你已经把它弄出来了，轻轻的将它放到蜡烛的火焰上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it's a small container, hold the plastic with pliers instead of your fingers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这是个小容器，要用钳子夹着它，而不是直接用你的手指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remove from the flame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从火上移开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use your poking tool to push through the melted plastic and the metal shadow container will pop out!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用你的戳洞工具穿过融合的塑料，那这个金属眼影就分离出来了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Repeat with your next shadow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下一个眼影也如法炮制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And your next one.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的下一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had an empty eyeshadow container in one of our compacts so we used that to add lipstick to the palette.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们有一个有着空的眼影容器的眼影盘，所以我们就要它来把口红放到这个调色盘上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, time to glue and get the job done.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，该轮到胶水出场了，来完成我们的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Glue each piece and press firmly into your palette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每片都涂上胶水，并将其牢牢地按到调色盘上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had a piece of mirror that popped out of one of our compacts so we glued that to the top of the pencil case as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们有一面从其他化妆盘上弄下来的镜子，所以我们也将它粘到铅笔盒的顶部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To secure the brushes, glue a piece of ribbon or lace to your case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了固定化妆刷，将一片丝带或是花边胶到盒子上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure it's long enough to tie around the brushes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确定它足够长来绑化妆刷们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On top of that, glue a piece of rubbery material to anchor the brushes (yoga mat or eraser). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在它的顶部，粘上一片弹性材料来固定这些刷子（瑜伽垫或是橡皮）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let everything set for 30 minutes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让每样东西静置30分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Place your brushes inside and tie them up, close your case and you're ready to go!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将你的刷子放进去并绑起来，关上你的盒子，那你就可以开始使用了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now you have everything you need for a quick makeover in one easy-to-store and easy-to-find case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你已有了一个易于储存和容易找到你所需的每样东西的快速自制彩妆盒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Leave us a note if you give this a try-we'd love to see photos!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你尝试过了给我们留言——我们乐意看照片！</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200920T133623Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part II From the Bog and Sand of Versailles to the Tennis Court</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二部分 从凡尔赛的沼泽、沙地到网球场</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Monarchs’ Revolution</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>君主制革命</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Puritans as Democrats</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有民主精神的清教徒</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Reign of Etiquette</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>规范的统治</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cross Section：</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>横断面：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The View from London Around 1715</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1715年前后伦敦所见</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Opulent Eye</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奢华的景象</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Encyclopedic Century</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>百科全书的世纪</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cross Section：</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>横断面：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The View from Weimar Around 1790</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1790年前后魏玛所见</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Forgotten Troop</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被遗忘的大军</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Monarchs’ Revolution</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>君主制革命</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> ONE REVOLUTION calls forth another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一场革命引起另一场革命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the Protestant Revolution of the 16C had done its best and its worst while destroying unified Christendom, its worst -namely the protracted war of sects - hastened the Monarchical Revolution of the 17th. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16世纪的宗教革命摧毁了统一的基督教，其后果有好有坏。最糟糕的后果——教派间旷日持久的战争——加速了17世纪君主革命的到来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its twofold Idea was “monarch-and-nation” and its double goal was stability and peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这场革命的双重思想是“君主-和-国家”，双重目标是稳定与和平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sects had challenged or broken authority everywhere; some means must be found to restore order through a new loyalty and a new symbol.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各教派已经公然反抗或完全摧毁了各处的权威，亟需找到某种方法通过建立新忠诚和一个新象征来恢复秩序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The symbol was monarch, not king. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个象征是君主，不是国王。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There had been kings in Western Europe for a thousand years, but no matter what their ambition had been, they had remained “first among equals” rather than “one and only”. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国王在西欧已经存在了一千年，但无论他们如何雄心勃勃，他们仍然只能是“平等人中的第一个”，而非“绝无仅有”的角色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their peers, the great nobles, had endlessly challenged or infringed their authority, fought to usurp their tide, and ruled like kings large parts of the country. Each was the legitimate force in his own county or dukedom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与国王平起平坐的大贵族不停地反抗或侵犯国王的权威，甚至挑起战火以图篡位，或在自己的大片领土上像国王一样耀武扬威：每个贵族在他自己的郡或公国中都是合法的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result boundaries were always shifting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果疆界总是变来变去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was France? Burgundy? Italy? Austria? Savoy? Wholes or parts, they were at the mercy of rulers seeking wealth and power by conquering provinces not only nearby but far afield. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时法国是什么？勃艮第、意大利、奥地利、萨瓦这些地方是什么？无论作为部分还是整体，它们都只是任凭争权夺利的统治者摆布的地盘；那些统治者不仅在附近攻城掠地，还发兵远征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>France and Spain fought in Italy to annex some piece of it, just as the English had done in France for centuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法国和西班才就曾在意大利作战以吞并它的部分土地，正如几世纪以来英国人在法闻一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, for 400 years after their departure, the English in their coronation service continued to claim France as part of the king’s realm and to sport the lilies of France on the English coat of arms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使在英国人离开法国后,有400年的时间，他们在国王加冕仪式中还宣称法国是英国疆域的一部分，盾徽上还有法国的百合花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within each country, strong nobles kept enlisting the aid of some foreign king to dislodge their own and take his place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个国家都有强大的贵族不断谋求外国国王的帮助以求推翻自己的国王并取而代之。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The idea of a nation, a continuous, stable territory with an increasingly homogeneous population, was hardly clear in theory, let alone in practice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有着连绵不断的稳定的国土和H益同属一个民族的人民的民族国家这个概念在理论上尚不淸楚，更遑论实践了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nation implies the nation-state, the one source of authority, just as monarch when compared to king means undisputed rule by one alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>民族寓意着民族国家，权威的惟一来源，正像君主和国王相比意味着惟一的无可争辩的统治者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This double development--king into monarch, realm into nation - is the mark of the revolution, in keeping with the definition given earlier <3): a violent transfer of power and property in the name of an idea.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这双重的发展——国王变成君主，疆土变成国家——就是革命的标志，正吻合前文所作的定义<3)：以一种思想的名义通过暴力造成权力和财产的易手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This change in the meaning of kingship and country did not take place all at once throughout Europe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国王和国家的意义的变化并不是在全欧洲同时发生的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Local traditions and the chances of war and of character in kings account for the variations of speed and of phase that made this revolution take about 200 years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地方的习俗，发生战争的可能和国王的个性使得这一变化的速度和阶段因地而异，造成这场革命长达200年之久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this seems odd for “a revolution”, remember that revolution is a process not an event. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果“一场革命”持续如此之久看来有些奇怪的话，清记住革命是个过程，不是一个事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We think of the French Revolution in capsule form -1789 to '94, but what occurred then had antecedents in polemics and practice, and the Idea of the outbreak--the rights of man, equality, suffrage, and “no king” - took 100 years to be finally accepted, either in France or among the other western nations (548; 587&gt;).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想到法国大革命，我们通常把它缩略到1789年到1794年这段时间内，但那时发生的事无论是言辞还是行动都早有前奏，而激励暴乱的思想——人的权利、平等、、选举权，还有“废除国王”——却乏了100年的时间才终于被接受，不管是在法国还是在別的西方国家(548，587&gt;)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As for the idea of the nation-state, it is still in the future for some peoples in various parts of the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于民族国家，直到现在它对世界上有些地方的人们来说仍然遥不可及。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their struggles are a remote consequence of the revolutionary monarch-and-nation idea, as well as a paradox in our time, when kings are few and the nation as a form is falling apart in the countries that first made it a reality (774-776&gt;).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们为建立国家所进行的斗争是君主和国家这革命思想的遥远的回声，也是我们这个时代的矛盾，因为现在国王巳寥寥无几，民族国家这种形式在它首先得到实现的国家也正在解体（774—776&gt;)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story of that accomplishment is long and complicated and need not occupy us at length.A reminder of a few facts will suffice to show the pattern.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>民族国家形成的过程漫长而复杂，无须花时间研究，几个事实就可以勾出它的轮廓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 15C Spain, the union of the kingdoms of Aragon and Castile through the marriage of Ferdinand and Isabella was enhanced by the conquest of Granada and the expulsion or assimilation of the Moors and the Jews. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在15世纪的西班牙，阿拉贡和卡斯蒂利亚王国通过斐迪南和伊莎贝拉的联姻合为一体，后来又征服了格拉纳达，驱逐或同化了摩尔人和犹太人，因而更为强大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The local assemblies were gradually subdued to the central power, the very test of monarchy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地方大会逐渐屈服于中央权力，这正是君主制的特征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 16C Portugal came under Spanish rule but broke away after a half century, making two nations in the peninsula.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16世纪葡萄牙被纳入西班牙统治之下，但半个世纪后又分离出去，结果伊比利亚半岛上形成了两个国家。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In England, again in the late 15C, the Wars of the Roses (coalitions of great lords) came to an end, also by a marriage and a victory, and the first two Tudors ruled almost as monarchs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同在15世纪晚期，英同的攻瑰战争（大贵族的联盟）也是通过联姻和一方的胜利而告终。都铎王朝的前两任国王实行的几乎是君主式的统治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry VIII had to face one rebellion, and by Elizabeth’s time internal troubles returned and weakened autocratic rule.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到亨利八世时发生了一场叛乱。到伊丽莎白时期，内乱重起，削弱了专制统治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tried again by Charles I it collapsed in the Civil Wars (263&gt;). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查埋一世试图恢复专制，但他这一企图在英国内战中土崩瓦解（263&gt;)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not until the Glorious Revolution of 1688 (no revolution but a glorious compromise) was the English monarchy a solid institution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1688年的光荣革命（其实并不是革命，只是一场光荣的妥协），英国的君主制才站稳脚跟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two failed attempts to overthrow it in the 18C showed its strength. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>18世纪间两次企图推翻它的努力均未成功，这表明了它的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note in passing that after 1066 the English never had a line of English kings: William the Conqueror was Norman; the Plantagenets were French; the Tudors were Welsh; the Stuarts were Scots, and the Hanoverians, German. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需要顺便提一下，1066年以后，英国人从未有过自己的一脉国王：威廉一世征服者是诺曼底人；金雀花王朝是从法国来的；都铎王室是威尔士人；斯图亚特王室是苏格兰人；汉诺威王室是日耳曼人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These shifts and turns no doubt helped Parliament to retain powers that a sustained monarchy might well have extinguished.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>王位的不断易手无疑帮助议会保留了它的权力，在一个连贯的君主制下，这些权力很可能会被取消。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Sweden, the Vasa family succeeded early in governing the entire Scandinavian region, and did not falter, despite the death of Gustavus Adolphus in the Thirty Years’ War and the abdication of the wondrous Christina <207). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在瑞典，瓦萨家族很早就建立了在整个斯堪的纳维亚地区的统洽。尽管古斯塔夫斯?阿道弗斯在三十年战争中去世，奇女子克里斯蒂娜逊位（&lt;207），但这统洽并未动摇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland in the late 16C was a nation in spirit and seemed to have a sole ruler, but unhappily he was an elective monarch, and one particularly hamstrung, because the nobles who chose him enjoyed each a veto on the acts of the law-making body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16世纪晚期时波兰有民族国家的精神，似乎也有一个单一的统治者，但可惜他是选举出来的君王，而且受到的制约特別大，因为选举他的贵族们对立法机构颁布的法令有否决权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was institutional anarchy and contradiction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果造成制度上的无政府和互相矛盾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two semi-nations, Netherlands and Switzerland, created by the comprehensive treaty that ended the Thirty Years’ War, managed their affairs without a monarch by schemes as composite as their group of provinces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结束了三十年战争的全面条约所创立的两个“半国家”——荷兰和瑞士没有君主制，它们的治理制度采用的是它们属下各郡制度的合成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two larger, indefinite regions, known as Germany and Italy, were unable to overcome their past and seize the benefits of the revolution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被称为日耳曼和意大利的两个地区幅员辽阔，没有固定的边界。它们被各自的历史所牵累，不能获取革命的裨益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They remained divided into small units for another 200 years, suffering the harm of division.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以后的200年内，它们仍然四分五裂，既自受分裂之苦，又因虚弱致敌而贻害他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On hearing the words?absolute monarchy, one is likely to think of France and of Louis XIV in particular. There is truth and error in this association of ideas </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听到绝对君主这个词，就容易想到法国，特别是路易十四，这种联想有理也有误。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is true is that for the concrete details of the monarch-and-nation scheme, 17C France is the place to look; it supplies them most fully, and well before Louis XIV. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实，要了解君主-和-国家这种制度的具体细节，就得到17世纪的法国去找；远在路易十四之前，它就具备了完整的细节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The French kings and their ministers from the 15C onward worked to control the nobles, to round out the territory, and by being careful about money to become independent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自十五世纪起，法国的国王和大臣们就努力控制贵族，确定疆界，并精心理财以保持独立。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This last is the all-important requisite. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>末一条尤其重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A king is a monarch when he holds the monopoly of war, and this means money for a standing army. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国王一旦掌握了打仗的独断权就成为了君主，而打仗需要有钱维持正规军。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Money also confers the monopoly of justice, taxation, and coinage--all this made secure by a legion of civil servants to enforce the rules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>金钱还带来对司法、赋税和造币的垄断——这一切都由一支负责执行规定的公务员队伍保证落实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These indispensables presuppose direction from a center. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些不可缺少的事务进行的先决条件是来自中央的指导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Monarchy implies centralization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>君主制就意味着中央集权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without it, the well-defined region called nation could not be a nation-state.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有它，一个称为国家的界线分明的地区就不是一个民族国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its agents replace local authorities and govern as uniformly as possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>君主的代理人取代地方当局，治理的方法尽可能一致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus bureaucracy is born or at least. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>官僚机构因此诞生或至少大为扩张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mastermind who set up such a system in France was Cardinal Richelieu, minister to Louis XIII for a quarter century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在法国建立起这套制度的筹划者是黎塞留大主教，他曾任路易十三的大臣达四分之一世纪之久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did it in the teeth of plotting nobles and clerics bent on thwarting him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他和那些阴谋策划并一心要阻挠他的贵族和教士们计锋相对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dumas’ Three Musketeers gives a good idea of Richelieu’s corps of henchmen and spies and the hatred he and they incurred. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大仲马的小说《三个火枪手》里生动地描绘了黎塞留的心腹和间谍以及他和他手下的这些人招致的仇恨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One peculiar measure that was also needed had to do with an ancient cultural institution, the duel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一条必要的奇特措施涉及一个古老的文化习俗，即决斗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its prohibition goes back to the previous reign, when the annual toll of casualties in the pastime was high enough to alarm the Duke of Sully <185). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早在前朝时它就遭到禁止，因为每年造成的伤亡之多引起了苏利公爵的忧心（&lt;185)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One might suppose that a king aiming at monarchy would rejoice. The bumptious and braggart who go in for dueling as a sport might as well dispose of one another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个想建立君主制的国王似乎应为有决斗高兴才是，而旦让那些把决斗当运动的冒失鬼和自大狂们互相结果了也罢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But of course, that breed might make up only half the participants, the other half being decent, peaceable subjects forced into fighting by the code of honor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这类人可能只占参加决斗的人的一半，另一半是安分守己的正经人为了荣誉而被迫决斗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And these, if killed or maimed, would be a loss to the country.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些人或死或伤都是国家的损失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conflicting interests were at stake: if monarchy promises law and order, all types of brawl must be forbidden, all disputes settled in court. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里关系到相互冲突的利益：如果君主许诺实现法治和秩序，那么一切打斗都必须禁止，一切争端都必须在法庭解决。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But dueling exists because it settled matters that courts cannot take notice of--insults, offenses against dignity or against women or elders in one's family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是决斗之所以存在是因为它解决的是法庭无法处理的事情——侮辱，对自尊的冒犯或对家中的女眷或长者的冒犯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When pride is high by reason of rank, honor can be compromised in a thousand ways and tolerating affronts is either cowardice or lack of self-respect.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地位高的人自尊心也特别强，其荣誉遭受伤害的方式难以计数，忍辱是懦弱和自尊心不强的表现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, a duel settled matters between individuals and is thus more rational than the blood feud that keeps two families (those of Romeo and Juliet come to mind) killing each other off after the original offense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，决斗是两个人之间的事，因此比两个家族之间世代为敌，互相杀戳的血仇（像罗密欧和朱丽叶两家）更为合理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With dueling not only is there an end, but the wiping out of the insult is accomplished not by stealth or ambush but according to rules under the supervision of seconds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>决斗不仅立即解决问题，而且雪耻不是通过鬼鬼崇祟的伏击，而足在副手们的监督下按规则进行的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite these advantages, dueling is seen today as not quite rational enough, although there are occasions - say, of unpunishable cruelty or injustice - that make one long for redress through single combat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有这些好处，决斗在今天看起来还是不够合理，虽然有的情况——比如无法惩罚的残忍或不公正——会使人们渴望一搏以争回公道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our enlightened century has in fact witnessed a return to a kind of blood feud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，在我们这个开明的世纪，某种形式的血仇又回来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead of the family, it is the local clan or gang or sect. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这次所涉的不是家族，而是地方团伙或帮派。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Schoolchildren are keen for it, and so are criminals, the Mafia, the inhabitants of Northern Ireland, Lebanon, Corsica, and other places at present known to all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学校学生热衷于此，还省罪犯、黑手党，再加上北爱尔兰、黎巴漱、科西嘉和众所周知的别的地方的居民。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This vendetta-style warfare gives a measure of the force that monarchy tried to repress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种冤冤相报的争斗说明了君主试图压制的这股力量的顽强。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It succeeded to some extent, but appeal to sword or pistol kept playing a part in political and cultural history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>镇压取得了一定的成功，但诉诸佩剑和手枪一直在政治和文化史中起着作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It killed Galois, the young mathematical genius; Pushkin, the first among Russian poets; Alexander Hamilton, the leading statesman of his generation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>死于它的有年轻的数学天才伽罗瓦，俄国最好的诗人普希金，当时卓越的政治家亚历山大·汉密尔顿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In modem France, from Armand Carrel, the political theorist of the 1820s, down to Clemenceau, the head of state a century later, duels put at risk the lives of a large number of statesmen and writers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在现代法国，从19世纪20年代的政治埋论家阿尔芒·卡雷尔到一个世纪后的政府脑克列孟梭，众多的政治家和作家都由于它而遭到生命危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It lasted democratically in the American West, later proving a boon to the movie industry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在美国西部，它由于经常进行而得以延续，后来倒使电影业受益无穷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The desire for self-vindication is deeply ingrained in western man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为自己正名的愿望在西方人的思想中根深蒂固。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 17C it was called “the point of honor”. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>17世纪时它被称为“荣誉问题”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its moral force derived from medieval chivalry, which regarded the knight as the champion of all that is noble and fair and as an independent judge in his own cause. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的道德力量来自中世纪的骑士精神。根据这精神，骑士是一切高贵美好的东西的捍卫者，并可以对自己的行为进行自我评判。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No monarch wanted his subjects to lose all of these qualities, and the ethos persisted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有一个君丰想要他的子民丧失所有这些品质，因此这条民粹保存了下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It implies loyalty, honesty, and courage, which remove or reduce the need for inspectors and written codes of ethics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它意味着忠负、诚实、勇敢，有了这些良好品质就不再需或可以减少视察员和书面的道德守则了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sense of honor is of so fine and delicate a nature that it is only to be met with in minds which are naturally noble or cultivated by good examples and a refined education, as the mainspring of monarchy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>荣誉感敏锐微妙，只有天生高贵或经由良好的榜样和高雅的教育培养的心灵才会拥有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>—SIR RICHARD STEELE (1713)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——理查德·斯梯尔爵士（1713年）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Honor lies in honest toil.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>荣誉寓于诚实的苦干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>—GROVER CLEVELAND, ACCEPTING THE PRESIDENTIAL NOMINATION (1892)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——格罗弗·克利夫兰，接受总统提名时的讲话（1892年）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One also sees in the triumph of monarchism under Louis XIV the shift that Burckhardt pointed out, of the thirst for honor into “honors” - tides, decorations, favors slight in themselves but of infinite value, such as being spoken to by the king before anyone else among a cluster of courtiers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从路易十四统治下君主主义的胜利还可看出布尔克哈特指出的转变：对荣誉的渴望变成了对“荣耀”的追求——头衔、勋章、本身微不足道但价值无限的恩宠，比如在一群廷臣中首先得到国王的垂询。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Topping all these, honor for the nation was served by glorious action in war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这一切之上，战争中的壮烈行动可以为国争光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though muted in the late 20C, the popular response to a victorious general (or woman prime minister) is still the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然在20世纪晚期不再大肆张扬，但民众对一位得胜将军（或女总理）的反应仍然一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As for the love of tides and decorations, it has become the rage in the democracies--prizes for everything and everyone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于对头衔和勋章的喜好，它在民主国家中正风靡一时——任何事任何人都可得奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Montesquieu miscalculated when he made virtue the mainspring of republics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孟德斯鸠说美德是共和制的主动力，此言差矣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No king wanting to be monarch could succeed by means of soldiers and bureaucrats alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国王想做君主，不能只靠士兵和官僚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mere coercion would only produce a tyranny, and with tardy means of communication it could not last long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>单纯的胁迫只会产生暴政，而通讯手段的迟缓又使它难以持久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There must be wide consent, tangibly expressed in the form of money paid into the treasury.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要做君主需要广泛的认可，具体表现为输入国库的金钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The great sums required gave the edge to rulers of large territories that included prosperous cities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到17世纪，作战的代价大为增加：大炮和火器比弓箭贵得多，国防靠的是按科学方法建造的巨大碉堡（313&gt;）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The artisans and merchants who lived there were the future monarch's natural allies in his rise to centralized power.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所需的巨额资金使领土广大，有繁荣城市的统治者占有优势。国中的技工和商人是未来君主追求中央集权的自然联盟。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

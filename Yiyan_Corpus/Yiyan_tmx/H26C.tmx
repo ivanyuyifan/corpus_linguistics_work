@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>According to a new report (PDF) from uptime monitoring service Pingdom, Facebook and MySpace, the two largest players in the social networking market, had very little downtime in 2008. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据运行时间监视服务商Pingdom的最新报告（PDF），社交网站市场中的两个巨人Facebook和MySpace在2008年里的宕机时间都比较少。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Twitter, whose iconic Fail Whale adorned the service far too often at the beginning of the year, got its act together and was only down for 12 minutes in December. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Twitter在年初的时候经常会出现其标志性的Fail Whale图案，不过这一切到了12月的时候有了明显的改善，这个月Twitter只宕机了12分钟。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>LinkedIn, on the other hand, saw an increased rate of outages in the course of the year.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，LinkedIn在一年中宕机的时间却在持续地上升。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Out of the 15 major social networks in Pingdom's study, only five achieved an uptime of 99.9% or better: Facebook (99.92%), MySpace (99.94%), Classmates.com (99.95%), Xanga (99.95%), and Imeem (99.95%).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在Pingdom's的报告中的15个社交网络公司中，其中只有5个网站在过去的一年中能达到99.9%以上的无故障运行时间，他们分别是：Facebook（99.92%），MySpace（99.94%），Classmates.com（99.95%），Xanga（99.95%），and Imeem（99.95%）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Twitter and LinkedIn</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Twitter和LinkedIn</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Twitter saw 84% of its downtime in the first half of 2008 and suffered no major outages in the second half of the year. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2008年中，Twitter有84%的宕机是发生在前半年，到了下半年，他们的情况有所好转。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even though Twitter continues its rapid growth, it has clearly managed to gets its infrastructure under control.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使Twitter依然保持着快速增长的势头，他依然能够很好地让网站保持在一个良好的运行状态下。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The reliability of LinkedIn, however, is slipping. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而LinkedIn的可靠性正出现滑落。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With every new quarter, LinkedIn's downtime increased. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>LinkedIn的宕机时间在每一个新的季度里面都有所有所提高。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Clearly, LinkedIn's continuous growth is responsible for some of these outages. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，LinkedIn自身持续的增长也是导致宕机时间增加的原因之一。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In terms of total hours of downtime , LinkedIn's 45.8 hours were only trumped by Twitter's 84 hours, though Friendster (43.8 hours) and Reunion.com (41.9 hours) were only marginally better off in 2008.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从总的宕机时间来了看，LinkedIn有45.8小时的宕机时间只比Twitter的84个小时要好 而Friendster （43.8 小时） 和Reunion.com （41.9 小时） 在2008年只有小幅度的改善。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other Stats</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他统计</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>According to Pingdom, Reunion.com suffered the longest continuous outage, with close to 10 hours on March 29. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据Pingdom的报告 Reunion.com经受了最长连续宕机时间事故，在3月29号，网站几乎连续宕机了10个小时。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Facebook's longest continuous outage only lasted for less than half an hour.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Facebook的最长连续宕机时间紧紧持续了不到半个小时。</seg></tuv>
+</tu>
+</body>
+</tmx>

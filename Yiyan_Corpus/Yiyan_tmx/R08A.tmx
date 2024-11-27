@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T030109Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adams</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>混蛋亚当斯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never could stomach Adams and then one day he's standing in my kitchen, in his underwear. Facing in the direction of my kids' room! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直都讨厌亚当斯。有一天，他居然只穿着内裤跑到我家厨房里，而且面朝着我家小孩们的房间站着！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I wonk him in the back of the head and down he goes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我上去一拳打在他的后脑上，他登时就躺下了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he stands up, I wonk him again and down he goes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等他站起身来，我再给了他一拳，他又倒那儿了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I roll him down the stairs into the early-spring muck and am like, If you ever again, I swear to God, I don't even know what to say, you miserable fuck.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，我把他掀下台阶，扔到早春的泥地里。我说，如果你他妈的再敢这样，我向上帝发誓——我气的都不知道该说什么好了——你个王八蛋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Karen got home. I pulled her aside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯伦回到家之后，我把她拉到一边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upshot was: Keep the doors locked, and if he's home the kids stay inside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后我们决定：以后门一直都要锁好。如果他在家，那么孩子们就不到外面去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But after dinner I got to thinking: Guy comes in in his shorts and I'm sitting here taking this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可吃完晚饭，我又一琢磨：别人都穿着裤衩进了我家了，我怎么还能坐在这里忍气吞声？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is love? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这还算是爱？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Love for my kids? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>算是我对孩子的爱？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because what if? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这要是万一呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if we slip up? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>万一我们没防住？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if a kid gets out or he gets in? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>万一孩子跑了出去，或者他又进到我家来呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, no, no, I was thinking, not acceptable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，不，不，我心想，这绝对不行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I went over and said, Where is he?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我来到他家里，问他在哪儿？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To which Lynn said, Upstairs, why?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>琳恩回答我说，在楼上，有事吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Up I went and he was standing at the mirror, still in his goddam underwear, only now he had on a shirt, and I wonked him again as he was turning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我冲到楼上。他就站在镜子前，还只穿着他那该死的内裤，只不过现在他多穿了一件衬衫。就在他转过身的时候，我给了他一拳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Down he went and tried to crab out of the room, but I put a foot on his back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一头栽倒，还想爬出房间，被我一脚踩在他背上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you ever, I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你再敢，我说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you ever again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你再敢去我家。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now we're even, he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在咱们扯平了，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I came in your house and you came in mine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去过你家，你也来过我家了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only I had pants on, I said, and mini-wonked him in the back of his head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可我穿着裤子呢，我说，又在他的后脑勺上敲了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am what I am, he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就是这么个人，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, that took the cake! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嘿，他还火上浇油！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Him admitting it! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己坦白了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I wonked him again, as Lynn came in, saying, Hey, Roger, hey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我接茬揍他。这时琳恩走了进来，一个劲儿说，嘿，罗杰，嘿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Roger being me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗杰就是我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then he rises up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他站了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which killed me! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我气炸了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Him rising up? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还敢站起来？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Against me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跟我对着干？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I'm about to wonk him again, but she pushes in there, like intervening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我正要再去修理他，可她挤了进来，想要挡住我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So to wonk him again I had to like shove her back, and unfortunately she slipped, and down she went, and she's sort of lying there, skirt hiked up- and he's mad! Mad! At me! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了再去揍他，我只好把她往后推了一把。可惜她脚下一滑摔倒了，就那么躺在那里，裙子也掀了起来。——这回他来劲了！冲我来劲！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Him in his underwear, facing my kids' room, and he's mad at me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只穿内裤，面对我小孩们的房间，他还冲我来劲？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many a night I've heard assorted wonks and baps from Adams's house, with her gasping, Frank, Jesus, I Am a Woman, You're Hurting Me, the Kids Are Watching, and so on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多少天夜里我都听到亚当斯家里有拳打脚踢的动静，听见她喘着求饶，弗兰克，耶稣啊，我是个女人啊，你打疼我了，孩子们正看着呢，等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because that's the kind of guy he is.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为他就是这么种人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I wonked him again, and when she crawled at me, going, Please, Please, I had to push her back down, not in a mean way but in a like stay-there way, which is when, of course, just my luck, the kids came running in- these Adams kids, I should say, are little thespians, constantly doing musicals in the back yard, etc., etc.- so they're, you know, all dramatic: Mummy, Daddy! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我又过去揍他。她爬过来抱住我，说，求你了，求你了。我只好又把她推倒在地，当然不是恶意的那样，而是像说“你就呆在那儿别动”的那样。谁想到，怎么那么巧，这时他们的孩子们都跑了进来。——我忘了说了，亚当斯的这两个孩子，都是小戏子，总是在后院里表演音乐剧啊什么的。——所以，可想而知，他们都拉着戏腔在喊：妈妈！爸爸！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, O.K., that was unfortunate, so I tried to leave, but they were standing there in the doorway, blocking me, like, Duh, we do not know which way to turn, we are stunned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，算我倒霉。于是我就转身想走，可他们全站在门口那儿，把我挡个正着，就好像在说，哎呀，我们都不知道该往哪边躲了，我们都吓傻了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I shoved my way out, not rough, very gentle- I felt for them, having on more than one occasion heard Adams whaling on them, too- but one did go down, just on one knee, and I helped her up, and she tried to bite me! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只好把他们搡到一边去，好腾出路来。我可真没使劲，就轻轻一下。——其实我心里挺可怜他们的，因为以前我也经常听到亚当斯对他们发飙。——可是有个孩子还是摔倒了，但也就只是一个膝盖着地而已。我去扶她起来，可她却想咬我！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She did not seem to know what was what, and it hurt, and made me mad, so I went over to Adams, who was just getting up, and gave him this like proxy wonk on top of his head, in exchange for the biting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她真是不识好歹，这让我很伤心。我气坏了，所以折回到亚当斯那儿。他正要爬起来，我又给他头顶上来了那么一下，算是对咬我的报复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep your damn, I said. Keep your goddam kids from-</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让你，我说道，让你的倒霉孩子离我——</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I needed some air, so I walked around the block, but still it wasn't sitting right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我得换换空气，所以我在街上绕着圈子，可心里还是觉得不踏实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because now it begins, you know? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为现在只算刚开始，你明白吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adams over there all pissed off, saying false things about me to those kids, which, due to what they had seen (the wonking) and what they had not seen (him in his underwear, facing my kids' room), they were probably swallowing every mistruth, and I was like, Great, now they hate me, like I'm the bad guy in this, and all summer it's going to be pranks, my hose slit and syrup in my gas tank, or all of a sudden our dog has a burn mark on her belly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚当斯在那边满腔怒气，肯定对他的孩子说我的瞎话。可是由于他们所看到的只是我揍他，却没有看到他穿着内裤面对我孩子们的房间，所以他们很可能对那些瞎话全盘接受。我心说，这下可好，现在他们恨的是我了，就好像我才是坏蛋。这样的话，整个夏天里肯定会闹出不少恶作剧：我的浇水软管会被割破，我的油箱里会被加进糖浆，或我家的狗会突然在肚子上出现烧伤的疤痕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I type up these like handbills, saying, Just So You Know, Your Dad Was Standing Naked in My Kitchen, Facing My Kids' Room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，我回家打印了一些传单。上面说，我告诉你们，你们的爸爸光着身子站在我的厨房里，面对着我家孩子的房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I tape one inside their screen door so they'll be sure and see it when they go to softball later, then I stuff like nine in their mailbox, and on the rest I cross out "Your Dad" and put in "Frank Adams" and distribute them in mailboxes around the block.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用胶布把它贴在他家的纱门里面，这样当他们过一会儿出门打棒球时一定会看见。然后我又往他们的邮箱里塞了八九份。在其余的那些上面，我划掉了“你们的爸爸”，把它改成“弗兰克·亚当斯”，然后把它们分头放进街上各家的邮箱里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All night it's call after call from the neighbors, saying, you know, Call the cops, Adams needs help, he's a goof, I've always hated him, maybe a few of us should go over there, let us work with you on this, do not lose your cool. That sort of thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个晚上，左邻右舍不停打来电话，“应该报警”，“亚当斯需要帮助”，“他是一个傻瓜”，"我一直恨他"，"也许我们应该找几个人去他那里"，"让我们跟你一起干吧"，"别失去冷静"，等等诸如此类的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which was all well and good, but then I go out for a smoke around midnight and what is he looking at, all hateful? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些话都有道理，可后来当我半夜出去抽烟的时候，你猜我看见他正恶狠狠地看着什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their houses? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别人的房子？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't kid yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别自欺欺人了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is looking at my house, with that smoldering look, and I am like, What are you looking at?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他盯着的就是我家，脸上带着那种怒气。我说，你在看什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am what I am, he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就是这么个人，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You fuck, I say, and rush over to wonk him, but he runs inside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你他妈的，我说道，然后冲过去揍他，但他逃进屋里去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, as far as cops, my feeling was: What am I supposed to do, wait until he's back in my house, then call the cops and hope he stays facing my kids' room, in his shorts, until they arrive?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于说到警察，我的观点是：他们能有怎么用呢？难道要等到他再次跑进我家里，然后才打电话给警察，还得盼着他们上门的时候，他还在只穿内裤对着我家孩子们的房间？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, sorry, that is not my way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对不起，不行，我才不会这么干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day my little guy, Brian, is standing at the back door, with his kite, and I like reach over and pop the door shut, going, Nope, nope, you know very well why not, Champ.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，我的小儿子布赖恩，拿着风筝在后门要出去。我伸手过去就把门关上，跟他说，不行，不行。宝贝你知道为什么不行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So there's my poor kid, kite in lap all afternoon, watching some dumb art guy on PBS saying, Shading Is One Way We Make Depth, How About Trying It Relevant to This Stump Here?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果，我那可怜的孩子，整个下午都把风筝放在腿上，看一些傻X艺术家在PBS电视台上说，“我们可以用阴影作为表现深度的一种方法”，“你要不要来用这种方法试着表现一下这块木头？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then Monday morning I see Adams walking toward his car and again he gives me that smoldering look! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>星期一早上，我看到亚当斯朝着他的车走去，然后又恶狠狠地看了我一眼！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never have I received such a hateful look. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从来没有人这么阴狠地看过我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And flips me the bird! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他倒好像占理了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As if he is the one who is right! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一下蹿起火来！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I rush over to wonk him, only he gets in the car and pulls away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我猛跑过去要揍他，可惜他先逃进了汽车，开走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All day that look was in my mind, that look of hate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我脑子里一整天都是他那副表情，那种恶狠狠的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I thought, If that was me, if I had that hate level, what would I do? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我心想，假如换做是我，假如我恨成了那样，会干出什么事来？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, one thing I would do is hold it in and hold it in and then one night it would overflow and I would sneak into the house of my enemy and stab him and his family in their sleep. Or shoot them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗯，有一件是我会做的，那就是，我会尽量忍，尽量忍，直到哪天晚上再也忍无可忍，那时我就会偷偷摸进仇人家里，用刀把他和他的家人剁死在睡梦中，或者用枪崩了他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You would have to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没什么其它办法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is human nature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人的天性就是这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am not blaming anybody.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我并不怪什么人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought, I have to be cautious and protect my family or their blood will be on my hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我心想，必须得多加小心，保护好我的家人，要不然他们的鲜血就要沾到我的手上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I came home early and went over to Adams's house when I knew nobody was home, and gathered up his rifle from the basement and their steak knives and also the butter knives, which could be sharpened, and also their knife sharpener, and also two letter openers and a heavy paperweight, which, if I was him and had lost all my guns and knives, I would definitely use that to bash in the head of my enemy in his sleep, as well as the heads of his family.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我提前回家，趁着亚当斯家没人时溜了进去，搜走了他放在地下室里的步枪，还有他家的剔肉刀，还有抹面包的黄油刀。要知道，这种刀也可以开刃。我顺便把他的磨刀器以及两把裁纸刀也收了。还有一个沉甸甸的镇纸。因为如果我是他，一旦发现我所有的枪和刀都不见了，一定会趁仇人全家睡觉的时候，用这个镇纸来砸烂他们的头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night I slept better until I woke in a sweat, asking myself what I would do if someone came in and, after shoving down my wife and one of my kids, stole my guns and knives and knife sharpener as well as my paperweight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上，我原本睡得很踏实，可后来却满身虚汗地惊醒了过来。我问自己，如果有人闯进我家，把我的老婆孩子推倒，偷走我的枪和刀，还有磨刀器和镇纸，我会怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I answered myself: What I would do is look around my house in a frenzy for something else dangerous, such as paint, such as thinner, such as household chemicals, and then either ring the house of my enemy with the toxics and set them on fire or pour some into the pool of my enemy, which would (1) rot the liner and (2) sicken the children of my enemy when they went swimming.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回答是：我会从家里尽快找出些其他的危险物品，比如油漆，比如稀料，比如日化用品。然后，我要么绕着仇人的房子洒上一圈这些有毒物品，再把它们点着了，要么把这些东西倒进仇人家的游泳池里，这样一可以腐蚀游泳池的墙壁，二可以等仇人家的孩子来游泳时，让他们中毒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I looked in on my sleeping kids and, oh my God, nowhere are there kids as sweet as my kids, and standing there in my pajamas, thinking of Adams standing there in his underwear, then imagining my kids choking and vomiting as they struggled to get out of the pool, I thought, No, no way, I am not living like this.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我起身去看我那睡得正香的孩子们。哦，我的上帝啊，天下再没有其他孩子像我的孩子这么可爱了！我穿着睡衣站在那里，仿佛看到亚当斯穿着内裤也站在什么地方，然后仿佛看到我的孩子们被水呛了，呕吐着，挣扎着要走出泳池。我心想，不行，绝对不行，我可不想过这样的日子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, entering through a window I had forced earlier that afternoon, I gathered up all the household chemicals, and, believe me, he had a lot, more than I did, more than he needed, thinner, paint, lye, gas, solvents, etc. I got it all in like nine Hefty bags and was just starting up the stairs with the first bag when here comes the whole damn family, falling upon me, even his kids, whipping me with coat hangers and hitting me with sharp-edged books and spraying hair spray in my eyes, the dog also nipping at me, and rolling down the stairs of their basement I thought, They are trying to kill me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，我从下午已经被我砸开的那个窗户进到他家里，把所有的日用化学品都收集了起来。说实话，他家里有很多，比我家都多。他根本不需要那么多。稀料，油漆，碱液，瓦斯，溶剂，等等。我足足装了九个大垃圾袋。就在我刚开始顺楼梯往上拎第一袋的时候，这该死的一家人突然全冒了出来，扑到我身上，甚至他的孩子们都来了，用衣裳架抽我，用纸边很锋利的书打我，还往我的眼睛里喷发胶。连狗都来咬我。当我顺着地下室的楼梯滚下去时，心想，他们这是要置我于死地啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitting my head on the concrete floor, I saw stars, and thought, No, really, they are going to kill me, and if they kill me no more little Melanie and me eating from the same popcorn bowl, no more little Brian doing that wrinkled-brow thing we do back and forth when one of us makes a bad joke, never again Karen and me lying side by side afterward, looking out the window, discussing our future plans as those yellow-beaked birds come and go on the power line. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的脑袋撞在水泥地上，眼前金星直冒。我心想，千真万确，他们真是想要我的命。如果他们杀了我，那我就再也没法跟我的小梅兰妮同吃一碗爆米花了。再也没法跟我的小布莱恩互相皱眉头，就像以前当我们俩中的谁开了个糟糕的玩笑时那样。我也再没法跟凯伦并排躺在床上，望着窗外，看那些黄嘴小鸟在电线上来来去去，讨论我们未来的计划了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I struggled to my feet, thinking, Forget how I got here, I am here, I must get out of here, I have to live. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我挣扎着站起来，心想，别管是这么落到这步田地的，既然已经走到这步，我现在必须得冲出这里，我得活下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I began to wonk and wonk, and once they had fallen back, with Adams and his teen-age boy huddled over the littlest one, who had unfortunately flown relatively far due to a bit of a kick I had given her, I took out my lighter and fired up the bag, the bag of toxics, and made for the light at the top of the stairs, where I knew the door was, and the night was, and my freedom, and my home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我开始拳打脚踢，把他们逼退。我看到亚当斯和他那十几岁的儿子，正围在他小女儿的身边。刚才她不巧被我一脚踢飞，飞得稍微远了点。我掏出打火机，点着了那些装着有毒物品的口袋，然后朝楼梯口的亮处奔去，我知道门就在那里，外面就是黑夜，就是自由，就是我的家。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

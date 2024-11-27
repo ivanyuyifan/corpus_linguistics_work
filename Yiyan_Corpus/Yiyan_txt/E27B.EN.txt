@@ -1,0 +1,39 @@
+Everything with Pictures in PowerPoint - Part 3
+How to Ensure Quality Images in PowerPoint 
+Apply Animations the Smart Way.
+Image quality, animations and layouts are the subject of our third blog post in the series of everything about pictures. 
+You will certainly have encountered the problems described here as image quality and image layouts are matters you can't get around and are among the most popular issues when it comes to image processing. 
+The secret here lies not in understanding the fundamentals, but rather in helping yourself to useful tricks that can help solve arising problems.
+Bigger Photos Without Quality Loss
+A Description of the Technique 
+Since the progress of digital photography, presentations have an increasing amount of pictures. 
+Most of the time, these pictures or graphics have a high pixel size that can be manually adjusted on the template by zooming in and out or altering the size. 
+However, even with a high megapixel, the picture may be blurry. 
+You may easily change this to achieve the optimal quality with a simple trick.
+Basic Concept: Don't reduce the size of your picture, but rather let PowerPoint do the resizing for you by calculating the megapixels internally.
+Observe the difference of this technique in an example of a zoomed-in figure of a saint. 
+The head figure here is cut-out from a large original photograph and then duplicated.
+The left image was reduced with the mouse, while the right image was also changed with the mouse, but to the final desired size.
+Now, the right image is changed with the effect >Grow/ Shrink, >25%.
+This step is repeated again to the right image, with the effect >Grow/ Shrink, >25%. 
+After this, both images are the same size.
+Finally, BOTH images are selected and the option >Grow/ Shrink, >1500% is applied.
+The difference in quality is astounding.
+At the beginning, this method may seem a bit out of your way, however, the process gets much faster after a few rounds and the result is worth the few extra clicks! After all, no one wants bad quality.
+The example shows two identical photos, but edited differently. 
+Both are first made smaller; one manually with the mouse and the other with the help of the animation options. 
+They are then both zoomed-in by 250%. 
+Although these pictures are identical, the quality of the details is clearly very different.
+Experiment with your own pictures and see the difference yourself. 
+Here is a step by step process how these pictures were edited:
+Left picture:
+Insert from the desktop to the template with >Insert, > Picture.
+Reduce the size of the image with the use of your mouse.
+Resize the image by going to >Animations and >Grow/ Shrink. 
+Enlarge the image by clicking on Animation Pane, >Picture 1, then choose >Effect Options and increase the image to your desired size.
+Right picture:
+Insert from the desktop to the template with >Insert, > Picture.
+Resize the image by going to >Animations and >Grow/ Shrink.
+Click on Animation Pane and a box should appear on the right side of your screen. Find the drop down arrow of >Picture 1, then choose >Effect Options and reduce the image size (try 40% or something comparable). 
+You can enter a custom size, but make sure you hit the >enter key (not OK) after typing your percentage, or the size will not be registered.
+Adjust the time lapse to 0.01 seconds by going to >Animation Pane, >Timing and >Duration.

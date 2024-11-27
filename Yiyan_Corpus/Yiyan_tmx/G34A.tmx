@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160123T091243Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SCIENCE HERO: DAME CICELY SAUNDERS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英雄科学家：西西里·桑德斯女士</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dame Cicely Saunders (June 22, 1918¨CJuly 14, 2005) founded the modern hospice and started a worldwide movement to provide compassionate care for the dying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西西里·桑德斯女士（1918年1月22日——2005年7月14日）开创了现代临终关怀体系，使全世界开始关注并善待生命垂危者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A nurse, social worker and doctor, she established new methods of pain control and a multi-faceted, holistic approach to care giving. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是一名护士、社工，也是一名医生，她建立了临终关怀体系——一个以疼痛控制新方法和多方位治疗相结合的全面护理体系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This led to the development of a new medical specialty, palliative care, and the contemporary hospice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她推进了新医学的发展，尤其是缓和疗法和现代临终关怀的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We have to concern ourselves with the quality of life as well as its length," Dame Cicely, as she was known affectionately in England, declared. This pioneering woman opened the first modern hospice in a residential suburb of London in 1967. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们必须关心生命的质量，一如我们关心生命的长度”，西西里·桑德斯，这位被英国人民亲切地称为桑德斯女士的女性先驱，于1967年在伦敦郊外成立了第一家现代安宁院，圣克里斯多弗安宁院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today, St. Christopher's Hospice welcomes around 4,000 visitors annually and more than 50,000 health care professionals from all over the world visit and train there.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天，圣克里斯多弗安宁院每年都要接待来自全球各地、超过四千名访客和五万多名前来学习训练的保健专家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Beginning</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事的开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders was from a well-to-do family, but her parents' marriage was an unhappy one and her mother was cold and uncaring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯出身于一个小康之家，然而她的父母之间相处并不融洽，她的母亲经常板着脸，对一切不闻不问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not one to feel sorry for herself, Saunders started her university education in Oxford in 1938, but when World War II broke out, she took up nursing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1938年， 桑德斯还没来得及为自己难过便入读牛津大学。随后二战爆发，她选择到夜校学习护士课程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1945 her parents divorced and she converted from agnosticism to evangelical Christianity. "I prayed to know how best to serve God," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1945年父母离婚后，她从无神论者皈依成为新教徒。“我向上帝祈祷，想知道应该怎么做才能更好的服侍他”，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The answer came soon enough. "My story in this field goes right back to 1948 when I was a social worker­ meeting a young Polish Jew who had an inoperable cancer," Saunders says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案很快揭晓， “我在这一行的故事要回溯到1948年，那时我是一名社工......我遇见了一名波兰的犹太小伙子，他当时得了一种手术无法治愈的癌症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I became very fond of him." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>慢慢地，我就迷上了他。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>David Tasma had escaped the Warsaw ghetto and was dying in a London hospital.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大卫·塔斯马（David Tasma）从华沙犹太人区逃到英国，在伦敦一家医院病逝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A Window In Your Home" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一扇家园的窗”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tasma's pain, loneliness and anguish had a profound affect on Saunders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塔斯马的病痛不安、孤苦无依深深影响了桑德斯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She visited Tasma frequently in the last two months of his life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在塔斯马生命的最后两个月里，她经常到医院陪他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Saunders and Tasma spoke of his looming death, Saunders had a revelation: "I realized that we needed not only better pain control but better overall care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她和塔斯马谈论到挥之不去的死亡阴影时，她渐渐顿悟 "我意识到对于病人，我们不仅需要帮助他们减轻疼痛，更需要对他们进行全面细致的照顾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People needed the space to be themselves. I coined the term 'total pain,' from my understanding that dying people have physical, spiritual, psychological, and social pain that must be treated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们都需要空间来回归本我，我称这是“整体疼痛”。根据我对病人的了解，他们在去世前忍受着肉体痛楚、精神痛楚、心理痛楚还有社交痛楚，这些都是必须面对的痛楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have been working on that ever since."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那时起我就致力于改善这种情况。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At his death, Tasma bequeathed her 500 pounds and said he'd "be a window in your home." As a result of their conversations and his gift of love, Saunders discovered her mission: to ease all kinds of end-of-life pain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塔斯马病逝时给桑德斯留下500磅遗产，他说他将为她开启“一扇家园的窗”。作为对他们之间的交心、他的礼物和爱的报答，桑德斯确认了自己的使命：为生命垂危者减轻所有痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a 2002 interview for The Daily Telegraph of London, she said, "I didn't set out to change the world; I set out to do something about pain." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2002年，她在伦敦《每日电讯报》（The Daily Telegraph ）的采访中坦言，“我并不想改变这个世界，我只想改变人们忍受的痛苦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders' work was a "personal calling, underpinned by a powerful religious commitment," wrote David Clark, an English medical school professor of palliative care and Saunders' biographer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如大卫·克拉克，这位英国医学缓和治疗教授和桑德斯自传的作者所说，桑德斯的所作所为纯粹是一份“强大、虔诚的宗教信仰下的个人感召”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Doctor for the Dying</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>垂死者的医生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compelled by her mission, she volunteered at St. Joseph's Hospice in London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出于使命感，桑德斯一直为圣约瑟夫安宁院（St. Joseph's Hospice）义务工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because the patients were perceived as beyond help, the nuns didn't stick to pain control guidelines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于都被告知要全力帮助病人，护士们也就不再拘泥于用药剂量指导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders learned to administer morphine before pain appeared, thus staying ahead of the pain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯因此懂得在病人感到疼痛之前就使用吗啡，尽量避免发生疼痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This would later influence her ideas about pain management and treatment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种做法影响了她今后对疼痛管理和治疗的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders conceived of giving patients a regular pain control schedule, which, in her words, "was like waving a wand over the situation."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她认为给病人定时配给定量的止痛药药剂，“一切”，用她的话来说， “就像挥舞着魔杖，倏地一声，起死回生”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her surgeon friend advised Saunders that if she were dedicated to pain management and caring for the terminally ill, people wouldn't listen to a nurse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯的外科医生朋友建议道，如果她真想在管理减轻疼痛和关爱垂危病人方面有所建树，她的护士文凭肯定会成为一个障碍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, at the age of 33, at a time when there were few women doctors, she studied to be a physician. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，桑德斯以三十三岁的高龄，在几乎没有女性医生的时代背景下，决定考取医生资格证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she earned her medical degree in 1957 she became the first modern doctor to devote her career to dying patients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯于1957年获得医生文凭，成为第一名以改善生命垂危者生活质量为己任的当代医生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While still working at St. Joseph's, she met the second Pole in her life, 60-year old Antoni Michniewicz. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来她在圣约瑟夫安宁院工作时遇见了生命中第二个波兰人，六十岁的安东尼·米其尼维兹（Antoni Michniewicz）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He inspired her to name her own hospice for people in the final stage of life's journey. He suggested she name it after the patron saint of travelers, St. Christopher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他鼓励她为生命垂危者开一间自己的安宁院，并建议用为旅人提供避难所的圣人，圣克里斯多弗的名字命名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would take her another ten years to open St. Christopher's Hospice, the world's first modern hospice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯将耗费时间十年成立圣克里斯多弗安宁院，全世界第一家现代安宁院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And she'd spend more than 50 years trying to humanize the dying experience for patients and their families.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而她将花上超过五十年的时间来帮助临终者及其家人学会如何体面地面对死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>St. Christopher's Hospice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>圣克里斯多弗安宁院</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1967, St. Christopher's Hospice in London opened and sparked the modern hospice movement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1967年，圣克里斯多弗安宁院成立于伦敦，掀起了现代临终关怀运动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tasma's "window," is remembered with a plain sheet of glass in the hospice's entrance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在安宁院的入口处放置着一块平板玻璃，以纪念塔斯马所说的“窗”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clearly, Saunders had strong Christian convictions and felt a divine calling, but her hospice was a haven for people of all persuasions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然桑德斯本人有强烈的宗教信仰并感召到神圣的呼唤，不过圣克里斯多弗安宁院却是所有持不同信仰人们的避难所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders proved to be an outstanding planner, medical administrator, energetic fund-raiser and publicist as well as a passionate visionary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实证明桑德斯是一名出色的谋划家、医学管理家、精力充沛的募捐人、政论家和狂热的梦想家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She believed that "to face death is to face life and to come to terms with one is to learn much about the other." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她坚信 “面对死亡就如同面对生命，二者互相裨益”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Combining clinical care with teaching and research, here was a true home and sanctuary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>圣克里斯多弗安宁院将临床护理与教学、研究相结合，这里仿佛是真正的家园和避难所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Patients could be treated medically, as well as garden, write, get their hair styled, and take art classes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里，病人可以得到医学治疗，还可以参加园艺课程、写作课程、做做发型、学学艺术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After happening on some beautiful art herself, Saunders fell in love with yet another Polish man, artist Marian Bohusz-Szyszko. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在见证自己经历的美丽历程之后，桑德斯与另一名波兰男子陷入爱河，艺术家马里安·波胡兹·什史科（Marian Bohusz-Szyszko）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They married when she was 61 and he was 79 and in poor health. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们结婚了，这一年她61岁，他79岁，身体孱弱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She covered the walls of St Christopher's, where he came to live and paint, with his pictures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她遮住圣克里斯多弗安宁院的外墙，让什史科专心生活、作画。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He died at St. Christopher's.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什史科最后病逝于圣克里斯多弗安宁院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Spread of the Hospice Movement </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现代临终关怀运动的传播</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 60s, Saunders' many travels to New York, Los Angeles and Boston set the groundwork for the spread of hospices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯在60年代多次造访纽约，洛杉矶，波士顿，为传播临终关怀奠定了基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After speaking at Yale-once with Elisabeth Kubler-Ross--Saunders inspired Florence Wald in Connecticut, who is credited with founding the US hospice movement in 1971.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一次耶鲁大学的演讲中——与伊莉莎白?库伯勒?罗斯一道，她激励了来自康乃迪克州(Connecticut)的弗洛伦斯·瓦尔德，后者成为1971年美国临终关怀运动的主要推动者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even when she was just a member of the audience, Dame Cicely was a beacon for others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使藏身于观众席，桑德斯仍散发独特光芒。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I sat next to her at a lecture in the late 70s," said Ann Armstrong Dailey, founder of Children's Hospice International. "She was really stately and had such a towering presence." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际儿童临终关怀i组织的创办者，安·阿姆斯特朗·戴莉（Ann Armstrong Dailey）说“ 在70年代末的一场演讲里，她就坐在我旁边，典雅端庄，有一种卓立不群之感。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dailey added, "Her spirit is large and her heart is large. She broke all kinds of ground for this movement. We're all grateful to her."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴莉又说道 “ 她的精神和她的心胸一样开阔，她扫清了现代临终关怀发展会遇到的一切困难，对此我们都心存感激。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At a time when many embraced euthanasia, Dame Cicely Saunders had a different viewpoint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个提倡安乐死（euthanasia）的年代，桑德斯女士的见解异于常人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her vision "led to a model that has changed the face of dying across the world," according to the Pioneers of Hospice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位临终关怀运动的开创者认为 “应该产生新楷模，以改变世界对死亡的看法” （led to a model that has changed the face of dying across the world）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are currently 3,200 hospices serving 900,000 patents in the US alone and 8,000 hospices in 100 countries around the world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，单单美国就有3200间安宁院、服务于90万名病人；而全球100多个国家有着8000间安宁院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her Legacy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯传奇</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fittingly, Dame Cicely died at St. Christopher's Hospice in 2005, at age 87. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切有如天成，桑德斯于2005年在圣克里斯多弗安宁院去世，享年87岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The New York Times said she "reshaped end-of-life care." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《纽约时报》称她“改变了整个临终关怀体系”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a deeper sense, Saunders transformed how we care for those with terminal illnesses as well as the bleak way we look at dying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>深刻的说，桑德斯使人们积极对待病危者，不再冷眼旁观死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of her legacies is the change in pain management. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个关于她的传奇是是她对疼痛的管理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saunders' questioned practitioners' fear that their dying patients would become addicted to medications. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些业者担心垂死者会对药物上瘾，桑德斯对此不置可否。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than respond to pain with intermittent sedation, Saunders' novel method of pain control provided a steady state in which a dying patient could remain conscious and maintain a good quality of life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的管理方式已经证明，与其断断续续给予药物止痛，不如通过定点定量的药物管理，使病人保持神智清醒，并且好好享受生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moving beyond physical pain, one of her lasting contributions to health care was her concept of "total pain." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>疼痛管理之外，桑德斯为医疗事业做出的另一贡献是她提出的概念，全方位疼痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This included physical, emotional, social, and spiritual elements. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全方位疼痛包括了身体、情绪、社交以及精神因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She focused on caring for the whole person and enfolding their family and friends within that care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯借此概念，将个人和他的家人、朋友全部纳入关怀体系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This led to the development of a new medical specialty, palliative care, and modern hospice philosophy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个概念催生了现代临终关怀理念，和另一个医学专业的发展，即缓和疗法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cicely Saunders lectured widely, published articles, edited and wrote books and launched the Cicely Saunders Foundation to promote research into palliative care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西西里·桑德斯做了无数演讲、出版了无数文章、编写了无数本书，她还成立了西西里·桑德斯基金会以推动临终关怀进行相关的研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The formidable leader was made a Dame Commander of the British Empire, awarded the Templeton Prize (the world's richest annual prize awarded to an individual) and given the prestigious Order of Merit by Queen Elizabeth II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位广受爱戴的领袖被授予英国皇家女爵称号（Dame），获颁坦普頓奖（Templeton Prize，全球奖金最高的年度个人奖），更获得伊丽莎白女王二世颁发荣誉勋章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2001, St. Christopher's Hospice garnered the Conrad N. Hilton Humanitarian Prize, the world's largest humanitarian award and the organization honored Dame Cicely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>圣克里斯多弗安宁院于2001年获得康拉德希尔顿人道主义大奖（ Conrad N. Hilton Humanitarian Prize），这是全球最大的人道主义奖项，西西里·桑德斯亦获得该奖表扬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2005, the National Portrait Gallery unveiled another portrait of her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2005年，英国国家肖像馆 开始陈列另一幅西西里·桑德斯的肖像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dame Cicely Saunders was an Englishwoman who had a huge impact on our world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑德斯女士，这位英国女性，对世界影响深远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet, her philosophy was simple. As she said to patients, "You matter because you are you, and you matter to the last moment of your life."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的哲学看似简单，然而诚如她对病人所说，“ 你重要，因为你是你；你重要，即使在生命的最后一刻。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

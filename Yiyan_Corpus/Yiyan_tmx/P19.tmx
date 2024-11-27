@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T053102Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Complicity</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>默契</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was a hiccupping boy, my mother would fetch the back-door key, pull my collar away from my neck, and slip the cold metal down my back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小时候，每当我打嗝，妈妈总会取来后门钥匙，替我把衣领放下，接着把那冰冷的金属钥匙塞到衣服里面，贴着我的背。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, I took this to be a normal medical- or maternal- procedure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我觉得，这只是简单的医疗程序，或者说是母爱的给予。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only later did I wonder if the cure worked merely by creating a diversion, or whether, perhaps, there was some more clinical explanation, whether one sense could directly affect another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到后来我才感到疑惑，难道仅仅通过注意力的转移也能达到治愈的目的，或者是否可能有更加科学合理的解释，是否一种感觉会直接对另一种产生影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was a twenty-year-old, impossibly in love with a married woman who had no notion of my attachment and desire, I developed a skin condition whose name I no longer remember. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十岁时， 我爱上了一个已婚女人，然而对于我的爱恋和欲望，她丝毫没有察觉，这实在令人难以置信。后来我患了皮肤病，至于病名已记不清了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My body turned scarlet from wrist to ankle, first itching beyond the power of calamine lotion, then lightly flaking, then fully peeling, until I had shed myself like some transmuting reptile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从手腕到脚踝都呈现出猩红状，开始时奇痒，涂上炉甘油也无济于事；后来皮肤开始脱落，先是成片，接着成块，直至最后我整个人脱落成了如同某些蜕变了的爬行动物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bits of me fell into my shirt and trousers, into the bedclothes, onto the carpet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>衬衣中，裤子内，被单里，地毯上，皮脱得到处都是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only parts that didn't burn and peel were my face, my hands and feet, and my groin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全身上下仅有脸部、双手、双脚和腹股沟处没有灼伤而蜕皮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't ask the doctor why this was the case, and I never told the woman of my love.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有咨询医生为什么会这样，也从来没有告诉我爱的那个女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I divorced, my doctor friend, Ben, had me show him my hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>离婚后，我的医生朋友本，让我伸出手给他瞧瞧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked if modern medicine was going back to palmistry, as well as to leeches; and, if so, whether astrology and magnetism and the theory of humors could be far behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我问他难道现代医学竟退回到了以往的手相术和水蛭治疗。如果这样的话，那占星术、磁力学和体液说岂不是还很远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He replied that he could tell from the color of my hands and fingertips that I was drinking too much.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他答道：从我双手以及指尖的颜色可以断定，我喝酒过多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, wondering if I had been duped into cutting down, I asked him if he had been joking, or guessing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我思忖着他是否在骗我，让我少喝点。于是我问他是不是在开玩笑，或者仅仅只是猜想而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned my hands palm uppermost, nodded in approval, and said that he would now look out for unattached female medics who might not find me too repugnant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他向上摊开我的手掌，点头表示同意，并对我说现在开始他会帮我留意，找一个不会对我反感的未婚女医生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first time I met her was at a party of Ben's; she had brought her mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次遇见她是在本举办的晚会上，她带了她母亲一起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you watched mothers and daughters at parties together, and tried to work out who is taking care of whom? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你注意过有母亲和女儿一起参加晚会的吗，想想到底是谁照顾谁呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The daughter giving Mum a bit of an outing, Mum watching for the sort of men her daughter attracts? Or both at the same time? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女儿带母亲出来活动活动，还是母亲要留意女儿对哪种男人有吸引力，或者两者兼而有之？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if they're playing at best friends, there's often an extra flicker of formality in the relationship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使和最好的朋友开玩笑，她们的关系也免不了有那么一点拘泥于形式的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Disapproval either goes unexpressed or is exaggerated, with a roll of the eye and a theatrical moue and a "She never takes any notice of me, anyway."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有反对意见，要么隐藏不说，要么表现得极为夸张，眼珠一瞪，眉头一皱，那样子极其做作，心想：反正她从来都不理会我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were standing there, in a tight circle with a fourth person my memory has blanked out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们三个站在那，另外还有一个人，我记不起来了。四个人围成一个圈，靠得很紧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was opposite me, and her mother was on my left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她和我面对面，她母亲在我左边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was trying to be myself, whatever that might be, and at the same time trying to make that self acceptable, if not actually pleasing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管怎样，我极力表现得自然大方，同时，表现得至少可以让人接受，如果不是令人满意的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pleasing to her mother, that is; I wasn't bold enough to try to please her directly- at least, not in company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想让她母亲满意，然而我不够勇敢自信，无法直截了当地取悦她，至少当众不敢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can't remember what we talked about, but it seemed to be going O.K.; perhaps the forgotten fourth helped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无法记起我们谈话的内容，但是似乎一切顺利，也许是已忘却的右边的那个人帮了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I do remember was this: she had her right arm down by her side, and when she caught me looking in her general direction she inconspicuously made the smoking gesture- you know, the first two fingers extended and slightly parted, the other fingers and the thumb bent away out of sight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而我的确记得这样一个场景：她放下右手，发现我朝她那边望时，便偷偷地做了个吸烟的手势，也就是食指和中指伸长，稍微叉开，拇指和另外的手指向里弯着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought, A doctor who smokes, that's a good sign. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我认为这对于吸烟的医生来说是一个极好的示意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the conversation continued, I got out my packet of Marlboro Lights, and without looking- my activity, too, was at waist level- extracted a single cigarette, returned the pack to my pocket, took the cigarette by the filter tip, passed it around her mother's back, and felt it being taken from my fingers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们继续聊天，我看都没看，便拿出一包万宝路香烟，抽出一根，然后放回口袋，拿着有过滤嘴的一头，从她母亲身后递给她，感受着她从我手中接过——这一切动作都是在腰身部位进行的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Noting a slight pause on her part, I went back to my pocket, took out a book of matches, held it by the striking end, felt it being taken from my fingers, watched her light up, exhale, close the book of matches, then pass it back behind her mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的动作很快，没有丝毫停顿。我又缩回口袋，抽出一包纸板火柴，拿着点火的一头递给她，感受着她从我手中接过。我看着她点燃，吸了一口，合上火柴盒，然后从她母亲身后递给我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I received it, delicately, by the same end as I had given it out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我小心翼翼地接过，拿着我递给她时相同的一端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I should add that it was perfectly obvious to her mother what we were doing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我应当补充一句，我们的所作所为对她母亲而言是再明显不过了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she didn't say anything, sigh, give a prim glance, or rebuke me for being a drug peddler. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她什么也没有说，没有简单的示意，没有拘谨的一瞥，甚至没有指责我是个贩毒分子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I instantly liked her for this, assuming that she approved of the complicity between me and her daughter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正因为此，我对她立即产生了好感，以为她会对我和她女儿之间的同谋表示赞同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She could, I suppose, have been deliberately holding back for strategic reasons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜想，她也许故意这样做，因为战略方面的原因，她还在犹豫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I didn't care, or, rather, didn't think to care, preferring to assume approval. But this isn't what I was trying to tell you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我并不在意，更确切地说，我根本就不会考虑到这一点，宁愿假设她赞同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The point wasn't about her mum. The point was those three moments when an object passed from one set of fingertips to another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而这些并非我要讲给你们听的，关键不在于她母亲，而在于东西在我和她手指之间传递的那三个瞬间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was the nearest I got to her that evening, and for weeks to come.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是那个晚上和接下来的几周内我和她最亲密的接触。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you ever played that game where you sit in a circle and close your eyes, or are blindfolded, and have to guess what an object is just from the feel of it? And then you pass it on and the next person has to guess? Or you keep your guesses to yourselves until you've all made up your minds, and then announce them at the same time?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是否玩过这样一个游戏：一群人坐着，围成一个圈，闭上眼睛，或者用布蒙住眼睛，然后摸一样东西，你得猜出它的名字，接着你传递下去，由别人继续猜；或者你先保留你的猜想结果，等到大家都做好决定后再同时宣布各自的答案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ben claims that once, when he played it, a mozzarella cheese was passed around and three people guessed that it was a breast implant. That may just be medical students for you, but there's something about closing your eyes that makes you more vulnerable, or drives your imagination to the gothic- especially if the object being passed is soft and squishy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本说他曾玩过一次，传递的东西是块意大利干酪，而他们三个都猜是乳房植入物，那是因为他们都是医科学生的缘故。但是当你闭上眼睛，传递的某些东西，特别是触摸起来柔软且有弹性的东西，确实能够使你的神经变得更加敏感而脆弱，把你的想象带到遥不可及的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In all the times I've played the game, the most successful mystery item, the one guaranteed to freak somebody out, was a peeled lychee.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个游戏我玩过多次，最有趣的那次，猜的东西非常神秘，奇异，令人极度兴奋，竟是一颗剥了皮的荔枝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some years ago- ten, fifteen?- I went to a production of "King Lear" played against a bare brick backdrop, with brutalistic staging. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年前，十年或十五年前，我观看了戏剧《李尔王》的制作，舞台背景仅有转墙，演出场面却很残酷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can't remember who directed it, or who played the title role, but I do remember the blinding of Gloucester. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>导演和演员阵容我已淡忘，但我记得格劳斯特双眼被弄瞎的场面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is usually done with the Earl pinioned and bent back over a chair. Cornwall says to his servants, "Fellows, hold the chair," and then to Gloucester, "Upon these eyes of thine I'll set my foot." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时格劳斯特伯爵被捆绑在椅子上，康沃尔一声令下：“伙计们，扶住椅子！”随着对格劳斯特吼道：“我要用脚踢掉你的双眼！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One eye is put out, and Regan chillingly comments, "One side will mock another; the other too." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旁的瑞根狠心地说道：“这一边将要嘲笑另一边，把那一边也去了罢！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, a moment later, the famous "Out, vile jelly!" and Gloucester is pulled upright, with stage gore dripping down his face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，随着那众所周知的一声叫喊：“出来，一汪的臭黏浆！”，格劳斯特伯爵被从椅子上拧起来，立在那，鲜血顺着脸颊直往下流，滴在舞台上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the production I saw, the blinding was done offstage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这场戏中，我注意到格劳斯特双眼被弄瞎场面的拍摄是在幕后完成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I seem to remember Gloucester's legs flailing from one of the brick wings, though perhaps that is a later invention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我似乎记得格劳斯特双腿在转墙一侧摆动的情景，尽管那有可能是我后来才想到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do remember Gloucester's screams, and finding them all the more terrifying for being offstage: perhaps what you can't see frightens you more than what you can. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的确记得格劳斯特的尖叫声，觉得在幕后发出来的好像更加恐怖。也许看不见的东西带来的恐惧比起看得见的更令人毛骨悚然。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, after the first eye was put out, it was lobbed onto the stage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，第一只眼被踢掉后，从空中落在了舞台上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my memory- in my mind's eye- I see it rolling down the rake, faintly glistening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我的记忆中，在我的脑海里，我看见它从耙子上滚下来，还奄奄一息地闪着泪光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More screams, and another eye was tossed from the wings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着又是尖叫声，另一只眼睛从舞台侧面被抛了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were- you guessed- peeled lychees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想，它们也是“剥了皮的荔枝”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then this happened: Cornwall, lanky and brutish, stamped back onstage, tracked down the lychees, and set his foot on Gloucester's eyes a second time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着上演的便是这样一幕：丑陋而凶残的康沃尔跺着脚走上前台，找到“荔枝”，再一次践踏在格劳斯特伯爵的眼睛上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another game, from back when I was a hiccupping boy at primary school: In the morning break, we used to race model cars on the asphalt playground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一个游戏，是我幼年上小学时玩的。上午休息时分，我们常常在沥青操场上玩模型赛车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were about four inches long, made from cast metal, and had real rubber tires, which you could roll off the wheels if you felt like simulating a pit stop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车子长四英寸，由石膏金属制成，但轮胎是真的橡胶。这样的话，如果你想模拟加油，便可以卸下车轮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were painted in the bright colors worn by the racing marques of the day: a scarlet Maserati, a green Vanwall, a blue . . . perhaps something French.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车子都漆上了绚丽的颜色，打造成当时流行的赛车样式，比如红色的玛莎拉蒂，绿色的凡沃尔，或是蓝色的法国某名牌车型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The game was simple: the car that went the farthest won. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>游戏规则很简单，跑得最快的车获胜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You pressed your thumb down onto the middle of the long bonnet, pulling your fingers up into a loose fist, and then, at a signal, transferred the pressure swiftly from a downward to a forward direction, sending your car off into the distance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>先用大拇指按住引擎盖的中央部位，其余手指宽松地握着，随着信号一发，迅速将压力由向下转为向前，将车推向远方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a certain technique involved in obtaining maximum propulsion, the danger being that the knuckle of your middle finger, held a fraction of an inch above the playground's surface, would scrape against the asphalt, tearing skin and costing you the race. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何获取最大推力，其中有一定的技巧，但也有一定的危险。因为你中指指关节离地面远不到一英寸之遥，可能会被沥青刮到，擦破皮，甚至输掉比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wound would scab up, and you'd have to adjust your hand, dropping the knuckle of the fourth finger into the danger area instead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外伤口会接痂，因此你得调整手指分工，让无名指指关节取而代之进入危险区域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this never produced the same velocity, so you quickly went back to the usual, third-finger technique, often ripping off the newly formed scab.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这样做，速度远不及先前，所以你又得迅速替换为一直使用的中指，于是刚接成的痂又脱落了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your parents never warn you about the right things, do they? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们的父母从来不会提醒你们做正确的事情，对吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or perhaps they can warn you only about the immediate, local stuff. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者也许他们只会教你们如何应付眼前的小事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They bandage the knuckle of your right middle finger and warn against getting it infected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会替你包扎右手中指关节的伤口，提醒你避免伤口受到感染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They explain about the dentist, and how the pain will wear off afterward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会向你讲解有关牙医的事情以及疼痛会怎样逐渐消退。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They teach you the highway code- at least, as it applies to junior pedestrians. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会教你公路法规，至少这适合年幼的行人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother and I were once about to cross a road when our father put on a firm voice and instructed us to "pause on the curb." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾有一次，我和哥哥正要穿过马路，只听见父亲对着我们大声喊，命令我们“停在路边”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were at the age when a primitive understanding of language is intersected by a kind of giddiness about its possibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我们只能听懂简单的语言，对于父亲的命令我们似懂非懂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We looked at each other, shouted, "Paws on the curb!," then squatted down with our hands flat on the edge of the roadway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们俩相互对望，大声喊道：“趴在路边！”随即蹲下，双手趴在车行道旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our father thought this was very silly; no doubt he was already calculating how long the joke would run.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲觉得这太可笑了，想必他早已在估算这个笑话会持续多久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nature warned us; our parents warned us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自然告诫我们，父母也告诫我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We understood about knuckle-scabbing and traffic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们懂得了关节结痂以及交通规则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We learned to look out for loose carpet on the stairs, because Grandma had once nearly taken a tumble when one of her brass stair rods, removed for annual polishing, hadn't been replaced properly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们学会了留心楼梯上松动的地毯，因为曾经因年度上光，祖母家的一根黄铜楼梯杆被移除，更换时没有安装妥当，祖母差一点摔倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We learned about thin ice, and frostbite, and evil boys who put pebbles and sometimes even razor blades into snowballs- though none of these warnings were ever justified by events. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们了解了薄冰、冻疮的危害，以及坏男孩会将砾石，有时甚至是刀片放进雪球坑害他人。尽管这些没有得到事实的证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We learned about nettles and thistles, and how grass, which seemed such harmless stuff, could give you a sudden burn, like sandpaper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也知道了有些看似普通无害的小草，比如荨麻和大蓟，会像砂纸一样突然给你一道伤口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were warned about knives and scissors and the danger of the untied shoelace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人告诫我们餐刀和剪刀会伤人，鞋带松了有绊脚的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were warned about strange men who might try to lure us into cars or lorries, though it took us years to work out that "strange" did not mean "bizarre," "hunchbacked," "dribbling," "goitered"- or however we defined strangeness- but merely "unknown to us." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人告诫我们要小心陌生人，担心他们将我们引诱到小汽车或大货车里。尽管多年以后我们才明白“陌生”并不意味着“行为古怪”，“驼背”，“淌口水”，或是“得甲状腺肿瘤”，我们对于“陌生”的定义仅仅是“对我们来说不认识”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were warned about bad boys and, later, bad girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人告诫我们要远离坏男孩和坏女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An embarrassed science master warned us against V.D., misleadingly informing us that it was caused by "indiscriminate sexual intercourse." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生物老师尴尬地教导我们要同性病进行抗争，误导我们说性病是由于不加选择的性行为所导致的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were warned about gluttony and sloth and letting down our school, about avarice and greed and letting down our family, about envy and wrath and letting down our country.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人还告诫我们要防止暴食和懒惰，不辜负我们的学校；要杜绝贪念和欲望，不辜负我们的家族；要摈除妒忌和愤怒，不辜负我们的祖国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were never warned about heartbreak.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而从来没有人告诫我们如何远离心碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used the word "complicity" a bit ago. I like the word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前一阵，我用了“complicity”这个词，我喜欢这个词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To me, it indicates an unspoken understanding between two people, a kind of pre-sense, if you like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我而言，它暗含了两个人心灵深处的互相理解，一种默契，如果你喜欢的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first hint that you may be suited, before the nervous trudgery of finding out whether you "share the same interests," or have the same metabolism, or are sexually compatible, or both want children, or however it is that we argue consciously about our unconscious decisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一感觉，可能你们很相配，然后你的心情激动起来，在心里琢磨着你们两人是否志同道合，或者说你们的新陈代谢是否一致，性生活是否和谐，是否都想要小孩。然而我们总是为一些无意的决定有意地争吵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, looking back, we will fetishize and celebrate the first date, the first kiss, the first holiday together, but what really counts is what happened before this public story: that moment, more of pulse than of thought, which goes, Yes, perhaps her, and Yes, perhaps him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等到后来，回首往事，我们会崇拜并庆祝我们的第一次约会，第一次接吻，共度的第一个假日，但是真正重要的是故事之前所发生的点滴：那个瞬间，脉搏跳动远远甚于思绪跳跃的那个瞬间，也许，是她，也许，是他？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tried to explain this to Ben, a few days after his party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚会结束的几天后，我试图向本解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ben is a crossword-doer, a dictionary lover, a pedant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本是一个字谜专家，一个词典爱好者，一个学究式的人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told me that "complicity" means a shared involvement in a crime or a sin or a nefarious act. It means planning to do something bad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉我“complicity”的意思是“过失、犯罪或邪恶行为的共同参与”，它专指有计划地做坏事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I prefer to keep the term as I understand it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我更喜欢按我自己的意思去理解这个词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For me, it means planning to do something good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于我而言，它指的是有计划地做好事。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

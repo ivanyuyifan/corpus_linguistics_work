@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Measure Wind Speed with Your Own Wind Meter</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>教你如何制作风速仪表测量风速</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Key concepts</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关键概念</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Atmosphere</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大气压</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Environment</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>环境</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Speed</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>速度</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Weather</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>气候</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Wind</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>风</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Introduction </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>简介</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Have you ever wondered how wind is made? Wind is caused by a difference in air pressure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你曾经想过风是怎样形成的吗？气压的改变会形成风。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Air travels from areas of higher pressure to places where there is less pressure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空气从高气压运动到低气压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And just as air flows out of the high-pressure inside an inflated balloon if the opening is not tied, air in the atmosphere will move to a lower pressure area, creating wind. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就像如果一个膨胀的气球没有扎好，其高气压会使空气从中排除，因此空气在大气压中会运动到低气压的地方从而形成风。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The speed of that wind can be measured using a tool called an anemometer.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>风速可以用一个叫做风速表的仪器测量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An anemometer looks like a weather vane, but instead of measuring which direction the wind is blowing with pointers, it has four cups so that it can more accurately measure wind speed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>风速表看上去像一个风向标，但是它使用4个杯子来精确地测量风速而不是指出风的方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Each cup is attached to the end of a horizontal arm, each of which is mounted on a central axis, like spokes on a wheel. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>每个杯子被固定到一个水平臂上，每个杯子被安装在一条中轴上，像车轮上的轮辐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When wind pushes into the cups, they rotate the axis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当风推动杯子时，他们绕着轴旋转。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The faster the wind, the faster the cups spin the axis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>风速越快，杯子旋转轴的速度就会变快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How fast will your homemade anemometer whirl?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你自己制作的风速表转的快不？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Background </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>背景</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Air is made up of tiny molecules. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空气是由微小的分子构成的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When molecules are heated, they move faster. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当分子受热时，他们会运动地更快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequently, when air is heated, its molecules move faster and become spaced farther apart, which makes the air less dense (meaning that there are fewer molecules in a given volume). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同理，当空气受热时，它的分子运动速度变快，并且分子之间的距离增加，使其密度减少（这意味着在一定的体积内分子的数量减少了）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This also means that the air has a lower overall pressure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这同样意味着空气有着较低的气压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In comparison, cold air is made of more tightly packed molecules, and so it is denser and has relatively higher pressure.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相比之下，较冷的空气是由更加密集的分子组成的，并且它们的密度较大，有着相对高的气压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because air pressures are inclined to balance out, when there is an area of relatively lower air pressure, the surrounding air in higher pressure areas moves in. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为空气压强倾向于平衡状态，当这个地方的气压相对较低时，周围高气压的空气将运动到这里来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This movement of air from a higher pressure area to a relatively lower pressure area is what generates wind. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种运动就是风形成的原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When wind pushes the cups on the anemometer, they spin around the central axis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当风推动风速表上的杯子时，它们围绕着中央轴旋转。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How fast the cups revolve can be measured in revolutions per minute (rpm), or how many times one cup returns to the position where it started in one minute. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>杯子旋转的速度可以通过其每分钟的转数（rpm）得出，或者得出一个杯子在1分钟内往返的次数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequently, faster wind will result in a higher rpm than will a slower air movement.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，更快的风相对会得出更高的rpm。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Materials</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所需材料</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Five three-ounce paper cups (such as Dixie Cups)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>五个纸杯</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Paper hole punch or sharpened pencil</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>打孔机或削尖的铅笔</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ruler</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尺</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two straws</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两根吸管</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pin</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>打头针</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Stapler</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>订书机</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pencil with eraser</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>带橡皮的铅笔</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fan with different speeds (optional)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可调节风速的风扇（可选）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Timer (optional)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>计时器（可选）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Preparation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>准备</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Prepare four cups this way: Punch one hole in the side of each cup, about one half an inch below the rim.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用该方式准备四个杯子：在每个杯子的一侧订出一个洞，大约在边缘下面的1.5英寸处。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For the fifth cup, punch four equally spaced holes in its sides, about one quarter an inch below the rim. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于第五个杯子，在它的侧面订四个等距的洞，大约在边缘下面的四分之一英寸处。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also punch one hole in the center of the bottom.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样在它的底部的中心订一个洞。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Procedure</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制作过程</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Take a single-hole cup and push a straw through the hole until about one inch of the straw is inside the cup. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>选一个有单个孔的杯子，将吸管穿过这个洞直到吸管在杯子里的部分大概有1英寸长。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Make sure the straw is horizontal and staple it to the side of the cup. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确保吸管是水平的并把它钉在杯中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Repeat this with another single-hole cup and straw.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用另一个单孔杯子和吸管重复这个步骤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Push the empty end of each straw into one of the side holes in the five-hole cup and out the one across from it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将吸管的另一端推入含有5个孔的杯子里并穿过它。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Turn the cups so that they face the same direction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将2个杯子面对同一个方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why do you think the cups should face the same direction?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你觉得这么做的原因是什么？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Push the empty ends of each straw protruding from the fifth cup into the other two single-hole cups until about one inch of the straw is inside each cup. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>把每个吸管的末端从含有5个洞的杯子里伸入到其它2个单孔的杯子直到每个杯子内都有1英寸的吸管。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Turn the new cups so all the bottoms of the cups face the same direction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使所有的杯子底部都朝一个方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Staple the ends of the straws to the side of each cup like you did for the first two cups.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>钉住每个杯子吸管的末端，就像你刚才对一开始的2个杯子所做的一样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After making sure all cups are about the same distance from the center of the five-hole cup, carefully push the pin through the two straws where they intersect, in the middle of the five-hole cup. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确定好每个杯子到含有5个洞的杯子的中心的距离是一样的之后，小心地将打头针按进2个吸管交叉的地方，也就是在含有5个洞的杯子的中心。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Use caution when handling the sharp pin. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你处理锋利的大头针时要耐心。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why do you think it is important to use something as small as a pin for this?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你觉得为什么使用和大头针一样小的东西来做这个很重要？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Push the pencil through the hole in the bottom of the five-hole cup, eraser-end first, until it reaches the straws. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将铅笔推入含有5个洞的杯子的底部的洞，先推入有橡皮的一段，直到它碰到吸管。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Carefully push the pin into the eraser.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>小心地将大头针推入橡皮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The anemometer is now ready to measure wind speeds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在风速表已经可以测量风速了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While sitting down, try blowing very gently straight into one of the four open cups for a few seconds, then blow harder. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你坐下的时候，尝试轻轻的对着四个杯子的其中一个吹几秒，然后吹的更猛烈些。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How did blowing harder change how the anemometer turns? (If you feel light-headed or dizzy, stop and take a breather.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你吹得猛烈的时候风速表是怎么改变旋转的？（如果你感觉头晕，停下来休息一会。）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Extra: If you have a fan that turns at different speeds, hold the anemometer in front of the fan and count the number of times one cup completely turns around for 15 seconds, then multiply that value by four. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>补充：如果你有一个可以调节风速的风扇，握着风速表使它在风扇的前面并数出一个杯子15秒完全旋转的圈数，然后乘以4。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This number will be in revolutions per minute (rpm). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所得到的数字就是每分钟的转数（rpm）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Repeat this while keeping the fan at the same distance, but changing its speed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在保持风速表到风扇的距离一致的情况下，调整风扇的速度，重复这个实验。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How did the rpm change when you held the anemometer in front of the fan at a slow speed compared with a faster speed? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当风扇的速度变慢时，你所握住的风速表的rpm变化怎样？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Compared with the faster speed, do you think the rpm would be greater if you used your anemometer outside on a very windy day?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相比更快的风速，如果在一个风非常大的天气里，你把你的风速表放在外面，你认为rpm会相对大吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why do you think a faster wind makes the anemometer spin faster?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你知道为什么更快的风速可以使风速表旋转得更快吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Extra: What is the speed of the wind outside? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>补充：外面的风速是多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can take your anemometer outside on a windy day or over multiple days to measure the wind speed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你可以在有风的天气里将你的风速表放到外面或用好几天来测量风速。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You could also take your anemometer to different locations, such as an open field, a narrow passageway, a beach by the ocean or a large lake, if you live near one, to measure and compare the wind speed in those places. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你也可以将风速表放到不同的位置，比如一个空旷的地面，一个狭隘的通道，一个靠近海洋或大湖的岸上，如果你就住在其中一个地方的附近，测量和比较这些地方的风速。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is the windiest location? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>哪里是风力最强的地方？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why do you think it is so windy?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你为什么这么认为？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Extra: What is the actual speed of wind, in miles per hour (mph), that you are measuring? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>补充：如果以米每小时（mph）为单位，那么你测出的实际风速是多少？为了证实这一点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To determine this, first calculate the circumference of the circle made by the rotating cups by measuring the distance around the circle that they make (using a tape measure or a piece of string you can measure with a ruler). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，测出杯子旋转一圈的距离（使用卷尺测量或一段可以用尺测量其长度的线）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Then convert this to miles by dividing the number of inches by 12 to get feet and then dividing that number by 5,280 (the number of feet in a mile). Multiply this number by rpm. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后，通过英寸除以12获得英尺再除以5280（1米=5280英尺）将它转换为米，将这个数字乘以rpm。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Finally, divide your product by 60 (to convert minutes to hours) and you will have an approximation of the velocity at which the anemometer is spinning (in mph), although this does not take friction in to account.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后，将你的结果除以60（将每分钟转换到每小时），你就可以获得风速表旋转的速度（以mph为单位）的近似值，尽管没有把摩擦考虑进去。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Observations and results </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>观察和结果</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Were you able to see wind make the cups on the anemometer spin around? Did the faster winds make the anemometer cups spin faster compared with the slower winds?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你能够看到风使在风速表上的杯子旋转吗？更快的风相比较慢的风可以使风速表上的杯子旋转地更快吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because air is made up of tiny molecules, when wind hits something it is all of these molecules that are hitting the object. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为空气是由微小的分子构成的，当风碰撞到东西时，所以的空气分子也都碰撞了这个物体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is why when we feel wind we are really feeling these molecules hitting us. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这就是为什么当我们感觉到有风的时候我们真正感受到这些分子在撞击我们的原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A faster wind hits us harder, and also moves the cups on the anemometer more, compared with a slower wind because the faster wind is moving the molecules at a faster speed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为更快的风的分子移动速度更快，相比较慢的风，更快的风撞击我们更强硬，也使在风速表上的杯子旋转得更快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequently, in the same amount of time, a faster wind hits an object with more molecules than a slower wind does.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，在同样的时间内，更快的风的分子撞击一个物体的数量比较慢的风的分子撞击这个物体的数量要多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you have been to the beach or near a large body of water, you may have noticed it is often windy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你曾经去过海滩或靠近过大面积的水潭，你可能会察觉到那里经常有风。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is because there are different air pressures where a lot of water meets the land. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是因为大量水触及陆地的时候会产生不同的气压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Water takes more time to change its temperature compared with land, so during the day the land heats up faster, and once the sun goes down the land cools faster. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与陆地相比较，水花了更多的时间去改变它的温度。所以在白天陆地升温更快，当日落的时候陆地又降温的更快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequently, during the day there is wind blowing from the ocean to the land, or from an area of higher air pressure (colder air) to lower pressure (warmer air); in the evening the wind blows from the cold land to the warmer ocean.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，在白天风从大海吹向陆地或者从一个更高的气压的地方（更冷的空气）吹向更低的气压的地方（更热的空气），到了晚上风从寒冷的陆地吹向较暖和的大海。</seg></tuv>
+</tu>
+</body>
+</tmx>

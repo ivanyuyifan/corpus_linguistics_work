@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200919T154235Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter One Europe: The Pluralistic International Order</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章 欧洲：多元化的国际秩序</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Uniqueness of the European Order</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲秩序的独特性</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The history of most civilizations is a tale of the rise and fall of empires. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数文明的历史都是一部帝国兴衰史。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Order was established by their internal governance, not through an equilibrium among states: strong when the central authority was cohesive, more haphazard under weaker rulers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>秩序是通过对国内的统治建立的，而不是通过国与国之间的均势建立的。中央政府统一时，秩序就稳定；统治者软弱无力时，秩序就不稳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In imperial systems, wars generally took place at the frontiers of the empire or as civil wars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在帝国体系中，战争通常表现为帝国边陲燃起烽火或是爆发内战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peace was identified with the reach of imperial power.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帝国权力所及之处，也是和平所及之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In China and Islam, political contests were fought for control of an established framework of order. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国和伊斯兰世界，各种政治势力为了控制既有的秩序框架而相互角逐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dynasties changed, but each new ruling group portrayed itself as restoring a legitimate system that had fallen into disrepair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>王朝更迭，江山易主，但每一个新的统治集团均自称是在正统地重建颓败的合法体系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Europe, no such evolution took hold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲大陆没有类似的经历。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the end of Roman rule, pluralism became the defining characteristic of the European order. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗马帝国的统治结束后，欧洲秩序的最大特征就是多元化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The idea of Europe loomed as a geographic designation, as an expression of Christianity or of court society, or as the center of enlightenment of a community of the educated and of modernity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个模糊的欧洲概念逐渐浮现。它既指一个地理区域，又是基督教或宫廷社会的体现，或是一个教育水准高、步入近代社会的共同体的启蒙中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet although it was comprehensible as a single civilization, Europe never had a single governance, or a united, fixed identity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然欧洲作为一个单一的文明不难理解，它却从未有过单一的统治者或一成不变的共同认同感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It changed the principles in the name of which its various units governed themselves at frequent intervals, experimenting with a new concept of political legitimacy or international order.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲史上不同政治单元的统治经常被打断，为维护自身统治所遵循的原则，它们不断尝试新的政治合法性概念或新的国际秩序概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other regions of the world, a period of competing rulers came by posterity to be regarded as a “time of troubles,” a civil war, or a “warlord period” - a lamented interlude of disunity that had been transcended.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在世界其他地区，不同统治者相互角逐的岁月被后人视为“动荡时期”、内战或“军阀混战时期”，即一段破坏天下太平的不幸的分裂时期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Europe thrived on fragmentation and embraced its own divisions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而欧洲却因四分五裂而兴盛，并欣然接受了自身的分裂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Distinct competing dynasties and nationalities were perceived not as a form of “chaos” to be expunged but, in the idealized view of Europe's statesmen - sometimes conscious, sometimes not -  as an intricate mechanism tending toward a balance that preserved each peoples interests, integrity, and autonomy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>异彩纷呈、相互角逐的王朝和民族没有被看成是需要消除的一种“混乱”，而被理想化的欧洲政治家有意无意地视为一种趋向均势的内在机制。在这一机制下，每个民族的利益、完整性和自主权均得以保全。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For more than a thousand years, in the mainstream of modern European statecraft order has derived from equilibrium, and identity from resistance to universal rule. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1000多年的时间里，近代欧洲的主流政治韬略认为，秩序源自平衡，自我认同感源自对大一统的抵抗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not that European monarchs were more immune to the glories of conquest than their counterparts in other civilizations or more committed to an ideal of diversity in the abstract. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不是说，欧洲各国的君主比其他文明的君主更能抵制征服带来的辉煌的诱惑，或对一个抽象的多样化理想更加执着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather, they lacked the strength to impose their will on each other decisively.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲的君主只是缺乏把自己的意志强加给他人的实力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In time, pluralism took on the characteristics of a model of world order. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着时间的推移，多元化成了世界秩序的典型特点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Has Europe in our time transcended this pluralistic tendency - or do the internal struggles of the European Union affirm it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当今的欧洲是已经超越了这一多元化趋势，还是欧盟内部的纷争正好验证了这一趋势？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For five hundred years, Rome’s imperial rule had ensured a single set of laws, a common defense, and an extraordinary level of civilization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在500年的时间里，罗马帝国的统治确保了只有一套单一的法律、共同的防御和高度发达的文明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the fall of Rome, conventionally dated in 476,the empire disintegrated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗马城陷落后——通常定为公元476年——罗马帝国分崩离析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In what historians have called the Dark Ages, nostalgia for the lost universality flourished.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在历史学家称之为中世纪的时期，人们普遍怀念失去的天下归一的局面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The vision of harmony and unity focused increasingly on the Church. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希冀教廷能带来他们憧憬的和谐与统一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In that worldview, Christendom was a single society administered by two complementary authorities: civil government, the “successors of Caesar” maintaining order in the temporal sphere; and the Church, the successors of Peter tending to universal and absolute principles of salvation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据这种世界观，基督教世界是由两种互为补充的权力治理的单一社会：一个是文职政府，即在世俗社会负责维持秩序的“恺撒后继者”；另一个是教廷，即掌管普世的救赎绝对原则的圣彼得的后继者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Augustine of Hippo, writing in North Africa as Roman rule crumbled, theologically concluded that temporal political authority was legitimate to the extent that it furthered the pursuit of a God-fearing life and with it mans salvation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗马帝国统治摇摇欲坠时，在北非著书立说的（希波的）奥古斯丁从神学角度得出结论：世俗政治权力是合法的，只要它促使人追求一种敬畏上帝的生活方式以及伴随而来的救赎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>''There are two systems,” Pope Gelasius I wrote to the Byzantine Emperor Anastasius in a.d. 494,“under which this world is governed, the sacred authority of the priests and the royal power.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元494年，教皇基拉西乌斯一世致函拜占庭皇帝阿纳斯塔修斯：“当今世界处于教廷的神圣权威和皇室的权力这两套制度的统治之下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of these, the greater weight is with the priests in so far as they will answer to the Lord, even for kings, in the Last judgment.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两者中教廷的权力更大，因为他们在最后的审判日要对上帝负责，甚至要代国王对上帝负责。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The real world order was in this sense not in this world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这个意义上讲，真正的世界秩序在这个世界是不存在的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This all-encompassing concept of world order had to contend with an anomaly from the start: in the post-Roman Europe, dozens of political rulers exercised sovereignty with no clear hierarchy among them; all invoked fealty to Christ, but their link to the Church and its authority was ambiguous.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一无所不包的世界秩序概念从一开始就要面对一个非常时期：在后罗马帝国的欧洲，几十个尊卑等级不清的政治统治者各自行使主权。他们都自称是基督的虔诚信徒，然而他们与教会和教会权威的关系含混不清，对教会应具有多大的权威争执激烈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fierce debates attended the delineation of Church authority, while kingdoms with separate militaries and independent policies maneuvered for advantage in a manner that bore no apparent relationship to Augustine’s City of God.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而拥有自己军队、奉行独立政策的一些王国则伺机谋利，其行为与奥古斯丁撰写的《上帝之城》一书的精神并无相似之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aspirations to unity were briefly realized on Christmas Day 800, when Pope Leo III crowned Charlemagne, the Frankish King and conqueror of much of present-day France and Germany,as Imperator Romanorum (Emperor of the Romans), and awarded him theoretical title to the former eastern half of the erstwhile Roman Empire, at that point the lands of Byzantium.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元800年的圣诞节那天，人们对天下归一的渴望短暂地得到了满足。教皇利奥三世为征服了今天的法国和德国大部分地区的法兰克国王查理大帝加冕，称其为“罗马人的皇帝”，并把昔日的罗马帝国东半部——当时的拜占庭领土——封给了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Emperor pledged to the Pope “to defend on all sides the holy church of Christ from pagan incursion and infidel devastation abroad, and within to add strength to the Catholic faith by our recognition of it.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>皇帝则对教皇保证：“对外保护神圣的基督教会不受多神论者的入侵和异教徒的毁坏，对内肯定天主教的地位，从而加强它的力量。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Charlemagne’s empire did not fulfill its aspirations: in fact it began to crumble almost as soon as it was inaugurated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，查理大帝建立的帝国未能遂愿。实际上，它从建立之日起就开始摇摇欲坠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Charlemagne, beset by tasks closer to home, never attempted to rule the lands of the erstwhile Eastern Roman Empire the Pope had allotted him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理大帝忙于应付周边的问题，从未试图去统治教皇封给他的昔日东罗马帝国领土。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the west, he made little progress in recapturing Spain from its Moorish conquerors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在西边，查理大帝试图从摩尔人征服者手中收复西班牙，但成果甚微。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After Charlemagne’s death, his successors sought to reinforce his position by appeal to tradition,by naming his possessions the Holy Roman Empire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理大帝死后，继任者把他统治下的领土命名为神圣罗马帝国，试图借传统的感召力巩固他的地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But debilitated by civil wars, less than a century after its founding, Charlemagnes empire passed from the scene as a coherent political entity (though its name remained in use throughout a shifting series of territories until 1806).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而帝国因内战日益衰弱。查理大帝的帝国作为一个完整的政治实体，成立还不到100年即从历史舞台上消失了（虽然神圣罗马帝国这个名字一直沿用到1806年，其间它的领土几经变更）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China had its Emperor; Islam had its Caliph - the recognized leader of the lands of Islam. Europe had the Holy Roman Emperor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国有皇帝，伊斯兰世界有哈里发（伊斯兰世界公认的领袖），欧洲有神圣罗马帝国的皇帝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the Holy Roman Emperor operated from a much weaker base than his confreres in other civilizations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但神圣罗马帝国皇帝的权力基础要比其他文明的帝王薄弱得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had no imperial bureaucracy at his disposal. His authority depended on his strength in the regions he governed in his dynastic capacity, essentially his family holdings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有一个帝国官僚机构供他驱使，他的权威取决于他作为皇帝在他治下地区的实力，主要取决于他的家产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His position was not formally hereditary and depended on election by a franchise of seven, later nine, princes; these elections were generally decided by a mixture of political maneuvering, assessments of religious piety, and vast financial payoffs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的地位不是世袭的，而是由一些君主推举产生的（最初是7个君主，后来变成9个）。政治手腕、对宗教虔诚度的评价以及巨额贿赂通常决定了选举的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Emperor theoretically owed his authority to his investiture by the Pope, but political and logistical considerations often excluded it, leaving him to rule for years as “Emperor-Elect?” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从理论上讲，皇帝的权威来自教皇的授权，但出于政治上和安排上的考虑，这一授权往往被撇在一边。结果是他作为“选出的皇帝”常常多年执掌权力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Religion and politics never merged into a single construct, leading to Voltaire’s truthful jest that the Holy Roman Empire was “neither Holy, nor Roman, nor an Empire.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗教和政治从未融合成为一个单一的结构。伏尔泰戏言，神圣罗马帝国“一不神圣，二非罗马，三不是帝国”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Medieval Europe’s concept of international order reflected a case-by-case accommodation between the Pope and the Emperor and a host of other feudal rulers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中世纪欧洲的国际秩序概念反映了教皇与神圣罗马帝国皇帝及一批封建君主之间的调和关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A universal order based on the possibility of a single reign and a single set of legitimating principles was increasingly drained of any practicality.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基于单一统治者和单一合法原则之上的国际秩序变得越来越不现实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A full flowering of the medieval concept of world order was envisioned only briefly with the rise of the sixteenth-century Habsburg prince Charles (1500-1558); his rule also ushered in its irrevocable decay.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16世纪哈布斯堡君主查理（公元1500~1558）崛起后，中世纪的世界秩序概念有过一段短暂的兴盛期。他的统治同时也导致这一概念不可逆转地走向衰微。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stern and pious Flemish-born prince was born to rule; except for a widely noted taste for spiced food, he was generally perceived to be without vices and immune to distraction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位出生在佛兰芒、不苟言笑的虔诚君主生来就是做帝王的料。世人普遍认为，他除了喜欢吃饭加香料的嗜好外，个人品行无可挑剔，而且不受外界的任何诱惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He inherited the crown of the Netherlands as a child and that of Spain - with its vast and expanding array of colonies in Asia and the Americas - at sixteen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他尚是一个孩子时就承袭了尼德兰的王位，16岁时又继承了西班牙的王位，在亚洲和美洲还有广袤而且不断扩大的殖民地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shortly after, in 1519,he prevailed in the election for the post of Holy Roman Emperor, making him Charlemagne’s formal successor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后不久，1519年，他又被推选为神圣罗马帝国的皇帝，成了查理大帝的正式继任者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The coincidence of these titles meant that the medieval vision seemed poised to be fulfilled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理同时拥有几顶皇冠，意味着中世纪人的憧憬似乎有了实现的可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A single, pious ruler now governed territories approximately equivalent to today’s Austria, Germany, northern Italy, Czech Republic, Slovakia, Hungary, eastern France, Belgium, Netherlands, Spain, and much of the Americas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位虔诚的君主一个人统治了大致相当于今天的奥地利、德国、意大利北部、捷克、斯洛伐克、匈牙利、法国东部、比利时、荷兰、西班牙及美洲大部的广阔领土。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(This massive agglomeration of political power was accomplished almost entirely through strategic marriages and gave rise to the Habsburg saying “Bella gerant alii; tu, felix Austria, nube!”一“Leave the waging of wars to others; you, happy Austria, marry!”)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（这一巨大的政治权力几乎完全是靠战略上的联姻获得的，因此哈布斯堡流传着一种说法：“打仗的事留给他人。快乐的奥地利，你只管结婚就行了！”）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Spanish explorers and conquistadores— Magellan and Cortes sailed under Charles’s auspices—were in the process of destroying the ancient empires of the Americas and carrying the sacraments together with European political power across the New World. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西班牙的探险家和征服者麦哲伦和科尔特斯在查理的资助下漂洋过海，征服了美洲大陆上的古老帝国，把欧洲的政治权力和基督教的宗教仪式延伸到整个新大陆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Charles’s armies and navies were engaged in the defense of Christendom against a new wave of invasions, by the Ottoman Turks and their surrogates in southeastern Europe and North Africa.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面对东南欧和北非的奥斯曼帝国的土耳其人及其代理人的新一波入侵，查理的陆军和海军为捍卫基督教世界而战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Charles personally led a counterattack in Tunisia, with a fleet funded by gold from the New World.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理亲自统帅用从新大陆搜刮的黄金组建的舰队向突尼斯发动反攻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caught up in these heady developments, Charles was hailed by his contemporaries as the “greatest emperor since the division of the empire in 843,” destined to return the world to “a single shepherd.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在以上令人目眩的历史事件中，叱咤风云的查理被同代人誉为“自公元843年罗马帝国分裂后最伟大的皇帝”，命中注定要使世界再度归于“唯一保护者”的统治之下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the tradition of Charlemagne, at his coronation Charles vowed to be “the protector and defender of the Holy Roman Church,” and crowds paid him obeisance as “Caesare” and “Imperio”; Pope Clement affirmed Charles as the temporal force for “seeing peace and order reestablished” in Christendom.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理因袭了查理大帝的传统，在加冕仪式上发誓要充当“神圣罗马教会的保护人和捍卫者”。人群向他们的“恺撒”和“皇帝”致敬。教皇克雷芒确认查理代表了在基督教世界“重建和平与秩序”的世俗力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Chinese or Turkish visitor to Europe at that time might well have perceived a seemingly familiar political system: a continent presided over by a single dynasty imbued with a sense of divine mandate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当年若有一位中国人或土耳其人造访欧洲，很可能会看到他们熟悉的政治制度：自认为君权神授的单一王朝统治着一个大陆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Charles had been able to consolidate his authority and manage an orderly succession in the vast Habsburg territorial conglomerate, Europe would have been shaped by a dominant central authority like the Chinese Empire or the Islamic caliphate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倘若查理能巩固自己的权力，在哈布斯堡庞大的统治领域内解决好皇位继嗣问题，欧洲本来会像中华帝国或伊斯兰哈里发帝国一样，处于一个中央政权统治之下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It did not happen; nor did Charles try. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而这种情景并没有发生，查理也没有试过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the end, he was satisfied to base order on equilibrium.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终他满足于将秩序建立在均势之上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hegemony might be his inheritance but not his objective, as he proved when, after capturing his temporal political rival the French King Francis I in the Battle of Pavia in 1525,  he released him—freeing France to resume a separate and adversarial foreign policy at the heart of Europe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他继承的也许是霸权，但他的行为表明，霸权不是他追求的目标。1525年，查理在帕维亚战役中击败了他在世俗世界中的政治对手、法国国王弗朗西斯一世，然后将他释放，法国得以在欧洲腹地继续奉行敌对的外交政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The French King repudiated Charles’s grand gesture by taking the remarkable step—so at odds with the medieval concept of Christian statecraft of proposing military cooperation to the Ottoman Sultan Suleiman, who was then invading Eastern Europe and challenging Habsburg power from the east.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法国国王不理会查理的宽宏大量，竟然提议与奥斯曼帝国的苏丹苏莱曼结成军事联盟。他的这一举动与中世纪的基督教治国理念格格不入。当时苏莱曼正入侵东欧，从东边对哈布斯堡王朝构成威胁。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The universality of the Church Charles sought to vindicate was not to be had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理试图把全世界归于基督教统治之下的努力最终以失败告终。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He proved unable to prevent the new doctrine of Protestantism from spreading through the lands that were the principal base of his power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他无力阻止新教教义在构成他权力基础的领土上传播。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both religious and political unity were fracturing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗教一统和政治一统均出现裂痕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The effort to fulfill his aspirations inherent in his office was beyond the capabilities of a single individual.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身为君主的查理理应实现的抱负超出了他的个人能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A haunting portrait by Titian from 1548 at Munich’s Alte Pinakothek reveals the torment of an eminence who cannot reach spiritual fulfillment or manipulate the, to him, ultimately secondary levers of hegemonic rule.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>慕尼黑的老绘画陈列馆内陈列了一幅提香1548年创作的肖像画，揭示了这位显赫人物内心承受的煎熬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Charles resolved to abdicate his dynastic titles and divide his vast empire, and did so in a manner reflecting the pluralism that had defeated his quest for unity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他既不能实现他的宗教理想，又不能在被他视为低一等的霸权事业上随心所欲。查理决定退位，把庞大的帝国分封给子孙。拆散帝国的做法表明他试图统一天下的努力被多元主义挫败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To his son Philip,he bequeathed the Kingdom of Naples and Sicily, then the crown of Spain and its global empire.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理把西班牙及其全球帝国的皇冠那不勒斯和西西里王国传给了自己的儿子腓力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an emotional 1555 ceremony in Brussels, he reviewed the record of his reign, attested to the diligence with which he had fulfilled his duties, and in the process handed the States-General of the Netherlands to Philip as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1555年，在布鲁塞尔举行的一次仪式上，查理颇为动情地回顾了自己的统治，用实例证明了自己恪尽职守，同时把尼德兰总督的头衔也一并让给了儿子腓力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same year, Charles concluded a landmark treaty, the Peace of Augsburg, which recognized Protestantism within the Holy Roman Empire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同年，查理缔结了一项具有里程碑意义的条约，即《奥格斯堡和约》，承认了新教在神圣罗马帝国的地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abandoning the spiritual foundation of his empire,Charles afforded princes the right to choose the confessional orientation of their territory.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查理放弃了自己帝国的精神支柱，允许其他君主自行选择本国的宗教信仰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shortly afterward, he resigned his title as Holy Roman Emperor, passing responsibility for the empire, its upheavals, and its external challenges to his brother Ferdinand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后不久，他从神圣罗马帝国皇帝的位置上退下来，把帝国的责任连同它的动荡和外患留给了弟弟斐迪南。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Charles retired to a monastery in a rural region of Spain, to a life of seclusion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他本人去西班牙农村的一家修道院过起了隐修生活，晚年与他的忏悔神父和一个意大利的钟表匠人为伴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He spent his last days in the company of his confessor and of an Italian clock maker, whose works lined the walls and whose trade Charles attempted to learn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后者制作的钟表挂满了墙壁，查理曾想师从他学习制作钟表的手艺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Charles died in 1558,his will expressed regret for the fracturing of doctrine that had taken place during his reign and charged his son to redouble the Inquisition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1558年查理去世，在留下的遗嘱中对自己在位期间基督教义的分裂表示惋惜，并嘱托儿子加强宗教法庭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Three events completed the disintegration of the old ideal of unity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地理大发现时代的开始、印刷术的发明以及基督教教会的分裂这三大历史事件，宣告了旧的大一统理想的终结。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

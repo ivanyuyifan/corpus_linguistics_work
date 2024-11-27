@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 6 The structure of proteins  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第6章 蛋白质的结构
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Proteins are polymers. That is, they are molecules that contain many copies of a smaller building block, covalently linked.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质是多聚物，也就是说它们是由许多共价连接的、多拷贝的小构件组成的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The building blocks of proteins are a-amino acids, of which there are 20 that occur regularly in the proteins of living organisms and that are specified by the genetic code.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些构件就是有规律地存在于生命体的蛋白质之中、由遗传密码子决定的20种. . .-氨基酸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some of these amino acids can undergo modification when already part of a protein, so the actual variety in proteins isolated from cells or tissues is somewhat greater.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质中一些已存在的氨基酸还有可能会被修饰，因而从细胞或组织中分离到的蛋白质的氨基酸的实实在在的变异可能会更加多样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>THE BASICS</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>基本概念</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Amino Acids</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>氨基酸</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The . . .-carbon (. . .) of an amino acid has four substituents (Fig. 6-1), distinct from each other except in the case of the simplest amino acid, glycine.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>氨基酸的. . .-碳（. . .有4个取代基团（图6-1）。除了最简单的氨基酸——甘氨酸之外，其他氨基酸的这4个取代基团都不相同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An amino group, a carboxyl group, and a proton are three of these substituents on all of the naturally occurring amino acids.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些取代基团中的3个，即氨基，梭基和氢原子则存在于所有天然发生的氨基酸中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The fourth, often symbolized by R and sometimes called the "R group",?is the only distinguishing feature.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第四个取代基团通常简称为R，有时也称为“R基”，是唯一区分不同氨基酸的取代基团。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The R-group is also called the "side chain",? for reasons that will be clear in the next section.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在下一部分就会明白为什么R基又被称为“侧链”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because its four substituents are distinct (except for glycine), the . . . is a chiral center.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于除了甘氨酸外，其他氨基酸的这4个取代基都不相同，所以. . .是手性中心（chiral center）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Amino acids that occur in ordinary proteins all have the L-configuration at that center; D-amino acids are present in other kinds of molecules (including small protein-like polypeptides in microorganisms).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般的蛋白质中的氨基酸在该手性中心都是L-构型，而D-氨基酸则存在于其他种类的分子中（包括微生物中的类似蛋白质的小多肽）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The properties of its R group determine the specific characteristics of an amino acid.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>R基团的性质决定了氨基酸的特性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The polarity of the group, which correlates with its solubility in water, is one critical property; size is another.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该基团的极性与其在水中的溶解性有关，这是一个重要的特性，而其大小则是另一个重要的特性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is useful to cluster the R groups of the 20 genetically encoded amino acids into the following categories: (1) neutral (i.e., uncharged) and nonpolar; (2) neutral and polar; and (3) charged (Fig. 6-2).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>按照以下规则对20种常见的、组成氨基酸的R基团进行分类是非常有用的：（1）中性（不带电荷），非极性；（2）中性，极性；以及（3）带电荷的氨基侧链按基（图6-2）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The size (volume) of the side chain is of particular consequence for nonpolar amino acids because, as we shall see later, these side chains pack into the compact interior of a protein, and therefore the functional roles in proteins of glycine and alanine are quite different from those of phenylalanine and tryptophan.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如我们将在后面所看到的，对于非极性氨基酸而言，由于这些侧链紧凑地包埋在蛋白质的内侧，所以侧链的大小（体积）非常重要，因而甘氨酸和丙氨酸的功能与苯丙氨酸和色氨酸的功能相差很大。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Note also that tryptophan, although largely nonpolar, has a hydrogen-bonding group that gives it a degree of polar character, and that tyrosine, although classified in Figure 6-2 as polar because of its OH group, is much less so than serine.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里还要注意的是，尽管色氨酸主要是非极性的，但是由于它有一个氢键结合基团，因而具有一定程度的极性。而在图6-2上，虽然酪氨酸由于其0H基团而被划分为极性氨基酸，但是其极性远不如丝氨酸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In short, the boundaries between groups are less sharp than nomenclature might imply.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>简而言之，各个分类之间的界限并不如术语所表达的那么明确。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The charged R groups are either negatively charged at neutral pH (aspartic acid and glutamic acid) or positively charged at neutral pH (lysine, arginine, and histidine).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>带电荷的R基团是指中性pH条件下带负电荷（天冬氨酸和谷氨酸）或正电荷（赖氨酸、精氨酸和组氨酸）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The pKa of histidine is ~6.5, so even at neutral pH, histidine loses most of its charge.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>组氨酸的pKa约为6.5，因而即使在中性pH条件下，组氨酸也会丢失大部分的电荷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This property is particularly important for its role at the catalytic site of many enzymes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这一特性对于很多酶的催化位点非常重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Peptide Bond</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>肽键</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Peptide bonds are the covalent links between amino acids in a protein.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>肽键（peptide bond）指蛋白质中氨基酸之间的共价键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A peptide bond forms by a condensation reaction, with elimination of a water molecule (Fig. 6-3a). It is a special case of an amide bond.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>肽键是失去一分子的水而缩合形成（图6-3a），是一个特殊的酰胺键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Each amino acid can form two such bonds, so that successive links of the same kind can create a linear (i.e., unbranched) polypeptide chain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>每个氨基酸可以形成两个这样的键，因而一系列这样的键就可以形成一个线性的（也就是不分支的）多肽链（polypeptide chain）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because formation of each peptide bond includes elimination of a water, the components of the chain are known as amino acid residues, or sometimes just "residues?" when "amino acid?" is evident from context.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于在每个肽键形成时都会脱去一分子的水，因而这个链的组成成分又被称为氨基酸残基（amino acid residues），当上下文中有“氨基酸”时，有时候就直接称为“残基”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The peptide bond has partial double-bond character; the carbonyl and amide components are nearly coplanar and almost always in a trans configuration (Fig. 6-4).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>肽键有两个键的部分性质；羧基和氨基几乎共面而几乎总是呈反式构型（图6-4）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Polypeptide Chains</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>多肽链</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The word conformation describes an arrangement of chemically bonded atoms in three dimensions, and we therefore speak of the conformation of a polypeptide chain, or more simply, of its “folded structure" or fold.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>构象（conformation）一词描述的是化学键和原子在三维空间中的排列，因而我们谈及一个多肽链的构象，或者更简单的，它的“折叠结构”或者折叠。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If we follow the sequence of covalent linkages along a polypeptide chain, there are three bonds per amino acid residue-one that joins the NH group to the . . ., another that joins the . . . to the carbonyl, and finally the peptide bond to the next residue in the chain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果我们沿着多肽链共价连接的序列看，那么每个氨基酸残基有3个键——一个连接NH基团与. . .，一个将. . .与羧基相连，最后一个则是连接肽链中下一个残基的肽键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first two are single bonds with relatively free torsional rotation about them (Fig. 6-4).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>前两个键是可以相对自由旋转的单键（图6-4）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the peptide bond has very little rotational freedom, because of its partial double-bond character.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是肽键则由于具有部分双键的性质，因而仅有很少的旋转自由度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The polypeptide chain conformation is therefore specified by the values of the torsion angles about the first two backbone bonds of each residue, plus the torsion angles for each single bond in each side chain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，多肽链构象是由每个残基的前两个主链的扭转力，加上每个侧链的单键的扭转力决定的。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The two backbone angles are conventionally denoted . . . and . . ..</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常将主链的两个扭转力命名为. . .和. . .。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many combinations of these two angles lead to atomic collisions, restricting the conformational freedom of a polypeptide chain to certain ranges of each angle (see Box 6-1, Ramachandran Plot).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这两个角的许多组合会导致原子碰撞，因而限制一个多肽链的构象自由度只能是特定范围的某个角度（见框6-1）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Three Amino Acids with Special Conformational Properties</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>具有特殊构象性质的三个氨基酸</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Glycine, proline, and cysteine have special properties.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>甘氨酸、脯氨酸及半胱氨酸具有特殊的性质。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because its R group is just a proton, glycine is not chiral, and it has much more conformational freedom than any other amino acid.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为它们的R基团只有一个质子，甘氨酸是非手性的，相对于其他氨基酸而言有更多的构象自由度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Conversely, proline, in which the side chain has a covalent bond with N as well as . . . (making it, strictly speaking, an imino acid), has less conformational freedom than many other amino acids.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相反，脯氨酸侧链的. . .与N有一个共价键（严格意义上讲，脯氨酸是一个亚氨基酸），因而其相对于许多其他氨基酸而言有更少的自由度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moreover, absence of the hydrogen-bonding potential of an NH group restricts its participation in secondary structures (see the section Protein Structure Can Be Described at Four Levels).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，由于NH基团缺乏疏水势能而限制参与形成二级结构（见“蛋白质结构的四个层次”部分）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cysteine, with a sulfhydryl group (-SH) on its side chain, is the one amino acid that is sensitive to oxidation- reduction under roughly physiological conditions.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>半胱氨酸的侧链有一个巯基（—SH），在生理状态下易发生氧化还原反应。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two cysteines, correctly positioned across from each other in a folded protein, can form a disulfide bond by oxidation of the two -SH groups to S-S (Fig. 6-5). (The resulting pair of amino acids, linked by the S-S covalent bridge, is sometimes called cystine.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正确定位在折叠蛋白中的两个半胱氨酸可以通过两个一SH基团氧化成S—S而形成一个二硫键（disulfide bond，图6-5）（形成的这对依靠S—S共价连接的氨基酸有时又可称为胱氨酸）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Proteins on the cell surface and proteins secreted into the extracellular space are exposed to an environment with a redox potential that favors disulfide formation; most such proteins have disulfide bonds and no unoxidized cysteines.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>位于细胞表面，以及分泌到细胞外间隙的蛋白质暴露在易形成二硫键的氧化还原电位的环境中，因而大部分这样的蛋白质具有二硫键，没有未氧化的半胱氨酸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Living cells maintain a more reducing internal environment, and intracellular proteins very rarely have disulfide bonds.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>活细胞保持一个更加还原的内在环境，细胞内蛋白质则很少含有二硫键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Disulfide bonds enhance the stability of a folded protein by adding covalent cross-links. They are particularly critical for stabilizing small, secreted proteins, such as some hormones, and for reinforcing the extracellular domains of membrane proteins, which face a much less controlled environment than do proteins that remain in the cell interior.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>二硫键通过添加共价键来增强折叠蛋白的稳定性，这些二硫键对于稳定小的分泌蛋白，如许多激素都非常重要，在相对于细胞内蛋白而言更不易控制的细胞外环境中，二硫键对于增强膜蛋白的细胞胞外域也非常重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>IMPORTANCE OF WATER</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>水的重要性</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All molecular phenomena in living systems depend on their aqueous environment.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>生命系统的所有分子现象都依赖于含水环境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The importance of the distinction between polar and nonpolar amino acid side chains comes from their properties with respect to water as a solvent.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>极性与非极性氨基酸侧链的重要区别在于其在水溶剂中的性质。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Compare the side chains of aspartic acid and phenylalanine, which resemble acetic acid and toluene, respectively, linked to the peptide main chain. Acetic acid is very soluble in water; toluene is very insoluble.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>连接在多肽主链的侧链上的天冬氨酸和苯丙氨酸，类似于乙酸与甲苯：乙酸易溶于水，甲苯则不溶。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An aspartic acid side chain is therefore called hydrophilic, and a phenylalanyl side chain hydrophobic.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以含天冬氨酸的侧链是亲水的（hydrophilic），而甲苯侧链则是疏水的（hydrophobic）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even hydrophilic side chains can have hydrophobic parts (e.g., the three methylene groups of a lysyl side chain).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使是亲水侧链也有疏水部分（如赖氨酸侧链的3个亚甲基基团）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Water is an extensively hydrogen-bonded liquid (Fig. 6-6).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>水是含有多个氢键的液体（图6-6）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Each water molecule can donate two hydrogen bonds and accept two hydrogen bonds.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>每个水分子可以贡献及接受两个氢键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The way in which a solute affects the hydrogen bonding of the surrounding water determines its hydrophilic or hydrophobic character.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>溶质与周围水的氢键结合的影响决定了它的亲疏水性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hydrophobic molecules perturb the network of hydrogen bonds; hydrophilic molecules participate in it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>疏水分子扰动氢键网络；而亲水分子则参与氢键的形成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, it is more favorable for hydrophobic molecules to remain adjacent to each other (insolubility) than to disperse into an aqueous medium (solubility).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，疏水分子更倾向于保持彼此接近（不溶性）而非散在于溶剂之中（可溶性）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The hydrophobic character of many amino acid side chains makes it favorable for them to cluster away from water, and the hydrophilic character of others allows them to project into water.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>许多氨基酸侧链的疏水特性使它们更易成簇而远离水，而其他亲水氨基酸侧链则易溶于水。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The sequence of amino acids in a real protein has evolved so that these tendencies cause the polypeptide chain to fold up, sequestering residues of the former kind and exposing residues of the latter.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个实实在在的蛋白质的氨基酸序列由于演化而使多肽链趋于折叠，包埋起疏水残基而暴露亲水残基。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many of the huge number of possible sequences for an average-sized polypeptide chain cannot fold up in this way-if made, they either remain as randomly fluctuating, extended chains in solution (sometimes called random coils) or else they aggregate because the hydrophobic groups on one polypeptide chain cluster together with hydrophobic groups on other chains.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是许多一般大小的多肽，其可能的氨基酸序列使之并不能以此种方式折叠，它们或是随机地波动而将链在溶剂中展开（有时称为随机卷曲，random coils）；或者一条多肽链的疏水基团与另一条链上的疏水基团聚集成簇。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PROTEIN STRUCTURE CAN BE DESCRIBED AT FOUR LEVELS</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质结构的四个层次</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In analyzing and describing the structure of proteins, it is useful to distinguish four levels of organization (Fig. 6-7).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从四个不同的组织层次来分析和描述蛋白质的结构非常有用（图6-7）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first level, the primary structure of a protein, is simply the sequence of amino acid residues in the polypeptide chain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一个层次是蛋白质的初级结构（primary structure），就是指多肽链的氨基酸残基序列。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As we have seen, the genetic code specifies the primary structure of a protein directly. The primary structure is thus just a one-dimensional (1D) string, specifying a pattern of chemical bonds; the remaining three levels depend on a protein's three-dimensional (3D) characteristics.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如我们所知，遗传密码直接决定了蛋白质的初级结构，因而初级结构是一维（1D）的决定化学键的字符串；其余三个层次则依赖于蛋白质的三维（3D）性质。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The secondary structure of a protein refers to the local conformation of its polypeptide chain-the 3D arrangement of a short stretch of amino acid residues.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质的二级结构（secondary structure）指的是多肽链的局部构象——一小段氨基酸残基的三维构造。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are two very regular secondary structures found frequently in naturally occurring proteins, because these two local conformations are particularly stable ones for a chain of L-amino acids (Box 6-1).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>天然状态下的蛋白质有两种常见的二级结构，因为这两种局部构象使L-氨基酸链特别稳定（框6-1）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One of these is called the . . . helix (Fig. 6-8a).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中之一称为. . .螺旋（. . .helix，图6-8a）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The polypeptide backbone spirals in a right-handed sense around a helical axis, so that hydrogen bonds form between the main-chain carbonyl group of one residue and the main-chain amide group of a residue four positions further along in the chain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>多肽骨架沿着螺旋中轴呈右螺旋，因而每个氨基酸残基的主链堤基与多肽链C端方向的第4个残基的主链氨基形成氢键。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The other regular conformation is called a . . . strand (Fig. 6-8b).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一个常见的构象是. . .折叠（. . .strand，图6-8b）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is an extended conformation, in which the side chains project alternately to either side of the backbone, and the amide and carbonyl groups project laterally, also alternating.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>. . .折叠是一种伸展的构象，其侧链交替伸向骨架的一侧，而氨基和羰基基团也交替伸向两侧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The backbone is not quite fully stretched, so that the strand has a slightly zigzag or pleated character.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>骨架并未完全伸展，因而其链也轻微地或曲或褶。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In folded proteins, . . . strands form sheets joined by main-chain hydrogen bonds.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在折叠的蛋白质中，. . .折叠通过主链氢键形成片层结构。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Either parallel or antiparallel hydrogen-bonding patterns are possible, sometimes called parallel or antiparallel . . .-pleated sheets, respectively.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无论平行的还是反向平行的疏水结合方式都是可能的，有时又分别称为平行或反向平行的. . .折叠片层结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In real proteins, various mixed sheets are often found-rather than either strictly alternating strand directions or strictly unidirectional ones.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在实实在在的蛋白质中，经常可以发现各种混合的片层结构，多肽链并不是严格地交替方向或者严格保持单一方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The tertiary structure of a protein refers to the usually compact, three-dimensionally folded arrangement that the polypeptide chain adopts under physiological conditions.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质的三级结构（tertiary structure）通常指在多肽链适应不同生理条件的紧凑的三维折叠结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Segments of the chain may be . . . helices or . . . strands; the rest have less regular conformations (e.g., turns or loops between secondary-structure elements that allow these elements to pack tightly against each other).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>多肽区段的主要结构是. . .螺旋或. . .折叠；而其余则是不规则构象（例如，在二级结构元件间存在的有利于这些元件各自紧密包装的扭转或成环）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will outline ways to describe and classify possible tertiary structures in a subsequent section.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在随后的章节中我们将描述并列举可能的三级结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Usually, the stabilities of the secondary and tertiary structures of a polypeptide chain depend on each other.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常，多肽链的二级和三级结构的稳定性是相互依赖的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many proteins are composed of more than one polypeptide chain: quaternary structure refers to the way individual, folded chains associate with each other.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很多蛋白质不止一条多肽链：四级结构（quaternary structure）指的是各条折叠的多肽链之间相互作用的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We can distinguish cases in which there are a defined number of copies of a single type of polypeptide chain (generally called a "subunit" in this context, or a "protomer" and cases in which there are defined numbers of each of more than one type of subunit.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们可以将其分为：一定数目的单一类型的多肽链［据上下文，一般称为一个“亚单位”或者“启动子”（promoter）］；一定数目的多于一种类型、相互不同的亚单位。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In simple cases, the way in which the subunits associate does not change how the individual polypeptides fold.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>较为简单的蛋白质亚基间相互作用的方式并不影响单个多肽的折叠。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Often, however, the tertiary or even secondary structures of the components of a protein oligomer (i.e., a protein composed of a small number of subunits) depend on their association with each other.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而在大多数情况下，一个蛋白寡聚体（oligomer，由少数几条多肽链组成的蛋白质）的四级甚至是二级结构都依赖于彼此之间的相互作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In other words, the individual subunits acquire secondary or tertiary structure only as they also acquire quaternary structure.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>换句话说，单个亚单位不仅需要二级或三级结构，同样也需要四级结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One common example is the . . .-helical coiled-coil: two (or sometimes three or even four) polypeptide chains, either identical or different, adopt . . .-helical conformations and wrap very gently around each other (Fig. 6-9a).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个常用的例子是. . .螺旋卷曲盘旋（. . .-helical coiled-coil）：两条多肽链（有时三条甚至四条），相同或者相互不同，呈. . .螺旋构型并且彼此渐渐缠绕（图6-9a）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The individual chains are not, in general, stable as . . . helices on their own-if the oligomeric interaction is lost, the separated helices unravel into disordered polypeptide chains.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般单链并不如. . .螺旋稳定，如果单聚体间的相互作用消失，那么这些螺旋将解开而形成不规则的多肽链。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Protein domains</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>蛋白质的结构域</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Polypetide chains typically fold into one or more domains</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>多肽链折叠成一个或多个典型的结构域</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Folding of a polypeptide chain creates an "inside?" and an "outside?" and thus generates buried and exposed amino acid side chains, respectively.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>多肽链折叠后产生“内侧”和“外侧”，因而分别形成包埋的（buried）和暴露的（exposed）氨基酸侧链。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the polypeptide chain is too short, there are no conformations that bury enough hydrophobic groups to stabilize a folded structure.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果该多肽链很短，就不能形成包埋足够疏水基团的构象来稳定折叠结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the chain is too long, the complexity of the folding process is likely to generate errors.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果一条链太长，折叠过程过于复杂而很可能出错。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As a result of these restrictions, most stably folded conformations include between about 50 and 300 amino acid residues.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于这些因素的限制，大部分稳定的折叠构象需要50-300个氨基酸残基。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Longer polypeptide chains generally fold into discrete modules known as domains (see Box 6-2, Glossary of Terms); each domain generally falls within the 50- to 300-residue range just mentioned.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更长的多肽链一般会形成不连续的、称为结构域（domain）的模块（见框6-2，术语表）。如前所述，每个结构域通常有50-300个氨基酸残基。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The structures of individual domains of such a protein are similar to the structures of smaller, single-domain proteins (Fig. 6-10a).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样的蛋白质的每个结构域与更小的、单一结构域的蛋白质结构类似（图6-10a）。</seg></tuv>
+</tu>
+</body>
+</tmx>

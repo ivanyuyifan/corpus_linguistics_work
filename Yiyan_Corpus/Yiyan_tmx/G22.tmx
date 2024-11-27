@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072516Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Great Novelists: Jane Austen</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大作家系列：简·奥斯丁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen is loved mainly as a charming guide to fashionable life in the Regency period. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国摄政时期（1810-1820年,威尔士亲王乔治摄政时期——译者注）中，简·奥斯丁魅力无穷，因将人们引入新颖别致的生活中，而大受追捧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is admired for portraying a world of elegant houses, dances, servants and fashionable young men driving barouches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>典雅的居所、优雅的舞蹈、得体的仆人还有驾着马车的时尚青年在她笔下熠熠生辉，让她备受推崇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But her own vision of her task was radically different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但她自己的人生追求却截然不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was an ambitious - and stern - moralist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是个有着满腔抱负、却又不苟言笑的卫道士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was acutely conscious of human failings and she had a deep desire to make people nicer: less selfish, more reasonable, more dignified and more sensitive to the needs of others.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还深刻的认识到人性中的缺点，有强烈的意图让人们更加亲切友善、更为明辨是非、更加尊严端庄、对他人需要更加敏锐，同时也要减少人性中的自私自利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Born in 1775, Jane Austen grew up in a small village in Hampshire where her father was the Anglican rector. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生于1775年，简·奥斯丁在汉普郡（英格兰东南部的郡——译者注）的一个小村子里长大，她的父亲是那儿的英国国教教区长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had quite a high social status but were not at all well-off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的社会地位挺高但却并不富有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She started writing young: at only twenty-one she had a novel turned down by a major publisher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥斯丁很小的时候就开始写作了，21岁时就著有一本小说，但却惨遭出版商退回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During most of her adult life, Britain was at war with Napoleon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她成年后的大部分时光都是在英国与拿破仑间的战火中度过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two of her brothers became admirals. She did much of her writing at a tiny octagonal table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的两个哥哥都成了海军将领，而她大部分作品几乎都是在一张极小的八角桌上完成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a very good dancer and very interested in being well-dressed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是个极好的舞者，也喜欢把自己打扮的漂漂亮亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was neat, elegant and lively. She never married, though on a couple of occasions she was tempted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她衣着利落、身姿端庄、性格活泼，尽管屡受诱惑，却一生未婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mostly she lived in pleasant small houses in the country with her sister Cassandra.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大部分时光里，她都与姐姐卡珊德拉快乐地住在乡下的几间小房子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The novel was her chosen weapon in the struggle to reform humanity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小说是她在对人性改造的斗争中所选择的利器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She completed six: Northanger Abbey, Pride and Prejudice, Sense and Sensibility, Mansfield Park, Emma,and Persuasion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她共著有六部小说：《诺桑觉寺》（Northanger Abbey）、《傲慢与偏见》（Pride and Prejudice）、《理智与情感》（Sense and Sensibility）、《曼斯菲尔德庄园》（Sense and Sensibility）、《爱玛》（Emma）、《劝导》（Persuasion）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the main things she wants to teach you are:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她想教给我们的一些主要的事情是：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One: Let your lover educate you</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、让你的伴侣促进你改善自身</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Pride and Prejudice,Mr Darcy and Elizabeth Bennet start off heartily disliking each other and then, gradually realise they are in love. They make one of the great romantic couples. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《傲慢与偏见》中，一开始，达西先生和伊丽莎白·本内特两人互相心生厌恶，而却又慢慢发现两人早已坠入爱河，凑成了众多浪漫情侣中的一对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is handsome, rich and well connected; she is pretty, smart and lively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男的一表人才、家财万贯、出身名门；女的貌美如花、聪明伶俐、活泼开朗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But why actually are they right for one another?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但实际上，他们为什么又是对方的真命天子呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen is very clear. It's for a reason we tend not to think of very much today: It is because each can educate and improve the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁说得很清楚：我们现在不怎么多加思考是有原因的：因为情侣是可以互相完善、改善的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Mr Darcy arrives in the neighborhood he feels 'superior' to everyone else, because he has more money and higher status. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>达西先生初到此地时，因为出身优越、身负家财而处处倍感优越。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At a key moment, Elizabeth condemns his arrogance and pride to his face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而伊丽莎白却在一个关键时刻当面指责了他的自大傲慢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It sounds offensive in the extreme, but later he admits that this was just what he needed:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听起来刺耳不已，但过后达西承认这就是他所需要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What did you say of me that I did not deserve? ­ The recollection what I then said, of my conduct, my manners, my expression is inexpressibly painful to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你骂我的话，哪一句不是活该？”...“我心里实在过 意不去。几个月以来，一想起我当时说的那些话，表现出的那种行为， 那种态度，那种表情， 我就觉得说不出地难过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your reproof, so well applied, I never shall forget. You taught me a lesson, hard indeed at first, but most advantageous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你骂我的话，确实骂得好，叫我一辈子也忘不了。”...“你给了我一顿教训，开头我当然受不了，可是我实在受益非浅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By you I was properly humbled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你羞辱得我好有道理。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elizabeth shares this view of love as education. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊丽莎白将这种爱情观视为相互促进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They suit each other because: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们两人天造地设又是因为：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a union that must have been to the advantage of both; by her ease and liveliness, his mind might have been softened, his manners improved; and from his judgement, information, and knowledge of the world, she must have received benefit of greater importance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个结合对双方都有好处：女方从容活泼，可以把男方陶治得心境柔和，作风优雅；男方精明通达，阅历颇深，也一定会使女方得到莫大的裨益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a lesson that sounds strange because we still tend to think of love as liking someone for who they already are, and of total acceptance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一训诫听起来十分奇怪。我们仍然认为爱情就是去喜欢那个人和他的性格，并且全盘接受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The person who is right for us, Austen is saying is not simply someone who makes us feel relaxed or comfortable; they have got to be able to help us overcome our failings and become more mature, more honest and kinder - and we need to do something similar for them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥斯丁却认为，我们的真命天子不能仅是那个让我们感觉放松、舒适的人，而是要能帮助我们克服困难、成长成熟的人，他也要更加诚实、友善。反之，我们也要能为他们带来同样的帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Pride and Prejudice, Darcy and Elizabeth improve one another and then the novelist lets them get engaged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《傲慢与偏见》中，达西和伊丽莎白互相促进对方的进步和完善，作者就让他们走到了一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story rewards them because they have developed well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小说因为他们的良好进步而奖励了这对恋人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's why the novel feels so beautifully constructed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是为什么《傲慢与偏见》的文章结果如此巧妙啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not merely ingenious. It illustrates a basic truth: marriage depends on maturity and education.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不仅仅是作者独特的构思，还讲述了一个基本的真理：婚姻取决于双方的成熟与否和是否能相互促进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two: We shouldn't stop judging people; but we have to judge more carefully</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、我们要评判他人，但须加谨慎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mansfield Parkstarts when quiet, shy Fanny Price goes to live with her much richer cousins, the Bertrams at Mansfield Park, their big house in the country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《曼斯菲尔德庄园》的开篇中，安静羞怯的芬妮·普莱斯（Fanny Price）奔赴她稍有资产的几个表兄弟——伯特伦一家人（Bertrams）在乡下曼斯菲尔德庄园的大房子居住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Bertrams are smart, fashionable, confident and well-off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>博特莱姆斯一家人聪明、时髦、自信且身负巨资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In social terms they are stars and Fanny is a very minor character indeed (her cousin Julia looks down on her because she doesn't know where the different European countries are). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就地位而言，他们皆是社会名流，而芬妮只是一个小人物而已（表姐茱莉亚因芬妮分不清欧洲各国在哪而看不起她）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Jane Austen judges people by a completely different standard.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但简·奥斯丁以截然不同的视角评判他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Austen exchanges the normal lens through which people are viewed in society, a lens which magnifies wealth and power, for a moral lens, which magnifies qualities of character. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁换下了人们评判他人的“普通镜头”，因为这种镜头会放大财富和权力的作用，转而换上了能放大性格品质的“道德镜头”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than focus on who has the nicest dress, the best carriage, or the most servants, she examines who is vain, selfish or cruel; who has integrity, humility and true dignity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她并不关注谁的衣服最漂亮，谁的座驾最好，亦或是谁的仆人最多，她转而审视谁自视甚高、自私自利、残忍无度，又是谁诚实正直、谦虚恭顺、尊严端庄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through this lens, the high and mighty may become small, the forgotten and retiring figures may grow large. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过这一镜头，趾高气扬的人也能变得渺小无比，遭人遗忘的小人物也能变得伟岸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within the world of the novel, virtue is spread without regard to material wealth: the rich and well-mannered are not (as in the dominant status schema) immediately good nor the poor and unschooled bad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在小说的世界里，美德的传扬无关于物质财富：家财万贯、风度翩翩的人（例如身处统治阶级的人们）也不一定都是好人，而穷困潦倒、辍学在家的人也不都是坏人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virtue may lie with the lame ugly child, the destitute porter, the hunchback in the attic or the girl who doesn't know the first facts of geography. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美德可能存在于又丑又瘸的小孩中，也可能流淌在贫困不堪的搬运工之中，还有可能在钟楼怪人中体现，也有希望出现在那个不知道简单地理常识的女孩身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certainly Fanny has no elegant dresses, has no money and can't speak French - but by the end of Mansfield Park, she has been revealed as the noble one, while the other members of her family, despite their titles and accomplishments, have fallen into moral confusion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>芬妮当然没有优美的衣裙，也没有万贯身家，还不会说法语，但是小说的结尾中，她才是最为高贵的那个，家里的其他人空有头衔和成就，却陷入了道德的漩涡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen is not the enemy of status. She just wants to see it properly distributed and at the end of her novels it always is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁并不是社会地位的敌人，她只是想看到人们都有相应的地位而已，而在她的小说结尾中也的确如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fanny is raised up, and will become the mistress of Mansfield Park. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>芬妮脱颖而出，即将成为曼斯菲尔德庄园的女主人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her selfish, empty-headed cousin Julia, is disgraced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但她自私自利、脑中空空的表姐茱莉亚却蒙受羞辱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Three: Take money seriously</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、谨慎视金钱</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen is quite frank about money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁对于金钱直言不讳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tells us the details of people's financial status: InPride and Prejudiceshe explains that Mr Bingley has an income of GBP 4000 a year (which is clearly rather a lot); while Darcy has more than twice that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她详细地告诉了我们人们的财富地位：《傲慢与偏见》中她解释说宾利先生每年进账4000英镑（很显然这是一笔大数目）；而达西的收入却多达两倍之多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than feeling that it is not quite polite to go on about people's money or lack of it, she thinks that money is an eminently suitable topic for high-brow literature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没有为深入描述人们的财产与否而感到失礼，正相反，她认为金钱对于高等文学来讲，是个显眼的、再合适不过的话题了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She takes aim at two big mistakes people make around money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她着眼于人们在金钱上犯的两大错误。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One is to get over-impressed by what money can do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其一便是过于看重金钱的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Mansfield Park, Julia Bertram gets married to Mr Rushworth (the richest character in all Jane Austen's novels) but they are miserable together and their marriage rapidly falls apart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《曼斯菲尔德庄园》中，茱莉亚·伯特伦与拉什沃思先生（简·奥斯丁所有小说中最有钱的人）结了婚，但他们的生活却悲惨无比，最终各奔东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, equally, she is convinced that it is a serious error to get married without enough money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，简·奥斯丁深信没有足够的金钱支撑而结婚就是犯了个大错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At one point in Sense and Sensibility,  it looks like Elinor Dashwood and Edward Ferrars, who are otherwise well suited, won't be able to get married: "they were neither of them quite enough in love to think that three hundred and fifty pounds a year [a little below the middle-class average] would supply them with the comforts of life."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《理智与情感》的一段中，看起来爱莲娜·达什伍德和爱德华·费华士这对璧人就没什么好结果：“他们俩都从未想过一年350英镑（稍稍低于中产阶级水平）够不够支撑他们生活舒适。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elinor takes the view that "wealth has much to do with happiness" - though by wealth she doesn't mean great luxury, just enough to live carefully in moderate comfort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱莲娜认为“财富和幸福有很着大的关系”。尽管说到财富，她并不是说大富大贵，只是能以维持生活的小康水平就足已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marriage, without a reasonable economic basis, is folly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有适当经济基础的婚姻，愚蠢之极。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen is steering her way towards an elusive - but crucial - attitude. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁正朝着那种飘渺不定但却至关重要的人生态度而去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Money is in some ways extremely important and in other ways unimportant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从某种程度上讲金钱极其重要，但它并不是万能的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We can't just be for it or against it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不能只是单纯的追求或唾弃金钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It sounds simple, of course, to assert this; and yet we are continually going wrong in practice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，说起来容易，但我们的做法却千差万别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four: Don't be snobbish</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、别那么势利</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Emma, the heroine - Emma herself - takes Harriet Smith a pretty girl from the village under her wing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《爱玛》中，女主角——爱玛将村里的漂亮姑娘哈利特·史密斯（Harriet Smith）纳入自己的羽翼之下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harriet is a very pleasant, modest and unassuming young woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈利特是个亲切、谦虚而又低调的年轻姑娘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Emma decides she should be much more than this. She wants Harriet to make a impressive match with the smart vicar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是爱玛却认为哈利特还能做的更好，爱玛希望哈利特能和聪明的牧师组成令人羡慕的一对情侣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harriet is swept off her feet by Emma's excessive praise. She turns down a very suitable offer of marriage from a farmer, because she thinks him not good enough, though in fact he is thoroughly good hearted and quietly prosperous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈利特被爱玛的大加赞扬弄得轻飘飘，从而以对方配不上为由，拒绝了与农夫门当户对的亲事，但实际上农夫心地善良，也小有资产但却从不张扬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Vicar turns out to be horrified at Emma's idea and Harriet has her heart broken.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其结果是牧师觉得艾玛的点子糟糕透顶，而哈利特也伤心无比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's droll in the novel, but the underlying point is serious: Emma is unwittingly, but cruelly, snobbish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个情节在小说里令人颇为哭笑不得，但潜在意义却极其郑重：爱玛不经意间透露出了她冷酷无情的势利眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is devoted to the wrong kind of hierarchy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没有投身于正确的阶级等级。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jane Austen does not think that the cure for snobbery is to think that everyone is equal. In her eyes, that would be immensely unjust. Rather, the real cure is to pay attention to true merit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简·奥斯丁并不认为势利的良药是人人平等，相反，在她眼中，人人平等却又是极不公平的，真正的良药应是关注出色的品质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The farmer is essentially a better person than the vicar; but social conventions and manners make it easy to ignore this.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人品上，农夫要比牧师好得多，但社交传统和礼仪让人们很容易就忽视了这点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Few people are deliberately snobbish. And Jane Austen is careful to give this fault to Emma, who is in many ways an enchanting character. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很少有人故意用势利眼看人，而简·奥斯丁也很小心的让爱玛染上这一恶习，但在许多方面来讲，这一恶习又颇具魅力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But eventually Emma is corrected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终，爱玛改掉了这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We see her recognise her error, feel very sorry and learn a life-long lesson. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们看到她承认了自身的错误，感到愧疚，学到了人生中宝贵的一课。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, Jane Austen does not mock snobbery as the behaviour of ghastly and contemptible people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换句话说，简·奥斯丁未曾嘲讽势力是那些糟糕、可鄙的人的行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, she regards the snob with pity - as someone who lives a blighted life (however materially comfortable); they are in need of instruction, guidance and reform. But mostly, of course, they don't get this help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，她以怜悯见势力，就像某些虽生活富足，但却活在空虚之中的人们那样，他们需要指引、引导、改造，但大部分人就是得不到帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Austen does not simply assert her concept of true hierarchy with the bluntness of a preacher, she enlists our sympathies for it and marshals our abhorrence for its opposite with the skill and humour of a great novelist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是奥斯丁不只是简单地用传教士的那种直率来证明她的社会阶级观，她运用一位伟大作家所具有的技巧和幽默，引入我们对这种观念的怜悯，整合我们对反面典型的憎恶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She does not tell us why her sense of priorities is important, she shows us why within the context of a story which also happens to make us laugh and grips us enough that we want to finish supper early to read on (as an early critic of Austen, Richard Whately, later the Archbishop of Dublin, put it in the Quarterly Review of 1822: "Miss Austen has the merit of being evidently a Christian writer: a merit which is much enhanced, both on the score of good taste, and of practical utility, by her religion being not at all obtrusive. She might defy the most fastidious critic to call any of her novels a 'dramatic sermon'.") </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在小说环境中展现给我们为什么她的优先意识那么重要，而并不是直接告诉读者。她的小说让读者忍俊不禁，引人入胜，让我们只想快快吃完晚饭，赶紧读上小说。（正如一位早期的奥斯丁评论家也是都柏林主教的理查德·惠特曼在名为《1882季刊评论》一书中所说的那样：奥斯丁小姐作为一位明显的天主教作家居功至伟：她在好品味和实用性方面的优秀因并不冒失的宗教信仰而得以突出，但她也许会蔑视那些称她作品为‘大说教’的最为吹毛求疵的评论家。”）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upon finishing one of the novels we are invited to go back into the sphere from which Austen has drawn us aside and respond to others as she has taught us, to pick up on and recoil from greed, arrogance and pride and to be drawn to goodness within ourselves and others.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看完其中一本，我们就会被带入到奥斯丁的视角，看看她是如何像教我们的那样回应他人的：认识贪婪、傲慢与自大，但并不陷落。关注自身和他人的美好品质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During her late thirties, Jane Austen had several productive years, living in a congenial and well-ordered house in the little village of Chawton in Hampshire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>快四十岁时，简·奥斯丁住在汉普郡乔顿乡下的一间宜居且井井有条的房子里，那几年里她的写作效率高得出奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her novels were increasingly well-received and she started making some money from them (though she never became famous because they were always published anonymously during her lifetime). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的作品越来越受欢迎，而她也开始因此挣到些稿费（尽管她从未公开发表作品，一生都未出名）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1816, when she was forty, her health declined rapidly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1816年时，她刚40岁了，身体却每况愈下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She died the following year and was buried in Winchester Cathedral.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二年她就去世了，葬于温彻斯特大教堂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Austen modestly and famously described her art as "the little bit (two inches wide) of ivory on which I work with so fine a brush, as produces little effect after much labour," but her novels are suffused with greater ambitions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众所周知，简·奥斯丁谦虚地将其作品称为“一块两寸宽的象牙，而我在这块象牙上用一支细细的画笔轻描慢绘，事倍功半。”但她的小说却浸入了满满的雄心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her art is an attempt, through what she called a study of "three or four families in a country village" to criticise and so alter life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的作品是一种自己的尝试，通过对这些她称为“村庄里三四家人”的研究来评判人生，并因此改造人生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is the usual assumption that the exciting, important things are going on somewhere else and that we, unfortunately, are missing out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些惊心动魄、至关重要的事情在别的地方才有，而不幸的是，我们错过了——这就是她通常的设想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Austen might have written sermons. She wrote novels instead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥斯丁本可以大写说教文章，但她却选择了小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sadly, we refuse to read her novels as Austen would have wanted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可悲的是，我们拒绝按照奥斯丁的想法来拜读她的作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The moral ambition of the novel has largely disappeared in the modern world, yet it is really the best thing that a novel can do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小说的道德意图在当今世界中早已不见，但这却是一本小说所能做得最好的一点了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The satisfaction we feel when reading Austen is really because she wants the world to be a certain way which we find immensely appealing; it's the secret, largely unrecognised, reason why she is so much loved as a writer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阅读时产生的那种满足感是因为她想要改造世界，变成我们极其感兴趣的样子。作为一名作家，简·奥斯丁备受欢迎的原因就是这隐秘的、不为人所熟知的品质。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

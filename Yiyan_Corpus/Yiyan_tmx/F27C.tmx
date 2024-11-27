@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T154045Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The burden of obesity is no small issue</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肥胖不是小问题</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Working in a diabetes clinic, I see first hand the ever increasing levels of obesity and diabetes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在一家糖尿病诊所工作，亲自见到肥胖与糖尿病人数不断增加的趋势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The statistic is shocking - cases have increased by more than one million over the last decade.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>个统计数字是惊人的：近十年患病人数已增加一百多万。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Health problems related to obesity represent an enormous threat to the UK population's health. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肥胖产生的疾病对英国民众健康最大威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obesity is no longer exceptional - in fact, the majority of people in many age groups are now obese.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肥胖不再是个别现象，事实上，各个年龄段中有很多肥胖的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is very alarming when you consider that obesity-related diabetes can take 10-15 years to develop and we are yet to fully see how severely it will affect many people's health. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是十分令人忧虑的一件事。想想一下，肥胖形成糖尿病只要10－15年时光，已经显现出严重后果，影响着许多人的身体健康。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's worrying thing that we live in an environment that encourages weight gain: food is more affordable and available than ever, and we are far more sedentary that we were 30, 20 or even 10 years ago.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是令人焦虑的，我们生活在鼓励肥胖的社会环境下：食物丰富，吃得多，运动少，与30年、20年甚至10年前相比，活动越来越少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as obesity becomes increasingly 'normal', it is harder to get people to appreciate the risks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当肥胖渐渐变成“时尚”时，人们就很难正确理解它的风险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A lot of people - particularly men - don't regard being three or four stone overweight as being a problem, but that extra weight creates a significant health risk.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多人，特别是一些男士，认为重3-4块石头不会有什么问题，除非引起严重健康危机才晃然大悟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With Type 2 Diabetes, getting patients to appreciate the severity of their condition is even more important. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>患上2型糖尿病，才理解疾病折磨带来的痛苦，。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because Diabetes impacts almost every aspect of life and diet, exercise and weight control go alongside therapy which requires discipline from patients.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖尿病几乎影响到人的生活、饮食各个方面，除接受治疗外，还应加强锻练和控制体重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When people think about obesity they look at morbid obesity, which represents a tiny minority of cases. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人认为肥胖就是病态的肥胖，只有少数人才会有，是个别病例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In terms of the burden on healthcare and future disease problems, it's the people who are three to four stone overweight that we need to worry about most.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于保健医生而言，和从病情发展情况来看， 现在最担心的还是那些超重只有3-4块石头的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With more obese people than ever, we need to better understand which patients are at a greatest risk of obesity related health problems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在肥胖的人比以前越来越多，所以必须更好掌握哪些病人是处在对身体健康伤害最危险阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's very clear that all fat is not created equal and where fat is stored in the body has an extremely strong influence our health.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>必须弄清楚，所有脂肪并非都相同，储存在身体内的脂肪会极大地影响身体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Storing fat under the skin seems to be healthier because these fat cells don't function as dynamically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有皮下脂肪看起来似乎很健壮，但脂肪细胞没有任何功能作用。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

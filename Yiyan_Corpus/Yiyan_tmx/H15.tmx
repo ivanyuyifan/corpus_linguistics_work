@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200308T160638Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Constitution of the United States</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美利坚合众国宪法</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Preamble</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>序言</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们，美利坚合众国的人民，为了组织一个更完善的联邦，树立正义，保障国内的安宁，建立共同的国防，增进全民福利和确保我们自己及我们后代能安享自由带来的幸福，乃为美利坚合众国制定和确立这一部宪法。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article I Section 1--All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一条 第一款：本宪法所规定的立法权，全属合众国的国会，国会由一个参议院和一个众议院组成。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 2--1 The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二款：众议院应由各州人民每两年选举一次之议员组成， 各州选举人应具有该州州议会中人数最多之一院的选举人所需之资格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 No person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凡年龄未满二十五岁，或取得合众国公民资格未满七年，或于某州当选而并非该州居民者，均不得任众议员。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 [Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.]</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众议员人数及直接税税额，应按联邦所辖各州的人口数目比例分配，此项人口数目的计算法，应在全体自由人民－－包括订有契约的短期仆役，但不包括未被课税的印第安人－－数目之外，再加上所有其它人口之五分之三。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>{2} The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际人口调查，应于合众国国会第一次会议三年内举行，并于其后每十年举行一次，其调查方法另以法律规定之。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众议员的数目，不得超过每三万人口有众议员一人，但每州至少应有众议员一人；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在举行人口调查以前，各州得按照下列数目选举众议员：新罕不什尔三人、麻萨诸塞八人、罗得岛及普罗维登斯垦殖区一人、康涅狄格五人、纽约州六人、新泽西四人、宾夕法尼亚八人、特拉华一人、马里兰六人、弗吉尼亚十人、北卡罗来纳五人、南卡罗来纳五人、乔治亚三人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何一州的众议员有缺额时，该州的行政长官应颁选举令，选出众议员以补充缺额。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>5 The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众议院应选举该院议长及其它官员；只有众议院具有提出弹劾案的权力。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 3--1 The Senate of the United States shall be composed of two Senators from each State, [chosen by the Legislature thereof,]{3} for six Years; and each Senator shall have one Vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三款：合众国的参议院由每州的州议会选举两名参议员组成之，参议员的任期为六年，每名参议员有一票表决权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参议员第一次选举后举行会议之时，应当立即尽量均等地分成三组。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; [and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies].</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一组参议员的任期，到第二年年终时届满，第二组到第四年年终时届满，第三组到第六年年终时届满，俾使每两年有三分之一的参议员改选；如果在某州州议会休会期间，有参议员因辞职或其它原因出缺，该州的行政长官得任命临时参议员，等到州议会下次集合时，再予选举补缺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>{4} 3 No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凡年龄未满三十岁，或取得合众国公民资格未满九年，或于某州当选而并非该州居民者，均不得任参议员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>合众国副总统应为参议院议长，除非在投票票数相等时，议长无投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>5 The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States. 6 The Senate shall have the sole Power to try all Impeachments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参议院应选举该院的其它官员，在副总统缺席或执行合众国总统职务时，还应选举临时议长。所有弹劾案，只有参议院有权审理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When sitting for that Purpose, they shall be on Oath or Affirmation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在开庭审理弹劾案时，参议员们均应宣誓或誓愿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如受审者为合众国总统，则应由最高法院首席大法官担任主席；在未得出席的参议员的三分之二的同意时，任何人不得被判有罪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>7 Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弹劾案的判决，不得超过免职及取消其担任合众国政府任何有荣誉、有责任或有俸给的职位之资格；但被判处者仍须服从另据法律所作之控诉、审讯、判决及惩罚。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 4--1 The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第四款：各州州议会应规定本州岛岛参议员及众议员之选举时间、地点及程序；但国会得随时以法律制定或变更此种规定，惟有选举议员的地点不在此例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 The Congress shall assemble at least once in every Year, and such Meeting shall [be on the first Monday in December,] {5} unless they shall by Law appoint a different Day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国会应至少每年集合一次，开会日期应为十二月的第一个星期一，除非他们通过法律来指定另一个日期。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 5--1 Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第五款：参众两院应各自审查本院的选举、选举结果报告和本院议员的资格，每院议员过半数即构成可以议事的法定人数；不足法定人数时，可以一天推一天地延期开会，并有权依照各该议院所规定的程序和罚则，强迫缺席的议员出席。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参众两院得各自规定本院的议事规则，处罚本院扰乱秩序的议员，并且得以三分之二的同意，开除本院的议员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参众两院应各自保存一份议事记录，并经常公布，惟各该院认为应保守秘密之部分除外；两院议员对于每一问题之赞成或反对，如有五分之一出席议员请求，则应记载于议事记录内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在国会开会期间，任一议院未得别院同意，不得休会三日以上，亦不得迁往非两院开会的其它地点。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 6--1 The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第六款：参议员与众议员得因其服务而获报酬，报酬的多寡由法律定之，并由合众国国库支付。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两院议员除犯叛国罪、重罪以及扰乱治安罪外，在出席各该院会议及往返各该院途中，有不受逮捕之特权；两院议员在议院内所发表之演说及辩论，在其它场合不受质询。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参议或众议员不得在当选任期内担任合众国政府任何新添设的职位，或在其任期内支取因新职位而增添的俸给；在合众国政府供职的人，不得在其任职期间担任国会议员。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 7--1 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第七款：有关征税的所有法案应在众议院中提出；但参议院得以处理其它法案的方式，以修正案提出建议或表示同意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经众议院和参议院通过的法案，在正式成为法律之前，须呈送合众国总统；总统如批准，便须签署，如不批准，即应连同他的异议把它退还给原来提出该案的议院，该议院应将异议详细记入议事记录，然后进行复议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倘若在复议之后，该议院议员的三分之二仍然同意通过该法案，该院即应将该法案连同异议书送交另一院，由其同样予以复议，若此另一院亦以三分之二的多数通过，该法案即成为法律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但遇有这样的情形时，两院的表决均应以赞同或反对来定，而赞同和反对该法案的议员的姓名，均应由两院分别记载于各该院的议事记录之内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如总统接到法案后十日之内(星期日除外) ，不将之退还，该法案即等于曾由总统签署一样，成为法律，惟有当国会因而无法将该法案退还时，该法案才不得成为法律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何命令、决议或表决(有关休会问题者除外) ，凡须由参议院及众议院予以同意者，均应呈送合众国总统；经其批准之后，方始生效，如总统不予批准，则参众两院可依照对于通过法案所规定的各种组别和限制，各以三分之二的多数，再行通过。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 8--1 The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第八款：国会有权规定并征收税金、捐税、关税和其它赋税，用以偿付国债并为合众国的共同防御和全民福利提供经费； 但是各种捐税、关税和其它赋税，在合众国内应划一征收；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 To borrow Money on the credit of the United States;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以合众国的信用举债；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>管理与外国的、州与州间的，以及对印第安部落的贸易；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制定在合众内一致适用的归化条例，和有关破产的一致适用的法律；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>5 To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铸造货币，调节其价值，并厘定外币价值，以及制定度量衡的标准；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>6 To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制定对伪造合众国证券和货币的惩罚条例；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>7 To establish Post Offices and post Roads;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设立邮政局及建造驿路；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>8 To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为促进科学和实用技艺的进步，对作家和发明家的著作和发明，在一定期限内给予专利权的保障；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>9 To constitute Tribunals inferior to the supreme Court;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设置最高法院以下的各级法院；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>10 To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>界定并惩罚海盗罪、在公海所犯的重罪和违背国际公法的罪行；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>11 To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宣战，对民用船只颁发捕押敌船及采取报复行动的特许证，制定在陆地和海面虏获战利品的规则；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>12 To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>募集和维持陆军，但每次拨充该项费用的款项，其有效期不得超过两年；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13 To provide and maintain a Navy; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>配备和保持海军；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>14 To make Rules for the Government and Regulation of the land and naval Forces;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制定有关管理和控制陆海军队的各种条例；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>15 To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制定召集民兵的条例，以便执行联邦法律，镇压叛乱和击退侵略；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>16 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>规定民兵的组织、装备和训练，以及民兵为合众国服务时的管理辨法，但各州保留其军官任命权，和依照国会规定的条例训练其民团的权力；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>17 To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于由某州让与而由国会承受，用以充当合众国政府所在地的地区(不逾十哩见方)，握有对其一切事务的全部立法权；对 于经州议会同意，向州政府购得，用以建筑要塞、弹药库、兵工 厂、船坞和其它必要建筑物的地方，也握有同样的权力；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>--And 18 To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>－－并且为了行使上述各项权力，以及行使本宪法赋予合众国政府或其各部门或其官员的种种权力，制定一切必要的和适当的法律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Section 9--1 The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 第九款 ：对于现有任何一州所认为的应准其移民或入境的人，在一八○八年以前，国会不得加以禁止，但可以对入境者课税，惟以每人不超过十美元为限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it. 3 No Bill of Attainder or ex post facto Law shall be passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不得中止人身保护令所保障的特权，惟在叛乱或受到侵犯的情况下，出于公共安全的必要时不在此限。不得通过任何褫夺公权的法案或者追溯既往的法律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.{6} </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非按本宪法所规定的人口调查或统计之比例，不得征收任何人口税或其它直接税。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T152511Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What Is It About 20-Somethings?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将立未立——年轻人何时才能真正成熟？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are so many people in their 20s taking so long to grow up?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么二十多岁的年轻人成熟起来如此困难呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This question pops up everywhere, underlying concerns about "failure to launch" and "boomerang kids." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个问题似乎是一夜之间冒了出来，其中还夹杂了对“恋家”和“啃老”现象的隐忧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two new sitcoms feature grown children moving back in with their parents - "My Dad Says," starring William Shatner as a divorced curmudgeon whose 20-something son can't make it on his own as a blogger, and "Big Lake," in which a financial whiz kid loses his Wall Street job and moves back home to rural Pennsylvania. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近上映的两部情景喜剧——《俺老爸说了》（My Dad Says）和《大湖》（Big Lake）——都是针对成年子女返家与父母同住这一社会现象展开故事情节的，在前者中，威廉·夏特纳（William Shatner）饰演了一位性格乖戾的父亲，他二十多岁的儿子想成为一位博客作家却郁郁不得志；而在《大湖》中，一位金融奇才在丢了华尔街的工作以后，就返回宾夕法尼亚的乡下老家与父母住在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A cover of The New Yorker last spring picked up on the zeitgeist: a young man hangs up his new Ph.D. in his boyhood bedroom, the cardboard box at his feet signaling his plans to move back home now that he's officially overqualified for a job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《纽约客》去年春季的一期杂志封面也颇具时代特征：一位年轻的男子将自己刚拿到的博士学历证书挂在自己孩提时代卧室的墙上，脚下是一方纸箱，暗示他对工作期望太高，以至于萌生出搬回家的念头来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the doorway stand his parents, their expressions a mix of resignation, worry, annoyance and perplexity: how exactly did this happen?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门口站着的是他眉头紧锁的父母，无奈，担忧，愤怒却又困惑的表情似乎是在发问：为什么会变成这样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's happening all over, in all sorts of families, not just young people moving back home but also young people taking longer to reach adulthood overall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，这种情形正在全世界各式各样的家庭中上演，年轻人不光是搬回家，他们成长为完整的成年人需要花费的时间也更长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a development that predates the current economic doldrums, and no one knows yet what the impact will be - on the prospects of the young men and women; on the parents on whom so many of them depend; on society, built on the expectation of an orderly progression in which kids finish school, grow up, start careers, make a family and eventually retire to live on pensions supported by the next crop of kids who finish school, grow up, start careers, make a family and on and on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种趋势在时间上要早于当前的经济低迷期，没有人知道这会对年轻人的未来，对他们赖以仰仗的父母，对社会将产生怎样的冲击。对有序进步的期望是传统社会存在的根基，孩子完成学业，长大成人，成家立业，最后光荣退休，依靠养老金生活，然后是下一代，依次循环，生生不息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The traditional cycle seems to have gone off course, as young people remain un?tethered to romantic partners or to permanent homes, going back to school for lack of better options, traveling, avoiding commitments, competing ferociously for unpaid internships or temporary (and often grueling) Teach for America jobs, forestalling the beginning of adult life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但现在，传统周期似乎正在逐渐偏离正常轨道，年轻人已不愿再保持稳定的恋爱关系或建立永久性的家庭，他们有的人因为缺乏更好的工作机会而选择继续深造；有的人因为逃避责任而四处旅行；还有些人为无薪酬的实习机会或临时性的教师（Teach for America）工作争得头破血流，总之，他们不想开始一种成人式的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 20s are a black box, and there is a lot of churning in there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现如今，二十来岁的年轻人就像是一方黑箱，内心波涛汹涌，外表却波澜不惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One-third of people in their 20s move to a new residence every year. Forty percent move back home with their parents at least once. They go through an average of seven jobs in their 20s, more job changes than in any other stretch. Two-thirds spend at least some time living with a romantic partner without being married. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这些人中间，有三分之一的人每年都会换一个新住处；有五分之二的人回家和父母同住过；他们平均起来换过七份工作，工作变动频繁；还有三分之二的人尝试过婚前同居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And marriage occurs later than ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的婚姻要比上一代人来得晚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The median age at first marriage in the early 1970s, when the baby boomers were young, was 21 for women and 23 for men; by 2009 it had climbed to 26 for women and 28 for men, five years in a little more than a generation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以婴儿潮时代出生的人为例，他们在上世纪七十年代早期结婚时的平均年龄为21（女性）和23岁（男性）；而2009年，平均年龄攀升至26岁（女性）和28岁（男性），一代人多一点的时间就拉开了五年的差距。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're in the thick of what one sociologist calls "the changing timetable for adulthood." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们正处于一个激烈动荡的年代，社会学家将其称之为“成年期的变动时刻表”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sociologists traditionally define the "transition to adulthood" as marked by five milestones: completing school, leaving home, becoming financially independent, marrying and having a child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传统上，社会学家将“成年过渡期”分为五个标志性阶段：完成学业，离开父母，经济独立，步入婚姻，生儿育女。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1960, 77 percent of women and 65 percent of men had, by the time they reached 30, passed all five milestones. Among 30-year-olds in 2000, according to data from the United States Census Bureau, fewer than half of the women and one-third of the men had done so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上世纪六十年代，77%的女性和65%的男性是在30岁之前完成了所有的五个阶段；而据美国人口普查局（United States Census Bureau）的统计数据显示，进入二十一世纪以后，只有不到一半的女性和三分之一的男性在30岁以前成功经历上述五个阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Canadian study reported that a typical 30-year-old in 2001 had completed the same number of milestones as a 25-year-old in the early '70s.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一份加拿大的研究报告显示，以2001年一位颇具代表性的30岁年轻人为例，他（她）所经历的若干个阶段如果放到上世纪七十年代，25岁就已经完成了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The whole idea of milestones, of course, is something of an anachronism; it implies a lockstep march toward adulthood that is rare these days. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以当下的情形看来，完整的阶段划分法似乎有些不合潮流；在迈向成年期的过程中，这种因循守旧式的一致步调也已经不常见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kids don't shuffle along in unison on the road to maturity. They slouch toward adulthood at an uneven, highly individual pace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子们不再是肩并着肩同步迈入成熟期，他们以一种不规则高度个人化的步调懒洋洋的走向成年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some never achieve all five milestones, including those who are single or childless by choice, or unable to marry even if they wanted to because they're gay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些人甚至连一个阶段也未完成，例如选择单身或丁克，或者因为是同性恋，想结婚却无法如愿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Others reach the milestones completely out of order, advancing professionally before committing to a monogamous relationship, having children young and marrying later, leaving school to go to work and returning to school long after becoming financially secure.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有些人虽然圆满的经历了五个阶段，但却顺序颠倒，生儿育女以后再结婚，辍学工作，待经济独立以后再重返校园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if some traditional milestones are never reached, one thing is clear: Getting to what we would generally call adulthood is happening later than ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便某些传统意义上的人生阶段缺失，但很明显，这一代年轻人进入我们通常所谓的成年期要比前几辈人晚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But why? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原因何在呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's the subject of lively debate among policy makers and academics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是决策者们和学者们经常争论不休的一个课题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To some, what we're seeing is a transient epiphenomenon, the byproduct of cultural and economic forces. To others, the longer road to adulthood signifies something deep, durable and maybe better-suited to our neurological hard-wiring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于某些年轻人来说，我们所看到的这种社会现象是一种过渡期的偶发症状，它是文化和经济两股力量作用下的副产物；而另外一些人迈向成年期的漫长道路则预示着人类人格的固化发生了某种深刻、持久且更适合的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What we're seeing, they insist, is the dawning of a new life stage - a stage that all of us need to adjust to.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坚持认为我们所见的是一个新生命阶段的开始——我们所有人都需要调整以适应这个阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>JEFFREY JENSEN ARNETT, a psychology professor at Clark University in Worcester, Mass., is leading the movement to view the 20s as a distinct life stage, which he calls "emerging adulthood." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰弗里·延森·阿奈特，马萨诸塞伍斯特克拉克大学（Clark University）的一位心理学教授，他正在领导一场运动，旨在号召世人将20多岁视为一个独特的人生阶段，这个阶段被他称之为“成人初显期（emerging adulthood）”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says what is happening now is analogous to what happened a century ago, when social and economic changes helped create adolescence - a stage we take for granted but one that had to be recognized by psychologists, accepted by society and accommodated by institutions that served the young. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奈特认为，现在的情形和一个世纪以前发生的情况颇为相似，当时社会和经济的变革促使了青春期概念的诞生——虽然大众认为青春期的存在时理所当然的，但它必须先得到心理学家的认可，再被社会接受，最后由一些服务于青少年的机构对此概念作出响应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similar changes at the turn of the 21st century have laid the groundwork for another new stage, Arnett says, between the age of 18 and the late 20s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奈特表示，和之前一样，世纪之交的一系列变革为另一种新阶段的出现奠定了基础，这个阶段被定位在18岁至20多岁之间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among the cultural changes he points to that have led to "emerging adulthood" are the need for more education to survive in an information-based economy; fewer entry-level jobs even after all that schooling; young people feeling less rush to marry because of the general acceptance of premarital sex, cohabitation and birth control; and young women feeling less rush to have babies given their wide range of career options and their access to assisted reproductive technology if they delay pregnancy beyond their most fertile years.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在文化变迁中，导致“成人初显期”出现的因素有若干条，首先，为了在信息化的经济体中生存，年轻人需要接受更多的教育；其次，即便完成了所有的在校学业踏入社会以后，适合年轻人的初级职位也不多；再者，因为对婚前性行为、同居和节育措施持普遍包容态度，年轻人并不急于进入婚姻殿堂；第四，出于对职业选择宽泛性的考虑，年轻女性并不急于生儿育女，错过最佳怀孕期以后，她们还可以借助辅助生殖技术再为人母。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as adolescence has its particular psychological profile, Arnett says, so does emerging adulthood: identity exploration, instability, self-focus, feeling in-between and a rather poetic characteristic he calls "a sense of possibilities." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奈特表示，青春期有它特殊的心理学属性，成人初显期亦是如此，身份探究、不稳定性、自我聚焦、中间感受以及被阿奈特称之为“可能性感知”的相当诗意化的个性特征，都是属于这一时期的心理学属性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few of these, especially identity exploration, are part of adolescence too, but they take on new depth and urgency in the 20s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中的若干特征尤其是身份探究也是青春期的一部分，但在20多岁的年轻人身上，它们表现出了前所未有的深度和紧迫感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stakes are higher when people are approaching the age when options tend to close off and lifelong commitments must be made. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们在接近这一年龄段时，选择的余地已经不多，一些终身的承诺也要定下，他们已经赌不起了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arnett calls it "the age 30 deadline."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奈特将这段时期称之为“奔三截止期限（the age 30 deadline）”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The issue of whether emerging adulthood is a new stage is being debated most forcefully among scholars, in particular psychologists and sociologists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于成人初显期是否是一个新的人生阶段在学者之间引发了激烈的争论，尤其是心理学家和社会学家之间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But its resolution has broader implications. Just look at what happened for teenagers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但不管怎么样，对这个阶段的深入剖析已经产生了更为广泛的应用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took some effort, a century ago, for psychologists to make the case that adolescence was a new developmental stage. Once that happened, social institutions were forced to adapt: education, health care, social services and the law all changed to address the particular needs of 12- to 18-year-olds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个世纪以前，为了以事实证明青春期是的确存在的新发展阶段，心理学家们颇费了一番功夫，不过最终该理论被得以证实以后，社会制度被迫作出了相应的调整：为了满足12至18岁青少年的特殊需求，相应的教育、保健、社会服务和法律都进行了变更。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An understanding of the developmental profile of adolescence led, for instance, to the creation of junior high schools in the early 1900s, separating seventh and eighth graders from the younger children in what used to be called primary school. And it led to the recognition that teenagers between 14 and 18, even though they were legally minors, were mature enough to make their own choice of legal guardian in the event of their parents' deaths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举例来说，由于深入了解了青春期的发育特征，导致了二十世纪早期初中教育的出现，即将七年级和八年级从原来的小学教育中分离了出来；另外，人们逐渐意识到虽然14至18岁的青少年在法律上被归为未成年人，但他们的心智已经足够成熟，这意味着如果父母去世，他们可以自己选择监护人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If emerging adulthood is an analogous stage, analogous changes are in the wings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相比青春期，如果成人初显期是一个可类比的发展阶段，那么类似的改变也必将在未雨绸缪之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what would it look like to extend some of the special status of adolescents to young people in their 20s? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，如果将青少年的一些特殊身份外延至20多岁的年轻人身上会产生什么样的后果呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our uncertainty about this question is reflected in our scattershot approach to markers of adulthood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于这个问题我们有太多的不确定性，因此，我们才发明了那么多漫无目的的方式用来标记成年期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People can vote at 18, but in some states they don't age out of foster care until 21. They can join the military at 18, but they can't drink until 21. They can drive at 16, but they can't rent a car until 25 without some hefty surcharges. If they are full-time students, the Internal Revenue Service considers them dependents until 24; those without health insurance will soon be able to stay on their parents' plans even if they're not in school until age 26, or up to 30 in some states. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>18岁的年轻人拥有投票权，但在某些州只有到了21岁才能脱离监护；18岁可以服役，但21岁才能喝酒；16岁就可以驾车，但要想租车且不用缴纳高额附加费得到25岁；全职学生得到24岁才能被国内收入署（Internal Revenue Service）列为可靠征收对象；没有健康保险的离校年轻人可以挂靠在父母亲的保险名下，但前提是必须年满26岁，在某些州甚至要到30岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Parents have no access to their child's college records if the child is over 18, but parents' income is taken into account when the child applies for financial aid up to age 24. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>子女们的年龄若超过18岁，父母将无权获知他们的大学成绩单，如果子女在24岁以前申请经济补助，需要考虑父母的收入情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We seem unable to agree when someone is old enough to take on adult responsibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由此看来，在多大年纪才足以承担成年人的责任这一问题上，我们还无法达成一致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But we're pretty sure it's not simply a matter of age.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我们比较确信的是，这不仅仅只是年龄的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If society decides to protect these young people or treat them differently from fully grown adults, how can we do this without becoming all the things that grown children resist - controlling, moralizing, paternalistic? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果社会决心去保护这些年轻人，或者将他们同完全成熟的成年人区分开来以区别对待，那么我们应该如何行事才能避免遭遇这些大孩子们的全面对抗呢？也许在他们眼中，我们就是控制、说教和封建家长制的代名词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Young people spend their lives lumped into age-related clusters - that's the basis of K-12 schooling - but as they move through their 20s, they diverge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在不同阶段的年龄群体中度过了青少年时期，这段时间构成了小学教育和中学教育的基础，但进入20来岁以后，这些年轻人开始出现分化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some 25-year-olds are married homeowners with good jobs and a couple of kids; others are still living with their parents and working at transient jobs, or not working at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以25岁为例，在这个年龄段，有些人已经成婚，有家有业，甚至已经生儿育女；还有些人依然与父母同住，工作不稳定或者没工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Does that mean we extend some of the protections and special status of adolescence to all people in their 20s? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种局面的出现是不是意味着我们将保护手段和给予青春期的特殊待遇扩展到所有的二十多岁的年轻人身上了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To some of them? Which ones? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果真是这样的话，真正应该享受这些待遇的年轻人应该是哪些呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decisions like this matter, because failing to protect and support vulnerable young people can lead them down the wrong path at a critical moment, the one that can determine all subsequent paths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有尽到保护和支持责任可能会导致脆弱的年轻人在人生的关键时期误入歧途，一步走错，满盘皆输。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But overprotecting and oversupporting them can sometimes make matters worse, turning the "changing timetable of adulthood" into a self-fulfilling prophecy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但同时，我们也应该看到，溺爱和不加以区别的一味支持有时候会使局面变得更糟，致使“成年期的变动时刻表”变成了一出自我应验式的预言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The more profound question behind the scholarly intrigue is the one that really captivates parents: whether the prolongation of this unsettled time of life is a good thing or a bad thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学术研究兴趣的背后，还有一个更为深刻的问题：这种不稳定年龄段的延长到底是好事还是坏事？这个问题让父母们也感到十分迷惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With life spans stretching into the ninth decade, is it better for young people to experiment in their 20s before making choices they'll have to live with for more than half a century? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现代人的寿命已经延伸至90岁，对年轻人来说，经历完20多岁以后再去作选择是不是会更好？因为这些选择的结果毕竟是要伴随他们大半个世纪之久；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or is adulthood now so malleable, with marriage and employment options constantly being reassessed, that young people would be better off just getting started on something, or else they'll never catch up, consigned to remain always a few steps behind the early bloomers? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者说现代青年成年期的可塑性太强，婚姻和职业选择都可以随时调整，以至于他们只要敢迈出第一步，境况就会好起来，而如果永远是原地踏步踏的话，以后几十年的人生就会一直落后于那些先成熟的同龄人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is emerging adulthood a rich and varied period for self-discovery, as Arnett says it is? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又或者正如阿奈特所说那样，成人初显期是一个丰富多变的时期，特别适合于自我发现？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or is it just another term for self-indulgence?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道说成人初显期只是自我放纵的另一种称谓而已？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE DISCOVERY OF adolescence is generally dated to 1904, with the publication of the massive study "Adolescence," by G. Stanley Hall, a prominent psychologist and first president of the American Psychological Association. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>青春期的发现通常要追溯至1904年，那一年杰出的心理学家兼美国心理学协会的第一任（American Psychological Association）会长斯坦利·霍尔（G. Stanley Hall）发表了一系列关于“青春期”的研究论文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hall attributed the new stage to social changes at the turn of the 20th century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>霍尔将这种新发展阶段的出现归咎于二十世纪初的社会变迁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Child-labor laws kept children under 16 out of the work force, and universal education laws kept them in secondary school, thus prolonging the period of dependence - a dependence that allowed them to address psychological tasks they might have ignored when they took on adult roles straight out of childhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>童工法律让16岁以下的未成年人不再成为劳动力，普及教育法又把他们送进了中等学校，因而他们的依赖时期得以延长——这种依赖使这些少年有精力去解决心理上背负的任务，换作以前，童年一结束就承担了成年人的角色，自然无暇顾及什么心理问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hall, the first president of Clark University - the same place, interestingly enough, where Arnett now teaches - described adolescence as a time of "storm and stress," filled with emotional upheaval, sorrow and rebelliousness. He cited the "curve of despondency" that "starts at 11, rises steadily and rapidly till 15 . . . then falls steadily till 23," and described other characteristics of adolescence, including an increase in sensation seeking, greater susceptibility to media influences (which in 1904 mostly meant "flash literature" and "penny dreadfuls") and overreliance on peer relationships. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>霍尔是克拉克大学的第一任校长，有趣的是，阿奈特现在也在这所大学执教，霍尔将青春期描绘为“风暴和压力”的时期，充满了感情剧变、悲伤和叛逆，他认为“失望的曲线（curve of despondency）始于11岁，之后稳定快速的上升，直到15岁...然后又逐步下降，到23岁趋于停止”，霍尔还对青春期的其他特性进行了描述，这些特性包括更喜欢寻求刺激，更易于受到媒体的影响（1904年的媒体主要是指“简短的创意性写作（flash literature）”和“廉价恐怖小说（penny dreadfuls））以及对同龄人的友谊过度信赖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hall's book was flawed, but it marked the beginning of the scientific study of adolescence and helped lead to its eventual acceptance as a distinct stage with its own challenges, behaviors and biological profile.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>霍尔的书虽然存在缺陷，但却标志着对青春期进行科学研究的起点，青春期以其自我挑战、行为学和生物学上的特征形成了一个独特的发育阶段，大众最终也慢慢接受了这样的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 1990s, Arnett began to suspect that something similar was taking place with young people in their late teens and early 20s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时光飞逝，到了上世纪九十年代，在密苏里大学教授人类发展学与家庭研究的阿奈特开始怀疑，处于少年晚期和20岁前期的年轻人是不是也会经历和青春期相类似的心理历程呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was teaching human development and family studies at the University of Missouri, studying college-age students, both at the university and in the community around Columbia, Mo. He asked them questions about their lives and their expectations like, "Do you feel you have reached adulthood?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时他正在以密苏里大学和哥伦比亚市周围社区里的在校大学生为研究对象进行研究，他会问他们一些生活和理想方面的问题，诸如“你觉得自己已经进入成年了吗？”这样的问题。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

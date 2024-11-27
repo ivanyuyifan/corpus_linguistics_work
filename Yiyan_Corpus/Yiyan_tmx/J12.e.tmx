@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 4 Electric Fields in Matter</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第4章 物质中的电场</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>4.1 Polarization</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4.1 极化</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Dielectrics</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电介质</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this chapter we shall study electric fields in matter. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这一章中，我们将学习物质中的电场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Matter, of course, comes in many varieties-solids, liquids, gases, metals, woods, glasses-and these substances do not all respond in the same way to electrostatic fields. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，物质有许多种类——固态、液态、气态、金属、木材和玻璃——这些物质并不都以相同的方式来响应静电场的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nevertheless, most everyday objects belong (at least, in good approximation) to one of two large classes: conductors and insulators (or dielectrics). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，大多数经常遇到的物质（至少在很好的近似下）属于两大类中的一种：导体和绝缘体（或者电介质）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We have already talked about conductors; these are substances that contain an "unlimited" supply of charges that are free to move about through the material. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们已经讲到过导体；它们是可以“无限制”地提供在其内部可自由移动的电荷的一类物体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In practice what this ordinarily means is that many of the electrons (one or two per atom in a typical metal) are not associated with any particular nucleus, but roam around at will. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种说法的实际含义是，许多电子（在普通的金属中每个原子提供一到两个电子）并不和任何特定的原子核关联，而是在导体中漫游。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In dielectrics, by contrast, all charges are attached to specific atoms or molecules - they're on a tight leash, and all they can do is move a bit within the atom or molecule. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相比之下，在电介质中，所有的电荷都附属于特定的原子或分子一一它们被束缚着，所有的电子只能在原子或分子中移动一个小的位移。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such microscopic displacements are not as dramatic as the wholesale rearrangement of charge in a conductor, but their cumulative effects account for the characteristic behavior of dielectric materials. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如此微小的位移并不像在导体中电子的完全重新分布那样引人注目，但是它们的累积效应可以解释电介质材料的行为特性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are actually two principal mechanisms by which electric fields can distort the charge distribution of a dielectric atom or molecule: stretching and rotating. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，有两个主要的机制使得电场可以扭曲电介质原子或分子中的电荷分布：伸展和旋转。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the next two sections I'll discuss these processes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在下面的两小节中，我将讨论这些过程。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Induced Dipoles</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>诱导偶极子</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What happens to a neutral atom when it is placed in an electric field E?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当一个中性的原子放在一个电场中会发生什么？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Your first guess might well be: "Absolutely nothing - since the atom is not charged, the field has no effect on it." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你的第一想法可能是：“没什么会发生——因为它不带电，电场对其不起作用”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But that is incorrect.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但这是不正确的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although the atom as a whole is electrically neutral, there is a positively charged core (the nucleus) and a negatively charged electron cloud surrounding it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管原子作为一个整体是电中性的，但是它是由一个带正电的原子核和在其周围分布的带负电的电子云构成的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These two regions of charge within the atom are influenced by the field: the nucleus is pushed in the direction of the field, and the electrons the opposite way.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在原子中这两个带电的部分是受外电场影响的：核的移动与电场方向相同，电子朝着相反方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In principle, if the field is large enough, it can pull the atom apart completely, "ionizing" it (the substance then becomes a conductor).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原则上，如果电场足够大，它可以将原子完全分离开来，“电离”原子（物体则变成一个导体）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With less extreme fields, however, an equilibrium is soon established, for if the center of the electron cloud does not coincide with the nucleus, these positive and negative charges attract one another, and this holds the atoms together.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，当外电场较小时，一个平衡将很快建立，因为如果电子分布中心和核的中心不一致，正负电荷就会相互吸引，使得原子聚合在一起。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The two opposing forces-E pulling the electrons and nucleus apart, their mutual attraction drawing them together - reach a balance, leaving the atom polarized, with plus charge shifted slightly one way, and minus the other.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两个相反的力——E使电子和原子核分离，它们之间的相互吸引——达到一个平衡，平衡时正电荷和负电荷有一个很小的移动，导致原子被极化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The atom now has a tiny dipole moment p, which points in the same direction as E.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原子现在有了一个微小的偶极矩P，它和电场E的方向相同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Typically, this induced dipole moment is approximately proportional to the field (as long as the latter is not too strong): </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般来讲，这个诱导的偶极矩和电场近似成正比（只要电场不是太强）： </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The constant of proportionality . . . is called atomic polarizability.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中，比例常数. . .称为原子极化率。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Its value depends on the detailed structure of the atom in question.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它的大小依赖于具体问题中的原子结构。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Table 4.1 lists some experimentally determined atomic polarizabilities.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>表4.1列出了一些实验测得的原子极化率。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Example 4.1</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例题4.1</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A primitive model for an atom consists of a point nucleus (+q surrounded by a uniformly charged spherical cloud (-q) of radius a (Fig. 4.1).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个简单的原子模型由带+q电荷量的原子核和围绕它的均匀带-q的半径为a的球形电子云组成（见图4.1）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Calculate the atomic polarizability of such an atom.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>计算这样一个原子的极化率。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Solution: In the presence of an external field E, the nucleus will be shifted slightly to the right and the electron cloud to the left, as shown in Fig. 4.2.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>解：在外电场E中，原子核将向右偏离，电子云向左偏离，如图4.2所示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(Because the actual displacements involved are extremely small, as you'll see in Prob. 4.1, it is reasonable to assume that the electron cloud retains its spherical shape.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（因为实际位移是极其微小的（见习题4.1），可以合理地认为电子云依然保持球状。） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Say that equilibrium occurs when the nucleus is displaced a distance d from the center of the sphere.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样，当原子核从球中心移动一个距离d时达到平衡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At that point the external field pushing the nucleus to the right exactly balances the internal field pulling it to the left: E = Ee, where Ee is the field produced by the electron cloud.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此时，外电场将原子核向右推的力与内电场将原子核向左拉的力平衡：E=Ee，其中Ee为电子云产生的电场。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now the field at a distance d from the center of a uniformly charged sphere is . . . (Prob. 2.12).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个均匀的球形分布电荷在距离球心为d处产生的电场为 . . .（习题2.12）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At equilibrium, then, . . .</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在平衡时，有. . .</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The atomic polarizability is therefore . . ., (4.2) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，原子极化率为. . .（4.2）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>where v is the volume of the atom.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中，v是原子体积。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although this atomic model is extremely crude, the result (4.2) is not too bad - it's accurate to within a factor of four or so for many simple atoms.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管这种原子模型十分简略，但是结果式（4.2）并不是太糟——对许多简单原子它可精确到万分之一以上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For molecules the situation is not quite so simple, because frequently they polarize more readily in some directions than others.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于分子情况就不是那么简单了，因为它们常常沿某个方向更容易极化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Carbon dioxide (Fig. 4.3), for instance, has a polarizability of . . .m/N when you apply the field along the axis of the molecule, but only . . . for fields perpendicular to this direction.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，对二氧化碳（见图4.3），当外电场方向沿着分子轴向时，极化率为. . .·m/N，而当外电场方向垂直于分子轴时，极化率为. . .·m/N。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When the field is at some angle to the axis, you must resolve it into parallel and perpendicular components, and multiply each by the pertinent polarizability:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当外电场与分子轴有一个角度时，你必须将电场分解为平行分量和垂直分量来解决，并乘上相应的极化率：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this case the induced dipole moment may not even be in the same direction as E.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种情况下，感应偶极矩可以和电场E的方向不一致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And CO2 is relatively simple, as molecules go, since the atoms at least arrange themselves in a straight line; for a completely asymmetrical molecule Eq. 4.1 is replaced by the most general linear relation between E and p: . . . (4.3)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与其他分子相比，CO2还是比较简单的，因为它的原子至少还排列为一条直线；对于完全非对称的分子式（4.1）将被更普遍的E和p的线性关系代替：. . .（4.3） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The set of nine constants . . ., constitute the polarizability tensor for the molecule.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这九个常数. . .组成了分子的极化张量。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Their actual values depend on the orientation of the axes you chose, though it is always possible to choose "principal" axes such that all the off-diagonal terms ( . . . , . . . , etc.) vanish, leaving just three nonzero polarizabilities: . . . , . . . , and . . . .</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它们实际的值依赖于你所选取的坐标轴的方向，尽管通常总是可以选取“主”轴，使得非对角元（. . .，. . .）为零，仅余三个非零的：. . .，. . .，. . .。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.1</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.1</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A hydrogen atom (with the Bohr radius of half an angstrom) is situated between two metal plates 1 mm apart, which are connected to opposite terminals of a 500 V battery.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个氢原子（其玻尔半径为0.5A）位于两个相距1mm的金属板中间，金属板连接在500V的电池上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What fraction of the atomic radius does the separation distance d amount to, roughly?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>粗略地估计分离距离d与玻尔半径的比为多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Estimate the voltage you would need with this apparatus to ionize the atom.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>估计在这个装置中电离原子所需的电压为多少。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[Use the value of . . . in Table 4.1.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>［利用表4.1中提供的. . .值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moral: The displacements we're talking about are minute, even on an atomic scale.]</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原则上，这里所谈及的距离是十分微小的，即使是在原子尺寸上。］ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.2 </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.2</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>According to quantum mechanics, the electron cloud for a hydrogen atom in the ground state has a charge density. . . ., </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据量子力学，对于基态氢原子电子云其电荷密度为 . . . </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>where q is the charge of the electron and a is the Bohr radius.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中，q是电子电荷，a为玻尔半径。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Find the atomic polarizability of such an atom.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>求出这样一个原子的极化率。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[Hint: First calculate the electric field of the electron cloud, Ee (r); then expand the exponential, assuming r &lt;&lt; a.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>［提示：首先计算电子云的电场Ee（r）；然后假设r &lt;&lt; a，将指数展开。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For a more sophisticated approach. see W. A. Bowers. Am. J. Phys. 54,347 (1986).]</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个更详细的解答参见W.A.Bowers，Am.J.Phys.54，347（1986）。］ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.3</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.3</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>According to Eq. 4.1, the induced dipole moment of an atom is proportional to the external field.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据式（4.1），原子的感应偶极矩是正比于外电场的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is a "rule of thumb," not a fundamental law, and it is easy to concoct exceptions - in theory.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一个经验公式，并非基本定律，理论上它十分容易虚构例外。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Suppose, for example, the charge density of the electron cloud were proportional to the distance from the center, out to a radius R.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，假设电子云的电荷密度正比于距中心的距离，直到半径R。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To what power of E would p be proportional in that case?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>近似到何种程度召和P成正比？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Find the condition on p(r) such that Eq. 4.1 will hold in the weak-field limit.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>找出p（r）满足的条件，使得式（4.1）在弱场极限下成立。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.4</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.4</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A point charge q is situated a large distance r from a neutral atom of polarizability . . ..</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个点电荷q放置在距离中性原子中心较大的距离r处，原子极化率为. . .。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Find the force of attraction between them.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>求出它们之间的吸引力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>4.1.3 Alignment of Polar Molecules</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4.1.3 极化分子的排列</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The neutral atom discussed in Sect. 4.1.2 had no dipole moment to start with-p was induced by the applied field.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4.1.2小节中讨论的中性原子开始时没有偶极矩——p是由外电场诱导的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some molecules have built-in, permanent dipole moments.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些分子具有固有的永久偶极矩。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the water molecule, for example, the electrons tend to cluster around the oxygen atom (Fig. 4.4), and since the molecule is bent at 105. . ., this leaves a negative charge at the vertex and a net positive charge at the opposite end.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，在水分子中，电子趋向于环绕在氧原子周（见图4.4），由于分子呈105. . .角，这使得负电荷位于顶角处，而正电荷在相反的一端。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(The dipole moment of water is unusually large: 6.1×10-30C·m; in fact, this is what accounts for its effectiveness as a solvent.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（水分子的偶极矩是不寻常地大：6.1×10-30C·m；事实上，这就是水为什么可以作为一个有效的溶剂。）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What happens when such molecules (called polar molecules) are placed in an electric field?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果将这样的分子（称为极化分子）放置在电场中会发生什么？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the field is uniform, the force on the positive end, F+ = qE, exactly cancels the force on the negative end, F- = -qE (Fig. 4.5).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果是均匀电场，作用在正电荷上的力F+=qE，恰好和作用在负电荷上的力F-=-qE相互抵消（见图4.5）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, there will be a torque: . . ..</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过将出现一个力矩：. . .</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus a dipole p = qd in a uniform field E experiences a torque (4.4) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，一个偶极子p=qd在一个均匀外电场E中受到一个力矩. . .（4.4）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Notice that N is in such a direction as to line p up parallel to E; a polar molecule that is free to rotate will swing around until it points in the direction of the applied field.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>注意，N的方向倾向于使p与E平行；一个可自由转动的极化分子的p将会转向外电场方向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the field is nonuniform, so that F+ does not exactly balance F-, there will be a net force on the dipole, in addition to the torque.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果电场是非均匀的，那么F+与F-就不会严格相抵，除了力矩外，还会出现一个作用在偶极子上的净力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, E must change rather abruptly for there to be significant variation in the space of one molecule, so this is not ordinarily a major consideration in discussing the behavior of dielectrics.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，这需要E必须在分子的尺度上变化得相当显著，在讨论电介质行为时这通常不是一个要考虑的主要因素。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nevertheless, the formula for the force on a dipole in a nonuniform field is of some interest: . . .</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，非均匀电场所产生的作用在偶极子上的力的公式还是有某些有趣之处的：. . .</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>where . . . represents the difference between the field at the plus end and the field at the minus end.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中，. . .代表电场在正负电荷处的差值。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Assuming the dipole is very short, we may use Eq. 1.35 to approximate the small change in Ex: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假设，偶极子的长度是非常短的，我们可以利用式（1.35）对变化很小的电场Ex求近似：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>with corresponding formulas for Ey and Ez.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于如Ey，Ex也有同样的形式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More compactly, . . .</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更紧凑的有. . .</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>and therefore . . .(4.5) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，. . .（4.5）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For a "perfect" dipole of infinitesimal length, Eq. 4.4 gives the torque about the center of the dipole even in a nonuniform field; about any other point N = (p × E) + (r × F).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于一个理想化的无限小长度的偶极子，即使是非均匀电场，式（4.4）也给出了关于偶极子中心的力矩；而关于其他点，力矩为N=（p×E）+（r×F）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.5 In Fig. 4.6, p1 and p2 are (perfect) dipoles a distance r apart.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.5 在图4.6中，p1和p2为理想的偶极子，相距为r。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is the torque on p1 due to p2?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>p2导致p1的力矩为多少？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is the torque on p2 due to p1?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>p1导致p2的力矩为多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[In each case I want the torque on the dipole about its own center.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>［所求的力矩都是关于偶极子中心的。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If it bothers you that the answers are not equal and opposite, see Prob. 4.29.1.]</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你所得到的答案不是大小相等、方向相反的，可参见习题4.29。］</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.6</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.6</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A (perfect) dipole p is situated a distance z above an infinite grounded conducting plane (Fig. 4.7).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个理想偶极子p位于距一个无限大导体表面的z处（见图4.7）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The dipole makes an angle . . . with the perpendicular to the plane.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偶极子的方向与平面法线呈. . .角。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Find the torque on p.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>求作用在p上的力矩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the dipole is free to rotate, in what orientation will it come to rest?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果偶极子可自由旋转，那么当它静止后指向什么方向？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.7</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.7</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Show that the energy of an ideal dipole p in an electric field E is given by . . . (4.6)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>证明理想偶极子p在电场E中的能量为. . .（4.6） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.8</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.8</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Show that the interaction energy of two dipoles separated by a displacement r is . . . (4.7)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>证明相距为r的两个偶极子的相互作用能为. . .（4.7） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[Hint: use Prob. 4.7 and Eq. 3.104.1.]</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>［提示：利用习题4.7和式（3.104）］ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problem 4.9</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>习题4.9</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A dipole p is a distance r from a point charge q, and oriented so that p makes an angle . . . with the vector r from q to p.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个偶极子p与一个点电荷q相距为r，p与r的夹角为. . .。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(a) What is the force on p?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（a）作用在p上的力为多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(b) What is the force on q?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（b）作用在q上的力为多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>4.1.4 Polarization</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4.1.4 极化强度</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the previous two sections we have considered the effect of an external electric field on an individual atom or molecule.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在前两节中，我们考虑了外电场对单个原子或分子的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We are now in a position to answer (qualitatively) the original question: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在我们可以来回答（定性地）最初的问题：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What happens to a piece of dielectric material when it is placed in an electric field?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当一个电介质材料放入电场中会发生什么？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the substance consists of neutral atoms (or nonpolar molecules), the field will induce in each a tiny dipole moment, pointing in the same direction as the field.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果材料由中性原子（或者非极化分子）组成，每一个原子或非极化分子都会被外场诱导出微小的偶极矩，其方向与外电场方向一致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the material is made up of polar molecules, each permanent dipole will experience a torque, tending to line it up along the field direction.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果材料由极化分子组成，每一个偶极矩都会受到一个力矩，驱使它们沿外电场方向排列。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(Random thermal motions compete with this process, so the alignment is never complete, especially at higher temperatures, and disappears almost at once when the field is removed.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（随机的热运动会和这种过程竞争，因此极化分子的排列不是完全的，特别是在高温情况下，一旦外电场移除，极化将会立即完全消失）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Notice that these two mechanisms produce the same basic result: a lot of little dipole., pointing along the direction of the field-the material becomes polarized.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>注意，这两个不同的机制产生同样的基本结果：许多小的偶极矩沿着外电场的方向——材料出现极化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A convenient measure of this effect is. . .</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个效应的一个通常量度是. . .</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>which is called the polarization.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这被称做极化强度矢量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From now on we shall not worry much about how the polarization got there.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从现在起，我们将不再过多考虑极化是怎样产生的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Actually, the two mechanisms I described are not as clear-cut as I tried to pretend.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，我所描述的两种机制并没有明显的界限。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even in polar molecules there will be some polarization by displacement (though generally it is a lot easier to rotate a molecule than to stretch it, so the second mechanism dominates).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使在极化分子中也会有着某些位移极化（尽管，一般地，旋转一个极化分子比拉伸它要容易得多，因此第二个机制占优势）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's even possible in some materials to "freeze in" polarization, so that it persists after the field is removed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有些材料也可以“冻结”极化，当外电场撤除时，材料仍然保持极化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But let's forget for a moment about the cause of the polarization and study the field that a chunk of polarized material itself produces.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是让我们先暂且忘却产生极化的原因，来研究材料极化自身产生的电场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Then, in Sect.4.3, we will put it all together: the original field, which was responsible for P, plus the new field, which is due to P.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后，在4.3节中，我们将把它们结合起来：原电场，它诱导了P，再加上由P产生的新电场。
+</seg></tuv>
+</tu>
+</body>
+</tmx>

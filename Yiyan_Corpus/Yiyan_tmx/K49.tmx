@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T152135Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Region of Unlikeness</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>异域</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some people would consider Jacob a physicist, some would consider him a philosopher or simply a "time expert," though I tend to think of him in less reverent terms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在某些人眼中雅各布是一位物理学家，在某些人眼中雅各布是一位哲学家，在某些人眼中雅各布又不过是一位“时间专家”，可是我更倾向用一些不那么尊敬的词描述他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But not terms of hatred. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但绝不带有恶意的字眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan used to call Jacob "my cousin from Outer Swabia." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰以前经常管雅各布叫“我那斯瓦比亚郊外来的兄弟”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That obscure little joke, which I heard Ilan make a number of times, probably without realizing how many times he'd made it before, always seemed to me to imply a distant blood relation between the two of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我总觉得他们俩似乎真的有着某种遥远的血缘关系，这个让人感觉似是而非的小玩笑，我听到伊兰开了好多次了，甚至连他自己都不知道已经开过多少次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess I had the sense (back then) that Jacob and Ilan were shirttail cousins of some kind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过以前我总有一种感觉，觉得他们就是远房兄弟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But later I came to believe, at least intermittently, that actually Ilan's little phrase was both a misdirection and a sort of clue, one that hinted at an enormous secret that they'd never let me in on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但后来，我慢慢相信，至少会时不时地相信，伊兰这短短的一个称呼确实误导了我，但也是一种暗示，使我觉得他们之间隐藏着从未让我知晓的极大秘密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not a dully personal secret, like an affair or a small crime or, say, a missing testicle- but a scientific secret, that rare kind of secret that, in our current age, still manages to bend our knee.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个秘密不是枯燥无味的个人隐私，例如风流韵事、轻微罪行或者类似缺少睾丸这种的，而是科学上的秘密，那种罕见的秘密，在如今的时代里，仍然需要我们屈膝以求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I met Ilan and Jacob by chance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是在很偶然的情况下遇到伊兰和雅各布的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sitting at the table next to mine in a small Moroccan coffee shop on the Upper West Side, they were discussing "Wuthering Heights," too loudly, having the kind of reference-laden conversation that unfortunately never fails to attract me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是在曼哈顿西区的一间摩洛哥小咖啡店里，他们坐在我邻近的一张桌旁，声嘶力竭地讨论着《呼啸山庄》，他们大量引证，滔滔不绝，偏巧我也总是很感兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob looked about forty-five; he was overweight, he was munching obsessively on these unappetizing green leaf-shaped cookies, and he kept saying "obviously." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布约摸45岁，大腹便便，拿起寡然无味的绿叶状饼干，咯吱咯吱嚼个不停，他总是不停地说着“显然”、“显然”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan was good-looking, and he said that the tragedy of Heathcliff was that he was essentially, on account of his lack of property rights, a woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰长得很帅气，他说希思克利夫【译者注：希思克利夫是《呼啸山庄》中的男主人公】的悲剧就在于他实质上是一个女人，因为没有财产权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob then extolled Catherine's proclaiming, "I am Heathcliff." Something about passion was said. And about digging up graves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着雅各布开始称赞凯萨琳【译者注：希思克利夫是《呼啸山庄》中的女主人公】的公开言论—— “我就是希思克利夫”，以及一些有关激情的言论，有关掘墓的言论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And a bearded young man next to them moved to a more distant table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旁满脸胡须的年轻人移了开来，到远些的桌旁坐下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob and Ilan talked on, unoffended, praising Bront, and at some point Ilan added, "But since Jane Austen's usually the token woman on university syllabi, it's understandable if your average undergraduate has a hard time shaking the idea that women are half-wits, moved only by the terror that a man might not be as rich as he seems."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布和伊兰毫不介意，继续互相讨论着，不停地称赞勃朗特【译者注：勃朗特是《呼啸山庄》的作者，英国女作家】，有时伊兰还补充说，“大学里普通学生一直都认为女人很愚笨，觉得她们有所触动时也只是因为发现男人也许不像他看上去那么富有而受了惊吓；学生们有这样的看法也是可以理解的，因为大学里一般都把奥斯汀作为代表性的女作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not necessarily warmly, I chimed in with something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我插了些话，未必很亲切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan laughed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰笑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob refined Ilan's statement to "straight women." Then to straight women "in the Western tradition." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布把伊兰的言论总结归纳为“传统女人”，后来进一步归纳为“遵循西部传统”的传统女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the three of us spoke for a long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后我们三个人又谈了很久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That hadn't been my intention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我原本不想这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there was something about Ilan- manic, fragile, fidgety, womanizing (I imagined) Ilan- that was all at once like fancy coffee and bright-colored smutty flyers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过是因为伊兰，那个狂热、脆弱、坐立不安、我认为花心的伊兰，他表现出来的一些东西让人猛一看，感觉他就像特别的咖啡和明艳的黑色飞虫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had a great deal to say, with a steady gaze into my eyes, about my reading the New York Post, which he interpreted as a sign of a highly satiric yet demotically moral intelligence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一直凝视着我，对我看《纽约邮报》的事说不完道不尽，他认为我看《纽约邮报》极具讽刺意味，但也表明了我道德智商与大众无异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob nodded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布点头称是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I let the flattery go straight to my heart, despite the fact that I didn't read the Post- it had simply been left on my table by a previous customer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的这一番恭维一语中的，说到了我心坎里，虽然实际上我没有看过《纽约邮报》，那份报纸不过是先前坐在我位置上的顾客留下的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan called Post writers naive Nabokovs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰说邮报的作者就是天真的纳博科夫【译者注：纳博科夫，俄国小说家】。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不错，我应道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The headline, I remember, read "AXIS OF WEASEL. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得报纸的头条新闻是“鼹鼠轴心”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Somehow this led to Jacob's saying something vague about Proust, and violence, and perception.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个标题不知怎么地引发了雅各布对普鲁斯特【译者注：纳博科夫，法国作家，《追忆似水年华》的作者】、偏激、洞察力的评论，说其不可捉摸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jacob's a boor, isn't he?" Ilan said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“雅各布是个凡夫，对吗？”伊兰说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe he said "bore" and I heard "boor" because Ilan's way of talking seemed so antiquated to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许是我听错了，把“烦物”听成了“凡夫”，因为伊兰说话的方式对我而言太古文化了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had so few operating sources of pride at that time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我几乎没有可以表现出自豪的场地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was tutoring and making my lonely way through graduate school in civil engineering, where my main sense of joy came from trying to silently outdo the boys- they still played video games- in my courses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在土木工程研究做助教，孓然独行，仅仅当我设法默默地让那些还在玩电子游戏的男生信服时，我才会感到快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started going to that coffee shop every day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我开始每天到那家咖啡店去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone I knew seemed to find my new companions arrogant and pathetic, but whenever they called me I ran to join them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凡我认识的人似乎都发现我的新伙伴既傲慢又可怜，但是每当他们约我的时候，我都会跑去参加他们的聚会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan and Jacob were both at least twenty years older than me, and they called themselves philosophers, although only Jacob seemed to have an actual academic position, and maybe a tenuous one, I couldn't quite tell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰和雅各布都比我年长至少20岁，他们称自己是哲学家，不过似乎只有雅各布真正在学术界有一席之地，但也许是虚名，反正我辨认不出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was happy not to care about those things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不关注这些我倒开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob had a wife and daughter, too, though I never met them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布有一个妻子和一个女儿，但我从未见过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was always just the three of us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次就我们三个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We would get together and Ilan would go on about Heidegger and "thrownness," or about Will Ferrell, and Jacob would come up with some way to disagree, and I would mostly just listen, and eat baklava and drink lots of coffee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们聚在一起时，伊兰就会不停地谈论海德格尔【译者注：海德格尔，德国哲学家】和“抛置态” 【译者注：抛置态是海德格尔所提出的 “此在”的三种存在方式中的一种，另外两种是“沉沦态”、“ 生存态”】，要么就会谈论威尔·法瑞尔【译者注：威尔·法瑞尔，美国演员】，雅各布紧接着就提出异议，我大多数时候都只是一边听，一边吃果仁蜜酥饼，一边猛喝咖啡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we'd go for a long walk, and Ilan might have some argument in defense of, say, Fascist architecture, and Jacob would say something about the striated and the smooth, and then a pretty girl would walk by and they would talk about her outfit for a long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>离开咖啡厅后我们会散散步，走很长的一段路，路上伊兰还会争论，例如为法西斯建筑辩护，而雅各布谈论有条纹图样和表面平滑的东西，之后一个漂亮的女孩走过，他们又开始讨论女孩的穿着，经久不息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob and Ilan always had something to say, which gave me the mistaken impression that I did, too.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布和伊兰总是有话可谈，使我误以为自己也是如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Evenings, we'd go to the movies, or eat at an overpriced restaurant, or lie around Ilan's spacious and oddly neglected apartment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上我们要么会去看电影，要么会去价格高昂的餐厅吃饭，要么会在伊兰公寓的房间里随意躺着，他的房间很宽敞，但伊兰却不怎么布置，很奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had no bed frame, nothing hung on the walls, and in his bathroom there was just a single white towel and a T.W.A. mini-toothbrush. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋里连床架也没有，四面墙光溜溜的，浴室里仅有一条白色毛巾和一支环球航空公司的小牙刷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he had a two-hundred-dollar pair of leather gloves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他却有一双200美元的皮手套。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day, when I went shopping with the two of them, I found myself buying a simple striped sweater so expensive that I couldn't get to sleep that night.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天，我和他们俩去购物，发现自己居然会买一件昂贵的毛衣，这件带有简单条纹的毛衣让我心疼得当晚无法入睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of this behavior- the laziness, the happiness, the subservience, even the pretentiousness- was "like me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>偷懒享乐、阿谀奉承、甚至自我炫耀这些行为没有哪一样是像我所为的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was accustomed to using a day planner and eating my lunch alone, in fifteen minutes; I bought my socks at street fairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我习惯于每天按计划表行事，单独吃午餐，在15分钟内吃完；到街区集市买短袜等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when I was with them I felt like, well, a girl. Or "the girl." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当我和他们在一起时，就觉得自己像，嗯，一个女孩，要不就是“那种女孩”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would see us from the outside and recognize that I was, in an old-fashioned and maybe even demeaning way, the sidekick, the mascot, the decoration; it was thrilling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会置身于外看我们自己，意识到我自己是在以一种老派的甚至可能是卑微的方式成为他们的密友、他们的福将、他们的饰物。这令人震惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it didn't hurt that Ilan was so generous with his praise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰从不吝啬对我的赞扬，这并没有什么坏处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I fixed his leaking shower and he declared me a genius. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我修好了他漏水的淋浴喷头，他夸我是个天才。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Same when I roasted a chicken with lemons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，我做好了柠檬烤鸡，他也夸我是个天才。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I wore orange socks with jeans, he kissed my feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我穿上橙色短袜配牛仔裤时，他亲吻我的脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob told Ilan to behave with more dignity; he was just jealous of Ilan's easy pleasures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布对伊兰说行事要文明些；他不过是在妒忌伊兰很容易感到快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not as if Jacob wasn't lovable in his own abstruse and awkward way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>似乎雅各布的行为方式笨拙难懂，并不惹人喜爱，这样说并不准确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I admired how much he read- probably more than Ilan, certainly more than me (he made this as clear as he could)- but Jacob struck me as pedantic, and I thought he would do well to button his shirts a couple buttons higher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我钦佩他博览群书，读过的书可能比伊兰还要多，当然比我多（伊兰总是尽其所能明白无误地指出这一点），但是雅各布给我最深的印象是他的学究气，还有我认为他最好还是在扣衬衫纽扣时，多扣上上方的两个扣子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, we were all at the movies- I had bought a soda for four dollars- and Jacob and I were waiting wordlessly for Ilan to return from the men's room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次，我们都在看电影，我还花了4美元买了一瓶汽水，我和雅各布在默默无言地等伊兰从洗手间出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It felt like a very long wait. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感觉等了很久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several times I had to switch the hand I was holding the soda in because the waxy cup was so cold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有几次我都换手拿汽水，因为光滑的杯子冰冷冰冷的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's taking such a long time," I said, and shrugged my shoulders, just to throw a ripple into the strange quiet between us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他去了这么长时间，”我说道，耸了耸肩，想通过轻轻的几句话打破我们之间怪怪的沉默。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know what they say about time," Jacob said idly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道他们对时间的说法吗，”雅各布悠然地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's what happens even when nothing else does."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是只要有事发生，即使就这一件事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"O.K.," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，”我应了一声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only thing that came to my mind was the old joke that time flies like an arrow and fruit flies like a banana. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脑海里浮现的就只有一个老掉牙的笑话，说时间穿梭似箭，水果飞翔如蕉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't bear to say it, so I remained silent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不忍心说这个笑话，只有继续保持沉默。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as if, without Ilan, we couldn't even pretend to have a conversation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样看起来，好像没有伊兰，我们甚至连假装交谈都不行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were, I should admit, things about Ilan (in particular) that didn't make me feel so good about myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我得承认，有些事，特别是伊兰做的一些事让我的自我感觉较差。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, once I thought he was pointing a gun at me, but it turned out to be a remarkably good fake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，有一次我看到他拿着一支枪指着我，后来发现那是一把足以以假乱真的假枪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Occasionally when he poured me a drink he would claim he was trying to poison me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时，他给我倒了一杯酒后会对我说酒里有毒，他想毒死我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One night I even became very sick, and wondered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某天夜里我甚至感到非常不舒服，对此疑惑不已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another evening- maybe the only time Jacob wasn't with us; he said his daughter had appendicitis- Ilan and I lay on his mattress watching TV. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一天晚上——也许那天是唯一一次雅各布不在的时候，伊兰说雅各布的女儿得了阑尾炎——我和伊兰躺在他的床垫上看电视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For years, watching TV had made me sick with a sense of dissoluteness, but now suddenly it seemed great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多年过去了，一提到看电视我就恶心，总感觉那样有些放荡不羁，但如今突然觉得似乎那样很好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night, Ilan took hold of one of my hands and started idly to kiss my fingers, and I felt- well, I felt I'd give up the rest of my life just for that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天夜里，伊兰握着我的双手，胡乱地亲吻我的手指，我感到，哇，我简直都不想再活下去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then Ilan got up and turned off the television. Then he fell asleep, and the hand-kissing never came up again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后伊兰起身关了电视，倒头就睡，再也没有吻我的手了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan frequently called me his "dusty librarian." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰经常把我称作他的“可怜的图书管理员”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And once he called me his "Inner Swabian," and this struck him as very funny, and even Jacob didn't seem to understand why. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时他把我称作他的“内斯瓦比亚”，让人感觉他非常滑稽，不过甚至连雅各布都不理解他为什么这样称呼我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan made a lot of jokes that I didn't understand- he was a big fan of Poe, so I chalked his occasionally morbid humor up to that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰开了很多我都不理解的玩笑，他非常崇拜坡【译者注：坡，美国作家，以恐怖诗歌和短篇小说闻名】，我偶尔还会用粉笔吧他那吓人的笑话记录下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he had that handsome face, and his pants fit him just so, and he liked to lecture Jacob about how smart I was after I'd, say, nervously folded up my napkin in a way he found charming.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰有着一副英俊的面容，他的裤子也很般配，当他看到我用一种他认为非常迷人的方式折起纸巾时，就喜欢对雅各布说我是怎么怎么的聪明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got absolutely no work done while I was friends with them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我和他们交上朋友后，我完全什么事都干不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And hardly any reading, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至连一本书都不再读了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I mean to say is that those were the happiest days of my entire life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是说那些时光是我整个生命中最觉幸福的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we fell apart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我们分开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just stopped hearing from them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我完全就没有了他们的消息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan didn't return my calls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰也不回我的电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I waited and waited, but I was remarkably poised about the whole thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我等了又等，但我对整件事异常冷静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I assumed that Ilan had simply found a replacement mascot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想伊兰不过是又找到了一个可替换我的福将罢了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I imagined that Jacob- in love with Ilan, in his way- hardly registered the swapping out of one girl for another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还想雅各布在以他的方式爱着伊兰，他几乎不会去做换女友的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly it seemed a mystery to me that I had ever wanted to be with them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然，我曾经希望和他们在一起的想法对于我而言，似乎变得难以理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ilan was just a charming parrot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊兰不过就是个引人注目的学舌鹦鹉而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Jacob the parrot's parrot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而雅各布就是学舌鹦鹉的学舌鹦鹉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And if Jacob was married and had a child wasn't it time for him to grow up and spend his days like a responsible adult? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果雅各布结婚生子了，那不正是他长大成人，像一个有责任的男人过生活的时候吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That, anyway, was the disorganized crowd of my thoughts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，不管怎样，那都只是我毫无头绪的胡思乱想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several months passed, and I almost convinced myself that I was glad to be alone again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个月过去了，我几乎可以断定，我又开始喜欢独自一人了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took on more tutoring work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我承担了更多的助教工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then one day I ran randomly (O.K., not so randomly- I was haunting our old spots like the most unredeemed of ghosts) into Jacob.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又有一天，我无意中遇到了雅各布（当然，不是完全无意的，我当时就像无法救赎的魂灵重游故地）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the duration of two iced teas, Jacob sat with me, repeatedly noting that, sadly, he really had no time at all, he really would have to be going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布和我坐了大约两杯冰茶的功夫，他不停地说，很遗憾他真的没有空，他真的不得不走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We chatted about this and that and about the tasteless yet uncanny ad campaign for a B movie called "Silent Hill" (the poster image was of a child normal in all respects except for the absence of a mouth), and Jacob went on and on about how much some prominent philosopher adored him, and about how deeply unmutual the feeling was, and about the burden of unsolicited love, until finally, my heart a hummingbird, I asked, "And how is Ilan?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们聊聊这聊聊那，还聊到了毫无品味但很怪诞的一部B级电影广告宣传，那部片子叫《沉默的希尔》，电影海报上的人是一个各方面都正常但就是没有一张嘴的男孩。雅各布还一而再、再而三地说某个知名哲学家多么多么崇拜他，说这种深情只是一厢情愿的，说这种主动提出的爱意是多大的负担等等，只到最后，我的心如同蜂鸟快速拍翅一样砰砰直跳，我问道，“那么，伊兰现在过得怎样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jacob's face went the proverbial white. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅各布的脸一下子变得苍白，一看便知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't think I'd ever actually seen that happen to anyone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想我还从没看到过哪个人有像他当时那样的表情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm not supposed to tell you," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说，“我想我不应该问这的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not saying anything seemed my best hope for remaining composed; I sipped at my tea.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一声不吭似乎是泰然处之的最好办法。我抿了抿我的茶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't want your feelings to be hurt," Jacob went on. "I'm sure Ilan wouldn't have wanted them hurt, either."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不想让你伤心，”雅各布接了话，“我敢肯定伊兰也不想我们伤心。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a long pause, I said, "Jacob, I really am just a dusty librarian, not some disastrous heroine." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一阵长长的沉默之后，我说，“雅各布，我真的不过就是个可怜的图书管理员，不是落魄巾帼。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a bad imitation of something Ilan might have said with grace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我生搬硬套了伊兰那文质彬彬的话语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Just tell me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“请告诉我到底怎么回事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, let's see. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“唉，怎么说呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He died." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经不在人世了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He had, well, so it is, well, he had stomach cancer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他，是的，嗯，他得了胃癌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inoperable, obviously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看得出来，手术不成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He kept it a secret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一直瞒着大家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Told only family."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只跟家里人说了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recalled the cousin from Outer Swabia line. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想起了他那从斯瓦比亚城郊结合部来的叔伯兄弟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, I felt certain- somehow really certain- that I was being lied to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，我敢肯定，甚至能断定，雅各布在骗我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He isn't dead," I said, trying to deny the creeping sense of humiliation gathering at my liver's portal vein.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他没有死，”我说道，妄想掩饰油然而生的受辱心情，这种心情集聚于心，令我血脉贲张。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

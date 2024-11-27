@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 1 GERMAN AIRBORNE OPERATIONS IN WORLD WAR II</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一章 德国在第二次世界大战中的空降战</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Germans carried out airborne operations on a large scale only twice in World War II; once in May 1940 in Holland, and again in May 1941 in connection with the occupation of Crete. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二次世界大战中，德国的大规模空降作战行动只有两次；一次是1940年5月对荷兰的行动，另一次则是1941年5月的克里特岛空降。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Accordingly, German experiences are based in the main upon these two operations which took place during the first years of the war and which constituted the first large-scale airborne operations in the history of warfare. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>德国在大战前期的空降作战经验主要源于这两次行动，这两次行动也是人类历史上最早的大规模空降战。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although there were no other major airborne operations launched by the Germans, the German command, and in particular the parachute units which continued to be further improved during the course of the war, seriously concerned themselves with this problem. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管此后德国再没有实施大规模的空降行动，但整个大战期间 德国统帅部特别是空降兵却一直在研究这种新的战争方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two other cases are known in which plans and preparations for large-scale airborne operations progressed very far, namely, the intended commitment of parachute troops as part of the landing in England (Operation SEELOEWE) in 1904, and the preparations for the capture of the island of Malta in 1942. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上德军还有两个已经做了大量准备工作的空降行动，一个计划在1940年让伞兵空降英国本土配合地面部队进行登陆作战（席洛依维行动Operation SEELOEWE），另一个计划则是1942年空降占领马耳他岛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Neither of these plans was carried out.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过这两个计划最后都胎死腹中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Airborne operations on a smaller scale were carried out against the Greek island of Leros in 1943 and during the Ardennes offensive in 1944. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而小规模空降行动的例子有1943年对希腊勒罗斯岛的空降和1944年阿登反击战中的空降。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The experience of minor operations such as these, as well as the trials, tests, and research done by the airborne troops during the war, are also discussed in this study.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>德国空降兵在战争期间对小规模空降行动的研究和经验也将在本文中提及。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The problems encountered in German airborne operations have been divided into three categories:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>德国空降兵在制定作战计划时要考虑的因素主要可以归为3个方面：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Planning airborne operations from the point of view of the higher command, designation of objectives for air lands, and cooperation with ground troops, the Luftwaffe, and the naval forces;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从最高统帅部的角度计划空降行动，指定任务目标，与地面部队、空军、海军协同；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Actual execution of an airborne operation; the technique and tactics of landing troops from the air; and</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空降计划在执行时可能碰到的问题，实施空降的技术、战术细节</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Organization, equipment, and training.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>组织、装备和训练</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition, a number of specific points and recommendations have been attached in the form of a appendix contributed by Col. Freiherr von der Heydte, who may be regarded as the most experienced field commander of German airborne troops.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外附录中还收录了弗里赫·冯·德·海德特上校提供的大量细节和建议，他是德国空降兵中最具实战经验的前线指挥官之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In every air landing there are two separate phases. First the strip of terrain must be captured from the air; that is, an "airhead" must be established. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有的空降任务都包含两个不同的阶段：第一，空降占领一小块区域 即：建立空降场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This airhead may, or may not, include the objective. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过任务目标并不一定会在空降场内。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, the objective of the air landing must either be captured or held in ground battle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二，通过地面战斗夺取或守住任务目标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second phase is similar in nature to conventional ground combat, if we disregard the method used to transport the troops and the factors of strength and supply which are influenced by the circumstances that all communication is by air. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除了部队和补给品的输送是空运完成外，第二阶段的行动和常规地面行动相差无几。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first phase, however, has new and unique characteristics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而第一阶段的行动却是全新并有着鲜明特点的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Troops committed during the first phase require special equipment and special training. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>参与第一阶段行动的部队需要接受特殊训练，配备特殊装备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In limited engagements such troops can also carry out the missions connected with the second phase. For large-scale operations regular ground troops will have to be used in addition to special units. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在小规模行动中，这些部队也可以完成第二阶段的任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These ground troops need equipment modified to fit the conditions of air transport. In recognition of these factors the Wehrmacht (German Armed Forces) had taken two steps even before the war. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而大型空降行动中，常需要常规部队后续介入，为此，这些后续部队需要配置为适合空运而进行改良的作战装备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the 7th Airborne Division of the Luftwaffe, a unit had been created whose mission it was to capture terrain by parachute jumps and landing troop-carrying gliders. An Army unit, the 22d Infantry Division, had been outfitted for transport by air and given the designation of "Air Landing Division."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>按上述原则，国防军从战前就已完成了两项准备工作：第七空降师组建了伞降和机降(滑翔机)单位，陆军第22步兵师配置了适合空运的作战装备并被命名为“空运突击师(Air Landing Division)”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both of these units were committed during the first great air-landing attack in Holland in 1940, at which time the 22d Infantry Division had to be reinforced by elements of the 7th Airborne Division to capture the initial airhead. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这两支部队都参加了1940年在荷兰进行的历史上第一次大规模空降行动。此次行动中，第七空降师负责占领空降场，第22步兵师担任增援。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other hand, smaller missions, such ass that to capture Fort Eben Emael, were accomplished by troops of the 7th Airborne Division without assistance from other units. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而诸如占领埃本·埃玛尔要塞等一些小规模的行动则由第七空降师独立完成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During the attack on Crete a year later, it was impossible for the airborne troops to achieve a victory alone. It was only when Army units transported by air had arrived that progress was made toward capturing the island. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一年后的克里特岛行动中，战斗开始后我们发现空降兵无法独立完成作战任务 直到陆军部队被空运至该岛后，胜利的天平才开始向我方倾斜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since it had not been possible to transport the 22d Infantry Division to Greece in time, the 5th Mountain Division, already in Greece, had to be employed, a measure which proved to very successful. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当时，由于22步兵师无法及时转移到希腊，因此已在希腊的第五山地师受命增援克里特，此战中他们的表现非常出色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Preparations lasting approximately one month were sufficient to prepare the division for the new assignment. The special equipment of the mountain troops was suited both for transport by air and for commitment in the mountainous terrain of the island.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个月的时间让第五山地师获得了充分的准备，而事实也证明山地部队的特殊装备非常适合进行空运 也能很好的适应克里特岛的多山地形。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Section 1. PRINCIPLES OF EMPLOYMENT</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>i. 空降战的原则</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The airborne operations undertaken by the Germans during World War II may be classified in two groups, according to their purpose. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>二战德军的空降战根据任务目的不同可以分为两类。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the first group, the attack took the form of sending an advance force by air to take important terrain features, pass obstacles, and hold the captured points until the attacking ground forces arrived. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一类任务是越过各类障碍直接空降占领要害地点，坚守目标直到地面部队到达。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This operation was aimed at a rigidly limited objective within the framework of a ground operation which was itself essentially limited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种任务一般是地面行动的一部分，目的在于占领某些特殊目标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This was the case in the airborne operation in Holland in 1940 and, on a smaller scale, at Corinth in 1941 and during the Ardennes offensive in 1944. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大规模行动如1940年空降荷兰，小规模行动如1941年科林斯峡谷行动和1944年阿登反击时的空降行动均属此范畴。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The common characteristic of all these operations is that they were limited to capturing the objectives and holding them until the ground forces arrived. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种任务的共性是任务目标是占领并坚守某地直到地面部队到达。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beyond that, there was no further action by the troops landed from the air, either in the form of large-scale attacks from the airhead or of independent airborne operations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且不论行动规模大小，空降部队在占领目标后就不会再有其它后续任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At the time, such missions would have been far beyond the power of the troops committed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在当时，空降部队的作战能力远不足以执行更多后续任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the second group are the operations having as their objective the capture of islands. On a large scale these included the capture of Crete in 1941; on a more limited scale these included the capture of Leros in 1943. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二种任务是占领整个岛屿的行动，大规模的如1941年占领克里特岛的行动，规模较小的如1943年占领勒罗斯岛的行动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Crete came closer to the concept of an independent operation, although the objective was strictly limited in space. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管目标只是一个岛屿，但克里特岛战役更像一个完整独立的行动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The planned attack on Malta also belongs in this category. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马耳他岛的作战计划也属于此种类型。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The experience of World War II shows that such missions are well within the means of airborne operations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从二战的经验来看，空降部队很适合此类型的任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two considerations influence the selection of the objective in airborne operations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>影响空降战的目标选择的主要因素有两个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first is that in respect to their numbers, and also as far as their type, equipment, and training is concerned, the forces available must be fit for the task facing them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一，要仔细考虑部队的兵力、配置、装备、训练等因素是否适合他们的任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is of course true of all tactical and strategic planning, but at the beginning of the war, because of a lack of practical experience, the manpower needs were greatly underestimated.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这当然是任何战略战术计划在制定过程中需要慎重考虑的因素。但在大战伊始，因经验缺乏等问题，行动所需的兵力总是被严重低估。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second consideration-and this is especially important for airborne operations-is that at least temporary and local air superiority is an absolute necessity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二点也是至关重要的一点就是，我们至少要掌握暂时的或者局部的空优方可进行空降作战。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This factor has a decisive influence upon the selection of the objective, at least as far as distance is concerned. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此因素对任务目标的设定起决定性作用，因为至少我们要考虑空降的距离问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The latter condition prevailed during the large-scale German airborne operations against Holland and Crete; but the first condition did not exist in equal measure, a fact which led to many crises. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在对荷兰和克里特的行动中，德国空军拥有巨大的空中优势，但当时我们对第一项要素的认识不够，结果行动危机重重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both were absent during the unsuccessful Ardennes offensive. In preparing for an airborne operation the element of surprise must be maintained. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而在阿登反击时，我们两个要素都不具备，因此结果只能是惨败。空降作战一定要保证其突然性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the operation against Holland surprise was easily achieved since it was the very first time that an airborne operation had ever been undertaken. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就对荷兰的奇袭而言，因这是空降第一次应用于实战，因此突然性并不是难题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once the existence of special units for airborne operations and the methods of committing them had become known, surprise was possible only through careful selection of time and place for the attack, and of the way in which it was started. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是当人们对这种特殊行动的了解加深后，突然性则只能依靠慎重选择任务时间、目标地点和发动的方式来实现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This requires strict secrecy regarding preparations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一切准备工作都要严加保密。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the Crete operation such secrecy was lacking, and the grouping of parachute troops and transport squadrons became known to the enemy who had little doubt as to their objective. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在克里特岛行动中，由于保密工作的疏忽，敌人对我们伞兵和运输机的目标了如指掌。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The result was that the German troops landing from the air on Crete came face to face with an enemy ready to defend himself; consequently, heavy losses were sustained.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>结果从天而降的德国士兵发现他们降落在武装到牙齿的敌人面前。毫无疑问，此役我们损失惨重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[Field Marshal Kesselring's comments on the element of surprise: Airborne operations must always aim at surprise, which has become increasingly difficult but not impossible to achieve. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>[凯塞林元帅对突然性的评论：空降战的第一要务就是出其不意，虽然要达到这个目标越来越难但并非完全不可能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Detection devices, for example radar equipment, can pick up air formations at a great distance and assure prompt countermeasures. Flights at very low altitude, such as were planned for the attack against Malta, are difficult to detect by means of such equipment. The effectiveness of these devises is neutralized by natural barriers in the terrain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>类似雷达这样的探测设备虽可以在很远的距离就发现飞机并让敌人有足够的时间准备，但正如我们在马尔它岛行动中计划的，让飞机超低空飞行就很难被其发现，因为此类设备在某些自然障碍物或特殊地形环境下无法发挥作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Attention can be diverted by deception flights, and confusion is often caused by suddenly changing the course of the aircraft during approach runs, as well as by dropping dummies at various places behind the enemy front. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>利用其他飞机吸引敌人的注意力，或者突然改变航向、在敌人前线后方空投假人都可以引发敌人的混乱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Night operations increase the possibility of surprise,; in many cases this is also true fro the ensuing ground combat. It is impossible to overestimate the value of soundless glider approaches during twilight hours for the successful execution of air landings. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同地面任务一样，夜间行动可以提高空降的突然性；使用无声的滑翔机在黎明前后进行突袭也是非常有效的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is easier to preserve secrecy in the assembly of airborne units than in concentrations prior to ground operations of the same size, since with proper organization the airborne troops can be assembled and attacks prepared deep in friendly territory within very short periods of time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相较于集结相同规模的地面部队，集结空降部队其实更易于保密，空降部队可于我方内陆进行集结和准备，而后快速部署到作战地点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Crete is the classic example of how this should *not* be done.] </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>克里特岛行动是空降战“不能”怎么打的经典战例]</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Connected with the element of surprise is deception. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>欺骗和突然性同样重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A typical deceptive measure in airborne operations is the dropping of dummies by parachute. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空降战中典型的欺诈手段就是伞降假人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both sides availed themselves of this measure during World War II. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大战中敌我双方都使用了这个方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Experience shows that an alert enemy can soon recognize dummies for what they are. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>经验证明，高度警惕的敌人可以迅速分辨出假人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A mingling of dummies and real parachutist promises better result because it misleads the enemy as to the number of troops involved and leaves him guessing as to where the point of main effort of the attack is to be located and as to where only a diversionary attack is concerned. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此假人和士兵混合空投的方式往往可以得到更好的效果，这会误导敌人错误估计我们投入的兵力数量，让他们难以分辨是主攻还是佯攻。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As an experiment, the German parachute troops also attempted to equip the dummies with smoke pots which would start smoking when they reached the ground, thus making it still harder for the enemy to see through the deception. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们还曾经设想给假人装备落地后发烟的烟幕弹，让敌人更难分辨。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This idea never advanced beyond the experimental stage.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过这个设想只停留在实验阶段。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Careful reconnaissance is also of special importance in airborne operations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>细致的侦察也对空降行动有非常重要的意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The difficulty is that in airborne operations troops cannot, as in ground combat, conduct their own reconnaissance immediately in advance of the main body of troops. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空降兵先头部队不可能像常规地面部队一样在到达后立即组织侦查为大部队的到来作准备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In attacking, their spearheads penetrate country that no reconnaissance patrol has ever trod. This is why reconnaissance will have to be carried out very carefully and well in advance. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>战斗中，先头部队进入的是我方巡逻队从未踏足的地域，因此先前的侦察必须慎之又慎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Military-geographical descriptions, aerial photography, reports from agents, and radio intelligence are sources of information. All this requires time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>军事地理资料、航空图片、情报部门的报告以及无线电情报都是宝贵的信息，而这一切都需要时间。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Before the Holland operation enough time was available, and it was utilized accordingly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在荷兰行动前，我们有足够的准备时间，因此对这些信息的利用工作相当充分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Reconnaissance before the Crete attack was wholly inadequate and led to serious mistakes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在克里特，情报准备非常不充分，结果导致了一系列严重错误。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For instance, enemy positions were described as artesian wells and the prison on the road from Alikaneos to Khania as "a British ration supply depot." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比如敌军的驻扎地被误认为钻井，而阿里卡缪斯通向干尼亚公路边的监狱则被标记为“英军补给站”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both the command and the troops had erroneous conceptions about the terrain in Crete, all of which could have been avoided if more careful reconnaissance had been made.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同时司令部和部队对克里特的地形也谬之甚深。其实这些错误原本都可以通过前期更仔细的侦察而避免。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Several views were current among German airborne commanders as the best way of beginning an airborne operation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>德军指挥官对“空降行动的最佳开展方式”有几种不同的观点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One method, which General Student recommended and called "oil spot tactics," consisted in creating a number of small airheads in the area to be attacked-at first without any definite point of main effort-and then expanding those airheads with continuous reinforcement until they finally ran together. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>施图登特将军推荐的一种方法是“油渍战术（oil spot tactics）”，即：在攻击区域开辟数个小型空降场——在最初阶段并不设定主空降场——并不断为这些小型空降场提供增援直到最终全部空降场连成一片。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These tactics were used in both Holland and Crete. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种战术被应用于荷兰和克里特。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>General Meindl, on the contrary, was of the opinion that a strong point of main effort had to be built up from the very onset, just as was done in attacks made by the German panzer forces. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而与此相反，孟德尔将军认为空降部队应像装甲部队一样，选择主攻点，集中兵力展开行动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, no German airborne operations were launched in accordance with this principle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是德国的空降行动从未运用过这种战术思想。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Neither of the two views can be regarded as wholly right or wrong; which one will prove more advantageous will depend on the situation of one's own and the enemy's forces, terrain, and objective. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上这两种观点并无绝对的对错之分，只有根据敌我力量、地形和目标等具体情况才能决定采用何种方式实施空降。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even in conventional ground combat an attack based on a point of main effort which has been determined in advance is in opposition to the Napoleonic method of "on s'engage partout et puis on voit" (one engages the enemy everywhere, than decided what to do). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使在传统地面战斗中，集中力量在主攻方向上展开突击也违背了拿破仑“围而后破之”（“on s'engage partout et puis on voit”）的理论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the relatively strong forces required by this method are not available, it would be better to build up a point of main effort from the very beginning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拿破仑的理论需要强大的实力作后盾，因此在实力不具备的情况下，较好的方式是自开始就建立进攻支撑点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other hand, since in airborne operations a thrust is made into terrain where the enemy situation is usually unknown, the "oil spot method" has a great deal in its favor. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面来说，在行动开始前，我方往往并不知道敌人的准确位置，因此“油渍战术”会显得格外有意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, it breaks up enemy countermeasures, as in the attack on Crete. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就像在克里特，此种战术可以避免敌人的干扰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During the initial attack there, parachute troops were distributed in a number of "oil spots;" there were heavy losses and no decisive successes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在最初的进攻阶段，伞兵们空降形成许多“油渍”，遭受了巨大的损失仍然未能取得任何决定意义的胜利。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No further paratroopers were available and the decision was made to land the troop carriers of the 5th Mountain Division wherever an airfield was in German hands, even though it was still under enemy fire. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为没有更多空降部队可用，指挥部命令第五山地师不顾敌军炮火的威胁在一切已被德军占领的机场降落。虽然风险巨大，但最后看来正是这个决定带来了行动的胜利。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This was taking a great risk, but the plan succeeded from this point onward, the island was captured and the other "oil spots" liberated. At one time, the whole operation was within a hair's breadth of disaster because the airheads, which were too weak and too far apart, were being whittled down. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>增援拯救了分散的“油渍”部队并最终占领了岛屿，而在这之前，整个计划因先头部队的过于分散导致实力都以被削减到难以为继的地步。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After the decision to attack one point had been carried out and had succeeded, the remaining "oil spots" were useful since they prevented the enemy from moving his forces about freely. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在决定主攻点前，残存的“油渍”部队非常成功地干扰了敌军的调动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The advantages and dangers connected with this method are clear.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这个战例中，我们可以清楚地看到这种战术的优势和危险。</seg></tuv>
+</tu>
+</body>
+</tmx>

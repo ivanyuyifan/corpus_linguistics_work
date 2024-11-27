@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T140443Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eroding Library Role?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>淡化的图书馆角色
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If libraries do not seriously rethink their role in the lives of researchers, they could come to be seen more as resource purchasers than as research collaborators, according to a report released today by the nonprofit group Ithaka S+R.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>非营利组织Ithaka S+R今日发布的一份报告指出，图书馆如果不对其在研究人员生活中的角色加以深刻反思，它们将越来越被看作资源购买者，而非科研合作者。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"As scholars have grown better able to reach needed materials directly online, the library has been increasingly disintermediated from research processes," write the authors of the report, which is based on a national survey of professors administered last year.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“随着学者们直接通过网络获取所需资料的能力逐渐增强，图书馆也逐渐丧失了其作为研究过程中间方的作用”，该报告的作者依据去年一项由多位教授主持的全国性调查这样写道。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The declining visibility and importance of traditional roles for the library and librarian may lead to the faculty primarily perceiving the library as a budget line, rather than an active intellectual partner," they later add.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“图书馆和图书馆员传统角色的曝光率和重要性日益衰减，将导致教学人员从根本上将图书馆作为一个预算界限，而不是一个积极的智力合作者来考虑”，他们随后补充说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That certain scholars no longer see libraries as "gateways" for finding information is no secret, write the Ithaka researchers, who have conducted the survey every three years since 2000; past data have shown that scientists tend not to turn to library-specific resources --- such as library catalogs or librarians --- to kick-start research projects.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些学者不再将图书馆视为寻求信息的“门户”，这已是众所周知的事实。自2000年起，Ithaka的研究员们从事的这项调查每三年进行一次，上一次的数据表明，科学家们倾向于利用图书馆的特有资源――比如图书馆目录或者图书馆员――以启动研究项目。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What previous studies have not shown is that researchers in the humanities are following suit, says Roger C. Schonfeld, the group's manager of research.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（但是，）该项研究的组织者Roger C. Schonfeld也指出，以前的研究并没有说明人文学科的研究者们的跟风学样行为。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The humanities have traditionally had a stronger relationship with libraries than the sciences. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Schonfeld说，与科学领域相比较，人文学科向来与图书馆有更密切的联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So even when scientists began distancing themselves from libraries as remotely accessible digital journals and data banks made it easier to do so, many librarians seemed to think that it would not take any big effort to maintain their relevance to humanities scholars, Schonfeld says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，即使科学家们开始远离图书馆，而且可以远程存取的数字化期刊和数据银行使这一切更加简便时，许多图书馆员似乎仍然认为与人文学科的学者们维持联系不需要付出多大的努力。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The latest data suggest that "that is [no longer] an adequate strategy," he says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而最近的数据表明，“那不再是合适的策略”，他说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Humanists still see the library as indispensable; 75 percent said librarians still play an important role in supporting teaching, and 82 percent said the library provides crucial archiving services.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人文学者仍然将图书馆视为不可或缺的，（在他们中间，）有75%的人说图书馆员在支持教学方面发挥着重要的作用，82%的人则表示图书馆提供了非常重要的存档服务。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as far as research goes, the percentage of humanities faculty who use the library building as a starting point for research has gone down in each iteration of the survey, from 18 percent in 2003 to 6 percent in 2009. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，随着研究的深入，人文学科的教学人员中，将图书馆建筑作为其研究活动的起点的比例在历次的调查中呈现下降趋势，从2003年的18%到2009年的6%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ditto the library's online catalog, which 24 percent of faculty used as a starting point last year, compared to 39 percent in 2003.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>类似地，对于图书馆的在线目录，去年大约有24%的教学人员将其作为研究起点，而2003年这一数据是39%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, 70 percent of last year's respondents said their first research stop is either a general-purpose search engine or a specific electronic research resource, up from 42 percent in 2003. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，去年的调查对象中，70%表示其研究活动第一站是某一综合性搜索引擎或某种特定的电子研究资源，较2003年的42%有明显增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although humanities scholars still bypass the campus library and its catalog less routinely than their science colleagues, this year's data confirm that humanists are heading in that direction, Schonfeld says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然人文学者不像科学学者们那样经常地绕开学校图书馆及其目录，但是去年的数据证实，他们也已在朝此方向前行，Schonfeld说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"As far as the question of what the trend line is, the humanities are marching down the same path as the social sciences and the sciences," he says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“至于发展趋势的问题，人文学科正在沿着与社会科学和科学学科相同的路径前进”，他说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This presents libraries with a choice of "either investing to reengage with scientists and certain social science fields or of building on their existing strength with humanists to build durable services for an increasingly online future," the report says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告指出，上述情形使得图书馆面临“重建与科学工作者和某些社会学科的合作，或者加强其在人文学科方面的既有优势，面向日益在线化的未来构建多元化的服务”的选择。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though he emphasizes that Ithaka is not in a position to make universal strategy recommendations in either case, Schonfeld cites the Johns Hopkins University medical library as an example of a library that has dramatically changed the way it is structured in order to reengage medical researchers. That library has reduced its physical footprint and embedded librarians within research departments as information experts. "It's a completely different model of librarianship," Schonfeld says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管Schonfeld强调Ithaka不会以任何形式做出普适性的战略建议，但是他引用了约翰・霍普斯金大学医学图书馆的例子，为重新吸引医学研究者，该馆对其结构方式进行了显著调整，缩减了其物理覆盖范围（physical footprint ），并将图书馆员作为信息专家安排到研究部门中去，“这是完全不同的一种图书馆管理模式”，Schonfeld说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far as fortifying ties with the humanities, Mary Ellen K. Davis, executive director of the Association of College and Research Libraries, indicated that many libraries are already shifting to a stronger emphasis on teaching support --- one of the functions that humanists surveyed by Ithaka still see as crucial. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于加强与人文学者的联系，大学与研究型图书馆协会执行理事Marry Ellen K. Davis指出，许多图书馆已经转而更加强调其教学支持作用――这也是在Ithaka所调查的人文学者们看来十分重要的（图书馆）职能之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Libraries also recognize the trend toward online research and are working with scholars to figure out how to collaborate on research remotely, Davis said, while also taking on new roles such as advising scholars on copyright issues --- which are especially pertinent and ambiguous in the world of digital resources. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Davis说，图书馆已经认识到在线研究的趋势，并且正在与学者们一起探索如何远程地进行研究合作，同时它们还承担了新的任务，比如就版权问题――数字资源领域非常重要而又模棱两可的问题――向学者们提供建议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She objected to the idea that just because scholars do not visit the stacks as regularly as before, the campus library (and its staff) is any less of an "intellectual partner."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她反对那种仅仅因为学者们不再像以前一样经常到访书库就认为学校图书馆及其员工不再是“智识合作伙伴”的观点。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Implications for Open Access  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对开放存取的影响
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the other themes the Ithaka survey explored was what motivates scholars when they are deciding where they want to get published.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Ithaka此项调查揭示的另一个主题是学者们决定在哪出版（自己的学术成果）时，受什么因素的影响。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their highest priority? 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们最先考虑的是什么？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That the publication be widely read by their peers within the discipline. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那就是出版物能够被学科领域内的同行广泛阅读。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their lowest? 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们最不在乎的是什么？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That the publication be openly accessible.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是出版物是允许开放存取的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Traditional channels --- often made more efficient by the transition to digital but otherwise largely unchanged --- remain the most important ways in which faculty communicate both formally and informally," says the report.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告指出，“传统的渠道――经过数字化转化之后经常能够更有效率，但是大部分并没有改变――仍然是教学人员正式与非正式交流最重要的方式。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite any lip service they might pay to the ideal of open scholarship, "faculty interest in revamping the scholarly publishing system is secondary to concern about career advancement, and activities that will not be positively recognized in tenure and promotion processes are generally not a priority," it says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管他们以各种形式承诺将会给予开放知识成果的典范以美好报酬，“教学人员对于改革学术出版系统的兴趣总是居于有关职业发展的关注之后，而对于任职和提升过程没有积极影响的活动通常都不被优先考虑。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What this means is that the success of the open access movement will likely depend on university leadership, not scholars, the authors write, noting that a number of institutions have mandated that faculty deposit research in open vaults.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，开放存取运动的成功很可能依赖于大学领导者，而不是学者，作者提出这点时，也注意到相当数量的研究机构已经强制要求教学人员将其研究成果存储到开放库中。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, left to their own devices, scholars are much more likely to say they hope to put their research in open repositories sometime in the future (50 percent) than to actually do it (30 percent). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，从他们自身的角度来说，很多学者们（50%）他们希望在未来某个时候将其研究成果放到开放仓库中，而实际付诸行动的比这个少得多（30%）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whether this is cause for hope that faculty are moving toward depositing more of their work, or just an indication of good intentions, is hard to tell," says the report.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们是否能够寄望于教学人员逐渐贡献更多的成果，抑或这只是一种良好的愿望，目前还很难说。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside of making scholars put their studies into open repositories, which are seldom used anyway, university leaders might seek to nudge their faculties toward open access by "realign[ing] incentives." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了使学者们将其研究成果提交到极少被用到的开放仓库中以外，大学的领导者们可能还会通过“重排激励措施”的方式来推进教学人员参与开放存取。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Schonfeld says this could mean one of two things: tying promotion and tenure policies to publication in open-access journals, which probably won't happen; or playing to scholars' desire that their work be visible by emphasizing that anybody, not just subscribers, can find and view openly accessible articles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Schonfeld指出，这可能意味着下列两种情形之一：将任职和提升政策与在开放存取期刊上发表研究成果联系起来，这不大可能实现；或者通过强调开放存取的文章能够被任何人，而不仅仅是订阅者找到并且阅览，来迎合学者们希望自己的作品能被人看见的欲望。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

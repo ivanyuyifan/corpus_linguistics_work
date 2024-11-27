@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160909T043035Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An Honest Exit</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坦然别往昔，荡尽万千尘</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thirty-five years after my father left Ethiopia, he died in a room in a boarding house in Peoria, Illinois, that came with a partial view of the river. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲是在离开埃塞俄比亚35年后去世的，就在位于伊利诺伊州皮奥里亚（Peoria）的一座公寓中他那间可览湖光的房间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had never spoken much during his lifetime, but, on a warm October morning in New York shortly after he died, I found myself having a conversation with him as I walked north on Amsterdam Avenue, toward the high school where for the past three years I had been teaching a course in Early American literature to privileged freshmen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在世的时候，我们父子之间言谈不多，然而，在他去世不久后，在10月的纽约，一个暖意融融的清晨，我和过去三年一样，沿着阿姆斯特丹大街向北，向着我教授新生们《早期美国文学》的高中走去。在这一段路途中，我发现自己开始和父亲“交谈”起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's the Academy right there," I told him. "You can see the top of the bell tower through the trees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那就是科学院（the Academy，此处称谓我是参考现有卡夫卡作品译文中的用词敲定的，参见《一份致科学院的报告》）”我对“父亲”说，“透过树丛，你可以看见钟楼的塔尖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm the only one who calls it the Academy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有我一个人这样叫它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's not its real name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个叫法并非它的本名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stole it from a short story by Kafka that I read in college - a monkey who's been trained to talk gives a speech to an academy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡夫卡（Kafka）的一部短篇小说里——讲的是一只被训练得能够说话的猴子向一所学院做演讲的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to wonder if that was how my students and the other teachers, even with all their liberal, cultured learning, saw me - as a monkey trying to teach their language back to them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去我常常有这样的感觉，觉得我的学生们和学校的其他老师，这些受过良好教育的人也是如此看待我的——一只训练有素的猴子反过来向人们教授他们自己的语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you remember how you spoke? I hated it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>您还记得您的说话方式么？那可让我讨厌极了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You used those short, broken sentences that sounded as if you were spitting out the words, as if you had just learned them but already despised them, even the simplest ones. 'Take this.' 'Don't touch.' 'Leave now.' "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>您总是用那些支离破碎的短句，您说话就像您把那些词儿像吐痰一样吐出来，哪怕是最简单的句子也是如此，让人觉得您虽然并不精于此却已对这些字眼厌恶非常了。即便是‘拿上这个。’、‘别碰它。’、‘走吧。’这样的短句子也不例外。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I arrived in my classroom ten minutes before the bell rang, just as the first of my students trickled in. They were the smartest, and took their seats near the center. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在上课铃响前10分钟跨进了教室，那时我的学生中到校最早的一批也正缓缓走进教室。这个时间点来的都是这个班里的佼佼者，他们选了靠近教室中央的位置坐下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rest arrived in no discernible order, but I noticed that all of them, smart and stupid alike, seemed hardly to talk, or, if they talked, it was only in whispers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>余下的学生三三两两地走进教室，但我意识到他们所有人，无论聪明愚笨，几乎都不怎么说话，即便说话，也都是在轻声地交头接耳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most said hello as they entered, but their voices were more hesitant than usual, as if they weren't sure that it was really me they were addressing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们中的大多数人在进教室时都喊了“报告”，较之以往，我从他们的声音中听出了一丝犹豫，这感觉就像他们在确认我是否是他们平时问候的那个人一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm sorry for having missed class the other day," I began, and because I felt obliged to explain my absence I told them the truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很抱歉，前几天的课我没能给大家上，”我开腔了，我认为自己有义务对自己的缺席给出合理的解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My father passed away recently. I had to attend to his affairs."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“前不久我父亲去世了，那时我必须去参加他的葬礼。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet, because I had just finished talking to him, I felt that I hadn't said enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和“父亲”的“交谈”就那样结束了，我觉得有些意犹未尽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I continued. "He was sixty-seven years old when he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我续道，“我父亲去世时67岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was born in a small village in northern Ethiopia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他出生在埃塞俄比亚北部的一个小村里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was thirty-two when he left his home for a port town in Sudan in order to come here."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了来美国，32岁时他就离开家前往苏丹的一座港口小镇。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And while I could have ended there I had no desire to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>依常理，有关我父亲的话说到这个份上就该打住了，但我本人并不这么想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I needed a history more complete than the strangled bits that he had owned and passed on to me - a short, brutal tale of having been trapped as a stowaway on a ship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想对那段往事有一个透彻的了解，而非父亲告诉我的那些难以消化的只言片语——一段简短、惨淡有关我父亲偷渡往美国的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I continued with my father's story, knowing that I could make up the missing details as I went.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我继续讲述父亲的故事，在讲述的过程中，我发现自己居然能够把以往缺失的部分补完，虽然有我自己杜撰的成分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was an engineer before he left Ethiopia, I told my students, but after spending several months in prison for attending a political rally banned by the government he was reduced to nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉我的学生们，在离开埃塞俄比亚之前，父亲是个工程师，但因为参加一个反政府游行，被拘押数月后失去了工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew that if he returned home he would eventually be arrested again, and that this time he wouldn't survive, so he took what little he had left and followed a group of men who told him that they were heading to Sudan, because it was the only way out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他明白如果自己折回家里，最终还是免不了要再次入狱，这次恐怕就很难全身而退了，别无选择，他带上自己微薄的积蓄，和他结识的一帮人一起前往苏丹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For one week he walked west. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他花了一周的时间一路向西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had never been in this part of the country before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前，他从未来过这一带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything was flat, from the land to the horizon, one uninterrupted stream that not even a cloud dared to break. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论是脚下的地面，还是远处的地平线，一切都显得那么平坦，开阔辽远不见浮云遮眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fields were thick with wild green grass and bursts of yellow flowers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原野中绿草与黄花茂盛非常，构成一片纷繁错杂的视界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eventually he found a ride on the back of a pickup truck already crowded with refugees heading toward the border. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一番周折之后，他搭上了一辆满载迁往边境地带的逃难者的小货车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every few hours, they passed a village, each one a cluster of thatch-roofed huts with a dirt road carved down the middle, where children eagerly waved as the refugees passed, as if the simple fact that they were travelling in a truck meant they were off to someplace better.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每隔数小时，他们就会经过一个村庄，这些村子破败不已，一条穿村而过的土路边满是茅草房，每当他们经过时，道旁总会有孩子热切地挥手，这感觉就像这些车上的人能够去一个好些的地方一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he finally arrived at the port town in Sudan, he had already lost a dozen pounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当目的地的海边小镇映入眼帘时，他已经瘦了几十磅了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His slightly bulbous nose stood in stark contrast to the sunken cheeks and wide eyes that seemed to have been buried deep above them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他轻微有些蒜头鼻的鼻子在凹陷的脸颊和深陷的眼窝衬托下显得高挺许多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His clothes fit him poorly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>衣服的尺寸也不合适了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hands looked larger; the bones were more visible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手掌看起来更大；骨骼的纹路清晰可见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought his fingers were growing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些变化让他生出自己的手指长长了这种错觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was the farthest from home he had ever travelled, but he knew that he couldn't stay there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是他离家最远的一次，但他知道他的旅途不能到此为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted to leave the entire continent far behind, for Europe or America, where life was rumored to be better.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想远离整个大洲，去欧洲或者美国这些传闻中生活更优越的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the oldest port in Sudan and one of the oldest cities in the country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这座小镇是苏丹最老的港口，同时也是该国最古老的市镇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At its peak, fifty thousand people had lived there, but now only a fraction of the population was left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里最鼎盛的时候，曾聚居过5万多人，但现在只有一小部分人还留居与此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several wars had been fought nearby, the last one in 1970, between a small group of rebels and the government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这周围曾发生过数起战争，最近的一次是在1970年，冲突双方是一支小型反政府武装和政府部队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were burned-out tanks on the edge of town and dozens of half-destroyed, abandoned houses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>市镇周围有坦克的残骸和数十座残垣断壁的废弃民房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was sand and dust everywhere, and on most days the temperature came close to a hundred degrees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>放眼四望，满眼都是沙石尘土，多数时候，这里的气温高得离谱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The people who lived there were desperately poor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问，当地居民生活极端贫困。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some worked as fishermen but most spent their days by the dock, looking for work unloading crates from the dozens of small freight ships in the harbor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些人以打渔为生，大多数则整日聚集在码头上，望眼欲穿地等着往来于此的数十艘货船停靠码头卸货，以此过活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was told that he could find a job there, and that if he was patient and earned enough money he could even buy his way out of the country on one of the boats.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲被告知他可以在码头上找到工作，有了足够的积蓄，他甚至可以花钱搭上货船离开这个国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bell for the end of first period rang then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事的第一部分在下课铃中草草收场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My students waited a moment before gathering their bags and leaving; they were either compelled or baffled by what I had told them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的学生们迟疑片刻后开始收拾书包、离开教室；他们或对我讲述的内容很刚兴趣，或对此深感不解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tried to see them all in one long glance before they were gone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们全都步出教室之前，我尝试把他们看了个遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had always been just bodies to me, a prescribed number that came and went each day of the semester until they were replaced by others, who would do the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，他们一直都是躯壳，数量稳定的躯壳，每天来了又走，直到他们被下一拨人取代，然后继续这个循环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a few seconds, though, I saw them clearly - the deliberately rumpled hair of the boys and the neat, tidy composure of the girls in opposition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在接下来的几秒钟里，我清清楚楚地把握住了他们的特征——男生杂乱的头发及与之相映成趣的女生的干净整洁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were still in the making, each and every one of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们都还在成长，无一例外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Somehow I had missed that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一点在此前或多或少被我忽略了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of them looked away or averted their gaze from mine, which I took as confirmation that I could continue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接触到我的目光之后，没有人看向别处或者别开脸，这似乎表示我的故事可以继续讲下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I walked home that night I was aware of a growing vortex of e-mails and text messages being passed among my students. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那晚在回家的路上，我已经意识到我的学生们开始通过大量的电子邮件和短信谈论我所讲述的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Millions of invisible bits of data were being transmitted through underground cable wires and satellite networks, and I was their sole subject and object of concern. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海量的信息和数据正通过电缆和卫星网络传输着，而这一切的中心正是我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know why I found so much comfort in that thought, but it nearly lifted me off the ground, and suddenly, everywhere, I felt embraced. As I walked down Riverside Drive, with the Hudson River and the rush of traffic pouring up and down the West Side Highway to my right, the tightly controlled neighborhood borders and divisions hardly mattered.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然不明白为什么这个想法让我暗爽不已，我确实有些飘飘然，也就在这一刻，就在我沿着河畔的公路漫步的这一刻，我觉得周围的一切——静静流淌的哈德逊河（Hudson River），以及在我身右的西侧高速公路（West Side Highway）上川流不息的车流——都给我一种归属感，往昔的隔膜一息之间不复存在了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day at the Academy I told my students at the start of class that they could put their anthologies and worksheets away. "We won't be needing them for now," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，在“科学院”的课堂上，我在上课之初告诉我的学生们他们可以将教材和参考资料放在一边，“我们现在用不着它们，”我说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father's first job at the port was bringing tea to the dockworkers, a job for which he was paid only in tips - a few cents here and there that gradually added up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲在港口找到的第一份工作是为码头的装卸工人送茶水，这份工作带给他的收入只是小费-零零碎碎的小钱慢慢积攒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On an average day, he would serve anywhere between three and five hundred cups of tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他平均每天要往各处送三百到五百杯茶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could carry as many as ten at a time on a large wooden platter that he learned to balance on his forearm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>送茶时，他最多可以一次靠前臂维持平衡，用木制的大托盘送10杯茶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a child he had been clumsy; his father would often yell at him for breaking a glass or for being unable to bring him a cup of coffee without spilling it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幼年时的父亲有些笨拙；他经常打破杯子或者打翻送给我祖父的咖啡，为此他常被祖父训斥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So as soon as he got the job he began practicing at night with a tray full of stones that were as light as the cups of tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以为了做好这份工作，父亲开始每晚用托盘装满和茶杯等重的石子训练平衡感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the stones moved he knew he had failed and would try again, until eventually he probably could have walked several miles without spilling a drop of tea or shifting a single stone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果盘中的任何一颗石子滚动了，那就意味着这一趟他失败了，得重新开始，经过不懈努力，父亲可以托着茶水走好几英里而不撒出一滴来，石子也终于不再乱滚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He hid his earnings in a pocket sewn into the inside of his pants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把挣到的钱藏在缝在内裤里的小袋中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The one friend he had in town, a man by the name of Abrahim, had told him never to let anyone know how much money he had: "If someone sees you have two dollars, he will think you have twenty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在镇上结交的一位朋友，一个名叫亚伯拉罕（Abrahim）的人告诉他说绝对不要让任何人知道你有多少钱：“如果有人看见你有两美元，他就会认为你有二十美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's always better to make people think you have nothing at all."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让别人觉得你一无所有再好不过了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abrahim was the one who found him the job carrying tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚伯拉罕就是帮父亲找到这份送茶水的工作的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He met my father on his third day in town and knew immediately that he was a foreigner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是在父亲到达镇上的第三天与他相遇的，他一眼就看出父亲不是本地人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He went up to him and said, in perfect English, "Hello. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走到父亲面前，用标准的英语说道。“你好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name is Abrahim, like the prophet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我叫亚伯拉罕，和伟大的预言家同名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me help you while you're in this town."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在镇上的这段时间可以找我帮忙。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was several inches shorter and better dressed than most of the other men that my father had seen there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的身材较之当地大多数男人略矮，他的着装则比这里的大多数人要好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His head was bald, with the exception of two graying tufts of hair that arced behind his ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了耳后的两簇泛灰的头发，他的头上“寸草不生”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last two fingers on his right hand looked as if they had been crushed and then tied together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他右手的无名指和小指有些畸形，仿佛被挤压过一般绞在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He bowed slightly when he introduced himself and walked with what might have been a small limp, which in my father's mind made trusting him easier.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在介绍自己的时候微微地躬着身，走起路来有点瘸，这一系列印象让父亲稍稍放松了心防。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first, my father slept outside, near the harbor, where hundreds of other men also camped out, most of them refugees like him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起初，父亲和数百多人一样，幕天席地睡在港口，这些人中绝大多数都是和他一样的难民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abrahim had told him that it was dangerous to sleep alone, but he had also said that if he slept in the town he was certain to be beaten and arrested by the police.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚伯拉罕告诉他说独自一人睡在外面很不安全，不过，如果他到镇上找地方住，肯定会被警察殴打，然后被拘留。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a week out there, he heard footsteps near his head just as he was falling asleep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在露宿一周后的某天，父亲正要睡着时，一阵由远及近的脚步声惊动了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he opened his eyes and looked up he saw three men standing nearby, their backs all slightly turned to him, so that he could see only their long white djellabahs, dirty but not nearly as filthy as some of the others that he had recently seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他睁开眼睛张望时，发现有三个男人站在他近旁，他们几乎都是背向他的，所以他只能看见他们的中东长袍，虽然很脏，但较之他见过的某些人还算不错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he watched, one of the men lifted his hands into the air slowly, as if he were struggling to pass something over his head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲注视着他们的一举一动，其中一人双手缓缓高举向天，看来就像他的头顶有一层屏障一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He recited a prayer that my father had heard several times on his way to Sudan and on multiple occasions in Ethiopia at the homes of Muslim friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他诵念了一段祷文，对此父亲并不陌生，他在去往苏丹的路上和埃塞俄比亚的穆斯林朋友家里听到过好几次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man repeated the prayer a second and then a third time, and when he was finished the two other men bent down and picked up what at first appeared to be a sack of grain but which, he realized a second later, was clearly a body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那人念完第二遍后又念了一遍，祝祷完毕，另两个男人弯腰把那看似一麻袋稻谷的东西抬了起来，细看之下，父亲才发觉那是一具尸体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man had been lying there when my father went to sleep. There had been nothing to indicate that he was dead or even injured. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那人在我父亲去睡觉时就一直躺在那里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When my father told Abrahim the next day, his response was simple: "Don't think about it too much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时没有一点迹象表明他已死去或者受伤了。当第二天父亲把这事告诉亚伯拉罕时，他的反应很平淡：“别多想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's easy to die around here and have no one notice."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里悄然死去太正常了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He promised to find my father a better place to sleep, and he did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这之后，他答应为父亲找个更好的地方过夜，他确实这么做了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later that same day, he found my father preparing his mat near the harbor, and told him to follow him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当天迟些时候，当他发现我父亲正在港口边准备用垫子露宿时，就让他跟着他走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have a surprise for you," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我为你准备了一个惊喜。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The owner of the boarding house where he was going to stay from now on was a business associate of Abrahim's. "We've worked together many times over the years," Abrahim told my father, although he never explained what they did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>容父亲寄宿的公寓的主人是亚伯拉罕的业务伙伴。“我们一起共事多年，”亚伯拉罕姆告诉父亲，虽然他对他们所做的工作只字不提。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When my father asked him how he could repay his kindness, he waved the question away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当父亲问他该如何报答他的热心时，他轻描淡写地排解了父亲的疑问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't worry," Abrahim told him. "You can do something for me later. "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别担心，迟些时候我有用到你的地方。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike most of what I had told my students so far, Abrahim had a real history that I could draw on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和迄今为止我告诉学生们的内容所不同的是，亚伯拉罕比之我父亲的那段过往，显然有迹可循。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

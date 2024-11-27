@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T054028Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surrogate</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被替代的爱</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was twenty, I fell in love with one of the lecturers at my college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十岁那年，我爱上了我的老师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know that this is a very ordinary thing to do. And I know now that lecturers, when they notice yet another smitten girl-child traipsing moonily around after them, simply sigh and feel anxious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实我觉得这没什么，而且我心里清楚得很，当这些老师们意识到又一个被他的魅力所倾倒的姑娘开始神魂颠倒地在他们身边游弋的时候，他们会有些焦灼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They feel anxious and all the other things you would expect, too: flattered and confirmed and a little bit stimulated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们感到焦灼，以及你能够想得到的所有情绪：被奉承、肯定后的得意，以及一点点亢奋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His name was Patrick Hammett, and he taught courses on Shakespeare, seventeenth-century poetry, and critical theory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他叫帕特里克哈密特，教我们莎士比亚戏剧、十七世纪诗歌还有文学批评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took all his classes; I made him my interpreter of the whole world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我申请了他所有的课，在我眼里，他诠释了整个世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Patrick was tall, with rather bowed shoulders; he was hollowly thin except for a small soft beer belly nestled in the stretched cloth of his T-shirt above his belt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帕特很高，显得肩膀有些前弓，近乎塌陷的瘦削使得他软而小的啤酒肚偎依在熨得笔直的T恤里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wore his thick black hair down to his shoulders, tucked behind his ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他留着一头到肩的黑发，挽到耳朵后面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He used gold-rimmed glasses to read but took them off when he was talking, swung them in his fingers, and sometimes dropped them; without the glasses, his eyes were deep-set and squinted slightly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>给我们朗读的时候，他戴一副金边眼镜，说话的时候就取下来，放在手里绕着，有时候不小心会掉到地上。他不戴眼镜的时候眼眶深陷，眼睛微微眯缝着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a crowd, in a club, you wouldn't have picked him out as particularly good-looking. But in the lecture room, sitting with us in the democratic circle of chairs that he insisted upon, his looks were a power, a force that I felt physically, like velvet against my skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在人群中或者在酒吧里，他的长相不算多帅，但是坐在教室里，坐在他坚持为了民主而围成的圆桌中间的时候，他让我感到一种生理上的力量，像是摩擦着我皮肤的天鹅绒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I loved the whitened pressure points that his glasses left on the bridge of his thin crooked nose. I loved the big nervous hands he was always waving in the air, gesturing uncontrollably as he spoke.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我迷恋他被眼镜压得有些扭曲的鼻梁下方发白的凹点，我迷恋他在说话时经常挥动在空中的大而有力的、不受控制的手掌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course I didn't have a chance with him. Who was I? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道我跟他之间是没有希望的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't anybody. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我什么都不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't even one of the cleverest students in his classes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不算是班里学习好的，连中等都算不上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't an absolutely average student, either; I was aware that I had a quirky way of seeing things, which sometimes came out as insight and sometimes just left everyone looking blank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看事物的角度很古怪，有时候别人觉得我挺有趣，有时候根本不明白我在说什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Patrick encouraged me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是帕特里克经常鼓励我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, he reminded the class of something I'd said. "You remember the point that Carla made in last week's seminar?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一次他对我们说，“还记得上次讨论的时候卡拉的观点吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another time, after I'd made some remark about freedom of choice in "Much Ado About Nothing," he said, "That's very well expressed, Carla. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一次，我说了一些喜剧《抱得有情郎》里有关“自由选择”的看法，他说，“你诠释的很妙。卡拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't have put that more eloquently myself." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没法儿说的比你更棒了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This made me very happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听到这些我开心极了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I didn't delude myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，我不会自己骗自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't the kind of student who would get a first-class mark. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是那种能拿高分的学生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I tried to put my thoughts down in writing, the dart of intuition that had been clear and sharp when it flew into my mind got tangled in something muffling and clumsy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当我尝试着把我想到的东西写出来的时候，那些曾经非常清楚明确的直觉就变成一团糊涂浆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Patrick's occasional surprise at my penetration didn't mean that he had singled me out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更何况，我偶尔犀利的见解也并不意味着帕特里克就要对我另眼相看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't really exist for him outside that circle of chairs in the lecture room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出了那间教室，我对他来说根本什么都不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his seventeenth-century-poetry seminar he read us "The Exequy," by Henry King: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天，在他的十七世纪诗歌研讨班上，他为我们朗诵了玄学派诗人亨利金的《葬礼》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can't adequately express the effect this poem had on me then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这首诗对我的影响连我自己都很吃惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't remember now what season of the year it was, but I do remember that the fluorescent lights in the lecture room were on in the middle of the day because the sky was so dark outside, navy-blue clouds pressing close to the earth like an artificial ceiling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不太记得那堂课是在什么时候上的了，但我清楚记得那天中午教室里的荧光灯开着，因为外面的天空很暗，深蓝色的云朵匍匐在地面上，像一面人造天花板。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Little gouts of rain were spitting against the window, and in the gently sloping field outside (the campus was built up around an eighteenth-century house on an estate farmed by the Duchy of Cornwall) the bullocks, instead of lying down as they should have done with rain coming, were jostling uneasily and heaving up against the fence and clambering onto one another's backs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几滴雨从窗户外面溅进来。而外面的坡田上（我们的校园建在一处公爵领地十八世纪城堡附近的牧场上），几头牛并没有像往常暴雨来临前一样躺在地上，而是不安地冲撞篱笆、跃在彼此身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I look at the poem now, I see that it is the lament of a much older man for a young wife snatched away by death, and that it depends upon a confidence in the resurrection of the body on Judgment Day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我再看这首诗的时候，我感受到了一位年纪很大的老人对于年轻妻子被死神夺去生命的哀痛，以及那种坚信最后审判日，妻子会最终复活的信心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know anything about those things. But at the time I felt that the words of the poem were so immediate and relevant that they spoke to me not just through my mind but through my body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实我并不懂这些东西，但是在那个时候，我确实感受到了这些诗句是那么贴近我，它们不仅在对着我的意识说话，而且还对着我的身心倾诉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could hear that Drum; its beating came right up out of the floor of the classroom and shook me through the soles of my feet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我仿佛能听见诗歌中的钟声，它们就在教室的地板上传来，从头到脚震撼了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I made one of those remarks that didn't come out well, and nobody took much notice of it. "He longs for her and she isn't there," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我写了一些并没有表达清楚的评论，“他渴望她但是她不在他身边。”我这么写。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It sounded too obvious to need stating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些评论听上去显而易见，没什么稀奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd wanted to use the word "sexual" (we were trained to see sexual implications everywhere, and surely in this case I would have been right), but I couldn't bring myself to be the first to say it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想用“性意识”来表述（我们现在被训练的能在任何地方看到性隐喻，当然在这首诗歌中用性来诠释无疑是正确的。），但是我也不是第一个这么说的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Patrick wanted us to talk about the metaphor of the beloved object as text ("thou art the book, / The library whereon I look"). For me, the text was Patrick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帕特希望我们能够从文本的角度讨论一下对于所爱之物的隐喻，而对于我来说，这个文本无疑就是帕特里克。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the passion, the concentration of the poem I attributed to him. It became my intimation of the pulse of his life, from which I was shut out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所有的热情，我为了他而对诗歌产生的爱，这首诗变成了他的个人生活给我带来的暗示。我被拒绝在他的生活之外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was only six or seven years older than we were, but his life seemed to be made of different stuff than the lives I was familiar with. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只比我们大个六七岁，但是他的生活对我们来说完全陌生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far as I knew, he wasn't married or living with anyone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他并没有结婚，也没有和人同居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someone said that he'd once had a relationship with a student, although this was against the rules. That didn't make me any more hopeful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人说他曾经和一个学生有过一段，但是这件事没让我产生更多希望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had probably been one of the clever ones. She had probably been beautiful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她很可能非常聪明，非常漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't think I was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而我不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My looks- I was small and blond with eyes that made the kids at school call me Frogface- were like the quirky things I said in class. Good on a good day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很矮，眼睛长得很开，学校里有人给我起了个“青蛙脸”的外号。我整个人就像是我脑子里那些古里古怪的念头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I dreamed about him all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无时无刻不在想着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't mean sleeping dreams, although sometimes he was in those as well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说的不是那种幻想，尽管有时候确实会想入非非。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too many of my waking hours were spent fantasizing scenes in which Patrick and I somehow met outside the classroom and our relationship developed out of distant acquaintance into passionate amour. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我清醒的时刻，我用了太多精力幻想我和帕特里克在学校外面偶遇，我们俩那种熟悉的陌生人的关系终于发展成为热烈的情人关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was very exacting as the author and director of these scenes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使在这些想入非非的念头里，我都是个苛刻的导演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing could happen in them that was absurdly improbable or out of character. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何荒谬的、不符合我们俩性格的事情都不会发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Patrick was never allowed, for example, to tell me that he had always loved me, that he had been fascinated by me from the moment I first walked into the lecture room. The scene could begin with no more than his friendly appreciation of an interested student, a teacherly investment in my intellectual development. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帕特里克在这些幻想中从来不会告诉我，他很早之前就爱上了我，在我迈进教室的那一瞬间就为我神魂颠倒——不会，我的幻想只不过是：他对一个有趣的学生很欣赏，对我进行一种智力上的引导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He might at most be allowed a little stir of vanity at the depth and earnestness of my response to him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那些幻想里，他顶多会因为我而变得虚荣以及真诚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, even given these constraints, the journey from the plausible encounter to the moment when he reached out for me could be travelled in a thousand different ways. (Even in my fantasies I didn't dare reach out for him, in case he turned me down.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使如此，那些白日梦里他约我出去之后发生过的事情也被我演绎成了一千种不同的样子。（我当然不敢约他出去，以防被拒绝。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had to be surprised out of his position of friendly neutrality and into a dawning, uneasy recognition of his growing attraction to me, an attraction that he perhaps couldn't quite rationally account for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，他会突然对自己和我保持朋友关系感到挫败，在一个清晨，他终于意识到对我产生了无法抑制的爱慕，对我怀有一种无法用理性来承担的吸引力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The transformation could be precipitated in various ways; these were the only extravagance I allowed myself. Sometimes we would be accidentally stranded by a breakdown in the middle of nowhere, after he'd innocently offered me a ride home from college. Or we'd be caught by a freak storm when stopping by the cottage of a friend of his to pick up some books. Or he would have to take refuge in my room one night after being beaten up by muggers and left bleeding in the road just as I was on my way home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种感情的转变可以通过几种场合：有时候我幻想搭他的顺风车从学校回家，结果耽搁在某个地方；或者我们回家的路上经过他朋友家，他下车去拿几本书，结果遭遇一场突如其来的暴风雨，我们都回不去了；或者某天晚上他被几个抢劫犯揍了一顿，浑身是血躺在我回家的路上，然后暂时在我家里躲避。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could only really sustain the stories up to this point. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而我的白日梦也只能做到这儿了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After that, his face came closer, he put his arms around me, there was kissing, there was a pressing together, and the narrative failed- it lost its sequence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他的脸靠近我的时候，当他用手臂搂住我的时候，我们应该会接吻，但是这种想象失败了——它失序了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could- and did- imagine plenty of what happened after, but not in any clear way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可以——而且确实——想象我们后来发生了什么，但是永远都是用一种非常模糊的形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It came in a hallucinated muddle that I would try to disentangle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些想象变成了一团无法消散的迷雾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd return again and again to the gate, the threshold, the movement with which he reached across the distance between us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只能倒带，倒带，倒到一开始事情发生的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd start again from there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要重新来一遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was never any good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是每次都失败了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dream beyond that point was a loop of film repeating itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那一点开始，整个幻想变成了无限自我循环的电影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Exhausting, after a while. Dispiriting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一切让我精疲力尽以及沮丧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because in truth it was nothing at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为在现实里一切都不会发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my second year I was so short of money that I got a job working three evenings a week at a pub in town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上大二的时候我有些缺钱，所以在市中心找了一份酒吧侍应生的工作，一个星期干三个晚上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It must have been an old pub once, with lots of twisty little rooms winding around the different levels, but the walls had been knocked down and it was now one huge, cavernous space, low-ceilinged and gloomy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里以前一定是一个很老的酒吧，每一层都被弯弯绕绕的小房间隔开。后来老酒吧的墙壁被敲掉，成了一个巨大的洞穴状的空间，天花板低低的，光线灰暗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were still confusing steps up and down in places, and the floor changed from flagstone to wood to carpet; drunks and women in heels sometimes tripped and spilled their beer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是令人迷惑的一会儿上一会儿下的台阶仍然存在，地板也从花岗岩到木地板再到地毯。喝得醉醺醺的醉汉和穿着高跟鞋的女人会撞在一起，把他们的啤酒洒出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Video games flashing ruby- and emerald-colored lights stood against the walls. The place didn't have much atmosphere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电子游戏机闪着红光，绿色的荧光灯打在墙上，这一切都让这个酒吧显得档次很低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was more fashionable to go to one of the new bars with long pine tables and stainless-steel counters, where food was served; or to one of the quaint old pubs that had kept their little rooms and served real ale. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去那些有着长松木桌子和不锈钢吧台、酒水自助的新酒吧无疑更加时髦，或者去那种有着小房间、供应新鲜散装啤酒的有特色的老酒吧也不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Big parties came to my pub because there was usually room to seat them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我工作的这家酒吧经常承办派对，因为空间大，能容纳很多人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And men came in, to watch football on the TV screens, the kind of men who didn't want roasted vegetables in pitas or real ale.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些不想吃烤蔬菜以及喝啤酒的男人们可以进来看球赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd worked in nicer pubs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来可以去更好些的酒吧工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I lived at home I'd worked in our local, where the old-timers expected you to start pulling their pints the moment they pushed open the door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我住在家里的时候曾经在我们本地的酒吧干过，那些老熟客会很期待你在他们刚推门进来的时候就开始调酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't mind the anonymity of this place. I was often on with temporary staff I didn't know, and that meant I didn't have to talk too much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实我倒不介意这里的陌生感，我经常和不熟悉的员工一起工作，这意味着我不需要说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we weren't busy, I just kept order behind the bar. I made sure that the glasses were clean, the lemons sliced, the drip trays emptied, the bottles in the optics replaced as soon as they ran out, the ice bucket filled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们不忙的时候，我就在吧台后面确认玻璃杯是不是擦干净了，柠檬是不是切好了，除霜水盘是不是已经清空了，吧台上的空啤酒瓶是不是被及时收掉了，以及冰桶里是不是还有冰块。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While I was taking care of all this I forgot that I was a student. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我做这一切的时候，我经常忘记我是个学生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I rarely saw anyone from the college in there, students or staff. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很少在这里看见学校的人，不管是学生还是老师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But one night, when I came back from asking the landlord to change a barrel, I thought for a moment that I saw Patrick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是有天晚上，当我转过身去告诉老板要换啤酒桶的时候，我觉得某一瞬间我似乎看到了帕特里克。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A man with the same long narrow build and thick shoulder-length hair was standing with his back to the bar, a pint of lager in one hand, looking up at the TV screen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个有着瘦长身材、齐肩黑发的男人拿着一品脱啤酒坐在吧台后面，盯着电视屏幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although this was exactly the sort of plausible scenario I was always dreaming up to bring us together, in reality I didn't want it to be him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管这是我曾经幻想过无数次我们相遇的场景中的一种，但是在现实中我并不希望发生这种事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I panicked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感到一阵恐慌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't think I could cope with my two roles at once- competent barmaid and besotted student- and I had no idea how to respond when he turned around and recognized me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不认为我能同时演绎两种角色——能干的酒吧女侍和呆笨的学生——而且如果他转过身来认出我的话，我真不知道该说什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the bloke, when he turned around, wasn't Patrick, though he did look rather like him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这个家伙，当他转过来的时候，我才发现不是帕特里克。尽管他长得非常像他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather like him but quite different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很像但是也很不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had the same crooked nose- more exaggerated, even- and the same close-set eyes that were revealed when Patrick took his glasses off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有同样弯曲的鼻子——可能更夸张——以及和帕特里克摘下眼镜之后长得一样的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he didn't wear glasses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他不戴眼镜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't have any of Patrick's concentrated excitement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他身上没有帕特里克对于事物的关注力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he asked for a pint of Stella, his accent was ordinary, not like Patrick's educated one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他叫一品脱斯特拉的时候，声音听上去平淡无奇，没有帕特里克的修养。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I smiled at him and made some comment about the football match, he blushed, and I guessed that he was shy, and maybe not very clever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我向他微笑，并且跟他聊了聊足球赛的时候，他脸红了。我觉得他很害羞，并且不是很聪明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He probably would have liked to keep the conversation going, but he couldn't think of what to say to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很希望可以将对话继续下去，但是不知道该对我说什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I got a certain pleasure out of the situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在这种张力中获得了某种愉悦感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could play at talking to Patrick, without its really mattering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可以装作是在跟帕特里克说话，而且不需要有任何在意的地方。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

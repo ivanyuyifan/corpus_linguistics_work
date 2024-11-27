@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>I.BASIC CONCEPTS OF CHINESE LAW</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一章 中国法的基本概念</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1.Scope and Significance of Chinese Law</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一节 中国法的范围和意义</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Western scholars on China, with only a few distinguished exceptions, have until recently shown but little interest in the study of Chinese law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>直到最近，绝大多数研究中国的西方学者都没有对中国法律产生大的兴趣。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Today, especially in the United States, the situation is changing, but the stimulus obviously comes much more forcibly from the China of Mao Tse-tung than from the law of pre-Republican (pre-1912) China, which, especially in its formal codified aspects, is the subject of this book. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今天，这种状况正在改变，在美国尤其如此，然而，促成这种转变的并不是共和政体确立之前（1912年以前）的法律本身，而是人们对于毛泽东时代的中国的注意。本书所要研究的正是确立共和政体之前的中国法律，尤其注重于正式法典的编纂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Good reasons can of course be found to explain the traditional indifference.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于这一点，我们可以找到很多理由。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They include the lack of legal training or interest among all but a handful of earlier Western sinologists, the formidable difficulties in style and vocabulary of the Chinese legal literature, and the fact that Chinese scholars themselves usually regarded this literature as utilitarian only and hence as little worthy of study on esthetic or inspirational grounds.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，在西方汉学家中，除了早期的少数人以外，绝大多数缺少法律方面的训练，或者对法律不感兴趣；阅读中文法律文献时，在语体和词汇上遇到巨大的困难；中国的学者们通常认为法律典籍仅具有实用价值，而不值得对其进行理论研究，这一观点也对西方学者产生重要影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Behind this last point, however, lie other more basic considerations: the fact that the written law of pre-modern China was overwhelmingly penal in emphasis, that it was limited in scope to being primarily a legal codification of the ethical norms long dominant in Chinese society, and that it was nevertheless rarely invoked to uphold these norms except when other less punitive measures had failed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而在上述最后一条理由之后，还有另一些更加基本的考虑：中国古代的成文法完全以刑法为重点；法典的编築主要限于对社会长期流行的道德规范的整理、编辑；只有在其他行力规范不能约束人们的行为时，方才诉诸法律，否则法律条文很少被引用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chinese traditional society, in short, was by no means a legally oriented society despite the fact that it produced a large and intellectually impressive body of codified law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>总而言之，中国古代虽然制定了很多、而且具有较髙水平的法典，但传统的中国社会却不是一个甶法律来调整的社会。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The penal emphasis of this law, for example, meant that matters of a civil nature were either ignored by it entirely (for example, contracts) or were given only limited treatment within its penal format (for example, property rights, inheritance, marriage). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>中国法律的注重于刑法，表现在比如对于民事行为的处理要么不作任何规定（例如契约行为），要么以刑法加以调整（例如对于财产权、继承、婚姻）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The law was only secondarily interested in defending the rights—especially the economic rights—of one individual or group against another individual or group and not at all in defending such rights against the state.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>保护个人或团体的利益——尤其是经济方面的利益——免受其他个人或团体的损害，并不是法律的主要任务；而对于受到国家损害的个人或团体的利益，法律则根本不予保护。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What really concerned the law—though this is to be surmised rather than explicitly read in the Chinese legal literature—were all acts of moral or ritual impropriety or of criminal violence which seemed in Chinese eyes to be violations or disruptions of the total social order.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>真正与法律有关系的，只是那些道德上或典礼仪式中的不当行为，或者，是那些在中国人看来对整个社会秩序具有破坏作用的犯罪行为。当然，我们说只有这些行为方才与法律发生关系，主要依据并不是法典中的明确记载，而是由这些记载所作的推断。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The existence of the norms of propriety was intended to deter the commission of such acts but once they occurred, the restoration of social harmony required that punishment be inflicted to exact retribution from their doer.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制定行为规范的目的在于防止上述行为的发生。但如果发生了上述行为，为了恢复社会的和谐，就必须对行为者施以严厉的刑罚。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the final analysis, a disturbance of the social order really meant in Chinese thinking a violation of the total cosmic order because according to the Chinese world-view the spheres of man and nature were inextricably interwoven to form an unbroken continuum.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>归根到底，对社会秩序的破坏，在中国人的心目中实即损害整个宇宙秩序，因为根据中国古代的世界观，人与自然紧密相联，构成一个密不可分的整体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For these reasons, he official law always operated in a vertical direction from the state upon the individual, rather than on a horizontal plane directly between two individuals.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，正式的法律总是以垂直方式发生作用——由国家指向个人，而不是以水平方式在个体之间发生作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If a dispute involved two individuals, individual A did not bring a suit directly against individual B. Rather he lodged his complaint with the authorities, who then decided whether or not to prosecute individual B. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果甲乙两人之间发生纠纷，甲不得直接向乙提起诉讼，而必须向政府提出控诉，由政府决定是否向乙提起诉讼。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No private legal profession existed to help individuals plead their cases, and even in the government itself because law was only the last of several corrective agencies, officials exclusively concerned with the law operated only on the higher administrative levels.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>民间没有在诉讼中为当事人进行辩护的私人法律职业者，政府也不设这种辩护人。法律是专司矫正人们行为的机构中的最后一项手段——只有在较髙的行政机构中才设有专司法律的官员。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the lowest level that of the hsien (district or county), which was the level where governmental law impinged most directly upon the people, its administration was conducted by the hsien magistrate as merely one of his several administrative functions.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在最低一级的行政区域县里，政府的法律与民众发生最直接的联系。县长的司法职能只是其若干行政职能中的一种。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although he usually lacked any formal legal training, he was obliged to act as detective, prosecutor, judge, and jury rolled into one.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然他们通常没有受过专门的法律训练，但却必须同时兼任侦探、检察官、法官、陪审员等数种职务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fortunately for the operation of the system, however, the magistrate was commonly assisted in his judicial work by a legal secretary who did possess specialized knowledge of the law, and who, on behalf of the magistrate, could prepare cases for trial, suggest appropriate sentences, or write the legal reports which went to higher governmental levels.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>值得庆幸的是，在这种制度下，县官们在其司法括动中常常得到通晓法律的幕僚、书吏的帮助。这些幕僚、书吏具有法律方面的专门知识，他们代奉县官为审判案件作准备工作，对案件的处理提出建议，并帮助县官起草提交上级机构的法律报告。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet it is indicative of the Chinese attitude toward law that this secretary did not himself belong to the formal administrative system. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>幕僚的身份可以表明中国人对待法律的态度：幕僚并不隶属于正式时行政系统；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was merely a personal employee of the magistrate who paid his salary out of his own private purse.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们只是县官的私人雇员，其薪给由县官从本人的收入中支付。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hence the secretary was not permitted to try cases himself or otherwise to take an active part in the trials.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，幕僚自己不能够审判案件或是积极地参与审判。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, to avoid miscarriages of justice on this lowest administrative level, a very carefully defined system of appeals existed which automatically took all but minor cases to higher levels for final judgment—in the case of capital crimes as far upward as the emperor himself.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，为了防止县官们对案件的误判，当局建立了一个非常严格的上诉制度。除了轻微案件，所有其他案件都必须依程序由上级机关作出终审——死刑案件必须报经皇帝本人批准。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How law in imperial China became the embodiment of the ethical norms of Confucianism will be discussed later.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>中华帝国的法律如何变成儒家伦理规范的具体化，这一问题我们将在后面讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here it should be stressed that in China, perhaps even more than in most other civilizations, the ordinary man’s awareness and acceptance of such norms was shaped far more by the pervasive influence of custom and the usages of propriety than by any formally enacted system of law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里应当指出，在中国普通人对这类伦理规范的认识及接受主要不是通过正式制定的法律制度，而是通过习惯和礼仪的普遍作用来完成的，这种情形比在大多数其他文明国家里要更突出一些。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The clan into which he was born, the guild of which he might become a member, the group of gentry elders holding informal sway in his rural community—these and other extra-legal bodies helped to smooth the inevitable frictions in Chinese society by inculcating moral precepts upon their members, mediating disputes, or, if need arose, imposing disciplinary sanctions and penalties.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>宗族、行会以及由年长绅士掌握非正式管理权的乡村共同体等等——这些和其他法律之外的团体通过对其成员们反复灌输道德信条、调解纠纷，或在必要时施行强制性惩罚，来化解中国社会中不可避免的各神矛盾。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The workings of such unofficial agencies were complemented by procedures on the part of the government, procedures which, despite their official inspiration, functioned quite separately from the formal legal system.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这类非官方団体的活动为政府所确立的程序所补充。但不管官方初衷如何，这些程序的实际作用方式却在相当程度上独立于正式的法律制度之外。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These extra-legal organs and procedures, then were what the Chinese everyman normally looked to for guidance and sanction, rather than to the formal judicial system per se. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>古代中国人为了寻求指导和认可，通常是求助于这种法律之外的团体和程序，而不是求诸正式的司法制度本身。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Involvement in the formal system was popularly regarded as a road to disaster and therefore to be avoided at all cost.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们普遍认为，纠缠于官司只会带来灾难，因此人们想方设法避免诉讼入官。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“Win your lawsuit and lose your money ” runs a Chinese proverb. Or again: “Of ten reasons by which a magistrate may decide a case nine are unknown to the public.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有一句这样的格言：“贏了官司，输了钱”，还有这样一句格言，县官断案，擅审擅判。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One might conclude that the real reason for the Western neglect of Chinese formal law is that this law is not inherently deserving of much attention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们可能由此得出结论说，西方学者之所以漠视中国的正式法律，真正的原因在于，这些法律本身不值得人们注意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such a conclusion however would be unfortunate on several counts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，得出这一结论尚为时过早。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the first place, law is an important touchstone for measuring any civilization, and its differing role in China as compared with its role in the West points to basic societal differences between the two civilizations which deserve detailed analysis.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，法律是衡量一个国家文明程度的重要标准，而中国法律与西方法律的作用截然不同，表明了两类文明之间基本的社会差别，这一点值得我们详细研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the second place the various extra-legal bodies for social control mentioned above, despite their obvious importance and the generalized remarks about them to be found in many writings, are very difficult to study with precision because of their scattered and informal mode of operation and the fact that what they did and said was often either not written down at all or, if written, not readily available in published form.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其次，对于上述各种旨在进行社会控制的法外团体来说，尽管我们可以从许多书籍中了解到它们的重要性以及一般恃征，但要对其进行深入研究却非常困难。因为这些团体的活动方式既不正规，也不划一，而这些团体的所作所为，要么根本没有任何文字记载；要么虽然有记载，但却是使用一种不易为社会普遍接受的文字方式，因而无法公开出版。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The literature on formal Chinese law by contrast is large in quantity, fairly readily available, and covers a longer time span than that of any other present-day political entity.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相反，有关正式的中国法律的文献不仅数量多，容易理解，而且其适用的时间，比所有现代国家法律的历史都更长久。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It includes the legal sections in various encyclopedic compilations of governmental institutions, the chapters on legal development in many of the dynastic histories, several large compendia of actual law cases, and above all the voluminous law codes of successive dynasties.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些正式的法律文献包括：各种政书中有关法律的部分，各代历史中论述法律发展的篇章，几部大型的判例概览，而首先是历代那些卷帙浩繁的法典。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The codes, in particular, have a continuity and authoritativeness which make them unrivaled instruments for measuring precisely, dynasty by dynasty, the shifting configurations of Chinese social and political values as officially defined.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>特别是，这些法律具有连续性和权威性，因而在衡量官方厘定的中国社会和政治价值的演变方面，历来是最有说服力的资料。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So far this challenging task has hardly been attempted.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而迄今为止，这项艰巨的工作几乎无人尝试过。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most recent of the dynastic codes is that of the Ch’ing or Manchu dynasty (1644-1911).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>距今天最近的一部古代法典是清朝（1644—1911年）的法典。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was compiled in definitive form in 1740 and consists of 436 sections that contain a greater number of statutes and approximately 1,800 sub-statutes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该法典于1740年最后编纂定型，它由项法律构成，包括大量的律以及大约1800条的例。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For previous dynasties there also exists a sequence of earlier codes going back to the T’ang Code of 653, in 501 articles. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>追溯前朝，自公元653年共有501条条文的《唐律》制定颁布后，各朝多有自己的法典。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Before this date, no codes survive save for scattered quotations in other works. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而在唐代之前，除散见于其他文献的一些法律引文之外，并没有法典传世。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, a study still in progress has already yielded a wealth of information on the code and judicial procedure of the first lengthy imperial dynasty, that of Han (206 B.C-.A.D. 220).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，现在仍在深入的研究已经产生了丰硕的成果，使我们可以了解中国历史上第一个历时久长的王朝，即汉代（公元前206年一公元220年）的法典和司法程序的情形。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Prior to the Han and its short-lived predecessor, the Chin dynasty (221-207 B C. ) no centralized empire yet existed in China. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在汉代和它前一个短命的朝代——秦代（公元前221—前207年）之前，中国尚未形成中央集权性的帝国。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At that time there were only a number of independent and mutually warring principalities. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当时，只有一些各自独立并且处于交战状态的诸侯国。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This pre-imperial age, often called the age of Chinese feudalism because of its institutional similarities to medieval Europe, is also the age that saw the formative beginnings of Chinese written law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>帝国建立前的这段时间常被称作中国的封建时期，因为这一阶段的制度与中世纪欧洲的制度相似。这个时期也是中国成文法开始形成的时期。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Excluding unreliable myth and legend, the earliest datable evidence of such written law is the promulgation in 536 B.C. of certain “books of punishment” in one of these principalities (see section 4).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除了不可信的神话和传说之外，可确定时间的最早的成文法是公元前536年一个诸侯国颁布的《刑书》（见第四节）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>2. Law, Religion, and Economics</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二节法律、宗教和经济</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A striking feature of the early written law of several major civilizations of antiquity has been its close association with religion. Not all of these civilizations, to be sure, actually produced systems of written law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在几个主要的文明古国里，其早期成文法都具有一个显著特点，即法律的发展与宗教有紧密联系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When they did so however, they commonly signalized this achievement by attributing, at least initially, a divine origin to the law they used—an origin signifying that such law had been given or revealed to mankind by a god or gods.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，并不是所有这些文明古国都建立了成文法制度，但只要人们制定成文法，他们通常把神圣的渊源赋予法律（至少开始时是这样），以此来突出这项成就。这种神圣的渊源表明，这些法律是由一个神或是诸神给予或展示给人类的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This belief so obviously underlies Judaic and Islamic law that for them it requires no further elaboration. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种信仰明白无误地构成犹太法和伊斯兰法的理论基础，以至它们不再要求进一步的阐发推演。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is equally apparent, however in the world’s earliest written law as known to us from Mesopotamia. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在已知世界上最早产生成文法的美索不达米亚，这种情形也同样明显。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the stele bearing the famed laws of Hammurabi (ca. 1728-1686 B.C.), for example, a sculptured relief shows Hammurabi receiving from Shamash, god of justice, a divine commission for his writing of the laws.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>举例来说，在载有汉谟拉比（约公元前1728—前1686年）的著名法律的石柱上，浮雕图案表明：汉谟拉比接受正义之神沙马什的神圣使命，制定这些法律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And in the prologue to the laws themselves Hammurabi tells us: “Anum [the sky-god] and Enlil [the storm-god] named me to promote the welfare of the people, me, Hammurabi, the devout, god-fearing prince, to cause justice to prevail in the land, to destroy the wicked and the evil that the strong might not oppress the weak.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在该法典的“序言”中，汉谟拉比说：“安努（天神）与恩利尔（风暴之神）命令我为人类造福。我，汉漠拉比，虔诚敬神的君王，发扬正义于世，灭除不法邪恶之人，使强不凌弱。” </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Egypt, on the other hand no written law has as yet been found, apparently because the pharaoh as a living god on earth, needed no law other than his own spoken utterance: “He, as a god, was the state . . . </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，在埃及，至今尚未发现古代的成文法。很显然，这是因为埃及法老们自认为就是生活在人间的神，他们的言语就是法，因而不再需要其他形式的法律。“ 作为神，他就是国家......</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The customary law of the land was conceived to be the word of the pharaoh . . . </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>普遍遵行的习惯法被认为就是法老的训令。......</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The authority of codified law would have competed with the personal authority of the pharaoh.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律一经编纂，它的权威就会形成对法老今人权威的对抗。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And in India, too, no real equivalent of our idea of law existed in early times.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在早期印度，也没有形成真正与我们的法律观念相应的概念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The nearest approach was the concept of dharma, a word translatable as “law,” but more properly signifying “religious law,” and hence ipso facto having a divine connotation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>和我们的法律观念最接近的是“达摩”（Cdharma）的概念，它也被译作“法律”，但更准确地说，它是表示“宗敎法”，因此也有一种神圣的含义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Only later did the idea of a purely secular law appear in Kautilya's Arthasastra (ca. 323 B.C.), but this development was short-lived and failed to survive the political disruption following the death of King Asoka.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只是在晚些时愤出现的乔底利耶（Kautilya）的《政事论》（约公元前323年）中，才形成一些纯粹的世俗法思想。但是这部书流传时间不长，孔雀王朝阿育王死后的政治混乱，使这部书失传。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since that time, therefore, we are told that the “religious basis of law predominates through the rest of Indian history until modern times.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有人总结说：从那时起，在印度历史上一直占主导地位的法律，就是这种以宗教教义为基础的法律，直至近代”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Turning from Asia to Europe, we find Plato, in the famous opening passage of the Lawsy making one of his protagonists unhesitatingly attribute the origin of law “to a god.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我们把视线从亚洲转向欧洲，我们发现，柏拉图在其《法律篇》开头的著名段落里，毫不犹豫地把法律的起源归到了上帝身上，在罗马也同样。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Rome, similarly, despite its early secularization of law, we find Cicero purporting to quote “the opinion of the wisest men of his day” to the effect that “Law is not the product of human thought, nor is it any enactment of peoples, but something which rules the whole universe . . . Law is the primal and ultimate mind of God.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然罗马法律早已经世俗化，但我们发现，西塞罗（Cicero）通过引证“他那个时代的智者的意见”，强调：“法律不是人类思想的产物，也不是由人类制定、颁布的；法律支配宇宙万物，......它是上帝的旨意。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> Even in eighteenth-century England, indeed, after centuries of experience with a secularly based common law, we find a similar conception persisting in legal theory.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>甚至在18世纪的英国，在有着世俗基础的普通法流行了几百年之后，我们也还在它的法律理论里看到有与上述观念相似的概念存在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus we are told concerning Sir William Blackstone, author of the famous CommenfaHes (1765) that he “regarded divine law as the corner-stone of the whole [legal] edifice, ” “declared that divine law had been specifically revealed to men through inspired writings,” and “sought to make secular law approximate to the dictates of God and of nature.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>著名的《英国法释义》（1765年出版）的作者威廉·布莱克斯通（William Blackstone）认为“神法是整个（法律）大厦的基石”，“宣称神法主要由天启书宣示于人类”；他还表示要“努力促使世俗的法律尽可能地接近于上帝和自然所昭示于人类者”。</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,102 @@
+Long biography of Steve Jobs (Success and failures)
+The personal computing revolution
+In many ways, the Apple II was both the start and the symbol of the personal computer revolution of the early 1980s. 
+Although there were many competing personal computers on the market - such as the Commodore PET or Radio Shack's TRS-80 - the Apple II clearly set itself apart very early on, and soon embodied the personal computer in the public consciousness. 
+It was all over the media, and its sales skyrocketed throughout 1978, 1979 and 1980.
+It was not only about the Apple II's appealing design, its integrated keyboard, or its ability to plug into any TV to display color graphics or play sounds. 
+Its built-in BASIC interpreter was also critical to its success, as it made the writing of compatible software very easy. 
+Woz used it himself to write the first program to ever run on the machine, a game called Breakout. 
+The eight expansion slots in Apple II made a difference, too. 
+Woz decided to implement them against Steve Jobs' will, and this proved a wise move, as they allowed for all kinds of new features and software to be added to the machine. 
+One of those features was Disk II, a floppy disk drive Apple started shipping in early 1978. 
+It made the sharing and installing of new software very easy - soon the supply of Apple II software was thriving.
+But probably the most important push toward the Apple II's success was not from Apple. 
+It was a piece of software called VisiCalc - the first spreadsheet ever brought to market. 
+VisiCalc worked only on the Apple II, and it was a revolution in itself. 
+Millions of accountants, small businesses, or even private individuals that cared about their money, could now do in minutes calculations that would have taken them weeks to perform by hand. 
+They rushed out to computer stores and bought Apple IIs en masse, making Apple one of the most profitable companies of its day. 
+Only four years after it was started in a garage, the company was well on its way to fulfill Mike Markkula's vision of belonging to the Fortune 500 elite of corporate America.
+Preparing for the future
+Apple Computer was growing at an incredibly fast rate. The numbers were mind-blowing: from 2,500 Apple IIs sold in 1977, 8,000 were sold in 1978, and up to 35,000 in 1979. 
+Remember there was no market for personal computers before! The company earned $47 million in revenues in fiscal year 1979, making Steve Jobs a millionaire on paper (he owned $7 million worth of private stock). 
+The company's board of directors, including its new members such as Arthur Rock and Don Valentine, began to discuss taking Apple public.
+Meanwhile, the engineers in Cupertino started working on Apple's future. 
+Several projects came into being in those early years. 
+First, in late 1978, there was the Apple III, which was supposed to build on Apple II's legacy. 
+Woz did not partake in the project and was critical of it early on. 
+There was also an obscure project called Macintosh, headed by computer scientist Jef Raskin. He started to assemble a small team to work on a computer "as easy to use as a toaster", that he named after his favorite apple.
+Steve Jobs was not involved in any of those projects. He had another one in mind, called Lisa. 
+And he hadn't picked that name without a reason... 
+Indeed, in 1978, while he was dating an employee of McKenna's PR agency, Steve's ex-girlfriend from high school Chris-Ann Brennan reappeared claiming she was bearing his baby. 
+Steve denied the fatherhood, although everybody in his entourage knew he was the father. 
+The baby girl was named Lisa... there was a lot of perplexity around Steve's behavior, especially since he had suffered greatly from having been abandoned himself. 
+He was going to do the same to his own daughter! Yet, at the very same time, he used the girl's name for a project code name.
+Project Lisa took a dramatic turn in late 1979, after Steve's visit to Xerox PARC.
+What is Xerox PARC?
+The Xerox Palo Alto Research Center, often dubbed Xerox PARC, was started in the early 1970s by the Xerox corporation. 
+Based on the East Coast, the manufacturer of copy machines felt that its core business was threatened by the emerging computer revolution, with its promise of a paperless office. 
+In a very smart move, they set up a research center in Stanford Research Park, and hired talented computer scientists, many from the leading university, to invent the office of tomorrow.
+In 1979, when Steve Jobs toured PARC, the researchers had already pioneered several technologies that would revolutionize computing forever. 
+They had a network of computer working together using Ethernet. 
+They had developed object-oriented programming, a new way to write software much more effectively. 
+They were working on the laser printer. 
+But most of all, they had built the world's first computer to use a graphical user interface (GUI), the Alto. 
+The Xerox Alto had a strange device called a mouse, that you could use to move a cursor around the screen. 
+You could open files and folders, copy and paste content inside them. 
+It was simply a breakthrough.
+The Xerox PARC did not keep its technology hidden from outsiders. Informed circles knew about the center's advances, especially at Stanford and in the Valley as a whole. 
+Everybody pretty much sensed that this technology would have a huge impact on the industry - everybody but Xerox themselves. 
+The conservative management on the East Coast never grasped the extent of what their researchers in California had come up with. 
+They simply dismissed it as futile.
+The Lisa team was briefed about Xerox PARC's technologies by insiders, including Jef Raskin, the manager of the Macintosh project. 
+Steve negotiated a deal with Xerox to be given a complete tour of the facilities. 
+Here's how he described his experience later: Within ten minutes, it was obvious to me that all computers would work like this someday.
+Steve Jobs in Triumph of the Nerds
+Several researchers and engineers were lured away from PARC by Apple, such as Larry Tesler and Bruce Horn, to develop a GUI for Lisa. 
+The biggest challenge was to design an actual product, not a fancy prototype too expensive to build. 
+After all, one of the reasons Xerox dismissed the Alto was its astronomical price tag: $20,000! 
+That was twenty times as much as the Apple II.
+The biggest IPO since Ford
+In 1980, Apple Computer was preparing to go public. 
+This move had several major implications for Steve Jobs, both professionally and personally.
+First, the board was concerned about the potential bad publicity around Steve's handling of his daughter Lisa. 
+They insisted that he settled the case with Chris-Ann before the end of the year, as the IPO was scheduled for December 1980. 
+Reluctantly, he agreed to reimburse the country's welfare the money they had spent on the mother of his daughter, i.e. $20,000.
+There was also a large re-organization at the top of the company. 
+The Apple III, which came out in the spring of 1980, had turned out a disaster on the marketplace. 
+It was flawed and thousands of early models had to be returned to the company, whose only revenues still came from sales of Apple II. 
+The next project, Lisa, became even more critical to the company's future. 
+As a result, Apple Computer was re-organized into three new departments: Accessories, Professional Office Systems (which included Lisa), and Personal Computer Systems (Apple II and Apple III). 
+Steve expected to head the POS division, but the board chose the milder and more experienced John Couch. Steve was named chairman of the board instead.
+This choice was mostly a public relations scheme in anticipation of the IPO. 
+The company started advertising in the mass media, notably the Wall Street Journal, spreading the legend of the technical genius Steve Wozniak, and his friend marketing genius and visionary Steve Jobs starting a revolution from their garage. 
+There were full-page advertisements with pictures of Steve Jobs and the Apple II, in which he was quoted as saying that the personal computer was a new kind of bicycle - a bicycle for the mind.
+Steve's personality was transformed during that period. He was increasingly recognized as a national icon, a symbol for the country's new entrepreneurial wave. 
+He was starting to realize his dream of changing the world. 
+His hippie days seemed long gone: he gave up the beard and the mustache, stopped going to the Los Altos Zen Center, and occasionally wore suits.
+Finally, on December 12 1980, Apple went public. Even though the country was in the middle of a recession, the operation was a huge success beyond anyone's expectations. 
+It was the biggest public offering in American history since the Ford Motor Company in 1956! 
+After the IPO, Steve Jobs was worth $217.5 million, $210 million more than the day before.
+The bozo explosion
+However, Steve was still the same inside. 
+He was a tough manager, and a lot of engineers refused to work with him. 
+Apple's executives were well aware of the problem, and it's one of the reasons they named John Couch to run the Lisa project, not Steve.
+In particular, Steve had very tense relations with Apple's CEO Mike Scott. Remember Scott was hired by Mike Markkula in 1977 to run the company. 
+But as you will soon see, Scott was perhaps as temperamental as Jobs, if not more.
+Steve Jobs and Jef Raskin in 1979
+Indeed, there was a shared concern in Cupertino about the quality of the company's recent hires. The organization had been growing so fast that many people in its workforce obviously did not qualify for their jobs. 
+In a very Steve Jobs fashion, the phenomenon was commonly referred to as "the bozo explosion." 
+Mike Scott, nicknamed Scotty, decided it was time to take action. 
+On February 25 1981, a day that would go down in Apple's history as "Black Wednesday", he fired half of the Apple II team, without even consulting the board - this was not a way to manage a publicly traded company! 
+The board gathered and decided it was time for Apple to get rid of Scotty. 
+Mike Markkula took his job while the company started looking for a new CEO.
+The departure of Scotty, one of Steve Jobs' strongest opponents, gave him more freedom at Apple. 
+It wasn't long after that that the young chairman of the board took over the smallest project in the POS division, Jef Raskin's Macintosh. Remember Jef was an older Apple engineer, a very bright, soft-spoken character, who never had much sympathy for Jobs. 
+He had even written a note to Mike Scott to explain why he could not possibly work with Steve (read it in Steve at work). 
+But the board was willing to sacrifice him to have Steve Jobs let the Lisa project in peace - so they let him go, and installed Steve as new head of the Mac team.
+The reasons Lisa was such a strategic product for Apple came from the new face of the PC market. 
+Indeed, in August 1981, the whole industry was shaken by the introduction of the IBM PC. 
+Big Blue was the leader in computing, and had been for several decades - but its only products were mainframes. 
+As they watched the growing success of Apple Computer and the new market, IBM decided it was time to get personal. 
+The IBM PC was inferior to the Apple II in many ways, but the fact it was from IBM was critical in itself. 
+It made it OK for corporate America to start using PCs: after all, every information systems manager knew "you couldn't be fired for buying an IBM." Apple's position as the market leader was clearly threatened - and its only viable product was still the four year-old Apple II. 

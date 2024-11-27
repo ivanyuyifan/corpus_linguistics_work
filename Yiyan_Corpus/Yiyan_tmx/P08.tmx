@@ -1,0 +1,1647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T042319Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Dinner Party</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚宴</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On occasion, the two women went to lunch and she came home offended by some pettiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有几次，那两个女人一起出去吃午饭，中间会闹出些小别扭，等她回到家里还在生气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he would say, "Why do this to yourself?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时他就会说，“你何苦自找呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted to keep her from being hurt. He also wanted his wife and her friend to drift apart so that he never had to sit through another dinner party with the friend and her husband. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不想让她觉得难过，所以一直在说服妻子疏远她那位闺中密友。这样他以后就再也不用干坐着，忍受有那位闺友和她先生在场的晚宴了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But after a few months the rift would inevitably heal and the friendship return to good standing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是过上几个月，龃龉总会消除，她俩又会成为好朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He couldn't blame her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他倒也不怪她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They went back a long way and you get only so many old friends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们很久很久以前就是朋友了，一个人能有几个老朋友呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He leaped four hours ahead of himself. He ruminated on the evening in future retrospect and recalled every gesture, every word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在心里把时间往前拨了四个小时，琢磨着到那时，自己会如何回顾这一晚上的每个手势和每句话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He walked back to the kitchen and stood with a new drink in front of the fridge, out of the way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走回到厨房里，尽量不碍她事地站在冰箱前，重新倒了一杯酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I can't do it," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我干不来，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Can't do what?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“干不来什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The balls were up in the air: water slowly coming to a boil on the stove, meat seasoned on a plate sitting on the butcher block. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都已经箭在弦上了：水在炉子上正慢慢烧开，肉在案板上的盘子里腌着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stood beside the sink dicing an onion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她站在水槽边切着洋葱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other vegetables waited their turn on the counter, bright and doomed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有些色泽鲜艳的蔬菜，可怜巴巴地在台子上等待轮到它们自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stopped cutting long enough to lift her arm to her eyes in a tragic pose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她停下刀等了一会，好像有些悲伤似地抬起胳膊蹭了蹭眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she resumed, more tearfully. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，又开始切洋葱，但眼里的泪水更多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wasn't drinking much of her wine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没怎么动她的酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I can predict everything that will happen from the moment they arrive to the little kiss on the cheek goodbye and I just can't goddam do it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我可以想象出来今晚将要发生的一切，从他们到这儿的那一刻起，到他们离开的时候跟他们亲脸告别。可我就是干不来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You could stick your tongue down her throat instead of the kiss goodbye," she offered casually as she continued to dice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要不你就别亲脸了，直接把舌头伸进她的喉咙里算了。”她一边切着，一边随意出着主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was game, his wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他妻子什么话都敢说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She spoke to him in bad taste freely and he considered it one of her best qualities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她经常随心所欲地对他胡说八道，可他觉得这是她最好的品质之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But then that would surprise her, I guess, not you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“只不过，虽然你不在乎，可是我觉得那会把她吓着。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They come in," he said, "we take their coats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“等他们走进来，我们就会上去接过他们的大衣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone talks in a big hurry as if we didn't have four long hours ahead of us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后每个人都上赶着张嘴说话，就好像我们接下来不是要在一起熬上四个小时似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We self-medicate with alcohol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来我们用酒精自我麻醉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A lot of things are discussed, different issues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后开始聊起很多事情，各种各样的话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone laughs a lot, but later no one can say what exactly was so witty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都要笑上很多次，但过后谁也说不出究竟有什么风趣的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compliments on the food. A couple of monologues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都夸赞菜好吃，再来上一两段长篇大论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then they start to yawn, we start to yawn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，他们开始打哈欠，我们也开始打哈欠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They say, 'We should think about leaving, huh?,' and we politely look away, like they've just decided to take a crap on the dinner table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会说：'我们差不多该回去了，是吧？'，我们会很客气地向别处看看，就像他们刚刚决定要在餐桌上拉泡屎似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone stands, one of us gets their coats, peppy goodbyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都站起身来，我们俩有一个去给他们取出大衣，热情地告别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all say what a lovely evening, do it again soon, blah-blah-blah. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都说，今晚过得太高兴了，简直等不及要再来一次，如此这般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then they leave and we talk about them and they hit the streets and talk about us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他们一走，我们就开始议论他俩。等他们到了街上，也会开始议论我们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She slid her finger along the blade to free the clinging onion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用手把粘在刀上的洋葱抹了下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He handed her her glass. "Drink your wine," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把她的酒杯递了过去，说道：“喝你的酒吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She took a sip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她喝了一口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He left the kitchen. He sat on the sofa and resumed reading an article. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走出了厨房，坐到沙发上，接着看刚才的那篇文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he got up and returned to the kitchen and poured himself a new drink.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后又站起身，回到厨房，给自己倒了一杯酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's another thing," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还有一件事，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Their big surprise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们总是有‘特大惊喜’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even their goddam surprises are predictable."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是他们那些该死的惊喜全都是预料之中的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You need to act surprised for their sake," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就算为了他们的面子，你也得做出感到惊讶的表情，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Wait for a little opening," he said, "a little silence, and then he'll say, he'll be very coy, he'll say, 'Why don't you tell them?' And she'll say, 'No, you,' and he'll say, 'No, you,' and then she'll say, 'O.K., O.K., I'll tell them.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“等到刚有点空儿，”他说，“刚安静一下，他就会显得吞吞吐吐地说：'要不然你告诉他们吧？'而她会说：'不，你说吧'，他接着说，'不，还是你吧，'然后，她说，'好吧，好吧，我来告诉他们。’</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And we'll take in the news like we're genuinely surprised- like, holy shit, can you believe she's knocked up, someone run down for a Lotto ticket, someone tell Veuve Clicquot, that bastard will want to know! And that's just the worst, how predictable our response to their so-called news will be."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我们就好像真的对他们的新闻感到惊讶一样——就好像，哎呀妈呀，你能相信她怀孕了吗？赶紧的，咱们去买彩票吧，去拿凯歌香槟吧，它准保也想庆祝这消息呢！最糟糕的是，对于他们这种所谓新闻，连咱们的反应都是意料之中的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, O.K.," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那好吧，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When that happens, why don't you suggest they have an abortion?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“等下次再有这种情况的时候，要不然你建议他们去堕胎？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He chewed his ice and nodded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他嚼着冰块，点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That would shake things up," he said, "wouldn't it?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这倒是个变化，”他说，“对吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell them we can do it right here with a little Veuve Clicquot and one of the bedroom hangers." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你告诉他们，在咱们这里就可以做，只要一点儿凯歌香槟，外加从卧室里拿个挂衣架就行。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Delightful," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妙啊，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm in."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我同意。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The kitchen was small. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>厨房很小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would have done better to remain in one of the other rooms, but he wanted to be with her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他呆在其他房间会更舒服些，但他希望跟她在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was sauteing the garlic and the onion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在炒大蒜和洋葱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's O.K.," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他其实还行，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They're both O.K. I'm just being a dick."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们俩都还行，是我这人有点不厚道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We do this, what- at most, once or twice a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们请他们来，好像一年最多也就是一次两次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think you can handle it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想你能应付得了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when they have the baby- "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将来等他们有了小孩——”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, Christ."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，上帝啊！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When they have the baby, we'll see even less of them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“——等他们有了小孩，我们见到他们的机会就更少了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Holiday cards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“贺年卡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's our little sun-chine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>‘这是我们的小太阳’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>See our little sun-chine? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>‘看看我们的小太阳’？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Christ."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老天！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You aren't the one who's going to have to go to the baby shower," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“又不会让你去参加她的产前庆祝会，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How much you wanna bet they buy a stroller?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你想赌多少钱他们会买一辆婴儿车？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A stroller?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一辆婴儿车？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A stroller."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一辆婴儿车。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A stroller," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一辆婴儿车，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"To cart the baby around."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为了带着婴儿出门。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He put cheese on a cracker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他往一块饼干上放了一块奶酪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"For to cart the baby around in, yes," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对，就是为了推着婴儿出门用的，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And you, if you had a baby, there'd be no stroller, right, because it would be oh so predictable? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么换成你呢？假如你有了小孩，就不会买婴儿车，对不对？因为那太‘意料之中’了是吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Absolutely no stroller?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝对不要婴儿车？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I was thinking we could duct-tape the child," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得我们可以用胶带把孩子粘身上，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It would be cheaper." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那多便宜啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Like a BabyBj?rn, but duct tape."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就像一个婴儿背带，但用的是胶带。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Exactly."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“完全正确。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Would the baby face in or out?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那婴儿的脸要不要露出来？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If it was sleeping, in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果它在睡觉，就不露出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not sleeping, kind of kicking its feet, wanting to see the world, duct-tape it out, so it has a view." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果没睡觉，连蹬带踹的，想看看世界，就把它露在胶带外面，让它能看得见风景。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Allowing the child to be curious," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还能让孩子能保持住好奇心，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Feeding its desire to marvel at this new experience called life."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“并且满足它的愿望，为这个叫做‘生活’的新鲜经历感到惊喜。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Something like that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“差不多就这意思。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The child must be so relieved that I'm barren," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“孩子一定很欣慰我有不育症，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He left the kitchen. He stood in the living room with his drink, listening to the sounds of her cooking.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走出了厨房，端着酒站在客厅里，听着她做饭的动静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They should have invited Ben and Lauren, too, like last time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们应该像上一次那样，也邀请本和萝伦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ben and Lauren were more his friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两口子是他的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With Ben and Lauren there, time didn't move as it moved in hospital waiting rooms and the Midwestern churches of his youth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有本和萝伦在，时间过得不至于像是在医院候诊室等着似的那么慢，也不至于像是他小时候所在的中西部教堂里那样慢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she had wanted it just the four of them this time, probably so that they could more freely revel in their big news, and there was a limit to how many times he could say, unprompted, "Hey, should we invite Ben and Lauren?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这一次她坚持只有他们四个人，也许因为她觉得这能使他们能更自由地陶醉在他们的‘重大新闻’里。他好几次不由自主地说“嘿，我们是不是该邀请本和萝伦也来？”但她不为所动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At least he was doing Ben and Lauren a favor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好歹他为那两口子尽了力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He returned to the kitchen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他回到了厨房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When they come in," he said, "let's make them do a shot, both of them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“等他们来了，”他说，“让他们干一杯，俩人都得喝。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A shot?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“干一杯？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Of tequila."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“龙舌兰酒。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Her, too?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她也得喝？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Both of them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他俩都得喝。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"To sort of . . . fortify the baby."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这可以。 。 。保胎？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We'll force them somehow," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们得想办法逼他们喝下去，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll figure it out."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会想出办法的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Better hurry," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你最好快点，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All this talk of folic acid and prenatal vitamins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那些什么叶酸和产前维生素之类的胡话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Give me a break. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还是饶了我吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do they think Attila the Hun got his daily dose of folic acid when he was in the womb? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道他们真的认为，匈奴王阿提拉在娘胎里的时候，每天按时补充叶酸吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Napoleon?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有拿破仑？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was going back and forth across the kitchen while he kept his drink close. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在厨房里来回忙着，而他酒不离手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I could go on."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我还能举出其他人来”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"George Washington," she said, "a Founding Father."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“比如乔治·华盛顿，”她说，“建国之父。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"See? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could go on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还有呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moses."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如摩西。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think she's going to be willing to do a shot," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得她不会愿意喝，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We trick her somehow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们可以想办法骗她喝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tell her it's full of prenatal vitamins, and she shoots it down."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跟她说这里面全是产前维他命，她绝对喝。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Because she just graduated from the third grade," she said, "and she's blind and retarded." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“因为她刚念完小学三年级，”她说，“是个瞎子，而且脑子迟钝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll think of something," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会想出办法来的，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He left the kitchen again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他又离开了厨房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On his way back in, he said, "O.K., I've got it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等再次进来的时候，他说：“好吧，我想好了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He found the room empty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>厨房里没人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her wedding ring and the one with the diamond were on the counter, where she always put them before starting to cook anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的结婚戒指还有那只钻戒都在台子上，她在做饭前总是会把它们摘下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sink had filled with dishes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水槽里堆满了盘子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the stove, a big pot and a smaller one with a handle unfurled steam into the beige hood where the vent rattled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>炉子上，一大一小两个锅在冒着热气，米色的抽油烟机嗡嗡作响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The door of the cabinet under the sink hung open. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水槽下的橱柜门打开着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He checked the bathroom off the kitchen. He returned the way he'd come, through the apartment, in the unlikely event she had passed by without his noticing as he was sitting on the sofa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看了看挨着厨房的卫生间，然后沿着原路返回，穿过公寓，心想也许自己刚才坐在沙发上的时候，没注意到她已经从那里过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He returned to the kitchen, to the animated appliances and stewing ingredients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他回到厨房，回到微微颤动的厨具和炖着的菜肴旁边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She came in through the front door.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时她从大门走了进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where'd you go?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你去哪了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Took the garbage down," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“去扔垃圾了，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I would have done that." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我正要去呢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had come up with a good approach to the evening, but he was no longer in the mood to present it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他本来已经为今晚想出了一个好方法，但他现在没心情把它说出来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he went over to her at the stove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走到炉子那里，站她的身边，用胳膊箍住她的腰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He threaded his arms around her waist as she stirred one of the pots. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在一只锅里搅着什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Years earlier, they'd had a name for this hug. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年前，他们曾经给这种拥抱起过一个名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He couldn't remember what it was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他已不记得叫什么了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He kissed her neck, then the back of her hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他亲了亲她的脖子，然后又亲亲她的头发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her hair smelled of steam and shampoo and silk and wildflowers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的头发散发着热气和洗发水以及丝绸与野花的味道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What can I do?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要我做点什么吗？”他说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can set the table," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你可以去布置桌子，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He set the table. He stood in front of the refrigerator with a new drink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他布置好了桌子，站在冰箱前又倒了一杯酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So I've figured it out," he resumed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我已经想好了，”他接着说起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They bring the bottle of wine, right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们会带来一瓶葡萄酒，是吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We thank them, we tuck it away in the kitchen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们谢完他们，就把它拿到厨房收起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They never see it again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再也不给他们看到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We start the evening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我们开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't ask them what they want to drink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不问他们想喝什么酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like it's just an oversight on our part. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假装这只是我们一时疏忽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because I know him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我了解他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if she's not drinking because of the big news, he'll want a drink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使她因为那个‘重大新闻’而不再喝酒，他也会想喝的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tell him we ran out. I tell him we'll open their wine at dinner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉他没酒了，跟他说我们会等到吃饭时打开他们带来的葡萄酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then we don't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但到时候就是不打。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We just have water for the table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在饭桌上只放着水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, in the middle of the meal- "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，等吃到一半的时候——”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know, you should work for Al Qaeda," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“知道吗，你应该参加基地组织才对，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"- in the middle of the meal, I get up and go to the kitchen and I bring back a beer for myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“——等吃到一半的时候，我站起来到厨房去，为自己拿一罐啤酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I open it at the table and take a long drink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在桌上打开它，然后深深喝上一大口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What do you think?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你觉得怎么样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sounds promising."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听起来挺有戏。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He says, 'Hey, got another one of those?,' and I'm, like, 'Oh, actually, this is the last one.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他会说：'喂，你还有吗？' 然后我就说，'噢，实际上这是最后一罐。’</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then I kill it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，我就把它一口喝光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you think they would leave?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你觉得他们会不会站起来就走？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Leave? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“走？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不会。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Really? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真的？ </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They wouldn't leave after that? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>都这样了他们还会不走？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where the hell are they, anyway?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对了，他们怎么现在还没到？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They might never come back, but no. They would not leave." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们可能永远都不会再回来，但他们不会马上就走。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know, they're good people," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道，他们是好人，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ultimately." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“从本质上说”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She's my oldest friend," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她是我最早的朋友，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And he can be very funny." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“而他有时也很有意思。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're right, he can be very funny," he agreed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说得对，他的确很有意思，”他表示同意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, he came out of the bathroom just as the toilet was completing its roar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又过了一阵，在马桶的冲水声中，他从卫生间里走出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was no longer in the kitchen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她并没有在厨房里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took another cheese and cracker. He walked past the dressed table to the living room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他又拿起一块奶酪和饼干，从布置好的餐桌边走过，来到客厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She sat on the sofa reading the same magazine he had been reading. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她正坐在沙发上，读着他刚才在看的那份杂志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stood in the middle of the room and raised his hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他站在屋子中间，扬起双手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where are they?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们的人呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If there's one thing that's predictable," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真希望还能有意料之中的事情，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But it's almost forty-five minutes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可已经快四十五分钟了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They'll be eating some very cold appetizers." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们来了只能吃到一些变冷的开胃菜了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Have you cooked the meat?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你炖肉了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Everything but." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就差那个了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She casually flipped through the magazine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她胡乱地翻着杂志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no outrage or impatience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既没有愤怒也没有不耐烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She seemed resigned to waiting as long as it took.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她似乎甘心就这么一直等下去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You should maybe call her," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许你应该给她打个电话，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Isn't this what you wanted?" she asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你满意了吧？”她问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Something unpredictable?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不是就想出乎意料吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was on the phone, calling hospitals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在给医院打电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was ten o'clock, and then it was ten-thirty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>先是十点，然后是十点半。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had tried to reach them a dozen times. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她试着跟他们联系了十几次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd sent texts and e-mails. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她发了短信，也发了电子邮件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They hadn't picked up and they hadn't replied.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们既没有收到，也没有回电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not if it interfered with dinner," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我可不想让晚餐被搅了，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nice," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真好，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Magnanimous and humane."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“太高尚了，太人道了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Those fucking drips," he said, "have probably fallen asleep watching 'Friends' on DVD, for which they silence their phones and disable their BlackBerrys." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这俩他妈的懒鬼，”他说，“很可能是拔了电话关了黑莓，在家看《老友记》的DVD，可是看到半截睡着了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes?" she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“喂？”她说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was speaking into the phone now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她正在打电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"O.K., thank you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好，谢谢你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you take my number just in case one of them comes in? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能记下我的电话号码来吗？万一他俩当中的一个到你那里。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thank you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谢谢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She left her name and number and hung up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她留下了她的名字和电话号码，然后挂断了电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is it really possible," she said. She was dialling the next number. "Is it really possible that you care about no one but yourself?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“难道你真的，”她一边拨下一个号码，一边说道，“难道你真的除了你自己之外就谁也不关心吗？”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

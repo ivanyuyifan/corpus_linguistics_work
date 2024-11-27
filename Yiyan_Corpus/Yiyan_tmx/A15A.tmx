@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20170724T041946Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rethinking the welfare state: Asia's next revolution  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反思福利制度：亚洲的下一场革命
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Britain's launch of its National Health Service in 1948 as the apogee, the creation of Europe's welfare states took more than half a century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果将德国19世纪80年代开始实行养老保险制度看作开端，把英国在1948年建立国民健康服务体系当作顶峰，欧洲用了半个多世纪的时间才建立起福利制度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some Asian countries will build theirs in a decade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而一些亚洲国家将在十年内就建立起他们自己的福利制度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If they get things wrong, especially through unaffordable promises, they could wreck the world's most dynamic economies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他们出了错，尤其是作出了无法兑现的承诺，世界上最有活力的经济体会因此遭受灭顶之灾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if they create affordable safety nets, they will not just improve life for their own citizens but also become role models themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但如果他们能建立起合理可靠的保障体系，不仅能提升他们自己国民的生活水平，还能在福利制度建设方面树立榜样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At a time when governments in the rich world are failing to redesign states to cope with ageing populations and gaping budget deficits, this could be another area where Asia leapfrogs the West.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>眼下，当发达国家的政府未能重新调整福利制度以应对人口老龄化和不断增大的预算赤字时，亚洲或许在这方面再次赶超西方。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beyond Bismarck and Beveridge</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是俾斯麦和贝弗里奇所无法理解的
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> History offers many lessons for the Asians on what to avoid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚洲国家可以吸取很多历史上的经验教训，以免重蹈覆辙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Europe's welfare states began as basic safety nets. But over time they turned into cushions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲的福利制度刚开始还算是基本保障体系，但久而久之它们变成了银行储蓄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was partly because, after wars and the Depression, European societies made redistribution their priority, but also because the recipients of welfare spending became powerful interest groups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>造成这种局面，一方面是因为战争和经济大萧条后，欧洲社会把再分配作为他们的首要任务，但另一方面也是由于福利开支的受惠者变成了有权有势的利益集团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The eventual result, all too often, was economic sclerosis with an ever-bigger state. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后的结果往往就是，经济僵滞且福利体系不断膨胀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>America has kept its safety net less generous, but has made mistakes in creating its entitlements system - including making unaffordable pension and health-care promises, and tying people's health insurance to their employment.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国已经在削减运营保障体系的开支，但在创建参保资格评定体系上犯了错误——包括在养老金和医保方面作出无法兑现的承诺，并将人们的医疗保险和他们的就业状况挂钩。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The record in other parts of the emerging world, especially Latin America, is even worse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新兴世界其他地区的情况，尤其是拉丁美洲，更糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Governments have tended to collect insufficient tax revenue to cover their spending promises. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府往往没有足够的赋税收入来兑现开支承诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Social protection often aggravated inequalities, because pensions and health care flowed to affluent urban workers but not the really poor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社会保障常常加剧了社会不平等现象，因为养老保险金和医疗保险落到了富足的城市工人手里而不是给了真正的穷人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brazil famously has a first-world rate of government spending but third-world public services.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>巴西就是个有名的例子，其在社会保障方面的政府开支达到了发达国家的水平，但其公共服务只有第三世界国家的水平。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Asia's governments are acutely conscious of all this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚洲国家政府对所有这些都有十分清醒的认识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have little desire to replace traditions of hard work and thrift with a flabby welfare dependency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们并不太想用对福利的软弱依赖来代替节俭勤劳的传统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The region's giants can seek inspiration not from Greece but from tiny Singapore, where government spending is only a fifth of GDP but schools and hospitals are among the best in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚洲大国可以从小小的新加坡而非希腊获得启发，在新加坡，政府（在福利方面）的开支仅为GDP的五分之一，但其学校的办学水平和医院的服务却是世界一流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So far, the safety nets in big Asian countries have generally been minimalist: basic health insurance and pensions which replace a small fraction of workers' former income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到目前为止，亚洲大国的社会保障体系总体而言只达到了最低标准：只提供相当于工人们之前收入的很少一部分作为其基本医疗保险金和养老保险金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even now, the region's social spending relative to the size of its economies is only about 30% of the rich-country average and lower than any part of the emerging world except sub-Saharan Africa.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对于其经济总量，这个地区的社会支出水平仅达到发达国家平均水平的30%左右，在新兴世界中仅高于撒哈拉沙漠以南的非洲大陆地区。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That leaves a fair amount of room for expansion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这给扩大发展社会福利事业留下了相当大的空间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Asia also faces a number of peculiarly tricky problems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但亚洲也面临许多很棘手的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One is demography. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一是人口问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although a few countries, notably India, are relatively youthful, the region includes some of the world's most rapidly ageing populations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然少数一些国家，尤其印度，国民相对年轻，但这个地区也有全球人口老龄化速度最快的国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today China has five workers for every old person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天的中国，每五个劳动者负担一个老人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By 2035 the ratio will have fallen to two. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到2035年，这个比例将会降至2:1。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In America, by contrast, the baby-boom generation meant that the Social Security system had five contributors per beneficiary in 1960, a quarter of a century after its introduction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反在美国，在其社会保障体系运行了四分之一个世纪后的1960年，正赶上生育高峰代的出生，意味着在社保体系中每五个劳动者负担一个社会保障受益者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It still has three workers for every retired person.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今每一个退休者仍有三个劳动者来供养。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another problem is size, which makes welfare especially hard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个问题是规模大小，这让福利制度实施起来非常困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The three giants -China, India and Indonesia- are vast places with huge regional income disparities within their borders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚洲三大巨头——中国、印度和印度尼西亚——都幅员辽阔，且国内地区收入差异巨大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building a welfare state in any one of them is a bit like creating a single welfare state across the European Union. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们其中任何一个国家建立福利制度，都有点类似于在整个欧盟创建单一的福利制度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lastly, many Asian workers (in India it is about 90%) are in the "informal" economy, making it harder to verify their incomes or reach them with transfers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后一个问题是，许多亚洲劳动者（在印度，有90%的劳动者）从事“灰色经济”活动，这让核实他们的收入或发放福利变得更加困难。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cuddly tigers, not flabby cats  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是幼虎，而非病猫
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How should these challenges be overcome? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何解决这些难题呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no single solution that applies from India to South Korea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不可能从印度到韩国，所有国家都采用一种解决方案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Different countries will, and should, experiment with different welfare models. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同的国家将会，也应该尝试实行不同的福利模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there are three broad principles that all Asian governments could usefully keep in mind.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这儿有三条普遍原则是亚洲国家的政府应牢记在心的，它们将会派上用场。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first is to pay even more attention to the affordability over time of any promises. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，在作出任何承诺时要更多地考虑下承受能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The size of most Asian pensions may be modest, but people collect them at an early age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大部分亚洲人的养老保险金额度可能并不算高，但人们在年龄还不算大的时候就开始领取养老金了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In China, for example, women retire at 55; in Thailand many employees are obliged to stop work at 60 and can withdraw their pension funds at 55. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说在中国，女性55岁就退休了；在泰国，很多职工到了60岁必须退休，并且到了55岁就可以领走他们的养老金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is patently unsustainable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这显然不具有可持续性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Across Asia, retirement ages need to rise, and should be indexed to life expectancy.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个亚洲,退休年龄需要得到提高，且应与国民的平均寿命挂钩。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Second, Asian governments need to target their social spending more carefully. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二，亚洲国家政府在社会支出立项上需要更加审慎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Crudely put, social provision should be about protecting the poor more than subsidising the rich. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简单来说就是，社会应急（储备）物资应该用于保障穷人而不是资助富人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fast-ageing societies, especially, handouts to the old must not squeeze out investment in the young. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在人口快速老龄化的社会，尤其应注意的是，给老龄人口发放救济金不能以牺牲对年轻人的投资为代价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too many Asian governments still waste oodles of public money on regressive universal subsidies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太多的亚洲国家政府仍然在不合时宜的一般性补贴上浪费大量公共资金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indonesia, for instance, last year spent nine times as much on fuel subsidies as it did on health care, and the lion's share of those subsidies flows to the country's most affluent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，印度尼西亚去年在燃油补贴方面的投入是医保的九倍，而这些补贴大部分都流入了这个国家最有钱的人手中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they promise a broader welfare state, Asia's politicians have the political opportunity, and the economic responsibility, to get rid of this kind of wasteful spending.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于亚洲的政治家们承诺建立更广泛的福利制度，他们在政治上有机会、在经济上有责任去消除这种支出上的浪费。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Third, Asia's reformers should concentrate on being both flexible and innovative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三，亚洲的改革者们应致力于同时具备灵活性和创新性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't stifle labour markets with rigid severance rules or over-generous minimum wages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要让严苛的离职规定或过于丰厚的最低工资扼杀了劳动力市场的活力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure pensions are portable, between jobs and regions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确保养老金可以在岗位之间、地区之间进行流动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't equate a publicly funded safety net with government provision of services (a single public payer may be the cheapest way to provide basic health care, but that does not have to mean every nurse needs to be a government employee). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要将公共资金支持的社会保障网等同于政府提供的服务（政府作为单一的支付方也许是提供基本医保的最低廉的方式，但那并不一定意味着每一个护士都需要是政府雇员）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And use technology to avoid the inefficiencies that hobble the rich world's public sector. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并采用技术手段来防止效率低下的出现，低效率阻碍了发达国家公共部门的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From making electronic health records ubiquitous to organising transfer payments through mobile phones, Asian countries can create new and efficient delivery systems with modern technology.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从广泛采用电子健康档案，到通过手机来完成转移支付，亚洲国家可以借助现代技术建立全新高效的福利分配系统。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

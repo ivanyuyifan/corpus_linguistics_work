@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T052426Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Awak
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜未眠</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Odysseus turned his back on the harbour and followed a rough track leading through the woods and up to the hills toward the place where Athene had told him . . ." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“奥德修斯转过身，背对港口，沿着坎坷的小路，穿过森林，爬上山丘，往雅典娜告诉他的那个地方前去......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard read on for a time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德又读了一会儿书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was restless but tried to take an interest in Odysseus' journey to the home of his loyal "swineherd"- what a word, what a way to make a living!- who of course doesn't recognize him, nobody ever recognized anybody in these old books, but offers Odysseus a meal anyway and bangs his ear off with complaints. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他焦躁不安，不过仍努力集中精神，关注着奥德修斯前往他忠诚“猪倌”家的旅程。“猪倌”？好一个词儿，好一个谋生的行当。“猪倌”当然不认识奥德修斯——这种老书里，谁都不认识谁——不过他还是让奥德修斯吃了一顿饭，对着他抱怨一通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now and then Richard glanced over at Ana, asleep beside him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德不时瞄一眼睡在旁边的安娜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He kept willing her to wake, to turn and open her arms to him- no such luck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一直希望安娜醒过来，转过身，向他张开双臂——当然没有那么好运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gloomy, impatient, he went back to the Odyssey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>带着忧郁、不耐烦的心情，他又继续开始读《奥德赛》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ana had left it on the bedside table, open to this chapter, which Richard found boring and implausible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《奥德赛》是安娜放在桌上的，书刚好翻开在这一章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He leafed ahead to the part where Odysseus strings his bow and slaughters all the suitors, but there was a lot more fancy description and speechifying than he remembered from the version he'd read as a kid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德觉得这章无聊、不合情理，便向后翻到奥德修斯拉弓杀掉所有求婚者的那一部分。不过比起小时读的那个版本，他现在读的这个版本里描写更为奇幻，言语更具气势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was supposed to have read it again, a couple years ago, as part of his freshman core at Columbia, but he'd come down with the flu that week.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年前刚到哥伦比亚大学上学时，这本书是新生必读书目之一，他那时就应该重读的，不过那个星期他刚好患了流感，就与这本书失之交臂了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a library book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一本图书馆借来的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He studied the withdrawal dates- few of them and far between- then closed it and put it back down.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他细看了借出的日期，借出的次数不多，间隔时间很长。然后他又合上书，把书放回了桌上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ana had only stirred a little when he turned on the lamp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德刚才打开台灯时，安娜只是轻轻动了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now he switched it off and plumped his pillow and fooled with the covers, hoping that all this would do the trick, but she slept on, snoring softly, face to the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，他关掉灯，拍了拍枕头，故意玩着枕巾，希望能把安娜弄醒，不过安娜还是熟睡着，面对着墙，轻声打着鼾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bed was narrow, and in the dark he became even more aware of the heat from her back and her legs, especially her legs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>床并不宽，再加上关了灯，理查德更能感受到安娜背部和双腿，特别是双腿，散发出的热量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He touched his knee to the tender crook of hers and she drew away, leaving him jangly and resentful, but conscious also that he had no right to be, that she'd already given herself twice that night and had to get up early with a full day of waitressing ahead of her; he had only one class to attend, in the afternoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他用膝盖去碰安娜的腿弯，可安娜挪了挪，避开了他。他有些生气，但是他也晓得，他不应该这样，安娜这晚已经和他云雨了两次，而且明天还要早起，在餐馆做服务员，整整工作一天。而他只有一节课，还是在下午。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But knowing this did not take the edge off his need- for it felt like need, nothing less- to have her against him again, her open mouth moving on his, her fingers digging into his back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管这样，他对安娜的需要——就是需要，不是其它的——没有丝毫减弱，他需要安娜转过身来，手指扣到自己的背里面，张开香唇和自己激吻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jesus! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had to think of something else.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他必须得想想其它的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可想什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even thinking of something else, he'd know that he was doing it to distract himself, and that thought would lead right back to this bed, to the weight of Ana beside him, her breath, her heat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是想着其它的事情，他也知道自己是为了转移注意力，然后思绪又会马上回到床上，回到身边的安娜身上，想着她的呼吸、她的体温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, if he kept it up long enough maybe he'd fall asleep, or at least be awake and ready when her alarm went off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>话说回来，他要是一直想，想久了也许也能睡着。或者也可以一直醒着，等着安娜的闹钟响时和她恩爱一番。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that he'd pressure her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不会强迫安娜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless they hurried, which she didn't like, she'd have to go to work without breakfast or a shower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不是匆忙完事的话（安娜不喜欢这样），安娜就得饿着肚子，不洗澡就去上班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd just give her a look, his special look, and she'd know, and then she could do whatever she wanted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只需看着安娜，用特别的眼神看着安娜，安娜就知到他的想法，与不与他恩爱都全则由她做主。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he wouldn't act hurt if she didn't want to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜若是不想，他也不会表现出伤心委屈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Really, he wouldn't. Not this time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实话说不会，至少这次不会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think of something else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想别的事情吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>O.K. "The Exorcist"- this old novel he'd found in his dormitory lounge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那好，想想那本在宿舍大厅得到的旧小说《驱魔人》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard had seen the movie with the possessed girl whose head spins on her neck like a top, but he hadn't known that it came from a book- not that the book was great literature or anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德之前看过电影，电影里那个魔鬼附身的女孩，脑袋在脖子上面转动得像陀螺一样，不过理查德那时还不知道电影改编自这本书——这本书又不是什么文学名著之类的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, it was pretty interesting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然了，这本书还是趣味十足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The writer had done a lot of research on exorcisms, and some of the cases were scary enough to make you believe in the Devil, at least while you were reading the novel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作者就驱魔一事做了许多调查，其中有些事例十分恐怖，足以让你相信，或者说至少在读书的时候让你相信魔鬼存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It turned out that there were certain priests who cast out demons as a specialty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，有些牧师的专长就是驱魔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was their job, their market niche, waiting around like firemen for the alarm to go off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>驱魔就是他们的工作，他们挣钱的行当。他们等待魔鬼出现，就好像消防员等待火灾警报响起一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Demon in Idaho housewife! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱达荷州的家庭主妇被魔鬼附身！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Demon in Delaware bus driver! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特拉华州公交司机被魔鬼附身！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How weird was that? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奇怪吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As if being a priest weren't strange enough already. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好像牧师本身还不够奇怪似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard had been sort of religious when he was young, he'd said prayers before meals and gone to Sunday school, where he'd stuck cutouts of bearded men onto felt backdrops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德小的时候，也有些信仰宗教，吃饭前要做祷告，去主日学校上学前也要做祷告。在主日学校时，他往放到地上的幕布上贴过剪切的大胡子人像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Church was fine, he'd always felt good afterward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做礼拜也还好，礼拜过后他总感觉不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could even see maybe becoming religious again someday, when he was a lot older. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他甚至觉得，多年后的某一天，还或许会重新信教。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But giving up women? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是要让自己不碰女人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never kissing a woman, never having a woman's legs around you- </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不吻女人，不让女人双腿绕着自己的身体......？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sat up and reached for the glass of water Ana had left for him on the bedside table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他坐起来，伸手拿来安娜为他准备在床头桌上的水杯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd knocked it over last weekend and made enough of a fuss to wake her, but he didn't think he should try that again, so he took care picking it up and putting it down after he'd drunk his fill.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上个星期，他还就碰翻了杯子，小题大做吵醒了安娜。不过这次却不能故技重施，所以他拿水杯时小心翼翼，喝满意后放回去时也轻手轻脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He settled back against the pillow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他又躺回枕头上，闭上了眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He closed his eyes, but just then Ana made a little snort and moved beside him, giving off a fresh wave of warmth, and, faintly, that sweet warm bed-smell of hers, like baking bread, and he lay there tensed, waiting, but she didn't move again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜低声哼了哼，动了动身子，又煽动出一阵温热，一阵她睡觉时的温暖甜蜜的体香，就像烤面包的香味一样。他紧张不安地躺着等待，可是安娜再没有移动身体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He heard the clock tick, his own breath returning, jagged and raspy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他听着时钟的指针滴答滴答不停跳动，安娜的体香散去，他的呼吸又变得浮躁无律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looked up toward the ceiling, at a thin bar of light leaking though the shades from the street lamp outside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>窗外的街灯穿过窗帘间的缝隙，在天花板上泄下一道微弱的光。理查德抬起视线，看着这道光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No more thinking about priests- that didn't help. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再不要想牧师的事了，没有用的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>O.K., then, the Odyssey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，那继续想想《奥德赛》吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He should read it again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书他应该再读一遍的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was going to, for sure, this time in the grownup version! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这次他真打算再读一遍，读成人版的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could get through a few speeches and descriptions, sort of earn his way to the good parts, especially the slaughter at the end. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书中少数的高谈阔论和奇幻描写，他也能坚持读下去，算得上是跌跌撞撞才读到精彩的部分，特别是奥德修斯最后屠杀求婚者的那部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He liked the idea of Odysseus coming home after all his wanderings and screwups and setting things right, taking back his woman and his house, no discussion, no messing around.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很乐意看到奥德修斯浪迹四方、历经苦难、摆平一切后，回家夺回王宫，与妻子团聚，不再谈判，不再征战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he would read the Iliad. Also "War and Peace" and "The Brothers Karamazov." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>读完《奥德赛》，他接着会读《伊利亚特》，还会读《战争与和平》和《卡拉马佐夫兄弟》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the books that Ana had on her shelf, and actually liked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些书安娜都放在书架上，而且还情有独钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard was an econ major and didn't have much time for outside reading, and when he did he kicked back with a mystery, or something scary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德的专业是经济学，没有太多时间阅读专业外书籍。有时间的时候，他就读神话或者恐怖之类的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>O.K., so he wasn't a big literary type- so sue him! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，他不是个迂腐的书呆子。所以，找男朋友就找他吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd like to see one of those sensitive souls handle the stuff he was dealing with in his International Environmental Economics seminar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在国际环境经济学研讨班上，他乐意某个敏感的家伙过来替他干自己正在干的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abatement Strategy Modules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>消减策略模块？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alternative Equity Criteria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>替代性投资标准？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>General Equilibrium Impact Analyses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般均衡影响分析？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go for it, he thought. Be my fucking guest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>都交给你了，他想，别他妈客气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that Ana was like that- a snob. She wasn't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并不是说安娜势利；她并不势利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She really loved these books, they were important to her, and Richard knew that he hadn't been entirely honest about his own tastes when they first met. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜热爱那些经典名著，于她而言名著十分重要。理查德知道，初次和安娜见面时，自己不实在，并没有实打实地让安娜知道自己的喜好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd allowed her to think that he was a great one for the classics, and she had believed him because she had the idea that Columbia students were not only smart but cultured, and that they went to the university not to set themselves up for a fat job later on but to search for knowledge and wisdom. To become better people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他让安娜以为自己爱好名著经典，安娜信了他，因为她以为哥大学生又聪明又有修养，他们上大学不是为了找个好工作，而是为了寻求知识和智慧，变得更为优秀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was naive that way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她居然会这样想，真是天真。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard had liked her innocence, and the sense of adult benevolence it gave him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时理查德喜欢安娜的纯真无邪，喜欢她给自己一种成人关怀的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a few years older than he, and at first it sort of evened things out, him knowing the score while humoring her, letting her have her notions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜大他几岁，起初这年龄的差距让事情顺风顺水，理查德明白安娜年长，也就迎合安娜，那样让安娜知道实情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was how he saw it then, in the beginning. Not anymore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>才开始时，他的看法就是这样，但是现在已经不是了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After two months with Ana, he knew himself to be the green, untested one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和安娜再一起两个月后，他知道，他们两人中自己才是那个没有经历的新手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her family was Russian but they'd lived for many years in Chechnya, where her father managed a food-processing plant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜来自一个俄罗斯家庭，但是她一家在车臣住过好几年。父亲在车臣管理着一家食物加工厂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the war, the factory had been destroyed and Ana's oldest brother had been killed. The family lost everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争的时候，工厂毁于一旦，大哥命丧黄泉，一家人变得一无所有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd been sent to live with her mother's mother in Tel Aviv- a widow, mean as a witch from some fairy tale. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜被送去特拉维夫，与外婆一起生活。外公已经离世，外婆刻薄吝啬，像是个童话里跑来的女巫一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now she was staying with an aunt here in Queens, and working illegally at a restaurant on Amsterdam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，安娜和一位婶婶一起住在皇后区，在阿姆斯特丹大街上的一家餐馆打黑工。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was where Richard had met her. He'd heard her speaking Russian to another waitress, and when she came to his table he tried out a few phrases from his one year of high-school Russian, and she had almost wept with surprise and joy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德就是在这家餐馆碰到了她，他听到安娜和别的服务员说俄语，等安娜来到他的桌边时，他试着用高中时学的一年俄语憋出了几个词，让安娜又惊又喜，差点哭了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wasn't his type, Ana- a bit heavy, round in the face. Little pockmarks on her forehead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜不是他的菜。她身材微胖胖，圆脸，前额还有小小的痘痕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her English was pretty good but thickly accented. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她英语相当不错，只是口音太重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He hadn't meant to ask her out. But then he did, the very next night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他本没有打算约她出来，可第二天还是约了她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A week later she took him home, to this small attic room in her aunt's house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一个星期，安娜就把他带回了家，带他去了自己在婶婶家的小阁楼房间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were just having fun, that was how he'd seen it, the two of them having some fun before going their separate ways, as people did, people their age with their whole lives still ahead of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在理查德看来，他们只是玩玩而已，和岁数不大、命还很长的人们一样，玩开心后就分道扬镳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You didn't want to get tied down now, when you didn't know who you might still meet and what might open up, what chances and adventures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你现在不晓得以后会和谁邂逅，不晓得会发生什么，不晓得会遇到什么样的机会，不晓得会历经何事，所以你不想被束缚，不想被牵制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was the idea. Some good times, no strings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是这样，要玩得开心，而且不要被束缚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But after a month or so he saw that Ana had gone all serious on him. She tried to pretend she hadn't, but she had, and he knew it, and made up his mind to break things off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可个把月过后，他发现安娜对他严肃起来，她虽然努力假装，但仍然难掩事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would be wrong to take advantage of her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德也清楚，所以下了决心要和安娜一刀两断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also the long subway ride from his dorm and back was getting to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一直占安娜的便宜不好，而且从宿舍到安娜家往返坐长时间的地铁也让他有些恼火。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then he found that he couldn't break it off, because even with friends, even talking to other girls, he missed her, missed her throaty voice and the strange, direct way she said things, missed giving her pleasure and seeing it in her eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是后来他发现要分手办不到，因为和朋友一起时，甚至和别的女生聊天时，他都想念着安娜，想念她沙哑的嗓音，想念她说话时的坦率，想念让安娜开心时，看着她眼中泛着快乐的那种感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was desolate on the nights that he had to sleep in his dorm room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被迫一个人在宿舍睡觉的那些夜晚，他感觉到万分孤寂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Loud voices outside- men's voices, speaking in Spanish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋外几个男人讲着西班牙语，传来喧闹的说话声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ana shifted, murmured. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜翻了翻身，嘴里念念有词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The voices moved on. Silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说话声渐渐走远，最后又消失成一片寂静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Richard sat up and took another drink of water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德坐起来，又喝了一口水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Being away from her felt unnatural now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在的他，要是不和安娜在一起，就感觉很别扭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alone in bed, sitting in class, writing an e-mail to his parents, he thought of her and ached. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个人在床上时，坐在教室里时，给父母写电邮时，他都想念着安娜，隐隐作痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it couldn't last- he knew that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是他知道，事情不可能一直这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he knew now that she would be the one to break it off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他现在晓得，安娜会是提出分手的那个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ana was already who she was going to be, and he was not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜已经露出了真实面目，他还没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a woman, and he was not a man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜是女人，他不是男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looked like a man, even an interesting man, dark and ruggedly handsome, with a grave, thoughtful air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他外表是男人，甚至是一个有趣的男人，肤色暗黑，面孔棱角分明、帅气十足，给人一种庄重、体贴的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his looks didn't fit the way he felt- the way he knew himself to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是他的外表与自己的感觉、与自己所知的自己并不符合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes, walking down the street, he glanced at the window of a store and was thrown by the sight of himself, as if he were wearing a costume.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些时候，他从街上走过，看到店铺窗户上倒映的自己就心烦意乱，好像自己身上套着衣服在演戏一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Girls liked him. They assumed certain things about him, and he'd learned to act his part, but he knew this wouldn't hold up much longer with Ana. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>姑娘们倒是喜欢他，她们以为他应该是这样的，或者应该是那样的，他已经学会了演好自己的戏份。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not because she was older but because his ways of thinking were smaller than hers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他知道，和安娜一起，这样的假装不会持续太久，不是因为安娜年长，而是因为安娜的思维比他的广阔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wasn't curious, as she was, didn't like and trust others, as she did, for all the hardships of her life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有好奇心，安娜有；他不喜欢、不信任别人，可安娜经历过困难的生活，能喜欢、信任别人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He complained a lot, and she never complained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他成天抱怨这抱怨那，而安娜从来不吐一句怨言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And though he hated being apart from her, when they were out together he looked at other women and imagined having them, and even brought their images to this bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理查德虽然讨厌和安娜分开，但是两人一起出去时，他又要看别的女人，想象拥有她们，甚至和安娜同床共枕时也想着她们的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes she caught him studying her coldly- wishing she'd lose weight, do something about those pockmarks- and he could feel his own smallness and triviality as the color drained from her face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，安娜发现他面无表情地观察着自己（心里希望她减肥，或者想法子祛祛痘痕）。他看着安娜两颊绯红逐渐褪去时，能感受到自己的渺小和平凡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon enough she would see him clearly, and understand her mistake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快安娜就会把他看透，知道自己看错了人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was already watching for signs of retreat: impatience, condescension, a certain weariness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经在等待退却的信号——没有耐心、看不起人、某方面表现出厌倦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd seen all this before, with the only other girl he'd been close to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一切，在与那个他唯一亲近的女孩一起时，他都见过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had Ana really not caught on yet? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜还没懂吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could she not know? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她这么可能不知道？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was it just because he was handsome, and always ready?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仅仅是因为他帅气，而且随叫随到吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or because he was American, and maybe of use in some scheme?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者是因为他是美国人，或许可以利用来谋划些事情？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

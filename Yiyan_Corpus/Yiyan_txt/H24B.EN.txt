@@ -1,0 +1,45 @@
+Madrid, Spain, Thursday 13 May 2010 - Amadeus IT Holding, S.A. (Amadeus: ¡°AMS.MC¡±), the parent company of Amadeus IT Group, S.A., a leading transaction processor and provider of advanced technology solutions for the global travel and tourism industry, has announced yearon-year financial results for its first quarter (three months ending 31st March 2010).
+An increase in adjusted net income of 58.1% to reach €128.9m is backed by a growth in revenues of 13.4% to €705.3m and an improvement in adjusted EBITDA by 26.1% to €280.3m. 
+This continues Amadeus¡¯ trend for steady growth, following an increase in adjusted EBITDA every year between 2004 and 2009.
+This steady growth is underpinned by double digit increases in both the Distribution and IT solutions businesses. 
+Revenues within the Distribution area increased by 12.4% whilst the volume of air travel agency (TA) bookings increased by 9.6% in the first quarter of 2010, primarily driven by the performance of emerging markets (Middle East and Africa, CESE5 and Asia &amp; Pacific). 
+Amadeus maintained its global leadership position in market share of close to 7% of air travel agency bookings. 
+The IT Solutions business grew its revenues by 17.9% uring the period, continuing its track record of solid growth as contracted migrations6 took lace.
+President &amp; CEO of Amadeus, David Jones, said: ¡°Our year-on-year growth of total revenues by 13.4%, increased adjusted EBITDA of 26.1% and substantial growth of net income by 58.1% to reach €128.9m is further proof of the strength and profitability of Amadeus¡¯ transaction-based business model. 
+We are encouraged by the recent industry-wide increase in global air traffic and travel bookings and this is a strong indicator of our growth potential as the global travel industry continues to recover.¡±
+Q1 2010 Business Highlights:
+Distribution
+In the first quarter of 2010, Amadeus continued its drive to sign long-term full content agreements with key airline customers, including Air France-KLM (4 years), Westjet (3 years),Iberia (5 years), and Austrian Airlines (5 years). 
+These contracts join a growing number of recently signed long-term content agreements which balance airlines¡¯ need for efficient distribution with secure access to relevant travel content for travel agencies. 
+Amadeus signed similar agreements in 2009 with, among others, British Airways (3 years), Lufthansa and Swiss (5 years), SAS Group (5 years) and Virgin Atlantic (3 years). 
+All these long-term full content agreements also apply to ancillary services7. 
+More than 80% of all airline bookings made by Amadeus travel agencies worldwide are made on airlines with full content agreements.
+As ancillary services become an ever more significant part of travel, Amadeus is working hard to ensure that the benefits of an unbundled approach can be enjoyed by all in the industry. 
+Amadeus¡¯ multi-channel strategy for ancillary services is focused on creating sustainable profitability for airlines while managing complexity and cost for all parties involved in the travel supply chain. 
+The company is working on a number of initiatives in this area which will be rolled out throughout the year. 
+Amadeus is also participating in a joint industry initiative led by travel management companies, online agencies, and global distribution systems to support the implementation of recently developed, industry-wide technology standards which enable shopping, booking, payment, and reporting of ancillary services.
+In January Amadeus launched Amadeus Master Pricer Agent Fare Families for online travel agencies and for travel agencies with an online presence. 
+As part of the company¡¯s Master Pricer portfolio, Amadeus was first to launch a merchandising solution that enables travel agents¡¯ customers to more easily compare airlines¡¯ fares and their associated conditions online.
+In February Amadeus and Carlson Wagonlit Travel (CWT), a global leader specialising in business travel management, signed a memorandum of understanding (MOU) to explore the outsourcing of some of its mid and back-office transaction technologies to Amadeus. 
+Amadeus also signed a long-term global distribution agreement reinforcing both Amadeus and CWT¡¯s longstanding relationship.
+Also in February, Amadeus announced a long-term alliance with Concur (Nasdaq: CNQR), a leading provider of on-demand employee spend management solutions, to bring key technologies together for a combined travel and expense management solution to extend their core offerings. 
+This includes the integration of travel bookings from Amadeus e-Travel Management (AeTM) into Concur.
+Expense, as well as the unique integration of Amadeus core distribution technology into Concur.
+Cliqbook Travel ¨C the first time Amadeus has provided this type of technology to a third party.
+In March CWT launched ¡®Connect Now¡¯ ¨C an end-to-end travel management solution aimed at small and mid-sized companies with or without a managed travel programme. 
+The portal was the result of a joint development effort which is based on and powered by Amadeus technology.
+Also in March Amadeus announced LinkHotel, a new distribution and marketing service aimed at small to medium-sized hotels and groups of hotels with South Africa's City Lodge as the launch partner. 
+This increases Amadeus capacity to bring relevant hotel content for bookers to build on the 86,000 plus hotels bookable on Amadeus as of March 2010.
+By the end of the first quarter, Amadeus launched CheckMyTrip for mobile browsers allowing travellers to check up-to-date travel plans on the go. 
+CheckMyTrip pilot apps for iPhone and Blackberry were also launched as well as an app for sharing itineraries on the social networking site Facebook.
+Airline IT
+In the first three months of 2010 Amadeus has migrated 3 new airlines - TAP Portugal, Aegean Airlines and Mauritania Airways) - to one or more Alt¨¦a Customer Management System (CMS) modules. 
+Saudi Arabian Airlines also migrated to Alt¨¦a CMS in April.
+In addition, Amadeus has also migrated 3 existing Alt¨¦a customers including Spanair and Grupo SATA ¨C to the Departure Control System module. 
+At the same time, Spanair also migrated its departure control system to the Star Alliance¡¯s Common IT Platform (CITP), thus becoming fully operational on the platform, and LOT Polish Airlines expanded its IT partnership with Amadeus to adopt Star CITP inventory module, becoming the 13th alliance member carrier to select the joint centralised platform developed and hosted by Amadeus.
+During this period, 2 regional French airlines have also signed for additional Amadeus Alt¨¦a modules. 
+Furthermore, Asiana Airlines signed an agreement to commence an evaluation of Alt¨¦a CMS.
+In e-commerce Amadeus renewed its contract with TAROM and implemented Aegean Airlines in the first quarter of 2010. 
+Today over 100 airlines use Amadeus¡¯ e-Commerce technology to power and optimise their online sales. 
+In addition, our existing e-commerce customer Croatia Airlines started using Amadeus Affinity Shopper, an extreme search solution for airlines websites, launched in November 2009. 
+Through this solution consumers can explore and select their trip based on their desired holiday experience, allowing them to ask online open questions such as ¡°where can I go, what can I do, for what I want to spend?¡±.

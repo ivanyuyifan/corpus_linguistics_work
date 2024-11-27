@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T080231Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Matsutaro Shoriki: Japan's Citizen Kane</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力松太郎：日本的“公民凯恩”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE ECONOMIST'S office in Tokyo is in the headquarters of the Yomiuri Shimbun, the world's biggest-selling newspaper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《经济学人》驻东京办公室位于全球发行量最大的报纸《读卖新闻》的总部大楼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every day, as you walk past bowing guards and immaculate receptionists, set back in a corner you pass a bronze statue of an owlish man with a bald head and thick, round-rimmed glasses, poring over a paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天穿过行礼如仪的门卫、清新整洁的前台服务员以后，你会在角落里看到一座青铜像。青铜像雕刻的男人如猫头鹰般，秃顶、戴着一副厚厚的圆框眼镜，正埋头看着一份报纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is Matsutaro Shoriki (pictured), who acquired the paper in its left-wing adolescence in the 1920s, and turned it into a scrappy, sensational pugilist for right-wing politics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他就是正力松太郎，在上世纪二十年代收购了这份当时初创不久的左派报纸，然后将其摇身一变，成为右翼政客的桥头堡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The statue is not flattering: with his potato-like head and beakish nose, he seems to be pecking at the newspaper rather than reading it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雕像可不好看：鹰鼻鹞眼的他似乎不是在看报，更像在找碴儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki lurks in the background of much of 20th-century Japan, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十世纪日本的台前幕后都有正力的影子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He created so much of what defines the nation today that it is a wonder he is not as well known as, say, William Randolph Hearst (one of his big Western admirers) is in America. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他创立的许多东西至今仍旧影响着这个国家，奇怪的是，他却不像美国的威廉· 蓝道夫· 赫斯特（他是许多欣赏正力的西方人之一）那样为人所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki was as much the pugnacious, brooding, manipulative and visionary "Citizen Kane" as Hearst.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果说“公民凯恩”是一个好斗、阴森、控制欲强、目光长远的人，那正力丝毫不亚于其原型赫斯特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before he took over the Yomiuri, Shoriki was head of Tokyo's torturous secret police. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力在接管《读卖》之前，曾是日本秘密警察的头目，该组织以酷刑闻名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, to help him sell papers, he introduced professional baseball to Japan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来为了推动报纸销量，他向日本国内引入了职业棒球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the second world war he was jailed for alleged war crimes; upon his release he set up Japan's first private television network. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二战后他因战争罪指控入狱；出狱后他创立了日本首家私人电视广播公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To cap it all, he was the "father of nuclear power", using his cabinet position and media clout to transform an atom-bombed nation into one of the strongest advocates of atomic energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还是“日本核能之父”，曾利用内阁职务之便与媒体的交情，把一个原子弹的受害国变为最支持核能的国家之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That legacy now smoulders amid the ruins of the Fukushima Dai-ichi nuclear plant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今福岛第一核电站的废墟就是他当年的遗产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Victories of the spirit</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>勇气的胜利</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Japanese history is peppered with stories of giants whom almost no one outside the country has ever heard of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日本历史上许多行业巨擘的故事在国外鲜有流传。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of Japan's reverence for humility, their tales tend to be subsumed within the companies or projects the individuals created. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日人素来谦虚，故这些故事仅流通于他们自己创办的公司或工程中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki is different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力则与众不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is nothing humble about him: his is a story of ruthless ambition, bordering on megalomania.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他毫不遮掩：他的故事充满着冷血野心、狂妄自大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He got a taste for power early, when he rose like a rocket through the police force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早年在警界扶摇直上的时候，他就初尝了权力的滋味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was 28 when, in 1913, he joined the Metropolitan Police. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1913 年，28 岁的正力加入警视厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had recently graduated from the elite University of Tokyo, but was more interested in judo than studying, so had failed the civil-service entrance exams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时他刚从培养精英的东京大学毕业。比起学业，他对柔道更感兴趣，结果没有通过公务员考试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Police work carried lower prestige, but it suited him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>警察工作虽然不像公务员那样受人尊敬，不过却很适合他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within a year he was promoted to head a police station in Nihonbashi, the old heart of the city.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不到一年，他就被升为彼时东京市中心日本桥地区的警察局长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Japan's economy was booming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日本经济当时发展迅猛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first world war was a godsend for a country that was undergoing breakneck modernisation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一战对于一个正处于现代化瓶颈阶段的国家来说，可谓雪中送炭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After its own military victories against Russia and China, and the annexation of Korea in 1910, Japan was puffed up with pride at being one of the world's colonial powers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在俄华的接连军事胜利和1910 年日韩合并以后，趾高气昂的日本迅速成为列强之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the Bolshevik Revolution of 1917 brought a ferment of new ideas-including the demand for wider male suffrage in Japan-which the police and the patrician old guard viewed with alarm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过1917 年的布尔什维克革命激起一股新思潮—— 日本国内也出现了要求扩大男子投票权的呼声—— 这引起了警察和武士的警觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki was put in charge of suppressing student demonstrations at Waseda University, then one of Tokyo's most liberal institutions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力受命镇压早稻田大学的学生示威，早稻田是当时东京思想最为自由的学府之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He later introduced a masseur, masquerading as a communist, to entrap three radical professors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来他派一名男按摩师化装成共产分子诱捕了三名激进的教授。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To this day, Waseda's left-wingers loathe him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以直到今天，他还不受早稻田左倾人士的待见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1918 he astutely predicted the spread of rice riots from Toyama, the rural prefecture where he was born, to Tokyo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力在1918 年敏锐预测到从他故乡，边远的富山县爆发的米骚乱将会蔓延至东京。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he marched among the rioters, his sword tethered to his side to show he did not mean violence, a jagged stone hit him on the head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来他通过暴乱人群的时候，始终将佩剑拴在一边，示意他并不想使用武力，不过一块尖石还是砸中了他的头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His courage in persuading the mob to calm down, with blood streaming down his face, appears to show him at his best. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他脸上留着血，说服暴民冷静下来，这种勇气似乎完美地展现了他的作风。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In "Shoriki: Miracle Man of Japan", a biography published in 1957 (and regarded by some as a ghostwritten auto-hagiography), Edward Uhlan and Dana Thomas, two American journalists, describe the moment in which he "dispersed a frenzied mob without raising a finger" as the greatest "victory of the spirit" in his life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《正力松太郎：日本奇人》这部1957 年出版的传记（也被某些人视为捉刀手操作的偶像化自传）里，两名美国记者爱德华· 欧蓝与大拿· 托马斯形容他“不费吹灰之力驱散一群暴徒”是他此生最大的“勇气的胜利”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he was no saint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可他也不是圣人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As communist agitation spread in the early 1920s, and Koreans in Japan increasingly rebelled against colonisation, Shoriki was promoted to be chief of staff of the Metropolitan Police, which in effect made him head of the secret police. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上世纪二十年代初期，正当共产党煽动各地暴乱，在日朝鲜人抗议日本殖民的声势愈发浩大的时候，正力升任警视厅官房主事，实际成为秘密警察的总管。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had responsibility for infiltrating labour and Korean groups and rooting out the "red menace".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对渗透劳工与朝鲜人组织、铲除“赤祸”负有责任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then in September 1923, shortly after the Japanese Communist Party had been formed, Tokyo and nearby Yokohama suffered a devastating earthquake that, coupled with the ensuing fires, killed more than 100,000 people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在日本共产党成立不久后的1923 年秋，东京及毗连的横槟市发生毁灭性地震，连同随之而来的大火，共造成十万余人丧生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An orgy of opportunistic anti-Korean slaughter followed, which Shoriki may have stoked and then diverted into an attack on socialists.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灾后一些投机分子之所以能够大肆屠杀朝鲜人，很可能与正力煽动，然后转嫁给社会主义者有关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When, a few months later, professional catastrophe struck, his extensive political connections rescued him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数月后虽然又爆发了大规模罢工，可是他在警界广泛的人脉却使他逃过一劫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On his watch, a young socialist tried to kill the Crown Prince (later Emperor Hirohito), an event for which Shoriki was given the harshest sanction: "disciplinary dismissal". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来有一次他在场的情况下，发生了青年社会主义者试图刺杀皇储（即后来的昭和天皇）的事件，正力为此遭到“纪律开除”的严惩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thrown out of work, it occurred to him that newspapers might be an influential business. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失业期间，一次他突然意识到做报纸可能成就一番大事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Yomiuri Shimbun was struggling, having just built a new headquarters that collapsed in the earthquake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时的《读卖新闻》正在苦苦挣扎，其总部大楼在地震中坍塌，新楼刚刚落成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki needed ?100,000 ($20,000 then) to buy it out; he turned to one of his contacts, a leading right-wing politician, for financial support. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力需要十万日元（时合两万美元）将其买下；于是他向其旧部，一位右翼重要领袖寻求资金支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a shrewd investment: Shoriki turned the Yomiuri into an establishment crusader.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>投资很精明，正力将《读卖》变成了一个挑战现存权力结构的斗士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Evidence of the personality that he quickly stamped upon it can be found in the Yomiuri's sixth-floor library. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《读卖》六层高的图书馆大楼里可以看到他当时对报纸的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You need to borrow the librarian's magnifying glass to read the tight old kanji, or Chinese script, in which the paper was written. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你得借用图书馆的放大镜来阅读那些印在纸上的密密麻麻的汉字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it is quickly apparent that under him it was a much livelier read than the staid stuff it serves up nowadays. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过很快你就会发现这些文字读起来更有活力，与今日那些陈腔滥调非常不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was Japan's "Taisho era", a rare time of democratic upheaval and self-indulgence, summed up in the phrase eroguronansensu, or erotic, grotesque nonsense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“大正时代”的日本弥漫着少有的民主动乱和自我放纵的气息，这可以用一个和制英语eroguronansensu 来概括，即色情的、怪诞的荒谬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That quickly became Shoriki's sales pitch for the Yomiuri, though because he spoke not a word of English he mangled the terms into "grotic" and "erotesque".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力虽然没用一个英语单词，但他把两个字混起来变成“grotic ”和“erotesque ”，这个词很快便成为了《读卖》的广告语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never mind: it worked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别看，还真管用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next to lurid stories about adultery and photos of flapper-era mogas (modern girls) are advertisements for clinics treating the consequences ("Before the parties at the end of the year, you should sort out your gonorrhoea"). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那些惊悚的通奸故事和暴露的摩登女郎照片旁边就刊登着治疗肇事后果的诊所广告（“您需要在参加年终聚会之前，把痳病治好”）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are pages about hit songs from the new craze of radio that was sweeping the country, a trend that Japanese newspapers had until then ignored. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当其它日本报纸对风靡全国的新兴电台播放的流行歌曲还后知后觉的时候，《读卖》早已辟出数版予以报导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1931, when Japan invaded Manchuria, Shoriki seized the moment to go head-to-head with his bigger Tokyo rivals, the Asahi and the Mainichi, by launching an evening edition to bring readers sizzling China-bashing updates from the front.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1931 年日本入侵中国东北，正力趁机通过设立晚间版向读者报导发自中国前线的新闻，同与他不相上下的竞争对手，东京的《朝日新闻》与《每日新闻》相抗衡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two years later, in 1933, comes an episode of vintage Shoriki. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年以后的1933 年迎来了正力的全盛时期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His editors had noticed the rising incidence of suicide; one popular method was for couples to hurl themselves hand-in-hand into a fiery volcano called Miharayama, on a Pacific island a long boat ride from Tokyo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他手下的编辑发现当时社会上的自杀事件猛增；常见的就是一对夫妇携手跳进三原山，这座活火山位于一个太平洋岛上，有大艇自东京往返。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one year 944 people had taken the plunge: at a time of growing militarism, this was not regarded as a very patriotic endeavour.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一年内就有944 人跳崖：当时军国主义情绪弥漫，这种行为显然不合爱国时宜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Yomiuri decided it should warn people what they were throwing themselves into. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《读卖》认为应该告诫人们他们跳下去的是什么地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a flurry of publicity, the paper told its readers it would separately lower an editor and a photographer towards the molten furnace in a gondola. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是报纸大量宣传，告知读者报社将分别派出一名编辑和摄影师乘缆车深入这个炽热的火炉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But first the paper sent down two animals to test for poisonous gases, eliciting the priceless headline: "Monkey paralysed. Rat dead." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过为了测试毒气含量，报纸起先送过去两只动物，获得了无价的新闻：“猴子全身瘫痪。老鼠一命呜呼。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the gas-masked journalists did make it, they descended 415 metres, which the Yomiuri claimed was a world record. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来当记者真的头戴防毒面具，潜入地下415 米的时候，《读卖》兴奋地宣布此举打破了世界纪录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of them relayed sightings of corpses to the surface by jerry-rigged telephone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一人通过简易电话报告说在地表发现了尸体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made for wonderful copy, but did nothing to stop the suicides.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这次事件使报纸销量节节攀升，不过自杀事件却不见回落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This cloak of supposed public interest, wrapped around gory sensationalism, sent the Yomiuri's circulation soaring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《读卖》通过裹挟民意的幌子，附带惊悚轰动的报导，发行量扶摇直上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between 1924 and 1937 it rose from 58,000 to 800,000, a feat that made the Yomiuri the biggest newspaper in Tokyo.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1924 年至1937 年间，其发行量从58 , 000 份跃升至800 , 000 份，一举成为东京地区第一大报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Banzai Babe</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝比万岁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The melding of commercial pragmatism with ideological dogma shaped much of Shoriki's career. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力的职业生涯交织着商业实用主义与意识形态教义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But another factor also defined the second half of his life: his relationship with America.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他的后半生还有一个要素，那就是他与美国的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Baseball was its first manifestation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>棒球是其中第一项。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki was no baseball fan, but he knew he could use the sport to sell newspapers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力自己并不是棒球迷，不过他认为体育报导能够推动报纸销量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The trouble was that Japan had no professional baseball teams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是日本还没有自己的职业棒球队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, on the advice of a rival newspaper proprietor, he set out to bring Babe Ruth, the legendary Yankees slugger, to Tokyo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一家竞争对手报社的老板建议下，他把当时传奇般的强击手贝比· 鲁斯从美国带到东京。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first, Ruth was too busy: he did not join the all-star team that came out to Japan to play for capacity crowds in 1931. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起初鲁斯因为太忙没空参加1931年引发全场爆满的全明星阵容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in 1934, past his prime and noticeably overweight, he finally arrived.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他1934年过了巅峰期以后，加上超重，还是来到了日本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a tense time, both within Japan and in its diplomacy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，无论日本国内还是外交场合的气氛都有些紧张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soldiers burning with fascist zeal were assassinating government moderates in a bid to rekindle the traditional "spirit" of Nippon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>充满法西斯主义狂热的军人不断暗杀政府中的温和派，试图重新激发日本的传统“精神”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The visit was controversial, coming just as Japan appeared to be turning its back on the outside world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次访问引发许多争议，因为这时候日本似乎正在要和全世界作对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Shoriki's intuition worked: ordinary Japanese went mad for Ruth and his team. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力的灵机一动很有效果：日本普通民众对鲁斯及其球队极为狂热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tens of thousands packed the streets of Ginza to see them parade in open-top cars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数以万计的人群充塞银座街道，都想亲眼目睹他们在敞篷车上的游行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People thronged the Meiji stadium to watch them play, most barely minding (though Shoriki did) that the home sides usually lost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在明治体育馆，人们蜂拥而至观看比赛，虽然本国球队常常败北，多数人却并不在意（尽管正力耿耿于怀）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not everyone was so thrilled: a madcap group called the "War God Society" protested at the Americans' "defilement" of grounds sacred to the Meiji emperor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过并不是所有人都那样兴奋：一帮名为“战神社”的组织成员就抗议美国人“玷污”了献给明治天皇的场地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not long afterwards Shoriki was stabbed in the neck with a Japanese sword by an ex-policeman who professed to hate his pro-Americanism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久之后正力就因其亲美倾向被一名前警察用日本刀刺破颈部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He lost a litre of blood and nearly died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时他失血过多，几乎丧命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Undeterred, Shoriki founded the Yomiuri Giants baseball team, which has dominated the sport in Japan ever since.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力并没有被吓倒，反之，他创立了读卖巨人棒球队，这只球队至今仍引领着日本体育界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This relationship with America would be twisted by war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而正力与美国的关系由于战争尔变得模糊起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Yomiuri, like all its rivals, was a fervent cheerleader for Japan's Pacific conquests; as the imperial army advanced south, so the Yomiuri set up offices and newspapers around South-East Asia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《读卖》像其它竞争对手一样 ，非常支持日本的太平洋战争；所以正力的报社也随着皇军南下，在东南亚遍地开花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the war ended in 1945 the charge-sheet against Shoriki looked strong: he had been a director of the quasi-fascist Imperial Rule Assistance Association, set up in 1940, which promoted war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当1945年战争结束之后，正力遭受一系列严厉指控：他是1940年设立的半法西斯组织、鼓吹战争的大政翼协会的总头目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His newspaper was suspected of being a propaganda organ of the militarists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人怀疑他的报纸是军国主义者的宣传机构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Damningly, many of the strongest accusations of fascism that were made against him came from his own writers and editors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雪上加霜的是，许多最严厉的指控出自他手下的撰稿人和编辑之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Yomiuri was in revolt at the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时正力腹背受敌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of the war, encouraged by the liberal ideas of the American occupation, a group of left-wing journalists staged a coup at the paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争结束时，一群左派记者受到美国占领军自由思想的鼓舞，斗胆在报社发起了一场政变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For months the internal battle spilled onto the front pages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个月里报社内斗在头版公开化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Headlines branded Shoriki a war criminal, even as he continued to show up as publisher each day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使正力还作为出版人每天露面，报纸标题却称正力为战犯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By December he was locked up in Sugamo Prison with the rest of Japan's suspected warmongers, charged with Class A war crimes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当年十二月正力和其他日本战贩被控以一级战争罪一起投入巢鸭监狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nuclear option</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选择核能</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prison was a bitter ordeal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>监狱生活苦不堪言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoriki took to meditating for many hours a day, while pulling every string he could to clear himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正力开始每天静坐冥想数小时，同时利用一切关系来洗脱罪名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the digital dossiers of the Tokyo War Crimes Trials, which are published online by the University of Virginia, he even at one stage begs for his release on the ground that "the life of the Yomiuri Shimbun is at stake".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由弗吉尼亚大学在线出版的东京审判数字档案显示，他有一次甚至当众乞求将其释放，原因是“《读卖新闻》危在旦夕”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly, it seems, his American jailers decided that most of the accusations against Shoriki were of an "ideological and political nature", made by striking employees who deserved little credence (America was growing nervous of the left-wing unionism it had inadvertently nurtured). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关押他的美国人似乎突然认为对于正力的多数指控都是不足为信的罢工员工基于“意识形态和政治属性”所捏造的（美国对于其无意识中培养起来的左派工会主义愈发焦虑） 。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On August 22nd 1947 a recommendation was made to free Shoriki, and he walked out after 21 months inside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1947年8月22日，一封推荐信建议释放正力，于是在牢中21个月以后，他被放了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though still purged from public life, he would later claim that his spell at "Sugamo University" was an ideal networking opportunity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管仍旧禁止参与公众生活，他后来却打趣道在“巢鸭大学”的生活让他交了许多朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It gave him access to right-wingers who would come back to rule the country, with Shoriki's help, just four years after America finally signed a peace treaty with Japan in 1951.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仅仅在1951年美日最终签署和平协议的四年后，正力就得以加入在其帮助下取得全国政权的右翼组织。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But by this stage Shoriki was 62, and had an enormous cliff to climb to achieve what he most passionately craved: political power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过其时正力已经62岁了，要得到他梦寐以求的政治权力，任务很艰巨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He used two means to get there: television, then nuclear energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的办法是电视和核能。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

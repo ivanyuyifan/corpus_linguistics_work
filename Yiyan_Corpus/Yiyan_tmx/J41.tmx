@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200213T144055Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 2 The Challenge of Change</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>变革的挑战</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The trouble with our times is that the future is not what it used to be.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们这个时代的麻烦在于我们要面对的是与以往大不相同的未来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>--Paul Valery, The Art of Poetry</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——保罗·瓦勒里(Paul Valery)《诗歌的艺术》</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the long-standing traditions in higher education is a university presidents welcoming address each fall to the new entering class of students. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在每个秋季的开学典礼上，大学校长向新生致欢迎辞是大学历来的传统之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This provides a rare opportunity to offer a few words of advice before students develop the college survival tactics of tuning out the deluge of boring/ extraneous, or confusing information that confronts them during their college days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在新生开始他们的大学生活之前，在他们还没有在被大学岁月中洪水般无聊而繁杂的信息淹没之前变革的挑战，能有一个机会向他们提供几句忠告显得非常难得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With this rare opportunity of student attentiveness in mind, I would generally begin my comments with the simple observation that our entering students would be spending most of their lives in the twenty-first century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>借着这个能够吸引学生注意力的难得机会，我将像平常一样以一个简单的观察来开始我的评论，那就是新生们将会在21世纪度过他们的大部分大学生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They would face the challenge of preparing for a time very different from the twentieth century society that shaped the lives of those on the faculty, those who would serve as their educators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们要时刻准备着面对这个与20世纪截然不同的社会所带来的挑战。而他们的教师却都是成长于20世纪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Furthermore, many of the features of the social institution responsible for their education, the university, could be traced back to far earlier times, decades or even centuries earlier.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更进一步说，这些为他们提供教育的大学，在很多方面还停留在几十年甚至几百年之前的状况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each time I raised this theme at a new student convocation, I became increasingly uneasy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当每次在新生集会上谈到这个话题时，我就开始变得不大自在了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was clear that the forces driving change in our society were far stronger than most realized. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很明显，在这个社会里，变革的力量比我们所想象的更加强大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps a more fundamental issue was whether the university, as we know it in the last years of the twentieth century, was prepared to educate the citizens, to serve the society, of a future that will almost certainly be radically different than anything we have known or even imagined.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个更加重要的，也是我们在20世纪最后几年里想要了解到的问题摆在了我们的眼前，即大学是否已经准备好了为这个与众不同的时代教育合格的公民，为这个我们不了解，甚至无从想象的社会提供服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This concern should, in fact, be neither alarming nor surprising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，这份担心既不会令人感到惊奇，也不会令人感到忧虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has been one of the most important themes throughout the long history of the university. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在大学悠久的历史中，这个主题一直都是很重要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As one of civilizations most enduring institutions, the university has been extraordinary in its capacity to change and adapt to serve a changing society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为人类文明持续最久的机构之一，大学始终具有适应变化并加以调整以服务社会的非凡能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Far from being immutable, the university has changed considerably over time and continues to do so today. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大学不是永恒不变的，大学已经被改变了很多，现在也一直处于变革之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Across our nation, the remarkable diversity of institutions of higher education, ranging from small liberal arts colleges to gigantic university systems, from storefront proprietary colleges to global /cyberspace/, universities, demonstrates the evolution of the species.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纵观我们的国家，高等教育机构呈现了惊人的多样性，从小小的文理学院到巨大的大学体系，从商店边的私营学院（proprietary colleges）到全球性的网络大学（global cyberspace universities），都说明了高等教育在种类上的巨大发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The situation of higher education today seems comparable in significance to two other periods of great change in the nature of the university in America: the period in the late nineteenth century when the major public universities first appeared, and the years following World War II, when the research university evolved to serve the needs of postwar America. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高等教育的现状是能够和美国历史上大学变革的两个时期相媲美的：19世纪晚期，重要的公立大学第一次辉煌地出现在人们的生活中；第二次世界大战结束后的若干年里，研究型大学一直为战后美国的需求服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A century ago, the Industrial Revolution was trans forming our nation from an agrarian society into the industrial giant that would dominate the twentieth century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个世纪以前，工业革命把我们的国家由农业为主的社会变成为一个能够主宰20世纪的工业巨人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The original colonial colleges, based on the elitist educational principles of Oxbridge, were joined by the land-grant state universities, committed to broad educational access and service to society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些遵循牛津剑桥教育原则所建立的最早的殖民地大学被合并到了赠地(land grant)州立大学中，为社会提供了广泛的教育服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the decades following this period, higher education saw a massive growth in enrollments at the under graduate, graduate, and professional level, as a college education became available to ever-broader elements of our society.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这之后的几十年中，高等教育目睹了本科生教育、研究生教育和专业教育的注册率的惊人增长，大学教育为社会提供了更加广阔的教育机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A similar period of rapid change in higher education occurred after World War II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个与此相似的高等教育巨变的时期是在第二次世界大战以后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The educational needs of the returning veterans, the role of the universities in conducting the research critical to national defense, and the booming postwar economy led to an explosion in both the size and number of major universities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大量的复员军人需要教育，大学在国防研究上发挥了日益重要的作用。战后经济复苏，发展迅速，这些都导致了大学在规模和数量上的膨胀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The direct involvement of the federal government in the support of student financial aid, campus-based research, and professional schools such as medicine and engineering led to the evolution of the contemporary university as we know it today.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦政府在支持学生的助学金、校本研究(campus based research) 和开展诸如医药、工程等专业学院(professional school)建设方面实施了直接有效的措施，使得当时的大学发展成了我们今天所看到的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We now face challenges and opportunities similar to those of these two earlier periods of transformation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们今天面临的机遇和挑战与那两个变革的时期极为类似。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many people point to negative factors, such as the rapidly growing costs of quality education and research during a period of limited resources, the erosion of public trust and confidence in higher education, and the deterioration in the partnership between the research university and the federal government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人也指出了其消极的因素，例如，在资源有限的时期，过快的增长是以牺牲教育与科研的质量为代价的，公众对大学逐渐失去了信任与信心，研究型大学与联邦政府的关系也在不断恶化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But far more important will be the challenges presented by fundamental changes in our society: the degree to which knowledge itself is becoming a key driving force in determining economic prosperity, national security, and social well-being; the growing interdependence of nations; the changing demography of America as we become an ever more diverse society; the search for new national priorities in a post-Cold War world; and the need to develop sustainable futures as humankind increasingly pushes against the limits of our planet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是, 最重要的仍然是变革所带来的挑战：知识成为决定经济繁荣、国家安全和人民富裕的关键；国家间的依存互动，美国人口的不断变化使得我们的社会越来越多样化；我们要研究如何在冷战后的世界赢得生机，如何让人类在这个资源已经枯竭的世界里生存发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sweeping nature and rapid pace of changes in the world we serve will demand similar changes in the university.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们所生存的世界正在经历飞速变化的时期，这就要求大学做出相应的变革。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Time of Challenge and Change</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>挑战与变革共存的时代</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are living in the most remarkable of times. Just consider, for a moment, some of the changes that have occurred in our world within the past decade： The Cold War has ended, and Communism has been rejected around the worlds swept away by the winds of freedom and democracy. A new global order is evolving. We are now manipulating the human gene directly to cure disease, and we may soon be doing it to create new life forms and possibly even influence the evolution of the human species. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们生活在一个不寻常的世界里，只要想想在过去几十年中我们的世界里所发生的巨大变革，就不难得出这样的结论：冷战结束了，共产主义在全球范围内遭到摒弃，自由与民主之风吹遍了世界，一个新的全球规则正在形成之中，我们正在尝试着掌握人类的基因来治疗疾病，我们可能创造出新的生命形式甚至影响人类种群的进化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Computing power - speed, memory, communication rate - continues to increase by a factor of one-hundredfold each decade, with worldwide networks connecting hundreds of millions of people, enabling them to communicate with ease and sophistication, any place on the planet or even beyond.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>计算机的力量——速度、挑战与变革共存的时代存储信息的能力、运算水平——在每十年中就有着百倍的增长。国际互联网将成千上万人联系起来，使地球上任何地方甚至让身处太空的人们都能进行轻松愉快的交流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet the changes in recent years are only the tip of the iceberg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些变革只是冰山的一角。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There has been a worldwide explosion of ethnic tensions, even as the nation-state has become less relevant to the world economy and security. Many of our traditional social structures have deteriorated, from our cities to our neighborhoods to the family itself. The explosion of new communication and transportation technologies has given us both new mobility and new markets, linking us both domestically and internationally in ways we never dreamed possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，在世界范围内，种族冲突不断升级，国家已经不是世界经济安全的主体，从城市到社区，从邻里到家庭，我们许多的传统社会模式已经被破坏，新的通讯与交通技术的激增给了我们更大的流动性和新的市场，以我们从未想过的方式把国内和全球的人们联系在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet it has also increasingly threatened long-standing social institutions such as businesses, governments, and perhaps universities with obsolescence and even irrelevance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这也日渐威胁到了长期存在的一些社会结构，例如事业单位、政府甚至已过时的大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some believe that we are going through a period of change in our civilization as momentous as any in our earlier history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些人相信我们正在经历人类文明史上一个重大的变革时期，如同我们以前所经历的那样；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In contrast to earlier social transformations that evolved over centuries, the changes characterizing our times occur on time scales of decades or less.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二者所不同的是早期的社会变革要历经几个世纪才能完成，而今日的变革只需要几十年甚至更短的时间就能完成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This time of great change, of shifting paradigms, provides the context in which we must consider the evolving nature of the American university. We must take great care not simply to extrapolate the past, but rather to examine the full range of possibilities for the future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这充满变革的时代，不断发展的社会模式为我们提供了一个思索美国大学本质的机会，我们不仅仅是要简单地审查自己的过去，更要推断未来世界所具有的一切可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To this end, let us first discuss in more detail the forces driving change in our world, our society, and in our social institutions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了达到这个目的，让我们首先仔细探讨推动我们的世界、我们的社会和我们的高校的巨大力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While there are many ways to classify these forces, let us consider first broader societal forces of change and then focus on those of particular importance in driving change in higher education.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有各种区分这些力量的方式，还是让我们先思索推动变革的广泛的社会力量，然后再把焦点集中到引起高等教育变革的力量上来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Age of Knowledge</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知识时代</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Looking back over history, one can identify certain periods of profound change in the nature, the fabric, of our civilization such as the Renaissance, the Age of Discovery, and the Industrial Revolution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回顾历史，人们可以通过人类文明在本质上和结构上所发生的深刻变革来判定某个时期，例如文艺复兴时期、地理大发现时期与工业革命时期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are many who contend that our society is once again undergoing such a fundamental shift in perspective and structure.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有很多人都倾向于这种说法：我变革的主题们的社会正在又一次经历观念和结构上的根本性变革。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The signs are all around us. We are evolving rapidly into a postindustrial, know edge-based society, just as a century ago an agrarian America evolved into an industrial nation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>变革的迹象随处可见，如同在一个世纪之前，美国由农业国家进化成一个工业国一样，我们现在正在进入到一个后工业时期，一个知本社会(knowledge-based society)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today industrial production is steadily shifting from material- and labor- intensive products and processes to knowledge-intensive products and services. A radically new system for creating wealth has evolved that depends upon the creation and application of new knowledge.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天的工业生产正在由以物质生产和劳动力为主的产品，平稳地向以知识为主的产品与服务转移，新知识的创造与应用成为创造物质财富的最新形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are in a transition period where intellectual capital, brainpower, is replacing financial and physical capital as the key to our strength, prosperity, and well being. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们正处于转变的时期，智力资本与人力资源正在取代金融资本与物质资本，成为我们力量、繁荣与富裕的源泉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a very real sense, we are entering a new age, an age of knowledge, in which the key strategic resource necessary for prosperity has become knowledge itself, that is, educated people and their ideas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更确切地说，我们正在进入一个新的时代——一个知识时代。知识本身也就是受教育的人和他们的思想，成为我们通向繁荣的关键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As our society becomes ever more knowledge-inten sive, it becomes ever more dependent upon those social institutions that create knowledge, that educate people, and that provide them with knowledge and learning resources throughout their lives.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的社会更加关注知识，更加依赖于创造知识的社会机构，因为它们为受教育者提供了知识与终身学习的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our rapid evolution into a knowledge-based society has been driven in part by the emergence of powerful new information technologies such as computers, digital communications networks, multimedia, and virtual reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们飞速通往知识时代的演变很大程度上取决于新信息技术的出现，如计算机、教学交流网络、多媒体与虚拟现实等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Modern electronic technologies have increased vastly our capacity to know and to do things and to communicate and collaborate with others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现代电子技术已经大大增加了我们学习、工作和与他人交流合作的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They allow us to transmit information quickly and widely, linking distant places and diverse areas of endeavor in productive new ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们让我们更快更广泛地传播信息，并通过多样的渠道把遥远的地方和不同的生活方式连接起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This technology allows us to form and sustain communities for work, play, and learning in ways unimaginable just a decade ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个技术使我们用十年前想都不敢想的方式来就工作、学习和娱乐进行交流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, our nation has been through other periods of dramatic change driven by technology, for example, the impact of the steam engine, telephone, automobile, and railroad in the late nineteenth century, which created our urban industrialized society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，我们的国家也曾经历过由技术引发的戏剧性变革，例如，19世纪末蒸汽机、电话、汽车和铁路的出现给社会带来巨大的影响，它们创造了工业化的社会，使国家开始了城市化的进程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But never before have we experienced a technology that has evolved so rapidly, increasing in power by a hundredfold every decade, obliterating the constraints of space and time, and reshaping the way we communicate, think, and learn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，我们却从未经历过技术发展如此之快的时代。技术以每十年成百倍的速度发展，冲破了时空的约束，重新塑造了我们的交流、思考与学习的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike natural resources such iron and oil that have driven earlier economic transformations, knowledge is inexhaustible. The more it is used, the more it multiples and expands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与曾经驱动了早期经济变革的钢铁与石油等自然资源不同，知识是无穷无尽的，用得越多，它增长与扩大得越快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But knowledge is not available to all. It can be absorbed and applied only by the educated mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，知识的大门从来不是为所有人敞开的，只有受过教育的人才能吸收并利用它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence, schools in general and universities in particular will play increasingly important roles as our society enters this new age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，无论是普通的学校还是具有特别意义的大学都将在我们的社会进入新世纪时发挥非常重要的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The increasingly sophisticated labor market of a knowledge-driven economy is driving new needs for advanced education and training. Even today roughly two-thirds of Americas high school graduates will pursue some form of college education, and this will likely increase as a college degree becomes the entry credential to the high- performance workplace in the years ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在知识经济下，越来越成熟的劳动力市场需要更高层次的教育与培训，就像今天的美国有大约三分之二的高中毕业生都有机会进入大学学习，这就意味着在今后几十年中，大学学历将成为寻求工作的最低门槛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is an increasingly strong correlation between the level of ones education and personal prosperity and quality of life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个人的受教育程度与他的个人福祉和生活质量之间的联系也更加紧密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the age of knowledge holds an even deeper significance for higher education. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知识时代对高等教育而言有着更深层次的意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a sense, knowledge is the medium of the university. Through the activities of discovery, shaping, achieving, transmitting, and applying knowledge, the university serves society in myriad ways: educating the young, preserving our cultural heritage, providing the basic research so essential to our security and well-being, training our professionals and certifying their competence, challenging our society and stimulating social change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从某种程度上来说，知识是大学的媒介，是发现、塑造、获取、传播和应用知识的活动。大学以多种多样的方式为社会提供服务：教育年轻人；保留我们的文化遗产；为国家安全和社会富强提供基础研究；培训我们的劳动者并评定他们的能力；挑战我们的社会并刺激其发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet in a world in which knowledge and educated people have become the key to prosperity and security, there has been an increasing tendency for society to view the university as an engine for economic growth through the generation and application of new knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知识与受教育者已经成为国家繁荣与安定的关键，人们对此已达成共识。社会上还有一种越来越明显的趋势——通过新知识的产生和应用，大学成为经济增长的发动机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From a broader perspective, just as the loss of faith in government intervention has shifted political attention away from the distribution of wealth to its production, there has been a shift of emphasis within the university away from simply distributing and analyzing knowledge, for example, "teaching" and "scholarship" to creating knowledge, to activities such as “innovation” and “creativity.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从一个更广泛的角度来说，如同政府干预的失信导致把政治注意力从财富的分配转向财富的生产一样，大学也不再仅仅满足于传播与分析知识(“教学”与“学术”)，而把目光更多地投向创造知识(“发明”与“创新”)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Demographic Change: The New Majorities</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人口构成的变化：崭新的大多数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Americans hear references to the demographic changes occurring in our nation, we probably first think of the aging of our population.7 It is true that the baby boomers have moved into middle age and soon will be approaching retirement, with worrisome consequences for our current entitlement programs such as Social Security and Medicare. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当美国人听说自己的国家正在发生人口的变革时，可能会第一次想到人口的老龄化问题。战后婴儿潮那一代已经进入中年而且很快就要退休，这给我们现行的津贴项目如社会救助和医疗保险带来麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a brief decline in the number of young adults during the 1980s and 1990s, we once again are seeing a growth in the number of college-age students, an echo of the baby boom generation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在经历了20世纪80年代和90年代一个短暂的年轻人数量下降以后，我们又重新看到了大学新生的增加，这是对婴儿潮那一代人的回应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet this growth in the number of young people is far exceeded by the growth in the number of senior citizens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，老年人数量的人口构成的变化：崭新的大多数增加大大超过了年轻人数量的增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this country, there will soon be more people over the age of sixty-five than there are teenagers, and this situation is certain to continue for the remainder of our lives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个国家，超过65岁以上的老年人很快就要超过十几岁的年轻人的数量。这种情况在我们的有生之年将会一直持续。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Furthermore, the growth rate in both our population and our workforce is declining to the lowest level in our nations history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进一步讲，我们国家人口与劳动力的增长率已达到历史最低点。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

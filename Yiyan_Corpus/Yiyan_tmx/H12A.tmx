@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>About Japan Science and Technology Agency (JST)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>日本科学技术振兴机构（JST）简介</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Japan Science and Technology Agency (JST) is one of the core institutions responsible for the implementation of science and technology policy in Japan, including the government’s Science and Technology Basic Plan. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>日本科学技术振兴机构（JST）负责日本科学和技术政策，包括政府的科学技术基本计划实施的核心机构之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From knowledge creation—the wellspring of innovation—to ensuring that the fruits of research are shared with society and Japan’s citizens, JST undertakes its mission in a comprehensive manner. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从创新的源泉知识创造，到确保研究的成果与社会与日本公民的共享，JST更全面地承担其使命。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>JST also works to provide a sound infrastructure of science and technology information and raise awareness and understanding of science and technology-related issues in Japan.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在日本，JST提供工程，科学和技术信息，并提供完善的基础设施，提高人们的认识和理解科学和技术相关的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mission: We contribute to the creation of innovation in science and technology as the core implementing agency of the fourth phase of the Science and Technology Basic Plan.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使命：有助于建立创新的科学和技术为核心的科学技术基本计划的第四阶段的执行机构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Visions:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>视野：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To achieve innovation in science and technology through creative research and development.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了实现科学和技术的创新，通过创造性的研究和发展。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To maximize research outcomes by managing research resources on the virtual network.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了最大限度地提高虚拟网络上的资源管理研究的研究成果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To develop the nation’s infrastructure for science and technology to accelerate innovation in science and technology.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了发展国家的科学和技术，加快技术创新的步伐，在科学和技术基础设施。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Description: In the third phase of the mid-term plan commenced in FY 2012, JST promotes the following operations:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>说明：在第三阶段的中期计划，在2012财年开始，JST促进以下操作：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Planning of research and development strategy for the creation of innovation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为建立创新的研究和发展战略规划</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Promoting the creation of innovation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>促进建立创新</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Strategic Basic Research Programs</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>战略基础研究发展计划</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Research and Development Programs Focused on Technology Transfer</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究与发展方案的重点是技术转移</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Support for reconstruction and revitalization after the Great East Japan Earthquake</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>支持东日本大地震后的重建和振兴</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Promotion and Support for International Cooperation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>国际合作促进和支持</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Programs to Promote the Utilization of University IP</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方案，以促进大学利用IP</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Building infrastructure for the creation of innovation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>建立创新基础设施建设</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Dissemination of Scientific and Technological Information</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学和技术信息的传播</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Promoting Science Education</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>促进科学教育</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Promoting Science Communication</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>促进科学传播</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Others</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他人</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Priority Areas: Working toward the creation of innovation in science and technology, we will focus on the following areas in accordance with the fourth phase of the national Science and Technology Basic Plan, and effectively create new systems and services by combining various programs.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>优先领域：向工作建立在科学和技术的创新，我们将重点在以下几个方面，按照国家科学技术基本计划的第四阶段，并有效地建立新的系统和服务相结合的各种方案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>science and technology policy in Japan: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1）日本科学和技术政策：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For details, please refer to website of the Ministry of Education, Culture, Sports, Science below, http://www.mext.go.jp/english/a06.htm</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有关详细信息，请参阅网站部的教育，文化，体育，科学下面，http://www.mext.go.jp/english/a06.htm</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Science and Technology Basic Plan: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2）科学技术基本计划：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Science and Technology Basic plan is drawn up based on the Science and Technology Basic Law every five year in Japan. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学技术基本计划，制定了“科学技术基本法在日本每五年的基础上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are two steps to draw up the basic plan. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有两个步骤制定的基本计划。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, Council for Science and Technology Policy (CSTP) deliberates the basic policy about science and technology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，科学和技术政策（CSTP）理事会审议的关于科学和技术的基本政策。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, based on that, the government formulates and decides a basic plan. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其次，此基础上，政府制定和决定基本计划。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The current basic plan is the 4th one. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目前的基本计划是第四个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(FY2011 - FY2015)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（FY2011 - FY2015）</seg></tuv>
+</tu>
+</body>
+</tmx>

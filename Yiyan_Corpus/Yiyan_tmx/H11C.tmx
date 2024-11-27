@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Machine Learning Summer School @Purdue</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>普度大学机器学习暑期学校</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Machine Learning is a foundational discipline of the Information Sciences. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器学习是信息科学的一门基础性学科。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It combines deep theory from areas as diverse as Statistics, Mathematics, Engineering, and Information Technology with many practical and relevant real life applications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它需要和统计、数学、工程和信息技术等领域更深层的领域的理论相结合，与此同时，也和与信息技术的实际操作，现实生活相关的应用密不可分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The aim of the summer school is to cover the entire spectrum from theory to practice. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>暑期学校的目的是从理论到实践进行系统学习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is mainly targeted at research students, IT professionals, and academics from all over the world.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它主要针对的是来自世界各地的在读研究生，IT专业人士和学者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This school is suitable for all levels, both for people without previous knowledge in Machine Learning, and those wishing to broaden their expertise in this area. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这次课程适合各个层次，包括以前不具备机器学习知识的人，以及那些希望拓宽其在这一领域的专业知识的求知者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It will allow the participants to get in touch with international experts in this field. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让参与者在这一领域的国际专家进行交流学习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Exchange of students, joint publications and joint projects will result because of this collaboration.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为这种合作，将吸引一些交换生，进行集体创作，共同参与项目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For research students, the summer school provides a unique, high-quality, and intensive period of study. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于研究生，暑期学校提供了一个独特的、高品质、强化的学习时间。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is ideally suited for students currently pursuing, or intending to pursue, research in Machine Learning or related fields. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它非常适用于目前正在攻读机器学习的研究生，或有意追求，研究机器学习或相关领域的人士。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Limited scholarships are available for students to cover accommodation and registration costs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有限的奖学金供学生支付住宿和注册费。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If funds are available partial travel support might also be provided.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果资金到位，也可能会提供部分旅费支持。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>IT professionals who use Machine Learning will find that the summer school provides relevant knowledge and exposure to contemporary techniques. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用机器学习的IT专业人士会发现，暑期学校会提供相关的知识和现代技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition, they will benefit by direct interaction with top-notch researchers and knowledge workers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，他们将受益于直接与顶尖研究人员和学者的互动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Previous experience indicates that personnel from both the industry as well as national laboratories benefit immensely from the school.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以往的经验表明，无论行业还是国家实验室的工作人员都会从学校获益匪浅。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For academics, the summer school is an excellent opportunity to help getting started in research on novel topics in Machine Learning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对学者来说，暑期学校是一个很好的机会，开始研究机器学习方面颇有创新的主题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It provides an ideal forum for networking and discussions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它提供了一个理想的论坛，用于交流和讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Academics will also benefit from interaction with IT professionals which will lead to a deeper understanding of real life problems.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学者也将受益于与IT专业人士的互动，这将使他们更深入地了解实际生活中的问题。</seg></tuv>
+</tu>
+</body>
+</tmx>

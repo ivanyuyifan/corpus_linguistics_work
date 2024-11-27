@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200920T152502Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter One POLITICAL PHILOSOPHY AND PHILOSOPHY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章 政治哲学和哲学</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>...To express various meanings on complex things with a scanty vocabulary of fastened senses. -Walter Bagehot</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>......要用限定意义的少量词汇，来表达复杂事物的多种含义。——沃尔特·白哲特</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>POLITICAL PHILOSOPHY AS A FORM OF INQUIRY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、作为一种探索形式的政治哲学</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a book about a special tradition of discourse-political philosophy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一本关于一种特别的论述传统——政治哲学的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In it I shall attempt to discuss the general character of that tradition, the varying concerns of those who have helped to build it, and the vicissitudes that have marked the main lines of its development. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在本书中我将试图讨论该传统的一般特性，那些帮助构建它的人们不断变化的关切所在，以及标志其发展主线的世事变迁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, I shall also try to say something about the enterprise of political philosophy itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，我还将尝试就政治哲学这一事业本身作一些说明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This statement of intentions naturally induces the expectation that the discussion will begin with a definition of political philosophy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对这一意图的陈述自然会导致期望讨论将从对政治哲学的定义开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To attempt to satisfy this expectation, however, would be fruitless, not merely because a few sentences cannot accomplish what an entire book intends, but also because political philosophy is not an essence with an eternal nature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但要想满足这种期望，或许是徒劳的，这不仅因为寥寥数语无法完全说明全书的意向，而且还由于政治哲学并非一个带有外部性质的实体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is, instead, a complex activity which is best understood by analyzing the many ways that the acknowledged masters have practiced it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，它是一种复杂的活动，要理解它，最好是通过对公认的大师们实践它的许多种方法进行分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No single philosopher and no one historical age can be said to have defined it conclusively, any more than any one painter or school of painting has practiced all that we mean by painting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以说，没有单独一位哲学家，也没有一个历史时代给它下了最后定义，如同没有一位画家或一个画派巳实践了我们所说的绘画的全部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there is more to political philosophy than any great philosopher has expressed, there is some justification for believing that political philosophy constitutes an activity whose characteristics are most clearly revealed over time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果说政治哲学比任何伟大哲学家已表述出来的还具有更多含义，那就是有理由相信，政治哲学构成一种活动，其特性已随时间的推移而得到最清晰的展现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stated somewhat differently, political philosophy is to be understood in the same way that we go about understanding a varied and complex tradition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换言之，要理解政治哲学，就得像我们去理解一种丰富多彩的复杂传统一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although it may not be possible to reduce political philosophy to a brief definition, it is possible to elucidate the characteristics that distinguish it from, as well as connect it with, other forms of inquiry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然也许不可能将政治哲学缩减为一则简短的定义，但有可能阐明使之与其他探索形式相区别和相联系的各种特性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shall discuss these considerations under the following headings: political philosophy's relations with philosophy, the characteristics of political philosophy as an activity, its subject-matter and language, the problem of perspectives or angle of vision, and the manner in which a tradition operates.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我将在下列标题下讨论这些想法：政治哲学和哲学的关系、作为一种活动的政治哲学的特性、它的题材和语言、透视法或视角问题，以及传统的运作方式。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ever since Plato first perceived that the inquiry into the nature of the good life of the individual was necessarily associated with a converging (and not parallel) inquiry into the nature of the good community, a close and continuing association has persisted between political philosophy and philosophy in general. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自柏拉图（Plato)首先意识到探索个人美好生活的本质必须同汇聚性(而非平行性)探索好的共同体的本质相结合至今，在政治哲学与普通哲学之间一直存在着密切而持续的联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not only have most of the eminent philosophers contributed generously to the main stock of our political ideas, but they have given the political theorist many of his methods of analysis and criteria of judgment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不但大多数卓越的哲学家为我们政治理念的重要宝库作出过慷慨的贡献，而且他们还赋予政治理论家许多分析方法和判断标准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Historically, the main difference between philosophy and political philosophy has been a matter of specialization rather than one of method or temper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在历史上，哲学和政治哲学的主要区别只是一个专门化问题，而不是方法或倾向性问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By virtue of this alliance, political theorists accepted as their own the basic quest of the philosopher for systematic knowledge.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>借助这一联盟，政治理论家一直将哲学家对于系统化知识的基本追求视为己任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a still another fundamental sense in which political theory is linked to philosophy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政治理论还在另一个基本意义上同哲学相联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Philosophy can be distinguished from other methods of eliciting truths, such as the mystic vision, the secret rite, truths of conscience or of private feelings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哲学可以同其他引出真理的方法，如神秘幻想、秘密仪式、良心或私人感情事实等区别开来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Philosophy claims to deal with truths publicly arrived at and publicly demonstrable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哲学要求论述公开获得并可公开证明的真理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, one of the essential qualities of what is political, and one that has powerfully shaped the view of political theorists about their subject-matter, is its relationship to what is "public." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，政治哲学的基本品质之一，即强烈形成政治理论家对其题材看法的，是它同“公众的”事物的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cicero had this in mind when he called the commonwealth a res publica, a "public thing" or the "property of a people." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西塞罗（Cicero)在称呼政治实体为共和国、“公众所有物”或“公民所有权”时，就已具备了这一思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of all the authoritative institutions in society, the political arrangement has been singled out as uniquely concerned with what is "common" to the whole community. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在社会的所有权威性机构中，政治设置被挑选出来独一无二地从事整个共同体的“共同的”事务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certain functions, such as national defense, internal order, the dispensing of justice, and economic regulation, have been declared the primary responsibility of political institutions, largely on the grounds that the interests and ends served by these functions were beneficial to all of the members of the community. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些职能，诸如国防、国内治安、执法和经济监管，已被宣布为政治机构的主要责任，这大部分是由于考虑到这些职能所致力的利益和目标都能有益于共同体的全体成员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only institution that ever rivaled the authority of the political order was the mediaeval Church; yet this was made possible only because the Church, in assuming the characteristics of a political regime, had become something other than a religious body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唯一曾与这种政治秩序权威相对立的，便是中世纪的教会；但其之所以成为可能，仅仅是由于教会在接受一个政体的诸特征的过程中，已变为不同于宗教实体的某种东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The intimate connection existing between political institutions and public concerns has been taken over in the practices of philosophers; political philosophy has been taken to mean reflection on matters that concern the community as a whole.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现存政治性机构与公众所关切的事务之间的密切关系，已在哲学家的实践中得到采用；政治哲学被拿来反映涉及整个共同体的事务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is fitting, therefore, that the inquiry into public matters should be conducted according to the canons of a public type of knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，这与对公众事务的探索应根据公众知识类型来进行的想法是一致的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To take the other alternative, to ally political knowledge with private modes of cognition, would be incongruous and self-defeating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选择其他途径，使政治知识与私人认知模式联姻，将会不协调并自拆台脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dramatic symbol of the right alliance was the demand of the Roman plebs that the status of the Twelve Tables of the law be transformed from a priestly mystery cognizable only by the few to a public form of knowledge accessible to all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正确联盟的戏剧性象征，是罗马平民要求把十二铜表法的地位从仅少数人认知的宗教神秘改变成一种所有人都能理解的公众知识形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FORM AND SUBSTANCE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、形式和实质</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Turning next to the subject-matter of political philosophy, even the most cursory examination of the masterpieces of political literature discloses the continual reappearance of certain problem-topics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面来谈政治哲学的题材，即使是对政治文献中的杰作最粗略的研究，也会发现某些问题性的话题不断出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many examples could be listed, but here we need mention only a few, such as the power relationships between ruler and ruled, the nature of authority, the problems posed by social conflict, the status of certain goals or purposes as objectives of political action, and the character of political knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽有大量例子可被列举出来，但在此我们只需提及几个，诸如统治者与被统治者之间的力量关系、权威的本质、由社会冲突造成的问题、某些作为政治行动目标的目的或意图的状况，以及政治知识的特性等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No political philosopher has been interested in all of these problems to the same degree, yet there has been a sufficiently widespread consensus about the identity of the problems to warrant the belief that a continuity of preoccupations has existed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政治哲学家对所有这些问题感兴趣的程度并不相同，然而关于这些问题的同一性却有着相当普遍的一致意见，这使我们有理由相信，存在着备受关注问题的延续。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor does the fact that philosophers have often violently disagreed about solutions cast doubt upon the existence of a common subject-matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哲学家们常为解决法争执不休这一事实也未引起对存在共同题材的怀疑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is important is the continuity of preoccupations, not the unanimity of response.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重要的是备受关注问题的延续，而不是反应的一致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Agreement about subject-matter presupposes in turn that those who are interested in extending knowledge of a particular field share in a common understanding about what is relevant to their subject and what ought to be excluded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对题材的一致意见转而预料到，那些有兴趣扩大关于某一特定领域知识的人们，想必对什么同他们的议题有关以及什么又该被排斥在外有着共同的理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In reference to political philosophy, this means that the philosopher should be clear about what is political and what is not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于政治哲学，这意味着哲学家应当清楚哪些是政治性的，哪些不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aristotle, for example, argued in the opening pages of the Politics that the role of the statesman (politikos) ought not to be confused with that of the slave-owner or head of a household; the first was properly political, the latter were not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，亚里士多德(Aristotle)在《政治学》开始的几页里论证说，政治家(politikos）的作用不应同奴隶主或户主的作用相混淆；前者是完完全全政治性的，后两者都不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The point that Aristotle was making is still of vital importance, and the difficulties of preserving a clear notion of what is political form the basic theme of this book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚里士多德想证明的论点至今仍具有重要意义，对什么是政治性保持一个清晰概念的困难则构成本书的基本主题思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aristotle was alluding to the troubles that the political philosopher experiences in trying to isolate a subject-matter which, in reality, cannot be isolated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚里士多德常提及政治哲学家在试图将题材隔离过程中所经历的烦恼，在现实中是无法被隔离的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are two main reasons for the difficulty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>造成困难有两个主要原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the first place, a political institution, for example, is exposed to impinging influences of a non-political kind so that it becomes a perplexing problem of explanation as to where the political begins and the non-political leaves off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，举例来说，政治机构处于非政治同类的冲击性影响之下，以致解释政治从何处开始及非政治至何处结束成为一个令人费解的难题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Secondly, there is the widespread tendency to utilize the same words and notions in describing non-political phenomena that we do in talking about political matters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其次，我们在谈论政治问题时，存在着运用那些描述非政治现象的相同词语和概念的普遍倾向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In contrast to the restricted technical usages of mathematics and the natural sciences, phrases like "the authority of the father," "the authority of the church," or "the authority of Parliament" are evidence of the parallel usages prevailing in social and political discussions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与数学和自然科学有限的技术惯用法形成鲜明对比，短语如“父亲的权威”、“教会的权威”或“议会的权威”，就是在社会和政治讨论中流行使用相同词语的证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This poses one of the basic problems confronting the political philosopher when he tries to assert the distinctiveness of his subject-matter: what is political? what is it that distinguishes, say, political authority from other forms of authority, or membership in a political society from membership in other types of associations? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这在政治哲学家试图宣称其题材的特殊性时成为他面临的基本问题之一：什么是政治性的？什么可以区分，比如说政治权威和其他形式的权威，或者说政治团体的成员资格和其他类型协会的会员身份？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In attempting an answer to these questions, centuries of philosophers have contributed to a conception of political philosophy as a continuing form of discourse concerning what is political and to a picture of the political philosopher as one who philosophizes about the political. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在尝试回答这些问题的过程中，多少世纪来的哲学家们，促成了一种政治哲学作为有关何为政治性的这一延续性论述形式的观念，也促成了政治哲学家作为从哲理角度谈论政治范畴的哲学家的形象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How have they gone about doing this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们如何经常做这件事？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How have they come to single out certain human actions and interactions, institutions and values, and to designate them "political"? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们又如何来挑选出某些人类的行动及相互作用、机构及价值观，并指明它们是“政治性的”？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the distinctive common feature of certain types of situations or activities, such as voting and legislating, that allows us to call them political? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些类型的状态或活动，如投票和立法，有何种区别性的共同特点使我们能把它们称为政治性的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or what conditions must a given action or situation satisfy in order to be called political?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者说一种特定的行动或状态必须满足哪些条件才可被称为政治性的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one sense, the process of defining the area of what is political has not been markedly different from that which has taken place in other fields of inquiry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从某种意义上说，界定关于何为政治性领域的过程，并不和发生在其他探索领域里的大相径庭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one would seriously contend, for example, that the fields of physics or chemistry have always existed in a self-evident, determinate form waiting only to be discovered by Galileo or Lavoisier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，没有人会当真坚持认为，物理或化学领域一直存在于一个不证自明和确定的形式之中，只是在等待被伽利略或拉瓦锡去发现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we grant that a field of inquiry is, to an important degree, a product of definition, the political field can be viewed as an area whose boundaries have been marked out by centuries of political discussion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我们承认，对一个领域的探索在很大程度上就是确定其界限的产物，那么政治领域就可被视为这样一个领域，其界限已被多少世纪以来的政治讨论所划清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as other fields have changed their outlines, so the boundaries of what is political have been shifting ones, sometimes including more, sometimes less of human life and thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如其他领域改变其轮廓一样，政治领域的界限也一直处于变动之中，有时包括更多的人类生活和思想，有时则包括少些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The present age of totalitarianism produces the lament that "this is a political age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当前的极权主义时代产生出这样一种哀叹：“这是一个政治性的时代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>War, fascism, concentration camps, rubber truncheons, atomic bombs, etc., are what we think about." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争、法西斯主义、集中营、橡皮警棍、原子弹等等，都是我们所考虑的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other and more serene times the political is less ubiquitous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在其他以及更平静的时代，政治概念则不至于如此无处不在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aquinas could write that "man is not formed for political fellowship in his entirety, or in all that he has ..." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奎那(Aquinas)可以写下“人不是为他作为一个整体的政治伙伴关系而塑造，或作为他所拥有的一切”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I should like to insist upon, however, is that the field of politics is and has been, in a significant and radical sense, a created one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我想坚持的是，在重要和根本意义上，政治领域现在是，并已经是一个创造出来的领域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The designation of certain activities and arrangements as political, the characteristic way that we think about them, and the concepts we employ to communicate our observations and reactions-none of these are written into the nature of things but are the legacy accruing from the historical activity of political philosophers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些属于政治领域的活动和设置，我们思考它们的特有方式，以及我们用以表达意见和反应的概念——这些无一被写入事物的本质，却都是从政治哲学家的历史活动中积累起来的遗产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not mean to suggest by these remarks that the political philosopher has been at liberty to call "political" whatever he chose, or that, like the poet of Lord Kames, he has been busy "fabricating images without any foundation in reality." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我作这些评论并非想表示，政治哲学家可任意将其所选之物称作“政治性的”，或者像诗人凯姆斯勛爵（Lord Kames)所说，他一直在忙于“制作没有任何现实基础的意象”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor do I mean to imply that the phenomena we designate political are, in a literal sense, "created" by the theorist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也不想暗示，我们指明属于政治性的现象，在文字意义上系理论家所“创造”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is readily admitted that established practices and institutional arrangements have furnished political writers with their basic data, and I shall discuss this point shortly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很容易确认，已建立的实践活动和机构设置已经为政治著作家们提供了基本的信息，我很快将会谈到这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is true, too, that many of the subjects treated by a theorist owe their inclusion to the simple fact that in existing linguistic conventions such subjects are referred to as political. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也确实，一位理论家所论述的许多题目之所以被涉及，应归功于在现存语言惯例中这些论题都被归属于政治性这一简单事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is also true, on the other hand, that the ideas and categories that we use in political analysis are not of the same order as institutional "facts," nor are they "contained," so to speak, in the facts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一方面又确实，我们在政治分析中所用的概念及范畴，并不和机构的“事实”属于同一类别，同时可以说也不“包含”在这些事实中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They represent, instead, an added element, something created by the political theorist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们却代表了一个附加成分，即由政治理论家创造出来的某种事物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Concepts like "power," "authority," "consent," and so forth are not real "things," although they are intended to point to some significant aspect about political things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些概念如“权力”、“权威”、“同意”等都不是真的“事物”，虽然它们被期待用来表示有关政治事物的某个重要方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their function is to render political facts significant, either for purposes of analysis, criticism, or justification, or a combination of all three. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们的作用是使政治事实变得意义重大，为了分析、批判或证明，或三者结合的目的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When political concepts are put into the form of an assertion, such as, "It is not the rights and privileges which he enjoys which makes a man a citizen, but the mutual obligation between subject and sovereign," the validity of the statement is not to be settled by referring to the facts of political life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当政治概念被表达为一种主张的形式，如“使一个人成为一名公民的，不是他所享有的权利和特权，而是臣民和君主相互之间的义务”，叙述的有效性并不依靠谈到政治生活的事实来决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This would be a circular procedure, since the form of the statement would inevitably govern the interpretation of the facts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这会是一个循环程序，因为该叙述的形式必然会支配事实的解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stated somewhat differently, political theory is not so much interested in political practices, or how they operate, but rather in their meaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换言之，政治理论的主要兴趣并不在于政治实践或它们如何运作，而在于它们的意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus, in the statement just quoted from Bodin, the fact that by law or practice the member of society owed certain obligations to his sovereign, and vice versa, was not as important as that these duties could be understood in a way suggestive of something important about membership and, in the later phases of Bodin's argument, about sovereign authority and its conditions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，在刚才引自博丹（Bodin)的叙述中，社会成员及其君主相互之间在法律上或实际上都负有一定义务这一事实，不如从暗示成员身份重要性的角度去理解这些义务，以及博丹后阶段论证中谈到的关于君主的权威及其条件来得重要。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,49 @@
+Afghanistan war logs: Story behind biggest leak in intelligence history
+From US military computers to a cafe in Brussels how thousands of classified papers found their way to online activists
+Julian Assange on the Afghanistan war logs: 'They show the true nature of this war' 
+US authorities have known for weeks that they have suffered a haemorrhage of secret information on a scale which makes even the leaking of the Pentagon Papers during the Vietnam war look limited by comparison.
+The Afghan war logs from which the Guardian reports today consist of 92 201 internal records of actions by the US military in Afghanistan between January 2004 and December 2009 -- threat reports from intelligence agencies plans and accounts of coalition operations descriptions of enemy attacks and roadside bombs records of meetings with local politicians most of them classified secret.
+The Guardian's source for these is Wikileaks the website which specialises in publishing untraceable material from whistleblowers which is simultaneously publishing raw material from the logs.
+Washington fears it may have lost even more highly sensitive material including an archive of tens of thousands of cable messages sent by US embassies around the world reflecting arms deals trade talks secret meetings and uncensored opinion of other governments.
+Wikileaks' founder Julian Assange says that in the last two months they have received yet another huge batch of "high-quality material" from military sources and that officers from the Pentagon's criminal investigations department have asked him to meet them on neutral territory to help them plug the sequence of leaks. He has not agreed to do so.
+Behind today's revelations lie two distinct stories: first of the Pentagon's attempts to trace the leaks with painful results for one young soldier; and second a unique collaboration between the Guardian the New York Times and Der Spiegel magazine in Germany to sift the huge trove of data for material of public interest and to distribute globally this secret record of the world's most powerful nation at war.
+The Pentagon was slow to engage. 
+The evidence they have now collected suggests it was last November that somebody working in a high-security facility inside a US military base in Iraq started to copy secret material. 
+On 18 February Wikileaks posted a single document --- a classified cable from the US embassy in Reykjavik to Washington recording the complaints of Icelandic politicians that they were being bullied by the British and Dutch over the collapse of the Icesave bank; and the tart remark of an Icelandic diplomat who described his own president as "unpredictable". 
+Some Wikileaks workers in Iceland claimed they saw signs that they were being followed after this disclosure.
+But the Americans evidently were nowhere nearer to discovering the source when on 5 April Assange held a press conference in Washington to reveal US military video of a group of civilians in Baghdad including two Reuters staff being shot down in the street in 2007 by Apache helicopters: their crew could be heard crowing about their "good shooting" before destroying a van which had come to rescue a wounded man and which turned out to be carrying two children on its front seat.
+It was not until late May that the Pentagon finally closed in on a suspect and that was only after a very strange sequence of events. 
+On 21 May a Californian computer hacker called Adrian Lamo was contacted by somebody with the online name Bradass87 who started to swap instant messages with him. 
+He was immediately extraordinarily open: "hi... how are you? ...im an army intelligence analyst deployed to eastern bagdad ... if you had unprecedented access to classified networks 14 hours a day 7 days a week for 8+ months what would you do?"
+For five days Bradass87 opened his heart to Lamo. He described how his job gave him access to two secret networks: the Secret Internet Protocol Router Network SIPRNET which carries US diplomatic and military intelligence classified "secret"; and the Joint Worldwide Intelligence Communications System which uses a different security system to carry similar material classified up to "top secret". 
+He said this had allowed him to see "incredible things awful things ... that belong in the public domain and not on some server stored in a dark room in Washington DC ...- almost criminal political backdealings ...- the non-PR version of world events and crises."
+Bradass87 suggested that "someone I know intimately" had been downloading and compressing and encrypting all this data and uploading it to someone he identified as Julian Assange. 
+At times he claimed he himself had leaked the material suggesting that he had taken in blank CDs labelled as Lady Gaga's music slotted them into his high-security laptop and lip-synched to nonexistent music to cover his downloading: "i want people to see the truth " he said.
+He dwelled on the abundance of the disclosure: "its open diplomacy ... its Climategate with a global scope and breathtaking depth ...its beautiful and horrifying ... It's public data it belongs in the public domain." At one point Bradass87 caught himself and said: "i can't believe what im confessing to you."
+It was too late. 
+Unknown to him two days into their exchange on 23 May Lamo had contacted the US military. 
+On 25 May he met officers from the Pentagon's criminal investigations department in a Starbucks and gave them a printout of Bradass87's online chat.
+On 26 May at US Forward Operating Base Hammer 25 miles outside Baghdad a 22-year-old intelligence analyst named Bradley Manning was arrested shipped across the border to Kuwait and locked up in a military prison.
+News of the arrest leaked out slowly primarily through Wired News whose senior editor Kevin Poulsen is a friend of Lamo's and who published edited extracts from Bradass87's chatlogs. 
+Pressure started to build on Assange: the Pentagon said formally that it would like to find him; Daniel Ellsberg who leaked the Pentagon Papers said he thought Assange could be in some physical danger; 
+Ellsberg and two other former whistleblowers warned that US agencies would "do all possible to make an example" of the Wikileaks founder.
+Assange cancelled a planned trip to Las Vegas and went to ground.
+After several days trying to make contact through intermediaries the Guardian finally caught up with Assange in a caf¨¦ in Brussels where he had surfaced to speak at the European parliament.
+Assange volunteered that Wikileaks was in possession of several million files which amounted to an untold history of American government activity around the world disclosing numerous important and controversial activities. 
+They were putting the finishing touches to an accessible version of the data which they were preparing to post immediately on the internet in order to pre-empt any attempt to censor it.
+But he also feared that the significance of the logs and some of the important stories buried in them might be missed if they were simply dumped raw on to the web. 
+Instead he agreed that a small team of specialist reporters from the Guardian could have access to the logs for a few weeks before Wikileaks published to decode them and establish what they revealed about the conduct of the war.
+To reduce the risk of gagging by the authorities the database would also be made available to the New York Times and the German weekly Der Spiegel which along with the Guardian would publish simultaneously in three different jurisdictions. 
+Under the arrangement Assange would have no influence on the stories we wrote but would have a voice in the timing of publication.
+He would place the first tranche of data in encrypted form on a secret website and the Guardian would access it with a user name and password constructed from the commercial logo on the cafe's napkin.
+Today's stories are based on that batch of logs. 
+Wikileaks has simultaneously published much of the raw data. 
+It says it has been careful to weed out material which could jeopardise human sources.
+Since the release of the Apache helicopter video there has been some evidence of low-level attempts to smear Wikileaks. 
+Online stories accuse Assange of spending Wikileaks money on expensive hotels (at a follow-up meeting in Stockholm he slept on an office floor); of selling data to mainstream media (the subject of money was never mentioned); or charging for media interviews (also never mentioned).
+Earlier this year Wikileaks published a US military document which disclosed a plan to "destroy the centre of gravity" of Wikileaks by attacking its trustworthiness.
+Meanwhile somewhere in Kuwait Manning has been charged under US miitary law with improperly downloading and releasing information including the Icelandic cable and the video of Apache helicopters shooting civilians in Baghdad. 
+He faces trial by court martial with the promise of a heavy jail sentence.
+Ellsberg has described Manning as "a new hero of mine". 
+In his online chat Bradass87 looked into the future: "god knows what happens now...hopefully worldwide discussion debates and reforms. 
+if not ... we're doomed."

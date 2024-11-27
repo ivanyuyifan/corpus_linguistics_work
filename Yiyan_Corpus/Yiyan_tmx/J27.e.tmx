@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 1 Decision Theory and Human Behavior</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一章 决策理论与人类行为</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>People are not logical. They are psychological.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们不随理，只随心。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Anonymous</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>佚名</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>People often make mistakes in their maths. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们常犯数学错误。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This does not mean that we should abandon arithmetic.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但这不意昧着我们应拋弃算术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Jack Hirshleifer</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Jack Hirshleifer</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Decision theory is the analysis of the behavior of an individual facing nonstrategic uncertainty—that is, uncertainty that is due to what we term "Nature” (a stochastic natural event such as a coin flip, seasonal crop loss, personal illness, and the like) or, if other individuals are involved, their behavior is treated as a statistical distribution known to the decision maker. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>决策理论，是面临非策略不确定性的个体的行为分析。即，不确定性缘于我们所谓的“自然”（诸如投掷硬币、季节性庄稼歉收、个人病患之类的随机性自然事件）；或者，若牵涉到其他个体，则决策者将其他个体行为的统计分布视为已知。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Decision theory depends on probability theory, which was developed in the seventeenth and eighteenth centuries by such notables as Blaise Pascal, Daniel Bernoulli, and Thomas Bayes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>决策理论依存于概率论，后者是在17到18世纪由Blaise Pascal， Daniel Bernouli和Thimas Bayes等人建立起来的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A rational actor is an individual with consistent preferences (§1.1). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理性行动者是具有一致性偏好的个体（§ 1. 1）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A rational actor need not be selfish. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理性行动者并非必定自私。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, if rationality implied selfishness, the only rational individuals would be sociopaths. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>的确，倘若理性意味着自私性，则唯有天良丧尽者才会是理性之人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beliefs, called subjective priors in decision theory, logically stand between choices and payoffs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>信念，即决策理论中的主观先验，合理地存在于选择和贏利之间。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beliefs are primitive data for the rational actor model. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于理性行动者模型，信念是初始数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, beliefs are the product of social processes and are shared among individuals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，信念是社会过程的产物，并且会在个体之间分享。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To stress the importance of beliefs in modeling choice, I often describe the rational actor model as the beliefs, preferences and constraints model, or the BPC model. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在建模选择中，为强调信念的重要性，我常常将理性行动者模型说成是信念、偏好和约束（beliefs， preferences and constraints）模型，或BPC模型。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The BPC terminology has the added attraction of avoiding the confusing and value-laden term "rational.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为术语BPC有助于回避容易令人混淆且意义过于丰富的“理性”一词。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The BPC model requires only preference consistency, which can be defended on basic evolutionary grounds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>BPC模型仅仅要求偏好的一致性，这个偏好一致性可谓得到了基本的进化理由的支持。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While there are eminent critics of preference consistency, their claims are valid in only a few narrow areas. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管有很多针对偏好一致性的猛烈批判，但那些批判意见只能在非常狭小的范围内成立。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because preference consistency does not presuppose unlimited information-processing capacities and perfect knowledge, even bounded rationality (Simon 1982) is consistent with the BPC model.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为偏好一致性并没有预先假定无限的信息处理能力和完美的知识，即便有限理性（Simon，1982）也与BPC模型相符。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1 Because one cannot do behavioral game theory, by which I mean the application of game theory to the experimental study of human behavior, without assuming preference consistency, we must accept this axiom to avoid the analytical weaknesses of the behavioral disciplines that reject the BPC model, including psychology, anthropology, and sociology (see chapter 12).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若不假设偏好一致性，人们就无法研究行为博弈论——我的意思是指将博弈论应用于人类行为的实验研究，所以我们必须接受偏好一致性公理，以回避那些拒绝BPC模型的行为学科（包括心理学、人类学和社会学；见第12章）的分析缺陷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Behavioral decision theorists have argued that there are important areas in which individuals appear to have inconsistent preferences. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>行为决策理论家主张，在许多重要场合，个人似乎具有非一致性的偏好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Except when individuals do not know their own preferences, this is a conceptual error based on a misspecification of the decision maker's preference function. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，这是基于错误设定决策者偏好函数的概念之失，除非个人不清楚自己的偏好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We show in this chapter that, assuming individuals know their preferences, adding information concerning the current state of the individual to the choice space eliminates preference inconsistency. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在本章我们会说明，假定个人清楚其偏好，再附加上与选择空间关系重大的个人现状信息，就可以消除偏好的不一致性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moreover, this addition is completely reasonable because preference functions do not make any sense unless we include information about the decision maker's current state. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且这种附加是完全合理的，因为，除非将决策者现状的有关信息包括进来，否则偏好函数便没有任何意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When we are hungry, scared, sleepy, or sexually deprived, our preference ordering adjusts accordingly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我们饥饿、恐慌、困乏或性饥渴时，我们的偏好序便会相应调整。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The idea that we should have a utility function that does not depend on our current wealth, the current time, or our current strategic circumstances is also not plausible. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>想找到一个不依存于我们当前财富、当前时间或当前策略环境的效用函数，这样的想法并不合理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Traditional decision theory ignores the individual's current state, but this is just an oversight that behavioral decision theory has brought to our attention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>传统的决策理论忽视了个人现状，而这又恰恰是行为决策理论唤醒我们注意到的疏忽之处。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Compelling experiments in behavioral decision theory show that humans violate the principle of expected utility in systematic ways (§1.7). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>行为决策理论中那些令人信服的实验表明，人类系统地违背了期望效用原理 （§ 1. 7）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Again, is must be stressed that this does not imply that humans violate preference consistency over the appropriate choice space but rather that they have incorrect beliefs deriving from what might be termed "folk probability theory” and make systematic performance errors in important cases (Levy 2008).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>必须再次强调，这并非意味着人类违背了恰当的选择空间上的偏好一致性，而是人们拥有从或可称为“俗概率论”的理论中推衍出的错误信念，并在一些重要场合犯下系统性的行为失误（Levy，2008）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To understand why this is so, we begin by noting that, with the exception of hyperbolic discounting when time is involved (§1.4), there are no reported failures of the expected utility theorem in nonhumans, and there are some extremely beautiful examples of its satisfaction (Real 1991). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要理解何以如此，我们利用涉及到时间的双曲线贴现之例外情况（§ 1. 4），从评论如下看法开始。在非人类物种中，不曾有研究指出期望效用定理失效，反倒有一些满足它的绝好例子（Real，1991）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moreover, territoriality in many species is an indication of loss aversion (Chapter 11). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，在很多物种中，地盘权是损失厌恶的表现（第11章）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The difference between humans and other animals is that the latter are tested in real life, or in elaborate simulations of real life, as in Leslie Real's work with bumblebees (1991), where subject bumblebees are released into elaborate spatial models of flowerbeds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人类与其他动物的差异在于，后者在现实生活或精心模拟的现实生活——如Leslie Real（1991）利用大黄蜂进行的研究，其中受试的大黄蜂被释放到精心设计的花圃空间模型里中受到了检验。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Humans, by contrast, are tested using imperfect analytical models of real-life lotteries. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相反，人类所受的检验则是利用不完美的现实彩票事件的解析模型来进行的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While it is important to know how humans choose in such situations, there is certainly no guarantee they will make the same choices in the real-life situation and in the situation analytically generated to represent it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管，弄清楚人们在这样的情形中将如何选择是很重要的，但这肯定不能保证在现实情形或者经分析所创造出的 用以代表现实的情形中，人们将会做出同样的选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Evolutionary game theory is based on the observation that individuals are more likely to adopt behaviors that appear to be successful for others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>演化博弈论正是基于这样的观察：个体更可能采用看上去比其他行为更成功的行为。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A heuristic that says "adopt risk profiles that appear to have been successful to others” may lead to preference consistency even when individuals are incapable of evaluating analytically presented lotteries in the laboratory.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“采纳看上去比其他风险组合更成功的风险组合”的直觉推断，可以得到偏好一致性，即便在个体没有能力评估实验室中经分析而提供的彩票时也是如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition to the explanatory success of theories based on the BPC model, supporting evidence from contemporary neuroscience suggests that expected utility maximization is not simply an "as if” story. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除了基于BPC模型的理论在解释方面的成功之外，来自当代神经科学的支持性证据也表明，期望效用最大化并非简单的“仿佛是”（as if）故事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, the brain's neural circuitry actually makes choices by internally representing the payoffs of various alternatives as neural firing rates and choosing a maximal such rate (Shizgal 1999; Glimcher 2003; Glimcher and Rusti-chini 2004; Glimcher, Dorris, and Bayer 2005). Neuroscientists increasingly find that an aggregate decision making process in the brain synthesizes all available information into a single unitary value (Parker and Newsome 1998; Schall and Thompson 1999). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，大脑神经回路确实会将不同选择的赢利内在地表现为神经放电率来做出选择，并且会选择最大的神经放电率（Shizgal，1999；Glimcher， 2003；Dorris and Glimcher，2003；Glimcher and Rustichini 2004；Glimcher， Dorris and Bayer， 2005）神经科学家日益发现，大脑中的加总决策过程会将所有可得的信息合成为单独统一的值（Parker and Newsome，1998；Schall and Thompson， 1999）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, when animals are tested in a repeated trial setting with variable rewards, dopamine neurons appear to encode the difference between the reward that the animal expected to receive and the reward that the animal actually received on a particular trial (Schultz, Dayan, and Montague 1997; Sutton and Barto 2000), an evaluation mechanism that enhances the environmental sensitivity of the animal's decision making system. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>的确，当动物在设置有可变奖赏的重复实验中受试时，多巴胺（dopamine）神经元似乎对动物预期获得的奖赏和动物在特定实验中实际获得的奖赏之间的差异进行了编码（Schultz，Dayan and Montague，1997；Sutton and Barto，2000），此编码评价机制强化了动物决策制定系统对环境的敏感性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This error prediction mechanism has the drawback of seeking only local optima (Sugrue, Corrado, and Newsome 2005). Montague and Berns (2002) address this problem, showing that the orbitofrontal cortex and striatum contain a mechanism for more global predictions that include risk assessment and discounting of future rewards. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种差错预报机制有一个缺点，就是只能寻找局部最优（Sugrue，Corrado and Newsome，2005）0 Montague 和 Berns（2002）探究了这个问题，结果表明，B匡额叶皮质（orbitofrontal cortex）和纹状体（striatum）包含了一个更大程度上进行全局预报的机制，此种全局预报包括风险评估以及对未来奖赏的贴现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Their data suggest a decision-making model that is analogous to the famous Black-Scholes options-pricing equation (Black and Scholes 1973).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们的研究数据表明，决策制定模型类似于著名的Bhck-Schoks期权定价方程（Black and Scholes，1973）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The existence of an integrated decision-making apparatus in the human brain itself is predicted by evolutionary theory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人类大脑中存在集成的决策制定器官，本身就可从演化理论中得到预示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The fitness of an organism depends on how effectively it make choices in an uncertain and varying environment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>生命有机体的适存性取决于它在一个不确定且不断变化的环境中如何有效地做出选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Effective choice must be a function of the organism's state of knowledge, which consists of the information supplied by the sensory inputs that monitor the organism's internal states and its external environment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有效选择必定是生命有机体知识之状态的一个函数；这些知识由监督内部状态和外部环境的感知输人器官所提供的信息来组成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In relatively simple organisms, the choice environment is primitive and is distributed in a decentralized manner over sensory inputs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在相对简单的生命有机体中，对环境的选择是原始的，且以分散的方式分布于感知输人器上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But in three separate groups of animals, craniates (vertebrates and related creatures), arthropods (including insects, spiders, and crustaceans), and cephalopods (squid, octopuses, and other mollusks), a central nervous system with a brain (a centrally located decision-making and control apparatus) evolved. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，在三类不同的动物群体中，即颅骨动物（脊椎动物及相关生物）、节肢动物（含昆虫、蜘蛛和甲壳类动物）和头足动物（鱿鱼、章鱼及其他软体动物），进化出了具有大脑的中枢神经系统（在决策制定和器官控制中处于中心地位）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The phylogenetic tree of vertebrates exhibits increasing complexity through time and increasing metabolic and morphological costs of maintaining brain activity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脊椎动物的生物进化树，展示了随时间流逝而日益增加的复杂性，以及日益增加的维护大脑活动的代谢和形态成本。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, the brain evolved because larger and more complex brains, despite their costs, enhanced the fitness of their carriers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从而，大脑的进化是因为更大容量和更复杂的大脑强化了其载体的适存性，尽管这有其代价。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Brains therefore are ineluctably structured to make consistent choices in the face of the various constellations of sensory inputs their bearers commonly experience.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，大脑必然被结构化，以便在面临不同感知输入丛时做出与其常识经验相符的选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Before the contributions of Bernoulli, Savage, von Neumann, and other experts, no creature on Earth knew how to value a lottery. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若没有Bernoulli、Savage、von Neumann及其他专家的贡献，世上将无人知道如何评估彩票。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The fact that people do not know how to evaluate abstract lotteries does not mean that they lack consistent preferences over the lotteries that they face in their daily lives.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，人们不知道如何评估抽象彩票这一事实，并不意味着人们对日常生活中面临的彩票会缺乏一致性偏好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Despite these provisos, experimental evidence on choice under uncertainty is still of great importance because in the modern world we are increasingly called upon to make such "unnatural” choices based on scientific evidence concerning payoffs and their probabilities.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管有这些附带条件，有关不确定性选择的实验证据仍然非常重要；因为在现代社会，我们日益需要在有关贏利及其概率的科学证据的基础上来做出此类“不合常理”的选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1.1 Beliefs, Preferences, and Constraints</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1 信念、偏好和约束</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this section we develop a set of behavioral properties, among which consistency is the most prominent, that together ensure that we can model agents as maximizers of preferences.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在本节中我们将提出一系列行为性质，其中一致性是最重要的。把这些性质放在一起，便可确保我们把行为主体当作偏好最大化者进行建模。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A binary relation. . .A on a set A is a subset of A x A. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>集合A上的一个二元关系. . .A，是AXA的一个子集。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We usually write the proposition (x,y) . . .A as x . . . A y. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常，我们将命题 （x，y）. . .A写为x. . .Ay。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For instance, the arithmetical operator "less than”(&lt;) is a binary relation, where (x,y) . . .&lt; is normally written x &lt; y. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，运算符“小于”（&lt;）是一个二元关系，（x，y）. . .&lt;一般写为x&lt;y。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A preference ordering ≥A on A is a binary relation with the following three properties, which must hold for all x,y,z . . . A and any set B:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>A上的偏好序≥A，是具有如下三个性质的二元关系，这三个性质必须对所有的x，y，z. . .A及任意集合B成立：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Complete: x ≥A y or y ≥A x;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.完备性：要么x≥Ay，要么y≥Ax；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Transitive: x ≥A y and y ≥A z imply x≥A z;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2.传递性：若x≥Ay且y≥Az，则有x≥Az；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Independent of irrelevant alternatives: For x,y . . . B, x≥ By if and only if x≥ A y.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.无关选择的独立性：对于x，y. . .B，当且仅当x≥Ay时有x≥By。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because of the third property, we need not specify the choice set and can simply write x ≥ y. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于第三个性质，当我们无需设定选择集时可以简单地写为x≥y。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We also make the behavioral assumption that given any choice set A, the individual chooses an element x . . .A such that for all y . . . A, x ≥ y. When x ≥ y, we say "x is weakly preferred to y .”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们对行为也做出如下假设：给定任一集合A，对于y. . .A，x≥y，个人将选择元素x. . .A，当x≥y，我们称“x弱优于y”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first condition is completeness, which implies that any member of A is weakly preferred to itself (for any x in A, x ≥ x). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一个条件即完备性，它意味着集合A中的任一元素都弱优于其自身（对于A 中的任一个x有x≥x）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In general, we say a binary relation . . . is reflexive if, for all x, x. . .x. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常，对于所有的x若有x. . .x，则我们称二元关系. . .是自反的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, completeness implies reflexivity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因而，完备性蕴含着自反性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We refer to ≥ as "weak preference” in contrast with "strong preference” &gt;. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们用≥表示“弱优于”，以区别于“强优于”&gt;。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We define x &gt; y to mean "it is false that y ≥ x.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们定义x&gt;y意指“y≥x不成立”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We say x and y are equivalent if x ≥ y and y ≥ x, and we write x . . . y. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若x≥y且y≥x，则我们称x和y是等价的，记为x. . .y。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As an exercise, you may use elementary logic to prove that if  ≥ satisfies the completeness condition, then &amp;gt; satisfies the following exclusion condition: if x &amp;gt; y, then it is false that y &gt; x.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为一个练习，大家不妨用初等逻辑学知识去证明，若≥满足完备性条件，则&amp;gt会满足如下相斥条件：若x&gt;y，则y&gt;x不能成立。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second condition is transitivity, which says that x ≥ y and y ≥ z imply x ≥ z. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二个条件是传递性，它说的是若x≥y且y≥z，则x≥z。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is hard to see how this condition could fail for anything we might like to call a preference ordering. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于任意的我们可称为偏好序的东西，这个条件几乎都不会失效。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As a exercise, you may show that x &gt; y and y ≥ z imply x &gt; z, and x ≥ y and y &gt; z imply x &gt; z.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为一个练习，大家可证明x&gt;y且y≥z将有x&gt;z，而x≥y且y&gt; z将有x &gt;z。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Similarly, you may use elementary logic to prove that if ≥ satisfies the completeness condition, then . . . is transitive (i.e., satisfies the transitivity condition).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样，大家可用初等逻辑学知识证明，若≥满足完备性条件，则. . .是传递的（即满足传递性条件）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The third condition, independence of irrelevant alternatives (IIA) means that the relative attractiveness of two choices does not depend upon the other choices available to the individual. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第三个条件，无关选择的独立性（IIA），指的是两个选择的相对吸引力，并不 取决于个人的其他可行选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For instance, suppose an individual generally prefers meat to fish when eating out, but if the restaurant serves lobster, the individual believes the restaurant serves superior fish, and hence prefers fish to meat, even though he never chooses lobster; thus, IIA fails. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，假设一个人外出吃饭时喜欢肉甚于鱼，然而如果饭馆提供虾，此人则会认为饭馆提供了优质的鱼并因而偏好鱼甚于肉，尽管他没有选择虾；从而，IIA条件失效了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When IIA fails, it can be restored by suitably refining the choice set. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当IIA失效，它可以由一个适当改善之后的选择集来恢复。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For instance, we can specify two qualities of fish instead of one, in the preceding example. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，在前面的例子中，我们可规定两种鱼的质量来取代一种质量。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More generally, if the desirability of an outcome x depends on the set A from which it is chosen, we can form a new choice space . . .*, elements of which are ordered pairs (A,x), where x . . .A. . . *, and restrict choice sets in . . .*to be subsets of . . .* all of whose first elements are equal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更一般地，若结果x的合意性依存于其来源集合A，则我们可构建一个新的选择空间化，其中的元素为有序对（A，x），这里x. . .A. . .*，并且将. . .*中的选择集限定为. . .*的所有第一个元素相等的子集。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this new choice space, IIA is trivially satisfied.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这个新的选择空间中，IIA条件便轻松得到满足。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When the preference relation ≥is complete, transitive, and independent of irrelevant alternatives, we term it consistent. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当偏好关系≥是完备的、传递的，并且是独立于无关选择的，我们称之为是一致的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If ≥ is a consistent preference relation, then there will always exist a preference function such that the individual behaves as if maximizing this preference function over the set A from which he or she is constrained to choose. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若≥是一致的偏好关系，则总是存在一个效用函数，使得个体仿佛是从约束其选择的集合a中采取行动最大化其效用函数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Formally, we say that a preference function u w A → R represents a binary relation ≥ if, for all x,y . . . A, u(x)≥ u(y) if and only if x ≥ y. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用正式的语言说，对于所有的x，y. . .A，若当且仅当x≥y时有u（x）≥u（y），则偏好函数u：A →R就代表了一个二元关系≥。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We have the following theorem.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>于是我们有如下定理：</seg></tuv>
+</tu>
+</body>
+</tmx>

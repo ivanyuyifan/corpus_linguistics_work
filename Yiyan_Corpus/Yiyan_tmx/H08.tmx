@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T125511Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world economy and trade in 2014 and early 2015</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年至2015上半年世界经济和贸易</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>World trade growth remained modest in the opening months of 2015 following three years of weak expansion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年世界贸易增长仍保持适中增速，与前三年相比有微小的扩张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Annual increases in merchandise trade in volume terms were very small in that period, measuring just 2.5 per cent in 2014, 2.5 per cent in 2013, and 2.2 per cent in 2012. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在此期间货物贸易量年度增量非常小，据测增量仅为2014年的2.5%，2013年的2.5%，和2012年的2.2%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The exports of developing and emerging economies grew faster than those of developed countries in 2014, 3.1 per cent in the former and 2.0 per cent per cent in the latter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展中国家和兴新经济体的出口增长快于发达国家，在2014年，前者增长为3.1%，后者为2.0%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, imports of developing countries grew more slowly than those of developed economies, 1.8 per cent compared to 2.9 per cent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，1.8%比较于2.9%，发展中国家进口增长慢于发达国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seasonally adjusted quarterly trade volume indices for the first quarter of 2015 showed import demand accelerating indeveloped economies but slowing in developing countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对2015年第一季度的季度贸易量进行季度调整（由一个调整计算方法，从一个季度数据推算整年贸易量）显示发达国家进口需求增加，然而发展中国家放缓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Introduction</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.简介</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The modest 2.5 per cent rise in world merchandise trade volume in 2014 was again roughly equal to the 2.5 per cent increase in world GDP for the year (seeFigure 1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年世界货物贸易量有适度的2.5%增长再次与当年世界GDP的2.5%增长持平（见图一）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It also marked the third consecutive year in which world trade volume grew less than 3 per cent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也表明连续第三年世界贸易量的增长低于3%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trade growth averaged just 2.4 per cent between 2012 and 2014, the slowest rate on record for a three-year period when trade was expanding (excluding years like1975 and 2009 when world trade actually declined).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2012至2014年间贸易增长平均仅为2.4%，是在贸易扩张年份中以三年为一周期的最低纪录。（除去1975和2009这样的年份当时世界贸易实际上是下降的）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several factors contributed to the sluggishness of trade and output in 2014 and in the first half of 2015, including slowing GDP growth in emerging economies, an uneven economic recovery in developed countries, and rising geopolitical tensions, among others.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个因素导致了2014年和2015上半年贸易和产出疲软，包括新兴经济体GDP增长放缓，发达国家不太顺利的经济复苏，和增加的地缘政治紧张，还有其他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Strong exchange rate fluctuations, including an appreciation of roughly 15 per cent in the US dollar against a broad basket of currencies since the start of 2014, further complicated the trade situation and outlook.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>剧烈的汇率波动，包括，从2014年年初，一篮子货币中的美元大概升值了15%，使得贸易形势和前景更加复杂。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Collapsing world oil prices in 2014 (down 47 per cent between 15 July and 31 December) and weakness in other commodity classes hit export receipts and reduced import demand in exporting countries, but also boosted real incomes and imports in importing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年暴跌的石油价格（下跌了47%，在7月15日至12月31日之间）和疲软的其他产品种类对产品出口国而言，打击了出口收入并减少了进口需求。但是对于产品进口国而言，增加了实际收入和进口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether this development would turn out to be positive or negative on balance for world trade in 2015 was still unclear at the end of the second quarter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个变化在2015年的国际收支平衡上将被证明是正面的或负面的在第二季度结束前仍不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 3.5 per cent year-on-year increase in the first quarter suggested that trade growth for the year would be slightly stronger than in 2014 (although still below average), but prospects for the second half of the year were clouded by several risk factors including theGreek sovereign debt crisis, slowing economic growth in emerging economies, and the possibility of rising interest rates in the United States.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与去年同期相比（后称同比）本年第一季度3.5%的增长将稍微强于2014年（尽管仍旧低于平均水平（平均水平为5%，见图1）），但是下半年的前景被几个风险因素蒙上阴影，包括希腊主权债务危机、新兴经济体经济增长放缓、和美国加息的可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 2.5 per cent growth rate for world trade in 2014 refers to the average of merchandise exports and imports involume terms, i.e. adjusted to account for differences ininflation and exchange rates across countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年2.5%世界贸易增长率，所提及的货物贸易进出口量平均水平，是经调整解释的，由于不同国家之间通胀和汇率不同而异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pace of trade expansion last year ended up being well below analysts' predictions at the start of the year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去年贸易扩张的脚步以大大低于年前预测告终。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A number off actors contributed to the initial overestimates, most of which could not have been anticipated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些因素造成了大多最初的高估不能够达到预期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sharp declines in commodity prices since July2014 were not foreseen and did not figure in early economic forecasts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从2014年7月的初级商品价格暴跌在早先的经济预测中没有被预见和指出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oil price drop was driven by surging production in North America, although falling demand in emerging markets also played a part.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>石油价格下跌是由北美石油产量激增引起的（北美“页岩气革命”背景），不过兴新市场的需求下降也占据部分因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the start of 2014, most economic forecasters were predicting above-trend GDP growth in the UnitedStates and near-trend growth in the euro area. Both predictions promised to support increasing trade but neither materialized, as a mix of strong and weak quarterly GDP results in the United States only produced average growth for the year, while activity in the euro area was consistently mediocre. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2014年年初，大多数经济预测者预测美国GDP增长高于世界平均趋势（2.5%），欧元区接近于世界平均趋势（2.5%）两个预期都指向都支持贸易增长，但是两者都没有实现，美国各个季度强弱交替的GDP数据的结果仅仅达到本年世界平均水平，同时欧元区经济活动持续平常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Geopolitical tensions and natural phenomena also weighed on trade growth in 2014. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地缘政治紧张和自然现象也使得2014年贸易增长堪忧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The crisis in theUkraine persisted throughout the year, straining trade relations between Russia on the one hand and theUnited States and European Union on the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乌克兰危机持续整年，一方面使得与俄罗斯贸易关系紧张，另一方面是美国与欧洲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conflict in the Middle East also stoked regional instability, as did an outbreak of Ebola haemorrhagic fever in WestAfrica. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中东冲突和西非埃博拉出血热的爆发激发了地区不稳定性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, declines in first quarter trade and output in the United States were attributed to unusually harsh winter weather and a port strike.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，美国15年第一季度贸易和产出的减少归因于不寻常的恶劣冬季气候和港口罢工。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the opening months of 2015, a variety of economic data, including quarterly GDP statistics and surveys of business sentiment, pointed to a firming of the recovery in the European Union, an easing of output growth in the United States, and moderating activity in emerging economies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年开始的几个月，多样的经济数据，包括季度GDP统计和商业情绪调查欧盟经济正在稳健的复苏，美国产出增长持平，和新兴经济体经济活动适度偏低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The euro area saw GDP increases of1.6 per cent (annualized) in both the last quarter of2014 and the first quarter of 2015 after recording growth of 0.7 per cent on average in the previous three quarters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧元区可见GDP增长1.6%（年化的）在2014最后一个季度和2015第一季度也是，由前三季度平均0.7%的增长记录得出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, growth turned slightly negative in the United States in the first quarter after three quarters of solid growth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，美国在三个季度的稳固增长后2015第一季度增长转向轻微负面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly contrasting results were seen in emerging economies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>类似的对比结果可见于新兴经济体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China's GDPgrowth slowed for the third consecutive quarter in the first quarter of 2015, but remained strong compared to other countries at around 5.5 per cent (annualized).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国GDP增长到2015年第一季度已连续第三个季度放缓。但5.5%（年化的）增速相比于其他国家仍旧强劲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, India's growth accelerated to 8.7 per cent while Brazil's economy registered a decline of 0.8 per cent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，印度增长加速至8.7%，但是巴西经济录得0.8%负增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, economic activity in Russia was weak throughout 2014 and in early 2015.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时2014年全年至2015年年初俄罗斯经济活动疲软。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the vantage point of the second quarter of 2015, the divergence of monetary policies in the United States and the euro area was seen as a significant risk to global trade and output in the second half of the year,as the Federal Reserve contemplated raising interest rates just as the European Central Bank was entering a phase of monetary easing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从2015年第二季度的有利点出发，美国和欧元区的财政政策分歧（美：加息，欧：减息）对于下半年的全球贸易和产出，被视为一个重大风险。分歧是，美联储考虑加息而此时欧洲央行进入货币宽松政策（减息）实行阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rising interest rates in the United States could have unpredictable knock-on effects in developing economies, stoking volatility infinancial markets, exchange rates and investment flows.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国加息可能产生对发展中国家产生不可预料的连锁反应，引起金融市场、汇率、和投资流的动荡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rough two-to-one relationship that prevailed for many years between world trade volume growth and world GDP growth appears to have broken down, as illustrated by the fact that trade and output have grown at around the same rate for the last three years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界贸易量增长和世界GDP增长之间盛行多年的大致为2:1关系看来已被打破，据事实解释，在最近三年贸易和产出增长大约是相同速率（2.5%，见图1）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Based on first quarter results in 2015, modest recoveries inboth world trade and output appear to be underway in the first half of 2015, which suggests little change in this ratio for the year.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跟据2015年第一季度数据结果，2015年上半年在世界贸易和产出的复苏正在进行，这意味着本年的比率发生微小变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trade developments in 2014</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2. 2014年贸易变化</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Annual data on merchandise and commercial services trade in current US dollar terms are presented inAppendix Tables 1 to 6. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以当前美元计算的（未考虑美元指数，指美元名义价值）年度货物贸易和商业服务贸易数据资料展示在附录 表 1-6。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These tables show that the dollar value of world merchandise trade stagnated in 2014, as exports rose just 0.6 per cent to US$ 18.93trillion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此表显示了，在2014年以美元价值衡量的世界货物贸易停滞不前，出口增长仅为0.6%，18.93万亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This growth rate is lower than the one for merchandise trade in volume terms mentioned above (2.5 per cent for the average of exports and imports), reflecting falling export and import prices from one year to the next, particularly for primary commodities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个增长率低于上文提到的以数量计的货物贸易量（进出口平均增长2.5%），反映了进出口商品价格逐年下降，尤其是初级商品。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By comparison, growth in the dollar value of world commercial services exports was stronger, increasing by 4 per cent in 2014 to US$ 4.85 trillion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对比，以美元价值衡量的世界商业服务出口增长强劲，增长了4%，4.85万亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It should be noted that the commercial services values are compiled using a new services classification in the balance of payments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特别指出商业服务贸易价值按照《新国际服务贸易收支手册》编撰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus, figures are not directly comparable to those from earlier years.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，数据不能够与早些年的数据做直接比较。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One striking feature of the merchandise trade values in 2014 is the weakness of trade flows in natural resource exporting regions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年货物贸易的一个显著特征是出口自然资源地区的贸易额疲软。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dollar value of exports from South America, the Commonwealth ofIndependent States (CIS), Africa and the Middle East fell 5.8 per cent, 5.8 per cent, 7.6 per cent and 4.4 percent, respectively, as lower commodity prices cut into export revenues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南美、独联体、非洲和中东以美元价值衡量的出口额分别下降了5.8%、5.8%、7.6%、和4.4%，由于下跌的初级商品价格减少了出口收入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sharp drop in South America's imports (4.6 per cent) reflected recessionary conditions in leading regional economies, while an even steeper decline in CIS imports (11.4 per cent)stemmed from a combination of factors, including falling oil prices and regional conflict.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南美进口的急剧下降（4.6%）反应了主要地区和国家的经济衰退，同时，独联体进口有更陡峭的下降（11.4%），由综合因素引起，包括油价下降和地区冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) Quarterly merchandise trade developments</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（a）季度货物贸易变化</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For broad country aggregates and regions that do not export natural resources predominantly, trade statistics in volume terms provide a clearer picture of trade developments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以数量衡量的贸易数据清晰表明了贸易的发展情况，国家和地区合计中自然资源出口并不占据主导地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The WTO and UNCTAD jointly produce a variety of short-term trade statistics, including seasonally adjusted quarterly merchandise trade volume indices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>WTO（世贸组织）和UNCTAD（联合国贸易和发展会议）联合制作了不同类型的短期贸易数据，包括季节调整的季度货物贸易额指数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These are shown in Figure 2 by level of development.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些展示在 表-2 变化水平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>World exports in volume terms only increased by 2.0per cent in the first half of 2014 compared to the same period in 2013, but year-on-year growth in the second half rose to 3.4 per cent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以数量衡量的世界货物出口在2014年上半年同比2013年仅仅增长了2.0%，但是下半年同比增长提高到3.4%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Exports of developed and developing/emerging economies were both slow in the first half (1.7 per cent and 2.6 per cent, respectively) but shipments from developing/emerging countries grew faster in the second half (2.4 per cent for developed,4.8 per cent for developing).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发达国家和发展中国家或新兴经济体出口增长变化都在上半年减缓（分别为1.7%和2.6%）。但是发展中国家或新兴经济体在下半年增长更快（发达国家：2.4%，发展中国家：4.8%）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Weak import demand in the European Union has weighed heavily on world trade in recent years due to the large share of the EU in world imports (32 per cent in 2014 including trade between EU member countries,15 per cent excluding it). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近几年欧盟进口需求疲软加重了世界贸易的负担，归因于欧盟在世界进口中所占的巨大份额（在2014年，包括欧盟成员间贸易所占的份额是32%，不包括成员间贸易所占份额是12%）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Quarterly EU trade volume developments are shown in Figure 3.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧盟季度贸易变化展示在 图-3.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Extra-EU exports in volume terms were flat for most of 2014 as demand in trading partners faltered.Meanwhile, EU imports staged a recovery as total imports (i.e. intra plus extra) rose 3.2 per cent over the previous year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除去内部贸易的欧盟的以数量来衡量的出口额与2014年大致持平（含有下降），表现在对贸易伙伴的需求下降。同时欧盟进口发生复苏，体现在总进口额（欧盟内部成员之间加欧盟对外的）同比上一年增长3.2%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imports stalled toward the end of the year, growing 0 per cent in the fourth quarter before resuming their upward trajectory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进口增长在年末逐渐停顿，在恢复上升轨迹前第四季度增长率为0%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A strong economic recovery in Europe may be necessary before the world can expect to see higher rates of global trade growth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在世界经济预期达到更高的贸易增长前，欧洲强劲的经济复苏也许是非常有必要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Regional trade developments in volume terms are shown in Figure 4. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以数量衡量的地区间贸易变化情况展示在 图-4。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Asia and North America had the fastest export growth in 2014. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚洲和北美有最快的出口增长在2014年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shipments from South America and other regions (i.e. Africa, the CIS and the MiddleEast) were mostly flat, but this is to be expected since traded quantities of oil and other natural resources tend to be insensitive to price changes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南美和其他地区（非洲、独联体和中东）的货物贸易大致无变化，但是这要求石油和其他自然资源贸易数量对价格变动不敏感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>European exports grew more slowly, held back by weak import demand in the region.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>，被地区更少的进口需求所抑制，欧洲出口增长放缓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>North American imports in volume terms grew steadily in 2014, as did Asian imports following a setback in the second quarter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2014年以数量衡量的南美进口稳固增长，即使对亚洲第二季度进口（季节和新年节日原因）带来阻碍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imports of other regions (i.e. Africa, theMiddle East and the CIS) also grew in the second half of the year despite falling commodity prices, but SouthAmerica's imports continued to trend downward after peaking in the second quarter of 2013. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他地区（非洲、中东和独联体）的进口也在下半年有所增长尽管初级商品价格下降，但是南美进口在2013年第二季度巅峰后保持着向下趋势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>South American imports bounced back sharply in the first quarter of 2015, but whether this rebound is durable remains to be seen). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2015第一季度南美进口大幅反弹，但是这个反弹是否会持续仍待观察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, European imports remained depressed,having only recently surpassed their level of 2011 Q3.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，欧洲进口依旧下降，仅仅刚超过2011年都三季度的水平。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figure 5 shows estimated year-on-year growth in the dollar value of world trade in selected categories of manufactured goods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图-5 显示了测量的与去年同期相比以美元价值衡量的在所挑选的工业制成品门类的世界贸易增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the fourth quarter of 2014,trade in iron and steel had risen by 2.4 per cent compared to the same quarter in 2013, while shipments of office and telecom equipment were up 3 per cent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年第四季度，钢铁贸易与2013年同比增长2.4%，同时办公用品和通讯设备同比增长3%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However,year-on-year growth in the dollar value of trade inother manufactured goods turned negative in Q4, with declines of between 1 per cent and 3 per cent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而与去年同期相比以美元价值衡量的其他工业制成品在第四季度转向负增长，下降1%-3%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the financial crisis of 2008-09, trade in automotive products has tended to be a leading indicator of world trade, while trade in iron and steel has been a lagging indicator. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从2008-09年的金融危机，汽车产品趋向于成为世界经济的先行指标，然而钢铁贸易成为了滞后的指标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With demand for automobiles turning down,steel exporters like China may face reduced demand for the products overseas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着汽车需求下降，钢铁出口国，比如中国，可能会面临海外产品需求下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Merchandise trade figures in dollar terms should be interpreted with caution since these data are strongly influenced by exchange rates, including the appreciation of the US dollar since the middle of last year (up around12 per cent on average between July 2014 and June2015 – see Figure 6).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以美元价值衡量的货物贸易数据应该小心解释因为这些数据受到汇率的强烈影响，包括美元从上一年年中的升值（在2014年7月至2015年6月，大约平均上升12%-见 图-6）.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b) Trade developments in commercial services </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（b）商业服务贸易的贸易变化</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figure 7 provides a breakdown of commercial services exports by WTO geographic region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过WTO地理区域性的划分，图-7 提供了商业服务贸易出口的细分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All regions saw modest increases in services exports of between 1 and5 per cent in 2014, except the CIS, which registered a strong decline of 7 per cent that included drops intransport services (-2.3 per cent), travel (-12.1) and other business services (-6.3). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2014年，所有地区在商业服贸易的贸易可见有1%-5%适度的增长，除了独联体，录得一个剧烈的下降-7%，其中包括运输服务下降（-2.3%）、旅游下降（-12.1）、和其他商业服务（-6.3%）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imports are not shown in Figure 6, but the story is similar, with all regions recording modest increases except the CIS, which declined by 2 per cent in the latest year.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进口并未显示在 图-6，但是形势是类似的，所有地区录得适度增长除了独联体，其在最近一年下降2%。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

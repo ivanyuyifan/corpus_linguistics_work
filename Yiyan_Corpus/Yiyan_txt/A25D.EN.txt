@@ -1,0 +1,11 @@
+Adobe¡¯s Plan to Make Your iPad as Good as Your Desktop
+FOR SOME TIME now, the iPad has struggled to gain meaningful traction with users. 
+Heralded in 2010 as the Goldilocks just-right device for tasks like checking email, browsing online, and playing games, that was no longer the case just a few years later. 
+Today we have much bigger smartphones, featherlight laptops, and a flimsy understanding of how to best put our midsize tablets to use.
+Apple¡¯s latest addition to the iPad lineup, the iPad Pro, aims to resolve this confusion. 
+It¡¯s a bigger, more powerful tablet that Apple Senior VP Phil Schiller demoed onstage with some of Adobe¡¯s new apps. 
+It was a particularly fitting way to introduce a device meant for work, because Adobe has, for more than a year now, been pushing for professional creativity on mobile devices.
+CreativeSync, a new Adobe technology, is the company¡¯s latest bid to make that happen.
+CreativeSync runs in the background of Adobe¡¯s cloud and is like a seamless, 360-degree bridge linking all of Adobe¡¯s apps (third party apps get access soon). 
+If you¡¯re editing an image in Photoshop, but need to quickly add text in InDesign, then bounce the file back to Photoshop, CreativeSync lets you do this with a couple of quick taps. 
+The goal, plain and simple, is to turn mobile platforms into a places you can actually do work.

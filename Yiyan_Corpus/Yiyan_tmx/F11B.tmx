@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T115702Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What Is Separation Anxiety?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是分离焦虑？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some kids beyond their toddler years have a terrible time separating from parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些孩子，一旦过了幼儿时期，就很难和父母分离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They may refuse to sleep alone, go on play dates, or attend school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们可能拒绝自己睡觉、和别的孩子游戏约会、或者上学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any attempts at separation may trigger intense fear and tantrums. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若是试图分离，可能会引发强烈的恐惧以及闹情绪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This situation can be a nightmare for parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种状况对父母可说是一场恶梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The good news is with early identification and professional guidance treatment is usually very successful.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好消息是，有了早期识别以及专业指导，治疗通常会很成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah sits on the couch, clutching her stuffed bear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Sarah坐在沙发上，手里紧握着玩具熊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her finger nails are visibly torn; they've been bleeding again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的指甲很明显地被拉伤，又流血了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mom, meanwhile, is calling into work again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，她的妈妈又打回公司了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'll have to explain for what feels like the zillionth time that she'll be late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她必须解释为什么要迟到，这似乎是第无数次了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not clear her boss will understand this awful situation much longer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老板还会理解这糟糕的情况还有多久，已经不太清楚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, most 8-year- olds don't have a problem going to third grade; it's usually a good year for kids.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，8岁小孩上三年级，通常不是问题，三年级对小孩来说是应该风雨无阻的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But not for Sarah.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，对Sarah来说可不是这样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Sarah approaches school, she begins to panic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Sarah快要抵达学校时，心里开始恐慌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today her mom had to literally drag her in, and as she did, Sarah grabbed onto a door frame, tearing her finger nails loose as her mother and teacher attempted to extract her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天，妈妈简直是要拖她进来。途中，Sarah抓住门框，妈妈和老师试图将她拔走的时候，指甲被撕松了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't the first time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是第一次了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What makes matters worse is how bad this feels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更糟的是，这种情况感觉很糟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No mother wants to hurt her daughter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有一位母亲会要伤害自己的女儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah's mom feels like an ogre at the start of every day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Sarah的妈妈每天一早都感觉像是恶魔似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wonders if other parents have this problem? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她纳闷，别的父母亲有没有这样的问题？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is there even a name for it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它可有一个名称吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What Is Separation Anxiety?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是分离焦虑？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some call this school refusal, some call it school avoidance, and others call it separation anxiety.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人称它为“拒学”，也有人称它为“学校回避”，还有人称它为“分离焦虑”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Parents call it a nightmare.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父母亲形容它为一场恶梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Separation anxiety is normal for all young children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑对所有小孩童来说是正常的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think of it as a kind of survival instinct. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象它为一种生存的本能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Humans, especially helpless humans, require attachment to parental figures who provide them proximity, warmth, care and protection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人类，尤其是无助的人类，需要依附于能给予他们亲近、温暖、关怀与保护的父母人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Awareness of this necessary relationship is hard-wired, and originates in the most primitive parts of our brains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种必要关系的意识是人类固有的，起源于我们大脑中最原始的部位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As infants grow and their brains develop, they become increasingly sophisticated in their relationships with "attachment figures." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在婴儿成长、大脑发展的同时，他们和“依附人物”的关系会逐渐地变得更复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's why parents are called attachment figures; infants and toddlers attach their darkest fears to the biologically-driven recognition that their parents can make those fears go away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，父母也称为依附人物。婴儿于幼儿会将他们最深的恐惧，托付于“父母能使这些恐惧消失”的这种生理上的意识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They think of their parents as a kind of force field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们认为父母就像一种力场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Importantly, this is entirely normal - up to a point.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这在某一个程度上是完全正常的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Does Normal Separation Anxiety Become A Problem?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普通的分离焦虑，什么时候变成问题？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let's look at separation from a typical developmental perspective. Then we can compare this perspective to what Sarah's experiencing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我们先从典型的发展角度看待分离，然后我们才能将此角度，和Sarah的经历，进行比较。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As parents, we know that we can pass a young infant around the room to total strangers and the child will be utterly at ease. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为父母，我们知道，我们可以将年幼的婴儿传给房间里的陌生人，孩子也会不当一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, at about 9 months, that baby has usually had enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，到了9个月大的时候，婴儿开始受够了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 9-month-old infant looks at a strange face and bursts into tears, desperately reaching for Mom or Dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9个月大的婴儿看到陌生的脸孔，就嚎啕大哭，惊慌地向妈妈或爸爸伸手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What happened?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发生了什么事？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At 9 months, most babies begin to recognize the difference between a familiar parental face and an unknown person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9个月大的时候，大多数婴儿会开始辨认父母亲熟悉的脸孔和陌生人之间的分别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Experts in human development call this stranger anxiety, and it's one of many normal landmarks in the child's developing attachment system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人类发展的专家将这个现象称为“陌生人焦虑”。这是小孩发展中的依附系统的许多里程碑之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The child's brain has constructed a mental representation of a parent, and can distinguish Mom and Dad from someone else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小孩的大脑已经形成了父母亲的心理表征，能分辨爸妈和其他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a wonderfully practical evolutionary and protective development.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个又美妙、又实用、又有保护性的进化上的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, it's this recognition that propels 1-year-olds to begin exploring the world on their own. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，就是这种辨认能力，促使一岁小孩开始自行探索世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, they're more mobile at this age, but they're also more secure in knowing that their parents will rescue them if needed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，他们在这个年龄比较会行动，但是他们也有安全感，知道父母亲在他们有需要的时候会来救他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having experienced, trusted parents, they can afford to feel safe enough to venture into the unknown. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有了有经验、能信任的父母亲，他们所产生的安全感，足以让他们往未知探索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is why we need to keep such a close eye on them - they seem fearless, which can lead to all sorts of trouble.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是为什么我们要密切留意他们，因为他们似乎无惧，所以可能造成各种麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in the second year of life, the free-wheeling explorations end, and we witness instead the infamous "terrible twos." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，到了生命的第二年，这些不受约束的探索会结束，我们看到的反而是臭名昭彰的“可怕的两岁”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toddlers cling, are more demanding and frequently refuse to play by themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幼儿开始粘着父母亲，变得诸多要求，而且会时常拒绝自己玩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paradoxically, this developmental achievement represents an evolutionary step forward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这项发展上的成就，很矛盾地象征了进化上的进步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Children at this age now have the capacity to realize that there is a separate and potentially dangerous world from which they need protection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个年龄的小孩，现在有了能力意识到有一个分开、又有潜在危险的世界，因此需要被保护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is part of the normal process of insuring safety and security.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是确保自身安全的正常过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As kids grow and their brains further develop, we see an increasing tension between the drive for autonomy and the fear of separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着小孩成长，大脑继续发达，我们会看到渴望自立和恐惧分离之间有了日趋增加的紧张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember that some separation anxiety is completely normal and expected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要记得，某些程度的分离焦虑是正常的，是意料中事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When 3- to 4-year-olds are afraid to go to bed alone at night, or 5-year-olds become anxious when Mom and Dad go out and leave them with a babysitter, we see a normal response to the broadening sense of the risks in the outside world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、四岁的儿童害怕晚上自己睡觉、五岁儿童害怕父母亲出门，将他们留给保姆的时候，我们所看到的是小孩对于外在世界的风险日趋扩大的意识，所做出的正常反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We often see this particularly when a young child starts school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们尤其是在小孩开始上学的时候就会看到这种情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This kind of anxiety is very common in preschool, kindergarten and first grade.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种焦虑，在学前教育、幼稚园及一年级的时候很常见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, some kids can simply not tolerate separation at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，有些小孩根本不能忍受分离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They cannot bear sleeping alone, going on play dates, or attending school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不能自己睡觉、和别的儿童游戏约会、或者上学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In these situations, separation is experienced as a life-threatening event. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们将这些分离的情况视为危害生命的事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their inborn fight or flight response is triggered, but not when it should be - not at a time of real or imminent danger - but rather, at a time of any separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们内在的战斗或逃跑反应被引发了。但是，这种反应不是因为真正或即将发生的危险情况引发，而是所有分离情况都会引发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's as if their anxiety "thermostat" is malfunctioning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这犹如他们的焦虑“恒温器”已经失灵了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all know the fight or flight response. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都知道战斗或逃跑反应是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we feel threatened, we experience a state of heightened arousal and panic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们感到威胁的时候，我们会经历一个觉醒提高、恐慌的状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We endure feelings of impending doom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们得忍受濒死感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our heart rate and breathing increases. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的心跳率和呼吸率会加速。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We might even become tremulous or dizzy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们甚至会感到发抖、头晕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In short, we feel the chemical rush of adrenaline that is preparing us to escape danger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总之，就是我们会感到肾上腺素冲上来，以预备我们逃离危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Separation anxiety disorder (SAD) is the childhood condition in which virtually any detachment from a parent is experienced as a life-threatening danger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症是童年时的一个疾病，孩子几乎每次和父母分离的时候，就会产生犹如面对生命危险的感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a state of true, yet unwarranted, panic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一种真实，却无必要的恐慌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When faced with separating from their parents, there is virtually nothing that can calm these children down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们面对和父母分离的时候，几乎没有任何事物能够让这些小孩平静下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their thoughts and feelings turn inevitably to worries of serious harm coming to their parents, and in their minds, this separation leads to the worse kind of loss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的思想与感受，必定会转向父母亲遇到伤害的忧虑。在他们的脑海中，这次的分离，将会以最糟的损失收场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They fear they'll be terrifyingly alone and unprotected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们深怕自己会恐慌地孤单，不受保护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only their parents' presence reassures them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有父母的存在，会让他们安心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When kids like Sarah are sent to school, they experience the physical aspects of panic, and are consumed by the fear of losing their mom or dad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像Sarah一样的孩子被送往学校的时候，会经历恐慌的肉体症状，而且会被失去父母的恐惧所淹没。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They often become obsessed with the belief that something terrible will happen to their parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们时常被“父母会发生不幸的事”的信念所困扰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Typically, kids with milder forms of this problem calm down once they're in the classroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>患有轻微分离焦虑症的孩子一旦进入了课室，往往就会平静下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For these children, the crisis manifests only at the time of separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对这类孩子来说，危机只出现在分离的时刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For others, there is nothing that brings relief except their reuniting with the parent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对其他孩子来说，除了和父母团聚之外，没有其他什么能缓解心情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Children with SAD are often oppositional, are prone to temper tantrums and wreak all sorts of emotional havoc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>患有分离焦虑症的孩子时常会反抗，有发脾气的倾向，也会到处发泄情绪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In their view of the world, this havoc far exceeds the risks of being parentless for a few hours.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们从自己的角度看到的世界中，这种破坏，远远超过没有父母的几个小时的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How Common Is Separation Anxiety Disorder?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症有多常见？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SAD is relatively rare, affecting only about 4% of children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症相对地罕见，只有百分之四的孩童会患上这个疾病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, it accounts for almost 50% of referrals for the treatment of anxiety disorders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，它构成了转介治疗的所有焦虑症案例的将近一半。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has a very negative impact on the child and parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症对孩子和父母都有非常负面的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the child, besides being riddled with terror, SAD can result in academic decline, isolation from peers and increasing worries about the next period of separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对小孩来说，分离焦虑症除了会让他充满恐惧之外，也会造成学业退步，和同学隔绝，以及对于下次的分离逐渐增加的恐惧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For parents, on the other hand, it can involve the loss of work, poor sleep, reduced time with friends and partners and certainly feelings of desperation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一方面，对父母来说，分离焦虑症也会涉及失去工作，睡眠不足，和朋友、伴侣相聚的时间减少，也肯定会产生绝望的感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SAD often runs in families, and can be associated with the development of other anxiety disorders or depression in adolescence and adulthood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症时常会世代相传，也和他们在青春期和成年期产生其它的焦虑症或抑郁症有关联。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, many parents inadvertently reinforce SAD by acting in an over- protective, controlling and/or anxious way during times of separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除此之外，许多父母在分离时表现得过度保护性、控制性或焦虑，因此在不知不觉中强化分离焦虑症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is not to say parents "cause" SAD, but loving, dutiful parents might not realize that their own worries are actually reinforcing those of their anxious child.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是在说父母造成了分离焦虑症，而是有爱心的、负责任的父母可能不知道他们本身的焦虑，其实是强化他们孩子的焦虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Handling Separation Anxiety</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何处理分离焦虑症</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The good news is that SAD responds readily to the right interventions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好消息是，分离焦虑症会对正确的介入有即时的反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here are some basic guidelines: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以下是几个基本方针：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try to obtain professional help early. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽量提早寻求专业协助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As with most behavioral disorders, the sooner you make an intervention, the less likely it is that the troublesome behavior(s) will be reinforced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就如大多数的行为障碍一样，你越早介入，麻烦的行为就越不会被强化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>School phobia, for example, may become solidified over time in the absence of counter-measures</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比方说，学校恐怖症在没有对策的情况之下，情况经过时间的推移就可能变得更顽固。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Get a comprehensive psychiatric evaluation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寻求全面的心理评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SAD may be associated with other psychiatric or hereditary issues, so a thorough review for depression, anxiety and potential family discord is extremely important for overall treatment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分离焦虑症可能和其它心理或遗传问题有关联，所以寻求彻底的评估，以测出抑郁症、焦虑症和潜在的家庭不和，对整体的治疗非常重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cognitive Behavioral Therapy (CBT) is the most effective way to treat SAD. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认知行为治疗是治疗分离焦虑症最有效的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CBT helps parents and children learn new coping skills at times of separation, as well as view such instances in more positive ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认知行为治疗，让父母和孩子学习分离时的新应对方法，也让他们以更正面的角度看待分离。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200920T040623Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 1. Thick Description: Toward an Interpretive Theory of Culture</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章 深描说:迈向文化的解释理论</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her book, Philosophy in a New Key, Susanne Langer remarks that certain ideas burst upon the intellectual landscape with a tremendous force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苏珊·兰格在其《哲学新解》一书中谈到，一些观念往往带着强大的冲击力突现在知识图景上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They resolve so many fundamental problems at once that they seem also to promise that they will resolve all fundamental problems, clarify all obscure issues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>顷刻之间，这些观念解决了如此多的重大问题，似乎向人们允诺它们将解决所有的重大问题，澄清所有的模糊之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone snaps them up as the open sesame of some new positive science, the conceptual center-point around which a comprehensive system of analysis can be built. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，人们都争先恐后地把它们奉为开启新的实证科学大门的秘诀，当做以此便可建构起一个综括一切的分析体系的中心概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sudden vogue of such a grande idee, crowding out almost everything else for a while, is due, she says, “to the fact that all sensitive and active minds turn at once to exploiting it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苏珊·兰格指出，之所以会有这样一种大观念（grande idee）的突然流行，一时间几乎排斥了所有其他的观念，是由于“这样一个事实：所有敏感而活跃的头脑都转向对这个观念的探索和开发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We try it in every connection, for every purpose, experiment with possible stretches of its strict meaning, with generalizations and derivatives.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们将它试用于每一个方面，每一种意图，试验其严格意义的可能延伸范围，试验其一般原理，以及衍生原理”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After we have become familiar with the new idea, however, after it has become part of our general stock of theoretical concepts, our expectations are brought more into balance with its actual uses, and its excessive popularity is ended. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，当我们熟知了这一新观念之后，当这个观念成为我们的理论概念总库的一部分之后，我们对这个观念的期望便会与它的实际用途趋于平衡，从而它风靡一时的过分状况也就结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few zealots persist in the old key-to-the-universe view of it; but less driven thinkers settle down after a while to the problems the idea has really generated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>少数狂热的信奉者还会坚持认为这个观念是理解整个宇宙的钥匙；但是不那么易受支配的思想者们不久就会冷静下来思考这个观念产生的实际问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They try to apply it and extend it where it applies and where it is capable of extension; and they desist where it does not apply or cannot be extended. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们努力在它适用的地方运用它，在它能够扩展的地方扩展它；而在它不适用或不能扩展的地方就停止运用它、扩展它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It becomes, if it was, in truth, a seminal idea in the first place, a permanent and enduring part of our intellectual armory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这样的话，这种观念实际上就会变成一种尚待发育成长的胚芽，变成我们的知识武库中永久而持续的一部分；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it no longer has the grandiose, all-promising scope, the infinite versatility of apparent application, it once had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而不再具有它曾经有过的那种貌似宏伟阔大、允诺一切的范围，不再具有那种似乎处处话用的无限多用性了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second law of thermodynamics, or the principle of natural selection, or the notion of unconscious motivation, or the organization of the means of production does not explain everything, not even everything human, but it still explains something; and our attention shifts to isolating just what that something is, to disentangling ourselves from a lot of pseudoscience to which, in the first flush of its celebrity, it has also given rise.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热力学第二原理、自然选择原则、无意识动机概念，或生产方式的组织说并没有说明所有的东西，甚至连人的事情都没有一一说清，但是它们毕竟解释了某些事物；认识到这一点，我们的注意力也就转向确定这些事物到底是什么，转向使我们摆脱这些观念在其最初盛极一时之际导致的大量伪科学的缠绕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether or not this is, in fact, the way all centrally important scientific concepts develop, I don’t know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是否是所有具有中心意义的重要科学概念的实际发展途径，我不得而知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But certainly this pattern fits the concept of culture, around which the whole discipline of anthropology arose, and whose domination that discipline has been increasingly concerned to limit, specify, focus, and contain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，这种模式和文化这一概念的发展相吻合，却是肯定无疑的。整个人类学便是围绕这一中心概念而兴起的，并且一直以不断增强的关注去限定、细述、专研和包容这一概念的统属范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is to this cutting of the culture concept down to size, therefore actually insuring its continued importance rather than undermining it, that the essays below are all, in their several ways and from their several directions, dedicated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面的各篇论文，正是以不同的途径、从不同的方面，力求去枝打叶，复原文化概念的本来面目，从而实际上确保其重要地位的连续性，而非往其上添枝加叶，以致削弱了它的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They all argue, sometimes explicitly, more often merely through the particular analysis they develop, for a narrowed, specialized, and, so I imagine, theoretically more powerful concept of culture to replace E. B. Tylor’s famous “most complex whole,” which, its originative power not denied, seems to me to have reached the point where it obscures a good deal more than it reveals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些论文有时直言不讳地论争，但更多的时候是通过具体的分析而论证，以求得出一种狭义的、专门化的，从而也是一我这样想像一理论上更为有力的文化概念，以取代E.B.泰勒著名的“最复杂的整体”的概念；因为，尽管他的概念的创新力不容否认，但在我看来，似乎是模糊之处大大多于它所昭示的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The conceptual morass into which the Tylorean kind of pot-au-feu theorizing about culture can lead, is evident in what is still one of the better general introductions to anthropology, Clyde Kluckhohn’s Mirror for Man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种泰勒式大杂烩（pot-au-feu）理论方法会将文化概念带入一种困境。这在克莱德·克拉克洪的《人类之镜》一书中甚为明显，尽管这本书至今仍是一部比较好的人类学的一般导论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In some twenty-seven pages of his chapter on the concept, Kluckhohn managed to define culture in turn as: (1) “the total way of life of a people”; (2) “the social legacy the individual acquires from his group”； (3) “a way of thinking, feeling, and believing”； (4) “an abstraction from behavior”； (5) a theory on the part of the anthropologist about the way in which a group of people in fact behave; (6) a “store house of pooled learning”； (7) “a set of standardized orientations to recurrent problems”； (8) “learned behavior”； (9) a mechanism for the normative regulation of behavior; (10) “a set of techniques for adjusting both to the external environment and to other men”； (11) “a precipitate of history”； and turning, perhaps in desperation, to similes, as a map, as a sieve, and as a matrix. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在论述文化概念的一章里，克拉克洪用了将近二十七页的篇幅设法将文化依次界定为:（1）“一个民族的生活方式的总和”;（2）“个人从群体那里得到的社会遗产”；（3）“一种思维、情感和信仰的方式”；（4）“一种对行为的抽象”；（5）就人类学家而言，是一种关于一群人的实际行为方式的理论；（6）“一个汇集了学识的宝5库”；（7）“一组对反复出现的问题的标准化认知取向”；（8）“习得行为”；（9）“一种对行为进行规范性调控的机制”；（10）“一套调整与外界邱境及他人的关系的技术一种历史的积淀物”;最后，或许是出于绝望，他转而求助于比喻手法，把文化直接比做一幅地图、一张滤网和一个矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the face of this sort of theoretical diffusion, even a somewhat constricted and not entirely standard concept of culture, which is at least internally coherent and, more important, which has a definable argument to make is (as, to be fair, Kluckhohn himself keenly realized) an improvement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面对这样一种理论传播的情况，即便是一个不完全规范但只要多少紧凑集中一些的文化概念也可算是一种改进了，因为它至少内在连贯，而且更重要的是，它提出可以界定的论据（公平地说，克拉克洪自己也敏锐地意识到这一点）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eclecticism is self-defeating not because there is only one direction in which it is useful to move, but because there are so many: it is necessary to choose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>折衷的方法之所以自拆台脚，不攻自破，倒不是因为它只在一个方面有所用途，而是因为可派用场的地方太多：因此，必须加以选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The concept of culture I espouse, and whose utility the essays below attempt to demonstrate, is essentially a semiotic one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我主张的文化概念（下列各文将试图论证这种概念的效用）实质上是一个符号学（semiotic）的概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Believing, with Max Weber, that man is an animal suspended in webs of significance he himself has spun, I take culture to be those webs, and the analysis of it to be therefore not an experimental science in search of law but an interpretive one in search of meaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克斯·韦伯提出，人是悬在由他自己所编织的意义之网中的动物，我本人也持相同的观点。于是，我以为所谓文化就是这样一些由人自己编织的意义之网，因此，对文化的分析不是一种寻求规律的实验科学，而是一种探求意义的解释科学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is explication I am after, construing social expressions on their surface enigmatical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所追求的是析解（explication），即分析解释表面上神秘莫测的社会表达。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this pronouncement, a doctrine in a clause, demands itself some explication.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，这种见解，这种只用了一句话就说出来的学说，其本身就需要做一些解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Operationalism as a methodological dogma never made much sense so far as the social sciences are concerned, and except for a few rather too well-swept corners—Skinnerian behaviorism, intelligence testing, and so on—it is largely dead now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>操作主义作为一种方法论的教条，过去从未在社会科学领域内起过很大的作用，今天，除去少数几个业已被它完全统治的角落一斯金纳行为主义，智力测验，等等——以外，它在很大程度上已经死去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it had, for all that, an important point to make, which, however we may feel about trying to define charisma or alienation in terms of operations, retains a certain force: if you want to understand what a science is, you should look in the first instance not at its theories or its findings, and certainly not at what its apologists say about it; you should look at what the practitioners of it do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，它确曾提出过一个重要的观点，今天，无论我们感到多么不情愿以操作来界定卡里斯马（Charisma）或异化，这一点仍然保有某种力量：如果你想理解一门学科是什么，你首先应该观察的，不是这门学科的理论或发现，当然更不是它的辩护士们说了些什么；你应该观察这门学科的实践者们在做些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In anthropology, or anyway social anthropology, what the practioners do is ethnography. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在人类学或至少社会人类学领域内，实践者们所做的是民族志（ethnography）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it is in understanding what ethnography is, or more exactly what doing ethnography is, that a start can be made to ward grasping what anthropological analysis amounts to as a form of knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是通过理解什么是民族志。或者更准确地说，理解什么是从事民族志——才可能迈出第一步，以理解人类学分析作为知识的一种形式到底是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This, it must immediately be said, is not a matter of methods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>必须立即申明，这并不是方法的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From one point of view, that of the textbook, doing ethnography is establishing rapport, selecting informants, transcribing texts, taking genealogies, mapping fields, keeping a diary, and so on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从一种观点，即教科书的观点看，所谓从事民族志就是建立联系、选择调查合作人、作笔录、记录系谱、绘制田野地图、记日记等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it is not these things, techniques and received procedures, that define the enterprise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，这些东西，即技术以及公认的程序，并不能界说这项事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What defines it is the kind of intellectual effort it is: an elaborate venture in, to borrow a notion from Gilbert Ryle, “thick description.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以界说它的是它所隶属的理性努力的种类，借用吉尔伯特·赖尔的一个概念，就是详尽的“深描”（thick description）的尝试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ryle’s discussion of “thick description” appears in two recent essays of his (now reprinted in the second volume of his Collected Papers) addressed to the general question of what, as he puts it, “Le Penseur" is doing: “Thinking and Reflecting” and “The Thinking of Thoughts." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赖尔对“深描”的讨论见于他最近的两篇文章《思考与反思》和《对思想之思考》（两文已收在他的《文集》第二卷）。两篇文章所探讨的，用他自己的话说，是关于“思想家”（LePenseur）在做些什么的一般问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider, he says, two boys rapidly contracting the eyelids of their right eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，让我们细察一下两个正在快速地张合右眼眼睑的孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one, this is an involuntary twitch; in the other, a conspiratorial signal to a friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个是不随意的眨眼，另一个则是挤眉弄眼向一个朋友发信号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two movements are, as movements, identical; from an I-am-a-camera, “phenomenalistic” observation of them alone, one could not tell which was twitch and which was wink, or indeed whether both or either was twitch or wink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两个动作，作为动作，是完全相同的。如果把自己只当做一台照相机，只是“现象主义”式地观察它们，就不可能辨识出哪一个是眨眼，哪一个是挤眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet the difference, however unphotographable, between a twitch and a wink is vast; as anyone unfortunate enough to have had the first taken for the second knows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，眨眼和挤眼间的差别，无论多么不可拍摄入相，却仍然是非常巨大的；对于这一点，任何一个曾不幸被人误解，其眨眼被错认做挤眼的人都是深有体会的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The winker is communicating, and indeed communicating in a quite precise and special way: (1) deliberately, (2) to someone in particular, (3) to impart a particular message, (4) according to a socially established code, and (5) without cognizance of the rest of the company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为挤眼的人是在交流，并且确实是在以一种准确而特殊的方式在交流：（1）有意地；（2）向着特定的某人；（3）传达特殊的信息；（4）按照社会通行的信号密码，以及（5）没有受到其他在场者的察觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Ryle points out, the winker has not done two things, contracted his eyelids and winked, while the twitcher has done only one, contracted his eyelids. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如赖尔所指出的，眨眼者固然只做了一件事，张合其眼睑，但挤眼者也并没有做两件事，张合其眼睑和挤眼示意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Contracting your eyelids on purpose when there exists a public code in which so doing counts as a conspiratorial signal is winking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当存在着一种公众约定的信号密码，按照这个密码有意地张合眼睑就意味着发出某个当事人理会的信号时，有意的张合眼睑就是挤眼了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That’s all there is to it: a speck of behavior, a fleck of culture, and 一voila!一a gesture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如此而已，别无其他:行为的一点一滴，文化的一个细部，正是这样（voila）!	个眼势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That, however, is just the beginning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这才只是开了个头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suppose, he continues, there is a third boy, who, “to give malicious amusement to his cronies,” parodies the first boy’s wink, as amateurish, clumsy, obvious, and so on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赖尔接下去说，假设还有另外一个男孩子，为了给他的伙伴开个恶作剧式的玩笑，故意歪曲地模仿第二个男孩挤眼的不当之处，譬如不熟练、太笨拙、太明显等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He, of course, does this in the same way the second boy winked and the first twitched: by contracting his right eyelids. Only this boy is neither winking nor twitching, he is parodying someone else’s, as he takes it, laughable, attempt at winking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，他做这个的方式和第一个男孩眨眼与第二个男孩挤眼的方式还是一样的:张合右眼的眼睑，只不过他既不是在眨眼也不是在挤眼，他是在模仿他人挤眼时的可笑之处（这可笑之处也只是在他看来如此）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here, too, a socially established code exists (he will “wink” laboriously, overobviously, perhaps adding a grimace一the usual artifices of the clown); and so also does a message. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里，也存在着一个社会通行的信号密码（他做作地、过于明显地“挤眼”，或许还会添上一个鬼脸——小丑所惯用的做作）；同时也传递了一个信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only now it is not conspiracy but ridicule that is in the air. If the others think he is actually winking, his whole project misfires as completely, though with somewhat different results, as if they think he is twitching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只不过现在弥漫于空气中的不是当事人的心领神会，而是嘲弄罢了，假如其他两个孩子以为他真是在挤眼的话，他的整个努力就完全付之东流了，但也可能会有不同的效果，比如别人以为他真的在眨眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One can go further: uncertain of his mimicking abilities, the would-be satirist may practice at home before the mirror, in which case he is not twitching, winking, or parodying, but rehearsing; though so far as what a camera, a radical behaviorist, or a believer in protocol sentences would record he is just rapidly contracting his right eyelids like all the others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还可以进一步设想:一个想要模仿以嘲笑他人的人，如果对自己的模仿能力没有把握，也许会在家里对镜练习，那么，他既不是在眨眼或挤眼，也不是在模仿，而是在排演；然而，就一台相机、一个激进的行为主义者，或一个把外交辞令当真的人所记录下来的东西而言，这个排演者和其他所有人一样，只是在迅速地张合他的右眼眼睑而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Complexities are possible, if not practically without end, at least logically so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是会出现任何复杂的情况，这种可能性虽然在实际上不是无止境的，至少在逻辑上是如此的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The original winker might, for example, actually have been fake-winking, say, to mislead outsiders into imagining there was a conspiracy afoot when there in fact was not, in which case our descriptions of what the parodist is parodying and the rehearser rehearsing of course shift accordingly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，上文所说的挤眼者或许实际上是在假挤眼，比如说吧，是想把旁人引人歧途，以为存在着实际上并不存在的当事人之间的心领神会。在这种情况下，我们对于模仿者所模仿之物，以及排演者所排演之事的描述相应地要做改变了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the point is that between what Ryle calls the “thin description” of what the rehearser (parodist, winker, twitcher . . .) is doing (“rapidly contracting his right eyelids”)and the “thick description” of what he is doing (“practicing a burlesque of a friend faking a wink to deceive an innocent into thinking a conspiracy is in motion”) lies the object of ethnography: a stratified hierarchy of meaningful structures in terms of which twitches, winks, fake-winks, parodies, rehearsals of parodies are produced, perceived, and interpreted, and without which they would not (not even the zero-form twitches, which, as a cultural category, are as much nonwinks as winks are nontwitches) in fact exist, no matter what anyone did or didn’t do with his eyelids.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，关键在于，在赖尔称之为对排演者（模仿者、挤眼者、眨眼者......）正在做的事的“浅描”（thindescription）（“迅速地张合他的右眼眼睑”）与对他正在做的事的“深描”（“练习对一个朋友的模仿，因为这个朋友假作挤眼以欺骗局外人误以为有什么只是当事人才能领会的事”）之间存在着民族志的对象：意义结构的分层等级;通过这些结构，眨眼、挤眼、假挤眼、模仿、模仿之练习才得以产生，才为人所知觉，为人所解释;而假如没有这些结构，则无论人们怎样挤巴眼睛，也不会存在这些事实（即便是零形态的眨眼也不会存在，因为，作为一个文化范畴。眨眼即是非挤眼，正如挤眼是非眨眼一样）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like so many of the little stories Oxford philosophers like to make up for themselves, all this winking, fake-winking, burlesque-fake-winking, rehearsed-burlesque-fake-winking, may seem a bit artificial. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如同牛津学派的哲学家们喜欢自己编造的许多小故事一样，所有这些挤眼，假挤眼、模仿假挤眼、练习模仿假挤眼，可能看上去有些人为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In way of adding a more empirical note, let me give, deliberately unpreceded by any prior explanatory comment at all, a not untypical excerpt from my own field journal to demonstrate that, however evened off for didactic purposes, Ryle’s example presents an image only too exact of the sort of piled-up structures of inference and implication through which an ethnographer is continually trying to pick his way:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了补充一个较具经验性的例注，还是让我从我本人的田野日志中抽取不无典型意义的一段（有意放在任何先验的解释性评述之前），以此证明，无论赖尔怎样努力使之平衡以期服人，他所举出的例子还是过于精细地描绘了民族志学者孜孜以求地以此寻求出路的这种具有推论和示意意义的排列结构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The French [the informant said] had only just arrived. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法国人〔调查合作人说〕刚到这里不久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They set up twenty or so small forts between here, the town, and the Marmusha area up in the middle of the mountains, placing them on promontories so they could survey the countryside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从小镇这里一直到山里的玛穆什地区，他们修筑起大约二十个小城堡，这些城堡都建在山岬上，这样就可以居高临下，监视乡村。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But for all this they couldn’t guarantee safety, especially at night, so although the mezrag, trade-pact, system was supposed to be legally abolished it in fact continued as before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，尽管如此，他们还是不能确保安全，特别是在夜间。因此，虽说mezrag（买卖契约）制度在法律上已被废除，但是实际上它还是一如既往地实行着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One night, when Cohen (who speaks fluent Berber), was up there, at Marmusha, two other Jews who were traders to a neighboring tribe came by to purchase some goods from him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天晚上，犹太人科恩（他说一口流利的柏柏尔语）正在玛穆什地区，来了另外两个与邻近一个部落做买卖的犹太人，想从他那里买些货。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some Berbers, from yet another neighboring tribe, tried to break into Cohen’s place, but he fired his rifle in the air. (Traditionally, Jews were not allowed to carry weapons; but at this period things were so unsettled many did so anyway.) This attracted the attention of the French and the marauders fled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时，一些另一个邻近部落的柏柏尔人企图闯进科恩的住处，于是他朝天开了枪，从而阻止了他们的企图（按照传统，犹太人是不许持枪的；但由于这一时期局势动荡不安，许多犹太人还是带了枪的），这样一来，就引起了法国人的注意，抢劫者们也就逃走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next night, however, they came back, one of them disguised as a woman who knocked on the door with some sort of a story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，第二天晚上，他们又回来了。其中一人化装成妇女敲科恩的门，还说了一番动听的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cohen was suspicious and didn’t want to let “her” in, but the other Jews said, “oh, it’s all right, it’s only a woman.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科恩很是怀疑，不想放“她”进来：可是其他两个犹太人却说：“算了吧，没有什么事，只不过是个女人。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

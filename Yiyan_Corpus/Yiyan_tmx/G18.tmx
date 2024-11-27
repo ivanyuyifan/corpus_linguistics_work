@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072212Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The life and times of Charles Dickens</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>查尔斯·狄更斯的一生与他生活的时代</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>14 January 1840, London. An inquest is being held at Marylebone Workhouse, a muddled complex of buildings spread over a large area between the Marylebone Road and Paddington Street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1840年一月十四日，在伦敦马里列本救济院里召开了一次验尸审讯。救济院的房子散乱分布在马里列本路和帕丁顿路之间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The beadle, a parish officer responsible for persuading householders to do their duty as jurors at such inquests, has assembled 12 men. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一名教区的差官负责说服居民履行陪审员的义务。他已经召集到了十二名男性公民，大多数为中年本地商人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most of them are middle-aged local tradesmen, but one stands out among them as different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中有一位显得与众不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is young and slight, smartly dressed and good-looking, neither tall nor short at five foot nine inches, with dark hair falling in curls over his forehead and collar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这名年轻男子穿着得体，相貌堂堂，身体瘦削，不高不矮有五英尺八英寸，黑色的卷发遮住了他的前额和衣领。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is a new resident who has just moved into a fine airy house with a large garden, close to Regent's Park at York Gate - No 1 Devonshire Terrace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个新居民刚刚搬到邻近约克摄政公园的德文郡大街1号一间通风良好，配有大花园的房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a different world he has entered through its gates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从德文郡大街到救济院只有一小段路，但当他走进救济院大门才发现，这是两个截然不同的世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is directed to a room in which the other jurors are talking among themselves as they wait for the inquest to begin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后他被引入一个房间，房间里面其他的陪审员在自顾自地说话，消磨等待验尸的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have come to pronounce on a case of suspected infanticide, a servant girl accused of killing her newborn baby in the kitchen of her employers' house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们来到这里对一起杀婴案进行表决——一名女仆被起诉在她雇主的厨房里杀死自己刚出生的孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the jurors immediately declares himself in favour of the utmost rigour of the law being applied to the young woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一名陪审员当即宣布希望能用最严厉的法律制裁她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new young juror recognises him as a furniture-dealer he suspects of cheating him over the recent purchase of a pair of card tables. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年轻的陪审员认出他正是前段时间购买两张牌桌时，被怀疑欺诈的家具商。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another solid parishioner presses his card into his hand, murmuring that he hopes to be of service to him in the future: he is an undertaker.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个看法一致的居民把名片压到家具商的手上，低声说他希望将来能为其服务——他是一名殡葬承办者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before they can settle down for the inquest the jurors must be taken downstairs to the workhouse mortuary in the basement to be shown the body of the baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>验尸审讯开始前，陪审员们必须被领到楼下地下室放置婴儿尸体的停尸房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is lying on a box set upon a clean white cloth, with a surgical instrument beside it that has been used to open it up for examination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尸体躺在盒子里，放在一条干净的白布上，旁边放着手术器材。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The baby has been sewn up again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尸体已经解剖过用以检验，被重新缝合起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new juror, who has a two-month-old baby daughter of his own at home - Katey - reflects that it looks as though the cloth were laid and the Giant coming to dinner, but he does not share this thought with his fellow jurors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位新来的陪审员有一个两岁大的女儿凯蒂，此时的景象让他觉得那块布是精心铺好以迎接巨兽来享受晚餐。但他没有告诉其他人这个想法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They agree among themselves that the mortuary is clean and well whitewashed, the foreman says: "All right, gentlemen? Back again, Mr Beadle," and they troop upstairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>陪审员们一致认为停尸房很干净并且粉刷得很好，接着陪审团团长说：“这样吧，先生们，让我们再回楼上看一下吧，差官先生。”然后他们齐步向楼上走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The coroner is Thomas Wakley, a surgeon and until recently a member of Parliament. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>验尸官叫托马斯·沃克里，最近才荣升为国会一员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new juror is Charles Dickens.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而那位新来的陪审员就是查尔斯·狄更斯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now the young woman accused of murder is brought in by one of the workhouse nurses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，那个被指控杀人的年轻妇人已经被一个救济院的护士带上来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looks weak, ill and frightened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她很虚弱，看起来生病了并且受过惊吓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is allowed to sit in one of the horsehair chairs and tries to hide her face on the shoulder of the unsympathetic nurse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她被允许坐在一把马鬃椅子上，想把脸埋在旁边毫无同情心的护士的肩膀上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eliza Burgess is 24 or 25 years old, a maid of all work and an orphan, which may be why there is uncertainty about her age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊莉莎·布吉斯有24岁或者25岁，什么工作都做，而且她是个孤儿，这也是她岁数不确定的原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is likely that she grew up in a workhouse, quite possibly this one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许她就是在救济院长大的，很可能就是这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her story is that on Sunday 5 January, she went into labour in the kitchen of her employers' house, No 65 Edgware Road, where she was the only servant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她所做出的陈述是，一月五日星期日，在雇主位于艾及维尔路65号的房子里，她开始干厨房里的活，她是房子里唯一的仆人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the front doorbell rang, she hurried upstairs to let in two lady visitors, and by the time she got back to the kitchen the baby - a boy - had been born under her skirts and appeared to be dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一听到前门门铃响，她就跑到楼上让两位女士进屋，在她回到厨房时孩子，而且是个男孩，已经产在她裙子里并且夭折了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not clear whether the birth took place on the stairs, but she delivered him herself, and must have cut the umbilical cord and cleaned up as best she could. Then she found a box, or a pot, in which she placed the dead newborn child and hid him under the dresser. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是不是在楼梯生产的还不清楚，但她肯定是自己为孩子接生，并且把脐带剪断了，尽力把现场收拾干净，最后找了一个盒子，或者锅，把孩子放进去，藏在碗橱里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mistress, Mrs Mary Symmons, sent her up to scrub the front-door steps in the cold after her guests left, and then, seeing how ill and thin she looked, taxed her with having given birth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客人走后，女主人玛丽·西蒙斯差遣她在寒风下刷洗前门的台阶，看到她如此不舒服，肚子又变小了，便责问她是不是刚刚生完小孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first she denied it, but then, being threatened with a medical examination, confessed and showed Mrs Symmons where she had put the baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开始她极力否认，直到被威胁做检查时，她才坦白了这件事，并带西蒙斯夫人到藏孩子的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs Symmons sent for a hackney coach to remove Eliza and her dead child from her house to the Marylebone Workhouse infirmary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着西蒙斯夫人雇了一辆四轮大马车把伊莉莎和夭折的孩子送到救济院的医院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs Symmons appears as an unsympathetic witness and resists questions from Dickens, who hopes to give a favourable turn to the case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西蒙斯夫人看起来很冷漠，并且拒绝狄更斯对案子有利的怀疑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The coroner gives a look of encouragement to the juror and the accused girl wails. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但验尸官给了狄更斯和哭号的女犯一个鼓励的眼神。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next witness is the house surgeon, Mr Boyd, who reports that the accused told him she was seized with labour in the kitchen when the bell was rung by two ladies. She hurried to let them in, and "in the act of doing so the child was born, and on her return it was dead". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二个证人是外科医生波伊德，报告说嫌疑犯跟他说当时她正忙于家务活，门铃响起就马上去开门，“在这过程中孩子出生了，回厨房的途中孩子已经死了”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is not able to say positively whether it was born alive or dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不能确定孩子是否一出生就死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterwards, in private conversation, Mr Wakley tells Dickens that it is very unlikely that the child could have drawn more than a few breaths, if indeed any, since there was foreign matter in his windpipe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来在一次单独谈话中，沃克里先生告诉狄更斯，那个孩子不可能吸入一丝空气，即使是一点，因为他的气管有问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Burgess is led away while the jurors discuss the case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>陪审员讨论案件的时候布吉斯被带走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dickens resolves to take on those who are ready to find her guilty of killing her child, and, with some encouragement from Mr Wakley, he argues against them, so firmly and forcefully that he wins the argument. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狄更斯决心起来反对那些要定杀人罪的人，有了沃克里先生的鼓励，他坚定有利的反驳使他赢得了辩论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Miss Burgess is brought back the verdict is given: "Found Dead". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当布吉斯被带回时裁决已经出来了：“发现时已死”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She falls on her knees to thank the jurors, "with protestations that we were right - protestations among the most affecting that I have ever heard in my life". Then she faints, and is carried away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她跪下来感谢这位陪审员，说道：“我们坚信我们是对的——此生最让我感动的坚定。”就晕倒被带走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She will still have to be held in prison and appear at the Old Bailey in due course, but the threat of the death penalty has now been taken from her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还是会被关进监狱，随后会上老贝利中央法院，但死刑已经被免了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dickens, who is without doubt the busiest man of the 12, goes home and makes arrangements for her to be sent food and other comforts in prison. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狄更斯——他无疑是十二个陪审员中最忙的——立即回家为布吉斯在监狱的衣食住行做安排。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also finds an excellent barrister - Richard Doane of the Inner Temple, a friend and amanuensis of the late Jeremy Bentham- to defend her at the Old Bailey trial.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还找到内殿法律学院的大律师理查德·多恩，已故的杰瑞米·本瑟姆的朋友和助理，在老贝利法院的审判中为她辩护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night he cannot sleep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上狄更斯无法入睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is overcome with sickness and indigestion, does not want to be alone and asks his wife, Catherine, to sit up with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恶心和消化不良折磨着他，他不想一个人呆着，便叫醒妻子凯瑟琳与他一起坐着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dead baby in the workhouse, the thought of prison and the terrified, ignorant, unhappy young woman prisoner have upset him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>救济院的死婴，监狱的景象，还有那个吓坏的，无知的，不幸的年轻妇人使他感到不安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning he writes to his closest friend, John Forster, "Whether it was the poor baby, or its poor mother, or the coffin, or my fellow-jurymen, or what not, I can't say­" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天早上，他写信给他最亲密的朋友约翰·福斯特：“不论是那个可怜的孩子，还是他可怜的母亲，又或者是那个木盒子，那些陪审员，还是其他的什么东西，我不知道......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He already knows a good deal about prisons, since he has seen his father held in one for debt. Also about babies dying, since two of his younger siblings perished early - happily his own three little ones are stout and healthy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他早就知道监狱里的好些事，因一次他父亲欠债被投入监狱；还有婴儿的死亡，因他的两个小弟弟早早夭折。不过幸好他自己的三个小家伙都很健壮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he knows about maids of all work, or "slaveys", well remembering the one who served his family when he was a boy, straight out of the workhouse where she grew up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也了解这种什么活都干的女仆，或者说是打杂女工，他清楚的记得，小时候他家的女工向他描述她长大的救济院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He recovers from his sickness, and in the evening he and Forster meet at the Adelphi Theatre to see Jack Sheppard - the highwayman - played en travestiby Mary Anne Keeley, an actress well known to Dickens, since he had taken lessons in acting from her husband eight years earlier.Charles Dickenshad been reporting on the world about him for the past six years, as a journalist and then as a novelist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恶心的感觉让他回过神来。于是他跟福斯特到阿代尔费剧院观看《拦路者杰克·谢帕德》，由玛丽·安妮·基利女扮男装扮演，她是狄更斯很熟悉的女演员，八年前年他曾向她丈夫学过表演。过去六年期间里，狄更斯是一名记者，后来成为小说家被频频报道，声名远播世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Much of it amused him, but more of it upset him: the poverty, the hunger, the ignorance and squalor he saw in London, and the indifference of the rich and powerful to the condition of the poor and ignorant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这在某种程度上让他感到快乐，但更多的是失望——在伦敦目睹贫穷，饥饿，无知，肮脏，以及有钱有势的人对贫穷和愚昧的冷漠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through his own energy and exceptional gifts he had raised himself out of poverty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过自身的能力和非凡的天赋，他已经脱离了贫困。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he neither forgot it, nor turned aside from the poverty about him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他从未忘记这些，也不会对身边的穷人熟视无睹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drew attention to it in his books, and he was personally generous with his time and his money, not only in the case of Eliza Burgess.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把这些写进他的著作里，并且从来不吝惜时间和金钱，这不仅仅体现在伊莉莎的案件上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her case came up at the Old Bailey on 9 March and was reported in the Times the next day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊莉莎的案子于三月九日在中央法院审理，第二天泰晤士报报道了此事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was indicted for unlawfully concealing the birth of a male child delivered on 5 January. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她被起诉非法隐瞒男婴的出生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her barrister, Mr Doane, pleaded that she was of weak intellect. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多恩律师辩护她为神智不清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was also able to produce a crucial witness to her character, Mr Clarkson, a tradesman in Great Russell Street; she had previously worked for his family, and he was willing to do his best for her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且找到一位至关重要的证人来为她的人格做担保——大罗素街的商人克拉克森先生。伊莉莎曾在他家干过活，他也愿意尽最大的努力帮她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr Clarkson said his wife was greatly interested in Eliza and had got her a promise of a place in the Magdalen Asylum, an institution that looked after young women who strayed from the path of virtue, and did its best to restore them to it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克拉克森先生说，他妻子很关心伊莉莎，并为她在马达兰收容院——一家专门照顾迷途少女，并让她们从良的机构——谋得一个职位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Clarksons were willing to take her back into their service until she could be admitted there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克拉克森一家都希望伊莉莎能得到允许重新回来工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The willingness of these respectable people to help Eliza was good for her case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些有名望的人的帮助对她的案子是有利的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The jury found her guilty of concealment but strongly recommended mercy. The judge, Mr Serjeant Arabin, said that under the circumstances he would respite judgment till next session, and that meanwhile she was free. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然她非法隐瞒，但有多人担保她的清白，于是法官塞简特·阿拉比判定，基于此情，他决定暂缓判决，推迟到下次审判，在此期间，无罪释放。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing more is heard of her except a brief word by Dickens that her sentence had been lenient, and that "her history and conduct proved it right". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后就再没有关于伊莉莎的只言片语，除了狄更斯说起判决的宽容：“她的一生和言行举止证明了这是明智的审判。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was written 23 years later, in 1863: Dickens had stored up the memory of the sad young woman.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这句话写于23年后，1863年，狄更斯收集整理了关于年轻女子悲惨的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a very small episode in the life of Dickens, but it allows us to see him in action, going to the workhouse just along the road from his own home, and deciding to help a young woman whose character and history are quite without interest or colour, and who comes from the very bottom of the social heap, a workhouse child, a servant and a victim - a victim of ignorance, of gullibility, of an unknown seducer and a harsh employer, and of the assumptions made by respectable jurors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然这只是狄更斯一生的一个很小的片段，但它让我们看到了他的实际行动——走出家门来到救济院，决心帮助一个来自社会底层，不论名誉还是生活都于他没有兴趣和关系的年轻女子，一个救济院的孤儿，一个女仆，更是一个受害者——一个被无知，欺骗，诱奸所害；一个被残酷的雇主，所谓有名望的陪审员做出的判决所压迫的受害者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is at his best as a man, determined in argument, generous in giving help, following through the case, motivated purely by his profound sense that it was wrong that she should be victimised further.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个真正的人，狄更斯尽自己最大的努力，为她争辩，为她慷慨解囊，跟进案子，这纯粹是正义使然，他强烈的感到她不该被继续迫害下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What makes his behaviour the more remarkable is that he was himself living under intense pressure at this time in 1840. He was very successful, but also exhausted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使他有着更非凡的的作为的原因是当时他自己生活在巨大的压力之下。1840年，狄更斯非常成功，同时却疲惫不堪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had spent the past four years in the hard labour of writing three long novels in monthly instalments, huge efforts of imagination and penmanship that had lifted him from obscurity to fame and comfort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他用四年的时间埋头苦写三部月载小说，丰富的想象力和写作技巧让他名生鹊起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their publication as serials established a new style in publishing and reached a new public, because the paper numbers were cheap to buy and could be passed round, collected and preserved; and they found readers who were for the first time buying fictionto keep on a shelf at home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些小说结集成书出版，这种新的出版方式扩大了读者范围，因为书既便宜，又可传阅，收集和保存；并且他们发现以前不买小说的读者把它摆放在家里的书架上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The names of his characters passed into the language: Pickwick, Sam Weller, Fagin, Oliver, Squeers, Smike.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笔下的人物成为人们讨论的对象：匹克威克，山姆·维勒，费金，小奥列佛，斯奎尔斯，斯麦科。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The voice of Dickens, offering fun and jokes, then switching to pathos, with a good peppering of indignation, seemed like the voice of a friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狄更斯的叙述方式，或欢乐，或打趣，或引起义愤，充满了感染力，就像在听朋友讲故事一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His stories were dramatised and played in theatres all over the country - Mary Anne Keeley took the part of Smike at the Adelphi. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他所创作的故事被改编为剧本，在伦敦各剧院上演，玛丽·安妮·基利，扮演斯麦科，在阿代尔费剧院表演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His success was unprecedented and thrilling, but he felt the strain, because his income and standard of living depended on keeping up the pace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>空前和兴奋的成功却让他不堪重负，要有丰厚的收入和良好的生活质量，他就得加紧写作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had no savings, lived from month to month, and worried about money; yet he had just vowed not to commit himself to another serial novel, having convinced himself that he could earn as much for less work by becoming editor of a new weekly journal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有存款，几个月过去了，他还在为钱烦恼；然而他刚刚发誓再也不着手另一部连载小说了，在一家新周刊当编辑这样轻松的工作也可以挣到那么多钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In January 1840, in the very month of the inquest, he was starting work on the first numbers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1840年一月，就是验尸审判的那个月，他开始创办周刊的第一期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was able to keep many servants, a horse for himself, and a coach, with a 14-year-old lad to drive it, John Thompson, who would remain in his service in different capacities for the next 26 years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狄更斯有很多仆人，自己有一匹马，和一辆四轮大马车，马夫是一个14岁的男孩，约翰·汤普森，在后来的26年里在他家做着各种不同的工作。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

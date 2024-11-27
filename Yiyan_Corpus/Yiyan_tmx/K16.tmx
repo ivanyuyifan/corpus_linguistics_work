@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160907T045521Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thirteen Hundred Rats</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1300只老鼠</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a man in our village who never in his life had a pet of any kind until his wife died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们村子里住着这样一个人，他这一辈子直到他的妻子离世前，从来没有饲养过任何一只宠物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By my calculation, Gerard Loomis was in his mid-fifties when Marietta was taken from him, but at the ceremony in the chapel he looked so scorched and stricken that people mistook him for a man ten or twenty years older. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据我推测，当玛丽埃塔离开他时，杰拉德卢米斯正值五十五岁左右。然而，在教堂葬礼的仪式上，他看起来是那样的憔瘁，以致于人们认为他看上去要比实际年龄老上十至二十年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sat collapsed in the front pew, his clothes mismatched and his limbs splayed in the extremity of his grief, looking as if he'd been dropped there from a great height, like a bird stripped of its feathers in some aerial catastrophe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他衣着不堪地瘫坐在教堂前排的长凳上，极度的悲痛，使他的四肢松软无力，仿佛如同高空中坠下一般，更似天空中惨遭横祸的折翅的小鸟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once the funeral was over and we'd all offered up our condolences and gone back to our respective homes, rumors began to circulate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>葬礼一结束，人们表达了对逝者的哀悼后，便各自回家了。随之谣言也开始传播开来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard wasn't eating. He wouldn't leave the house or change his clothes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰拉德饭也吃不下，他不愿离开这间屋子或换下他的衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd been seen bent over a trash barrel in the front yard, burning patent-leather pumps, brassieres, skirts, wigs, even the mink stole with its head and feet still attached that his late wife had worn with pride on Christmas, Easter, and Columbus Day.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只见他伏在前院的垃圾桶上，烧掉漆皮的轻便舞鞋，胸罩，裙子，假发甚至是从头部到脚的貂皮披肩，这是他已故妻子在圣诞节，复活节和哥伦布纪念日时穿戴的衣物。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People began to worry about him, and understandably so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们开始担心起杰拉德来了，这是可以理解的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ours is a fairly close-knit community of a hundred and twenty souls, give or take a few, distributed among some fifty-two stone-and-timber houses that were erected nearly a century ago in what the industrialist B. P. Newhouse hoped would be a model of utopian living. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是一个关系相当密切的拥有差不多一百二十人的社区。五十二幢石木结构的房子按需分配。这些房子是在近一个世纪前由实业家B.P纽豪斯建造的，他希望这里能成为“乌托邦”式生活的典范。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are not utopians, at least not in this generation, but our village, set as it is in the midst of six hundred acres of dense forest at the end of a consummately discreet road some forty miles from the city, has fostered, we like to think, a closeness and uniformity of outlook that you wouldn't find in some of the newer developments built right up to the edges of the malls, gallerias, and factory outlets that surround them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不是理想主义者，至少我们这一代不是，可我们的村子座落在六百英亩的茂密的森林之中，密林的尽头，有一条通往城里的近四十英里的别致简朴的小路。在这里我们已习惯了这种封闭与单调的环境，在购物商场，商业街廊以及工厂四周，你找不到一些新建的建筑物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He should have a dog, people said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的确应该有一只狗陪伴他，大家都这样说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That sounded perfectly reasonable to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听起来很合乎情理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My wife and I have a pair of shelties (as well as two lorikeets, whose chatter provides a tranquil backdrop to our evenings by the fireplace, and one very fat angelfish in a tank all his own, on a stand in my study). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和妻子就饲养了一对谢德兰牧羊犬（还有两只鹦鹉，晚上围坐在壁炉旁，它为我们宁静的夜晚增添了多彩的画面，在书房里的落地式鱼缸中，仅放着一条体态肥硕的热带神仙鱼）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One evening at dinner, my wife glanced at me over her reading glasses and said, "Do you know that, according to this article in the paper, ninety-seven per cent of pet owners say their pets make them smile at least once a day?" The shelties - Tim and Tim II - gazed up from beneath the table with wondering eyes as I fed scraps of meat into their mobile and receptive mouths.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天吃晚饭时，妻子从她那老花镜的上方向我瞥了一眼，说道，“报纸上的这篇文章说，饲养宠物的97%的人，说他们的宠物一天至少会使他们笑一次，你知道吗？”当我把肉片塞到狗张开的嘴里时，它们在桌子下用奇怪的目光注视着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think I ought to speak with him?" I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是说我应该和他说说这些？”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Gerard, I mean?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是杰拉德吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It couldn't hurt," my wife said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不能再让他痛苦下去了，”妻子说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, the corners of her mouth sinking toward her chin, she added, "The poor man."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，嘴角向下沉了沉，又说，“可怜的人啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went to visit him the next day - a Saturday, as it happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天,我去拜访了杰拉德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dogs needed walking, so I took them both with me, by way of example, I suppose, and because when I'm home - and not away on the business that takes me all over the world, sometimes for weeks or even months at a time - I like to give them as much attention as I can. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>碰巧那天是星期六，我的宠物狗们要出去遛一遛，所以我就一同把它们带了出来。比如，我想因为我的工作需要满世界的奔波，有时几星期，甚至一次要几个月在外面，因此当我在家的时候，更要尽可能多的来关心我的小家伙们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard's cottage was half a mile or so from our house, and I enjoyed the briskness of the season - it was early December, the holidays coming on, a fresh breeze spanking my cheeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰拉德的小房子离我家有半里地左右。我喜欢这里的清爽的季节——大致在十二月初。这个季节来临时，我享受着清新的微风轻轻地吹拂着面颊的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I let the dogs run free ahead of me and admired the way the pine forest that B. P. Newhouse had planted all those years ago framed and sculpted the sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狗在前面自由的奔跑，我羡幕 B.P纽豪斯多年前栽下的这片松林和那塑造般的天际。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first thing I noticed on coming up the walk was that Gerard hadn't bothered to rake the leaves from his lawn or cover any of his shrubs against the frost. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走在路上察觉到的第一件事 ，就是杰拉德还未耙除自家草坪上的落叶，或给他的灌木遮挡上任何的防霜覆盖物，另外还有一些疏忽的地方：防风的窗户板仍没有安装上，马路边的两个垃圾桶内的垃圾溢落在路旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were other signs of neglect: the storm windows weren't up yet, garbage overspilled the two cans in the driveway, and a pine bough, a casualty of the last storm, lay across the roof of the house like the severed hand of a giant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近一次风暴吹折的松树枝干如同巨人的大手横卧在屋顶上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I rang the bell.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我按响了杰拉德家的门铃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard was a long time answering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了很长时间，屋里传来杰拉德的应答声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he did finally come to the door, he held it open just a crack and gazed out at me as if I were a stranger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他总算来到了门前，他把门打开一条缝，并象陌生人似的打量着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(I was nothing of the sort - our parents had known each other, we'd played couples bridge for years and had once taken a road trip to Hyannis Port together, not to mention the fact that we saw each other at the lake nearly every day in the summer, shared cocktails at the clubhouse, and basked in an air of mutual congratulation over our separate decisions not to complicate our lives with the burden of children.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（我才不在乎他呢，我们的父母彼此都很熟悉。我们在一起玩耍很多年，还曾一起长途拔涉去了海安尼斯港。更不用说在夏天时，我们每天几乎都在湖边见面，俱乐部里我们共饮鸡尾酒，沐浴在阳光下，共同谈论各自的志向，而不是把生活因有孩子而弄的很复杂。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Gerard," I said. "Hello. How are you feeling?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“杰拉德”，我说，“嗨，现在好吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他什么也没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looked thinner than usual, haggard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看上去比以前瘦多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wondered if the rumors were true - that he wasn't eating, wasn't taking care of himself, that he'd given way to despair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，如果这个传闻是事实的话——他不吃不喝，不珍惜自己。那么这样下去，他就会走上绝路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I was just passing by and thought I'd stop in," I said, working up a grin, though I didn't feel much in the mood for levity and had begun to wish I'd stayed home and let my neighbor suffer in peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我刚刚路过这里，想顺便来看看你”，我还是咧嘴笑了笑说。，尽管我的心情不是那么轻松，而且也开始希望自己待在家里就好了，好让我的这位邻居免受打扰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And look," I said, "I've brought Tim and Tim II with me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是来看看你”，我说，“我买了两只狗，一个叫蒂姆，另一个叫小蒂姆”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dogs, hearing their names, drew themselves up out of the frost-blighted bushes and pranced across the doormat, inserting the long damp tubes of their snouts into the crack of the door.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两只狗听到叫它们的名子，从被霜打的灌木丛中窜出来，并跃过门前的脚垫，把它们那潮湿湿的鼻子伸进门缝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard's voice was hoarse. "I'm allergic to dogs," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰拉德用沙哑的声音说，“我讨厌狗”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ten minutes later, after we'd gone through the preliminaries and I was seated on the cluttered couch in front of the dead fireplace while Tim and Tim II whined from the front porch, I said, "Well, what about a cat?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们寒喧了一阵子，十分钟后，我坐在冰冷壁炉前零乱的沙发上。两只狗在门廊中呜呜地叫着。我说，“不妨你养只猫吧？”他在那里低头不语，因此我打破沉默问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, because I was mortified at the state to which he'd sunk - his clothes were grubby; he smelled; the house was like the lounge in a transient hotel - I found myself quoting my wife's statistic about smiling pet owners.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他衣衫褴缕，散发出难闻的气味；屋里象一个临时的大车店。我发现自己在借用妻子有关饲养宠物会使人微笑的例证。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm allergic to cats, too," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我也讨厌猫”他说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was perched uncomfortably on the canted edge of a rocker and his eyes couldn't seem to find my face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不安地坐在摇椅的一个角上，而且他的眼睛似乎看不到我的脸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But I understand your concern, and I appreciate it. And you're not the first. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可是，我理解你的担忧，同时也赞同你的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Half a dozen people have been by, pushing one thing or another on me - pasta salad, a baked ham, profiteroles, and pets, too. Siamese fighting fish, hamsters, kittens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不只是你，附近的许多人都是这样想的，一件又一件的事情都压在我的肩上——意面通心粉沙拉，熏火腿，空心甜饼，还有宠物，像暹罗斗鱼，仓鼠，猫等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mary Martinson caught me at the post office the other day, took hold of my arm, and lectured me for fifteen minutes on the virtues of emus. Can you believe it?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前几天，在邮局门口，玛利.马丁逊遇见我，一把拉住我的胳膊，给我讲了十五分钟的有关饲养驼鸟的好处，你能相信吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I feel foolish," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我真傻，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, don't. You're right, all of you - I need to snap out of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，你是对的——我是该需要振作起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And you're right about a pet, too." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有关饲养宠物，你说的也是对的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He rose from the chair, which rocked crazily behind him. He was wearing a stained pair of white corduroy shorts and a sweatshirt that made him look as gaunt as the Masai my wife and I had photographed on our safari to Kenya the previous spring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从椅子上站了起来，摇椅在他身后剧烈地摇摆着，他下身穿着褪了色的条绒短裤，上身穿着汗衫，他的穿着打扮就象我和妻子前年春天到肯尼亚旅游时，拍到的肯尼亚马萨伊人一样瘦小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Let me show you," he said, and he wound his way through the tumbling stacks of magazines and newspapers scattered around the room and disappeared into the back hall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我给你看一样东西”，他说着，便匆匆地绕过凌乱摆放在屋子里装满杂志和报纸的袋子，消失在屋子里的后厅中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sat there, feeling awkward - was this what it would be like if my wife should die before me? - but curious, too. And, in a strange way, validated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我坐在那儿，感到局促不安的是，如果我的妻子先离我而去，我也会象他这样吗？然而，我也感到好奇的是，而且是用了另一种奇怪的方式，来证实杰拉德.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard Loomis had a pet to keep him company: mission accomplished.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卢米斯有一个宠物一直在陪伴着他，我就算是完成了使命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he came back into the room, I thought at first that he'd slipped into some sort of garish jacket or cardigan, but then I saw, with a little jolt of surprise, that he was wearing a snake. Or, that is, a snake was draped over his shoulders, its extremities dangling beyond the length of his arms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他返回屋里时，我起初在想，他可能是去匆忙穿上一件象样的夹克或羊毛衫，但是此时，有点令我吃惊地看到，他穿着一条蛇，换句话说，那是一条蛇披在他的肩上，它的躯体悬挂着超出了他的手臂的长度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's a python," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是蟒蛇”，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Burmese. They get to be twenty-five feet long, though this one's just a baby."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“缅甸产的，虽说这只是一条幼蛇，它可长到二十五米长。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I must have said something, but I can't really recall now what it was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时肯定说了些什么，但是我现在真的记不起来当时说了些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't a herpetophobe or anything like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是恐（爬）虫症，或任何类似于爬虫的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was just that a snake wasn't what we'd had in mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并非如我们所想像的那样，它不过是一条蛇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Snakes didn't play fetch, didn't bound into the car panting their joy, didn't speak when you held a rawhide bone just above shoulder level and twitched it invitingly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蛇可不是拿来玩耍的，它不会因窜上你的车里而高兴不已，它仅仅是爬上你的肩头缠绕蠕动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far as I knew, they didn't do much of anything, except exist. And bite.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据我所知，他们不会做出任何过多的表现，只是活着、撕咬而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So what do you think?" he said. His voice lacked enthusiasm, as if he were trying to convince himself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你看这蛇怎么样”，他用冰冷的声音问道，好象在说服自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nice," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很好”我说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know why I'm telling this story - perhaps because what happened to Gerard could happen to any of us, I suppose, especially as we age and our spouses age and we're increasingly set adrift. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道为什么要讲这个故事——或许是因为杰拉德身上所发生的事，也同样可能会在我们身上发生的缘故吧，我想，尤其是到了我们这个年龄段的夫妻，无依无靠，日渐漂泊不定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the thing is, the next part of what I'm going to relate here is a kind of fiction, really, or a fictive reconstruction of actual events, because two days after I was introduced to Gerard's python - he was thinking then of naming it either Jason or Siddhartha - my wife and I went off to Switzerland for an account I was overseeing there and didn't return for more than four months. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来我要讲述的那部分具有小说的特性，不错，或者说是由现实生活中发生的事情重新虚构而成的小说。杰拉德向我们展示了他的蟒蛇——他当时正在考虑给它取个什么名字，要么叫詹森，或者叫悉达多什么的——两天后，我和妻子就动身去了瑞士，因为我要在哪儿申请个开户行账号，而且要四个多月后才能回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the interval, here's what happened.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这段时间里，事情就发生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a heavy snowfall the week before Christmas that year, and for the space of nearly two days the power lines were down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那年圣诞节前的一个星期里，雪下得很大。将近两天的大雪，压断了供电线路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard woke the first morning to a preternaturally cold house, and his first thought was for the snake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰拉德一大早醒来，面对的是异常寒冷的屋子，此时，他首先想到了他的那条蛇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man in the pet shop at the mall had given him a long lecture before he bought the animal. "They make great pets," he'd said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他买这条蛇之前，在购物商场的宠物店里，卖家给他上了好长时间的培训课。"它们是最好的宠物。”店主说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can let them roam the house if you want, and they'll find the places where they're comfortable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果你想让它们在房间里爬动，它们就会找一个舒适的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the nice thing is they'll come to you and curl up on the couch or wherever, because of your body heat, you understand." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而他们最大的好处是，它们会跟随你并盘绕在睡椅上，或者其他什么地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man - he wore a name tag that read "Bozeman" and he looked to be in his forties, with a gray-flecked goatee and his hair drawn back in a patchily dyed ponytail - clearly enjoyed dispensing advice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道，人的身体有热量。”店主身上穿着标有“勃兹曼”名字的外衣，看上去有四十岁左右，留着灰白的山羊胡子，头发向后梳着染过的凌乱的马尾辫子————他正享受着自己给别人提出的一系列忠告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As well he should, seeing that he was charging some four hundred dollars for a single reptile that must have been as common as a garden worm in its own country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，他当然也很清楚，为了这条极普通的爬行动物，向他人索要四百多美元，这样的爬行动物，在他们乡下如同园林里的蠕虫，随处可见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But most of all, especially in this weather, you've got to keep him warm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可是，最重要的，尤其是在这个季节，你可得让它保暖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a tropical animal we're talking about here, you understand? Never - and I mean never - let the temperature fall below eighty."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在这儿谈论的是热带动物，你明白吗？决不要——我的意思是说，温度一定不要低于华氏八十度。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gerard tried the light on the nightstand, but it was out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰拉德试图打开床头灯，但灯没亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ditto the light in the hall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样他又去开走廊里的灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside, the snow fell in clumps, as if it had been preformed into snowballs somewhere high in the troposphere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋外，大雪倾泻，仿佛大气层中老天爷事先安排好的一般向下抛着雪球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the living room, the thermostat read sixty-three degrees, and when he tried to click the heat on nothing happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客厅里温度显示摄氏六十三度，可是，当他按下开关时，却一点反应都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next thing he knew he was crumpling newspaper and stacking kindling in the fireplace, and where were the matches? A quick search around the house, everything a mess, the drawers stuffed with refuse, dishes piled high, nothing where it was supposed to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>紧接着，他揉搓着报纸，把它堆积在壁炉里，可是火柴在哪儿呢？他快速地在屋子里各处寻找着，屋子里乱的一团糟，抽屉里塞满了东西，能够想象到，除了一堆碗碟高高地摞在一起，其余什么东西都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, he retrieved an old lighter from a pair of paint-stained jeans on the floor in the back of the closet and he had the fire going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，他在壁橱后面的地板上，一条沾满油渍的牛仔裤中找到了一个老式的打火机，他点燃了火。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he went looking for Siddhartha. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，他开始寻找他的宠物悉达多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He found the snake curled up under the kitchen sink where the hot-water pipe fed into the faucet and dishwasher, but it was all but inanimate, as cold and slick as a garden hose left out in the frost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现它蜷缩在厨房的洗碗池下面，哪里有流经水笼头和洗碗机的热水管，尽管如此，蛇还是几乎冻僵了，就像寒冷天气中，被遗忘在田园里用来浇水的软管一样，冰冷光滑，毫无生气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was surprisingly heavy, especially for an animal that hadn't eaten in the two weeks it had been in the house, but he dragged it, stiff and frigid, from its cachette and laid it before the fireplace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把僵硬冰冷的蛇，从它的藏匿处吃力地拖到了壁炉前。简直是太重了，更让他吃惊的是，它已有两个星期没吃东西了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

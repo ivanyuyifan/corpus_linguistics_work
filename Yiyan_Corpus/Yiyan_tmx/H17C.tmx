@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200419T080845Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Preface</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>09年度全球信息技术报告前言</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All over the world, ICT has empowered individuals with unprecedented access to information and knowledge, with important consequences in terms of providing education and access to markets, of doing business, and of social interactions, among others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息与通信技术(ICT)越来越成为世界上国家竞争力战略的核心，源于它作为保持增长， 促进发展和实现现代化的重要引擎的革命性力量。近代的经济历史表明，随着发达国家接近技术前沿，信息与通信技术成为他们继续工艺和产品创新并得以保持竞争优势的关键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moreover, by increasing productivity and therefore economic growth in developing countries, ICT can play a formidable role in reducing poverty and improving living conditions and opportunities for the poor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，通过提高发展中国家的生产力从而促进其经济增长，信息与通信技术可以在减少贫困、改善生活条件和给穷人提供就业机会方面发挥巨大作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In these challenging times of global economic crisis, the extraordinary capacity of ICT to drive growth and innovation should not be overlooked, since it can play a critical role not only in facilitating countries’ recovery but also in sustaining national competitiveness in the medium to long term.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在全球金融危机这样具有挑战性的时刻，信息与通信技术推动增长和创新的强大能力不应被忽视，因为从中长期来看，不仅在促进国家复苏而且在保持国家竞争力方面，它都起着关键性的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the World Economic Forum, we are strong believers in the link between economic growth and ICT readiness, a link that should be further emphasized in the face of the current severe economic downturn and calls for budget cuts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这次世界经济论坛上，我们都强烈的认同经济增长和信息通信技术成熟度之间的关系，面对现在严峻的经济衰退和要求削减预算的形势，应该进一步重视这种关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Global Information Technology Report (GITR) series, produced by the Forum in partnership with INSEAD and published annually since 2001, has contributed to raising awareness of the importance of ICT diffusion for overall competitiveness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球信息技术论坛(GITR)系列，从2001年开始每年由本论坛联合INSEAD发布，有助于提高人们对信息与通信技术的传播对提升整体竞争力重要性的认识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The broad methodological framework of the Networked Readiness Index (NRI), featured in the Report series, identifies the enabling factors that permit countries to fully benefit from ICT advances, stressing the key responsibility of all social actors—individuals, businesses, and governments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告中侧重的大概的互联网成熟度指数的方法论体系，明确了使得国家充分受益于信息与通信技术的因素，强调了个人、商业和政府各个社会角色的主要职责。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The NRI has proven a unique tool for policymakers and all relevant stakeholders, allowing them to follow the progress of their country over time and vis-à-vis relevant comparators, and providing a neutral and authoritative platform for public-private dialogue and for designing national policies and strategies that aim toward enhanced networked readiness and competitiveness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>互联网成熟度指数已经成为决策制定者和相关利益人员的独特工具，使他们得以跟进所在国家的时代进步，提供一个客观权威的公共与私营对话的平台，帮助决策者制定旨在提高国家网络成熟度和竞争力的政策和战略。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Global Information Technology Report 2008–2009, the eighth edition in the series, presents the latest findings of the NRI, providing an updated picture of the state of networked readiness in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008-2009年度全球信息技术报告，这一系列的第八版介绍了网络成熟度的最新调查结果，提供了全球网络成熟度状况的最新图景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under the general theme of mobility, the Report notably highlights the remarkable role of mobile telephony—possibly the most revolutionary ICT—in economic growth, and once again showcases success stories of countries able to leverage ICT for increased competitiveness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在移动性的大背景下，报告特别强调了移动通信在驱动经济增长方面的显著作用，这可能是最富革命性的信息与通信技术，而且再一次展示了国家利用信息技术的杠杆作用提升竞争力的成功案例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continuing our effort to expand the coverage of the Report, a record number of 134 economies, accounting for over 98 percent of the world’s GDP, has been included this year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们继续致力于扩大报告的覆盖范围，今年的报告创纪录地包括了全球134个经济体，它们的GDP约占世界98%以上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also featured in the Report is a comprehensive data section containing detailed profiles for each economy covered and data tables with global rankings for nearly 70 indicators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样要强调的是报告的详尽的数据部分，这一部分包含了覆盖所有经济体的详细的状况和将近70个全球参考排名的数据表格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A number of essays and case studies on mobility and best practices in networked readiness complement the Report.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多关于移动性研究的论文和案例以及最佳的在网络成熟方面的实践也被补录进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We would like to express our gratitude to the respected academics and industry experts who contributed outstanding chapters to this Report, casting light on important aspects of mobility and ICT and highlighting best policies and practices in ICT diffusion and leverage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要向那些为报告中精彩篇章作出贡献的尊敬的学者和业界专家表示感谢，他们阐明了移动性能和信息与通信技术的重要方面，突出了与信息与通信技术普及和杠杆作用有关的最佳政策和实践。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Appreciation also goes to Fiona Paua, who heads the Strategic Insight Teams, and the other members of the Global Competitiveness Network: Jennifer Blanke, Ciara Browne, Agustina Ciocia, Margareta Drzeniek Hanouz,Thierry Geiger, Pearl Samandari, and Eva Trujillo Herrera. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样要向领导战略眼光团队的菲奥娜·鲍致谢，还有全球竞争力网络的其他成员：詹妮弗·布兰克，西娅拉·布朗，奥古斯汀·西奥，玛格丽特·曾尼克·汉娜兹，蒂里·盖格，坡·萨玛德瑞，以及伊沃·特鲁西略·赫雷拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last but not least, we would like to convey our sincere gratitude to our network of 150 Partner Institutes around the world and to all the business executives who participated in our Executive Opinion Survey, without whose valuable input and support the production of this Report would not have been possible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后但并不是不重要，我们要向全球150个合作机构和所有参加我们执行意见调查的业务主管致以诚挚的谢意。没有他们的鼎力支持和付出，完成这项报告将是不可能的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Global Information Technology Report 2008-2009</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008-2009全球信息技术报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2009 World Economic Forum</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2009世界经济论坛</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="x-olf-flag">1</prop>
+<tuv xml:lang="EN-US">
+<seg>We especially wish to thank the editors of the Report, Soumitra Dutta at INSEAD and Irene Mia at the World Economic Forum, for their leadership and longlasting dedication to the project. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要特别感谢报告的编辑们，INSEAD的苏梅戳·杜塔，世界经济论坛的伊瑞娜·米亚，感谢他们的领导才干以及他们对该项目的长期贡献。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

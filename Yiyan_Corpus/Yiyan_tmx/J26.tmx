@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Over the past 25 years I have had substantial interaction with a couple dozen think tanks on various administrative questions, and the topic of archiving key products and background materials for research projects has never been raised. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在过去25年里，笔者与十几家智库就各种管理问题进行了实质性的交流，但没有一家机构提及关于研究项目主要成果和背景资料的归档问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At the three think tanks at which I spent my working career, the only guidance provided to me, as the team leader or principal investigator, about organizing materials from completed projects for storage was implicit. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对此，在笔者曾经工作过的3家智库中，团队领导或首席调查员笔者唯一提供的指导，就是关于如何从已完结的项目中组织资料进行保存，但这一形式也不明确。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I never had an actual conversation about it or saw a relevant policy statement. I am quite certain that my experience is typical.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管笔者从未对此发表言论，也从未看到相关政策声明，但笔者非常确定这种经历具有一定的代表性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why bother?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>智库研究项目归档的必要性</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Too often archiving does not get much attention until something goes badly wrong. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在智库运行发生严重错误之前，归档问题往往不会得到太多的关注。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A fairly common scenario is that the principal investigator (PI) on a project leaves a think tank sometime after a project is completed. She takes with her the digital files for projects she has directed; sometime she takes the analog (physical) files as well. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>较为常见的是，在项目完成之后，该项目的主持人（PI）便会离开智库，并带走他（她）所指导项目的数字文件以及实物资料。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The think tank may well not check to be certain that it has copies of the important files. This can be the source of a major crisis later. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大多数情况下，智库不会检查这些资料中是否携带重要文件的副本，而这一行为恰恰可能成为机构日后重大管理危机产生的根源所在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, the project’s sponsor (shorthand here for the government agency, foundation, international aid agency or other type of funder) may a year or two later ask for the data set (if were not a deliverable) because it wants to exploit the data to address another policy question. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，项目最终未能产生可交付成果时，项目发起人(政府机构、基金会、国际援助机构或者其他类型的出资人)可能会在结项一两年后要求智库提供当初与项目相关的所有数据集，通过利用这些数据来解决其他政策问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The think tank may not have archived the data set. So it must turn to the PI. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而智库在研究项目结项后可能没有归档保存这些数据集，因此必须转向项目主持人来征集这些信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In reality, she may or may not have taken care in transferring various files. She also may not want to search for the data very quickly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但现实情况也许并不理想，项目主持人可能会或完全没有注意到要转移各种文件；他（她）也可能并不急于检索数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the worst case the think tank has to report that it cannot deliver the data set, casting its management in a very poor light.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最糟糕的情况就是，智库不得不对项目发起人承认无法提供数据集，这也从侧面反映出智库管理水平的不足。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One can easily imagine other instances in which a project data set could be needed after the project is closed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们应该不难想到，在研究项目结束之后这些数据集仍然能产生其他的利用需求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Given lengthy standard journal review times followed by the wait period for accepted articles to actually reach publication, two years or more may pass after the article is submitted for published quantitative analysis to be challenged. The think tank and author could be in a very awkward position if they were unsure which of the data sets they have should be employed to verify the published results.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>考虑到期刊审核时间和文章出版的等待时间较为漫长，有时文章在提交后的两年甚至更长的时间才得以发表，此时文中的定量分析内容又受到质疑，这种情况下，如果智库和作者不确定应该使用哪种数据集来验证已经发表的结果，那么他们就可能陷入非常尴尬的处境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Archives are more often exploited than one might imagine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从档案使用的角度来看，档案的利用率也远远超出人们的预期。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One of the think tanks interviewed for this article reported the results of a survey of its research staff on their archiving practices. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本文采访的其中一个智库公布了机构研究人员对其归档行为的调查结果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In response to a question on how often the respondent relies on information from previous projects to work on current projects, half said “sometimes” and 41 percent responded “very often.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在回答“多久会利用一次以前项目信息处理当前项目”的问题上，有一半的人说“有时候”，41%的人回答“非常频繁”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Obviously, well-ordered archives make exploiting prior projects more efficient.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>显而易见，有序地归档工作可以使之前的项目资料受到更高效的利用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most think tanks have a separate overarching folder for proposals submitted so that they can be mined for future proposals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其实大多数智库都会单独设立一个总文件夹，囊括项目的各个方面，用于提交提案，方便挖掘信息，满足日后的使用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Similarly, there are cases where survey data or secondary data assembled with considerable effort can be exploited for a new project; so care is taken to archive them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样，为了开发新项目，往往需要付出很大的努力来收集调查数据和辅助数据，因此对这些数据资料进行归档显得非常必要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One U.S. think tank told me that it had used data from a large 20-year-old household survey that addressed the specific topic of interest to a sponsor who wanted to learn how these respondents faired over time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一家美国智库曾利用过一次大型家庭调查数据，这一调查距今 20 年之久，目的是了解这些受访家庭如何随着时间推移摆脱种族歧视，受到平等的待遇。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The organization had preserved the questionnaires in storage. Sixty percent of respondents in the original sample were successfully contacted to create a nearly ideal data set for the study.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>智库保存了当时的调查问卷，在最初的调查样本中，60%的受访家庭与智库研究成功地联系起来，从而构建了一个近乎理想的数据集合。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Archiving analog items, such as books, reports with custom printed covers, and banners and other materials for conferences, can play a role in future communications and in preparing accurate institutional histories.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将实物资料(如书籍、客户定制的研究报告、会议横幅和其他会议材料)进行归档，对智库日后的传播交流和机构史的准确撰写具有重要意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What to do?
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何做好智库研究项目归档</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There seems to be little information published on actual think tank practices on archiving project-related materials to judge from the results of internet searches I recently conducted. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从笔者近期的网络搜索结果来看，有关项目资料归档的内容不是很多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To gain a clear impression of current archiving practices and to identify strong practices actually being implemented, I had focused discussions with those with responsibility for archiving at four think tanks, three U.S. and one Russian: NORC at the University of Chicago, the Urban Institute, Results for Development Institute, and the Institute for Urban Economics. I also reviewed their relevant policy statements where available. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>①为了清楚地了解当前智库的归档行为，确定机构是否正在采取有力措施改善这一局面，笔者访问了4家智库，包括芝加哥大学全国民意调查中心、美国城市研究所、华盛顿发展绩效研究所以及俄罗斯城市经济研究院，与机构内的归档人员展开了重点讨论，还审查了相关的政策声明。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All four think tanks are well-established; although one is only 10 years old, it already has a staff approaching 150; the other three have each operated for at least 23 years. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这4家智库目前发展成熟，虽然其中一家成立至今只有10年，但工作人员已接近150人；其余3家运营时间至少达到23年。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All conduct quantitative analyses and carry out primary data collection, as well as executing more conceptual projects. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这4家机构全都可以进行定量分析，收集原始数据，开展更多的理论性研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is a surprising range among these organizations in the attention they give to archiving, ranging from “benign neglect” to an impressive system being in place.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些组织大多经历了一个对归档工作漠不关心到形成完善的归档系统这一过程的转变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The following presents my distillation of a good model for project archiving—a model that captures the essential items and is not too resource intensive to implement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>笔者在下文主要对成熟的归档模式进行总结，这一模式既要充分体现出不可或缺的项目资料，同时在实施归档的过程中不能消耗过多资源。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The discussion first covers when to actually archive a project and then moves to explicit consideration of archiving digital and then analog materials; it closes with thoughts on maintenance tasks.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>主要针对如下几个部分展开论述，首先是项目归档的实际时间，其次要明确考虑数字文件和实物资料的归档问题，最后还要注意档案的维护工作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A couple of clarifications before starting. First, I am assuming that all think tanks assign a unique number to each project and that all records are tagged with this number, including contracting documents, financial information, data sets, reports and other products, analytic files, and others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>需要说明的是，第一，笔者假设所有的智库机构都为每一个项目分配唯一的编号，并且所有项目文件都用这个数字标记，包括合同文档、财务信息、数据集合、报告等其他项目成果以及项目分析文件等。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This does not mean that every digital file is labeled with the number but at least overarching project file folders (digital and analog) are so labeled. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但这并不意味着每份数字文件都标有数字,至少重要的项目文件（数字文件和实物资料）是这样标记的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, when I use the term “digital,” I am including both “born digital” documents and digitized analog materials.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二，当笔者使用“数字”一词时，一般有两层含义，即原生数字文件和实物资料数字化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When to archive?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确立归档时间</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is a readily identifiable “trigger event” for initiating the archiving process?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>归档工作开始的最明显标志是什么？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A sensible point is when the final product has been formally accepted by the client. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理的回答是当最终研究成果被客户所接受。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Usually the contracts officer will receive a formal message of acceptance. At this point project close out procedures are launched. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常情况下，智库会收到一份项目验收通过的正式通知，这意味着研究项目的结束。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A new item on the close out to-do list can be “Notify IT and the communications team to archive project materials.” (The communications team is involved for analog materials; see below.) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随即智库就应该在结项待办事项清单上新增一条内容，即“通知IT部门和传播小组归档项目资料”（传播小组主要负责实物资料，参阅下文。）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In cases where there is no external sponsor, the contracts officer or chief accountant can ask the project leader or the designated manager if the project is complete, at the end of the performance period specified when the project number is set up.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>到了合同规定的最后期限，当项目编号设置完成时，在没有外部项目赞助人的情况下，相关合同人员或者首席会计师可以向项目负责人或指定项目经理询问项目是否完成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What to archive?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确定归档内容</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is advisable to have two research-related digital archives:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关于研究项目资料归档，最好保存两份与研究相关的数字档案: </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One for all project-related documentation, and One for data sets.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>(1)项目相关的所有文件；(2)数据集合。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There should be additional but separate archives for certain other items that are beyond this post: all proposals submitted, whether funded or not, so parts of them can be used in future proposals; all contracting documentation; and, financial records. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与此同时，还应为其他部分项目增设一些单独的档案：所有提交的提案（不管是否有资助，有价值的部分内容都可以在将来的提议中使用）以及所有的合同文件和财务记录。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The digital project folders maintained by the principal investigator and others will have some information on these “extra” topics that were of use to various staff during project execution, but full information is in the separate folders. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除此之外，由首席调查员和其他人员维护的数字项目文件夹主要用来存放一些其他主题的信息，这些内容在项目执行期间对不同的工作人员有不同的用途，而完整的项目信息则存放在单独的文件夹中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The same project number is used to identify all the information stored for a project in all archives.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同一项目编号可用于标识该项目所有档案中存储的全部信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Digital materials other than data sets</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数字文件（非数据集）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unless a think tank is quite small, all project information for active projects is kept on one of its servers during the life of project, organized by project number.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除非智库规模较小，所有现行项目信息都应该在项目生命周期内被保存在服务器上，并按项目编号有序组织起来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A couple of simple folder maintenance practices can make these materials when archived dramatically easier to use in the future. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对这些文件采取一些简单的维护措施有利于归档后的使用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, within each involved staff member’s overarching project folder the organization’s policy can be that there should be a series of folders with standard names for major topics (and perhaps even some subfolders) covering topics as: the contract, subcontracts, consultants, invoices, data, analyses, reports, events, presentations, and so on. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，智库应规定，在每个相关人员的项目总文件夹中，都应该包含一系列名称标准、主题重要的文件夹，甚至还可能包含一些子文件夹，涉及合同、子合同、咨询公司、发票、数据、分析表、报告、重大事件以及成果展示等研究项目的不同方面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(Defining this set of folders with substantial senior staff input is highly desirable to gain acceptance.) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>(明确这一组由大量高级研究员形成的文件夹内容对获得客户认可是非常可取的。)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Each staff working on the project maintain the materials for the project in his master folder identified with the project number. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>项目人员主要维护各自文件夹中的项目资料并将其进行编号标识。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The full contents of all of a project’s folder are archived. This is quicker than attempting to review each staff member’s sub-folders for relevance.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>②此外，所有项目文件夹内的全部内容都将进行归档，这比试图检查每位相关人员的子文件夹有无关联性要更容易实践。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Principal Investigator will usually have the most complete set of folders. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>项目主持人通常会拥有最完整的文件夹集合。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other staff working on the project have folders containing sub-folders with identical labels but typically only a few have substantial content, typically having to do with data sets, analyses, literature reviews, and similar. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他项目人员有包含同一项目标签的子文件夹，但通常只有少数文件夹内含有大量内容，且往往与数据集、分析表、文献评论等类似事物有关。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At a project’s termination all files in all project folders are archived.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在项目结束时，所有项目文件夹中的全部文件都将被归档。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Data sets</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数据集</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These are kept separately because they may be needed for use in a future project (or proposal) or for results verification and it will be easier to properly label and locate this way. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数据集往往单独保存，这既是为了满足将来的研究项目（或提议）的使用需求和结果验证的方便，也更利于进行正确的标记和定位。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It follows that each “data set” needs to include proper documentation so that someone who has not worked with the data previously will be able to do so. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由此可以得出结论，每个“数据集”都要包含适当的文档，以便没有数据处理经验的人员能快速上手。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also, if multiple versions of the data exist, the version stored needs to be that set used in the analysis presented in the final report. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，如果数据存在多个版本，数据集使用并存储的版本应该在最终研究报道中呈现出来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, multiple versions can be stored but differences among them need to be clearly documented.It is highly desirable for both primary or secondary data sets be created for the archives following widely accepted standards for describing surveys, questionnaires, statistical data files, and social sciences study-level information. Such protocols include the World Bank’s Data Documentation Initiative (DDI) + and the Nesstar + protocol. These protocols are such that they permit an analyst new to the data to understand how the data were collected (e.g., sample attributes), examine the raw data, understand adjustments made to the raw data (e.g., imputation of missing values), and access the final data which were employed in the analysis reported in reports, journal, articles and books.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>按照普遍认可的标准来描述项目调查情况、编写调查问卷、收集统计数据和相关的社会科学研究信息，这一做法极大地促进档案主要数据集和辅助数据集的创建。同时，包括世界银行数据文件倡议(DDI)③和Nesstar④议定书在内的这些协议允许分析人员新建数据掌握数据的收集方式(如样本属性)，检查原始数据，了解对原始数据进行的调整(如填补缺失值)，并访问在报告、杂志、文章和书籍中分析使用的最终数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because sponsors are ever more frequently asking for data sets as a deliverable under contracts, as noted earlier, think tanks should make it a general practice to prepare for this in project work plans and to include in budgets the costs to prepare data sets in good order for storage and future use as well as delivery to sponsors.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如前文所述，由于项目发起人频频要求数据集按照合同要求形成可交付成果，智库应将这一要求贯彻到项目工作计划中加以实施，并在预算中列入数据集的编制费用，以便存储和今后的使用，并向赞助商交付。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Analog materials</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实物资料</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While the vast majority of materials to be saved are digital, there will be physical items that a think tank will want to save for future reference or display. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然大多数有待保存的资料都是数字化的，但智库仍然需要保存实物资料，以备将来参考或展示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Having a physical copy of books produced either by a project or based on a project’s research is one example. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过项目或基于对项目研究而产生的书籍副本就是一个例子。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bound reports with project-specific covers may be another; conference documents such as handouts that cannot be digitized faithfully are other candidates. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而具有特定项目封面的报告可能是另一种；当然还包括会议文件，如无法准确数字化的会议讲义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Where a project involves primary data collection with paper questionnaires, sponsors may require that the original forms be kept for several years even though the information has been digitized. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果一个项目在研究过程中涉及原始数据收集和纸质问卷调查这些环节，那么即使这些信息已经数字化，项目发起人还是可能会要求智库长时间保留原始表格。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Different organizations will have different preferences and policies on retention periods.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>至于保留期限，不同的智库有不同的选择和政策。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is a strong case to assign primary responsibility for gathering these materials to the communications group because it will be involved in organizing events and in preparing publications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，还必须分配专人负责将这些资料集中到传播小组，以便于在参与组织活动和编写出版物的过程中加以利用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In contrast to the end-of-project action for research materials, these analog materials should be collected as they are developed to avoid missing some, which can easily happen if collection is postponed to the end of a multiyear project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与结项的研究材料不同，为了避免遗失，这些实物资料应该在开发阶段就开始收集，一旦等到为期多年的项目结束之后才开始收集，很容易发生资料缺漏的现象。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Still an end-of-project review with the team leader of materials produced should be conducted. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同时，仍需与资料收集小组的组长实施结项审查。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The review should include explicit questions about physical records that need to be retained.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>审查应包括有关需要保留的实物记录这些明确的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is a good idea to save at least two copies of everything (except completed survey forms and similar items) so that one can be accessible to staff on a routine basis in the library or similar space and another, the true archive, can be stored in a secure space.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些实物资料（除了完成的调查表和类似的项目）最好保存至少两份副本，以便在日常工作中，满足工作人员在图书馆或类似场所的查阅需求，而真正的实物资料则应存储在一个安全的空间里。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Storage and access</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>项目档案的存储和访问</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Digital archives</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2.3.1 数字档案</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A fundamental goal of archiving documents in any format is to preserve their integrity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>采取任何一种形式归档文件的基本目的都是维护档案完整性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This can especially challenging for digital archives where files can be easily deleted or overwritten—think of a data set being updated through further work on imputing missing values. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这对于那些可以轻松删除或改写的数字文件来说极富挑战性——可以考虑通过填补缺失值来更新数据集。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To maintain integrity access to folders has to be restricted and even when access is granted limitations on types of file manipulation must be imposed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了保持完整性，必须对文件夹设置访问权限，即使在授予访问权限的情况下，也必须对文件处理的类型施加限制。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, standard rules can be that no new files, including replacements for existing files, can be saved to a project’s archive folder without case-by-case permission and action by the IT group.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，标准规则中规定，当没有增设新文件以及现存文件的替代文件时，不需要 IT 部门逐项给予操作权限，可直接将文件保存到项目的归档文件夹中。</seg></tuv>
+</tu>
+</body>
+</tmx>

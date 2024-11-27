@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Brief Academic Biography of Marvin Minsky</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马文-明斯基学术传记摘要</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Marvin Minsky is Toshiba Professor of Media Arts and Sciences, and Professor of Electrical Engineering and Computer Science, at the Massachusetts Institute of Technology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马文-明斯基是日本东芝公司媒体艺术和科学领域的教授，也是麻省理工的电子工程和计算机科学领域的教授。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His research has led to both theoretical and practical advances in artificial intelligence, cognitive psychology, neural networks, and the theory of Turing Machines and recursive functions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的研究引领了人工智能、认知心理学、神经网络、图灵机理论和回归函数这些领域的理论与实践的发展潮流。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(In 1961 he solved Emil Post's problem of "Tag", and showed that any computer can be simulated by a machine with only two registers and two simple instructions.) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（在1961年，他解决了Emil Post的“标签”问题，并且说明了任何计算机都可以只被两个寄存器和两个简单指令的机器所模拟）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He has made other contributions in the domains of graphics, symbolic mathematical computation, knowledge representation, commonsensical semantics, machine perception, and both symbolic and connectionist learning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他还在图象处理领域、符号计算、知识表示、计算语义学、机器感知和符号连接学习领域做出许多贡献。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He has also been involved with advanced technologies for exploring space.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他还潜心于探索太空的高级技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Professor Minsky was a pioneer of robotics and telepresence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Minsky教授还是机器人技术和远程呈现技术的先驱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He designed and built some of the first visual scanners, mechanical hands with tactile sensors, one of the first LOGO "turtles," and their software and hardware interfaces. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他设计制造了第一批扫描仪和具有触觉器的机器手，还设计了第一个“海龟”图标，并设计了相应的软件和计算机接口。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These influenced many subsequent robotic projects.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些影响了大批麻省理工以外的机器人项目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1951 he built the first randomly wired neural network learning machine (called SNARC, for Stochastic Neural-Analog Reinforcement Computer), based on reinforcing the synaptic connections that contributed to recent reactions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在1951年，他设计了第一个神经元网络模拟器(called SNARC, for Stochastic Neural-Analog Reinforcement Computer)，它是基于神经突触递质系数的强化方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1956, when a Junior Fellow at Harvard, he invented and built the first Confocal Scanning Microscope, an optical instrument with unprecedented resolution and image quality.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1956年，作为哈佛三年级的学生，他发明并建成了第一个共焦扫描显微镜，一种具有空前辨析能力和超高图象品质的光学设备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since the early 1950s, Marvin Minsky has worked on using computational ideas to characterize human psychological processes, as well as working to endow machines with intelligence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从50年代早期，Minsky一直致力于用计算机思想去刻画人类心理过程和并想法赋予机器智能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His seminal 1961 paper, "Steps Towards Artificial Intelligence" surveyed and analyzed what had been done before, and outlined many major problems that the infant discipline would later later need to face. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他有开创性的1961年的论文《迈向人工智能》概述和分析了以前的成果，并提出了这个新生学科的主要问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The 1963 paper, "Matter, Mind, and Models" addressed the problem of making self-aware machines. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1963年的论文《matter,mind,and models》论述了制造自我意识机器的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In "Perceptrons," 1969, Minsky and Seymour Papert characterized the capabilities and limitations of loop-free learning and pattern recognition machines. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在1969年的《perceptron》论文中，他和Seymour Papert论述了无循环学习和模式识别机器的功能和局限。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>See my further remarks below. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我后面会更多的讲到。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In "A Framework for Representing Knowledge" (1974) Minsky put forth a model of knowledge representation to account for many phenomena in cognition, language understanding, and visual perception. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在A Framework for Representing Knowledge(1971) Minsky发表了一个用来说明在认知、语言理解、视觉感知方面的各种现象的知识表示模型。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These representations, called "frames," inherited their variable assignments from previously defined frames, and are often considered to be an early form of object oriented programming.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些知识表示（称为“frame”）可以继承它们上级frame的变量分配，这些也常常被认为是面向对象程序的早期形式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the early 1970s, Minsky and Papert began formulating a theory called The Society of Mind which combined insights from developmental child psychology and their experience with research on Artificial Intelligence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在70年代早期，Minsky 和 Papert 开始阐明一个叫做The Society of Mind的理论，它通过观察成长中的儿童的心理和活动来进行人工智能的研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Society of Mind proposes that intelligence is not the product of any singular mechanism, but comes from the managed interaction of a diverse variety of resourceful agents. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该理论认为并非单一机制的产物，而是产生于多agents不同策略的交互作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They argued that such diversity is necessary because different tasks require fundamentally different mechanisms; this transforms psychology from a fruitless quest for a few "basic" principles into a search for mechanisms that a mind could use to manage the interaction of many diverse elements.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们认为这种多样性是很必要的，因为不同的任务需要不同的机制，这就把心理学从一些不结果实的“基本”原理（虚无的心理学概念定义）转变成为对不同因素的可操作性研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bits and pieces of this theory emerged in papers through the 70s and early 80s. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在70年代和80年代早期，这些理论零散的出现在各种论文中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Papert turned his energies to applying these new ideas to transforming education while Minsky continued to work primarily on the theory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Papert用主要精力来把这些理论应用于教育而Minsky继续主攻该理论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1985, he published "The Society of Mind," a book in which 270 interconnected one-page ideas reflect the structure of the theory itself. Each page either proposes one such mechanism to account for some psychological phenomena or addresses a problem introduced by some proposed solution of another page. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在1985年他发表了The Society of Mind一书，在书中每一页都提出一种解决心理现象的机制或说明另一页方案的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 2006, Minsky published a sequel, "The Emotion Machine," which proposes theories that could account for human higher-level feelings, goals, emotions, and conscious thoughts in terms of multiple levels of processes, some of which can reflect on the others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2006年，Minsky出版了续篇The Emotion Mathine，书中提供了更多的理论用来解决感觉、目的、情感和多层次的有意识思考问题。其中一些问题可以引起对其它问题的思考。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By providing us with mulitple different "ways to think," these processes could account for much of our uniquely human resourcefulness.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过提供给我们不同的思考方法，这些可以说明许多我们人类才有的足智多谋现象。</seg></tuv>
+</tu>
+</body>
+</tmx>

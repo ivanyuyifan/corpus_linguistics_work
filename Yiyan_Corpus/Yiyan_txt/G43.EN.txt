@@ -1,0 +1,103 @@
+Navigating Stuckness: Jonathan Harris
+Getting Stuck
+A few weeks ago, I was having dinner with my mom in Manhattan. 
+She was telling me her plans for this year's Christmas card. 
+"This year," she said, "instead of writing my usual newsy card, I think I'll just say, 'Amanda's about to have a baby, and Jonathan moved from California back to New York.'"
+"Sounds good to me," I said.
+"Well," she said, "it seems like you used to do so much in a year, and I always wanted to include all your news. 
+But this year, it just seems like you haven't been doing very much, so I figured a shorter note was in order."
+I squirmed in my chair and readjusted my napkin. 
+My mom - maybe like all moms - has a special way of saying just the thing that'll hit your most vulnerable spot. 
+She's right - this year, I haven't been doing very much. 
+I've spent a lot of time wandering into churches, reading old journals, watching YouTube videos, and staring out of windows, but very little time making any work. 
+I've been feeling really stuck, unsure about what to do next, and struggling with a lot of self-doubt and confusion.
+After dinner, I walked across the street to the Lincoln Center fountain, and I sat on the granite slab next to the water. 
+The night was dark and cold. 
+Operagoers in tuxedos rushed to get taxis. 
+I could feel the black stone below my body. 
+I looked at the city sky but I couldn't see stars. 
+I turned my head to look at the water. The columns of water were moving up and down in some kind of pattern, but I couldn't tell what it was. 
+Sometimes the columns of water were tall, and moving up and down within their tallness. Other times, the columns of water were low, and moving up and down within their lowness. 
+The columns of water were never not moving.
+I thought about stuckness, and about where I lost the flow. 
+I remembered other times in my life I'd been stuck, and how the stuckness always eventually passed. 
+I thought how life is a lot like that fountain, with its columns of water moving up and down, and how the low points are actually thrilling because the high points are about to come back, and how the high points are actually terrifying, because the low points always come next.
+I thought of my life as a series of chapters, and I realized that each time I'd been majorly stuck, it meant that a life chapter was ending, and that a new one needed to start - like the stuckness was always a signal indicating imminent change. 
+My life has had a bunch of different chapters, each one beginning with the fresh-faced idealism of a new approach to living, and each one ending with a period of stuckness and a moment of crisis. 
+I'd like to tell you about those chapters, in case they contain something useful for you.
+I should say up front that I'm lucky to make a living mainly by giving talks about my work at conferences, companies, and universities, which affords me a lot of time each year to make new work (and to obsess endlessly about what that work should be). 
+In Zen philosophy, they say that anything pushed to its extreme becomes its opposite. 
+Sometimes I wonder whether too much freedom produces a weird kind of psychological paralysis, which is almost like prison. 
+Still, obviously I'm grateful to be grappling with too much freedom instead of too little.
+Chapter 1: Paint (1995-2003)
+Paint - a foggy field in Deerfield, Massachusetts, with pages from my travel journals.
+In high school, I was a total romantic. 
+I had a field easel, and I'd stand around in meadows doing oil paintings while wearing a little beret. 
+In college, inspired by the travel journals of Peter Beard, I kept elaborate sketchbooks filled with dead insects, pasted plants, ticket stubs, watercolor paintings, photographs, and writing. 
+I made these books by hand and kept them for several years. 
+At the same time, I was studying computer science in the early days of the Internet, and I felt a growing rift between the sober art of painting and the dizzying potential of the web. 
+I couldn't find a way to bridge these two worlds, and I started to feel torn - partly pulled into the future, and partly stuck in the past. 
+I'd graduated from Princeton but was still living in town, doing odd jobs and generally feeling bad about myself and unsure about what to do next. 
+I took a trip to Central America and ended up getting robbed by five guys who put a gun to my head, beat me up pretty badly, and stole my bag, which contained a sketchbook with nine months of work. 
+It was one of those odd moments in life that's really traumatic, but which ends up being a doorway into something new. 
+After the robbery, I gave up painting, stopped keeping sketchbooks, and resolved to use computer code as my new artistic medium. 
+I wanted to make things that guys with guns couldn't steal. 
+Around this time, I received a one-year fellowship at Fabrica, a communications research center in northern Italy. 
+I moved to Italy, and I started writing code.
+Chapter 2: Data (2003-2008) 
+Data - coding I Want You To Want Me in my old apartment in Brooklyn, New York.
+I became obsessed with the potential of data to tell me everything I'd ever need to know about life. 
+I could sit safely at my desk and write computer programs to gather vast amounts of Internet data, which I thought could finally answer timeless questions like "what is love?" and "what is faith?" with precision and clarity. 
+With manic self-confidence, I pumped out project after project visualizing different data sets, pairing each project with a bombastic artist statement about how the work revealed insights about humanity that had previously been hidden.
+There was We Feel Fine (a search engine for human emotions), Universe (a system for deducing new constellations for the night sky), I Want You To Want Me (a study of online dating), Lovelines (a portrait of love and hate), 10??10 (a distillation of global media coverage), Phylotaxis (a visualization of science news), and Wordcount (an exploration of language).
+My data visualization work coincided nicely with society's increasing obsession with data-based reasoning, which was infiltrating nearly every aspect of our lives - from news, to sports, to finance, to education, to politics, to healthcare, to dating. 
+Because of this, I got lucky, and had some early success. 
+I got to speak at TED, got a commission from the Museum of Modern Art (MoMA) in New York City, showed my work at Sundance, appeared on CNN and NPR, and companies started paying me to give one-hour lectures about working with data. 
+I quit my job, and spent all my time giving talks and making work.
+I burned through projects and people, devouring a series of relationships that never seemed as interesting as my work. 
+I was full of pithy insights about human emotion to spout at cocktail parties, but I started to notice that my data-based insights did very little to help my actual relationships. 
+I began to grow suspicious of data. My insights felt increasingly superficial, and though they made me sound clever and witty, they didn't do much to help me be kind. 
+The world's love affair with data was just heating up, but mine was cooling down.
+MoMA commissioned the last data-based work I made: a project about online dating, called I Want You To Want Me. 
+I've never worked harder on anything. 
+For three months, I spent eighteen hours a day in front of a five-foot-wide touchscreen, poring over hundreds of thousands of dating profiles, and writing over 50,000 lines of code. 
+I'd go for walks in the evening around my neighborhood in Brooklyn, and I'd look into restaurants at actual couples on actual dates, unable to imagine what they could possibly be saying. 
+My mind was completely inside the machine, and I'd never felt more alienated from other human beings. 
+I guess I thought the MoMA commission would somehow change my life, catapulting me into even higher echelons of fame and attention. 
+But that didn't really happen. 
+The show went up, there was a big party, and then people basically went back to their lives.
+I didn't know what to do next. 
+I went on some Internet dates, but it was hard to connect with anyone, and I just ended up feeling worse about myself. 
+I started to get really depressed. 
+I went down to Texas. I drove out to Marfa and saw the Marfa lights. 
+I drove to the Mexico border and waded across the Rio Grande into a desolate Mexican town. 
+I slept out in the desert under the stars. 
+Being away from computer screens, I started to feel better. A sense of adventure and possibility crept back into my life. 
+I'd meet strangers in diners, and it would feel good to talk to them. 
+I started to feel human again. 
+I liked the feeling of rambling around, getting into strange situations, and actually living life in the physical world. 
+I decided to start making projects about the real world - where instead of using a computer, I'd do the "data collection" myself. 
+I'd take photos. I'd shoot videos. I'd record sound. 
+I went back to New York to get started.
+Chapter 3: Documentary (2008-2010) 
+Documentary - characters from The Whale Hunt, Balloons of Bhutan, and I Love Your Work.
+Instead of trying to be the smartest person in the room, now I wanted to be the most interesting. 
+Many people make choices to try to be better people - they take up yoga, they become vegetarian, they resolve to spend more time with their parents. 
+Often, I use my work as a way to steer my life in a particular direction. 
+I'll identify something I want to change about myself, and then I'll design a project to help me do it. 
+In this case, I felt like I'd never really become a man. 
+My childhood friends in Vermont were hunting deer, building houses, running farms, and being dads. 
+I was just typing into computers, writing clever programs, and looking for praise. 
+I wanted to change that. I wanted to live a bolder life, and I designed a series of projects to force me to try. 
+I went whale hunting in Alaska. I traveled to Bhutan to learn about spirituality and happiness. I filmed the everyday lives of lesbian porn stars in New York. 
+For each of my deficiencies (masculinity, wisdom, sexuality), I designed a project to help me confront it, which I hoped would help me transcend it. 
+In a way, this worked. 
+My life suddenly got interesting. People were curious. 
+I always had outrageous stories to tell. 
+I'd present these stories in intricate interactive frameworks of my own design, and I'd release them on the web. 
+Again, I got lucky. 
+My work with interactive storytelling coincided with society's increasing obsession with "storytelling" in all of its forms.
+Storytelling, which used to be a reasonably small niche populated by organizations like This American Life, The Moth, and StoryCorps, was suddenly everywhere. Every advertising agency was now a "storytelling agency," every ad campaign was now a "storytelling campaign," and every app was now a "storytelling tool." 
+Storytelling had gone mainstream and become one of those words - like "sustainability" and "innovation"- that's so ubiquitous as to be basically meaningless. 
+Yet through all this, I was riding the wave.
+The World Economic Forum named me a "Young Global Leader," citing my storytelling work. 

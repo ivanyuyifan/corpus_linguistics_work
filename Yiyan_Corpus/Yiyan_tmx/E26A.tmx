@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>How to Protect Your Privacy on Public WiFi Networks </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用公共WIFI时如何保护个人隐私</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So you're at your favorite coffee shop and have hopped on to the free WiFi with your tablet to check your social networks, read the latest news, and maybe take a quick peek at your bank balance while you're enjoying your latte. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在你喜爱的咖啡厅享受香浓的拿铁的时候，边使用免费WIFI刷新你的社交网络，阅读最新新闻，又或者上网瞧瞧银行账户余额。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We're so used to having Internet access whenever and wherever we need it that we don't often stop to consider whether logging into a public network is safe.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们习惯不分地点不分时候地使用WIFI，已经忘记要停下来想一想登录公共网络是否安全。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To find out just what the risks were, we consulted Con Mallon, a mobility expert with Symantec. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了查出使用公共网络的风险所在， 我们向赛门铁克的一位移动专家，康·马伦咨询。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"For lot of people, the first thing they do when they wander into a coffee shop or hotel lobby or the airport is to flip on their WiFi and try to find a free hotspot rather than use your own data plan or buying time from a hotspot," Mallon says.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马伦提出：“当大部分人走进咖啡店，酒店大堂又或者机场时首先会使用WIFI寻找免费热点，而不是使用自己的流量套餐或者购买热点时间”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are three major ways these free, open hotspots could get you into trouble, he explains.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马伦解释道：“这些免费开放的热点有三种途径会令你惹上麻烦”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The risks of free WiFi </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>免费WIFI的风险</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Using public WiFi isn't unlike having a conversation in a public place: Others can overhear you. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用公共WIFI不像你在公共场合里谈话被别人偷听。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you don't take precautions, information your devices send over a public WiFi network goes out in clear text -- and anyone else on the network could easily take a look at what you're doing with just a few simple software tools.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你如果不警惕的话，手中设备的信息将通过公共WIFI网络白字黑字地公开—任何人会使用几个简单的应用软件很方便地看到你在做什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Someone spying could easily pick up your passwords or other private information. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些从事间谍活动的人可以不费吹灰之力就能盗窃你的密码或其他私人信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you use the same password on multiple sites, that could be a big problem. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你在多个地点上使用同一个密码，那么问题就大了。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mallon reports that this is the biggest concern with public hotspots.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马伦指出这就是公共热点的最大问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The next potential problem is what Mallon calls a honeypot. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外一个潜在的问题是马伦所说的甜蜜陷阱。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thieves might set up their own WiFi hotspot with an unassuming name like "Public WiFi" to tempt you to connect so they can grab up any data you send. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>盗窃者会设置他们拥有的WIFI热点并取名如“公共WIFI”引诱你连接，然后他们就能抓取你发送的任何数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These are easy to set up without any kind of special equipment -- it could be done just using a laptop or smartphone -- so you could run into them anywhere. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这很容易做得到，无需使用任何特殊设备—只需利用笔记本电脑或者智能手机—然后可以肆意侵入任何地方。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mallon couldn't say just how common these honeypots are, but news reports about honeypots pop up once or twice a year.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马伦说不出这些甜蜜陷阱究竟有多普遍，但是关于甜蜜陷阱的新闻报道每年都有一两条。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Finally, using public WiFi puts you at risk for session hijacking, in which a hacker who's monitoring your WiFi traffic attempts to take over an open session you have with an online service (like a social media site or an email client) by stealing the browser cookies the service uses to recognize who you are. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后，使用公共WIFI存在联机挟持的风险，监视你WIFI流量的黑客通过偷窃网上服务用于识别你身份的浏览器COOKIES能设法劫夺你所使用的网上服务（如社交网站或者电邮代理）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once hackers have that cookie, they can pretend to be you on these sites or even find your login and password information stored inside the cookie.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一旦黑客得到了COOKIE， 他们在这些网上可以伪装成你，甚至能在COOKIE中取得你登录名和密码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How to stay safe on public WiFi </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何安全使用公共WIFI</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Before you connect, be sure you know whose network you're connecting to so you don't fall prey to WiFi honeypots. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在连接WIFI之前，确保你清楚明了你将连接到谁的网络，就不会堕入WIFI的甜蜜陷阱。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're not sure what the public network at a business is called, ask an employee before connecting.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你不确定商家的公共网络叫什么，连接前请问问店员。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Check to make sure your computer or smartphone is not set up to automatically connect to unknown WiFi networks -- or set it to ask you before connecting -- so you're sure you know what you're connecting to when you connect.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>检查你的电脑或者智能手机没有设置为自动连接至陌生WIFI网络----或者设定为连接前询问是否加入网络。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Make sure to connect to websites via HTTPS, which encrypts anything you send and receive from the website. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确保通过HTTPS连接网站，这样可以加密你所收发网站信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While a VPN service encrypts everything you send, HTTPS ensures that communication to and from a particular website is secure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当VPN加密你所有发出的信息， HTTPS能确保你与某些网站通讯安全。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To verify if you're connected via HTTPS, look at the address bar of your browser window; you should see "HTTPS" at the beginning of the web address (or, on some web browsers, a lock icon).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要识别你是否经由HTTPS连接，就看看你的浏览器的地址栏；你可以看到在网址前的“HTTPS”（或者在某些浏览器上能见到上锁图标）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To encrypt all of the data you send, use a VPN service. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若要对你所发的数据加密，请使用VPN服务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Anyone trying to steal your data will see only encrypted data that they can't get into. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何试图盗取你数据的人只能看到他们所不能进入的加密数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are many services that can do this, including Witopia.net,StrongVPN.com and Norton's Hotspot Privacy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>包括WITOPIA.NET, STRONGVPN.COM和NORTON’S HOTSPOT PRIVACY都可以。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>VPN services charge a fee for their use, with pay packages ranging from day passes to year-round protection.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>VPN服务向用户收取费用，从按天计算到包年的都有。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whenever you can, use two-factor authentication, which requires both a password and a secondary code that changes regularly, for websites. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你可以在任何时候登入网站时使用两步验证，两步验证要求输入密码和经常变化的验证码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This makes it very difficult for hackers to get at your accounts because even if they can get your password, they won't have the secondary code. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样可以使得黑客难以侵入你的账号因为即使他们知道你的密码，他们也拿不到验证码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Though not all services support it, many popular sites offer this level of security including Google, [Twitter](https://www.facebook.com/note.php?note_&gt;Facebook, &lt;a href=), LinkedIn, Apple andMicrosoft.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管不是所有的服务都支持两步验证，仍有许多热门网站包括GOOGLE, TWITTER, FACEBOOK,LINKEDIN,APPLE和MICROSOFT在内有提供这项安保服务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Make sure your computer isn't configured to share access to files. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确保你的电脑没有设置文件共享。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When you're at home, it may be convenient to keep things in a folder you share with other members of the household, but that's less safe when you're connecting to public WiFi.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用一个供家庭成员共享的文件夹装载文件若是在家时比较方便，但若在公共场合连接到公共WIFI就不怎么安全了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Disable sharing in: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关闭共享的设置：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Windows 8: Go to Control Panel &gt; Network and Internet &gt; View network status and Tasks &gt; Change advanced sharing settings &gt; Turn off file and printer sharing &gt; Save changes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>WINDOWS 8：进入控制面板&gt;网络和互联网&gt;查看网络状态和任务&gt;更改高级共享设置&gt;关闭文件和打印机共享&gt;保存设置。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Windows 7: Go to Control Panel &gt; Network and Sharing Center &gt; Change advanced sharing settings &gt; Home or Work &gt; Turn off file and printer sharing &gt; Save changes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>WINDOWS 7：进入控制面板&gt;网络与共享中心&gt;更改高级共享设置&gt;家庭或工作&gt;关闭文件与打印机共享&gt;保存更改。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mac OS X: Go to System Preferences &gt; Sharing and be sure that File Sharing doesn't have a check mark by it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>MAC OS X: 进入系统偏好设置&gt;共享， 确定文件共享选项没有选中打钩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Good luck, and safe browsing!</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>祝你好运，安全浏览！</seg></tuv>
+</tu>
+</body>
+</tmx>

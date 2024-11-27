@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160304T134008Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Texans report fireball in sky, sonic booms</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德州上空惊现火球和音爆 疑似卫星碎片</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sonic booms and at least one fireball in the sky were reported in Texas on Sunday, less than a week after two satellites collided in space and a day after the Federal Aviation Administration asked U.S. pilots to watch for "falling space debris," authorities said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当局称，周日德州上空出现超音速音爆和至少一个火球，这距离两个卫星太空相撞不到一周，距离美国联邦航空局要求飞行员注意“下落的太空碎片”只有一天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were no reports of ground strikes or interference with aircraft in flight, FAA spokesman Roland Herwig said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦航空局发言人罗兰赫韦格表示目前尚未有地面撞击或影响航空器飞行的报告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Herwig told CNN the FAA received no reports from pilots in the air of any sightings but the agency recieved "numerous" calls from people on the ground from Dallas, Texas, south to Austin, Texas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赫韦格对CNN记者说联邦航空局没有收到来自飞行员的空中目击报告，但从德州的达拉斯到奥斯汀南部有“大量的”电话打到CNN。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

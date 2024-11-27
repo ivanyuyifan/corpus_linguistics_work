@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T130217Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't Marry Your Soul Mate</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要和你的灵魂伴侣结婚</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realize that this is probably not going to be my most popular post, but it's what I feel needs to be said, so here you go.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我意识到这可能不会成为我最受欢迎的邮件，但我觉得它需要被说，所以让我们开始吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not a big fan of marriage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是婚姻的脑残粉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think marriage takes really talented dreamers and creative beings that are capable of creating real change and puts them inside this widely accepted institution of marriage, where they will then spend most of their time, emotions, magic, and valuable energy trying to be "good" citizens and live up to the impossible "perfect marriage/perfect family" illusion that has been so successfully placed in our heads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我认为婚姻需要那些有能力创造真正的变化并把他们放进被普遍接受的婚姻制度里的真正有天赋的梦想家和创造者，他们会花费他们大部分的时间，情感，魅力和宝贵的精力，努力成为“良好”公民，然后实现被成功根植在我们脑子里的那些不可能的“完美婚姻/完美家庭”的幻想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marriage also has the potential to produce a lethal feeling that we now have ownership of another soul because they said "I do," gave us a ring and signed a contract saying they would not leave us (do you ever stop to look at how crazy it all is?).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚姻也有让我们产生这种致命想法的可能性：现在我们拥有了另一个灵魂因为他们说了“我愿意”，给了我们一枚戒指并且签了一份说他们永远不会离开我们的协议。（你有没有曾经停下来想过这些念头有多么疯狂？）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the greatest deceptions we can fall victim to is the lie that we should need someone else in our life in order to be complete. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使我们成为受害者的最大的谎言之一就是为了使我们的生活变得更完整，我们需要另一个人出现在我们生活中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are set up waiting for Mr. or Mrs. right to come along so that we can begin our life and be truly happy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们被创造出来就是为了等待真命天子或者真命天女的出现以便我们可以开始我们的生活并获得真正的幸福。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've been with the same man for 15 years and we still really, really like each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和我的丈夫在一起已经有15年了，我们仍然十分喜欢对方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think that has a lot to do with the fact that we each stand alone, beautiful, creating light, both working toward helping each other reach our individual goals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想这很大程度上跟我们双方都独立，美丽，创造光辉,努力帮助彼此实现个人目标有关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are so incredibly different, but neither of us is fighting to change the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是如此得不一样，但我们任何一方都不会为改变对方而斗争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have grown to respect and appreciate each other as we are. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们已经成长到懂得去尊重和欣赏对方真正的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't need one another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不需要彼此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We enjoy each other, but we don't need each other... there's a big difference. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们喜欢彼此，但并不需要对方......这两者有很大的区别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most unromantic line in the world is "you complete me" - it literally makes me want to scream when I hear it at weddings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界上最不浪漫的一句话就是“你使我变得完整”，每当我在婚礼上听到这句话时，简直让我想要尖叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to complete myself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要使自己变得完整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Spin solo until you are in perfect harmony with source and are able to create magic alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>独自旋转直到你能够和周围的环境和谐相处并且能够独立创造奇迹为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then you can, if you choose, attract someone who can spin along side you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后你可以去做，如果你做出选择，吸引另一个人在你身旁独自旋转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The result is two beautiful souls who are spinning separately, but in perfect harmony... that's where magic happens!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么结果会是两个美丽的灵魂独自旋转着，但却相得益彰......这就是奇迹所在！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about children?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那孩子怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't believe we were all meant to have children and the pressure created by our culture to have a family is RIDICULOUS! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不相信我们每个人本意都想要孩子，而那份来自文化的让我们拥有家庭的压力非常荒谬！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That being said, once the decision to have children is made or made for you, then yes, it's beneficial for their sake to find a mate willing to help you give them the best life possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这份压力告诉我们，一旦你决定要孩子了，那么，他们让你应该找到一个同伴来帮助你给孩子尽可能最好的生活的理由就变得合乎常理了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That doesn't mean you both live in the same house, but you are committed to working together peacefully to make sure the children are given the support they need to grow into healthy, confident and emotionally stable members of society.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不意味着你们要住在一间房子里，但是你们要承诺一起工作以保证给予孩子成为一名健康的、自信的，情绪稳定的社会成员的支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you do get married, because that's what you want... WONDERFUL! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你真的结婚了，因为这是你想要的精彩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just make sure to keep your expectations realistic and be open and honest about how you're feeling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么你就努力使你的期望成真并且诚实面对你真实的感受吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's unhealthy for anyone to be in a long term relationship where they feel trapped and miserable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长期处于一段漫长的不和谐的让人感受到痛苦受挫的关系不利于身心健康。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's also why we have so much trauma related to relationships in our life that didn't last... mother/father, first love, etc. because we had this fairy tale image of what love looks like and when it turned out different we were crushed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也是为什么在我们的生活中我们有那么多的创伤与我们父母亲，初恋情人等等的关系有关。因为当我们分手后，我们曾经有的关于什么是爱的童话想象就会变得不一样了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't marry your soul mate</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要和你的灵魂伴侣结婚</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Billy is a good friend (the best, really). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比利是我的一个好朋友（真的是最好的那种）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's the man that thinks I'm wonderful, amazing and incredibly gorgeous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他认为我是一个极好的，惊奇的并且令人难以置信的出色的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's all in and ready to help and support me and this unit in anyway he can. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他随时准备好倾其所有来帮助和支持我，这点我相信他无人如何都会做到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's the most incredible father and teammate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是最令人不可思议的父亲和队友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are perfect for each other in so many ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在很多方面都是天造地设的一对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We bring out the best in each other almost always. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们几乎总是给对方最好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't need or cling to each other and are able to stand alone even though we'd prefer to stand together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不需要依靠对方并且即使我们更喜欢站在一起，我们也可以独立站着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This relationship is easy and gets shit done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种关系简单并且非常成熟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Billy is sweet, patient... downright wonderful and I love him, but he's not my soul mate in some kind of mystical, ancient bond, finish your sentences kind of way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比利体贴，有耐心，彻头彻尾的好并且我爱他，但是从某种神秘并且古老的联系来说，他不是我的灵魂伴侣，他的存在只是为了以某种方式完整我的人生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are together in a perfectly unique union that has a purpose completely unique to itself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在具有完全独特的自身目的的一个完全独特的联盟中，我们是在一起的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is a soul mate? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是灵魂伴侣？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is there such a thing? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是否有这样的一个东西？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each of us will answer these questions differently depending on your belief system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们每一个人都会依据自己的信仰给出不同的回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I personally believe soul mates are people we've been connected to since the beginning of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我个人认为灵魂伴侣就是从一开始的时候就和我们连接在一起的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People that weave in and out of this massive interconnected web that is a collection of our many lives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们迂回曲折绕道进出这个由我们许多人的生命集合的庞大的互联网。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Souls matched perfectly with ours to help us grow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灵魂完美地与我们自身相配以帮助我们成长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our soul mate or mates aren't always meant to be our lovers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的灵魂伴侣不总是指的是我们的情人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think this is really important for all of us to understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我认为这对于我们所有人去理解它是非常重要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a culture we seem to struggle with understanding deep relationships that aren't sexual or unions that aren't romantic, but have a greater purpose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一种文化，我们似乎并不是为了解性或工会或浪漫之间的深层关系，而是有一个更大的目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any deep connection sensed between two people is meant to become romantic, right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个人之间任何的深层联系感应是为了变得浪漫，对吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are all kinds of connections in this wild life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个疯狂的世界上还有各种各样的联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe soul mates exist and they will show up in each life when you need them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信灵魂伴侣的存在并且当你需要他们的时候，他们会出现在你的生命中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They come to push you, challenge you, mirror your shit, wake you up and push you forward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们来给你施加压力，挑战你，反映你不足的地方，叫醒你，推动你前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Honestly, you're probably better off not marrying that person, because then you'll get caught up in creating the ideal marriage (WHATEVER THE HELL THAT EVEN IS) and forget why your souls were put together from the beginning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说实话，不和那样的人结婚，你可能会过得更好，因为这样你会专注于创造你的理想婚姻（不管，即使是地狱）忘记为什么从一开始你的灵魂要和你放在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll all too easily forget that your job is to help each other evolve as quickly as possible not torture each other into this bizarre role we've created that a husband and wife ought to play. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会很容易就忘了，你的工作是帮助对方尽快演变为不互相折磨的奇怪角色，而是我们已经创建好的一个丈夫和一个妻子应该扮演的角色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because who knows what that looks like for each of us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为谁知道那对我们每个人来说会是什么样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lord knows we've all experienced interesting versions of those characters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上帝知道我们都经历过这些角色的有趣转变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's this idea that one person is supposed to meet all of our needs that sets us up for heartache and disappointment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是这种想法，一个人应该满足我们弥补心痛和失望的所有需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, why don't we look first at what it is we would like our relationship with another human to create or accomplish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，我们为什么不先看看我们希望和另一个人建立或完成的关系会是什么样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then believe that the universe will send us a perfect match for that goal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后相信宇宙会送我们一个和那个目标相匹配的完美的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you just want to have great sex and travel around the world then you will call forth a completely different soul than if you want to raise a family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你只是想有一个异性的人然后一起环游世界，那么比起你想要生儿育女，你将召唤出一个完全不同的灵魂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you aren't sure, just trust me on this one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不确定，那么就相信我这一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Knowing exactly what we want is the first step to being able to create the most magical union ever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确切地知道我们想要的是什么的第一步是能够不断创造出最奇幻的结合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Listen, I'm not an expert, and I certainly haven't figured it all out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听着，我不是一个专家，当然我自己也没有想清楚这一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do know one thing for certain though, and that is the reality that what we are doing is working. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，我确实确信一件事，那就是我们正在做的工作是现实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How many happy couples do you know? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道有多少幸福的伴侣？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Okay. How many do you know that have been together longer than a few years and have kids? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，有多少是你知道的已经在一起几年并且有孩子的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not just comfortable, but truly happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不仅仅是生活得舒服，是真正的幸福。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

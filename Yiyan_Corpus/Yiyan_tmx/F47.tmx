@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T051806Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 8 1/2 Laws of Rumor Spread</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谣言传播九定律</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I'm not gullible and you're not gullible, how come some improbable stories take a long time to die?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我不是傻子，你也不会轻易上当受骗，那么为什么有些荒谬的谣言还是会四处传播呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The money it's cost me," said clothing designer Tommy Hilfiger. "It hurt my integrity." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那件事儿让我损失了很多钱，”服装设计师汤米希尔费格说道，“它破坏了我的形象。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It" was the shocking story that had circulated for years on the Internet and through word of mouth: Hilfiger, known for his colorful, preppy styles, had supposedly appeared on The Oprah Winfrey Show to air a disturbing grievance. "If I had known that African-Americans, Hispanics, and Asians would buy my clothes, I would not have made them so nice," Hilfiger complained. "I wish those people would not buy my clothes - they were made for upper-class whites." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>令人震惊的 “那件事儿”指的是几年来一直在互联网流转并被人们口耳相传的故事：希尔费格以其绚丽的校园风格服装而著称，据说他上了奥普拉温弗瑞的脱口秀，并且在节目中大放厥词“早知道非裔美国人、西班牙裔和亚洲人会买我的衣服，我就不应该把他们设计得这么漂亮，”希尔费格抱怨道，“我希望那些人不要来买我的衣服，我的衣服是为上等白人设计的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to the tale, an outraged Winfrey immediately asked Hilfiger to leave her show - and when she came back from a commercial, he was gone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据坊间流传的说法，义愤填膺的温弗瑞当场要求希尔费格退出她的节目，接着一段广告之后，他真的就不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never mind that intentionally alienating your core market isn't exactly a shrewd business strategy. Never mind that Hilfiger had founded a philanthropic fund to benefit inner city youth long before the rumor even appeared, or that he donated over $5 million toward building a memorial to Dr. Martin Luther King Jr., in Washington.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人会想到精明的商人不会疏远自己的核心市场人群，没有人记得早在谣言出现之前很久希尔费格就建立了一个旨在帮助贫民区青少年的慈善基金，没有人在乎他曾捐献五百万美元在华盛顿建造了一座马丁路德金纪念碑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, Hilfiger had never said anything of the sort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然了，希尔费格从未发表过任何类似的言论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time the rumor surfaced and spread, Hilfiger had never been on The Oprah Winfrey Show. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在谣言鹊起之时，希尔费格甚至还没有上过奥普拉秀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, the two had never met until 2007, when Winfrey did invite him onto the show to try to squelch the rumor once and for all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上直到2007年此二人才首次见面，当时温弗瑞邀请他上节目以一劳永逸地澄清谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The next time somebody sends you an email or somebody mentions this rumor to you, you know what you're supposed say to them?" said Winfrey. "You're supposed to say, 'That's a big fat lie!'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“下次如果再有人给你发电邮或者提到这个谣言，你知道应该怎样回答他们吗？”温弗瑞问，“你应该说‘那是个彻头彻尾的谎话’！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor did the president of Procter &amp; Gamble appear on The Phil Donahue Show to "come out of the closet" about his company's ties to the Church of Satan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保洁公司的总裁曾经在唐纳休电视秀上爆内幕，说宝洁与撒旦教会有关系？谣言！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor did Liz Claiborne tell Oprah that black people shouldn't wear her clothes - which didn't stop director Spike Lee from telling Esquire magazine, "It definitely happened. Get the tape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽诗加邦曾对奥普拉说黑人不应该穿他们品牌的衣服？谣言！尽管如此，电影导演斯派克李还是对《老爷》杂志的记者说：“这事儿绝对是真的，不信你去查录像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every black woman in America needs to go to her closet, throw that shit out, and never buy another stitch of clothes from Liz Claiborne."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国的每一个黑人女性都应该检查自己的衣橱，把那些破烂玩意儿都扔了，再也别买丽诗加邦的一针一线！” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Skeptical or gullible, we all buy into rumors sometimes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管是你生性多疑还是轻信他人，每个人多少都会听信一些谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even Barbara Mikkelson, who runs the popular myth-debunking Web site Snopes.com with her husband David, admits she's swallowed some whoppers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便是芭芭拉米克尔森也会相信一些弥天大谎，她和丈夫大卫可是大名鼎鼎的流言终结网站Snopes.com的创办人哦！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A friend told me that when his friend's daughter was off on vacation, she had a whirlwind romance with this charismatic guy," Mikkelson says. "When it was time for her to come home, he gave her a package. Inside was a ceramic coffin with a message on it: 'Welcome to the world of AIDS.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有个朋友告诉我，他朋友的女儿在外度假时，和一个魅力四射的男人发生了一段闪电恋情，”米尔克森叙述道，“她临行前，那男人给了她一个包裹，里面是一个陶瓷棺材，上面贴了个便条，写着——‘艾滋病欢迎你’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believed that one hook, line, and sinker."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我绝对、彻底、完全相信了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rumors have a way of slipping under our mental defenses before we think to question them. The best ones sidestep common sense entirely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谣言总有办法在我们起疑之前就悄悄溜进我们的心理防线，最强的谣言能彻底让常识靠边站。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Think of the lawsuits parents filed over subliminal messages in heavy metal songs," says Martin Bourgeois, a rumor researcher at Florida Gulf Coast University. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗罗里达州海岸大学的谣言研究专家马丁布杰瓦举例道，“好比那个家长控告重金属歌曲中夹有潜意识信息的案子，人们相信“犹太祭司”乐团在音乐中植入了令青少年自杀的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"People believed Judas Priest was planting messages to make teenagers commit suicide; no one thought to ask, 'Why would a rock band want its audience dead?'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么没人想想：为什么一个摇滚乐队会希望自己的听众死掉呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most of us don't like to think of ourselves as gullible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝大多数人觉得自己不会轻信他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But we're especially likely to accept as true - and do our best to spread - tales that have several specific characteristics that take aim at our best defenses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是对于某些传言我们总会信以为真，并且极力传播，这些谣言正是瞄准了我们自以为最强悍的心理防线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At its core, a rumor is just an unverified scrap of information we pass among ourselves to make sense of the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从本质上看，谣言只是一份未经确认的信息片段，我们将其在彼此间传播，以图搞清事情的真相。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one case study conducted at Ohio University by psychologist Mark Pezzo, students had heard that someone on campus had died of meningitis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>俄亥俄州立大学的心理学家马克佩佐做了一项个案研究，他设法在学生中散布本校有人死于脑膜炎的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story spread because the anxious students were trying to find out what was going on: "Is the rumor true?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这条信息很快流传开来，因为学生们都很焦虑，迫切希望了解究竟出了什么事：“传言是真的吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How do you get meningitis?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“人是怎么样感染上脑膜炎的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I heard that everyone on campus will need to have a painful spinal tap, did you hear that?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我听说全校人都要做脊椎穿刺，很疼的，你听说了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the marketplace of misinformation, fit rumors survive and spread like epidemics, while unfit rumors die quick deaths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在谣言的王国里，适者生存，并且可以像传染病一般流行起来，而失败的谣言很快就销声匿迹了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So what separates the fit from the unfit? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么“成功”和“失败”的界限该如何划分呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What, in short, are the laws of effective rumors?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“成功谣言定律”究竟有哪几条？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Successful rumors needle our anxieties and emotions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>定律一：“好”谣言滋生焦虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Hurricane Katrina struck New Orleans in 2005, water wasn't the only thing that flooded the city. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2005年，飓风卡特里娜袭击了新奥尔良，谣言和洪水一样淹没了这座城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the environment of intense anxiety and uncertainty, grim rumors flourished: Sharks have infested the water! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在极端焦虑不安的环境下，可怕的谣言四处滋长：洪水里有鲨鱼！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terrorists planted bombs in the levees! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恐怖分子在防洪堤里埋了炸弹！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Murdered babies and piles of corpses filled the Superdome!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大圆顶体育馆里到处是成堆的死尸和被残害的婴儿尸体！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, the national media reported many of the rumors as fact - especially after a misinformed Mayor Ray Nagin told talk show hosts like Oprah Winfrey that "hundreds of armed gang members" were killing and raping at will inside the dome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更不幸的是，全国性的媒体将许多谣言当成事实播报了出去。听信了错误消息的市长雷纳金还告诉奥普拉温弗瑞说有“上百个武装的黑社会人员”在大圆顶里肆意奸淫杀戮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet once the crisis began to abate, investigators found that almost all of the widely circulated stories were false. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是飓风危机稍缓和后，调查人员发现几乎所有广为传播的流言都是不实的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FEMA doctors even showed up at the Superdome with a refrigerated 18-wheeler to cart away the hundreds of dead bodies rumored. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦应急管理局（FEMA）的医生们甚至开着一辆18轮的大型冷冻运尸车出现在大圆顶，准备运走传说中成百上千的尸首。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They found six - none of them a homicide victim.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果他们只找到了6具尸体，而且没有一人是他杀致死的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So why did these stories pop up? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么这些荒唐的故事是打哪儿冒出来的呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fear breeds rumor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恐惧，恐惧会滋生谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The more collective anxiety a group has, the more inclined it will be to start up the rumor mill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个群体的焦虑感越集中，人们就越有可能开始制造谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Rochester Institute of Technology rumor expert Nicholas DiFonzo explains, we pass rumors around primarily as a means of deciphering scary, uncertain situations: Exchanging information, even if it's ludicrously false, relieves our unease by giving us a sense that we at least know what's happening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗切斯特理工学院的谣言专家尼古拉斯迪方佐解释说，人们散播谣言主要是想把那些吓人而又不确定的情况搞清楚。人们交换彼此所知的信息，即便那些话荒唐得可笑，还是能舒缓我们的不安情绪，至少可以让我们觉得自己知道出了什么事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"One major function of rumors is to figure out the facts and find what the appropriate, adaptive thing to do is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谣言的主要功能之一就是去弄清事实，并且找到正确的应对措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look at 9/11. I don't ever remember feeling so threatened as I did after 9/11, and people used rumors to try to manage the threat."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说911,911之后我再也没有体验过那种生命受到威胁的感觉，当时人们通过传播谣言的方式来控制那种恐惧感。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus when 9/11 left people terrified and searching for answers, they heard a horde of alarming (and completely false) rumors - that terrorists had injected anthrax into one of every five cans of Pepsi, that no Jews showed up to work at the World Trade Center on 9/11 because they knew about the attacks beforehand. (In fact, about 15 percent of those who died in the attacks were Jewish.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>911恐怖袭击使得人们在震惊之余也开始探寻背后的真相，他们听到了大量令人惊恐的谣言——恐怖分子在百事可乐里投放炭疽病菌，每五罐里就有一罐有毒；911当天没有犹太人去世贸中心上班，因为他们提前知道了消息：这些说法统统都是假的，事实上911死难者中约有15%是犹太裔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Very few of the tales were positive, because we're naturally more inclined to pass on negative information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谣言中很少有正面的、积极的内容，因为我们天生就更倾向于传播负面消息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"As humans, we have a tendency to weight negative information more," says Helen Harton, a psychology professor at the University of Northern Iowa. "It makes evolutionary sense. It's more important to know how to avoid a tiger than to know where a field of nice flowers is."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们人类往往更重视负面信息，”北爱荷华大学的心理学教授海伦哈顿说，“这是具有进化意义的，如何躲开猛虎的知识要比发现一片野花地的新闻重要得多。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, most of us don't have to worry about tiger attacks anymore, but we do dread things like layoffs at work. So we toss rumors back and forth to figure out what's really up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然了，现在绝大多数人不用担心老虎吃人，但是我们会害怕其他的事情，比如公司裁员等等，所以我们不断地把谣言传过来传过去，以图弄清楚到底发生了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rumors stick if they're somewhat surprising but still fit with our existing biases.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>定律二：“好”谣言在意料之外情理之中</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you ever open endlessly forwarded e-mails, you're probably familiar with at least one notorious malapropism from President George W. Bush: "The problem with the French is that they don't have a word for 'entrepreneur.'" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你曾经看过那些被转发了无数次的电子邮件，你至少会对小布什各种胡言乱语中的某一条有印象，比如“法语有一个问题，就是法语里没有‘entrepreneur（企业家）’这个词儿。”（译注：entrepreneur一词本身就借自法语。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or this embarrassing gem from the pop starlet Mariah Carey: "When I watch TV and see those poor starving kids all over the world, I can't help but cry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>著名歌星玛利亚凯利也是“字字珠玑”：“我在电视里看到那些连饭都吃不饱的可怜孩子，我都哭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, I'd love to be skinny like that, but not with all those flies and death and stuff." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也想像他们那么苗条，但不是有苍蝇乱飞、会饿死的那种。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you believe they actually said these things?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你相信他们真的会说出这种话吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, don't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别信，真的别信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both quips were made up by pranksters. Even so, they enjoyed viral spread for the simple reason that both are juicy enough to be shocking - yet not so far-fetched that we doubt the two parties could have uttered them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两个段子都是好事者编出来的，却像病毒一般四处传播。原因很简单：这两个段子的料够生动够劲爆，但是又不会太夸张太牵强，不会令人怀疑他们俩是否真的说过这些话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They confirm what many already believe - that Bush is, let's say, not quite firing on all cylinders, and that Carey is a vain diva - without setting off too many common-sense alarms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两个段子只是更加确认了我们的已有观念：小布什的脑子不是特别好使，玛利亚凯利是个虚荣的天后。这样的谣言与常识相符，不会惊动我们头脑中的警钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In short, we're primed to accept them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简言之，我们很容易相信类似的谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Mikkelson explains, "These stories get in under our radar because they click in with what we already believe, or want to believe." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米尔克森解释说：“此类谣言能够避开我们心理雷达的监测，因为它恰好是我们已经相信的，或者愿意相信的东西。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you already think liberals are waging a war on religion, you'll be more likely to buy 2008's (untrue) rumor that the new dollar coins omit the customary "In God We Trust." (It's printed along the side.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你早就认为自由主义者在向宗教宣战的话，你就很可能会相信2008年的一则不实传言：新版美元的硬币侧沿上将不再刻有“我们相信上帝”这句话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you buy the idea that too much money unhinges people from reality, you might believe the story that Tiger Woods rented a mansion for the 2007 U.S. Open, moved everything out, and flew in all of his own furniture so he would feel at home during the four-day tournament.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你赞同太多的金钱会让人脱离现实、精神失常的观点，你就可能相信下面这条关于泰格伍兹的谣言：他曾为了2007年的美国公开赛租了一栋豪宅，挪走了全部的陈设，再把他自己的家具都搬了进去，就为了在四天的比赛中有“家一般的感觉”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even when presented with evidence refuting a rumor, we often stick to our biases. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便铁证摆在眼前，我们还是会牢牢抓着固有观念不放。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A 2007 University of Maryland study found that only 3 percent of Pakistanis believe Al Qaeda was responsible for 9/11. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2007年马里兰大学的一项研究发现，只有3%的巴基斯坦人相信是基地组织策划发动了911事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's difficult for them to accept that Al Qaeda, their fellow Muslims, could have perpetrated these acts," says DiFonzo.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们难以相信基地组织——自己的穆斯林弟兄们——会做出这样的恶事，”迪方佐说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Easily swayed people are more important than influential people in passing on a rumor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>定律三：传谣言要靠轻信之人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the mid-1970s, the Life Savers Company introduced a product that revolutionized the way kids chewed gum: Bubble Yum. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上世纪七十年代中期，LifeSavers糖果公司开发了一种革命性的儿童口香糖：BubbleYum泡泡糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before it came along, you had to work on a piece of gum for ages to make it soft enough to blow bubbles. But Bubble Yum was squishy right out of the wrapper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在泡泡糖问世之前，一片口香糖要嚼很久才会变软，能吹出泡泡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the perfect gum­ maybe a little too perfect, kids thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而BubbleYum的包装一打开里面的糖就是湿软的，堪称完美的泡泡糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was making it so soft? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是孩子们却想：它太完美了，它怎么能这么软呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon, the obvious answer presented itself: spider eggs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案似乎是显而易见的：里面一定有蜘蛛卵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bubble Yum was made with spider eggs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>BubbleYum是用蜘蛛卵做的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This bit of schoolyard conjecture became ironclad truth with staggering speed, sending Bubble Yum's sky-high sales into a tailspin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>顽童的胡乱猜测以惊人的速度传播，很快就成了颠扑不破的“真相”，BubbleYum高昂的销售量一落千丈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within 10 days of first getting wind of the rumor, Life Savers executives commissioned surveys that revealed "well over half" of New York area children had already heard it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谣言传出不到十天，LifeSavers的管理层就下令调查，结果发现纽约地区“远超半数”的儿童已经都知道了这则谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spider egg story didn't zoom from kid to kid so quickly because of well-connected playground information magnates or influential adolescent gum mavens, but because kids are credulous, and credulous people make rumors go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“蜘蛛卵”一说为什么能在小屁孩之间如此迅速传播？因为游戏场地上人脉资源丰富的信息巨头操控了这一切？还是因为出了一个掌握话语权的青少年口香糖专家？都不是，真正的原因是小孩子们很轻易就会相信各种说法，轻信之人是谣言传播的中坚力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's your willingness to pass things along that matters, not necessarily how much status or respect you have," says Duncan Watts, a sociologist who researches information spread for Yahoo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雅虎一位研究信息传播的社会学家邓肯瓦茨解释说：“重要的是你主观上愿意散布流言，而不是说你要有多高社会地位，或者多么受人尊重。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kids will believe almost anything (another long-lived schoolyard rumor claimed the "Mikey likes it" Life cereal kid died after a mixture of soda and Pop Rocks made his stomach explode), and thus rumors run rampant in schools. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子们几乎愿意相信任何事情，于是类似的谣言在校园里传播得非常猖獗。另一则“长寿”的校园谣言说那个给life cereal做广告的小童星死了，因为他把汽水和跳跳糖混在一起吃，结果肚子爆炸了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the same is true of gullible adults: They're the ones who really fuel rumors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这条定律同样也适用于轻信的成年人，他们才是谣言真正的推手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The more you hear a rumor, the more you'll buy it - even if you're hearing that it's false.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>定律四：听谣千遍，假也成真</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to a poll, 11 percent of Americans believe the rumor that Barack Obama is secretly a radical Muslim who refuses to say the Pledge of Allegiance and was sworn into the Senate on the Qur'an (and probably hates mom and apple pie as well). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某项民调结果显示，11%的美国人相信奥巴马其实是一个激进的穆斯林，谣言说他拒绝宣誓对美国效忠，他就职的时候是按着《古兰经》对国会宣誓的，然后还有他不爱自己的母亲，不爱吃苹果派之类的花边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The myth that he is a Muslim is so pervasive that The New Yorker could satirize it on a cover depicting a cheery new prez Obama hanging out in the White House in full Islamic garb - with an American flag burning in the fireplace and a portrait of Osama bin Laden on the wall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥巴马的穆斯林身份谜团非常具有说服力，甚至《纽约客》杂志（2008年7月号）还画了一幅封面漫画挖苦这一谣言：新上任的总统奥巴马穿着伊斯兰长袍在白宫优哉游哉，星条旗被扔进了壁炉的火焰中，墙上则挂着一幅本拉登的肖像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if the hyper-liberal New Yorker was trying to expose the absurdity of the rumor, someone probably should have talked to Mark Pezzo first. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果《纽约客》这份宣扬自由主义的杂志是想把谣言的荒谬性展示给人看的话，他们应该事先跟谣言传播专家马克佩佐请教一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even hearing that a rumor is bunk, he observes, tends to plant it deeper in your mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据佩佐的观察，澄清谣言的举动反而会让谣言更深入人心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No question, the more you hear something - even the same thing from the same person - the more you believe it," says Pezzo. "Politicians know all about this; the more I heard about weapons of mass destruction, the more believable they seemed to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“毫无疑问，你听到的次数越多，你就越会相信，哪怕是同一个人跟你反复说同一件事，”佩佐说，“政客们尤擅此术：我听到关于大规模杀伤性武器的消息越多，我就越倾向于认为它们真的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even a denial can be a repetition of a rumor." (Just ask Senator John Kerry, whose 2004 presidential bid sunk thanks to whispers about his swift-boat service in Vietnam - even though most of the media stories were about how the rumors were false.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至否认传言也像是在反复强调。”不信你就去问问议员约翰凯利， 2004年竞选总统时有谣言质疑他在越战期间的服役记录，尽管当时绝大部分的媒体都在为他辟谣，可是他的竞选还是泡汤了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

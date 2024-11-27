@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160815T025942Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Time-Sweepers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间清洁工</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may not be familiar with the time-sweepers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能对时间清洁工不熟悉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The time-sweepers are the people who sweep up all the time that is lost and wasted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间清洁工是打扫所有失去的和浪费的时间的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You cannot see them, though if you are in the railway station and think you see something out of the corner of your eye, that will probably be a time-sweeper, cleaning up around the bench you are sitting on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看不到他们，不过如果你在火车站，感觉从眼角看到了什么，那可能就是一个时间清洁工正在你坐着的长椅周围打扫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you were to see them, you would find a small, bluish person with an intent expression, clutching a broom and a mop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是你看到了他们，你会发现一个面带专注神情的个子小小的、浅蓝色的人，手上拿着一把扫帚和一个拖把。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The men wear overalls, the women old-fashioned tweed skirts and scarves on their head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男的穿着工装裤，女的身穿老式的粗花呢裙子，头上戴着丝巾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The time-sweepers are present wherever time is being lost or wasted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间清洁工出现在任何有时间被失去或浪费的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are always several in train stations, and at least one in every doctors surgery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在火车站总会有几个，在每个医生的诊所至少有一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man who has waited so long to propose to his girlfriend that her hair has gone grey, probably has his own personal time-sweeper following him around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个等了太久才向女朋友求婚以至于她头发都花白的男人，或许有他自己的私人时间清洁工跟在他左右。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The woman who has spent thirty-five loathed years in an estate agents, dreaming of opening a florists, causes the neighbourhood time-sweeper to sigh, and fetch a bigger dustpan.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个梦想着开一家花店却在房地产中介过了三十五年厌恶的岁月的女人，让社区的时间清洁工叹气，并取来一个更大的畚箕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You should not feel sorry for the time-sweepers, though their work is menial: they are never sick, do not worry that they are in the wrong career, and have excellent working conditions, though what they do for leisure is unknown. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不用为时间清洁工感到惋惜，尽管他们的工作卑微：他们从不厌倦，不担心自己从事了错误的职业，有极好的工作条件，虽然他们在空闲时做什么不为人知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They enjoy bank holidays off, which is why, on these days, there seems so much more time than usual. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们享受法定假日，这也就是为什么在这些天里时间似乎比平常要多那么多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At Christmas and new year, the time-sweepers have a week's holiday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在圣诞节和元旦，时间清洁工有一个星期的假日。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they return to work in January, they face a vast backlog of time which has been lost, wasted and thrown away over the holidays. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们一月份回来工作时，他们面临着积压了一大堆的在假期中被失去、浪费、抛弃的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It takes them around three weeks to resume normal service, which is why January always seems to last longer than other months.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们要用大约三个星期的时间回到正常的工作状态，这就是为什么一月份好像比其他月份持续的时间更久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The time-sweepers have been around forever, though modern life has created wasted time in such large concentrations that in some places the time-sweepers have been forced to industrialise their operations, buying a number of specialised compressing lorries similar to those used by ordinary bin-men. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然时间清洁工一直具有丰富的经验，但现代生活这么大量集中地创造废弃时间，使得在有些地方时间清洁工被迫把他们的工作工业化，购买大量的与普通的清洁工所用的那些相似的专业压缩货车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They use these for the largest collections, at prisons and shopping malls, two venues where the tide of wasted time threatens to swamp even the most dedicated operatives.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们用这些清理最大的聚集量，在监狱和购物商场，在这两个场所废弃的时间洪流威胁着要淹没即使是最敬业的熟练工。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Were you to ask a time-sweeper, they would tell you one surprising thing: time enjoyed is never time wasted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是你问一个时间清洁工，他们会告诉你一件令人吃惊的事：享受的时间永远不是浪费的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cleaning up in a large office full of staggering tedium, the time-sweeper will pass straight by the desk of the woman who is reading a holiday catalogue under the desk, poring over photos of tropical beaches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个极度无聊乏味的大办公室里，时间清洁工会直接经过那个正在桌下读假日目录、研究热带海滩照片的女人的办公桌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They will pass by the next desk, where a man is enjoyably wondering what his mother-in-law looks like naked, and stop by the desk of the young man who is counting every minute, and loathing the hours.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会经过下一个办公桌，那里一个男人正在饶有兴味地好奇他岳母裸体的样子，然后停在那个年轻人的办公桌旁，他争分夺秒，满怀厌恶地过了几个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may wonder what happens to the wasted time after it has all been cleaned up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能想知道浪费的时间全部被打扫了之后是怎么处理的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never fear, the time-sweepers are ardent recyclers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝不要担心，时间清洁工是热心的回收者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is collected, packed into large containers, moved to Liverpool docks, loaded onto a ship, and taken to India. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>浪费的时间被收集、打包装进大的集装箱、运到利物浦码头、装进轮船，然后运到印度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, in a dusty industrial estate somewhere near Bombay, it is cleaned, sorted, and graded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里，在孟买附近某个地方的一个布满灰尘的工业区里，它们被清洁、分类、分级。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most toxic and poisoned time - the residues of failed peace negotiations, wrongful imprisonments and truly poisonous marriages, is skimmed off and buried in a tank underneath a disused army base. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最毒和有害的时间——失败的和平谈判、不公正的关押和真正有毒的婚姻的残渣——被撇去并埋在一个废弃的军事基地下面的罐子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, it will take two or three centuries to decay, and become harmless again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里，它要用两三个世纪衰变，然后再变成无害的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rest of the time - made up of stuff such as dull meetings, missed appointments, delayed buses and bad nights at the theatre, is cleaned and put back onto a ship, where it is taken to the Guangzhou industrial export processing zone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其余的时间——由诸如乏味的会议、错过的约会、延误的公共汽车和剧院里不愉快的夜晚等组成——被清洁并装回轮船，由船运到广州工业出口加工区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here it is compressed and stored, awaiting redistribution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里它们被压缩储存，等待重新分配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around twenty percent goes direct to the factories of the export processing zone, which has the world's highest productivity rate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约百分之二十直接去了出口加工区的工厂，这些工厂拥有世界上最高的生产率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A quarter is bought in hard dollars by the Chinese government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四分之一被中国政府用硬美元买去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ten percent of the most concentrated stuff is sold to a cryogenics laboratory in California. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>百分之十浓缩的精华卖给加利福尼亚的一个低温实验室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another twenty or so percent is discreetly sold to a variety of rich private clients, mostly old, rich men who have married beautiful young women.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外大约百分之二十被谨慎地卖给各种各样的富有的私人客户，大部分是娶了漂亮的年轻女人的有钱的老男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the time-sweepers are not in it for profit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，时间清洁工并未在其中牟利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The money from these deals pays for their operations, including dusters, bin-bags, overalls and shipping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这些交易中得到的钱支付他们的工作，包括掸子、垃圾袋、工装裤和运输。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rest is distributed to good causes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他的被分配给公益事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No-one who gets any extra time has to fill in any forms, or ask for a grant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得到任何额外时间的人不用填任何表格，也不用申请援助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are all quite unaware that they are in receipt of assistance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们全都没意识到收到了补助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of these beneficiaries is a shabby and overtired scientist in a crumbling public laboratory outside Novosibirsk, who will be the man to find the vaccine for malaria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一个受益人是新西伯利亚外面一个破败的公共实验室里的一位衣衫褴褛过度疲劳的科学家，他将是发现疟疾疫苗的人。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

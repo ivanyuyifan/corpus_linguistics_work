@@ -1,0 +1,1319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T031940Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another Life</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一种生活</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A husband and wife drive to Boston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫和妻子开车到波士顿去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband is sick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫病了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He takes extra-strong cold medication just before getting into the car, and all the way to Boston he worries that he is going to fall asleep at the wheel and crash into the median. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开车前刚刚服用了强效感冒药，于是去波士顿这一路上，他都担心自己会开着车睡着，把车撞到马路中线防护栏上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe the husband secretly wants to crash rather than go to his father-in-law's birthday party, which is what he and his wife are driving to Boston for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者，也许丈夫暗自宁愿撞到防护栏上，而不是去他岳父的生日派对，这正是他和妻子此行的初衷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyway, he manages to stay awake, and they arrive at their hotel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论如何，他设法保持清醒，然后他们就抵达旅馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is just off the highway, a boutique hotel that got excellent reviews on the Internet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>旅馆从高速路下来就是，是个网上评价极高的精巧旅店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband and wife check in, they put on nice clothes, they go to the party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫和妻子办理入住手续，穿上漂亮衣服，去参加派对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A couple of hours later, the husband drives back to the hotel alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了俩小时，丈夫独自开车回到旅馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He changes into pajamas and gets into bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他换上睡衣上了床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He picks up Rousseau's "Discourse on the Origin of Inequality," the book he brought to read on this trip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拿起卢梭的《论人类不平等的起源》，他为此行而带的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nature commands every animal and the beast obeys," Rousseau writes, or wrote, in the eighteenth century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“自然支配万兽，万兽服从，”卢梭写着，或者说，曾于十八世纪写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Man feels the same impulsion, but knows that he is free to acquiesce or resist." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“人同样感受到服从的冲动，但他知道，他有默许或反抗的自由。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this point, the husband realizes that he doesn't want to spend the night reading Rousseau in bed, alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看到这里，丈夫意识到他并不想就这么一个人，躺床上读一晚上卢梭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thinks about going downstairs to the hotel bar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想到去楼下旅馆的酒吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the kind of thing he never does- but ten minutes later there he is, sitting at the bar, reading his book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种事他从来不会做的——但十分钟之后他就是坐在了酒吧那儿，读他的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband is not trying to pick anyone up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫并不是想和谁勾搭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His wife will be back in an hour or two, and besides, who would dream of picking someone up with Rousseau? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的妻子过一两个小时就会回来，况且，谁会想着用卢梭勾搭人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of all the authors you could try to pick someone up with, Rousseau is probably the worst. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在所有可以用来勾搭人的作家里，卢梭可能是最糟糕的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe Kant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也可能是康德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband orders a hot toddy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫点了一杯热甜酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bartender, an attractive young woman with crinkly black hair, brings him the drink and they exchange remarks about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调酒师是个一个有皱巴巴黑发的迷人年轻女子，她给他送上他的酒，然后他们就酒交谈了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, it's perfect, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，太好了，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good, I'm glad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好，我很高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bartender smiles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调酒师微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband reads some more Rousseau. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫又读了点卢梭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upstairs, in his room, he was really understanding the Second Discourse, but down here at the bar he finds it hard to concentrate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在楼上他的房间里，他能很好地理解《第二论》，但到了酒吧这儿，他发现自己很难集中注意力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pretty bartender is scooping ice from the ice chest, and the husband can see her cleavage, maybe even the top of her bra. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漂亮的调酒师正从冰柜里舀冰，丈夫可以看到她的乳沟，可能还有她文胸的上半部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She goes away, comes back, scoops more ice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她走过去，走回来，舀了更多的冰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, the husband asks her how it's going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>终于，丈夫问她还都好吗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's going well, the pretty bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>都很好，漂亮的调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are you reading? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在读什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, the husband says, embarrassed, it's Rousseau. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，丈夫尴尬地说，在看卢梭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For all his thinking about books and picking people up, he is totally unprepared to talk about the "Origin of Inequality" with the pretty bartender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想了那么多关于书和勾搭人的事，就是完全没准备好和漂亮的调酒师谈《不平等的起源》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fortunately, she doesn't ask about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸运的是，她并没有问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love to read, she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我热爱读书，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I read just about anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我什么东西都看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Really, the husband says, pleased. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是吗，丈夫欣喜地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who are your favorite authors? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你最喜欢的作者都有谁？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My favorite author is Emily Dickinson, the pretty bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我最喜欢的作者是艾米莉·狄金森，漂亮的调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband is caught off guard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫猝不及防。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has read some Emily Dickinson but not for a long time, and now he can't remember a single one of her poems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他读过一些艾米莉·狄金森，但好久不读了，现在她的诗他一首都记不得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ah, the bard of Amherst, he says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>啊，那位阿默斯特的大诗人（译者注：艾米莉·狄金森生长于阿默斯特镇），他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pretty bartender, sensing the husband's discomfort, willingly moves on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漂亮的调酒师感到丈夫露怯，自愿转移了话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm taking a fiction class in college, she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我正在选修大学的一门小说课，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't have to, it's not required for my major, but I wanted to take it anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是必修，我的专业并没有要求，但我就是想上上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We read short stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在读短篇小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By who? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谁的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>the husband asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite his spotty knowledge of Emily Dickinson, the husband thinks of himself as well read. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然他有关艾米莉狄金森的知识残缺不全，但丈夫自认还是博览群书的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're reading one now by Kate Chopin, the pretty bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们现在在读凯特·肖邦的一篇小说，漂亮的调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's called "The Story of an Hour." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>叫“一小时的故事”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sadly, the husband must admit that he has not read this story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可悲的是，丈夫必须承认，他没有读过这个故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's awesome, the bartender says. There's apparently a novel by her? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她很棒，调酒师说，她好像还有一部长篇小说？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The Awakening," the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>叫《觉醒》，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you read it? the bartender asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看过吗？调酒师问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, not that, either, he says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没，也没看过，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband then recommends Flannery O'Connor, and the bartender makes a show of writing the name down on a strip of register tape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后丈夫建议读弗兰纳里·奥康纳，于是调酒师作秀一般把名字写在了一片收银纸条上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love the grotesque, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很喜欢怪诞派，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's that? the bartender asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是什么？调酒师问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's when you deform life to get at some idea behind it, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是扭曲人生以窥背后的一些概念，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Behind life? the bartender asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活的背后？调酒师问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, an idea behind life, like the last judgment of the soul, or Heaven and Hell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，人生背后的概念，比如对灵魂的最后审判，或者天堂与地狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which one would this be? the bartender asks, smiling, and the husband says, This bar? Purgatory would be my guess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这儿会是什么？调酒师面带微笑地问，于是丈夫说，这个酒吧？我猜会是炼狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Huh, the pretty bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，漂亮的调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as they seem to be getting somewhere, though, the husband makes the conversationally suicidal move of bringing up Emily Dickinson again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正当他们看着要说到点上时，丈夫却做出了谈话式自杀的举动，再次提起了艾米莉·狄金森。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's completely singular, he says. There's no one like her! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她完全是独一无二的，他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is sweat on his brow, which runs almost to the top of his head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没人和她一样！他的眉头直冒汗，几乎流到了他的头顶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yeah, the bartender says, and that's the end of that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是啊，酒保说。这就结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband returns to his Rousseau. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫回到他的卢梭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pretty bartender begins talking to another customer, a man wearing a yellow polo shirt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漂亮的调酒师开始与另一个顾客说话，那个男人身穿一件黄色的polo衫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This man is a total sleazebag, although the husband doesn't know it yet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该男子是个彻彻底底的下流胚子，虽然丈夫还不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I haven't seen you here much, the sleazebag says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都不怎么能在这儿见到你了，下流胚子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pretty bartender tells the sleazebag that she has shifted her schedule. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漂亮的调酒师告诉下流胚子她换了工作时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm in school now, she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在在上学，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh yeah? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are you studying? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在学什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Business, she answers, with a minor in communications. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商务，她回答，副修是通信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is your sister out of the hospital? the sleazebag asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你姊妹出院了吗？下流胚子问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, she's at home now, the bartender says, and at this point the husband's cell phone buzzes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出院了，现在在家，调酒师说。此时丈夫的手机响了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His wife is back from the party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的妻子从派对回来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where are you? she asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在哪儿？她问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm at the bar, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在酒吧，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wants his wife to come to the bar, so the pretty bartender will see that he has a wife who isn't bad-looking, even if she is a lot older than the bartender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想让他妻子来酒吧，这样漂亮的调酒师就可以看到，他有一个长得不错的妻子，虽然她比酒保大很多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband frowns at his book until his wife arrives, still wearing the low-cut black dress she had on at the party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫蹙眉瞅着他的书，直到他的妻子到来，她还穿着派对上穿的低胸黑礼裙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband doesn't understand why she would wear a dress like that to her father's sixtieth birthday, but she does look good in it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫不明白她为什么会在她父亲六十大寿上穿那样一条裙子，不过她穿上确实好看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She sits down between her husband and the sleazebag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在她丈夫和下流胚子之间坐下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wife notices the empty snifter in front of her husband and asks, How are you feeling? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子注意到她丈夫面前的空白兰地酒杯，问道，你感觉怎么样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Better, the husband says, although actually he looks kind of gray and worn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好多了，丈夫说，尽管他实际上看起来有些面如灰色、很是憔悴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone was worried about you, the wife says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都很替你担心，妻子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father gave me the name of a cardiologist at Brigham and Women's. He wants you to make an appointment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲给了我一个布莱根及妇女医院（译者注：美国著名医院，位于波士顿）的心脏病医生的名字。他想让你预约去看看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not my heart, just a cold, the husband says, annoyed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是我心脏的问题，这只是感冒，丈夫恼怒地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has a heart problem to which his wife's family is always overreacting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的心脏是有些问题，但他妻子的家人总是反应过度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And we don't even live here, the husband grumbles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都不在这个城市住，丈夫发牢骚说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why would I make an appointment with a doctor in Boston? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我干吗要和一个波士顿的医生预约？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not that far, the wife says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这离我们那儿并不远，妻子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We could stay with my parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们可以呆在我父母那儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But why? the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但为什么？丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why do we have to keep coming here? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们为什么总得往这儿跑？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this point, the young and shapely bartender reappears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正在此时，年轻而匀称的调酒师又出现了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's last call, she says, leaning toward the husband. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>快打烊了，她说着，身体倾向丈夫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can I get you anything? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你还想要什么吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband says, Yes, I'll take another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫说，是的，我再来一杯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Coming up! the bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就来！调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wife looks ready to scold the husband, but instead she turns to watch the basketball game on the big TV mounted above the bar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子看起来就要斥责丈夫，不过她反倒转身看挂在吧台上方的大电视里的篮球比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a short silence, then the sleazebag asks, Do you like basketball?, and the wife, turning to face him, says, Yes, I do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵短暂的沉默，然后下流胚子问，你喜欢篮球吗？妻子于是转身面对他说，是的，我喜欢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where are you from? the sleazebag asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你从哪儿来的？下流胚子问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>New York, the wife says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纽约，妻子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, the sleazebag says, the Knicks? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这么说，下流胚子问，尼克斯队喽？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, the Celtics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，凯尔特人队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family is from Boston, the wife says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我家人是波士顿的，妻子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sleazebag is obsessed with the Celtics, and he begins to talk about them enthusiastically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下流胚子痴迷凯尔特人，他开始满腔热情地谈论该队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband is, in a funny way, impressed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫呢，从某种好笑的角度来看，倒是对他刮目相看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sleazebag says one thing after another about the Celtics without ever falling down the kind of conversational hole the husband fell down with Emily Dickinson. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下流胚子滔滔不绝地说着凯尔特人队，从未掉进丈夫谈论艾米莉狄金森那样的谈话黑洞里去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like a windup toy, the sleazebag keeps going and going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下流胚子就像一个上了发条的玩具，不停地说着、说着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the wife goes along with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而妻子也配合他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tells the sleazebag about her father, who freezes mouse heads in a laboratory at M.I.T. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她给下流胚子讲她的父亲。她父亲在麻省理工学院的实验室干冷冻老鼠脑袋的活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've heard of him! the sleazebag says, but it's clear that he's thinking of someone else, or just lying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我听说过他！下流胚子说，但很明显他想的是另外一个人，或者他压根就是在撒谎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It doesn't matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这无所谓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As their conversation continues, the wife seems more and more impressed by the sleazebag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的谈话继续着，妻子好像越来越被下流胚子迷倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He owns a company that sells health insurance to small businesses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拥有一家向小型企业销售健康保险的公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has joint custody of two beautiful daughters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拥有两个漂亮女儿的共同监护权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In short, despite being a total scumbag, a real bottom-feeder, the sleazebag knows how to present himself as a decent guy who would not dream of leaving his father-in-law's sixtieth-birthday party early, and if the sleazebag did leave the party early because he wasn't feeling well the wife would not find him at the hotel bar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总之，尽管他是一个十足的混蛋和一个真正的寄生虫，下流胚子知道如何把自己打扮成一个好人，一个绝不会想着提前离开自己岳父的六十岁生日派对，或者即使因为身体不适提前离开，也绝不会让妻子发现他在旅馆的酒吧里的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd be in bed, or, more likely, in the hospital. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他会躺在床上，或者更可能的是，躺在医院里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sleazebag inches toward the wife and says something in a low voice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下流胚子朝妻子靠近，并且低声说了些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wife laughs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子大笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I should interrupt, the husband thinks, but he doesn't know what to say, and also he's now had one and a half hot toddies, plus a glass of wine at the party, plus the extra-strength cold medicine he took earlier. The husband feels woozy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我应该打断他们，丈夫想，但他不知道该说什么，而且他现在一杯半热甜酒下肚，加上派对上喝的一杯葡萄酒，再加上早先服用的强效感冒药，丈夫感到头蒙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He keeps his unhappy silence, hoping that his wife will turn away from the sleazebag and talk to him, but what actually happens is that the sleazebag gets up from his stool and says, Well, it's been good meeting you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把他的不高兴保持沉默，他希望他的妻子会从下流胚子那儿转回来和他说话，但实际发生的是，下流胚子从椅子上站起来说，好吧，很高兴认识你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sleazebag shakes the wife's hand, and it looks as if her hand kind of lingers in his. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下流胚子握了握妻子的手，看起来她的手似乎在他手里停留时间过长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the sleazebag leaves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后下流胚子离开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wife stands up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子站了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I left my shawl at the party, she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把我的披肩忘在派对上了，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm going to run back and get it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我得赶紧取回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Will you be all right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你自己没事吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sure, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，丈夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wife hurries out of the bar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子急忙走出了酒吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband can't believe it- was she even wearing a shawl? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫不敢相信这一切——她是不是压根就没穿披肩？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bartender, too, looks surprised that the wife has gone running after the total sleazebag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调酒师看起来也很惊讶妻子会去追那个十足的下流胚子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what if this was how things worked with the husband and wife? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但如果这就是丈夫和妻子之间的相处模式呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if they had an arrangement that they could sleep with whomever they wanted? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如他们有一个协定，他们可以和任何他们想睡的人睡觉？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if they were brave, free people whose love for each other could not be damaged by a random hotel hookup? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如他们是勇敢又随意的人，他们对彼此的爱不会被旅馆的一夜风流损伤？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God, what if? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老天，假如呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband looks around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫环顾四周。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The slender and well-proportioned young bartender with naturally crinkly black hair is standing right there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苗条匀称天生拥有皱巴巴黑发的年轻调酒师就站在那儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All at once, as if by magic, the husband remembers the first lines of a poem by Emily Dickinson. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一下子，仿佛被施了魔法一样，丈夫想起了艾米莉－狄金森的一首诗的第一句。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My life it stood, a loaded gun, in corners, till a day, the owner passed, identified, and carried me away." The bartender's eyes light up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的生活就那样，如一把上膛的枪，在角落里站着，直到一天，主人路过，发现，把我带走。”调酒师的眼睛亮起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Very good, she says, even though the husband has misquoted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好极了，她说，尽管丈夫读错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The actual line is: My life had stood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那句诗实际上是：我的生活曾经就那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So tell me, the husband says, what happened to your sister? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么告诉我，丈夫说，你的姊妹出了什么事？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bartender says that her sister was in a car accident. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调酒师说她的姊妹出了车祸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her spine was broken, and she has been in a body cast for months. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的脊椎骨折了，她的身体数月来都打着石膏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She, the pretty bartender, spends half her time at her sister's apartment, taking care of her sister's toddler and also cooking for her sister and cleaning, which her sister, obviously, can't do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她，漂亮的调酒师，一半的时间花在她姊妹的公寓，照顾姊妹蹒跚学步的孩子，给她姊妹做饭、清洗，她姊妹显然自己做不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The husband is moved by this story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丈夫被这个故事感动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sister, work, school, and still she finds time to read Dickinson! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>姊妹，工作，上学，然后她还抽出时间来读狄金森！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tells the bartender how impressive he thinks she is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉调酒师他认为她是如何的了不起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can barely hold down a job, he says, and as for writing, forget it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只能勉强对付一份工作，他说，至于写作，就别提了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, you're a writer? the bartender asks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>噢，你是一个作家？调酒师问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not worth talking about, the husband says, but he wants to talk about it, so he does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不值得一提，丈夫说，但他想提，所以又提了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tells the bartender that he writes short stories about the confusion of life and the unknowability of the heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉调酒师说，他写关于人生的困惑和感情的不可知的短篇小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like Chekhov, the pretty bartender says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像契诃夫一样，漂亮的调酒师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We read a story by him in our fiction class. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们小说课上读过他的一篇小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, the husband says, kind of like that, but I prefer Nabokov, with his unreliable narrators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是，丈夫说，有点像，但我更喜欢纳博科夫，以及他写的那些不可靠叙述者们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pretty bartender has not read Nabokov. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漂亮的调酒师还没有读过纳博科夫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It doesn't matter, the husband says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没关系，丈夫说。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

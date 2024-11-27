@@ -1,0 +1,967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160906T052546Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Selkie Stories Are for Losers </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海豹人的故事是讲给失败者听的</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hate selkie stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我讨厌海豹人的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They're always about how you went up to the attic to look for a book, and you found a disgusting old coat and brought it downstairs between finger and thumb and said "What's this?", and you never saw your mom again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们总是说你如何上到阁楼里去找一本书，结果却发现了一件恶心的旧外套，你用拇指和食指夹着拎到楼下问：“这是什么？”，然后你就再也见不到你妈妈了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I work at a restaurant called Le Pacha. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在一家名叫帕夏（Le Pacha）的餐馆里工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got the job after my mom left, to help with the bills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈离开后我找了这份工作来贴补家用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On my first night at work I got yelled at twice by the head server, burnt my fingers on a hot dish, spilled lentil-parsley soup all over my apron, and left my keys in the kitchen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我工作的第一晚，我被侍者领班吼了两次，被一盘热菜烫伤了手指，把小扁豆西芹汤洒得围裙上到处都是，还把钥匙忘到厨房里了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't realize at first I'd forgotten my keys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开始我还没意识到忘了钥匙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stood in the parking lot, breathing slowly and letting the oil-smell lift away from my hair, and when all the other cars had started up and driven away I put my hand in my jacket pocket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我站在停车场里，缓慢地呼吸，让油烟味从我的头发里消散出去，当所有其他的车都启动开走了，我伸手到夹克口袋里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I knew.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我知道了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ran back to the restaurant and banged on the door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跑回餐馆砰砰地拍门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course no one came. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然是没有人来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I smelled cigarette smoke an instant before I heard the voice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在听到声音前的一刻我先闻到了香烟味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hey."I turned, and Mona was standing there, smoke rising white from between her fingers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嘿。”我转过身，发现莫娜站在那里，白色的烟从她的指间升起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I left my keys inside," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我把钥匙忘在里面了，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona is the only other server at Le Pacha who's a girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜是帕夏仅有的另一个女侍者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's related to everybody at the restaurant except me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她和餐馆里的每一个人都有亲属关系，除了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The owner, who goes by "Uncle Tad," is really her uncle, her mom's brother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>店主，那个被称为“泰德舅舅”的真的是她舅舅，她妈妈的哥哥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't talk to him unless you have to," Mona advised me. "He's a creeper." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要是没必要，别和他说话，”莫娜警告我，“他是个马屁精。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was after she'd sighed and dropped her cigarette and crushed it out with her shoe and stepped into my clasped hands so I could boost her up to the window, after she'd wriggled through into the kitchen and opened the door for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是在她叹了口气、扔掉香烟并用她的鞋碾碎、然后踏上我握紧的双手以便我能够把她托到窗口上，在她钻进厨房给我打开门后说的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said, "Madame," in a dry voice, and bowed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用生硬的声音说：“夫人，”，还鞠了个躬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At least, I think she said "Madame." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少我认为她说了“夫人”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She might have said "My lady." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她可能说的是“女士”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't remember that night too well, because we drank a lot of wine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上我记得不太清了，因为我们喝了很多酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona said that as long as we were breaking and entering we might as well steal something, and she lined up all the bottles of red wine that had already been opened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜说既然我们闯进来了我们也可以偷点东西，她将已经打开的红酒瓶全都排列起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shone the light from my phone on her while she took out the special rubber corks and poured some of each bottle into a plastic pitcher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她取出专用的橡胶塞子每一瓶里倒出一些到一个塑料壶里时我用手机的光照着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She called it "The House Wine." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把它叫作“家酿酒”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was surprised she was being so nice to me, since she'd hardly spoken to me while we were working. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很惊讶她对我这么好，因为我们工作的时候她几乎没和我说过话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later she told me she hates everybody the first time she meets them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来她告诉我她讨厌每一个第一次见到的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I called home, but Dad didn't pick up; he was probably in the basement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我给家里打电话，但是爸爸没有接；他可能在地下室里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I left him a message and turned off my phone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我给他留了条信息就关掉了电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you know what this guy said to me tonight?" Mona asked. "He wanted beef couscous and he said, 'I'll have the beef conscious.'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道那个家伙今天晚上跟我说了什么吗？”莫娜问，“他想要牛肉蒸粗麦粉，结果他说：‘我要牛肉神志清醒。’”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona's mom doesn't work at Le Pacha, but sometimes she comes in around three o'clock and sits in Mona's section and cries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜的妈妈不在帕夏工作，但有时她在三点钟左右进来，坐在莫娜分管的区域里哭泣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then Mona jams on her orange baseball cap and goes out through the back and smokes a cigarette, and I take over her section. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后莫娜猛地将她橙色的棒球帽扣在头上，从后门出去抽一根烟，我就接管了她的分区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona's mom won't order anything from me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜的妈妈不会从我这里点任何东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's got Mona's eyes, or Mona's got hers: huge, angry eyes with lashes that curl up at the ends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的眼睛和莫娜的一模一样，或者说莫娜的和她的一模一样；大大的愤怒的眼睛，眼睫毛在末梢处卷起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She shakes her head and says: "Nothing! Nothing!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她摇着头说：“什么都不要！什么都不要！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally Uncle Tad comes over, and Mona's mom hugs and kisses him, sobbing in Arabic.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后泰德舅舅走过去，莫娜的妈妈拥抱他、吻他，用阿拉伯语呜咽着说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After work Mona says, "Got the keys?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下班后莫娜说：“拿钥匙了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We get in my car and I drive us through town to the Bone Zone, a giant cemetery on a hill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们上了我的车，我开车带我们穿过城镇到尸骨区，那是山上的一个巨大的墓地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I pull into the empty parking lot and Mona rolls a joint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开进空荡荡的停车场，莫娜卷了一支大麻烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's only one lamp, burning high and cold in the middle of the lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有一盏灯高高地挂在停车场的中间，发出清冷的光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona pushes her shoes off and puts her feet up on the dashboard and cries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜甩掉鞋，抬起脚放到仪表板上，然后大哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She warned me about that the night we met: I said something stupid to her like "You're so funny" and she said, "Actually I cry a lot. That's something you should know." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们遇到的那天晚上她就预先告诉过我这事儿：我跟她说了诸如“你真有趣”之类的傻话，她说：“实际上我经常哭，这些你应该知道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was so happy she thought I should know things about her, I didn't care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很高兴她认为我应该知道有关她的事，我不介意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still don't care, but it's true that Mona cries a lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还是不介意，但莫娜确实经常哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She cries because she's scared her mom will take her away to Egypt, where the family used to live, and where Mona has never been. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她哭是因为她害怕她妈妈会带她去埃及，她们家以前住在那里，但莫娜从未去过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What would I do there? I don't even speak Arabic." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我去那里做什么？我都不会说阿拉伯语。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wipes her mascara on her sleeve, and I tell her to look at the lamp outside and pretend that its glassy brightness is a bonfire, and that she and I are personally throwing every selkie story ever written onto it and watching them burn up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把睫毛膏擦在袖子上，我叫她看外面的灯，将它惨淡的光亮假想成篝火，我和她亲手将曾经写过的所有的海豹人故事扔上去，看着它们烧掉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You and your selkie stories," she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你和你的海豹人故事，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tell her they're not my selkie stories, not ever, and I'll never tell one, which is true, I never will, and I don't tell her how I went up to the attic that day or that what I was looking for was a book I used to read when I was little, Beauty and the Beast, which is a really decent story about an animal who gets turned into a human and stays that way, the way it's supposed to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉她它们不是我的海豹人故事，从来不是，我也永远不会讲一个，这是真的，我永远不会，我没跟她说那天我是如何上到阁楼上，没说我在找的是一本我小时候经常读的书《美女与野兽》（Beauty and the Beast），那真是一个好故事，讲的是一只动物变成了人类，然后就这样生活，本来也应该是这样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't tell Mona that Beauty's black hair coiled to the edge of the page, or that the Beast had yellow horns and a smoking jacket, or that instead of finding the book I found the coat, and my mom put it on and went out the kitchen door and started up her car.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没告诉莫娜美女的黑色头发卷曲着直到书页的边上，没告诉她野兽有黄色的角和一件冒烟的夹克，也没告诉她我没找到这本书而是发现了那件外套，我妈妈穿上它，从厨房门出去，发动了她的车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One selkie story tells about a man from Mirdalur. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一个海豹人故事讲的是一个从米达卢（Mirdalur）来的男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was on the cliffs one day and heard people singing and dancing inside a cave, and he noticed a bunch of skins piled on the rocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天他在悬崖上听到有人在一个山洞里唱歌跳舞，他还发现有很多皮堆在岩石上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took one of the skins home and locked it in a chest, and when he went back a girl was sitting there alone, crying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拿了其中一张皮回家，锁在一口箱子里，当他回来时有一个女孩一个人坐在那里哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was naked, and he gave her some clothes and took her home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她赤裸着身子，他给了她一些衣服，把她带回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They got married and had kids. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们结了婚，生了孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You know how this goes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道后来是怎样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day the man changed his clothes and forgot to take the key to the chest out of his pocket, and when his wife washed the clothes, she found it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天这个男人换了衣服，忘了从口袋里拿出开那口箱子的钥匙，结果他妻子洗衣服时发现了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're not going to Egypt," I tell Mona. "We're going to Colorado. Remember?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不会去埃及的，”我对莫娜说，“我们要去科罗拉多，记得吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's our big dream, to go to Colorado. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是我们的远大梦想，去科罗拉多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's where Mona was born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是莫娜出生的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She lived there until she was four. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在那里生活到四岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She still remembers the rocks and the pines and the cold, cold air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还记得那些岩石、那些松树和那寒冷、寒冷的空气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She says the clouds of Colorado are bright, like pieces of mirror. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说科罗拉多的云是明亮的，像一块块的镜子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Colorado, Mona's parents got divorced, and Mona's mom tried to kill herself for the first time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在科罗拉多，莫娜的父母离婚了，莫娜的妈妈第一次试图自杀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tried it once here, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在这里也试过一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She put her head in the oven, resting on a pillow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把头放进炉子里，枕在一个枕头上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona was in seventh grade.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜那时在上七年级。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Selkies go back to the sea in a flash, like they've never been away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海豹人闪电般返回大海，仿佛他们从未离开过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's one of the ways they're different from human beings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是他们和人类不同的地方之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, my dad tried to go back somewhere: he was in the army, stationed in Germany, and he went to Norway to look up the town my great-grandmother came from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经，我爸爸试图回到某个地方：他在军队里，驻扎在德国，他去挪威寻找我曾祖母所来自的那个城镇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He actually found the place, and even an old farm with the same name as us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他竟然找到了那个地方，甚至找到了一座有着和我们同样名字的古老农场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the town, he went into a restaurant and ordered lutefisk, a disgusting fish thing my grandmother makes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在镇上，他进了一家餐馆点了碱制鳕鱼，一种我祖母做的令人作呕的鱼之类的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cook came out of the kitchen and looked at him like he was nuts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>厨师从厨房出来看着他，好像他是个疯子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said they only eat lutefisk at Christmas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说他们只在圣诞节吃碱制鳕鱼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There went Dad's plan of bringing back the original flavor of lutefisk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸要带回碱制鳕鱼最原始的味道的计划落空了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now all he's got from Norway is my great-grandmother's Bible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他从挪威带来的只有我曾祖母的圣经。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's also the diary she wrote on the farm up north, but we can't read it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有她在北方的农场里所写的日记，但我们读不懂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's only four English words in the whole book: My God awful day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整本簿子上只有四个英文单词：这糟糕透顶的日子啊（My God awful day）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You might suspect my dad picked my mom up in Norway, where they have seals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能猜想我爸爸在挪威结识了我妈妈，那里有海豹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't, though. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He met her at the pool.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是在游泳池遇到的她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As for Mom, she never talked about her relatives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于妈妈，她从未谈起过她的亲戚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked her once if she had any, and she said they were "no kind of people." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有一次问她是不是有，她说他们“不算是人”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time I thought she meant they were druggies or murderers, maybe in prison somewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我认为她的意思是他们是瘾君子或杀人犯，或许在某个地方的监狱里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I wish that was true.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我希望那是真的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the stories I don't tell Mona comes from A Dictionary of British Folklore in the English Language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有给莫娜讲的其中一个故事来自《英国民间传说英文词典》（A Dictionary of British Folklore in the English Language）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In that story, it's the selkie's little girl who points out where the skin is hidden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那个故事里，是海豹人的小女儿指出那张皮藏在哪里的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She doesn't know what's going to happen, of course, she just knows her mother is looking for a skin, and she remembers her dad taking one out from under the bed and stroking it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然她并不知道要发生什么事，她只知道她母亲在找一张皮，而她记得她爸爸曾从床底下拿出来一张抚摸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The little girl's mother drags out the skin and says: "Fareweel, peerie buddo!" She doesn't think about how the little girl is going to miss her, or how if she's been breathing air all this time she can surely keep it up a little longer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小女孩的母亲拽出那张皮说：“永别了，同行好友！（Fareweel, peerie buddo）”她不想想小女孩会如何想念她，也不想想既然她已经呼吸了这么长时间的空气她当然能够再坚持一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She just throws on the skin and jumps into the sea.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只是匆忙穿上那张皮跳进大海。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After Mom left, I waited for my dad to get home from work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈离开后，我等爸爸下班回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't say anything when I told him about the coat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟他讲外套的事情时他什么都没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stood in the light of the clock on the stove and rubbed his fingers together softly, almost like he was snapping but with no sound. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他站在炉子上钟表的亮光里，手指轻柔地相互摩擦，好像他是在打响指，但没声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he sat down at the kitchen table and lit a cigarette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他在厨房餐桌旁坐下，点了一支烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd never seen him smoke in the house before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我以前从未在家里见到他抽烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mom's gonna lose it, I thought, and then I realized that no, my mom wasn't going to lose anything. We were the losers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈要错过了，我想，然后我意识到不是，我妈妈不会错过任何事。我们才是失去的那一方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Me and Dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He still waits up for me, so just before midnight I pull out of the parking lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没睡还在等着我，所以在半夜前我开出了停车场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm hoping to get home early enough that he doesn't grumble, but late enough that he doesn't want to come up from the basement, where he takes apart old T.V.s, and talk to me about college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我希望到家足够早使他不抱怨，但要足够晚使他不想从地下室上来跟我讲上大学的事，他在那里拆旧电视机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've told him I'm not going to college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉过他我不打算上大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm going to Colorado, a landlocked state. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要去科罗拉多，一个被陆地包围的州。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only twenty out of fifty states are completely landlocked, which means they don't touch the Great Lakes or the sea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五十个州里只有二十个是完全被陆地包围的，那意味着它们不与五大湖或大海相邻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mona turns on the light and tries to put on eyeliner in the mirror, and I swerve to make her mess up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫娜打开灯，试图对着镜子描眼线，我突然转向让她搞砸了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She turns out the light and hits me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她关掉灯，打我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the windows are down to air out the car, and Mona's hair blows wild around her face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有的窗户都降下来给车通风，莫娜的头发被风吹得在脸四周疯狂地飞舞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peerie buddo, the book says, is "a term of endearment." "Peerie buddo," I say to Mona. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>peerie buddo，那书上说是“一个表示亲爱的词汇”。“peerie buddo，”我对莫娜说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's got the hiccups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在打嗝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She can't stop laughing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她笑得停不下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've never kissed Mona. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从未吻过莫娜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've thought about it a lot, but I keep deciding it's not time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想过很多次，但我一直认为还不到时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not that I think she'd freak out or anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是我认为她会吓坏或什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not even that I'm afraid she wouldn't kiss me back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至也不是我怕她不会回吻我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's worse: I'm afraid she'd kiss me back, but not mean it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而是更糟的：我怕她会回吻我，但却无意这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Probably one of the biggest losers to fall in love with a selkie was the man who carried her skin around in his knapsack. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许爱上海豹人的最大失败者之一是那个始终用背包背着她的皮男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was so scared she'd find it that he took the skin with him everywhere, when he went fishing, when he went drinking in the town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他太怕她发现了，他走到哪儿都随身带着那张皮，他打渔时带着，他到镇上喝酒时带着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then one day he had a wonderful catch of fish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后有一天他捕获的鱼多到让人惊奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were so many that he couldn't drag them all home in his net. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太多了，他不能用网将它们全都拖回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He emptied his knapsack and filled it with fish, and he put the skin over his shoulder, and on his way up the road to his house, he dropped it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他倒空了背包，装满鱼，把那张皮搭在肩膀上，在去他家的路上，他把它掉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Gray in front and gray in back, 'tis the very thing I lack." That's what the man's wife said, when she found the skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“前面是灰色的，后面也是灰色的，这正是我需要的东西。”这是那个男人的妻子在发现这张皮时说的话。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

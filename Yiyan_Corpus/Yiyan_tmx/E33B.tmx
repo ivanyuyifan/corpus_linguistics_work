@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151227T130757Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Landscape Photography Tips </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>风景摄影技巧</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We've all had the experience: Driving through a beautiful landscape, you stop at every scenic overlook to make photographs sure to capture the grandeur of what you see.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都有过这样的经历：当我们在如画的美景中游览时，我们想要把自己看到的美景都拍下来，生怕错过了一处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You get home, look at the pictures, and find them flat and boring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当我们回家后再看这些照片，却发现它们是如此单调和乏味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the elements that enthralled you at the time are there, but not the feeling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有曾让我着迷的东西都拍进了照片，但就是没有感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是为什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we look at a landscape, our eyes travel over it and selectively focus on the elements that we find appealing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在现场欣赏时，我们的视线会扫过整个景色，经过选择后将注意力集中到某个足以吸引我们的元素上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our field of vision encompasses a great deal of the scene, but our eyes and brains have the ability to ignore all except the most alluring details. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>视野内的景物都会被我们看到，但我们的眼睛和大脑拥有的能力让我们忽视掉那些没有吸引力的细节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lenses and sensors or film cannot do this by themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是相机却没有这样的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They need help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它需要大脑的帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Time is the most important investment you can make in getting good landscape pictures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你要得到不错的风景照，最重要的是你得投入时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you arrive in a place you've never visited before, spend time scouting-driving or hiking to different locations, finding different vantage points. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你身处一个陌生的地方，你要花时间去发现——驾车或是步行，到不同的地点去，发现不同的视角。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carry a compass to figure out where the sun will rise and set, and imagine how the place would look in different kinds of light. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记得随身携带指南针以便判断日出和日落的地点。想象不同角度的光线下某一景物的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This can take some practice because you also have to look at where the light will not be falling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些地方并不会被光线照到。这需要练习一段时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Photographing a canyon, for example, you might see that the west wall will be beautifully lit in the early morning, if the canyon is deep, however, the east wall will be in such complete shadow that your camera will be capable of rendering it only as a great black blob. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，要拍摄一条峡谷，在早晨峡谷西侧会被阳光照射的很漂亮。但如果峡谷很深，在西侧会有很大的阴影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless this is the effect you want, you'll either have to modify your composition, shoot it later in the day, or plan to return on an overcast day when both sides will be photographable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这种阴影不是你想要的，你就得晚些时候当太阳升高一点后再来拍摄，或计划在两边都能拍摄出来的一个阴天再来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>LANDSCAPE SUBJECTS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同的摄影主题</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Flowing Water </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>流水</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a river or stream flows through the landscape you are shooting, think about the character of it and how to convey that character in the image. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你要拍摄的风景中有一条河流或者小溪，就要考虑它的特点以及如何在照片中表现这种特点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A big, slow river looks and feels different from a fast-moving mountain stream. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一条缓慢的大河与一条小溪的外观和感觉是完全不同的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water can be the center of interest in the image, or it can serve as an element in your composition-as a diagonal or other leading line, as a horizontal line, or as a shape that complements other elements in the frame.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水体可以是整幅照片的中心，也可以只是构图中的一个元素——可以是对角线、水平线、或者作为框架内补充其它元素的形状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look carefully for reflections in the water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要仔细观察水中的倒影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can use some reflections to enhance the image-the colors of reflected autumn leaves, for instance-but others may just be distracting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些情况下你可以利用倒影增强照片的效果——比如水面倒映出的红叶的颜色，但另一些情况下也会分散注意力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may have to move around a bit to include or eliminate them, or return when the sun is at a different angle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了在作品中消除或显现倒影，你需要来回试着从不同的地点拍摄，或者当阳光在另外一个角度的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use a polarizing filter to eliminate some of the reflection and increase contrast; rotate it until you have the effect you want.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用偏光滤镜，刚可以一定程度上消除反射、提高对比度；调整偏光滤镜直到得到您想要的效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forests</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>森林</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Photographing forests presents a different set of challenges. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对森林的拍摄则要考虑另一些问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, think about the character of the forest you want to shoot and the feeling you want to convey in your image. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，观察你想要拍摄的森林具有什么样的特点，思考你要通过作品表达的情感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Should it feel dark and brooding, or light and airy? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这片森林是阴暗肃穆的还是明亮通透的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are there any special features that will help express how you feel about it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它有什么样的特点，有助于表达它给你的感觉？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As with any photograph, find a point of interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像拍其它景物一样，你需要确定一个主体（兴趣点）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might be one slightly different tree trunk, a path winding through, or a splash of color on a flowering vine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个有点特别的树干、一条曲折的小径、或者一个花藤上五彩斑斓的颜色都是很好的拍摄主体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whatever it is, compose in such a way to lead the viewer to it. Look for shafts of light penetrating the canopy or one spot on the forest floor directly lit by the sun.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管是拍什么，下面的构图方法都能你的作品很有吸引力：寻找穿透林冠的光束，或阳光在地面上的光斑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether you are shooting toward a forest or shooting from inside it, look for patterns, lines, and other compositional elements you can use. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管你是从外部还是内部拍摄森林，都要思考你能用什么样的形状、线条及其它的构图元素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try both wide and telephoto lenses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长焦镜头和广角镜头都要试试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A wide lens looking up at the trees will make them soar; a telephoto will compress a row of trunks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向上拍摄的广角可以使树显得更高大；长焦镜头则能压缩一排树的距离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lie down and look straight up through the branches; climb a tree to look down the path.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以躺下来向上拍树的枝叶，也可以爬上树向下拍林下的小路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plains and Prairies </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平原和草原</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wide-open spaces such as plains and prairies are among the hardest landscapes of all to photograph well because often they lack an obvious point of interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像草原和平原这样广阔的空间基本上是最难拍好的风景。这是因为通常很难找到一个合适的主体（兴趣点）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In most cases, the huge scope of the scene is one of the things you're trying to communicate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多情况下，这种空旷正是你想要记录的东西之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even so, remember that viewers need something on which to focus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使如此，你也要记住，观众欣赏你的作品时需要的一个吸引注意力的焦点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look for an element peculiar to that place and use it as a point of interest that says something about the scene and imparts a sense of scale. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你要寻找一个在这个景观中特有的元素，并以此作为一个表现景观物质并能显示景观尺度的兴趣点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't want the viewer's eyes to wander aimlessly around the frame, so use whatever might be available to lead him into the image-a winding road, a stream, or a fence line, for example.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你总不希望观众在欣赏你的作品时眼睛只是在照片上漫无目的地游荡吧，所以你要利用任何可能吸引他注意力的物体——比如一个曲折的道路，一条小溪，或一条篱笆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like every forest, every plain has its own personality, so hunt around until you have found an angle and composition that reflect it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和森林一样，每一块草原也都有自己独特的气质。所以你要四处搜寻，找到一个可以反映这种独特气质的角度和构图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the most important feature of this particular place? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你要问自己“这个特别的地方最重要的特点是什么”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think about the sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还要注意天空。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you want a lot or a little of it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天空占的空间应该多一点还是少一点？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A clear blue sky might best reflect the character of one plain, a brewing storm another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>湛蓝的天空有时可能最能反映一块草原的特质。而有的草原则在暴风雨来临时显得独特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember the rule of thirds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时也不要忘了构图三分法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the sky is important, place the horizon along the bottom third division of the frame. If it is not, put it along the upper third.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果天空重要，要将地平线放在离底边三分之一处，不然就得将地平线放在离顶边三分之一处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Deserts</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沙漠</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look for ways to show the rugged nature and the beauty of deserts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寻找可以表现沙漠的荒凉和美丽的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the middle of the day, find waves caused by the heat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如中午，炽热的地面上看过去波动的景象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using a long lens to compress them, you'll get dramatic shots that really say "hot." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用焦镜头对其进行压缩，就能得到可以称之为“热”的神奇效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Deserts are also great places for pictures of stars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沙漠也是拍摄星空的理想场所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no humidity, and usually no terrestrial lights to interfere, so stars seem more numerous and are unusually brilliant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在沙漠的空气中水汽很少，也没有会干扰星光的地面上的各种光线，所以在沙漠中可以看到更多更亮的星星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Watch the way the color of the sand changes throughout the day with the angle of the sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仔细观察在一天之内沙子颜色随着阳光的照射角度的变化而变化的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think about ways to capture the characteristics of the desert. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>思考怎么去捕捉这些沙漠的特点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A wide shot might best portray one desert, while a close-up of one plant struggling to survive on the side of a dune might best represent another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>描绘沙漠的全景时运用广角镜头是最合适的，而对沙丘一侧顽强生存的植物的特写则表现出另一种物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think about including the sun in your photograph-it's one sure way to say hot and harsh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>思考是否要把太阳包括到你的作品之内。太阳有助于表现沙漠的酷热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But shooting the sun is tricky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但拍摄太阳是件很棘手的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On a clear day, the sun is so bright that your camera's meter will tend to underexpose everything else in the frame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果天气晴朗，阳光是如此耀眼，这就会造成镜头内其它所有物体都曝光不足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoot in manual mode, or take a reading without the sun in frame, depressing the shutter button halfway to hold the exposure, then reframe before you shoot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时你就需要使用手动模式，或者使用下面这种方法：将太阳移出镜头，半按快门进行测光，然后再对包括太阳之内的景物取景拍摄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you're shooting film, bracket a lot to make sure of getting the exposure you want. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果使用的是胶片，你需要支一个摄影棚以更好地控制曝光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a digital camera, check the images as you shoot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果是数码相机，拍摄完就要检查一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wide-angle lenses tend to work best because the blown-out sun takes up less of the image, but they are susceptible to lens flare. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多情况下使用广角镜头是合适的，它可以让曝光过度的太阳占据较少空间。但广角镜头很容易受到产生光晕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The advantage of SLRs is that you can see the flare when you frame the image.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用单反相机的好处是显而易见的，你在取景时就可以读到曝光值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seacoasts</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海滨</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider these different scenes: a tranquil tropic isle with turquoise water lapping at a white, sandy beach; storm waves pounding a rocky New England shore; a densely packed vacation beach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>试着想象这些场景：水清沙白、椰林树影的一个热带小岛；波涛汹涌的新英格兰岩石海岸；人满为患的度假海滩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What kind of shore are you photographing, and how can you best convey it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你想拍哪一种海岸呢？你要怎样去拍出最好的效果？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What time of day, what kind of weather, and what season is most appropriate for showing its character? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么样的时段、天气和季节能最好地表现出它的物质？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These are the kinds of questions to ask yourself while scouting for the right vantage point and composition before shooting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些都是你在拍摄前寻找视角和构图时要回答的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every shoreline is different in some way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同地方的海岸线总是有一些差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Show the difference in your images.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你要能够在你的作品中表现出这种差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once you have thought about the character of the shore, look for elements you can use to reinforce the feeling you're after. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦你确定了海岸线的特点，就要寻找可以突出这种特点的元素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

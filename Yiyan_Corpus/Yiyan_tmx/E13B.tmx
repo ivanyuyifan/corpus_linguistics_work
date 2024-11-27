@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151124T144506Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chicken with crispy Parma ham</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>香煎鸡胸肉配酥脆帕尔玛火腿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A delicious low-fat dish in just 30 minutes, perfect if friends drop by midweek</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平日朋友来串门，总要会一道拿得出手的私房菜吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ingredients</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>食材：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Serves 4</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四人份</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>16 oz new potatoes , halved if large</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16盎司小土豆，大的一切两半</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>8 oz runner beans , trimmed and sliced</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8盎司四季豆，掐尖去筋切丝</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 skinless chicken breasts</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4块去皮鸡脯肉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 tbsp olive oil</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1汤匙橄榄油</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 slices Parma ham</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4片帕尔玛火腿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 garlic clove, crushed </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1颗大蒜瓣，切碎</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>juice 1 lemon</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1颗柠檬，取汁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制作做法：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1.Cook the new potatoes in boiling salted water for 10-15 mins, until just tender, adding the green beans for the final 2 mins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1. 将小土豆放滚盐水烫个10-15分钟。待变软时，加入四季豆再煮2分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, put each chicken breast between two sheets of cling film and bash them with a rolling pin until they're about 1cm thick. Season.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，将鸡胸肉用保鲜膜裹好，再拿擀面杖使劲捶打，直到每片只有1cm厚，调味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2.Heat a large frying pan and add the Parma ham. Cook for 2 mins, until crisp. Drain on kitchen paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2. 起煎锅，把火腿煎2分钟直至酥脆，再用吸油纸控油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the oil to the pan and add two of the chicken breasts. Cook for 3 mins each side, transfer to a plate and keep warm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倒入橄榄油，加入2片鸡胸肉，每面煎约3分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cook the other two breasts in the same way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样方法煎剩下2片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3.Remove the pan from the heat and add the garlic and lemon juice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3. 关火，加入蒜末和柠檬汁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toss in the drained beans and potatoes and crumble in the Parma ham. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>控干四季豆和土豆的水分，撒上火腿碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Divide the chicken and veg between four plates.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后把鸡肉和配菜分别盛入4个盘子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition per serving </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养价值：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>302 kcalories, protein 42.0g, carbohydrate 20.0g, fat 7.0g, saturated fat 2.0g, fibre 2.0g, salt 0.96g.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡路里：302千卡，蛋白质：42.0克，碳水化合物：20.0克，脂肪：7.0克，饱和脂肪：2.0克，纤维素：2.0克，盐：0.96克</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

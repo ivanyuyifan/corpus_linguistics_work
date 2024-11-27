@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T140859Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>International Deep Drawing Research Group</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际深冲研究会（IDDRG）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>INTRODUCTION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>介绍</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The IDDRG, International Deep Drawing Research Group, was started in 1957 as an organization of national groups devoted to the study of sheet forming.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IDDRG,国际深冲研究会，成立于1957，是一个致力于板材成型研究的国际组织。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this time, many types of sheet metal forming operations were well understood and,particularly, the differentiation between modes of deformation was already established:stretching, plane strain, shear and shrink drawing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，很多类型的薄板金属成型操作很容易理解，尤其是，不同模型的重组已经建立：拉伸，平面变形，剪切和缩小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the latter – fabrication of cups – was not so well understood and, particularly, the influencing mechanical characteristics were not identified.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，后者--杯形制作--依旧没有得到理解并且其在机械学中的影响也未确立。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some thought that earing was detrimental, others that the yield point elongation had to be avoided (killed steels performed better than rimmed steels) but there were counter examples and things were not so clear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人认为裙边（板材深冲时形成的裙边）是不利的，也有人认为应该避免延展（这会使板材没有沸腾钢表现好）但是有很多的反例和事件依旧不怎么清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is why English, Sweden and Netherland researchers had contact to gather their forces on this topic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是为什么英国，瑞士和荷兰的研究者致力于此课题的研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They decided to meet in Amsterdam in March 1957, inviting representatives from Germany, Belgium, France and Chile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们决定在1957年三月阿姆斯特丹举行会议，邀请了来自德国，比利时，法国和智利的代表出席。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only goal was to understand cup forming, hence the name of Deep Drawing Research Group that was chosen at the end of this event.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次会议的唯一目标就是理解杯形制作，同时也希望在此次会议结束后，能够提高国际薄板成型研究会的知名度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A first international conference was organised in Paris, May 1960, gathering 212attendees from 15 nations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次国际会议于1960年5月份在巴黎召开，来自15个国家的212名研究者出席了此次会议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of this conference, the initial purpose of theIDDRG was enlarged to consider more topics than initially proposed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议结束后，不仅达成了国际薄板成型会的原定目标，并且超出了预期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was to do cooperative research on tests, materials, and processes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>主要合作研究检测，材料和工序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such work included methods for determining the strain-hardening exponent n, R-value, other tests for sheet metal formability and, later, forming limit curves.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如就包括在加工中，如何确定加工硬化指数，R真值，其他的板材成型的测试，接着，获取不同温度下的成型极限曲线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Starting at this conference, a schedule was established for working group meetings every year with open Congresses in even numbered years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议开始的时候，日程表中就制定了工作组每年都会议会一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The working group meetings were closed sessions made up of delegations from the National Groups that comprised the IDDRG. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而工作组的内部会议而是只有IDDRG的代表参加。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reason for these closed sessions was to allow experts to informally review critical issues related to materials, tests, and processes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>内部会议召开是为了让这些专家探讨在材料，检测和工序中的不足之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As some of the initial technical issues were resolved, the working groups became progressively more informal, and over the years became mini conferences. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当一些原始技术困难已经解决，会议就更加非正式了，近年来，类似会议变得更加迷你了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By 1998, it had become obvious that the format of the IDDRG needed to be changed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1998年，IDDRG已经意识到需要改变内部格局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This evolution took time, but starting in 2003, the meeting schedule shifted to yearly conferences with both regular papers and poster papers that are included in conference proceedings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是改变是需要时间的，自从2003开始，会议进程安排改变为每年会议都要带上定期论文和发表过的论文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MISSION STATEMENT</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗旨</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The yearly conference of the IDDRG is devoted to experimental and computational papers with industrial relevance that are presented by academic and industrial researchers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IDDRG的每年会议都需要工业相关实验性和计算性的论文，并且都是有专业的工业研究者发表的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The intent of the conference is to present new work that stimulates thinking and provides opportunities for informal discussion among researchers in sheet metal formability. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议的目的就是展示一些新的研究来刺激思考和提供板材成型非正式讨论机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Written proceedings, which include both the presentations and poster papers, are published. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书面程序，包括出版的介绍和海报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, CD-ROMs containing all papers are also produced for each conference. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在cd刻录机包含了所有每次会议的文件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The IDDRG maintains a library of papers going back to 1960 (see website).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IDDRG掌握了从1960年来所有的文件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ACTIVITIES</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>活动</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conferences are scheduled for May or June in Europe, North America or Asia.However, most conferences are held in Europe because the majority of the current membership resides in Europe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议一般安排在5月或6月，在欧洲，北美或者亚洲举行。然而，大多数会议都在欧洲举行因为大多数的的研究者都在欧洲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conferences start with an informal reception on Sunday evening followed by two and a half days of technical sessions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议开始之前，一般都有一个在星期天晚上举行为期两天半的技术碰面会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ample time is allowed for technical discussion, and various social events are scheduled in association with the conference.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会有足够的时间留给技术讨论和其他的有关这次会议的社交活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In order to provide focus for the next conference, the Executive Committee of theIDDRG uses input from members attending the previous conference to select topics of interest in sheet metal forming that will provide new information and facilitate exchange of ideas on these topics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了对下次会议的足够重视，IDDRG的负责人都会输入先前会议参加者所讨论的话题，从中选取感兴趣的板材成型的话题，在会议中进行讨论并交换意见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Typical topics include machinery and press-tools, new processes, new materials, experimental methods for evaluating formability and studying press operations, spring back, constitutive equations, plasticity criteria, and friction and wear with attention to interface behaviour as characterized by topography and surface chemistry, lubrication, speed, and temperature.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>代表性的课题包括机器及冲压设备，新工序，新材料，设备保证解决方案，还有冲压流程，反弹，本构方程，可塑性标准，摩擦的研究。或者专注于造成损耗因素的研究，包括压力分布情况，表面化学反应，润滑，速度和温度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Submissions are reviewed by a scientific committee to select the best papers. Papers that are not selected for presentation are automatically included as poster papers if they have acceptable technical quality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有被选中介绍但质量可行的文章会选作为海报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, commercial content is not acceptable in IDDRG papers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样的，IDDRG的海报是不会出现商业内容的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While mathematical modelling is important in studies of sheet metal formability, forIDDRG papers, mathematical modelling should be a tool, not a topic in itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数学建模师很重的研究对于板材成型来说，对于IDDRG的论文，数学建模是一个必要的工具，而不是一个话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus,topics such as new algorithms, innovative shell or solid elements, time integration schemes, etc are not considered for presentation or poster papers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，比如新算法，新型胚料，或者固体因素，时间综合表，等等的课题不是介绍或者海报所注重的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paper proceedings are distributed to all attendees at the start of the Conference. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议参加者都会在会议开始前拿到论文材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Talks are scheduled for twenty minutes followed by ten minutes for questions and discussion.Furthermore, the conferences are organized so that there is ample time for further discussion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发言20分钟之后就会有10分钟的提问和讨论时间。因此，会议组织者会流出充足的时间给进一步的讨论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>English is the official language of the IDDRG.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英语是IDDRG的官方语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ORGANISATION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>组织</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The officers of the IDDRG are the current President, Vice-Presidents, general Secretary,treasurer, and active past-presidents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IDDRG管理人员包括主席，副主席，秘书长，财务主管，活跃的往届主席们。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,18 @@
+Machine Learning Summer School @Purdue
+Machine Learning is a foundational discipline of the Information Sciences. 
+It combines deep theory from areas as diverse as Statistics, Mathematics, Engineering, and Information Technology with many practical and relevant real life applications. 
+The aim of the summer school is to cover the entire spectrum from theory to practice. 
+It is mainly targeted at research students, IT professionals, and academics from all over the world.
+This school is suitable for all levels, both for people without previous knowledge in Machine Learning, and those wishing to broaden their expertise in this area. 
+It will allow the participants to get in touch with international experts in this field. 
+Exchange of students, joint publications and joint projects will result because of this collaboration.
+For research students, the summer school provides a unique, high-quality, and intensive period of study. 
+It is ideally suited for students currently pursuing, or intending to pursue, research in Machine Learning or related fields. 
+Limited scholarships are available for students to cover accommodation and registration costs. 
+If funds are available partial travel support might also be provided.
+IT professionals who use Machine Learning will find that the summer school provides relevant knowledge and exposure to contemporary techniques. 
+In addition, they will benefit by direct interaction with top-notch researchers and knowledge workers. 
+Previous experience indicates that personnel from both the industry as well as national laboratories benefit immensely from the school.
+For academics, the summer school is an excellent opportunity to help getting started in research on novel topics in Machine Learning. 
+It provides an ideal forum for networking and discussions. 
+Academics will also benefit from interaction with IT professionals which will lead to a deeper understanding of real life problems.

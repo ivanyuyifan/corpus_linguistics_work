@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T112941Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why Windows 8 Tablets Will Surprise Everyone  Windows-based tablets haven’t been treated kindly by the test of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Window 8平板电脑将会带给我们什么样的惊喜
+基于Windows系统的平板电脑还没有能够通过时间的考验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those released in the Windows XP era relied on wonky, stylus-based data entry, and even modern, touch-based tablets running Windows 7 are poor performers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之前基于Window XP发布的那些触控笔输入设备基本上算是不成功的，之后的触屏windows7版本的性能也是相当有局限性。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, Microsoft has a troubled tablet history that the public isn’t soon to forget. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>微软糟糕的平板电脑历史的确让人难以忘记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This November, Forrester released a study that showed consumer interest in a Windows-based tablet dropped significantly this year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年十一月，弗雷斯特发布了一份报告，报告显示，消费者对Windows平板电脑的消费意愿在本年内显著下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the start of 2011, 46 percent of potential tablet owners wanted a Windows device. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2011年，有46%的潜在平板电脑用户希望拥有一台Windows设备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By Q3, that number slipped to 25 percent.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第三季度，这个数字降到了25%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forrester’s report stated, “Windows 8 hasn’t entered the consciousness of tablet buyers yet.”  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗雷斯特报告中称述到，“Windows 8还没能让消费者完全了解。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That’s a shame because Gadget Lab has seen a Windows 8 tablet in action, and the experience opened our eyes to just how useful — and, yes, even fun — a Windows 8 tablet might be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这让人觉得还是有点遗憾的，因为Gadget Lab曾经有机会见过工作中的Windows 8平板电脑，体验的感觉让人眼前一亮，这个版本无论是实用性还是趣味性都是可圈可点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sure, Microsoft was demoing a mere reference design, but what we saw was so intriguing, we’re legitimately excited to see final, shipping products.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，这个版本还不是完整版本，但是仍然让我们觉得非常新奇，理所当然，我们非常期能够看见最终的消费者版本问世。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Windows 8 is being developed from the ground up to elegantly run on both traditional computers (desktops and notebooks) as well as touch-based tablets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Windows 8这套系统可以使用在传统的电脑上（台式机和笔记本），也可以使用在触摸屏的平板电脑设备上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The OS can run on either ARM or x86 processors, though apps written specifically for the x86 desktop environment won’t be able to run on ARM-based mobile devices.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>系统既可以在X86的处理器上运行，也可以在ARM的处理器上运行，尽管那些运行在x86环境下的程序还不能运行在ARM的移动设备上。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is this a terrible handicap? No, not based on what we’ve seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这会是影响Windows 8的一个严重的障碍吗？根据我们目前看见的，应该不会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Windows 8 tablets will run an updated version of the Metro UI found on Windows Phones, and the UI appears to transfer remarkably well to larger touch screens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Windows 8将会运行升级版的Metro用户界面，类似于Windows Phone，这个用户界面被很完美的移植到了大触摸屏上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You’ll get that same fun, friendly and animated “Live Tile” home screen found on Windows Phones, but with (theoretically) much more processing power to drive more powerful apps.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会和使用Windows Phone得到一样的用户体验，一样的有趣，一样的友好，一样的活动版块主界面，但是会有更强的处理能力来驱动更多的软件。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Windows 8 will go beta in February, which would peg a full software release around June 2012. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Windows 8将在2月份发布测试版本，很快将在2012年六月发布完整版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything we’ve seen thus far suggests that Microsoft has really taken the time to develop a platform that will succeed on tablets, without abandoning the company’s PC roots.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们现在所看到的表明微软这次真的是想花很多时间在平板上，开发出一款成功的平板平台，同时也不放弃传统的PC业务。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still a skeptic? You should be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还在怀疑吗？正常的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Windows tablet wanna-haves have been burnt before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Windows 平板电脑之前让大家很伤心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But please consider these four reasons why Microsoft’s upcoming push into the tablet space may surprise everyone by ultimately proving successful.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是请从以下四个方面考虑微软将给大家带来的崭新的平板电脑平台将会如何震撼大家，取得最终的成功。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Microsoft Has a Chance to ‘Think Different’  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>微软有机会说一次“不同凡响”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“If Windows is to have any hope, its product strategists must not only bring new features to the platform but also must fundamentally reinvent the experience,” analysts J.P. Gownder and Sarah Rotman Epps say in the Forrester report.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“假如Windows希望能够有所建树的话，它的产品战略就不应该仅仅是在平台中加入新的特性，而是应该从根本上改变用户体验，”弗雷斯特分析师J.P.Gownder和Sarah Rotman Epps在报告中写道。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many current upstart tablets are just iPad copycats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多现在流行的平板电脑都只不过是iPad的山寨品罢了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They share essentially the same UI (multiple pages of identically sized home screen icons), they operate with nearly identical touch gestures, and they basically look the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们拥有相同的用户界面（几屏尺寸大小相同的图标），他们操作起来也是一样的手势，从本质上来看它们是一样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But by being such a relative latecomer to the modern tablet party, Microsoft has a great opportunity to look at what’s not being done, what can be done better, and what can be done differently.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为现代平板电脑阵营中的迟到者，微软有更多的机会来研究有什么还没能做到，有什么能够做的更好，有什么可以用 不同的方式来实现。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And all this observation can inform a better Windows 8 tablet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过这些观察方法，微软完全可以制造出一款更好的Windows 8平板电脑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take, for example, Windows 8′s ability to switch from a tablet UI to a desktop UI. This could be a winning innovation.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举个例子来说，Windows 8具备平板界面和桌面界面相互切换的能力，这个可能会是一个成功的创新点。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“We are reaching a point where ARM platforms can deliver us desktop experiences in mobile form factors,” mobile developer Kelly Sommers told Wired.com. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们正在研究如何利用ARM平来，通过移动设备来实现桌面机的用户体验，”移动设备开发人员Kelly Sommers告诉Wired的记者说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this is true, and if Windows 8 tablets in desktop mode can overcome the performance issues that plagued Windows 7-based tablets, Microsoft might strike gold by delivering two operational environments for the price of one.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如这能够实现的话，并且Windows 8能够克服Windows 7平板电脑当时碰到的瓶颈，微软有可能让我们只需要付一份的价钱，享受两套操作环境的体验。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“In my opinion, the ideal user experience allows both [a desktop UI and touch-based UI], but not at the same time,” Sommers told Wired.com. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在我看来，理想的用户体验应该是能够同时允许桌面界面和触控界面的，但是不会是同时实现，”Sommers告诉Wired的记者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“What if you dock your tablet, and it becomes a desktop experience on your monitor, with keyboard and mouse, for non-power uses? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但你将你的电脑插入底座，所有的操作将会在显示器上进行，用键盘鼠标操作，那没有电源的用户呢？”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Undock your tablet, and it transitions to a tablet experience.”
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从底座上拿出来，感受到的将是平板电脑的体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, who wouldn’t want a dual-OS device that can serve as both a casual tablet and as a no-excuses productivity computer? Neither Apple nor the Android contingent have answered this very real consumer problem.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>的确，谁不想要一台双系统的设备，同时能够具备平板电脑性能和不折不扣电脑性能？无论是苹果还是安卓都不能很好的解决这个实实在在的消费者面临的问题。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Windows Phone Mango Shows Microsoft Can Do Mobile Well  Microsoft had a rocky start entering the mobile space, but has finally found its footing with Windows Phone 7 (and in Mango, Windows Phone 7.5, in particular). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Windows Phone告诉我们微软可以将移动设备做好  微软在移动市场的经历可谓艰难，但是最终他们通过Windows 7找到了自己的定位（特别是Mango，Windows 7.5)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consumers aren’t flocking to Windows’ new mobile OS like they are to iOS or Android, but if you haven’t gotten a chance to try it out, you should — it’s very well done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>消费者没有像苹果和安卓一样大量购入微软的新移动设备，但是假如你还没有机会一试它，建议你尝试一下，它做的真的很好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a first-hand look, open up http://aka.ms/wpdemo in your mobile browser to give it a whirl.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你想一睹为快，你可以打开 http://aka.ms/spdemo尝尝鲜。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“I think that what Microsoft learned with Windows Phone will carry over and influence Windows 8,” Display Search analyst Richard Shim says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我认为微软从Windows Phone里学到的经验应该可以延续到Windows 8中，”Display研究机构分析师Richard Shim说道。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Microsoft is working hard to reach out to developers and provide support, marketing guidance, and app visibility through programs like BizSpark and Mobile Acceleration Week to fill out its still meager app offerings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>微软也很努力的通过举办BizSpark和Mobile Acceleration Week之列的计划和活动来多和开发者沟通，向他们提供更多的支持，市场引导和软件开发相关指导，以期望能够补上软件匮乏的短板。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These programs are by all accounts successful, so we can expect that Microsoft will continue them for Windows 8.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些计划及活动据大家反映都举办的很成功，所以我们也希望这些活动都能在Windows 8时代持续下来。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, if Windows 8 is as well-executed as Windows Phone Mango, it will be a positive experience for users. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>的确，如果Windows 8能够和Windows Phone Mango运作的一样成功的话，这将会给用户带来正向的经验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That’s something most Android tablets can’t claim.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些技术都是安卓平板是截然不同的，安卓是不能够通过专利来制约的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And therein lies a very powerful strong point for Microsoft: The Windows Phone platform may not have a copious catalog of apps, or even that many adoptees, but most everyone who actually uses a Windows Phone enjoys the essential OS experience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以在对微软来说有个很强有力的支持点存在：Windows Phone平台现在可能还没有那么多的软件，甚至是其它平台的移植版本存在，但是每个用过它的人都会爱不释手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, if Windows 8 tablets can somehow get a foothold among vocal opinion leaders, consumer adoption could self-perpetuate as users evangelize the tablets on Microsoft’s behalf.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，假如Windows 8平板能够得到主流媒体的声援，那么这款优秀的产品很快就会在消费中流行起来。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

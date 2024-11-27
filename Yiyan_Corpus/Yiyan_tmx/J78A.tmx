@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>The generator and step-up transformer at Vattenfall's Porsi hydropower plant is being replaced with a Powerformer machine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>瑞典瓦坦福尔公司的Porsi水电站正在用升压发电机(Power former)取代发电机和升压变压器。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The new machine, the largest Powerformer to date, will have a rated voltage of 155 kV, a rated capacity of 75 MVA and a rated speed of 125 rpm. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新升压发电机是迄今为止最大的这类发电机，额定电压155 kV，额定容量75 MVA，额定转速125r/min。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Commissioning will start at the end of 2000.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将于2000年底投运。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1998 the very first Powerformer was commissioned in the Porjus Hydro Power Centre in the northern part of Sweden. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>世界上首台升压发电机于1998年在瑞典北部的Porjus水电中心投运。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This first machine has a rated voltage of 45 kV, a rated capacity of 11 MVA and a rated speed of 600 rpm. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这台设备额定电压45 kV，额定容量11 MVA，额定转速600 r/min。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is connected directly to the 45 kV busbar without any step-up transformer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不经升压变压器直接连到45 kV母线。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>ABB Generation is now carrying out an extensive test programme to verify the performance of the concept. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>ABB正在做多方面的试验来验证升压发电机的性能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So far the test results verify calculations or show that Powerformer achieves better performance than expected. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>至今，试验成果验证了计算结果，表明升压发电机性能已超过预期值。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Porsi project</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1 Porsi工程</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After the successful demonstration of the Powerformer concept, Vattenfall, the largest electric power utility in Sweden, decided to use the technology for the rehabilitation of a generating unit at its Porsi hydropower plant. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在成功地演示了升压发电机的概念之后，瑞典最大的电力公司瓦坦福尔决定使用该项技术来改造Porsi水电站的1台发电机组。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This will be third Powerformer installation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是第3台升压发电机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Vattenfall owns a number of hydropower plants in the central and northern part of Sweden. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>瓦坦福尔公司在瑞典中部和北部地区拥有许多水电站。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many of these plants were taken into service before 1970. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中许多是1970年前投入运行的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The improved reliability and lower maintenance cost of Powerformer makes it an attractive solution in Vattenfall's rehabilitation programme. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于升压发电机的可靠性高、维护费用低，使它成为瓦坦福尔公司改造计划中具有吸引力的解决方案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Based on first hand experience of Powerformer, Vattenfall now wants to be able to broaden their experience of Powerformer and verify the performance for general application.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>瓦坦福尔公司根据其升压发电机的第一手经验，现在希望能扩大他们的经验，并验证普遍应用的性能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Porsi hydropower plant is situated at the river Lule alv about 120 kilometres NW of the town Lulea in the far north of Sweden. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Porsi水电站位于瑞典北部城市吕勒奥西北约120 km的吕勒河上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The gross head is 33 metres and the mean annual flow is close to 500 cubic metres per second. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>毛水头33 m，年均流量接近500 m3/s。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The initial construction in Porsi hydropower plant started in 1958 and the first two Kaplan turbine units were ready by 1962. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>水电站于1958年开工，头两台转浆式水轮机组于1962年投运。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A third generating unit was added during the 1980s. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>80年代加装第3台机组。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At that time a new three-winding transformer replaced the step-up transformer of the first unit and connected the third generator to the transmission network.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当时，1台新的三绕组变压器替换下第1台机组的升压变压器，并将第3台发电机接入输电网。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now Powerformer will replace the first generator and the step-up transformer of the second unit. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在，将用升压发电机取代第1台发电机和第2台机的升压变压器。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At the same time, Vattenfall will replace the first Kaplan turbine by a propeller turbine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同时，瓦坦福尔公司将用1台轴流式水轮机替换第1台转浆式水轮机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This third Powerformer will have a rated voltage of 155 kV, a rated capacity of 75 MVA and a rated speed of 125 rpm. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第3台升压发电机的额定电压为155 kV，额定容量75 MVA，额定转速125 r/min。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The rated power factor will be one. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>额定功率因数为1。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The work on site will start in May year 2000. The commissioning will be finalized early in 2001.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现场安装将于2000年5月开始，并于2001年初投运。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Advantages of Powerformer</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2 升压发电机的优点</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As described in previous articles in ModernPowerSystems (March and May 1998) Powerformer enables direct connection of a generator to the transmission network without any intervening step-up transformer, with far-reaching consequences for the electrical industry.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>升压发电机可将发电机直接接入输电网，而不需变压器，对电力工业将产生深远影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The stator winding in a conventional generator has rectangular conductors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>常规发电机的定子绕组采用矩形导体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The shape of these conductors causes an uneven electric field distribution with high electric field strengths at the corners. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种导体的形状使电场分布不均匀，在转角处的电场强度较高。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Advanced measures are necessary to control the electric field in the end regions of conventional generators. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为此必须采取先进的措施来控制常规发电机端部的电场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The classical design philosophy has resulted in generators with a rated voltage no greater than 36 kV. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>传统的设计原则导致发电机的额定电压不大于36 kV。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, the voltage of power transmission networks has reached much higher levels, so there is a need for step-up transformers to connect conventional generators to transmission networks.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，电网电压已经达到很高的水平，所以需要用升压变压器将常规发电机接入电网。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The winding of Powerformer has cylindrical conductors, providing an even electric field distribution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>升压发电机的绕组导体为圆柱形，电场分布均匀。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The stator winding of Powerformer is based on technology used for power cables. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其定子绕组采用了电力电缆技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Available insulation materials and production techniques offer reliable cables at operating gradients of the order of 10 kV/mm and even more. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现有的绝缘材料和生产技术可提供工作梯度在10kVPmm甚至更高的可靠电缆。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such high electrical fields are not acceptable for conventional coil insulation based on mica and epoxy.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如此高的电场对于基于云母和环氧树脂绝缘的常规线圈是不能接受的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The idea of connecting generators directly to the transmission network is not new. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将发电机直接连到输电网的想法并不新鲜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Already in 1905 the efforts of Professor Mengarini and engineers of the Ganz Company resulted in two three-phase 30 kV, 5.2 MVA, 450 rpm and 45 Hz generators in the Subiaco hydropower station, Italy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>早在1905年，Ganz公司的门加里尼教授和工程师们经过努力在意大利的苏比阿科水电站投产2台三相30kV，5.2MVA，450rPmin，45Hz的发电机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The power was transmitted to Rome, a distance of 55 kilometres.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电力经55km线路送往罗马。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One remarkable step was taken in 1928 by Sir Charles A. Parsons and J. Rosen , when they built a three-phase turbo generator of 25 MVA, 33 kV and 3 000 rpm. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1928年，查尔斯·A·帕逊斯爵士和J·罗斯恩采用不寻常的步骤，造了1台25MVA，33kV，3000rPmin的汽轮发电机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At least eight such directly connected turbo generators were built in the years 1928-34.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在1928～1934年间，至少制造了8台这种直接接入输电线的汽轮发电机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Among the benefits of direct connection are:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>直接连网的优点有:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Reduction in active power losses due to elimination of generator busbars, generator switchgear and step-up transformer. The efficiency of Powerformer is 0.5-2.0 percentage points higher than a conventional system.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>省了发电机母线、发电机开关设备和升压变压器，使有功损耗降低，升压发电机的效率比常规系统高0.5%～2.0%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Reduced reactive power losses due to elimination of the step-up transformer, which allows for an increased rated power factor and decreased capacity of the machine.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>省去升压变压器，使无功功率损耗下降，因为额定功率因数增加，机组的视在功率可以下降。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fewer components. Medium-voltage generator breaker, medium-voltage bus-work and step-up transformer are eliminated as are some current and voltage transformers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>省去了中压发电机断路器、中压母线设备和升压变压器，以及某些电流和电压互感器，机组元件较少。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Improved availability, arising from having fewer components and from reliability of the machine itself.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>元件较少，以及升压发电机本身的可靠性高，使可用性提高。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Less maintenance, again due to fewer components and the fact that Powerformer does not require more maintenance than a conventional generator.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>元件较少，升压发电机的维护工作量实际上也比常规发电机少。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More compact plant, with consequent cost savings on civil works.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电厂更加紧凑，节省了土建投资。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lower environmental impact, which has been estimated in life cycle analyses covering manufacturing, operation, and materials recycling.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对环境的影响较小。这是从制造、运行到材料再利用的生命循环分析中得出的结论。</seg></tuv>
+</tu>
+</body>
+</tmx>

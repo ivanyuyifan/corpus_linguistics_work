@@ -1,0 +1,1287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T024243Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reply to a Dead Man</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亡灵来信</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>when the doorbell rang, I at first had no inkling of who was there or what his or her business might be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门铃响的时候，我并没有料想谁会在那里，或者有何事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was sitting at the dining table in a room that had never been used for entertaining. Books and notepads, two weeks' worth of newspapers, and a few stacks of dirty dishes were piled here and there around the dark-stained hickory plank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我正坐在从未招待过客人的房间内的餐桌上，混杂在一起的杂志、笔记本、只有两周价值的报纸和一小摞碗碟在污渍沾满的珊瑚桃木桌上堆落着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had been writing a letter to my sister about the death of our brother in the fall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直在给姐姐写信，说一些关于我们的哥哥在秋天去世的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was spring now, and I had missed the funeral. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在正值春季，我已然错过了哥哥的葬礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our brother had been buried in Cincinnati by Dearby, his fourth wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的第四任妻子媞尔柏将他安葬在辛辛那提。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She, Dearby, told me that if she was going to pay for the burial, then he'd be interred in the same cemetery as her and the rest of her family.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>媞尔柏对我说，如果让她支付葬礼费用的话，哥哥就得像她一样和她过世的家人葬在公墓里。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was having a hard time, financially, when Seth passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赛思去世的时候正是我最难熬的一段日子，经济十分拮据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd just lost my job as a regional manager for Lampley Car Insurance, and unemployment benefits hadn't been enough to pay the rent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我刚丢了兰普利汽车保险区域经理的工作，而失业救济金连交房租都不够。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't take time off from my temp position at Lenny's Auto Parts, and the funeral was on a Wednesday, a workday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无法再把莱尼汽车配件的临时工作给停了，哥哥的葬礼又在周三，工作日。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My boss, Alan Renee Bertrand, didn't particularly like me, and so I couldn't even take the chance of asking him for the time off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的老板，艾伦芮妮贝特朗，并不是特别关照我，这也让我没法去向他请假。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lenny's paid $22.50 an hour, the best temp rate in town, and so I sent a dozen white lilies and a note thanking Dearby for honoring my brother.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>兰尼这里每小时22.5美元的工资，在镇里已经是最好的临时费用了。我买了一束百合花附一张卡片送给媞尔柏，感谢她对哥哥的照顾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You see, I knew that Dearby and Seth were on the outs when he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道，在他去世前媞尔柏和赛思就闹翻了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My sister had told me that Seth had been seeing his second wife, Althea, again, and Dearby had been threatening to kick him out of the house.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我姐姐告诉我，赛思和他第二任妻子艾尔思一直有来往。又一次，媞尔柏威胁要把赛思赶出家门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She, Dearby, called to tell me about Seth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>媞尔柏打电话给我说一些关于赛思的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He had a heart attack," she said. "I warned him about the high blood pressure and fatty foods. He wouldn't listen. He never listened."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他有心脏病，”她说道，“我劝他高血压高脂肪的食物很危险，他就是不听，他从来都不听。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was thinking that Dearby was pretty big herself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我暗想媞尔柏你也够肥硕的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As if she could read my thoughts across the 2,000-plus miles that separated us, she said, "I know that I'm big, but my heft is fruit fat, weight from fresh fruit with fiber and natural sugars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管我们之间至少2,000英里远，但她就像会读心术一样说，“我知道我有些胖，但我的体重都是从新鲜水果纤维和天然糖分来的脂肪油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My doctors tell me that I'm okay the way I am."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的医生说这种方式还不错。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know you are," I said, to fill the empty space in our conversation that loomed like the blank line at the bottom of a boilerplate contract.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道，”我说着去填补出现在我们对话中的空白，就像去填写样板合同下面的空白行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you want me to do with him?" she asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你想让我怎么安置他？”她问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Um..."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“额......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The body, Roger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他的尸体，罗杰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What do you want me to do with the body?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你想让我怎么安置他的尸体？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't understand what you mean," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不明白你的意思，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's dead."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他已经死了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know that," Dearby said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道，”媞尔柏说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's gone, and somebody has to bury him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他走了，有人埋葬了他。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh... oh, yeah. Right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦......哦，是的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Um..."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是这样......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got up from the table, remembering that awkward moment half a year earlier when I had to tell Dearby that I didn't have the money to help pay for a funeral.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从桌子上跳下来，又回想起半年前我告诉媞尔柏没钱帮她付赛思的葬礼费用的窘迫时刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The walk from my worktable to the front door wasn't long. No distance in the 634-square-foot half-home was that great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从我的工作台到前门并不是很远，在634平方英尺的半大的房间里哪还有什么远距离呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The other side of the subdivided Wilshire District house was inhabited by a woman named Rose Henley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>威尔希尔区划分出另一侧房子居住着一位叫罗斯·亨利的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had seen Rose only once, a few days after I'd moved in seven years and ten months before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只见过罗斯一次，是在七年零十个月前，我刚搬进来没几天的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd rung my bell and introduced herself as my neighbor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她过来按响门铃，以邻居的身份过来打了个招呼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rose Henley was old, maybe sixty, and she had one gold tooth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯·亨利约莫六十的年纪，镶了一颗金牙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was fairly short, even for a woman, and her black hair was sliding into white. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就算按女人的身高来说，罗斯也太矮小了些。她那头黑发正徐徐漫向灰白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a white woman, broad-faced and stout.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯是个白人，脸盘宽大，体态臃肿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mr. Vaness?" she had said, all those years ago.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“瓦内斯先生？”她曾说，这些都已是多年前的事了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么事？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm Rose Henley, your neighbor."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我是你的邻居罗斯·亨利。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh. Hello." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，你好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't mean to interrupt, just wanted you to see my face. And I wanted to see yours."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不是有意扰烦你，只是想过来互相认识一下。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Would you like to come in?," I asked, not putting much heart into it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你愿意进来吗？”我心不在焉地问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, no, no," she said. "I just wanted to greet you. I don't get out very much."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不不不，”她说，“我只是来问候一声，我不太常出门。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was no exaggeration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一点也没有夸大其词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never saw or heard my neighbor again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那之后我再也没有见过或耳闻过我的这位邻居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that day, when I was writing to my sister, Angeline, about our brother's death, I was sure that Rose was at my door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是那天，我正给我的姐姐写信说一些关于哥哥死讯时，我确信罗斯就在门外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hadn't got much company since losing my job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从我丢了工作之后就没什么客人来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My friends liked to party, and I couldn't afford the gas money, much less my part of the bill at our favorite bars and restaurants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的朋友们大都喜欢聚会，而我压根儿付不起邮费，更不用说那些我们常坐的酒吧和饭店的账单了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After I was fired, I had asked my girlfriend, Terri, if she would move in, so we could share the rent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我被炒鱿鱼后，曾问我的女友苔莉是否愿意搬来和我同住，也好分担一下房租。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terri broke it off with me three days later.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后不出三天苔莉就和我掰了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one ever knocked at my door, and Rose was the only person I was acquainted with in the neighborhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人曾敲过我的门，而罗斯是周围我唯一认识的邻居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had to be her, I thought; that was just cold hard logic.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一定是她，我想；这简直就是铁一般的定律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I opened the door looking down, expecting to see my diminutive neighbor's wide face under a thatch of black hair turned gray.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我打开门垂下目光扫了下，以为会看见我的小邻居那正由黑染白的头发下遮盖的大脸盘儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead I was looking at the red-and-blue vest of a white man even taller than me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后出现在我眼前的却是身着红蓝相间汗衫的白人，个头甚至比我都高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had a bald head and not much facial hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他顶着秃头，脸上的汗毛也很稀疏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His skin was the color of yellowing ivory and his eyes were a luminous gray-like a mist-filled valley at dawn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的皮肤是那种象牙黄色，眼睛泛着灰白色冷光——像雾霭一般——弥漫在氤氲的山谷中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mr. Vaness?" the stranger asked, in a magnificent tenor voice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“瓦内斯先生？”那个陌生人用着男高音一般浑厚的嗓音问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My name is Harding, Lance Harding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我是哈丁，兰斯·哈丁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am here representing the last wish of Seth Vaness."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我代表赛思·瓦纳斯的遗愿来到这里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I work for a small firm called Final Request Co. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我来自一家名叫临终请求的小公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We execute the last wishes of clients who have passed on."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们执行那些已故去的委托人交付于我们的遗愿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're a lawyer?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是律师？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked the slender tenor up and down. He had on a nice suit, but it was reddish-brown, not a lawyer's color, in my estimation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我上下打量着这位瘦高的男高音，他穿着一身体面的套装，但却是红棕色。在我看来，律师不会穿这种颜色的衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, Mr. Vaness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，瓦内斯先生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We at FRC don't execute wills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>FRC并不执行遗嘱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our job is to deliver messages from the dead." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的工作是转交死者的遗愿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiled after the last word, giving me a slight chill.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说完最后一个字后笑了起来。但却让我感到微微颤栗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Uh-huh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“啊哈哈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You use a Ouija board or somethin'?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那你要用显灵板还是其它什么玩意儿？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We are engaged by the deceased before their demise."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们受雇于死者生前。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My brother hired you to give me a message after he was dead?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的哥哥雇佣你在他死后转达我信息？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harding smiled and nodded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈丁笑着点点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He died six and a half months ago," I said. "What took you so long?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他在六个半月前就去世了，”我说，“你怎么现在才来？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"His wish was for us to execute his instructions not less than half a year after his demise."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他希望我们在他故去半年之后在执行遗愿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is this some kinda legal thing?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这事儿合法吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is a simple agreement between FRC and your brother," Lance Harding said, maintaining an aura of imperturbable patience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这只是FRC和你的哥哥之间一份普通的协议罢了，”兰斯·哈丁依然淡定从容地耐心答道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Often individuals wish to pass on knowledge outside of the rubric of wills and other legal formats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“通常传递的遗愿不同于习俗成规的遗嘱或者其他法律形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some leave a spoken message, others might wish to pass along a note or a small package."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时它只是只言片语的耳口交传，有时是张便条或者一个小包裹。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Seth didn't have much," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“赛思没有什么秘密，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He couldn't have anything to hide."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他根本用不着遮掩隐瞒些什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We all have something to hide, Mr. Vaness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们每个人都有秘密，瓦内斯先生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Either that or something is hidden from us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是在那里，就是藏在我们这里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So you're-" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所以你是——”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"May I come in?," Harding asked, cutting off my question.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我能进去吗？”哈丁打断我的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这...”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is this a bad time?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在不方便？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, no, it's okay, I just... "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，不，没有。只是我......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I came by on Wednesday, but you weren't here," Harding said. "Your neighbor, Mrs. Henley, told me that you were at work."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我在周三的时候来过，但是你不在，”哈丁说，“你的邻居亨利太太告诉我你去上班了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You talked to Rose?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你和罗斯谈过？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"May I come in?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我能进去吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My house was untidy, to say the least. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的房间脏团成一团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I have a girlfriend, I usually pick up and air out my little place at least once a week, but I lose the drive when I'm unattached. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样说吧，当我的女友还在的时候，我起码还能每周打扫一下给我的小房子通通风透透气。但当我单身后，我连收拾房间的想法干劲儿都没了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a rule, the mess doesn't bother me unless I have unexpected guests.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般来说，这种邋遢还不至于让我不舒服，除非有不速之客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harding didn't seem put off by the clutter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈丁看起来并没有被这一团糟吓倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I moved a small stack of old comic books from a chair next to the one I had been sitting in and gestured for him to take a seat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从刚才坐的桌子旁的椅子上抱下一小摞旧漫画书，然后打了个手势示意哈丁来坐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fantastic Four," he said, looking at the topmost magazine as I set the stack on the table next to him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“《神奇四侠》”他看着旁边刚搬到桌子上的最上面一本杂志说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They were my father's," I said. "I have one through twelve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那是我爸爸的书，”我说，“从一到十二全套我都有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Know anybody who might want to buy them?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道有谁想买吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your blood father?" he asked. "Patrick Hand?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你生父吗？”他问，“帕特里克·哈丁？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I nodded, wondering how he knew my real father's name.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我点点头，暗忖他如何得知我亲生父亲的姓名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He flipped through the issues, smiling slightly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他随手翻阅着几本期刊，略微露出些笑意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harding was maybe ten years older than me. That would have made him about fifty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈丁应该比我年长十岁，像是50岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not in mint or near-mint condition," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没有全新的也没有八九成新的，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That makes them nearly worthless. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这样就不值几分钱了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At any rate, these books call up your father from across the pale. That's a connection that money can't buy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管怎样，这些书能让你回想起你的父亲，这种连接纽带钱是买不来的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How do you know my father's dead?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你怎么知道我父亲去世了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Both of your fathers," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是你两位父亲，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Patrick, who sired you, and Norland, who married your mother and adopted her three children."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“帕特里克生了你，而诺兰德娶了你的母亲，收养了她的三个孩子。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How do you know all that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你怎么知道这些？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They were Seth's fathers too."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们也是赛思的父亲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh... yeah. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦......也对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's why you're here."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也是你为什么在这里的原因。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Shall we begin?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们可以开始了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's funny that you came here just now," I said. "I mean, not funny, but... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你刚才来这里的时候真古怪，”我说，“我是说，也不是古怪，只是......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was just writing to my sister-"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时正在给我的姐姐写信——”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Angeline Vaness-Brownley," Lance Harding of the FRC interjected. "She lives in Cambridge with her husband, Ivan Brownley, the union organizer."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“安吉丽娜·瓦内斯·布朗利，”FRC的兰斯·哈丁插断我的话，“她和是工会组织者的丈夫伊万·布朗利住在剑桥。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Wha-? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嚯——？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, right, Seth's sister too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，也对。她也是赛思的妹妹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How much do you know about us?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你对我们的情况掌握多少？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"About you, particularly, we know that you have never been charged with, much less convicted of, a crime, and that most of your working life you were either employed or at college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“特别是对你，我们知道你从未被指控过，更别说犯罪了。你大部分生活不是给别人工作就是上大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have three years' matriculation at Cal State. Your concentration was in history, but you dropped out and began to work for various businesses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在加利福尼亚读了三年预科，专业是历史，之后你退学开始各种工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You've never been married, but you were once engaged to a woman named Irene Littleton."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你现在未婚，不过曾向一名叫艾伦·科特尔顿的女人求过婚。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Seth told you all that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是赛思告诉你这些事？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Then where'd you hear about it?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么你从哪里得知这些事？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harding's face was oblong, a little larger than even his tall frame might predict. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈丁的椭圆脸，就算是称着他的高个头儿也让人觉得长了些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the most part his expression was tranquil, but my question teased out a mild frown.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的表情大部分都比较沉稳平和，不过我这个问题却让他轻轻蹙了眉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I am here at your brother's request," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我受你哥哥之邀而来，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But you know all this shit about me, and he didn't tell you. So I'd like to know how you know it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可我那些破事儿你统统知道，既然赛思没有告诉你，那么我就应该知道你得到这些的途径。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nora Dunbar," he replied, his face once again at peace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“诺拉·邓巴，”他回答道，又恢复之前的波澜不惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是谁？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She is the statistical and research analyst at our firm. When a client engages our services, Miss Dunbar does a background check on the client and the recipient of the message or package."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她是我们公司的统计调查员，当有客户需要我们的服务时，邓巴女士会调查清楚委托人和接收人的背景信息。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We all have something to hide, Mr. Vaness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们每个人都有秘密，瓦内斯先生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Either that or something is hidden from us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是在那里，就是藏在我们这里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harding sighed and then said, "Suppose the message that someone wished to pass on was a name and an address. If the recipient was a known killer, or maybe someone who had a grudge against a person with the name we were being asked to deliver, we would refuse the job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利喟叹一声既而说道，“假设委托人想要托付的遗愿是一个名字和地址，而接受人是位有名的杀手，或者两个人是宿敌。我们会拒绝这项任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are not bound by fealty to the state, but we are a moral corporation."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们虽然没有效忠于国家的义务，但也有职业道德。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So you wanted to make sure that I wasn't a hit man or a stalker or somethin'?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所以你想弄清楚我是不是一个杀手或者死缠烂打的人，或者别的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Quite right."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“正是如此”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But you figured that I was a good bet and that you could deliver your message without messin' anything up."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道我是个不错的选择，这样一来你也不会陷入什么麻烦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The great sculpted face smiled and bobbed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那张棱角分明的脸笑着点点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You got a sliding scale you charge?," I asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你们收费有什么范围吗？”我问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realized that I wasn't eager to obtain information passed on to me across the border of death.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我意识到我并不想接受任何来自死亡边境的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We charge $5,000, plus expenses, for every message a client wishes to entrust to us." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“客户委托予我们的每条信息加上费用，要价5,000美元。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Expenses?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“费用？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lance Harding smiled and seemed to relax a bit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈丁笑了笑，似乎放松了一些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seemed to have surrendered to my fear of his task.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看起来他对我在这件事上所露出的惧意已经缴械投降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Once," he said, "we were engaged by a woman to deliver an apple pie she'd baked to the man she'd loved but never married. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“曾经有一次，”他说，“我们受托于一位女士，将她亲手做的苹果派送给深深暗恋的男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In order to keep the pie in fair condition, we had to freeze it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了保证苹果派不变质，我们必须冷冻它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The accommodations were made, and she was charged accordingly."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而她则需要支付冷藏器的费用。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So Seth paid $5,000 for you to deliver this message to me?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所以赛思为了转交给我信息，付了5,000美元给你们？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That is the fee all clients are charged," he said, "plus expenses."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“每一位委托人都交这笔钱，”他说，“加上费用。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That doesn't make any sense."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但这没有任何意义。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why do you say that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么这样说？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Three reasons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有三个理由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, I can't see Seth payin' that kinda money when he coulda sent a letter to my sister or our mother to give me after he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，我不认为赛思会花这种钱。他完全可以在去世后将信寄给我的姐姐或者妈妈，或者给我。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

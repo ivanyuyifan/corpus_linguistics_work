@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T043123Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building a Happier Life</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>创造更幸福快乐的生活</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lately I've been on a happiness kick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近我一直对幸福感非常迷恋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've been going over various projects, activities, and aspects of my lifestyle and asking myself, Does this really make me happy?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会重新审视各种工作项目、活动，还有个人生活方式的不同方面，并自问：这真能让我感到幸福快乐吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many people say that happiness comes from within, and while that's true in the long run, there's also an experiential side of happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人说幸福快乐源自内心，虽然长远来看这是事实，不过幸福快乐也有它外在体验的一面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm sure you'll agree that some experiences put a smile on your face more than others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我肯定你会同意，某些体验就是比其他体验更能让你面露笑容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may be a learned response in most cases, but there's still an effect.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数情况下，幸福快乐可能是种习得反应，但外在体验对它依然有着直接影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even money can contribute to happiness to an extent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至金钱都能在一定程度上为幸福快乐做出贡献。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'd probably be happier receiving an unexpected financial gift as opposed to an unexpected bill.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当意外收到一个红包时，你很可能会更幸福快乐，而非在意外收到一张缴费单时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I've been looking at some recurring activities in my life and asking myself if they're positively contributing to my long-term happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此我一直在审视生活里不断重现的一些活动，并自问它们是否正积极为我的长期幸福做着贡献。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I've been going through this process, I've been making a lot of changes, and they're really beginning to add up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着经历这种思考过程，我不断做出大量改变，而且那些改变开始显示出累积效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My daily rhythms changed quite a bit in the past six months or so.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去六个月左右，我的日常生活节奏已经有了相当大的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Identifying and Eliminating Dead Weight</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>识别并消除无用负担</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the easiest places to begin was to start identifying and eliminating dead weight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开始付诸行动的一个最容易地方，就是识别并消除生活里的无用负担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These are activities that aren't really too debatable- I'm pretty clear that they aren't doing much to increase my long-term happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些事情的确无需争论 — 我很清楚它们对增进我的长期幸福没什么贡献。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They may generate some momentary pleasure, but in the long run, the gains are probably neutral or negative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们也许会产生一些短暂快感，但长远来看，那些收获很可能是中性，或者为负。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or they might be only marginally positive, such that it's easy to see that there are better ways to spend my time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者它们可能只是稍微有点价值，我很容易就能看出其他花费个人时间的更好方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here are some of the bigger dead weight items I've identified and have dealt with so far: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以下就是到目前为止，我已识别出并处理完的一些较大无用负担：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Email - I used to spend a lot of time processing email, but when I asked myself if it was contributing to my happiness, that was an easy no. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电子邮件 —我曾花过大量时间处理电子邮件，但当自问它能否为个人幸福快乐做出贡献时，我很容易便会得到否定回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While I haven't eliminated it entirely, I have reduced my email volume by at least 95% during the past year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我还没有完全消除它，自己在过去一年至少消减了95%的电邮处理量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I typically receive less than 10 emails per day, and most of it is personal and comes from just a handful of people I'm close to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我每天收到的电子邮件一般不超过10封，而且大部分都是私人邮件，只来自几位我很亲近的人士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wouldn't say this change did much to increase my happiness directly, but it did give me a sense of relief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不敢说这种变化对直接提升个人幸福感有多大贡献，但它确实给了我一种解脱感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I experience less stress and overwhelm as a result of not feeling that communication obligations are piling up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会有更少的压力和重负感受，不会觉得各种沟通义务时时刻刻都在堆积。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may not be a perfect solution, but it's significantly better than what I had before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>消除电子邮件也许不是完美解决方案，但它明显要比我曾经使用的做法更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some days I'm able to process all my email in less than a minute. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些日子里，我只用不到一分钟就能处理完所有邮件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other times I can go a day or two and not process email at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他时候则能一两天都不用处理任何邮件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is a REALLY nice feeling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那真是一种无比美好的感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Social Networking - I enjoy some aspects of social networking, but to really get good value from it, it can take a serious time investment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>网络社交 — 我很享受网络社交的某些方面，但要想真正从中收获有用价值，可能要投入大量时间精力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mileage may vary of course, but that's been my experience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的现实情况可能和我的并不相同，但这的确是我的真实体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep in mind that if you do one hour of social networking per day, that's the equivalent of working a full-time job (40 hours per week) for over 2 months- every year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请意识到若你每天进行一小时的网络社交，那就相当于每年花了超过2个月的全职工作时间（按每周工作40小时计算）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can easily start a profitable web business in less time than that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你完全可以用比这还少的时间，轻松开创一份盈利网上生意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still participate in the forums here, but this community doesn't have the same kinds of admin problems I had to deal with on Facebook.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在仍会参与自己网站上的论坛交流，但这个网络社区不会有我在Facebook网站上必须应对的管理权限问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cable TV - I used to have cable TV, but I didn't watch it much, so it was an easy decision to drop that too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有线电视 — 我曾使用有线电视服务，但并未经常观看，所以决定放弃这项服务也很容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later I dropped a streaming video subscription I had with Netflix. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我还放弃了Netflix公司的流媒体视频播放服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Partly I used it to watch educational documentaries, but I can't say it made me any happier, so I decided to let it go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自己曾用它观看教育性的纪录片，但我并未觉得它使我感到更幸福快乐，所以决定对它放手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can always go and rent a one-off documentary if I want, but I decided it was best not to have the streaming service because I don't want to get into the habit of watching documentaries regularly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果想看纪录片，我永远都能选择租看的方式。但我决定最好还是放弃流媒体播放服务，因为自己不想养成经常观看纪录片的习惯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They may have educational value, but overall this isn't an activity that increases my long-term happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它也许有着教育价值，但总体而言这并非提升个人长期幸福感的活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd rather read more books instead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还不如去读更多书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Possessions - I gradually purged some possessions that I accumulated over time, mostly by giving them away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各种财物 — 我逐渐清理了自己随时间积累而来的一些财物，大多数时候都是通过送人的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a possession doesn't increase my happiness, what's the point in keeping it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如一份财物没有提升我的幸福感，保留它又有什么意义？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I made these changes one at a time for the most part. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在做这些改变时，主要是一次进行一种改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This gave me time to adjust and to see if I wanted to maintain the change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样能给我时间去调整适应，看自己是否想要维持那种变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In each case I did.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次改变之后，我会感到确实想要保留它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would say that overall, just dropping the dead weight didn't increase my happiness per se. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想说总体而言，只是放弃无用负担本身并未提升我的幸福感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It simply cleared some space, thereby giving me more opportunities to invest my time differently.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样做只是清理出一些生活空间，从而给了我更多机会，把个人时间投入到不同地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Making Big Changes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做出大的改变</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dead weight is fairly easy to identify and slightly harder to eliminate, but it's a good place to begin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无用负担比较容易识别，清除起来稍微有点困难，但它是开始改变的好地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, you also have to tackle some bigger items. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，你也必须应对那些更大的改变挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For me the biggest item I had to face within the past two years was my marriage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我而言，自己过去两年必须面对的最大挑战，就是我的婚姻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I first got married, it did increase my happiness, but over time as Erin and I grew in different directions, I had to admit that I'd probably be happier letting go of the marriage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我最初结婚时，它确实提升了我的幸福感，但随着时间过去，Erin和我朝着不同方向开始成长。我不得不承认，自己对婚姻放手后很可能会更幸福快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took years to have enough certainty about that decision, but with the benefit of hindsight, it's easier to see that it was the right choice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用了数年时间才对此决定有了足够确定感，但从事后来看，自己更容易判断这是个正确选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As many people conclude who've gone down a similar road, it was hard but it was worth it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像许多经历过相似道路的人们得出的结论一样，这种改变很难，但它值得去做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't Erin's fault that the marriage was making me unhappy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚姻使我感到不幸福快乐，那并非Erin的过错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I chose to be married, and I had to awaken to new possibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我自己选择进入婚姻之中，但也必须清醒面对新的生活可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I see the experience as a test of sorts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看出这种经历就像一种测试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was I willing to choose happiness?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是否愿意选择追求幸福快乐？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another change I had to make was my lifestyle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不得不做出的另一种改变，就是我的生活方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to travel a lot more, but that was going to require some adjustments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要多得多的旅行，但拥有这种生活体验需要做些调整变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last year I traveled about 3 months out of the year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去年我在一年中旅行了大概3个月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year I'd like to exceed that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年我想超过这种水平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet another change I'm currently undertaking involves remaking my social life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自己当前还在经历的一种变化，就是重塑我的社交生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Due to the popularity of my blog and my pre-existing local friends, I've had the opportunity to be socially lazy and still enjoy a rich and abundant social life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鉴于自己博客的流行程度，以及先前就有的本地朋友，我得以有机会在社交上犯懒，而且仍可享受丰富的社交生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invitations would come my way no matter what, so all I'd have to do was filter and respond to them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各种社交邀请会不断出现，我需要做的全部事情就是进行过滤并给出回复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although this might seem like a good situation, and I enjoyed it for many years, I reached the point of wanting to head in a different direction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然它可能看起来像种美好情形，我也在其中享受多年，自己最终还是抵达了想要前往不同生活方向的转折点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My old social life was too easy, and so I wasn't getting much growth out of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的旧社交生活过于轻松，自己并未从中获得太多成长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another issue was that because I had so many friends in different cities, I ended up spending more time online maintaining those connections. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个问题是，由于我在不同城市有如此多的朋友，最后不得不花更多时间在网上维持那些交往关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also ended up with a lot of friends I'd only see once or twice a year.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自己还有大量每年只见面一两次的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realized that while this certainly wasn't a bad situation, ultimately it wasn't increasing my long-term happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能意识到，这种情形肯定不是坏事，但从终极意义上讲，它并未提升我的长期幸福感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was only maintaining my existing comfort zone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它只在维持我现有的生活舒适区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To be happy and fulfilled, I need more of a challenge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为感到幸福快乐和内心满足，我需要更多挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also need to focus more on local friends that I can hang out with face to face instead of people spread all over the world, where I'll have to use technology to keep in touch with them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也需要专注于可以面对面交流的更多本地朋友，而非自己必须用技术手段来维持的遍布全世界的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me backtrack by saying that I still like having non-local friends, but since I run an Internet business, I need my social life to be more weighted in the offline direction to balance things out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请让我回溯一下自己的说法，我依然喜欢不在本地的朋友，但由于自己一直经营互联网生意，我需要让社交更侧重于线下方向，从而实现平衡的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Otherwise I feel like I'm spending way too much time on my computer or cell phone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>否则我会感觉自己在电脑或手机上花费了太多时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My old social life was probably 80% non-local and 20% local. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的旧社交生活很可能有80%属于非本地，20%属于本地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year I'm working on rebuilding it with the opposite percentages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年我将致力于用相反比例重塑这种生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, I went to a local vegetarian meetup this week, a group that I'd never been to before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，我这周参加了一个本地的素食者见面会，自己以前从未去过这个团体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm also pushing myself to start up more conversations with people when I run errands, partly to remind myself to think locally when it comes to my social life- as opposed to talking on my cell phone or texting someone while I'm in a city filled with potential friends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还迫使自己在处理日常杂事时和人们更多交谈，这样做部分就是想提醒自己，在社交上多用本地思考方式 — 而非在一个充满潜在朋友的城市里，还总在手机上交谈，或给某人发短信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This shift is turning out to be a challenge, not because I have anxiety about it but because the non-local mindset is so ingrained in me from 16 years of doing business online. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种转变是个很大挑战，并非因为我对它感到焦虑，而是因为自己经营16年互联网生意，形成了根深蒂固的非本地式思维。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I almost don't know how to think locally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我几乎不知道如何用本地方式去思考。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's so much easier for me to think globally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我用全球视角去思考反而要容易得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thinking locally is almost an alien concept for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本地化思维对我而言几乎就像外星概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes I feel like I'm connected to the Internet at all times. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我感觉自己一直都和互联网连在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So grasping the right mindset is a tough challenge for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以掌握正确的思维心态对我来说就是个艰难挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As strange as it may sound, sometimes the Internet and various online communities feel more solid to me than the city of Las Vegas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听起来可能让人觉得很奇怪，但有时互联网和各种网上社区，会令我感觉比拉斯维加斯这个城市更坚实可靠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or perhaps that won't sound so strange if you've been to Vegas. ??</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如你来过拉斯维加斯，这种话听着或许就没那么奇怪了。:-)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's pretty obvious to me that face to face socializing increases my happiness more than online socializing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说显而易见的是，面对面的社交沟通，确实要比网上社交更能提升我的幸福感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even the best online social experiences just can't compare to a game of disc golf­ or a massage­ or a night of dancing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使最好的网上社交体验，也没法与玩飞盘高尔夫... 做次按摩... 或跳一夜舞相比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm enjoying this challenge, but sometimes it's hard to get a handle on it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我十分享受这种转变挑战，但有时它也让我感到捉摸不定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since my social life is so different now than it was a year ago, I often feel ungrounded in this new place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于和一年前相比，我现在的社交生活已如此不同，自己经常感觉在新地带还有点没站稳脚跟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's going to take some time to get used to it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我需要花些时间才能习惯这种转变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you find yourself in a situation where you aren't seeing your long-term happiness increasing, then perhaps your path to greater happiness lies in a different direction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若你发现自己所处的情形，难以看出个人长期幸福感能获得提升，那么你通向更幸福生活的道路，也许就位于不同方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can be happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以感到幸福快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You definitely have the power to create that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也肯定有力量创造这种结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's just a question of whether or not you're willing to step up and claim that happiness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它只是你愿不愿上前一步，来认领这种幸福生活的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The alternative is to project your unhappiness onto others and blame or resent them for contributing to your unhappiness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一种做法就是将你的不幸感受投射到他人身上，责怪或怨恨对方造成了你的种种不幸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you're unhappy in any situation, it's up to you to step away from it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若你在任何情形下感到不幸福快乐，自己都可以主动选择远离它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't blame the situation or the people within it because they won't bend over backwards for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别只因对方不愿为你妥协退让，就去责怪那种情形，或是其中的任何人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may be making them just as unhappy, so while you're blaming them, they're also blaming you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能也在让对方感到不幸福快乐，所以当你责怪他们时，他们也在为此责怪你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Big changes can be very difficult to undertake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面对大的挑战确实很难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may need to deal with many consequences, which can be unpleasant in the short term. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能需要处理应对许多后果，它们在短期内也可能令人不悦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I understand all of that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我完全理解其中所有难处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may not be easy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它不会轻松容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Transitions of this nature can be pretty tough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种性质的转变的确非常艰难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may shed some tears along the way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也许还会一路洒下泪水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in the end, you'll emerge in a much brighter place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最终，你将出现在更光明的地带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Escaping a cocoon isn't supposed to be easy- it's the process of struggling to get out that makes you stronger for what lies ahead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>挣脱茧囊并非一定轻松容易 — 它就是为了前方美好生活，让你在挣扎中变得更强大的破茧成蝶过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interacting Complexities</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相互作用的复杂事物</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One thing that stunned me- much to my delight- was that as I began eliminating some non-contributing items, I discovered all the different ways they interacted with each other, creating a webby quagmire of stuckness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>令我感到震惊的一件事 — 不过自己很高兴看到它 — 就是随着自己开始清除对幸福快乐毫无贡献的事项，我发现了那些事项彼此间相互影响的所有不同方式，而这些相互作用创造出一种令人难以脱身的胶着网络。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, interacting on social networking sites increased the volume of email I received. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，在社交网站上交流互动会增加我收到的邮件数量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This meant even more time in front of the computer, which made me more tired in the evenings, so at the end of the day, I might want to veg out and watch a movie instead of doing something more fun and interesting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而那意味着自己要在电脑前待上更多时间，也使我在晚上感到更加疲惫。于是在一天结束时，我可能想要放松看部电影，而非做些更有趣好玩的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, when I canceled some services I didn't need, it meant fewer bills to pay and more money saved. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，当我取消一些并不需要的服务后，它意味着会付更少账单，并省下更多金钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Financially this wasn't particularly impactful, but over time it adds up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从财务角度看，这种省钱做法并非特别有效，但随着时间过去它将逐渐累积。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why spend money on things that don't make you happy?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你为何要在无法让自己幸福快乐的事上花钱？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each time I let go of something that wasn't making me happy, another part of the surrounding web gave way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次我对某种难以使自己快乐的事物放手，周围缠绕的胶着网络就将撤出一部分空间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't have to deal with everything all at once. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不必立刻处理所有事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just tackled one little piece at a time, usually focusing on the most obvious next item to handle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自己只是每次解决一小块问题，通常是专注处理接下来最明显需要改变的事项。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You probably have some ambiguous activities in your life, where you aren't sure if they're contributing to your happiness or not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在生活里很可能有些野心勃勃的项目活动，自己并不确定它们能否为你的幸福快乐做出贡献。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

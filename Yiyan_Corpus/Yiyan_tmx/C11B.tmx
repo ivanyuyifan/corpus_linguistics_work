@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T125805Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Schumpeter: Slaves to the smartphone
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“机奴”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“THE SERVANT” (1963) is one of those films that it is impossible to forget―a merciless dissection of the relationship between a scheming valet (played by Dirk Bogarde) and his dissolute master (James Fox).
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《仆人》（1963）是一部让人难忘的电影。  它用一种冷酷的手法剖析了一段略显奇异的主仆关系：仆人阴险狡诈而且野心勃勃（德里克.博加德饰），利用自己雇主的种种弱点最终反仆为主；而他的主人却是放荡不堪、性格孱弱（詹姆斯.福克斯饰）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The valet exploits his master’s weaknesses until he turns the tables: the story ends with a cringing Fox ministering to a lordly Bogarde.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>影片的结局是：唯唯诺诺的“主人”福克斯，彻底被气派的博加德玩弄于鼓掌，反倒沦为了一个下人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The film was an indictment of the class structure of Harold Macmillan’s Britain.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影出色地描绘了哈罗德.麦克米伦（上个世纪六十年代英国首相）时代的英国社会。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it is hard to watch it today without thinking of another fraught relationship―the one between businessfolk and their smartphones.
+Smart devices are sometimes empowering.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四十年后的今天再看这部电影，除了对过往唏嘘之外，我们可能会惊异于另外一种似曾相识之感——虽然旧时代一去不返，但这种主仆关系颠倒却借尸还魂，转而在那些商务白领和他们的智能手机身上体现的淋漓尽致。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They put a world of information at our fingertips.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个庞大的信息世界就流动在我们的指尖之上，从这个角度来说，智能电子设备的确使人类越发强大。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They free people to work from home instead of squeezing onto a train with malodorous strangers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有了这些电子产品，人们终于可以把自己从办公室里解脱出来，用不着每天朝九晚五地挤公交地铁，在臭烘烘的车厢里和一群陌生人“亲密接触”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is a huge boon for parents seeking flexible work hours.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于双职工家庭，智能手机也是一个福音，从此丈夫和妻子终于不必再为谁提前下班照看孩子而烦恼，因为他们可以随时调整自己的工作时间表。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Smartphones and tablets can also promote efficiency by allowing people to get things done in spare moments that would otherwise be wasted such as while queuing for coffee.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你是一个喜欢“压榨”时间的人，智能手机还可以帮你提高效率，举个例子，谁说在星巴克排队的空隙就不能工作了？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They can even help slackers create the illusion that they are working around the clock by programming their e-mail to be sent at 1am.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有了智能手机之后，懒汉们也终于可以给自己提供一个合理的说辞：你看，其实我一天24小时都在工作，凌晨1点你们都在睡觉的时候我还必须处理电子邮件！
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But for most people the servant has become the master.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但对大多数人来说，这位电子“仆人”可能就要造反了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not long ago only doctors were on call all the time.
+Now everybody is.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>似乎就在不久之前，医生是唯一一个需要二十四小时待命的职业，而现在你我统统如此。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bosses think nothing of invading their employees’ free time.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老板们从来不觉得占用员工的私人时间有什么不妥。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Work invades the home far more than domestic chores invade the office.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工作入侵家庭远比家庭琐事打扰工作的时候要多。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Otherwise-sane people check their smartphones obsessively even during pre-dinner drinks and send e-mails first thing in the morning and last thing at night.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了这些因为工作所迫而臣服于智能手机的人之外，还有一个群体，他们就像得了手机眷恋症，晚饭之前他们不再和自己的约会对象调情，而是不停地查看手机；临睡前最后一件事、睡醒起床第一件事，都从刷牙洗脸变成了打开手机查邮件。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is partly because smartphones are addictive: when Martin Lindstrom a branding guru tried to identify the ten sounds that affect people most powerfully he found that a vibrating phone came third after the Intel chime and a giggling baby.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很可能，智能手机和毒品一样，是会成瘾的。  品牌顾问马丁.林德斯托姆曾研究过这样一个课题：十种对人们最有影响的声音。
+他发现，排在英特尔公司的代表性音乐和婴儿的笑声之后，手机震动发出的声音位居第三。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BlackBerrys and iPhones provide relentless stimuli interspersed with rewards.
+Whenever you check the glowing rectangle there is a fair chance you will see a message from a client a herogram from your boss or at least an e-mail from a Nigerian gentleman offering you $1m if you share your bank details with him.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑莓和苹果似乎在塑造这样一种信息和手机铃声之间的条件反射：每当你手上那个微缩转头发光的时候，就意味着你很有可能看到一条新信息，要么是客户想你了，要么是上司想你了，最惨也不过是某个陌生人喊你“爸爸”，然后告诉你他因为嫖娼被抓，急需6000块钱打到某警官账上。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Smartphones are the best excuse yet devised for procrastination.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以说，智能手机是拖延症的主要诱因。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How many people can honestly say that they have never pruned their e-mails to put off tackling more demanding tasks?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有多少人敢实事求是、拍着胸脯说他从来没有因为贪恋用手机查邮件、刷围脖而耽误了更重要的工作？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hyperconnectivity exaggerates some of the most destabilising trends in the modern workplace: the decline of certainty (as organisations abandon bureaucracy in favour of adhocracy) the rise of global supply chains and the general cult of flexibility.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>办公室里的传统行为方式正为这种人和人之间的虚拟连接所颠覆：确定性已经不再重要，因为各类公司和组织越发倾向于推翻原有的体系，而采取全新的灵活组织模式；全球化的信息传播链和对灵活性的膜拜则如日中天。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Smartphones make it easier for managers to change their minds at the last moment: for example to e-mail a minion at 11pm to tell him he must fly to Pittsburgh tomorrow.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比方说，纵然计划已经制定完成，在付诸实施的最后一刻，领导们也总是习惯给跑腿打杂的人发封邮件，说自己改主意了，你必须在明天一早飞到海南去，他才不管现在是不是已经到了晚上11点，或者你是飞着去还是爬着去。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dratted devices also make it easier for managers in one time zone to spoil the evenings of managers in another.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这见鬼的设备最造孽的一点就是无视时差，身在美国的老板可以轻而易举地毁掉北京分部员工的浪漫之夜。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Employees find it ever harder to distinguish between “on-time” and “off-time”―and indeed between real work and make-work.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>员工们不难发现，上班和下班之间的界限越来越模糊，更糟糕的是，实打实的工作和老板为了不让你闲下来而抛给你的烂事之间也不再泾渭分明。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Executives are lumbered with two overlapping workdays: a formal one full of meetings and an informal one spent trying to keep up with the torrent of e-mails and messages.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老板本人也未见得就能省心，因为他们也不得不一天当两天过：正式上班时是开不完的会，非正式上班的时候则被邮件和短信五花大绑。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of this is good for businesspeople’s marriages or mental health.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商务白领们的婚姻家庭和精神健康就这样被智能手机推向崩溃边缘。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may be bad for business too.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些看似忙不完的生意也遭到牵连。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When bosses change their minds at the last minute it is hard to plan for the future.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果一个老板总是朝令夕改，这个公司的未来也就岌岌可危了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And several studies have shown what ought to be common sense: that people think more deeply if they are not constantly distracted.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同的研究也在不断地证明着本来就是常识的道理：集中精力才能办大事。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What can be done to keep smartphones in their place?
+How can we reap the benefits of connectivity without becoming its slaves?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么，有没有什么办法能够保证我们在享受智能手机带来的便利的同时，不会沦为这些电子暴君的奴隶呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One solution is digital dieting.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在此我们不妨借鉴一下人类和垃圾食品之间的战争。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as the abundance of junk food means that people have to be more disciplined about their eating habits so the abundance of junk information means they have to be more disciplined about their browsing habits.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在快餐的诱惑面前，人们必须有节制地饮食才能远离肥胖和疾病，同理，在垃圾信息的勾引面前，我们也必须克制住自己浏览的欲望。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Banning browsing before breakfast can reintroduce a modicum of civilisation.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比方说在早餐之前，放下你的智能手机，舒心地享受咖啡、培根和煎蛋，体验一下文明的内涵。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Together we can outsmart our phones</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>归根结底，一群人还是要比一群手机聪明的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The problem with this approach is that it works only if you live on a desert island or at the bottom of a lake.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非你住在冰火岛或者剑湖底，手机依恋症都是可以通过“集体力量大”来解决的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In “Sleeping with Your Smartphone” a forthcoming book Leslie Perlow of Harvard Business School argues that for most people the only way to break the 24/7 habit is to act collectively rather than individually.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在即将出版的《于“机”共枕》一书中，哈佛商学院的Leslie Perlow认为，对大多数人来说，想要打破智能手机的魔咒，唯一的办法就是克服独来独往，开始“群居”生活。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tells the story of how one of the world’s most hard-working organisations the Boston Consulting Group learned to manage hyperconnectivity better.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为全世界工作态度最认真的信息分析咨询机构，“波士顿咨询”就很成功地将虚拟连接的影响纳入了可控的范围内。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The firm introduced rules about when people were expected to be offline and encouraged them to work together to make this possible.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司制定了一系列规章，要求员工必须按点“下线”，并鼓励他们“团结一致”，战胜手机。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many macho consultants mocked the exercise at first―surely only wimps switch off their smartphones?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开始，这些规定引来了男性员工的嘲笑——他们认为只有胆小怕事的人才会关上手机图清净——</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But eventually it forced people to work more productively while reducing burnout.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最终这些强制性的规定使员工学会了更有效地利用工作时间，同时减少不必要的损耗。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ms Perlow’s advice should be taken seriously.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Perlow女士的建议应该为我们所重视。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The problem of hyperconnectivity will only get worse as smartphones become smarter and young digital natives take over the workforce.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着年轻的“数字一代”渐渐占领办公室，以及智能手机越发智能，虚拟连接产生的问题只会越来越糟。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People are handing ever more of their lives over to their phones just as James Fox handed ever more of his life over to Dirk Bogarde.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就和开头提到的那部电影里演的一样，仆人一点一点地将主人的生活握在手心，智能手机也逐渐握住了人类生活的命脉。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,58 @@
+Difference engine: Let the games begin 
+FULL marks to Apple for devising ways to improve how science, mathematics and other topics are taught in primary and secondary schools across America. 
+The company's ¡°Reinventing Textbooks¡± event last week showed how effectively Apple's popular iPad tablet computer can replace the stack of tedious, and invariably outdated, textbooks that school children have to lug around these days.
+Apple is providing a free Macintosh application, dubbed iBooks Author, which allows publishers, teachers and writers to produce interactive textbooks with video, audio and even rotating 3D graphics that spring to life with the touch of a finger. 
+By and large, interactive multimedia offer more engaging explanations that students more readily grasp and remember. 
+To play such books on an iPad, a free application called iBooks 2 must first be downloaded from the company's App Store. 
+Interactive textbooks can then be purchased from iTunes, Apple's online store, for $15 apiece or less. That is a seventh of the price of the average textbook used in schools today.
+No question that interactive textbooks deliver results. 
+A pilot study carried out for Houghton Mifflin Harcourt, a textbook publisher based in Boston, compared the performance of two groups of children over the course of a year at the Amelia Earhart Middle School in Riverside, California. 
+A control group used the traditional Holt McDougal Algebra 1 textbook, while an experimental group used iPads with an interactive version of the same coursework. 
+At the end of the year, 78% of pupils using the interactive text scored ¡°proficient¡± or ¡°advanced¡± on the California algebra test, compared with only 59% scoring likewise with the standard textbook.
+Done properly, interactive textbooks offer not only video tutorials, more personalised instruction, just-in-time hints and homework help, but also instant access to assessment tools, teaching resources and the ability to network socially with students elsewhere. 
+Using tools for highlighting and annotating virtual flash-cards, students can select information within the text and store it for later revision. 
+Searching public databases, direct from within the textbook, is also possible. 
+At school, students can sync with their teachers' computers, to hand in their quiz results and homework for marking.
+Houghton's pilot programme in Riverside was not the first attempt to use e-books in education. 
+Indeed, digital textbooks have been around for more than a decade, but have made little impact on education so far. 
+According to Forrester Research, a market-research company based in Cambridge, Massachusetts, e-books accounted for only 2.8% of America's $8 billion textbook market in 2010.
+The problem has been the lack of suitable devices for reading them. 
+Laptops and PCs have been too cumbersome for the job. 
+Dedicated e-readers have lacked the screen size, colour graphics and computing power to render the rich multimedia content. 
+The latest tablet computers seem finally to fit the bill.
+Except for one awkward thing: at around $500 apiece, tablets like the iPad 2 are still much too expensive for all but the wealthier school districts. 
+Unlike computers, which are installed in classrooms and shared by pupils, the whole point of a tablet is that it is carried around by an individual and used anywhere, including the home. 
+That means one tablet for each and every child. 
+Even with bulk-buying discounts of up to 10%, cash-strapped school districts¡ªwhich provide public education for nine out of ten of America's 58m school children¡ªcannot afford the upfront cost of tablet-based teaching.
+Put it this way. On average, the textbooks used in American high schools cost a little over $100 each. 
+Given normal wear and tear, they last for around five years, as they are passed onto subsequent students. 
+Typically, pupils use five different textbooks in each grade. 
+That means textbooks cost a school district around $100 a year for every student attending secondary school. 
+The figure is only marginally less for pupils in primary schools.
+With breakages, losses and theft, there is no way that a $500 iPad could survive for five years in a school environment without costly maintenance, repair and replacement. 
+Add the cost of downloading five original $15 textbook titles from iTunes for each pupil in every grade, plus annual upgrades for every student. 
+In other words, by going the virtual route, education authorities could find their textbook costs soaring out of sight.
+Why not let children who can afford to buy their own iPads use them in class? Outside private schools, that is never going to happen. 
+No superintendent of public schools could allow such a digital divide to emerge in the classroom. 
+Ethics aside, lawsuits would fly (giving new meaning to the term ¡°class action¡±) as a minority of students hogged the high scores and the scholarships.
+The difficulty of dealing with such issues¡ªnot to mention the bureaucracy of the public school system¡ªexplains why Inkling, a San Francisco firm that has pioneered interactive 3D textbooks for the iPad, has steered clear of schools and focused instead on the needs of college students. 
+Your correspondent saw everything, and more, that Apple demonstrated last week while interviewing Inkling's founder, Matt MacInnis, a year ago. 
+At the time, Inkling had produced over 60 multimedia textbooks for the academic world. 
+Today, it lists 113 to Apple's four. 
+With the Inkling app installed on an iPad, chapters can be downloaded from iTunes for $1.99 a go.
+Apple's marketing muscle will surely stimulate demand for better interactive content, not only in primary and secondary schools, but for tertiary education as well. ¡°That's a rising tide that floats all boats,¡± notes Mr MacInnis. 
+¡°The future of digital-learning content isn't a book on a screen, but an engaging multimedia experience,¡± he says. In other words, the flat e-book is dead. Sorry, Amazon.
+And yet, for all the interactivity with stunning graphics and engaging video, your correspondent cannot help thinking that something is missing here. 
+Despite their compelling content, the interactive textbooks seen so far perpetuate the ¡°linearity and conformity¡± of traditional learning, where everything is geared¡ªfrom kindergarten to high-school¡ªto preparing for college entrance; where mistakes are expunged at the cost of creativity.
+This is what Sir Ken Robinson, a leading authority on education reform, calls the ¡°industrial model¡± of education. 
+As professor of education at Warwick University, Dr Robinson led a national commission on creativity, education and the economy for the British government, and has spent the past decade trying to prevent education authorities from stifling their students' inner passions. 
+In his view, creativity is as important in education as literacy¡ªand should be given equal emphasis.
+That would seem a reasonable start. 
+So, if software is to be used as a teaching aid (called ¡°blended learning¡± in pedagogical circles), then it should seek to balance the need for correct answers with the freedom to take risks and break rules. 
+¡°If you're not prepared to be wrong,¡± Dr Robinson preaches, ¡°you'll never come up with anything original.¡±
+No question that industry is crying out for innovative young minds capable of taking intellectual chances. 
+A common complaint is that science education, in American schools especially, is doled out in easily digested bites that condition students to get correct answers, but without any profound understanding of why. In a report published last year, the National Research Council in Washington, DC, identified a number of cross-cutting concepts (such as ¡°cause and effect¡± and ¡°stability and change¡±) that provide the weft and the warp of science. 
+Mastering these thoroughly, the report argued, would provide a firm foundation for young thinkers to take the kind of chances needed to be truly innovative.
+One promising approach along these lines has been adopted by the CK-12 Foundation, a non-profit organisation that seeks to reduce the cost of teaching materials by using open-source methods. 
+Its FlexBook platform, predominantly for science and mathematics, allows high-school teachers to mix and modify content freely to meet individual needs, while still adhering to curriculum standards.
+This year, the CK-12 Foundation is to start offering tools that will allow high-school students to teach themselves. 

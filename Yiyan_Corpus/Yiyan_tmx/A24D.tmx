@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T132359Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How high will global temperatures rise?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未来全球气温会升到多高？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Earth's average surface temperature has already risen 0.8¡ã Celsius over the past century (1.4¡ã Fahrenheit) as a result of human activity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为人类活动的影响，全球地表平均气温已经在过去一个世纪上升了0.8摄氏度（1.4华氏度）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And scientists expect average temperatures to rise an additional 1¡ãC to 4¡ãC in the century ahead if greenhouse gas emissions continue to rise (between 2.7¡ãF and 7.2¡ãF).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科学家预计，如果温室气体排放量持续增加，未来一个世纪里平均气温还会额外增加1-4摄氏度（2.7到7.2华氏度）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's according to the IPCC's 2013 assessment:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下图来自政府间气候变化专门委员会（IPCC）2013年评估报告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This chart shows temperature projections under a variety of future scenarios for greenhouse gas emissions (referred to as RCPs).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图表显示了多种未来温室气体排放量（显示为浓度路径）的假设场景，由此推算未来气温情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why the huge range of projections? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么有这么多的估算？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are two key variables here:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这之中有两个非常重要的变量：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Climate sensitivity: Climate scientists still aren't sure exactly how much the world will warm if we keep pumping greenhouse gases into the atmosphere.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>气候敏感性：气候学家仍旧无法确定如果人类持续向大气层输送温室气体的话，气温到底会上涨到什么程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Currently, the best estimate is that the Earth's average temperature will increase between 1.5¡ãC and 4.5¡ãC every time we double the amount of carbon dioxide in the atmosphere.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当前最靠谱的估算是，每一次人类将二氧化碳以双倍的量排入大气层的时候，地球平均气温将会升高1.5-4.5摄氏度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That estimate, known as climate sensitivity, is derived from a variety of sources.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>估算气候敏感性有很多方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scientists can study how temperatures have swung in the past in response to changes in carbon dioxide levels. They can look at how the global climate responds to volcanic eruptions. And so on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科学家可以研究过去气温是如何根据二氧化碳水平波动变化的；他们也可以研究火山喷发对于全球气候有什么影响等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That helps narrow the range, but there's still some uncertainty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些研究能帮助缩小估算的范围，但是依然有不确定性的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The future growth of emissions: The other big variable here is how much carbon dioxide, methane, and other greenhouse gases humans will actually put into the atmosphere in the years ahead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未来排放的增长：另一个重要的变量就是在未来几年中，人类究竟能排放多少二氧化碳、甲烷和其他温室气体到大气层中呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's much, much harder to predict. It depends on how our economies grow and what sorts of energy sources we'll use.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这实在太难预计了，要取决于人类经济是怎么发展的，是利用什么样的资源来维持社会运作的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So scientists often lay out scenarios, as the IPCC chart above does.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以像上面的IPCC的图表那样，科学家经常做估算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we manage to cut global emissions immediately and drastically (that's the blue line), we have a shot at keeping additional global warming to around 1¡ãC.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假设我们能又快又彻底地降低全球温室气体排放，那未来就如蓝色线所示，我们可以试着努力只增温一摄氏度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if emissions keep rising unchecked (the red line), then temperatures could rise an extra 4¡ãC or more.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是如果排放不受限制，那未来就是那条红线，气温还会额外增加4摄氏度甚至还多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add up past global warming and future global warming, and the IPCC says that by 2100, the world will likely be at least 1.5¡ãC hotter than it was in the pre-industrial era.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将过去全球变暖和未来全球变暖结合起来看，IPCC称，到2100年，全球温度可能会比工业化以前至少增温1.5摄氏度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The key question is whether we'll exceed 2¡ãC of total global warming (compared with pre-industrial levels).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重要的是全球总体气温是否会增加超过2摄氏度（相比工业化之前）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's the level most world leaders have said is unacceptable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个数字世界上大部分领导人都认为无法接受。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

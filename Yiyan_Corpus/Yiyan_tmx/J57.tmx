@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>7 The Psychology of the Second Person</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第七章 第二人称的心理学</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We respect persons when we give them standing in our relations with them and recognize their second-personal dignity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我们给予他人在与我们的关系中以地位，并承认他们的第二人称尊严时，我们就是在尊重他人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But what psychic mechanisms are involved in respect and the second-person standpoint? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是尊重和第二人称观点中包含什么样的心灵机制呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How is it possible for a capacity that is sensitive, in principle, to claims of free and rational agents as such to be realized in human psychology, naturalistically conceived? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对自由和理性行动者就其本身而言的主张敏感的能力，以自然主义的方式来设想，在原则上如何可能在人类心理学中被实现呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whether there is such a thing as dignity and what it takes to have that status are not, of course, matters of empirical psychology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>是否存在尊严这个东西，具有这个地位意味着什么，这些当然都不是经验心理学的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The thesis of morality as equal accountability is moral-philosophical, not psychological. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为平等责任的道德论点是道德和哲学的，而不是心理学的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Still, rival consequentialist moral theories can be lent an air of apparent empirical support and realism by the familiar Humean moral psychology with which they are often associated and hence an apparent default plausibility that Kantian theories rarely seem to enjoy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，作为竞争对手的后果主义道德理论，能够通过我们熟悉的休谟式道德心理学获得经验支持和实在论，它们经常与这种心理学相联系，因此具有一种显而易见的默认的可信性，而康德式的理论则很少具备这些优势。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is, for some, a lingering sense that any moral theory claiming a priori foundations and faculties cannot possibly apply to human beings as we actually are.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于某些人而言，有这样一种挥之不去的感觉，即任何宣称先验基础和官能的道德理论，都不可能应用于我们实际所是的人类存在之上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter discusses aspects of human psychology that are relevant to morality as equal accountability and to the second-person stance more generally. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这一章我们将讨论道德心理学与作为平等责任的道德，以及更一般地与第二人称地位相关的方面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We have already seen (in Chapters 4 and 5) how familiar reactive attitudes have an implicitly second-personal structure that fits them to practices of mutual accountability. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们已经（在第四章和第五章）看到，我们熟悉的反应态度如何具有隐含的第二人称结构，使它们嵌人相互责任的实践。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this chapter, we consider how these interact with other psychic mechanisms that also play crucial supporting roles, most notably, empathy and what Gibbard calls our “normative psychology,” namely, the distinctive human capacities concerned with accepting and regulating behavior and feeling by norms (1990: 55-82).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这一章，我们会考察它们如何与其他也扮演着关键支持角色的心灵机制互动，最显著的是同情和吉伯德所说的我们的“规范心理学”，即与通过规范接受和限制行为和情感相关的特殊人类能力（1990：55—82）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two caveats are necessary at the outset. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在一开始我们有必要提出这两点忠告。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, I should stress again that nothing I say in this chapter is intended to provide direct support for morality as equal accountability or for the existence of second-personal reasons. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一，我应该再次强调，我在这一章所说的任何东西，都不是想要为作为平等责任的道德或者第二人称理由的存在提供直接支持。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Any arguments for these ideas must be normative and philosophical. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何关于这些观念的论证都必须是规范性的和哲学的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nonetheless, to the extent that human behavior can be shown to involve capacities in which second-personal moral notions are psychically realized, so also can these ideas be seen to fit with our psychology, or at least not to be in conflict with it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，在人类行为可以被表明包含第二人称道德观念在心灵上被实现的能力这个意义上，这些观念也能被看作与我们的心理学相符合，或者至少不与它相冲突。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, although I draw on a steadily increasing literature in experimental psychology, some of my psychological hypotheses are abstract and speculative. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二，虽然我依赖于逐渐增加的实验心理学文献，我的某些心理学假说是抽象和思辨的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To some extent, this is unavoidable. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在某种程度上这是无法避免的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And it is worth noting that the Humean framework similarly employs a more abstract conception of desire than any that can be found in common sense or experimental psychology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>值得注意的是，休谟式的框架类似地运用了一个比常识或实验心理学中能找到的欲求观念更抽象的观念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, the Humean theory’s notion of desire is sufficiently abstract that the phenomena I point to here are likely consistent with the basic “law” of the Humean theory of motivation—which states that all intentional action results from appropriately paired desires and beliefs (Davidson 1980; Smith 1994). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，休谟式的欲求观念理论是非常抽象的，以至于我这里指出的现象很可能与休谟式的动机理论的基本“法则”相一致，这个理论认为，所有意向行为都源自恰当搭配的欲求和信念（Davidson 1980；Smith 1994）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The fact remains that the mechanisms I discuss are implicated in desires that are, in Rawls’s helpful terms, “principle-dependent” rather than “object-dependent.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实仍然是，我讨论的机制隐含在（用罗尔斯的术语来说）“原则依赖”而非“对象依赖”的欲求中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here there will be two crucial points. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里将有两个关键点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, sometimes, perhaps frequently, the desires that help to explain our intentional behavior are among those we have because we accept certain norms of action. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，有时候（也可能很频繁）帮助解释我们的意向行为的欲求，是由于我们接受某些行动规范而具有的那些欲求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And second, some of the norms we evidently accept essentially involve the idea of second-personal authority.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其次，我们明确接受的一些规范，本质上包含第二人称权威的观念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Finally, we should keep in mind a point I made at the end of Chapter 5, namely, that the familiar forms of moral reasoning that are involved in such principles as the Golden Rule and the Categorical Imperative have an intuitive second-personal interpretation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后，我们应该记住我在第五章结尾提出的一点，包含在诸如黄金法则和绝对命令这些原则中的道德推理的熟悉形式具有直观的第二人称解释。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The thought that people ought not to act in ways that fall short of their expectations or implicit demands of others reveals itself in our psychology in all sorts of ways, from the reactive attitudes to more principled moral reasoning of the kind that psychologists of moral development like Kohlberg (1981) have studied. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们不应该违背他人的期望或隐含地要求这个思想，以各种方式在我们的心理学中被揭示出来，从反应态度，到像科尔伯格（1981）所研究的那种道德发展心理学的更原则化的道德推理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Any denial that these forms of reasoning and the feelings that draw upon them are deep and pervasive aspects of human psychology would seem to be, to quote Bishop Butler, “too glaring a falsity to need being confuted” (1983: 18).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何对这些形式的推理以及依赖于它们的情感作为人类心理学的深刻和普遍特质的否定，引用毕晓普·巴特勒来说，都将会“是太明显而不需要驳斥的错误”（1983：18）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Desire and Norm</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>欲求与规范</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We can begin by considering the respective motivational roles played by desire, as philosophers normally understand it, and norm acceptance, as Gibbard describes it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们可以首先考察哲学家通常理解的欲求和吉伯德描述的规范接受分别扮演的动机角色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I claim, again, that second-personal competence essentially includes the capacity to be guided by norms, especially by second-personal norms that concern the authority to claim and demand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>再一次，我认为第二人称能力本质上包括被规范指导的能力，特别是关于主张和要求的权威的第二人称规范。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ultimately I argue that there is yet a further essential element: the ability critically to evaluate second-personal norms one accepts, and competing alternatives, from the standpoint of one mutually accountable person among others and to be guided by those one would endorse from that standpoint. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最终我论证，还存在一种更本质的要素：从我们相互负责的他人的视角，批评性地评价我们接受的第二人称规范和其他替代选择的能力，以及通过我们从这个视角将会同意的规范被指导的能力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One way of viewing the argument of this book is as an attempt to show that this is but a more developed version of what is implicit in any second-personal thinking, for example, in reactive attitudes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有这样一种看待本书的论证方式，即将它看作尝试表明只不过是隐含在任何第二人称思考（比如反应态度）中的内容更充分发展的版本。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Gibbard introduces the idea of norm acceptance through a discussion of cases of weak will. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>吉伯德通过讨论意志软弱的例子引人了规范接受的观念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Suppose, for example, that you can’t get yourself to stop eating nuts at a party (1990: 56). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比如，假设你在聚会上不停地吃坚果（1990：56）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the one hand, you desire to keep eating them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一方面，你想要一直吃。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other, you think you shouldn’t. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而另一方面，你认为你不应该这样做。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It doesn’t matter for present purposes why. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就我们当下的目的而言，你为什么会这样无关紧要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The reasons might relate to health, avoiding boorishness, not taking more than one’s share, or whatever. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理由可能是关于健康，避免粗鲁无礼，不要获取比自己应得的更多，或者任何其他东两。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The point is that some conflict exists between your desire for nuts and your normative conviction regarding what there is most reason for you to do. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>重点在于，在你对坚果的欲求与你关于你有最强理由去做的事情的规范证据之间存在冲突。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We know, of course, that frequently the nuts win out. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，我们知道经常是坚果胜出。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the point is that they don’t always and that even when they do, there is usually some conflict. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但重点是它们不总是胜出，而且甚至当它们胜出时，通常会存在某种冲突。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At least some motivation seems to come from accepting that there are weightier reasons to stop eating.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>至少某些动机似乎来自接受存在更强 的停止吃坚果的理由。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is not sufficient to establish that the motivation does not derive from further independent desires, of course. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，这还不足以确定动机不是来自进一步的独立欲求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Perhaps it comes in this case from the desire to be healthy or from the desire not to be or to seem a boor. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个例子里，它有可能来自对健康的欲求，或者来自不要变得或看起来粗鲁无礼的欲求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, there are many reasons for thinking that this cannot always be so in general, that our accepting norms and normative reasons must exert some influence on our behavior that cannot be reduced to that of independently existing desires that are not themselves principle-dependent.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，有很多理由认为，一般而言这不会总是如此，相反我们对规范和规范性理由的接受总是会对我们的行为施加某些影响，这些影响不能还原为其自身不是依赖于原则的独立存在的欲求。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One reason is that beliefs and desires can themselves explain behavior as intentional only on the hypothesis that we are usually instrumentally rational, and this will be so only if norms of instrumental rationality play a regulating role (Korsgaard 1986). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中一个理由是，只有基于我们通常具备工具合理性这个假设，信念和欲求自身才能将行为解释为意向性的，而这个假设只有当工具合理性的规范扮演调节性角色时这个假设才成立（Korsgaard 1986）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lewis Carroll (1895) famously made the analogous point about inference as it applies to belief. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>刘易斯·卡罗尔（1895）关于应用于信念的推理提出了著名的类似论断。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Without guidance by some norm of inference, a set of beliefs or believed premises is impotent to yield conclusions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>没有推理规范的引导，一系列信念或被相信的前提就不能产生结论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(Of course, beliefs might simply cause further beliefs in some nonrational way, but this wouldn’t explain the transition of thought as rational.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（当然，信念可能单纯以某种非理性的方式产生进一步的信念，但是这不能将思想的传递解释为理性的。）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If, for example, someone believes p and if p, then q, she cannot conclude q unless she follows a norm of inference, modus ponens, that takes her from (her beliefs that) p and if p, then q, to (a belief that) q. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>举例来说，如果某人相信p以及如果p那么q，除非她遵循假言推理这个推理规则——这个规则将她从 （她相信）p和如果p那么q带入（相信）q——她就不能够得出q。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Trying to add a further modus ponens-like belief--(if p and if p, then q, then q)—will not help, since it will still take following modus ponens to get rationally even from these augmented beliefs to a belief that q.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>试图进一步加上一个类似推理规则的信念（如果p，如果p那么q，那么q），这不会有帮助，因为它仍然将采取遵循假言推理的方式来理性地从这些增加的信念来得到信念q。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The rational formation of new beliefs through inference cannot be fully explained by belief, therefore; it also requires regulation by a norm of inference.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，通过推理得到的新信念的理性形式，不能通过信念得到充分解释；它也要求推理规范的约束。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The situation is exactly analogous with instrumental reasoning from ends to necessary means. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这与从目的到必要手段的工具性推理完全类似。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To reason to a conclusion to take the necessary means to an end, it is required, not just that one have the end and believe some means to be necessary to achieve it, but also that one be regulated by a norm of practical inference that takes one from this desire and belief to the practical conclusion to take the necessary means. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了推出一个结论，为了采取必要手段达到目的，要求的不仅仅是我们具有目的并相信某些手段对达到目的是必要的，而且还要求我们被实践推理的规范所约束，这个规范将我们从这个欲求和信念带到采取必要手段的实践结论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And the only way the end and belief can rationally give rise to a desire to take the means is via a norm of instrumental reasoning that is analogous to modus ponens. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目的和信念能够理性地引起采取手段的欲求的唯一方式，就是通过类比于假言推理的工具性推理规范。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A further desire to take the necessary means to ones ends will be impotent in itself, for the very same reason that Lewis Carroll pointed to in the theoretical case.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于刘易斯·卡罗尔在理论的情况下指出的同一个理由，采取必要手段达到我们目的这个进一步的欲求自身是无力的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Regulation by norms of these theoretical and practical kinds is thus necessary to explain rational behavior, even in the terms of Humean desire-belief psychology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，这些理论和实践种类的规范的约束，对于解释理性行为（甚至是用休谟式的欲求-信念心理学来解释）是必要的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As important as this phenomenon is, however, it doesn’t yet fully capture the way in which norm acceptance is involved when an acceptance that one should or has reason to do something tends to motivate doing it, and such tendency, as in Gibbards nuts example, conflicts with occurrent desires. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，与这个现象同等重要的是，我们对应该或有理由做某件事情的接受倾向于为做这件事提供动机，并且正如在吉伯德的坚果例子里一样，这个倾向与当下的欲求相冲突，在这种情况下这种约束并没有完全抓住规范接受被包含的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The reason is that this necessarily includes accepting not just norms of inference but also norms that can supply premises in practical reasoning, that is, substantive normative reasons for acting. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理由在于，这必然包括不仅仅接受推理规范，而且接受能够提供实践推理前提，即行动的根本规范性理由的规范。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Modus ponens and the norm of instrumental reason, as well as such associated norms of coherent theoretical and practical reasoning as the law of non-contradiction and formal decision theory, are best interpreted as norms of “relative rationality” (Darwall 1983: 14-16, 44-49, 66-67; also Darwall 2001). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假言推理、工具理性规范，以及像非矛盾定律和形式决策理论这些融贯的理论和实践推理的相关联的规范，都可以最好地被解释为“相对合理性”的规范（Darwall 1983：14-16，44-49，66-67；以及Darwall 2001）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If one has good reason not to believe p and if p, then q, then the fact that one believes p and if p, then q cannot (by modus ponens) give one any reason to believe q. Rather modus ponens transfers whatever rational support there is for the first two beliefs to the third. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果我们有理由不相信p和如果p那么q，那么我们相信p和如果P那么q这个事实就不能（通过假言推理）给我们任何相信q的理由而假言推理将前两个信念的不论什么理性支持都传递给第三个信念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Believing q is rational “relative to” there being reason to believe both p and if p, then q, respectively.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相信q“相对于”具有理由相信p和如果p那么q来说分别都是理性的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here again, the situation is exactly analogous in instrumental reasoning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>再一次，这个情形与工具推理完全类似。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If one has no reason to have an end (and/or no reason to believe that some means is necessary to achieving it), then the mere facts that one has the relevant end and belief can give one no reason whatsoever to take the means. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果我们没有理由具有一个目的（并且/或者没有理由相信某个手段对于获得这个目的是必要的），那么我们具有相关的目的和信念这个事实本身，不能为我们提供采取这个手段的任何理由。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most that instrumental rationality can require is that one either take the means or give up either the end or the belief about the means’ indispensability. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>工具合理性最多可以要求的是我们要么采取手段，要么放弃目的和关于手段不可或缺的信念二者之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The practical analogue of modus ponens transfers rational support from the end and the belief to the means. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假言推理的实践相似对应物将理性支持从目的和信念传递到手段。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Taking the means is rational relative to there being reason to have the end and to believe that the relevant means is indispensable.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相对于存在理由具有目的和相信相关手段是一种必要，采取手段是理性的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Our beliefs, desires, and intentions must be more than merely coherent to be supported by reasons. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们的信念、欲求和意图必须不仅仅是可以被理由融贯支持的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It follows that when we sincerely judge that there is reason to do something or that we ought to do it, we must accept substantive normative claims that go beyond any that follow from norms of coherent belief, desire, and action. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，当我们真诚地认为有理由做某件事或我们应该做这件事时，我们必须接受超越任何来自融贯的信念、欲求和行为规范的实质的规范性主张。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And there is good reason to think, moreover, that the influence of accepting such normative judgments, like that of accepting norms of practical inference, cannot be reduced to the influence of independently existing desires.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，我们有好的理由认为，接受这些规范性判断的影响，比如接受实践推理规范的影响，不能被还原为独立存在的欲求的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Particularists like Dancy may insist at this point that the normative reasons we accept frequently resist formulation in universal norms, whereas universalists may hold that if I judge, say, that I should forego the nuts because that is for my good, this commits me to a universal norm of prudence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>像丹西这样的特殊主义者在这点上可能坚持认为，我们接受的规范理由通常拒斥普遍规范的形式，而普遍主义者可能认为，如果我们判断，比如我应该放弃继续吃坚果，因为这样做对我自己好，这就使我们承诺了一个深思熟虑的普遍规范。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But these differences don’t matter for our purposes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是这些区别对于我们的目的而言是无关紧要的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whether motivational influence comes from acceptance of particular or universal normative claims, what matters is its irreducibility to independently existing desires. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不论动机影响是来自对特定规范主张的接受，还是来自对普遍规范主张的接受，重要的是它不能还原为独立存在的欲求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I therefore use “normative acceptance” to refer to the acceptance of either.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此我使用“规范性接受”来指称对任何一种规范的接受。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Presently, I point to what I think are important psychic differences between desire and normative acceptance. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在我要指出我认为的欲求和规范接受之间的重要区别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, however, we need to note an important logical difference. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，首先我们需要注意一个重要的逻辑区别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Desire, as conceived within the Humean framework, takes propositions or possible states of affairs as objects. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如在休谟式框架下的理解/欲求将命题或可能事态作为对象。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Desire and belief are defined by their differing “directions of fit” with respect to a common propositional content or possible state of the world (Anscombe 1957; Platts 1979: 256-257; Smith 1994: 111-119). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>欲求和信念是通过它们关于一个共同的命题内容或世界的可能状态的不同的“符合方向”被定义的（Anscombe 1957；Platts 1979：256—257；Smith 1994：111—119）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A belief that p represents the world as being such that p, and if the world is not such that p, the belief is mistaken and should be changed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>信念p代表了世界是p这样，如果世界不是P这样，那么这个信念就是错的，就应该被修改。</seg></tuv>
+</tu>
+</body>
+</tmx>

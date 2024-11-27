@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T052122Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>10 Lesser Known Economic Issues</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>少为人知的10个经济问题</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While not an economist in the traditional sense, I am very interested in the study of economics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管并非传统意义上的经济学家，我对经济学研究颇有兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While not everyone shares this level of interest, I believe people should have an understanding of economics as the field is so important to understanding the world that we live in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然不是人人都对经济学有着同样的关注，我还是认为人们应该对它有一定的了解；毕竟对于认识周遭世界来说，经济学很是重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though this list contains ideas that are controversial, it is not intended to promote anger or controversy. Rather, these entries were chosen to shed some light on lesser known, yet important economic issues facing our world, and give readers something to ponder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下列排名中的观点有争议，但目的不在于激怒读者或挑起论战；之所以选择这些观点是为了对一些当下面临的，且较少人知道的世界性经济问题作出一些解释，启发读者思索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Please give your opinions on these issues in the comments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欢迎通过评论就所述问题发表意见。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>10 Paradox of Value</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>10. 价值悖论</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also known as the Diamond-Water Paradox, the paradox of value is the contradiction that while water is more useful, in terms of survival, than diamonds, diamonds get a higher market price. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又称钻石与水悖论。价值悖论的矛盾在于：从生存的角度来说水比钻石更为有用，然而钻石的市场价值却要比水高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The argument could be made that diamonds are more rare than water, thus, demand is higher than supply, which means that price will go up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>论点认为，钻石比水稀有，因而供不应求，其价格随之增高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, consider the fact that less than 1% of the earth's water is drinkable. Also consider the fact that access to clean drinking water is one of the world's most pressing problems, every year 2 million people die and half a billion become sick from a lack of drinkable water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而我们要考虑的一个事实是，地球上的总水量中仅有不到1%可供饮用；同时更要考虑的另一个事实是，洁净饮用水的短缺，是当前迫切需要解决的全球问题之一：每年有200万人由于得不到适于饮用的水而死去，另有5亿人患病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This paradox can possibly be explained by the Subjective Theory of Value, which says that worth is based on the wants and needs of a society, as opposed to value being inherent to an object. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该悖论也许能通过主观价值理论得到解释。根据该理论，价值是由社会的需求和欲望决定的，而不是物品所内在固有的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In developed countries, drinkable water in not only abundant, it's considered a right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在发达国家，饮用水不但取之不尽，更被视为一种权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because we do not have to worry about paying for water, this gives us money to pay for things like diamonds, that do not fall out of our faucets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正因为我们不需为饮水付钱，多出的钱可以用来购买钻石等非生活必需品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Individuals in developing countries surely place a higher value on clean water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相比下对发展中国家人口来说，饮用水就有更高的价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>9 Khazzoom - Brookes Postulate</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9. 卡祖姆—布鲁克斯假想</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This proposal was named after economists Daniel Khazzoom and Leonard Brookes, who argued that increased energy efficiency, paradoxically, tends to lead to increased energy consumption. It was found to be true in the 1990's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由丹尼尔卡祖姆和李昂纳德布鲁克斯两位经济学家提出。他们认为，能源效率的提高反而往往会带来更高的能源消耗：这在上世纪90年代得到了证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So how is this possible? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中玄机何在？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wikipedia explains it very effectively: "Increased energy efficiency can increase energy consumption by three means. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>维基百科作出了明晰的解答：“更高的能源效率，可以通过三种方式使能源消耗继而升高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Firstly, increased energy efficiency makes the use of energy relatively cheaper, thus encouraging increased use. Secondly, increased energy efficiency leads to increased economic growth, which pulls up energy use in the whole economy. Thirdly, increased efficiency in any one bottleneck resource multiplies the use of all the companion technologies, products and services that were being restrained by it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，能效提高降低了能源使用成本，鼓励更高的使用量；其次，能效提高带来更大的经济增长，从而带动整个经济体系的能源使用量随之提高；最后，任何一种瓶颈资源的效率提高，会导致其限制下的所有伴生技术、产品和服务的使用量翻倍。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>8 Bounded Rationality</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8. 有限理性</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Economic theory generally assumes that individuals are completely rational, and as such, make rational decisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经济理论一般都会假设个人是完全理性的，因而有能力作出理性的决策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recent books on behavioral economics, notably Dan Ariely's Predictably Irrational have brought forth evidence that people do not make rational decisions at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近期在行为经济学领域的论著，尤其丹艾瑞里的《怪诞行为学》却提出证据表明人们所作出的选择其实一点都不理性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bounded Rationality is the idea that individual decision making is limited by personal information, cognitive limitations, and time constraints. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据有限理性的观点，个人作出的决策会受到个人知识、认知局限和时间的制约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The basic idea of economics is that people act in ways to maximize their self-interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经济学的基本观点是人的行为都是为了自身利益最大化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We do things that will increase our "utility", or happiness. It seems logical that we would make rational decisions in order to accomplish that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们所做的举动是为了提高自身的“效益”，或快乐感；为实现这一目的而作出理性决策看似合情合理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, information asymmetry (described below), cognitive biases (read about them in my previous list) and other factors conspire to bound our rationality, and people often make choices that lead to outcomes that go against their desires.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而由于信息不对称理论（下文细述），认知偏见（参见作者之前的文章）以及其它因素的协同作用使我们的理性受到限制，人们所作出的抉择往往导致同期望相反的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>7 Lipstick Effect</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7. 口红效应</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Economics has many categories for "goods". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“商品”在经济学中有若干分类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Luxury Goods" are items that people buy more of as their income rises, as opposed to "Necessity Goods" like food and shelter, whose demand is unrelated to income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“奢侈品”是那些随着收入增加，其购买量也提高的商品；相对的是“必需品”如食物和居所等，这些商品的需求同收入没有关联。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Examples of luxury goods include fine jewelry, expensive sports cars and designer clothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奢侈品的例子包括珠宝首饰、豪华跑车和高级服装。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Lipstick Effect is the theory that during an economic calamity, people buy more less costly luxury goods. Instead of buying a fur coat, people will buy expensive lipstick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据口红效应的理论，在经济灾难肆虐时，人们会转而购买更多的低价奢侈品：放弃购买皮草的同时，他们会购买价格较高的口红来代替。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The idea is that people buy luxury goods even during economic hardships, they will just choose goods that have less of an impact on their funds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>观点表明即使在手头拮据时人们也不会停止购买奢侈品，只是这时所买的东西都不那么昂贵罢了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other less expensive luxury goods besides cosmetics include expensive beer and small gadgets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除化妆品外，其它价格较低的奢侈品可以是高级啤酒或电子设备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interesting Fact: After the 9/11 terrorist attacks on America, lipstick sales doubled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个有趣的事实是：在美国遭到911恐怖袭击后，口红的销量翻了一倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>6 Tragedy of the Commons</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6. 公地悲剧</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tragedy of the commons is a situation in which multiple individuals, acting independently, deplete a shared resource, even when it is not in anyone's interest to do so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公地悲剧所指的情况是，多个独立个体透过其自主行为，过度利用一种共享资源而导致其枯竭；即使这种结果不符合其中任何个体的利益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The best current example of this is fishermen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当今最好的例子是渔业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody owns the earth's fish populations, indeed, they are a shared resource. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地球上的渔业资源并非为任何人所有，因而是共享资源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fish are a good that people the world over consume, and as a result, there are multiple fisherman competing for these fish. Each fisherman will try to catch as many fish as possible in order to maximize his profits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全世界人口都在消耗鱼类这一商品，所以会有多个渔夫为捕鱼展开竞争；为了最大化自身收益，每个渔夫都会尝试捕捞尽可能多的鱼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, it is also in the fishermen's best interest to sustain the fish populations, i.e., leaving enough fish to repopulate, so that down the road, there are still fish to be caught. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而对渔夫来说，保持鱼类种群数量最符合其利益，而要做到这点就必须留下一些鱼使其繁衍生息，避免将来无鱼可捕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If each fisherman is concerned with sustainability, and they should be if they don't want to find new careers in the near future, they theoretically will work to preserve the fish populations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如每个渔夫都关注可持续利用——如果不打算很快转行，这是必须的——理论上他们就会注意维持鱼的种群数量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here is the problem: there is a lack of trust. A fisherman that acts responsibly and limits the amount he catches will be screwed if all the other fisherman do not. The other fisherman get more fish than he does, make more in profits, and will ultimately deplete the fish population anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而问题来了：人与人之间缺乏信任；在同行大肆捕捞的时候，一个渔夫若选择对自己的行为负责并限制捕捞量，他将很快出局；别的渔夫捕鱼比他多，收益比他高，最终鱼还是要被捕光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So each fisherman, believing that the others will take more than their sustainable share, will take as many fish as he can, and the world's fish supplies will deplete, even though no one wants them to.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果就是，每个渔夫都抱着这种想法，认定同行的捕捞量不仅仅限于可持续的份额为止，从而自己也开始大肆捕捞；最后全球的渔业资源从此枯竭，尽管这种结果不是任何人所希望的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>5 Tragedy of the AntiCommons</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5. 反公地悲剧</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The opposite of the above mentioned tragedy of the commons, the anticommons is a situation where too many owners (and bureaucratic red tape) discourages accomplishment of a socially desirable outcome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与上面所述的公地悲剧相反，反公地悲剧指的是众多的权利所有者（以及官僚作风）的存在，导致社会期望的积极结果难以实现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The classic example is patents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专利机制就是一个典型例子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a product requires multiple components or techniques patented by different people or companies, then it becomes difficult, time consuming and very costly to negotiate with all the owners, and the product may not be produced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当一种产品所涉及的多种部件或技术由不同的个人或企业享有专利时，同全体专利所有人进行磋商将是一个艰难、漫长而昂贵的过程；最终可能导致产品无法生产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This can be a huge loss if the product is in great demand or would have great social benefits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当该产品碰巧又有高需求，或者能够带来相当的社会效益时，这一切将造成巨大的损失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody loses in this situation, the patent holders, the would-be manufacturers and the consumers who would have bought the product. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后的结果是谁也没有从中获益：无论是专利持有人、计划制造该产品的厂商，还是有意向购买的消费者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interesting fact: A single microchip contains up to 5,000 different patents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个有趣的事实是：一片小小的微芯片中包含了多达5000项不同的专利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one can create a microchip unless every single patent holder agrees to license their patent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有在获得了所有这些专利持有人的授权后，生产微芯片才成为可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 Perverse Incentives</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4. 不当诱因</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A perverse incentive is an incentive that has an unintended and undesirable effect which is opposite to the initial interests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不当诱因指的是一种诱因导致了意外的、非希望的结果，并同预期的利益相背。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A type of unintended consequences, perverse incentives are the result of an honest good intention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为未预期后果的一种，不当诱因是诚实的善意带来的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A historical example illustrates the problem: 19th century paleontologists traveling to China used to pay peasants for each piece of dinosaur bone that they presented. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>历史上一个例子能够证明该问题的存在：19世纪古生物学家到中国时，当地农民每交给他们一片恐龙骨化石都能够得到钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was later found the peasants found bones and then smashed them into many pieces, which significantly reduced their scientific value, to get more payments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后发现这些农民每次找到恐龙骨后，会首先将其打碎成更小的碎片，从而获得更多的报酬；然而这种做法严重破坏了化石的科学价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More modern examples include paying architects and engineers based on project costs, which leads to excessively costly projects as they overspend unnecessarily to make income.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接近现代的例子包括，在根据项目开支给建筑师和工程师支付报酬时，后者会有意增加不必要的开支来加大自己的收入，最后导致项目成本过于高昂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 Information Asymmetry</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3. 信息不对称性</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information asymmetry is a prevalent issue in economics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息不对称性是经济学中的普遍问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In most sales transactions, the seller has more information than the buyer, and as such has the opportunity to try to pass off low quality or defective products for higher prices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在大部分交易行为中，卖家比买家掌握了更多的信息，因而有机会将劣质或有瑕疵的产品以超乎其价值的价格脱手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This leads to buyer distrust and the old idiom: Buyer Beware.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因而产生了买家对卖家的不信任，以及“买家自负”这句习语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adverse selection is a market process where information asymmetry causes negative results. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>逆向选择，是一种信息不对称性在其中导致了负面结果的市场过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good example is health insurance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个较好的例子是健康保险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Insurance companies depend on a mix of clients: they need a certain number of healthy individuals (low-risk) to pay premiums and not use a lot of services so that the premium prices can average out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保险公司要维持运作，必须依赖某种特定的客户搭配：他们需要一定的健康人群（低风险）来支付保险费，这类人实际很少需要补偿，由此保险费可以在客户间分摊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the people most likely to buy health insurance are people who need it because of health problems (high-risk). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，最可能购买健康保险的人群是由于有健康问题才购买（高风险）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These people are more costly to the insurance companies because they need more services than a healthy person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于保险公司来说这类客户成本更高，因为同健康人相比他们需要更多的补偿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The insurance companies do not know every new policy applicants health status (but they certainly do everything in their power to find out as much as they can), and this lack of information requires the companies to raise premiums to mitigate the risk. This increase in premiums causes the healthiest people to cancel their insurance. This leads to a further increase in premium price as the insurance companies now have a riskier group, which leads to the now healthiest people canceling their insurance, continuing the "adverse selection spiral", until the only people insured are the direly ill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保险公司无法了解每一位新申请人的健康状况（尽管他们会通过所有可能的渠道去审查），这种信息的缺乏迫使保险公司抬高保险费来降低其风险；保险费的抬高又迫使最健康的那部分保户取消投保；现在保险公司面临的整体风险更高了，保险费随之再度提升，从而剩下的保户中最健康的那部分也选择取消投保......如此周而复始，产生了“逆向选择螺旋”，最后只剩下生命垂危的一批保户坚持投保。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this point, the premiums paid will not even begin to offset the costs of the sick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种情况下保险公司收取的保费，甚至已经无法抵销生病的客户所带来的成本了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In theory, this could lead to the collapse of the health insurance industry, however, this is an unlikely scenario as their risk is diminished by things such as employer offered insurance, which includes a large set of healthy individuals who average out the risk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理论上这会导致健康保险行业的崩溃；然而这不大可能在现实中发生，因为用工企业投保等因素的存在给保险公司带来大批健康人群，通过分摊降低了风险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another information asymmetry example is the "Market for Lemons", a term coined by the economist George Akerlof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个信息不对称性的例子是“柠檬市场”，该术语由经济学家乔治阿克洛夫提出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The used car market is the classic example of quality uncertainty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二手车市是品质不确定性的一个典型例子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A defective used car ("lemon") is generally the result of untraceable actions, like the owners driving style, maintenance habits and accidents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一台有缺陷的二手车（“柠檬”），其缺陷的成因往往难以追溯，比如车主的驾驶行为、维护习惯和事故等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because the buyer does not have this information, their best assumption is that the vehicle is of average quality, and therefore will pay only an average fair price. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为买家没有这方面的信息，他们只好假定该车为平均质量，只愿意支付均价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, the owner of a car in great condition ("cherry"), will not be able to get a price high enough to make selling the cherry worthwhile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果拥有一辆状况良好的二手车（“樱桃”）的车主，将无法获得这辆好车应得的价钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>End result: the owners of good cars will not sell their vehicles in the used-car market. This reduces the quality of cars in the used-car market, this reduces the price buyers will pay, this further reduces the quality of cars sold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，拥有好车的车主将不会把车带到二手市场出售；这导致二手车市里车的质量下降，再导致买家出价的再度降低，继而又进一步降低车辆的质量......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You get the idea.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如此反复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 The Cobra Effect</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2. 眼镜蛇效应</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is when the solution to a problem actually makes the problem worse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>指的是针对某问题的解决方案，反而使该问题恶化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The term 'Cobra effect' comes from an anecdote from colonial India. The British government wanted to decrease the population of venomous cobra snakes, so they offered a reward for every dead snake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“眼镜蛇效应”一词来自殖民时期印度的逸闻：英帝国政府计划要减少眼睛毒蛇的数量，因而颁布法令说每打死一条眼镜蛇都可以领取赏金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the Indians began to breed cobras for the income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而印度人为了赏金反而开始养殖眼镜蛇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the government realized what was going on, the reward was canceled, and the breeders set the snakes free. The snakes consequently multiplied, and increased the cobra population. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当英政府意识到这种情况而取消赏金后，养殖蛇的人把蛇都放了；放出去的蛇继而大量繁殖，结果眼镜蛇种群数量反而上升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The term is now used to illustrate the origins of wrong stimulation in politics and economic policy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现今该术语用于形容政治和经济政策下错误的刺激机制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, some of the crises facing our world are the result of honest attempts to solve problems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很不幸的是当今世界面临的一些问题，的确来源于为解决问题而作出的正当尝试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 The Samaritans Dilemma</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1. 慈善的两难困境</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is the idea that giving charity reduces an individual's incentive to help themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该观点认为慈善援助会减少个体自助的动机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When given assistance, the recipient has two choices: use the aid to improve their situation, or come to rely on the aid to survive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当获得援助时，被援助者有两个选择：使用援助来消除贫困，或直接依赖援助生存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obviously, good Samaritans give assistance in the hopes of the former, that the recipient will use the aid to improve their situation. For example, when a country gives financial aid to another country who has experienced a natural disaster, we assume that the money will go to helping the victims, cleaning, rebuilding, etc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然乐施好善者作出援助时希望被援助者能够选择第一种方式，利用援助来改善自身状况；例如，当一个国家为另一个遭受自然灾害的国家提供财政援助时，会假设这些钱将被用于帮助灾民、清理受灾地区和重建等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arguers against charity often bring up this dilemma, claiming that beneficiaries of such aid lose incentive to work or become productive members of society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对慈善事业持反对观点的人会利用该两难问题，声称该援助的受益者会失去重新就业，或为社会创造价值的动机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This can be seen in action when people who want to give a dollar or two to a homeless person do not, because they are afraid the person will buy booze with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活中可以看到那些打算给无家可归者施舍一、两美元的人们放弃了念头，因为他们担心后者会用钱去买酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A "transfer of wealth" of a couple of dollars from someone who can spare the dollars to someone who will use the dollars to improve their situation is a wonderful arrangement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当几美元的“财产转移”在能够负担援助的一方同愿意使用援助改善自身状况的一方之间发生时，这是最理想的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, if the recipient of the dollars is not going to use the money for a noble purpose, and instead is going to buy illicit drugs with them, it is a less desirable arrangement, and most charitable people would decline to give the dollars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而当接受援助的一方不把钱用于正当理由，而是用于购买违禁药物时，情况就不怎么理想了；这时大部分行善者都会拒绝提供援助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's the problem: it is hard to know how the person you are giving the dollars to will use the funds, so people might instead opt to not give to any homeless people. Now the individuals who would have used the money to improve their situations suffer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题在于，要知道被援助者具体将如何使用这些钱是很难的，因而人们很可能选择完全放弃援助无家可归的人；这时候，那些会使用援助去改善自身状况的人就遭受了损失。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

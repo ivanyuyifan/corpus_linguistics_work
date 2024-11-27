@@ -1,0 +1,89 @@
+Floating Facebook
+The value of friendship 
+Facebook is likely to become a gargantuan company.That will bring risks as well as rewards. 
+MARK ZUCKERBERG, Facebook¡¯s founder and chief executive, has talked for years about the notion of a ¡°social graph¡± which connects people to their friends and all of the things they are interested in.
+By encouraging hundreds of millions of people to share their deeds and reveal their innermost thoughts, profane or profound, online, his company has in effect mapped a portion of this graph on its computers.
+According to the Onion, a satirical publication, the whole thing was the CIA¡¯s idea; digging up this amount of information the old-fashioned way would have cost the spooks a fortune.
+These billions of electronic nodes and links will soon make a fortune for Mr Zuckerberg, still only 27, who owns 28.4% of Facebook and will continue to control most of the voting rights.
+It will also enrich other shareholders, many of them employees.
+On February 1st the company announced plans for an initial public offering (IPO) that will raise $5 billion, maybe more, in the largest flotation ever of an internet company.
+Not since Google¡¯s IPO in 2004¡ªthe year that Facebook was founded¡ªhave techies and venture capitalists been so aflutter.
+Facebook¡¯s flotation, which is likely to take place in the spring, will create a publicly quoted tech giant that will stand alongside American technology titans such as Amazon, Apple and Google itself.
+The document Facebook filed with the Securities and Exchange Commission (SEC) revealed details of its finances for the first time (see chart 1).
+Last year the company had sales of $3.7 billion, a little below recent estimates, and made a net profit of $1 billion.
+The network boasts 845m users, which, were Facebook a country, would make it the world¡¯s third most populous, behind China and India.
+Some of the other statistics associated with it are also mind-boggling.
+One out of every seven minutes spent online is on Facebook, according to comScore, a research firm.
+Facebook¡¯s stunning progress has earned the company estimated valuations of between $75 billion and $100 billion.
+Private trading in its shares on secondary markets has implied a value of more than $80 billion.
+That would be more than 20 times last year¡¯s revenues¡ªand more than 80 times last year¡¯s net income.
+These are eye-wateringly high multiples.
+The case for thinking such a valuation is justified rests in part on a couple of broad technological trends that show no signs of going into reverse.
+The first is the rapid spread of internet connectivity, which is making Facebook accessible to ever more people.(The Boston Consulting Group reckons that around 3 billion people will be online by 2016, up from 1.6 billion in 2010.)
+The second is the rise of the mobile phone.
+Already more than 425m people are tapping into Facebook on these devices and in future most of the social network¡¯s growth will come from the mobile web.
+Together, these trends could propel the number of users beyond 1 billion.
+Admittedly, other social networks will be helped by this too.
+But Facebook stands to benefit the most because Mr Zuckerberg and his colleagues have cleverly positioned the site as a ¡°social utility¡±, as he once put it, which lets people do all kinds of things, from passing on newspaper articles to playing games or posting photos of themselves, their friends or their pets.
+They can do more and more, because Facebook has enticed outside developers to create software ¡°apps¡± that run on its platform and has itself constantly improved the platform.
+The site is just beginning to roll out its latest innovation, Timeline, which encourages Facebookers to build an online chronicle of their entire lives.
+All this explains why people are now spending far more time on Facebook than on rival web services such as Google (see chart 2) and why it has benefited from strong network effects.
+It is spreading fast across emerging markets such as India and Brazil, where it recently dethroned Google¡¯s Orkut as the leading social network (see map).
+One reason why Facebook was able to topple Orkut is that people began to join it in droves to keep in touch with friends abroad who were already on the network.
+In Russia it is tussling with local rivals such as VKontakte.
+Some countries have tried to block it; China is the biggest one.
+The fact that China is off-limits to Facebook leaves a huge hole in its social graph. It also leaves the world¡¯s largest population in the hands of Chinese social networks such as Renren and Tencent, which owns Qzone.
+And Mr Zuckerberg has even taken Mandarin lessons as one of the personal challenges he likes to set himself (another was to eat only animals he had killed with his own hands).
+But for now, the country remains tantalisingly out of reach.
+If it can crack China in future, Facebook will become an even more attractive destination for advertisers.
+Last year the social network surged past Yahoo! to become the biggest force in America¡¯s online display-advertising market (see chart 3).
+Some 85% of its revenue came from ads and there are grounds to think it can mint far bigger sums of money from advertising in future.
+What friends are for 
+For a start, the network is working overtime to harvest even more data from Facebookers which it can use to aim ads at them.
+Last September, it unveiled a new set of social apps (including a forthcoming one from The Economist) that allow people to do things like watch films, listen to music and read news on Facebook rather than going elsewhere on the web to do so.
+These are all part of its ambitious plan to map all of the connections between people and the things that interest them.
+Facebook could also make more money by creating an advertising network that takes advantage of the already extensive reach of its tentacles across the internet.
+Millions of websites are integrated with it through various software it has developed, including ¡°social plug-ins¡± that allow people to share their activities and interests elsewhere on the web (a song they are listening to, say, or a newspaper article they have read) with their Facebook friends.
+This has made it an important source of traffic to other websites and it could offer to help them sell ads, pocketing a percentage of the money raised.
+Some analysts think this could bring in as much revenue as ad sales on Facebook¡¯s own site.
+There is also a strong possibility that the company will attack the online-search business, which accounts for almost half of online ad revenue in America, according to the Interactive Advertising Bureau, an industry body.
+After all, the social network already knows a lot about how people¡¯s recommendations affect their friends¡¯ choices.
+¡°Some form of social-discovery feature on Facebook is inevitable,¡± says Joe Green, the boss of Causes.com, a web business that promotes activism and philanthropy.
+Google, which dominates search-related advertising, clearly agrees: last month it began incorporating data from Google+, its own, much smaller social network, into its search results.
+As more people use Facebook from mobile phones, the company will also be able to sell ads that appear on these devices.
+The difficult bit will be to find formats that are not too intrusive on a small screen.
+Facebook could well end up using ¡°sponsored stories¡±, which allow, for instance, a music publisher to pay for a link to its website to be embedded in posts that mention its artists.
+Hussein Fazal, the chief executive of AdParlor, which manages Facebook advertising campaigns for companies, believes the social network¡¯s ad revenues could one day surpass those of Google, which is estimated to have made $40 billion from advertising last year.
+¡°Social advertising is a massive movement,¡± he says.
+It probably is, but movements can take many years to come to fruition.
+And it will be harder to build an advertising business based on a social network than one based on search, like Google¡¯s.
+Google¡¯s ads are effective because they are presented when people are looking for something specific.
+Facebook¡¯s may be less effective, because people go to the site when they want to socialise, not search for stuff or buy things.
+That is why Google¡¯s search ads command higher rates than Facebook¡¯s display ads. And the effectiveness of Facebook advertising is trickier to measure.
+Moreover, although some brands, such as Starbucks, have managed to draw huge, engaged audiences on Facebook, others have had a frustrating experience.
+To some extent, they should blame themselves: a study by Socialbakers, which gathers social-media statistics, found that 95% of posts to brands¡¯ pages on Facebook went unanswered.
+The chances are that Mr Zuckerberg will use at least some of the money the firm raises from its IPO to buy ad-measurement firms and social-media consulting outfits to help its corporate customers get more out of the network.
+At the same time, Facebook will pour more resources into areas other than advertising.
+A promising one is a nascent online-payments service based on Facebook Credits, a virtual currency.
+The social network insists that gamesmakers use Credits within their apps that run on Facebook and pockets 30% of the proceeds from sales of digital and virtual goods.
+So far a single firm, Zynga, a social-gaming company that staged its own IPO in December, accounts for most of this income¡ªand for 12% of Facebook¡¯s total revenue.
+Mr Zuckerberg hopes that other firms will use Facebook¡¯s platform to disrupt industries from travel to health care in the same way that Zynga has shaken up the world of electronic games.
+That would allow Facebook to make even more money from the blossoming transactions on its platform.
+Payments and other fees brought in $557m last year, up from $106m in 2010.
+There could be a much bigger prize, especially if Facebook can turn Credits into a currency that is accepted elsewhere on the web¡ªand perhaps even off it.
+The network could try to strike deals to let its currency be used on other sites that are already integrated with it.
+It could even seek to compete with online-payments giants such as PayPal, an arm of eBay.
+Coping with the thicket of rules in this area would be a nightmare, but the rewards could be huge: last year PayPal¡¯s revenues amounted to $4.4 billion.
+Facebook¡¯s currency may also come in handy if the company makes a serious effort in social commerce, the buying of goods and services through social-networking sites.
+A number of firms, such as Procter Gamble, an American consumer-goods company, have set up virtual shops on Facebook and it is still too early to tell whether ¡°s-commerce¡± will catch on.
+But some observers think that the influence of friends on people¡¯s buying habits mean it will be huge.
+Booz Company, a consulting firm, has estimated that the value of goods sold through social media will rise from $5 billion in 2011 to $30 billion by 2015.
+My empty space 
+Even its rivals admit that Facebook has the potential to be one of the most valuable companies on the planet.
+Much will depend on its management.
+In 2008 Mr Zuckerberg cleverly poached Sheryl Sandberg from Google to be Facebook¡¯s chief operating officer.
+The only other ¡°critical person¡± named in the offer document this week, Ms Sandberg has become almost as well known as the founder.
+Hanging on to her may be difficult (some people wonder whether she could be lured into politics).
+Many of Facebook¡¯s employees will soon be enormously rich.
+The transition from edgy start-up to established giant will not be easy.
+One is that people stop using Facebook, either because they lose interest or because they are put off by its behaviour.

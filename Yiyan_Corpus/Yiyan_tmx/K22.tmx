@@ -1,0 +1,1001 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T045558Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cellmate</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>狱友</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rays of the sun glistened through the mist as it rose between the mountains, covering the landscape with a wet cloak. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳在山间升起时阳光透过薄雾闪耀着光芒，给地上的景色披上一件湿漉漉的外衣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Squinting his eyes against the shimmering light, Andy Sturgil stood in awe of the morning's beauty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪·斯特吉尔（Andy Sturgil）半眯着眼睛迎向闪烁的日光，惊叹着早晨的美景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dew made everything on the ground sparkle, and reaffirmed his belief that this was truly God's country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>露水使地上的一切都闪闪发光，使他再次确信这真是天府之乡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You could keep Chicago, New York; all of those big cities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们可以有芝加哥、纽约，所有那些大城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whitesburg would do just fine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怀茨堡也不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whitesburg Kentucky was not a bustling metropolis in 1925, but to the people, like Andy, who lived in the region, it was the center of trade, law and information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肯塔基州的怀茨堡在1925年时还不是一个热闹的大城市，但对于住在这一地区的人民，比如安迪，来说，它是贸易、法律和信息的中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mountain people made infrequent trips down the slopes and out of the hollows to supplement their meager lives with the essentials; coffee, sugar, flour, and sweet wheat middling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>山里人偶尔走下山坡、走出山谷去采买生活必需品来补充他们贫瘠的生活：咖啡、糖、面粉和甜麦粗面粉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wheat middling was the chosen grain for feeding milk cows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小麦粗面粉是喂奶牛的上乘口粮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Middling without salt was the main ingredient for White Lightning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没加盐的粗面粉是自制威士忌的主要原料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a man could make good liquor, and Andy did, he would also make an excellent profit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果一个人能酿出好酒，安迪就能，他就可以赚到可观的利润。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One jug of the precious brew had sold for forty dollars at the end of the war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一壶珍贵的酿酒在战争结束时卖到了四十美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A man just might get fifty these days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现今一个男人只能挣五十。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this particular Indian summer day, Andy journeyed toward the town and made a mental note of what he would trade for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个特别的秋末冬初的小阳春天里，安迪向镇上走去，心里盘算着他要做什么交易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was in need of an ample supply of sugar and sweet wheat middling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他需要大量的糖和甜麦粗面粉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The still was ready for use after the new copper tubing was put on, and he was eager to churn out the best supply of White Lightning in years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酒厂在新的铜管装上后准备好使用了，他也迫不及待地要大量生产几年里最好的自制威士忌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy knew that he had to find a new location for his still because Sheriff Turner was on a rampage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪知道他必须为他的酒厂找一个新地点，因为治安官特纳（Turner）已经暴跳如雷了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The law had already destroyed four of his neighbors' secret enterprises, and Andy knew that he had to be shrewd in choosing his new spot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>警察已经摧毁了四家他邻居的秘密工厂，安迪知道在选择他的新场所时必须要机警。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had finally decided on settling the still on a dry ridge, away from any of the mountain streams, and pipe the water to where it was needed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最终决定将酒厂安置在一条干燥的山脊上，远离山上的任一河流，用管道将水输送到需要的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This would take more time, but the sheriff and his men knew to look for stills along the waterways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这将花费更多的时间，但是治安官和他的手下知道沿着水路寻找酒厂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the arrival of winter, the snow and ice would help to cover the pipeline.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着冬天的到来，冰雪将有助于掩盖管道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few meager jars of last year's supply were nestled in a knapsack slung across his shoulders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几小壶去年的产品安稳地放在挎在他肩上的背包里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Old Man Tribbit had told Andy to bring him a few jars before winter set in. He would pay the going price. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老汉特利比特（Tribbit）告诉安迪在入冬前给他带几壶来。他会按现价付钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would help in fighting the sickness that always came in the cold weather months.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酒会帮忙抵御总是在天气寒冷的几个月里到来的疾病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even Doc Handy was known to prescribe toddies made with Andy's brew for the croup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都知道连汉迪（Handy）医生都用由安迪的酿酒制作的棕榈酒来治疗哮喘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So great was his reputation that Sheriff Turner made it his primary goal to lock the brewer king up every chance that he could.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的名头太大了，使得抓住每一个机会将这个酿酒王锁起来成了特纳治安官的首要目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy's thoughts touched on Turner as he made his way down the serpentine path. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪沿着蜿蜒的小路向下走时想到了特纳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bottom of his trousers swayed heavily with his strides as they collected the dew from the dense grass and brush. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的裤脚随着他的步幅沉重地摇摆，因为它们从茂密的草丛和灌木上沾到露水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy knew that the region's stills were a source of irritation for the sheriff. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪知道这个地区的酒厂是治安官愤怒的一个源头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Turner's eye, the mountain people had been living by their own code for too long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在特纳的眼中，山里人按照自己的法规生活了太长的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the appointed law officer in the region, he was determined to make them respect his authority.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为这一地区被任命的治安官，他下定决心要让他们尊重他的权威。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, in recent weeks the war that was being waged on moonshiners, had taken a backseat to a special case, which had monopolized the bulk of Sheriff Turner's time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，最近几个星期针对私自酿酒的战斗由于一件特殊的案子而退居到次要地位了，这个案子独占了特纳治安官大量的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lloyd Frazier had been found guilty of murdering a woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳埃德·弗雷泽（Lloyd Frazier）谋杀了一个女人而获罪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most people knew the kind of person Lloyd had been, quiet and kind of shy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数人都知道劳埃德是个什么样的人，他安静、有点害羞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody really understood how he had been capable of such a crime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人能真正理解他怎么能够犯下这样的罪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They did, however, know that Lloyd's mother had been jealous of the victim; they had been seeing the same man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，他们确实知道劳埃德的母亲嫉妒那个受害者，她们在与同一个男人约会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Annie Frazier had given Lloyd a saddle horse in return for the promise of getting rid of her rival.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安妮·弗雷泽给了劳埃德一匹骑马，作为他许诺除掉她的竞争对手的报答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been difficult to find an executioner to carry out the sentence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要找到一个行刑人来执行这个判决是很困难的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Men had resigned rather than be responsible for taking the life of the young man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>士兵们宁愿辞职也不愿负责取走这个年轻人的性命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>News of a hanging had spread quickly throughout the region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于绞刑的消息很快就传遍了这个地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whitesburg had never had a public execution and the subject was on everyone's lips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怀茨堡从未有过公开处决，这个话题大家都在谈论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy was vaguely aware of the facts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪模模糊糊地也知道这些事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew little of the family, although he had known Annie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对这个家庭知之甚少，尽管他认识安妮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had attended the same small one-room schoolhouse as children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们小时候上过同一个只有一间教室的小学校。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had glimpsed the boy now and then through the years in town with Annie's father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年来他偶尔在镇上见过这个男孩和安妮的父亲在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man had loved the boy as his own, and unlike the rest of the family, overlooked Lloyd's illegitimacy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老人将男孩当作新骨肉一样疼爱，不像家里的其他人，他不理会劳埃德是私生子的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had also fostered the boy's love of horses, and had promised to get Lloyd the finest mount possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还培养了男孩对马的热爱，曾许诺要给劳埃德最好的骑马。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The promise had turned into a dream following the old man's death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着老人的去世，诺言变成了梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dejected, the boy looked to his mother for any kind of affection as he continued to withdraw from the rest of the world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沮丧之际，男孩在继续远离外界时向他母亲寻求某种慈爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy's mind closed on the subject as he approached Old Man Tribbit's door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在接近老汉特利比特的大门时安迪不再考虑这件事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had been looking forward to some hot coffee and happy conversation when he arrived, but the sight of the old man's face let him know that this would not happen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他原先期盼着到达时喝些热咖啡，开开心心地聊一聊，但看到老汗的脸，他知道这不可能了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tribbit had known the boy since childhood and knew of his devotion to his mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特利比特从男孩小时候起就认识他，了解他对他母亲的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was also aware of his love of horses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也清楚他对马的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the old man led Andy inside he asked, "Well, did you know that young Lloyd dies tomorrow?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老汉领着安迪向里走时问：“噢，你知道小劳埃德明天就要死了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a shake of his head, the old man continued, "He always did do what that no-account bitch of a woman wanted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老汉摇摇头继续说：“一直以来那个没用的臭婊子想要他做什么他就做什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew how to get to him too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她也知道怎么去抓牢他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew he wanted that chestnut mare something fierce. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她知道他想要那匹栗色的母马想得要命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lied to him, she did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对他说谎，她就这么干了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Told him that the woman had threatened her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对他说那个女人威胁了她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Said how afraid she was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说她多么害怕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lord knows that boy wouldn't have hurt anyone on his own."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天知道那个男孩不会主动伤害任何人的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After settling business, Andy said good-bye to the old man, and as he closed the door behind him, he thought of Annie Frazier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交易完成后，安迪和老人道别，当他关上身后的门时，他想起了安妮·弗雷泽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had never been a virtuous woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从来都不是一个检点的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was no surprise to anyone when she turned up pregnant with Lloyd at sixteen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她十六岁怀上劳埃德时，没有人觉得奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, she had been responsible for the boy and cared for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然如此，她对这个男孩还是负责的，照料他的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Annie had never married, and was still a fine looking woman at the age of thirty-six. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安妮没结过婚，三十六岁了仍然是个漂亮的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy knew that she had been seeing a railroad man, but didn't think much of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪知道她在和一个铁路工人约会，但对此没有多想过什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Annie always had a man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安妮总是有一个男人的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy's thoughts were suddenly interrupted by a sharp sounding voice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪的思绪突然被尖锐的声音打断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stop right where you are Andy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“站着别动，安迪。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned to see the sheriff and two of his deputies standing close behind him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他转过身看到治安官和他的两个副手紧紧地站在他身后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm taking you in for questioning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我要带你进去问话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We've uncovered a stash of bootleg liquor and I think you know something about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们发现了一个藏私酒的地方，我想这个事你知道些什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy grinned at the men, knowing that Turner had no such evidence, but decided that it was best to cooperate in order to cover his tracks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪对警察裂开嘴笑笑，知道特纳没有这样的证据，但是决定为了掩饰他的行径最好还是合作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whatever you say John." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“随你怎么说，约翰。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Andy was escorted into the jail, another deputy motioned for Turner, and the two whispered softly, looking once in his direction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪被送进监狱时，另一个副手向特纳打手势，两个人小声说话，向他的方向看了一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Andy," Turner said, "We only have one more cot left and the cell is occupied by the Frazier boy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“安迪，”特纳说，“我们只剩下一张帆布床了，而且那间牢房被那个弗雷泽男孩占了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't have to stay there, I mean, we could make other arrangements." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不必待在那里，我的意思是，我们可以做其他安排。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The thought of spending the night handcuffed to Turner's desk didn't appeal to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他可不想铐在特纳的桌子上过一夜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>John Turner had an irritating habit of rolling a toothpick back and forth in his mouth, and the vision of being forced to witness the smacking sounds in between lectures on law enforcement hastened his answer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约翰·特纳有一个在嘴里前后转动一根牙签的令人讨厌的习惯，想到要被迫见证在执法演讲的间隙里啪啪的声音促使他急忙回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't mind bunking with Frazier." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不在意和弗雷泽同住。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the key turned the lock, a slight movement caught Andy's attention and he found himself staring into a pair of dark eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>钥匙转动锁的时候，一个轻微的动作吸引了安迪的注意，他发现自己正在盯着一双黑色的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surprisingly, nothing was said and Andy nodded his head as he sat on the cot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪吃了一惊，什么也没说，在床上坐下时他点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boy looked at him for a moment and then turned away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个男孩看了他一会儿，然后转过了头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feeling uneasy, Andy lowered himself down on the cot and attempted to find sleep.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪觉得不自在，在床上躺下，试图睡觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sound of a horse whinnying broke the silence of the cell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一声马的嘶叫打破了牢房的沉寂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lloyd rose from the cot and moved to the window, staring at the sight below. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳埃德从床上站起来，走到窗边，凝视着下面的景象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His chestnut mare was enclosed in a small area behind the town's blacksmith barn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的栗色母马被圈在镇上铁匠的谷仓后面的一小块空地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beyond, were the gallows, but Lloyd's eyes were fixed on the mare.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>远处，是绞刑架，但是劳埃德的目光注视在母马身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She needs to be brushed and one shoe is loose." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它需要刷毛了，一只马掌松了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy opened his eyes at the soft whisper. "I'm sure they'll take care of her." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听到这轻柔的低语，安迪睁开了眼睛：“我确信他们会照料它的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lloyd continued as if he had not heard the remark. "She also likes a little taste of sugar now and then." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳埃德好像没听到这句话继续说道：“它时不时地还喜欢吃点糖。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boy continued to stand by the window, and Andy finally drifted off to sleep.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男孩继续站在窗边，安迪最后渐渐地睡着了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The night grew chilly and the single blanket on the cots did a poor job in keeping out the cold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上天变得很冷，床上的一条毯子在抵御寒冷方面效果很差。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a while, a slight stirring from the other side of the cell awakened Andy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，牢房另一边一阵轻微的移动使安迪醒了过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he felt Lloyd's presence hovering over him, fear crept into his brain and he found that he could not move. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他感觉到劳埃德俯身在他上方时，他的头脑中渐渐闪现出恐惧，他发现自己动弹不得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lloyd placed his own blanket over Andy and carefully spread it evenly over his shivering body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳埃德把自己的毯子盖在安迪身上，在他发抖的身体上小心地铺平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ashamed and embarrassed by his fears, Andy pretended to be asleep while his cellmate stood by the window and watched below.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪对自己的恐惧感到羞愧和不好意思，在他的狱友站在窗边向下看时假装熟睡。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lloyd was removed from the cell early in the morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳埃德早上一大早就被移送出了牢房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andy had awakened to find that he was alone, and went to the window. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安迪醒来发现他一个人，他走到窗边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The crowd seemed to fill the entire town and the sound of hymns rose into the air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人群好像填满了整个城镇，赞美诗的声音响彻云霄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He saw the boy climb the steps but could not bring himself to watch the execution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看到那个男孩爬上台阶，但他却不敢看执行死刑的过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Down below, the mare paced the small enclosure and snorted nervously.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面，那匹母马在小小的围栏里踱步，不安地喷着鼻息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At midday, Andy was set free. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正午时分，安迪被释放了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew he would be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道自己会被释放的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sheriff Turner warned Andy to watch his back because he would always be there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特纳治安官警告安迪要小心，因为他会一直盯着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he approached the door he turned and asked, "What about the mare?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他走近门口时，他转身问道：“那匹母马怎么办？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What about her?" Turner was busy shuffling papers and didn't bother to look up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它怎么了？”特纳正忙着收拾文件，都懒得抬头看。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I mean, who'll take care of her now? You think Annie will....</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的意思是，现在谁来照料它？你认为安妮会......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Look, I don't have time to worry about a damn horse - least of all that horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听着，我没有时间去操心一匹该死的马——尤其是那匹马。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tanner will probably sell her for as much as he can get to make up for her room and board, even if it means the glue factory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坦纳可能会把它卖掉，能卖多少就卖多少，来补偿为它提供的食宿，即使那意味着卖到制胶厂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody in Frazier's family came to claim his body, let alone his property. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗雷泽家里没有人来认领他的尸体，更别说他的物品了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's up to the blacksmith."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这事儿由铁匠决定。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of the day, the sun slanted at the edge of the sky, casting shadows of everything it touched. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这一天结束时，太阳斜挂在天边，给它照到的一切都投下了阴影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the road, which led out of town and forked into the numerous hollows and farms, Andy Sturgil made his way back to his home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在路上，这条路出了城镇分成叉路通向无数山谷和农田，安迪·斯特吉尔走在回家的路上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had purchased supplies; coffee, flour, sugar, and a few sacks of sweet wheat middling, without salt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他购买了补给品：咖啡、面粉、糖和几袋甜麦粗面粉，没有加盐的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He dug into the side pocket of his coat and filled his palm with sugar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他伸手到外套侧袋里，抓了一把糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There would not be enough for a huge supply of moonshine that winter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个冬天不够大量供应私酿酒了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stopped and held his open hand beneath the mare's lips.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他停下来，张开手伸到那匹母马的嘴下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, she was a beautiful horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，它是一匹漂亮的马。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would fix the loose shoe, brush her, and give her a taste of sugar now and then.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将修理那个松掉的马掌，给它刷毛，时不时地给它吃点儿糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the two figures made their way down the road, the sun set slowly behind the mountains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个身影沿着路行走时，太阳慢慢地落到山后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The night air grew chilly, but Andy wasn't cold.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜晚的天变得寒冷，但安迪不冷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll take care of her, Boy," he whispered softly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会照顾它的，孩子。”他轻轻地说。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

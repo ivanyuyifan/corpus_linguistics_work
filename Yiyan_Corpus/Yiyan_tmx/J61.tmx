@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Academic disciplines periodically undergo reorientation as core themes shift to re-direct research and focus attention on new questions or reexamine traditional problems from new perspectives. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学术研究的核心是关注新的研究问题，从新角度再审视传统议题，因此，各个学科会阶段性地经历定位调整。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the humanities and social sciences, a recent line of inquiry has focused on space, prompting scholars of society and culture to talk about a spatial turn within their disciplines. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在人文和社科领域，学术前沿的视角是“空间”，因而，社会和文化学者开始探讨各自学科的“空间转向”（spatial turn）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even a cursory review of literature reveals the influence of this new direction. Subject matter, once organized largely as periods and eras, increasingly is ordered under spatial themes, such as region, diaspora, contact zones, and borders or boundaries, among others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大量文献显示:空间研究视角对学科转型影响很大，在此之前，研究主题通常被划分为时期或时代，而今，原来研究的议题越来越多地按空间分类，比如地区、散居地、关联区、边界区或界限区等等；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This shift has been accompanied by and reinforced through an equivalent concern with material culture, built and natural environment, and other markers of space and place.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样，物质文化、人造/自然环境及类似的地方/空间标记研究也关注空间。可以说，这些领域的研究带来了或加速了各个学科研究的“空间转向”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is not the first time that attention to space and time has reshaped the way we approach social and cultural questions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究者从时空的角度探索社会和文化问题，在历史上并不是第一次。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A similar turn occurred from 1880 to 1920 when a series of sweeping technological changes created new ways of thinking about time and space. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>早在1880至1920年间，一系列技术革命深刻影响人们的生活方式，也创造了新的思考时间和空间的思维。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Distance-collapsing innovations - the telephone, wireless telegraph, radio, cinema, automobiles, and airplanes, among others -challenged traditional understandings of how time and space intersected with the social world. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间距离骤然缩短，电话、无线电报、广播、电影、汽车、飞机等等挑战了传统意义下对社会时间和空间的认识。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It suddenly was possible to know events as they occurred, and this experience of simultaneity refashioned people’s sense of distance and direction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们突然意识到时空交错的可能性，因为大家可以体验到它的存在，共时性的感受让人们对距离和方向有了新的理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It also meant that individuals were no longer cut off from the flow of time; widely available film and photographic images made the past as accessible as the present, while new developments in science and the world fairs that showcased them made the future seem more definite and real. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这也意味着人们不再受到时间的阻隔，电影和照片使过去像现在一样触手可及，而科技成果及世界博览会向我们展示了更确切和真实的未来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>New scientific theories, business practices, and cultural forms reinforced the shift: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新科学理论、商业贸易和文化实践都促进了这个转变:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Einstein’s theory of relativity and Freud’s conception of psychoanalysis shaped consciousness directly; </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>爱因斯坦的相对论和弗洛伊德的精神分析法直接塑造了这样的时空意识；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>time-management studies, such as Taylorism, dominated manufacturing; </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>时间管理学（如泰勒主义）推动了制造业的发展；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>and James Joyce and Marcel Proust explored how to link time and space in novels, while the Cubists challenged notions of spatial perspective and form that had long dominated art.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在小说中，詹姆斯·乔伊斯（James Joyce）和马塞尔·普鲁斯特（Marcel Proust）探索了如何把时间和空间串联起来，而立体派艺术家则挑战了空间视角下的各种概念，这些理念一度长期主导人们对立体艺术的认识。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A continuous thread links the first spatial turn with the one we have experienced more recently, but it is likely that this second turn will have a more profound influence on the theory and practice of history and the humanities. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一次人文社科研究转向着重探讨时空观，同样，我们现在经历的“空间转向”研究依旧如此，但是，第二次“空间转向”将会对历史和人文学科的理论和实践有更深远的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The early twentieth-century conceptions of space and time had less effect on the study of the past than it did on art and literature. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>20世纪早期，时空概念对“过去”（thepast）的研究影响甚小，但对艺术和文学的作用很大。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Frederick Jackson Turner’s frontier thesis and its emphasis on the development of the American West and the history it spawned were exceptions, as was the decade-long work of the Annales movement; both schools reflected an intentional focus on questions of space and time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>弗雷得里克·杰克逊·特纳（Frederick Jackson Turner）的“边疆假说”（Frontier Thesis）突出了美国西部的发展史，该研究与年鉴学派（The Annales School）探究年鉴一样长达十年，两个学派都特意强调了时间和空间的重要性，他们的探讨引发了独树一帜的历史观。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the cataclysms of the mid-twentieth century, from world wars and revolutions to mass movements for equality, ultimately spurred historians to search for the roots of momentous events in ideas and politics and technological or social change, causes for which spatial markers were less pronounced. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，到了20世纪中叶，人类历史大灾难频发，世界大战与改革、平等运动等导致思想、技术、政治、社会的变革，最终促使历史学家开始探寻这些重大事件发生的根源，但很少有人将空间标记（spatial marker）作为原因提上议程。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The considerations for space did not disappear, but they became marked by particularity, an emphasis on place, as scholars began to discern how the story of change differed from one location to another. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使如此，人们并未停止思考空间概念，而是将空间具体化，强调场所的特殊性，学者们开始认识到场所不同，故事的发展也不同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The focus on place reflected and reinforced a postmodernist unease with the grand narrative, which created a literature that increasingly became fragmented, with analyses existing at different geographical and temporal scales and few efforts made to link them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学术界对“地方/场所”（place）的重视却反映并加强了后现代主义学者对“宏大叙事”（grand narrative）的不安，他们解构宏大叙事而写出一系列“碎片化”的历史叙述论文，这些文章分析不同地理和时间层面上的过去，不求两者有任何联系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For many humanists, space itself became less geographical and more metaphorical, as scholars found richer meaning in conceptual space - for instance, gendered space, racialized space, or the body as space - than in categories related to the physical environment, the traditional frame of definition for spatial terms.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对很多人文学者而言，空间概念本身的地理信息就少，所以，他们在空间中可挖掘更多的意义，因此空间的隐喻性更强，比如性别空间、种族空间、作为空间的身体，这些归类不在物质地理环境的分类之下，传统框架下的空间概念强调的是场所。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Today, historians and other humanists are acutely aware of the social and political construction of space and its particular expression as place. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如今，历史学家和其他人文学者深刻意识到了社会和政治化的空间建构及其作为场所的具体表现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Spaces are not simply the setting for historical action but are a significant product and determinant of change. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间不仅仅是历史行为发生的背景，更在历史变化中充当极为重要的结果和决定性因素。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They are not passive settings but the medium for the development of culture: “space is not an empty dimension along which social groupings become structured,” sociologist Anthony Giddens notes, “but has to be considered in terms of its involvement in the constitution of systems of interaction” (Giddens 1984, 364). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它们不是历史背景，一成不变，而是一种媒介，促进文化发展。社会学家安东尼·吉登斯（Anthony Giddens）曾说:“‘空间’不是界定社会群体构成的空洞维度，我们需要思考的是‘空间’如何参与互动系统中的群体构架。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All spaces contain embedded stories based on what has happened there. These stories are both individual and collective, and each of them links geography (space) and history (time). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有空间包含了在其内发生的故事，这些故事可以是个人的或集体的，且每个故事都与地理（空间）和历史（时间）有联系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More important, they all reflect the values and cultural codes present in the various political and social arrangements that provide structure to society. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更重要的是，它们反映了社会价值观和文化代码，它们操纵社会政治的形成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this sense, then, the meaning of space, especially as place or landscape, is always being constructed through the various contests that occur over power. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如此一来，特别是作为场所或景观的空间，总是通过各种权力（power）之外的竞争而建构起来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is nothing new in this development - the earliest maps reveal the power arrangements of past societies - but humanities scholarship increasingly reflects what may in fact, by the greatest legacy of postmodernism, the acknowledgment that our understanding of the world itself is socially constructed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今日的空间观与以往一样———最早的地图就显示了过去社会的权力分配，但是，人文学界的文章越来越多地反映了这样的事实，后现代主义最伟大的遗产是我们承认对世界本身的理解就是由社会构建的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At its core, the spatial turn rejects the universal truths, grand narratives, and structural explanations that dominated the social sciences and the humanities during much of last century. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>20世纪，传统研究追求普遍真理、宏大叙事和结构性的解释，如今，“空间转向”的关键在于改变这种统领人文社科的研究思路。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Above all, it is about the particular and the local, without any supposition that one form of culture is better than another. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，空间研究是关于特殊性和地方性，它没有“一种形式的文化比另一种更好”的预设。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Its claim is straightforward: To understand human society and culture, we must understand how it developed in certain circumstances and in certain times and at certain places. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它声称，为了了解人类社会和文化，我们必须知道它是如何在特定条件、特定时间和特定地点发展的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From this knowledge, we can appreciate that the world is not flat but incredibly complicated and diverse. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样看来，世界不是天圆地方的，而是十分复杂和多样的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This view no longer seems new because humanists have embraced it eagerly; now we all recognize the particularity of space, the importance of place. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在，这一观点并不前沿，因为人文主义者早已欣然认同空间的特殊性和场所的重要性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But for all the uses we make of this insight—and for all its explanatory power—the concepts of space and place employed by historians frequently are metaphorical and not geographical. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此看法睿智且极具说服力，人文学者常用的是空间和场所的隐喻意义，而不是其地理意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Far less often have we grappled with how the physical world has shaped us or how in turn we have shaped perceptions of our material environment.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在此意义上，我们很少去思考物质世界如何塑造了我们或我们是如何形成对物质环境的看法的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>New spatial technologies, especially geographic information systems (GIS), are now facilitating a (re)discovery of geographical space in history and the other humanities. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新空间技术，特别是地理信息系统（Geographical Information System，GIS），正促成了历史和其他人文学科对地理空间的重新发现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At its core, GIS is a powerful software that uses location to integrate and visualize information. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本质上，GIS是一个功能强大的软件，可利用定位将信息整合及视觉化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Within a GIS, users can discover relationships that make a complex world more immediately understandable by visually detecting spatial patterns that remain hidden in texts and tables. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们的世界极其复杂多变，传统文本及表格往往难以表征其背后的空间关系，然而，GIS用户可通过直接易懂的视觉化方法来梳理空间模式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Maps have served this function for a long time, but GIS brings impressive computing power to this task. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>长期以来，地图具有空间表征的功能，但是，它无法与GIS惊人的计算效率媲美。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Its core strength is its ability to integrate, analyze, and make visual a vast array of data from different formats, all by virtue of their shared geography. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关键的是，不同格式的数据来自同一地点，GIS可将这些海量信息整合、分析及可视化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This capability has attracted considerable interest from historians, archaeologists, linguists, students of material culture, and others who are interested in place, dense coil of memory, artifact, and experience that exists in a particular space, as well as in the coincidence and movements of people, goods, and ideas that have occurred across time in spaces large and small. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>GIS这种强大的功能引起了研究者的巨大兴趣，历史学家、考古学家、语言学家、物质文化专业的学生等等都关心空间中的场所、记忆循环、人工制品及个人体验；他们感兴趣的是，无论是小范围还是大范围内，人、物、思想都在时空中偶然发生及移动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Recent years have witnessed a wide-ranging, if still limited, application of GIS to historical and cultural questions: Did the Dust Bowl of the 1920s and 1930s result from over-farming the land or was it primarily the consequence of larger term environmental changes? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>近年来，有关GIS在历史和文化研究中应用的问题涉及方方面面，似乎没有学科界限:19世纪二三十年代，风沙侵蚀区的出现是因过度农田开垦还是环境变化所导致?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What influence did the rapidly changing cityscape of London have on literature in Elizabethan England? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>伊丽莎白一世时期，伦敦城市风貌巨变对英格兰地区的文学有何影响?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is the relationship between rulers and territory in the checkered political landscape of state formation in the nineteenth-century Germany? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>19世纪的德国，在周边多变的政治格局中，统治者和领土间的关系是什么?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How did spatial networks influence the administrative geography of medieval China? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间网络对中国封建时期的行政区划有何影响?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What spatial influences shaped the development of the transcontinental railroad in the United States? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间如何塑造了美国洲际铁路的建设发展?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Increasingly, scholars have turned to GIS to provide new perspective on these and other topics that previously have been studied outside of an explicitly spatial framework.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学者们纷纷借助GIS为这些问题提供新研究视角，同样，其他未曾在空间框架下讨论的议题也被纳入到GIS技术支持下来研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Despite this flurry of interest and activity, most uses to date of GIS in historical and cultural studies have been disparate, application driven, and often tied to the somewhat its more obvious role in census boundary delineation and map making. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管GIS应用成了研究热点，在历史和文化研究的运用中，学者们的研究目的不一，但以技术应用为主，且常将GIS应用于人口普查边界划分和地图制作中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While not seeking to minimize the importance of such work, these studies have rarely addressed the broader, more fundamental issues that surround the introduction of a spatial technology such as GIS into the humanities. There are core reasons why GIS has found early use and ready acceptance in the sciences and social sciences rather than in the more qualitatively based humanities. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些应用工作十分必要，但将GIS引入人文学科，我们需要思考一些更宏观的基本问题，这是现在GIS技术应用未曾涉及的，也是GIS最早被用于自然科学和社会科学而非定性的人文科学的主要原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The humanities pose far greater epistemological and ontological issues that challenge the technology in a number of ways, from the imprecision and uncertainty of data to concepts of relative space, the use of time as an organizing principle, and the mutually constitutive relationship between time and space. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人文科学研究提出更深刻、更广泛的认识论和本体论议题，从许多方面挑战了GIS技术，比如数据的不确定性、相对空间的概念、把时间作为数据组织原则、时间和空间构成的相互关系等等。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Essentially, GIS and its related technologies currently allow users to determine a geometry of space. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在本质上，GIS及相关技术有助于使用者确立空间的几何分布。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the context of the humanities, it will be necessary to move GIS from this more limited quantitative representation of space to facilitate an understanding of place within time and the role that place occupies in humanities disciplines.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在人文科学中，我们有必要提出这样的认识:GIS绝非仅限于量化的空间表征，它可加深我们对时间里场所的理解，重新认识场所在人文领域所扮演的角色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In their essence, historians seek to generalize from the particular, not for the purpose of finding universal laws but rather to glean insights about cause and effect from a known outcome. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从本质上来说，历史学家探索从特殊性到一般性的理解，而并不是为了发现历史的普遍规律，他们不会从已知的历史结果中寻找必然的因果联系。在他们眼里，事事的缘起缘灭仅仅可见一斑，无从定论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here, the humanities differ from much of social science, which attempts to reach a generalization that holds true in any similar circumstance. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这点上，人文科学和大多社会科学大相径庭，后者试图找到在任何类似情况下都适用的一般结论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This difference is significant and influences the way the two groups of scholars create knowledge. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样的区分很重要，它影响了两类学者创造知识的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For many social scientists, the search for trustworthy generalization focuses on the isolation of an independent variable, the cause that has a predictable effect on dependent variables or ones that respond to the stimulus or presence of a catalyst. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对很多社会科学家而言，隔离自变量是寻找可靠的一般结论的重点，因为自变量可能影响因变量可预测结果的形成，或因变量也会对催化剂存在和刺激有反应。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They believe it is possible to discover such a variable, given sufficient resources, because the world is not yet lost to them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们认为世界运作是有定律的，只要有充足的资源，人们可以找到这种印证规律的变量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Historians must contend with fragmentary evidence and are painfully aware that the past is incomplete and irretrievable. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对此，历史学家必须用碎片化的史料力争说明社会科学研究思维的局限，他们不得不遗憾地指出过去是不完整的，也无法复原的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They also are skeptical of prediction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们对（规律）预测持怀疑态度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The past cannot be changed, even if its interpretation as history is continually in flux, but in it the intersection of patterns and singular events can be discovered. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>过去始终无法改变，即使对过去的阐释即历史是不断变化的，但阐释内存在的模式和单一事件的交集是可被发现的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Not so the future, where continuities and contingencies coexist independently of one another.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，就未来而言，连续性和意外性彼此独立地共存。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Historians view reality as weblike, to use philosopher Michael Oakeshott’s phrase, because they see everything as related in some way to everything else. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>历史学家将现实看成是网状的，用哲学家迈克尔·奥克肖特（Michael Oakeshott）的话来说，他们认为万事万物都是有联系的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Interdependency is the lingua franca of the humanities, and most recently, it has become embodied in practice theory, or in the view of one of its leading proponents, historian William Sewell, “social life may be conceptualized as being composed of countless happenings or encounters in which persons or groups of persons engage in social action.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相关性是人文科学的共识，最近，实践理论也认可了这种观点。历史学家威廉·休厄尔（William Sewell)是实践理论的主要支持者，他说:“人的社会活动造就社会生活，其中有无数事件的发生与偶遇可能被概念化了。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this view, societies and social systems are “continually shaped and reshaped by the creativity and stubbornness of their human creators” (Sewell 2005, 110–111). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在此观点中，社会和社会制度“不断被人类的创造力和顽固性塑造与重塑”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Another historian, Ed Ayers, has labeled this concept “deep contingency,” an effort to understand society as a whole with “all structures put into motion and motion put into structures” (Ayers 2010, 7).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一个历史学家埃德·艾尔斯（Ed Ayers）将这一概念称为“深度偶然”（deep contingency），试图把社会理解为一个整体，“所有结构被放入运动中，各种运动被放入结构中”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The goal of historical scholarship is not to model or replicate the past; a model implies the working out of dependent and independent variables for purposes of prediction, whereas replication suggests the ability to know the past and its cultural forms more completely than most humanists would acknowledge is possible. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究历史并不是要模仿或复制过去，模仿意味着为达到预测目的而控制因变量和自变量，复制则说明人们有能力完全了解过去及其文化形式，而大多人文学者认为这是不可能的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Humanists practice an extractive scholarship: they have the capacity for selectivity and shifting perspectives in the pursuit of the fullest possible understanding of heritage and culture. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人文研究是一门关注“精华”的学问，学者通过选择和改变视角以求完整地、尽可能地理解遗产和文化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Traditionally, humanities scholars have used narrative to construct the portrait that furthers this objective. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以往人文学者习惯用叙事来构造这样一种蓝图，以便达到这个目的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Narrative encourages the interweaving of evidentiary threads and permits the scholar to qualify, highlight, or subdue any thread or set of them—to use emphasis, nuance, and other literary devices to achieve the complex construction of past worlds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>叙事使文本证据相互交错，学者们可肯定、强调、忽略、树立一些证据，或用强调、细节和其他文学手法完成构建过去的复杂任务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All of these elements - interdependency, narrative, and nuance, among others - predispose the humanists to look askance at any method or tool that appears to reduce complex events to simple schemes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相关性、故事、细节等因素都使人文学者对这些方法和工具感到不屑，因为它们只会把复杂事件简单模式化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An insistence on precision does not fit the worldview of humanities scholars; indeed, these disciplines appear at times to embrace an uncertainty principle—the more precisely you measure one variable, the less precise are other variables.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人文学者并不主张精确，当然，社会学科偶尔也会接纳不确定性原则———越是精确测量一个变量，其他变量就变得越不精确。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is no accident that historians have embraced eclectic methods as fervently as they resist anything that smacks of reductionism. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>历史学家热诚接受折中法，强烈抵制还原论，这并非偶然。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Questions drive historical scholarship, not hypotheses, and the questions that matter most address causation: “why” matters more than “whom,” “what,” or “when,” even though these latter questions are neither trivial nor easy to answer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>推动史学的是问题而非假设，最重要的问题都试图回答“为什么”，这比“谁的”、“发生什么”、“什么时候”更重要，即使后面这些问题不琐碎，也不易回答。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The research goal is not to eliminate explanations or to disprove the hypothesis but to open the inquiry through whatever means are available and by whatever evidence may be found. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究的目的不是消除解释或反驳假设，而是树立一种问题意识，它将带领我们发现任何可用的方法和找到可能有的证据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This sense of eclectic borrowing has long informed humanities scholarship and even finds strong advocates among some of the most well-known theorists in the humanities, hence the advice offered by Paul de Mans to the Irvine Critical Literature department about its mission to develop “a new kind of skill [...] the capacity to use and feel at home in a whole series of different critical and theoretical codes and systems, as one would use a particular foreign language, without remaining rigidly locked into any one of them, but rather developing the capacity to translate those findings into different codes, systems, critical positions, as the case may require.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一直以来，人文学者的研究受折中派对问题认识的影响，有一批著名的人文理论的拥护者。因此，保罗·德·曼（Paul de Mans)给欧文市的“批评文献”部（Irvine Critical Literature department）提了个建议，文献部的使命是发展“一种新的技能......能够轻松运用一系列完全不同的批评和理论代码和系统，就像能够灵活使用一门外语一样，并没有被牢牢困在里面，而是习得一种能力，可把研究发现据不同案例，翻译成不同代码、系统和批判论述”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A well-presented argument often does not settle a question; it may complicate it or open new questions that previously were unimagined. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个好的论证经常并不能解决问题，它可能把问题复杂化或制造了以前从未想到的新问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Similarly, historians are hard-pressed to identify a preferred method because each avenue of investigation yields different evidence and thus different insights. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样，历史学家急需发现更好的研究方法，因为每种调查手段都会产生不同的证据，从而导致不同的见解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Historians revisit evidence as they discover new data. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当他们发现了新数据，也要重新查看证据的可靠性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Their approach is recursive, not linear: The goal is not so much to eliminate answers as to admit new perspectives. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们的研究路径是个循环的过程，而非线性的:研究目的不是消除结论，而是承认新视角。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These methods doubtless appear quixotic to non-humanists because they do not lead to finality. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些方法对非人文学者来说无疑是空想，因为它们并不能找到终极答案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But for humanists, the goal is not proof but meaning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但对人文学者来说，研究的目的不是证据而是意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The challenge, then, is to use geospatial technologies to probe, explore, challenge, and complicate - in sum, to allow us to see, experience, and understand human behavior in all its complexity and to view its deep contingency. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，运用地理空间技术去探测、发现、挑战与复杂化过去，十分具有挑战性。无论如何，它让我们看见、体验、理解人类复杂的行为，以及其中的“深度偶然”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As in traditional humanities scholarship, the aim is less to produce an authoritative or ultimate answer than to prompt new questions, develop new perspectives, and advance new arguments or interpretations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在传统人文学科中，目的不仅是给出权威的终极答案，更重要的是发现新问题，开发新视角，提出新论证和阐释。</seg></tuv>
+</tu>
+</body>
+</tmx>

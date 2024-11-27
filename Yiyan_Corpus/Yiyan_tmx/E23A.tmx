@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Angular Size of a Soccer Goal </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>教你科学防守任意球</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>WHEN I WATCH the World Cup, I always think about set pieces. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我在看世界杯比赛时，我脑子里总会想到罚定位球的事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is when the ball is placed at a certain spot and a team is allowed to then kick the ball (called a free direct kick). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>罚定位球就是将足球放在某个特定位置，由其中一支球队进行罚球（我们也称之为直接任意球）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If this kick occurs near the goal, the opposing team can create a human shield in an attempt to block the goal (or at least block a straight line kick into the goal). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果球接近对方球门，那么守方球队可以排出人墙，以防对方进球（或者至少也要防止对方直接进球）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So, the question: where on the field (pitch) could a team completely cover up the goal with a human wall?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以，问题就来了，比赛队伍在球场哪个位置排人墙，才能完全守住球门，不给对方一丝进球的机会？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Do I really think of things like this? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我真的有想过这种事情吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yes. That's what makes life so much fun.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>是的，正是这样，生活才如此欢乐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>ANGULAR SIZE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>角大小</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This problem is all about angular size. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个问题其实就是一个角大小问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the goal's angular size (from the position of the set kick) is smaller than the angular size of the human shield, then there can be no direct line of sight into the goal.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果球门的角大小（从罚球点出发）小于对方人墙的角大小，那么就不可能存在直接进球。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is angular size? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>什么是角大小？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here is the same diagram I have used several times. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我曾多次使用过如下示意图来表示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Suppose you have some object a distance r away with a length L. It would have an angular size ¦È as shown below.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假设某物体长度为L，物体与你的距离为r，那么该物体的角大小就是如图所示的角θ：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If r is much greater than L then the length of the object is essentially the same as the arc length. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果r比L大得多，那么物体长度实际上就是L的弧长。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This means that the following should be true: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这就意味着如下公式是正确的：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, this gives you an angular size in radians. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，这样你可以得到一个弧度制的角大小。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Seems simple, right? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>看起来很简单，是吧？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No. There is one small problem. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其实还有个小问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What if you are looking at the goal from an angle? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你从其他角度看球门，结果又会怎样？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How do you calculate the angular size then? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你又怎样计算角大小？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I am going to use a trick. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我打算用个小窍门。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here is a diagram of the goal along with the location of a kick.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以下是一幅球门示意图，罚球位置已确定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I need these two vectors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我需要两个向量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Vector r1 is from the ball to one post and r2 is to the other post. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>向量r1表示球到球门柱G1的矢量，r2则表示球到球门柱G2的矢量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How do I get these two vectors? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我怎样得到这两个向量呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Obviously there is an origin somewhere. Maybe it is at the corner of the pitch. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>显然，某个地方存在原点，而原点或许在球场一角。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I have a vector location of the ball and the goal post, then the r1 vector would be:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此我得到了球和球门柱的向量单元，r1则表示为：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I can do the same thing for vector r2. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于向量r2，我也可以采取同样的办法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now, to find the angle between these two vectors I can use the dot product. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在，我可以用点积来找到这两个向量之间的角大小。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In general, the dot product between two vectors can be written as:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（两个单位向量的点积得到两个向量夹角的cos值）两个向量之间的点积通常用如下公式表达：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you know the components of a vector (x, y, z), you can also find the dot product as:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你知道向量的组成要素(x, y, z)，你同样可以发现点积可以用如下公式表达：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This means I can find the angular size from any point without any crazy geometry or anything (but you could do it that way also).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这就意味着无需疯狂的几何计算或者其他工具，我就可以找到球场上任意点的角大小。（不过你也同样可以做到）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>ANGULAR SIZE OF A GOAL</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>球门的角大小</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What are the dimensions of a soccer field? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个足球场的尺寸是多少？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The official FIFA site has the measurements.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>国际足联（FIFA）官网上有相应指标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How do you display the angular size at different points on the field? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>身处球场上的不同位置，你怎样显示球门的角大小呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'm going to use a contour plot. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我打算使用等值线图来表示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is basically a 2D graph with contour lines along which there is a constant angular size of the goal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大体上，这是一幅带轮廓线的2D示意图，沿轮廓线，球门的角大小恒定不变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is what that looks like.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如下图所示：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I blocked out the penalty area and set the angular size to zero in that region. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我没有画出禁区，并将该区域的角大小设置为0弧度（1弧度约等于57.3°）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为什么？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Well, I am really thinking about a human wall to block a set kick. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为我真的有在思考通过排人墙阻止对方定位球进球。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are in the penalty area, you can't have a human wall. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果身在禁区就不可能有任意球，没有任意球，就不能排人墙。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Notice that shooting from the side of the penalty area the goal has the same angular size as a head on kick from 40 - 50 meters away. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>需要注意的是，从禁区两侧射门时的球门角大小，与在正面40-50米外射门时的球门角大小相同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are at the corner of the pitch, the angular size of the goal is zero radians. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你在球场一角，球门的角大小就是0弧度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This means that for a corner kick, you either need to curve the ball's trajectory or have another player hit it in to score.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这就意味着如果你想发角球进球，要么让球沿曲线运动，要么有其他队员可以帮你一“脚”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>HUMAN WALL</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人墙</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If an opposing team wishes to create a wall, it must be 10 yards from the ball (9.1 meters). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果对方球队想排人墙，那么他们离任意球罚球点的距离是10码（9.15米）远。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the 2014 World Cup, this distance is marked with some type of spray can to mark the 10 yard line.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2014年的世界杯比赛中，已经引入喷雾剂划定任意球罚球点和人墙之间10码的距离。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What is the angular size of a human wall? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那么防守人墙的角大小是多少呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course this depends on how many players join the wall. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，这取决于这堵墙由多少球员组成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It seems like 5 is a common number. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般情况下是由5个球员组成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If each player has a shoulder width of 0.4 meters (I measured my shoulders), this would give a wall length of 5*(0.4 m) = 2 meters. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果每个球员肩宽0.4米（我量了下自己的肩宽），那么人墙的长度就是5*(0.4 m) = 2米。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now I can calculate the angular size:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在，我可以通过以下公式计算人墙的角大小： </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, the players could spread out more or add more players. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，球员可以站得更开，或者增加围墙人数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I don't think it's crazy to have a wall length of 2.5 meters with an angular size of 0.275 radians. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我认为人墙长度达2.5米，角大小为0.275弧度（约15.8°）并不是什么疯狂之举。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This means that in the contour plot above, anywhere in the blue or the first green section, a human wall could block out the whole goal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这就等于在如上的等值线图中，人墙位于蓝色区域或第一绿色区域中的任一位置都可以完全挡住球门。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Well, I didn't look at the vertical height of the goal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对了，我没有考虑球门的垂直高度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also, I should point out that a kicked soccer ball can (and does) curve in it's trajectory after it is kicked.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且，我应该指出一旦发球，球的确可以沿曲线运动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So, should a team form a human wall for a set kick? If the ball is more than 30 meters away and directly in front of the goal, then a human wall could optically block the goal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那么球队应该排人墙堵截对方的定位球吗？如果定位球离球门30米远，而且正好在球门正前方，那么从视觉上看，排人墙可以挡住球门。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the kick is from the side, this optical blocking distance is much smaller. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果定位球处于球场边，那么视觉上的封锁式距离就会短很多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>My recommendation is for coaches to print out the contour plot in order to have it handy during a game.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以我对教练的建议是把上面的等值线图打印出来，以备比赛时的不时之需。</seg></tuv>
+</tu>
+</body>
+</tmx>

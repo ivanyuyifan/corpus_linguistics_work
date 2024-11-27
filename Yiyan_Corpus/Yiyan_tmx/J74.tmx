@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>3 Intensity Transformations and Spatial Filtering </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第3章 灰度变换与空间滤波</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It makes all the difference whether one sees darkness through the light or brightness through the shadows.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它的与众不同之处在于，是透过光线看阴影还是透过阴影看亮度。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>David Lindsay</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>——大卫·林赛</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Preview</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>引言</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The term spatial domain refers to the image plane itself, and image processing methods in this category are based on direct manipulation of pixels in an image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>术语空间域指图像平面本身，这类图像处理方法直接以图像中的像素操作为基础。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is in contrast to image processing in a transform domain which, as introduced in Section 2.6.7 and discussed in more detail in Chapter 4, involves first transforming an image into the transform domain, doing the processing there, and obtaining the inverse transform to bring the results back into the spatial domain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是相对于变换域中的图像处理而言的，正如2.6.7 节所介绍的和第4章将要详细讨论的那样，变换域的图像处理首先把一幅图像变换到变换域，在变换域中进行处理，然后通过反变换把处理结果返回到空间域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two principal categories of spatial processing are intensity transformations and spatial filtering. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间域处理主要分为灰度变换和空间滤波两类。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As you will learn in this chapter, intensity transformations operate on single pixels of an image, principally for the purpose of contrast manipulation and image thresholding. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正像本章您将了解到的那样，灰度变换在图像的单个像素上操作，主要以对比度和阈值处理为目的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Spatial filtering deals with performing operations, such as image sharpening, by working in a neighborhood of every pixel in an image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>空间滤波涉及改善性能的操作，如通过图像中每一个像素的邻域处理来锐化图像。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the sections that follow, we discuss a number of “classical” techniques for intensity transformations and spatial filtering. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来几节我们将讨论一些经典的灰度变换和空间滤波技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We also discuss in some detail fuzzy techniques that allow us to incorporate imprecise, knowledge- based information in the formulation of intensity transformations and spatial filtering algorithms.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们还将讨论模糊技术的某些细节，以便允许我们在灰度变换和空间滤波算法的公式化表示中并入不太精确的以知识为基础的信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.1 Background</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.1 背景知识</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.1.1 The Basics of Intensity Transformations and Spatial Filtering </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.1.1 灰度变换和空间滤波基础 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All the image processing techniques discussed in this section are implemented in the spatial domain, which we know from the discussion in Section 2.4.2 is simply the plane containing the pixels of an image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本节讨论的所有图像处理技术都是在空间域进行的。由2.4.2 节的讨论，我们知道空间域就是简单的包含图像像素的平面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As noted in Section 2.6.7, spatial domain techniques operate directly on the pixels of an image as opposed, for example, to the frequency domain (the topic of Chapter 4) in which operations are performed on the Fourier transform of an image, rather than on the image itself. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如2.6.7 节定义的那样，与（第4章的主题）频率域相反，空间域技术直接在图像像素上操作，例如，对于频率域来说，其操作在图像的傅里叶变换上执行，而不针对图像本身。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As you will learn in progressing through the book, some image processing tasks are easier or more meaningful to implement in the spatial domain while others are best suited for other approaches. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如您将在阅读全书的过程中了解到的那样，某些图像处理任务在空间域中执行更容易或更有意义，而另一些任务则更适合使用其他方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Generally, spatial domain techniques are more efficient computationally and require less processing resources to implement.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常，空间域技术在计算上更有效，且在执行上需要较少的处理资源。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The spatial domain processes we discuss in this chapter can be denoted by the expression . . . where f(x, y) is the input image, g(x, y) is the output image, and T is an operator on f defined over a neighborhood of point (x,y). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章讨论的空间域处理可由下式表示：. . .，其中f（x，y）是输入图像，g（x，y）是处理后的图像，T是在点（x，y）的邻域上定义的关于f的一种算子。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The operator can apply to a single image (our principal focus in this chapter) or to a set of images, such as performing the pixel-by-pixel sum of a sequence of images for noise reduction, as discussed in Section 2.6.3. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>算子可应用于单幅图像（本章中我们的主要关注点）或图像集合，例如，如2.6.3 节中讨论的那样，为降低噪声而对图像序列执行逐像素的求和操作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Figure 3.1 shows the basic implementation of Eq. (3.1-1) on a single image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.1 显示了式（3.1-1）在单幅图像上的基本实现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The point (x, y) shown is an arbitrary location in the image, and the small region shown containing the point is a neighborhood of (x,y), as explained in Section 2.6.5.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所示的点（x，y）是图像中的一个任意位置，包含该点的小区域是点（x，y）的邻域，如2.6.5 节解释的那样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Typically, the neighborhood is rectangular, centered on (x, y), and much smaller in size than the image.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>典型地，邻域是中心在（x，y）的矩形，其尺寸比图像小得多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other neighborhood shapes, such as digital approximations to circles, are used sometimes, but rectangular shapes are by far the most prevalent because they are much easier to implement computationally.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有时也使用其他形状的邻域，如圆的数字近似。但矩形邻域是到目前为止最好的邻域。因为它们在计算机上实现起来更为容易。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The process that Fig. 3.1 illustrates consists of moving the origin of the neighborhood from pixel to pixel and applying the operator T to the pixels in the neighborhood to yield the output at that location. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.1 中给出的处理由以下几步组成：邻域原点从一个像素向另一个像素移动，对邻域中的像素应用算子T，并在该位置产生输出。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, for any specific location (x, y), the value of the output image g at those coordinates is equal to the result of applying T to the neighborhood with origin at (x, y) in f. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样，对于任意指定的位置（x，y），输出图像g在这些坐标处的值就等于对f中以（x，y）为原点的邻域应用算子T的结果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, suppose that the neighborhood is a square of size 3 X 3, and that operator T is defined as “compute the average intensity of the neighborhood.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，假设该邻域是大小为3x3的正方形，算子T定义为“计算该邻域的平均灰度”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consider an arbitrary location in an image, say (100, 150). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>考虑图像中的任意位置，譬如（100，150）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Assuming that the origin of the neighborhood is at its center, the result, g(100, 150), at that location is computed as the sum of f(100,150) and its 8-neigbbors, divided by 9 (i.e., the average intensity of the pixels encompassed by the neighborhood). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假设该邻域的原点位于其中心处，则在该位置的结果g（100，150）是计算f（100，150）和它的8个邻点的和，再除以9 （即由邻域包围的像素灰度的平均值）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The origin of the neighborhood is then moved to the next location and the procedure is repeated to generate the next value of the output image g. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后，邻域的原点移动到下一个位置，并重复前面的过程，产生下一个输出图像g的值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Typically, the process starts at the top left of the input image and proceeds pixel by pixel in a horizontal scan, one row at a time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>典型地，该处理从输人图像的左上角开始，以水平扫描的方式逐像素地处理，每次一行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When the origin of the neighborhood is at the border of the image, part of the neighborhood will reside outside the image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当该邻域的原点位于图像的边界上时，部分邻域将位于图像的外部。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The procedure is either to ignore the outside neighbors in the computations specified by T, or to pad the image with a border of 0s or some other specified intensity values. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此时，不是在用T做指定的计算时忽略外侧邻点，就是用0或其他指定的灰度值填充图像的边缘。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The thickness of the padded border depends on the size of the neighborhood. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>被填充边界的厚度取决于邻域的大小。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will return to this issue in Section 3.4.1.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在3.4.1 节中，我们将再回到这一问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>FIGURE 3.1 A 3 x 3 neighborhood about a point (x, y) in an image in the spatial domain.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.1 空间域一幅图像中关于点（x，y）的一个3x3邻域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> The neighborhood is moved from pixel to pixel in the image to generate an output image.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>邻域在图像中从一个像素到另一个像素移动来生成一幅输出图像</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As we discuss in detail in Section 3.4, the procedure just described is called spatial filtering, in which the neighborhood, along with a predefined operation, is called a spatial filter (also referred to as a spatial mask, kernel, template, or window). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就像我们在3.4 节中详细讨论的那样，刚刚描述的过程称为空间滤波，其中，邻域与预定义的操作一起称为空间滤波器（也称为空间掩模、核、模板或窗口）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The type of operation performed in the neighborhood determines the nature of the filtering process.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在邻域中执行的操作类型决定了滤波处理的特性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The smallest possible neighborhood is of size 1 x 1.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最小邻域的大小为1x1。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this case, g depends only on the value of f at a single point (x, y) and T in Eq. (3.1-1) becomes an intensity (also called gray-level or mapping) transformation function of the form . . . where, for simplicity in notation, s and r are variables denoting, respectively, the intensity of g and f at any point (x,y). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种情况下，g仅取决于点（x，y）处的f值，而式（3.1-1）中的T则成为一个形如下式的灰度（也称为灰度级或映射）变换函数：. . .其中，为表达方便，令r和s分别表示变量，即g和f在任意点（x，y）处的灰度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, if T(r) has the form in Fig. 3.2(a), the effect of applying the transformation to every pixel of f to generate the corresponding pixels in g would be to produce an image of higher contrast than the original by darkening the intensity levels below k and brightening the levels above k.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，如果T（r）有如图3.2（a）所示的形式，对f中每一个像素施以变换产生相应的g的像素的效果将比原始图像有更高的对比度，即低于k的灰度级更暗，而高于k的灰度级更亮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> In this technique, sometimes called contrast stretching (see Section 3.2.4), values of r lower than k are compressed by the transformation function into a narrow range of s, toward black. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种技术有时称为对比度拉伸（见3.2.4 节），在该技术中，低于k的r值被变换函数压缩在一个较窄的范围s内，接近黑色；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The opposite is true for values of r higher than k.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而高于k的r值则与此相反。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> Observe how an intensity value r0 is mapped to obtain the corresponding value s0. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很明显，灰度值r0经映射得到了相应的值s0。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the limiting case shown in Fig. 3.2(b), T(r) produces a two-level (binary) image. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在如图3.2（b） 所示的极限情况下，T（r） 产生了一幅两级（二值）图像。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A mapping of this form is called a thresholding function. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种形式的映射称为阈值处理函数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some fairly simple, yet powerful, processing approaches can be formulated with intensity transformation functions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有些相当简单但功能强大的处理方法，可以使用灰度变换函数用公式加以表达。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this chapter, we use intensity transformations principally for image enhancement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这一章中，我们主要使用灰度变换函数来进行图像增强。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Chapter 10, we use them for image segmentation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在第10章中，我们将使用灰度变换函数来进行图像分割。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Approaches whose results depend only on the intensity at a point sometimes are called point processing techniques, as opposed to the neighborhood processing techniques discussed earlier in this section. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其结果仅取决于一个点处的灰度的方法有时称为点处理技术，与此相反，本节早些时候讨论的方法则称为邻域处理技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.2.1 About the Examples in This Chapter </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.1.2 关于本章中的例子</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although intensity transformations and spatial filtering span a broad range of applications, most of the examples in this chapter are applications to image enhancement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然灰度变换和空间滤波覆盖了相当宽的应用范围，但本章中的多数例子是图像增强应用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Enhancement is the process of manipulating an image so that the result is more suitable than the original for a specific application. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>增强处理是对图像进行加工，使其结果对于特定的应用比原始图像更合适的一种处理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The word specific is important here because it establishes at the outset that enhancement techniques are problem oriented. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“特定” 一词在这里很重要，它一开始就确定增强技术是面向问题的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, for example, a method that is quite useful for enhancing X-ray images may not be the best approach for enhancing satellite images taken in the infrared band of the electromagnetic spectrum. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，对于增强X射线图像非常有用的方法， 可能并不是增强由电磁波谱中远红外波段拍摄的图像的最好方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is no general “theory” of image enhancement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图像增强没有通用的“理论”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When an image is processed for visual interpretation, the viewer is the ultimate judge of how well a particular method works. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当为视觉解释而处理一幅图像时，观察者将是判定一种特定方法好与坏的最终裁判员。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When dealing with machine perception, a given technique is easier to quantify. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在处理机器感知时，一种给定的技术很易于量化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, in an automated character-recognition system, the most appropriate enhancement method is the one that results in the best recognition rate, leaving aside other considerations such as computational requirements of one method over another.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，在自动字符识别系统中，最合适的增强方法就是可得到最好识别率的方法，这里不考虑一种方法较另一种方法的计算量的要求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>FIGURE 3.2 Intensity transformation functions. (a) Contrast- stretching function. (b) Thresholding function.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.2 灰度变换函数：（a）对比度拉伸函数；（b）阈值处理函数</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Regardless of the application or method used, however, image enhancement is one of the most visually appealing areas of image processing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，不管应用或使用过的方法，图像增强是视觉上最具吸引力的图像处理领域之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By its very nature, beginners in image processing generally find enhancement applications interesting and relatively simple to understand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理所当然地，图像处理的初学者通常会寻找重要的且理解起来相对简单的增强应用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Therefore, using examples from image enhancement to illustrate the spatial processing methods developed in this chapter not only saves having an extra chapter in the book dealing with image enhancement but, more importantly, is an effective approach for introducing newcomers to the details of processing techniques in the spatial domain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，使用图像增强的例子来说明本章中论述的空间处理方法，不仅可以节省本书中处理图像增强的额外的章节，而且更重要的是对初学者介绍空间域处理技术的细节的更有效方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As you will see as you progress through the book, the basic material developed in this chapter is applicable to a much broader scope than just image enhancement.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如您将要看到的那样，随着本书的进程，本章叙述的基本内容可用于比图像增强宽得多的范围。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.2 Some Basic Intensity Transformation Functions </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.2 —些基本的灰度变换函数</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Intensity transformations are among the simplest of all image processing techniques. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>灰度变换是所有图像处理技术中最简单的技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The values of pixels, before and after processing, will be denoted by r and s respectively. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>r和s分别代表处理前后的像素值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As indicated in the previous section, these values are related by an expression of the form s= T(r), where T is a transformation that maps a pixel value r into a pixel values. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如前一节指出的那样，这些值与s=T（r）表达式的形式有关，其中T是把像素值r映射到像素值s的一种变换。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because we are dealing with digital quantities, values of a transformation function typically are stored in a one-dimensional array and the mappings from r to s are implemented via table lookups. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于我们处理的是数字量，所以变换函数的值通常存储在一个一维阵列中，且从r到s的映射是通过查找表实现的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For an 8-bit environment, a lookup table containing the values of T will have 256 entries.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于8比特环境，包含T的值的一个查找表将有256条记录。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As an introduction to intensity transformations, consider Fig. 3.3, which shows three basic types of functions used frequently for image enhancement: linear (negative and identity transformations), logarithmic (log and inverse-log transformations), and power-law (nth power and nth root transformations). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为关于灰度变换的介绍，考虑图3.3，该图显示了图像增强常用的三类基本函数：线性函数（反转和恒等变换）、对数函数（对数和反对数变换）和幂律函数（n次幂和n次根变换）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The identity function is the trivial case in which output intensities are identical to input intensities. It is included in the graph only for completeness.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>恒等函数是最一般的情况，其输出灰度等于输人灰度的变换，在图3.3 中包括它仅仅为了完整性考虑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.2.1. Image Negatives </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.2.1 图像反转</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The negative of an image with intensity levels in the range [0, L-1] is obtained by using the negative transformation shown in Fig. 3.3, which is given by the expression . . . </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用图3.3中所示的反转变换，可得到灰度级范围为[0，L-1]的一幅图像的反转图像，该反转图像由下式给出：. . . </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Reversing the intensity levels of an image in this manner produces the equivalent of a photographic negative. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用这种方式反转一幅图像的灰度级，可得到等效的照片底片。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This type of processing is particularly suited for enhancing white or gray detail embedded in dark regions of an image, especially when the black areas are dominant in size. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种类型的处理特别适用于增强嵌入在一幅图像的暗区域中的白色或灰色细节，特别是当黑色面积在尺寸上占主导地位时。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Figure 3.4 shows an example. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.4显示了一个例子。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The original image is a digital mammogram showing a small lesion. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原图像是一幅数字乳房X射线照片，其中显示有一小块病变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In spite of the fact that the visual content is the same in both images, note how much easier it is to analyze the breast tissue in the negative image in this particular case. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管事实上两幅图在视觉内容上都一样，但应注意，在这种特殊情况下，分析乳房组织时使用反转图像会容易得多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3.2.2 Log Transformations</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3.2.2 对数变换</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The general form of the log transformation in Fig. 3.3 is . . . where c is a constant, and it is assumed that r≥0. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.3中的对数变换的通用形式为 . . .，其中c是一个常数，并假设r≥0。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The shape of the log curve in Fig. 3.3 shows that this transformation maps a narrow range of low intensity values in the input into a wider range of output levels. The opposite is true of higher values of input levels. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.3 中对数曲线的形状表明，该变换将输入中范围较窄的低灰度值映射为输出中较宽范围的灰度值，相反地，对高的输入灰度值也是如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We use a transformation of this type to expand the values of dark pixels in an image while compressing the higher-level values. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们使用这种类型的变换来扩展图像中的暗像素的值，同时压缩更高灰度级的值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The opposite is true of the inverse log transformation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>反对数变换的作用与此相反。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>FIGURE 3.3 Some basic intensity transformation functions.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.3 —些基本的灰度变换函数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All curves were scaled to fit in the range shown.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有曲线已被缩放到适合显示的范围 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>FIGURE 3.4 (a) Original digital mammogram. (b) Negative image obtained using the negative transformation in Eq. (3.2-1). (Courtesy of G.E. Medical Systems.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图3.4 （a）原始数字乳房X射线照片；（b）使用式（3.2-1）给出的反转变换得到的反转图像（图像由G.E. Medical Systems公司提供） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Any curve having the general shape of the log functions shown in Fig. 3,3 would accomplish this spreading/compressing of intensity levels in an image, but the power-law transformations discussed in the next section are much more versatile for this purpose. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>具有图3.3所示对数函数的一般形状的任何曲线，都能完成图像灰度级的扩展/压缩，但是，下一节讨论的幂律变换对于这个目更为通用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg/></tuv>
+<tuv xml:lang="zh-CN"><seg/></tuv>
+</tu>
+</body>
+</tmx>

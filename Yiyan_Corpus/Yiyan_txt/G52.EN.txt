@@ -1,0 +1,119 @@
+Linus Torvalds: The King of Geeks (And Dad of 3) 
+THE LICENSE PLATE on Linus Torvalds' Mercedes SLK convertible says it all. 
+The frame running around the outside of the plate reads "Mr. Linux. King of Geeks." 
+But the plate itself says "Dad of 3."
+If you meet Linus Torvalds, he comes off as a mild-mannered, down-to-earth Finnish-American. 
+He lives with his wife Tove, three kids, a cat, a dog, a snake, a goldfish, a bunny and a pet rat in a comfortable 6,000 square foot home just north of Portland's tony Lake Oswego neighborhood. 
+The house is yellow - his favorite color - and so's the Mercedes.
+But he's not really like any of his neighbors. 
+He drives his Mercedes fast, slamming the car into gear and flooring it. 
+There's no coaxing, no hesitation. 
+Either the hammer is down, or the car is at rest. 
+And he has an abnormal number of stuffed penguins on his mantle.
+He leads a double-life. He's the kind of guy who plays poker with the guys for a $20 buy-in every couple of weeks. 
+But at the same time, he in charge of Linux, a truly remarkable open-source software development project that over the past two decades has shaken Microsoft and provided the building blocks for internet giants such as Google, Facebook and Amazon.
+Linus Torvalds has reached middle age, and so has Linux. 
+Nowadays, it's easy to take both of them for granted. 
+But both are still going strong - very strong. 
+Linus still runs the Linux kernel with his unique brand of no-nonsense attitude. 
+Two weeks ago, he called the makers of SUSE Linux morons because of the operating system's security requirements. 
+And Linux? It's everywhere. 
+Next week, Red Hat will become the first $1 billion open source company.
+Linux began life as an underdog project. 
+Torvalds started it while he was a student at the University of Helsinki because he wanted to improve Unix on his Intel 386 computer. 
+But it soon became an antidote not only to the massive Unix servers built by the likes of Digital Equipment Corp and Sun Microsystems, but to Microsoft's Windows operating system.
+Throughout the '90s and on into the next decade, the fight was fierce on both fronts, but now, so many of the battles are won. 
+DEC and Sun don't exist anymore. 
+And Microsoft is playing quite nicely with Linux and other open source tools. 
+Linux isn't the hot-button topic it was once was. 
+It's just plain successful.
+More than 8,000 developers have contributed to the Linux kernel in the past seven years, according to the Linux Foundation. 
+And it has even become a standard operating system on custom-built consumer devices. 
+You can find it on everything from inflight entertainment systems to streaming video players to Google's Android phones. 
+"It became the plumbing," says Jeremy Allison, a Google engineer who speaks frequently on the topic of open source and is himself a lead developer with another coding project, called Samba.
+And Linus became a dad. 
+But what a dad he is.
+Linus Torvalds in his kitchen earlier this year. 
+Photo: Jon Snyder/Wired 
+Linus Torvalds Meets Robert Downey, Jr.
+Red Hat can thank Linus for reaching $1 billion in annual revenue. 
+And Linus can thank Red Hat for his yellow house in Portland. 
+Prior to its initial public offering in 1999, Red Hat gave Torvalds what turned out to be about $1 million in stock. 
+But Torvalds says that it was his only big Linux payout. 
+Stock that he was awarded from Transmeta and another Linux startup, VA Systems, wasn't worth very much by the time he was allowed to sell it.
+Still, Torvalds' life is pretty darned good by geek standards. 
+He gets paid by the non-profit Linux Foundation to manage the open source software that he loves and - when he wants to - can fly around the world to talk about it. 
+He has the freedom to pursue his other passion: diving. 
+Last week, Torvalds and his friend Dirk Hohndel spent a few days in the 40 degree waters of the Hood Canal, helping to dive-certify six native American geoduck hunters, and Torvalds has even started writing open-source dive-log software.
+Last year, Intel invited Torvalds and Tove to a pre-Oscar party in Hollywood, where he rubbed elbows with the likes of Robert Downey Jr., who didn't know who he was, and Mad Men star Jon Hamm, who did.
+Does he have any regrets? 
+"Not at all," he says. "Quite the opposite, actually. I'm very happy with feeling that I've done the right thing." 
+He adds: "I mean, if I'd started a company, that wouldn't have been because I wanted to start a company. 
+I concentrated on the technical side because that's what I wanted to do."
+And that's good news for just about every big internet company, along with the startups that aspire to displace them, because they love to use Linux.
+Linus Torvalds' mantle. 
+Photo: Jon Snyder/Wired
+The Linux Storm
+Linux worked because three powerful forces just happened to converge. 
+First, Linux started just as Intel's processors were getting ready for prime time. 
+Long before company employees were sneaking iPads and smartphones into the office, there were Linux freaks sneaking Intel machines into corporations to build prototype new programs and build cheap websites and file and print servers.
+The second force was the GNU General Public License. 
+In the 1980s, the Unix makers had done well, but they'd kept a lot of their best technology to themselves. 
+This had been good for business, but in the long run it was bad for Unix. 
+By 1991, there were many incompatible versions of Unix. 
+But Linux's license dictated that anybody who made changes had to share them. 
+That's kept the project from splitting apart, and it ensured that any really good software gets used by everybody.
+But the third factor was Torvalds himself, who has put his personal stamp on the Linux in a way that is rare in the open-source world.
+When Linus Torvalds moved to the U.S. in the late 1990s, the Linux hype was at its peak. 
+And Linux's creator was a particularly effective spokesman for the open-source revolution. 
+He worked for an interestingly secretive chip startup called Transmeta - it fizzled out in the post-dot com implosion - but as long as reporters didn't ask about Transmeta itself, Torvalds was the kind of guy who would speak his mind, apparently unconcerned with who he might happen to piss off.
+Torvalds became the perfect foil to the monopolistic, unlikable, Bill Gates. 
+He was low key, unassuming, a regular guy who was into computers just for fun. 
+That was the name of his surprisingly readable autobiography, written in 2002 with journalist David Diamond - a book that Torvalds says he never thinks about today.
+Torvalds is still doing things just for fun. 
+He's a free operator who pulls no punches in technical online discussions, but he's not a blowhard. 
+It's enough to give him geek credibility, but to keep him from alienating the smart people. 
+The makers of SUSE Linux know what we're talking about.
+The Job Offer From Steve Jobs
+That passion to make the right design choice is still what drives Torvalds, even as Linux enters its comfortable middle age. 
+"Linus, the person, certainly like all of us, he's gotten older," says Dirk Hohndel, the diving-buddy of Torvalds' who also happens to be chief Linux and open-source technologist at Intel. "But Linus, the god of Linux, has not changed at all. 
+He is still the same fiery aggressive, flaming wild, determined true-believer - the person who really knows exactly what he wants."
+Torvalds may have been a foil to Gates, but Linux's creator probably has more in common with Steve Jobs. 
+Torvalds leads the Linux project, not so much by writing code, but by arbitrating disputes and making the technical decisions that keep the project moving in the right direction. 
+And that's ability is similar to Jobs' fanatical attention to design detail, says Google's Allison.
+"Jobs had this wonderful design sense of taste. He created these beautiful products that everybody loved," he says. "Linus has engineering taste, and that's the thing that kind of makes him special. 
+He can look at all these potentially competing solutions and cut through the bullshit and say, no this is the right one to choose."
+"He's good at that," Allison adds. "It means he's a dick sometimes, but he's good at it." 
+Torvalds has never met Bill Gates, but around 2000, when he was still working at Transmeta, he met Steve Jobs. 
+Jobs invited him to Apple's Cupertino campus and tried to hire him. 
+"Unix for the biggest user base: that was the pitch," says Torvalds. 
+The condition: He'd have to drop Linux development. 
+"He wanted me to work at Apple doing non-Linux things," he said. 
+That was a non-starter for Torvalds. 
+Besides, he hated Mac OS's Mach kernel.
+"I said no," Torvalds remembers.
+Jobs He's Not 
+But the Jobs-Torvalds analogy breaks down pretty quickly. 
+Jobs was fabulously wealthy, dated celebrities, and didn't write cute things about his kids on his license plate. 
+In fact, he didn't even use license plates. 
+And when he had a software problem at Apple, he didn't sit down and write an amazing new program that solved the issue. 
+Torvalds has done that kind of thing.
+On the day Wired visited Torvalds last month, his slightly obsessive attention to detail was on full display. 
+Torvalds quickly invited us in and immediately starting making espresso after espresso in his modern kitchen. 
+His employer, the Linux Foundation, had just bought him a brand new $3,000 Jura espresso maker, and he and his wife Tove were concerned that something is wrong.
+Tove had been complaining about a metallic aftertaste, and Torvalds thought it may be a problem too. 
+He handed over an espresso, asking: "Do you taste it?" 
+To us, the bitter, creamy espresso tasted like it came from a fine coffee shop.
+Torvalds kept making coffees all morning, leaving us jittery and awake as we settled down to talk in the billiard room next to the modest unadorned home office that is the nerve center for Linux. 
+It's above the three-car garage. 
+The kind of place where your typical suburban dad would keep his guitar collection and rock out with his buddies over a couple of beers on a Thursday night. 
+Instead, Torvalds spends most days here - alone - managing what is surely the most important open-source software project in the planet.
+As Torvalds himself concedes, Linux's stormy days of fighting over big issues are largely behind it. 
+"I am personally way less open to radical new redesigns," he says. "We've done the radical redesigns to the point where most of the things we do, we do for damned good reason, and doing something radically different would be just stupid."
+Linux hosts an annual event called the Linux Kernel Summit, and to hear Torvalds describe it, it sounds almost like a synod of medieval theologians. 
+"We had the most boring two-hour session on key-signing each others keys," he remembers. "Boy that was not fun."
+In fact, Linux's creator doesn't really even like to talk about technology. 
+He'd rather write. 
+"I think it's so much easier to be very precise in what you write and give code examples and stuff like that," he says. "I actually think it's very annoying to talk technology face-to-face. 
+You can't write down the code."
+He'd rather talk about politics. Or scuba diving. Or the state of the public school system. Or the taste of coffee.

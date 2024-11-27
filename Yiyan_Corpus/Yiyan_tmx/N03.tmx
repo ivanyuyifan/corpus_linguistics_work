@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160901T090257Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At lunch, Zichen told her two co workers that she was considering going to a new place for her vacation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃午饭的时候，自晨告诉两位同事，她打算假期去一个新鲜的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feeling more adventurous this year? Ted said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年想冒点险？泰德说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since Zichen had begun to work with Henry and Ted, thirteen years earlier, she had taken two weeks off every November to visit China- her hibernation retreat, as Ted called it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从十三年前，自晨开始与亨利和泰德共事以来，每年十一月，她都会休两个星期的假去中国。泰德称之为她的“冬眠处”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>England, she said now when he asked, and she wondered which would be more adventurous in her colleagues' opinion, England or China.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英格兰，当他接下来问及去处时，自晨回答。她不知道，在同事眼中，去哪儿更加冒险，英格兰还是中国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry had been sent to Vietnam at eighteen, and had returned to Iowa six months later with ruptured intestines; at nineteen, barely recovered, he had married his high-school sweetheart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利18岁的时候被运到越南，六个月之后，他回到爱荷华，肚肠穿裂；19岁，刚刚康复，他就和他的高中甜心成婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every summer he and Caroline spent three weeks in a lakeside cabin in Wisconsin with their children and grandchildren. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年夏天，他和卡洛琳都会去威斯康辛州某处的一座湖滨小屋，和儿孙们共享三周的天伦之乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The farthest place Ted had travelled to was Chicago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泰德去过的最远的地方是芝加哥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few years earlier, he had accompanied his daughter there for a high-school volleyball tournament; her team had lost in the final match, and with his daughter now a senior at the state university Ted still held Chicago responsible for the disappointment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年前，他陪女儿去那儿参加一个高中排球锦标赛；他女儿的队伍在决赛中失利，而直到现在，他女儿已经在州立大学读到了四年级，泰德还是将那次失望归咎于芝加哥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's there to see in England in November? Ted asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十一月份的英格兰有什么可看的？泰德问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zichen did not answer, because anything she said would fall short of his expectations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自晨没回答，因为不论怎么回答都不会让他满意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In previous years, he had wondered belligerently what there was to see in China, and Henry had been the one to shush Ted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年前，他曾经挑衅般地问道中国有什么可看的，亨利冲着他直嘘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like Zichen's other acquaintances in America, they had been led to believe that in China she had a pair of parents, and that, like many, she had wedged some distance between herself and her parents, reducing her filial duty to an annual two-week visit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跟自晨在美国结识的其他人一样，在她的误导下，他俩以为，她有双亲在中国，而且如同常见的那样，她把儿女孝道缩水为一年两周的探望，已经在她和父母之间楔进了一些距离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about China? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不用回中国吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry asked, laying out his lunch- a sandwich, a thermos of soup, and a banana- on a paper napkin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利问道，一边将他的午餐——一块三明治，一保温瓶汤，还有一根香蕉——摆列在一方纸巾上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His time in the Army must have taught him to keep the contents of his life in good order. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>军队里的日子一定教会了他如何将生活中的物什收拾规整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry was a neat man, his lab coat clean, what remained of his hair combed and parted precisely; he was quiet, but said enough not to seem sullen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利是个整洁的人，他的实验桌一尘不染，他所剩不多的头发梳分得一丝不苟；他很安静，但是也没沉默到让人觉得阴郁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her parents were taking a tour to Thailand with a group of retired people, Zichen said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的父母正随着一队退休老人在泰国旅游，自晨说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why couldn't she meet them in Thailand? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么不去泰国见他们呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ted demanded, and predicted that she would see nothing in England but rain and coldness and people who were too polite to ask her to repeat her name.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泰德质问，并且预言，在英格兰她只会见到雨水和寒冷，以及礼貌过头的人们，就算没听清别人的名字，他们也是不会再问一遍的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a reason to visit a place where one's name was unpronounceable, Zichen thought, just as there was a reason that her parents continued to share a life in their daughter's mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到一个没人能叫出你名字的地方去旅行，也自有其好处，自晨心想，就好像让父母活在女儿心里，继续共享自己的生活一样，不是什么坏事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A month from now, rather than telling Henry and Ted about England, Zichen knew she would be relating tales of her parents' trip to Thailand: the crowded marketplace after nightfall, the cabaret show that they disliked but felt obliged to enjoy because it was said to be the highlight of their tour, the hotel bed that was too hard, or perhaps too soft. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自晨知道，一个月之后，她不会给亨利和泰德讲英格兰，而是会把父母在泰国的旅程说给他们听：日落后熙攘的集市；作为旅行重头戏的歌舞表演——他们不喜欢，但不去看的话又感觉未免可惜；旅店的床太硬，或者说成太软也行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were other moments, also imagined, though these she would keep to herself: her father's insistence on splitting a dish in a restaurant because he was unwilling to pay for two, her mother eying a grain of rice on her father's sleeve without pointing it out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还想象了别的情景，不过她不会把这些讲给别人听：在某个餐馆，她父亲坚持要分吃一份饭菜，因为他不愿付双份的钱；她母亲瞟着他父亲衣袖上的一粒米饭，却又不指出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They would've been one of those couples who had married young, and had, over the years, developed their separate ways to live with the mistake, he with his tyranny, she with her wordless contempt.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设想中，他们结婚得早，在漫长的年月里，各自学到了不同的方式来将就这场错误的婚姻，他用他暴君般的专横，她用她无声的轻蔑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry, Ted, and Zichen worked in an animal-care center, in a two-story brick building next to a research facility that a hundred years ago had been an infirmary for tuberculosis patients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利、泰德和自晨在一家动物关爱中心工作。这个中心设在一栋两层砖楼里，楼旁边的一座研究所，一百年前，曾是一家结核病医院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because they were on the edge of a university town- the facility, a satellite site that housed some projects from the medical school, was in the middle of cornfields- the three of them had over the years become a more or less autonomous unit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为他们位于大学城的边上——那个研究所，位于一片玉米田中，就是大学的一个分校区，里面设有医学院的一些项目——这么多年过去了，他们三个人已经形成了一个几乎自治的单元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Janice, their supervisor, a tall and angular woman who took pride in her extreme fairness and efficiency, came for a routine inspection once a week; Dr. Wilson, the attending veterinarian, a genial and absent-minded man, was about to retire any day now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贾妮丝，他们的主管，一个身材高挑瘦骨嶙峋的女人，以自己极端的公正和高效为荣，每星期来做一次例行视察；威尔森博士，主治兽医，是个和蔼亲切、老是走神的老头，随时都可能退休。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only crisis since Zichen had begun to work there- if one did not count the time the water was contaminated and fifty cages of mice contracted hepatitis, or the occasions when breeding went wrong, and the due date passed without a litter, or worse, with a disturbed mother mouse feeding on her own babies- was when a group of animal-rights activists had tried to break into the building on the eve of the new millennium. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从到这儿工作以来，自晨遇上的唯一一次危机——如果不算上那次水被污染导致五十笼老鼠感染上肝炎，还有育种工作偶尔出现的错误：预产期已过但就是没有产仔，或者更糟，母鼠精神错乱，把自己的幼仔吃掉——是在新千禧年的前夜，一群动物权利保护者试图闯入楼中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had given up when the alarm went off, and instead liberated cages of minks from a farm thirty miles west on the country road. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>警报拉响后，他们不再往楼里冲，转而跑到西边三十英里外，把一家农场养在乡村路边的许多笼貂鼠给放生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The farmer and his family had recovered less than a third of their loss, the local paper had reported. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>农场主一家后来捉回来不到三分之一。本地报纸对此都进行了报道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rest of the minks, the farmer had told the Gazette, would not survive the Midwest winter and their many predators.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没找回来的貂鼠，农场主在报纸上说，在中西部的严冬和众多天敌的围剿下，很难幸存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zichen had been reading the newspaper in the office, pondering the fate of the homeless minks, when Henry, looking over her shoulder, said that he and the farmer had gone to the same high school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔天，自晨在办公室读着报纸，正猜想那些流离失所的貂鼠们命归何处的时候，亨利越过她的肩膀，看着报纸说，他和那位农场主念的是同一所高中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was about to express her sympathy for his old classmate when Henry mentioned that the guy had once pursued Caroline when he was in Vietnam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自晨刚要对他的老同学表以同情，亨利又提到，那家伙趁他在越南时，曾一度追求过卡洛琳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was glad that Caroline had not married the mink farmer, Zichen said, and Henry said he was, too, though come to think about it, perhaps Caroline wouldn't have minded a mink coat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很高兴卡洛琳没有嫁给这位农场主，自晨说。亨利说他也有同感，不过转念想想，也许卡洛琳不会介意能有貂皮大衣穿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ted, entering the office with a stack of yellow death slips to file and overhearing the conversation, reminded Henry that a mink farmer's wife does not wear mink, just as cobblers' children have no shoes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泰德正好带着一大叠记录动物死亡情况的黄色报表走进办公室，听到了他们的对话，插嘴提醒亨利，嫁给养貂鼠的可穿不上貂皮大衣，就像“鞋匠的孩子没鞋穿”那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What does that mean? Zichen asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是什么意思？自晨问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the expression was explained to her, she thought of the way her grandmother used to clip her hair shorter than a boy's, in summer or winter, but this would not make a good office tale.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听到解释后，她想起小时候，无论寒暑，外婆总是把她的头发剪得比男孩子的还短，但这个可算不上什么好故事，不适合拿出来在办公室讲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zichen had grown up in her grandmother's hair salon- a small shack really, at the entrance of an apartment complex, with a wooden plank propped up by two stacks of bricks that served as a bench for the waiting customers, a folding chair in front of a mirror that hung from a low beam, and a makeshift washstand, next to which a kettle of water was kept warm on a coal stove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自晨是在她外婆的发廊里长大的——说是发廊，实际上就是架在居民楼门口的一座小棚子，两摞砖上架条木板就算是长凳，供等着理发的顾客坐，一张折叠椅，椅子前面是一面挂在矮梁上的镜子，镜子旁边是一架凑合能用的脸盆架，架子边上是一个小煤炉，炉上架着壶水，水总是热的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the curtain that separated the salon from the bed shared by Zichen and her grandmother, there were prints of bunnies, white on a green-and-yellow background. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自晨和她外婆共用的床铺在后面，用一道帘子和发廊分开，帘子黄绿相间，上面印着白色的小兔子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no window in the shack, and a fluorescent light was turned on the moment her grandmother opened up the shop and continued buzzing until the end of the day, giving everything a perpetual bluish-white hue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>棚子没有窗户，从外婆开门营业，直到一天忙完，都开着一盏日光灯，嗡嗡作响，给一切镀上一层泛青的白色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That her grandmother could have had an easier life in her old age was made clear to Zichen from her first years: Zichen's two uncles- her mother's elder brothers- would have dutifully taken in their mother, and between the two families they would have seen to it that she had a decent retirement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从孩提起，自晨就清楚，外婆本可以过一个轻松的晚年：自晨的两个舅舅——她母亲的两个哥哥——本会将外婆接去尽孝，他们两家本会确保外婆在退休之后能过得体体面面的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But how could you burden your own sons with a child like that? her grandmother used to ask her customers, as though the time Zichen had spent in the shop learning to sit up and then to walk, and later to assist her grandmother, handing her warm towels or cleaning the ashtrays- two blue-and-white china bowls placed at either end of the bench, the rims chipped, filled with smoldering cigarette ends and streaks of ash- had never softened the shock of the child's existence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但你怎么能领着这样一个小孩，去给自己的儿子增添负担呢？她外婆常常这么问来理发的人，好似自晨在这家店里所呆的这些日子，从刚会坐起身子，到蹒跚学步，到后来给外婆打下手，给她递热毛巾，清洗烟灰缸——就是放在长凳两头的两个蓝白瓷碗，碗口坑坑缺缺，满是将熄未熄的烟头和一道道的烟灰——从没能缓解她的存在所带来的冲击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would have been a different story had she been an orphan, her grandmother would say; it would have been sensible for any uncle to take in an orphan, a statement her audience readily agreed with. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果她是个孤儿的话，情况就不一样了，她外婆会接着说，哪个舅舅会那么狠心不接受一个孤儿呢？这一说法，听众都欣然赞同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, a woman who had run away with a man against her family's wish, who had given birth to a baby out of wedlock, and had then been abandoned by the man- that mother would have done her baby more of a favor had she died during childbirth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实，一个女人，不顾家人的反对，与一个男人私奔，没结婚就生下个孩子，接着又被那个男人抛弃——这位母亲还不如难产而死，这样对小孩更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It hadn't taken long for Zichen to piece together her own story from the parts alluded to by her grandmother and uncles and customers and neighbors: that her grandmother had agreed to raise her on the condition that her mother sever all connections with the family; that a couple had once come to the shop to look her over, but then decided not to adopt her; that she owed her life not only to her grandmother, who had to toil at an age when other women could rest, but also to the patrons of the shop, who remained loyal to her grandmother because of the responsibility they felt toward her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凭着从外婆、舅舅、顾客和邻居那里听来的只言片语，自晨很早就拼凑出自己的身世：她的外婆答应抚养她，条件是母亲和整个家庭断绝关系；曾有一对夫妇来到店里看过，但后来还是没有收养她；她能活到现在，不仅仅受恩于外婆——她一把年纪了，本来该去享清福的，却还在辛劳，还要感谢来店里理发的人——他们是外婆的忠实顾客，因为他们觉得对她负有一份责任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sitting on a bamboo stool in a corner and listening to her own luck, both good and bad, discussed, Zichen would clandestinely move her feet and make piles of hair according to a system known only to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在角落里的竹凳上，听着人们讨论她的命运，好的坏的，自晨会悄悄地拿脚拨弄地上的头发，按照只有她自个儿知道的方式，把它们拨成一堆一堆的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inevitably the game would be interrupted by the strokes of her grandmother's broom, but even that did not disturb Zichen, as the disassembling of the small hills of hair could also be part of her scheme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外婆总是会给她一笤帚，打断这个小小的游戏，但这也扫不了自晨的兴，因为把堆成小山一样的头发拨散开来，也是游戏的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Quit grinning like an idiot, her grandmother would sometimes tell Zichen, turning from her clipping, and Zichen would straighten her face, but when her grandmother turned back to her customer she smiled again at the back of a man's half-shaved head, or at the shoelaces of someone waiting on the bench. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别龇牙咧嘴地像个傻瓜，外婆有时会停下手里的剪子，回过头来冲自晨说。自晨会收起笑容，不过等到外婆转向顾客，她又会朝着那剪了一半的后脑勺，或是朝着某个等在长凳上的人的鞋带，露出微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where on earth did the girl get that smile? her grandmother complained to the customers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这闺女到底从哪学会这么笑的？她的外婆向来理发的人抱怨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One would think a child like that should know how to make people forget her for a moment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们都觉得，这样一个小孩理应知道如何举止，好让人们暂时遗忘她的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hydrangea House, a sixteenth-century timber-framed house, had served as a family home for generations before it was turned into a B. and B.; Zichen wondered, reading the information provided on its Web site, how such a change had come about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绣球花之家，一栋建于16世纪的木构小楼，在改造成一家小旅馆之前，曾是一个家族世世代代的寓居之所。自晨读着这家旅馆网站上提供的信息，很好奇这样一个改变是如何发生的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps the owners would tell her when she asked- if not the whole story, then bits and pieces that would nevertheless delight her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到时候问问店主，也许他们会告诉她——就算听不到整个故事，光是零星轶事就能使她满意了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the Web site, there were no photographs of the kind that other places, with more business-minded management, displayed: blooming flowers in a garden or soft-colored curtains lifted by unseen wind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个旅馆的店主，似乎缺乏商业头脑，没像别的地方那样，在网站上展示各种照片：繁花似锦的花园或者轻风撩起的浅色窗帘什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, a small sketch of the house, made in ink or perhaps pencil, showed little except a whitewashed front wall and four rectangular windows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，只有一幅旅馆的小小素描，用钢笔，或者可能是铅笔，寥寥几划，只勾勒出门脸的白粉墙以及四扇方窗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was said to be "never a grand house"; two rooms, the Rose Room and the Lilac Room, were available upstairs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>介绍中说它“本就不是个大房子”。还有两间客房可以预定，红玫瑰房和紫丁香房，都在二楼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The modest, almost apologetic way that Hydrangea House advertised itself made it easy for Zichen to choose it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绣球花之家的广告如此的谦虚，几乎带着歉意，让自晨很快就相中了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The trip to England, despite Henry's bafflement and Ted's disapproval, was becoming a certainty in her mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国之行，虽然亨利婉阻，泰德也反对，但在自晨心里，已成定数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomorrow she would buy the plane ticket; next week she would call and reserve a room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明天，她就去买机票；下周，她就打电话订房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Contrary to Henry and Ted's beliefs, Zichen was neither an experienced nor a willing traveller. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与亨利和泰德心目中的印象相反，对于旅行，自晨并不在行，也没有热情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The summer she had begun to work at the animal-care center, Ted had invited her, along with Caroline and Henry, to a picnic on the Fourth of July. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在这个动物中心开始工作的那个夏天，泰德曾邀请她，国庆节那天，与卡洛琳和亨利一道出去野餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had apologized and said that she needed to go to the East Coast to visit her husband, who had finished graduate school earlier that year and moved away for a job.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很抱歉，去不了，她说，她丈夫刚刚读完研究生，搬去东海岸工作了，她得去那儿看他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before the holiday weekend, she had purchased more food than she could consume, and for four days she had hidden herself in her apartment and worked slowly through a Latin reader of Cicero's speeches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个假期到来之前，她买了吃不完的食物，然后一连四天都躲在公寓里，慢慢地读一本拉丁文原文的西塞罗演讲录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had picked up the book from the library not for any grand ideas she might glean from the text; sometimes she forgot a sentence the moment she figured out its meaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书是她从图书馆随意借的，并不是为了从中获取什么高深的思想；有时候她刚刚看懂一句话，一眨眼就给忘了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the effort of making sense out of something that was at first glance indecipherable satisfied her, as did the slowness of the activity: an hour or two would pass as she made her way through one passage on a war; a day that would have otherwise been long was shortened.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，把乍看起来费解难懂的内容慢慢地理顺弄懂，这一工作使她感到满足，进展缓慢也正合她意：读通一段战争描写会消磨去一两个小时；一天会过得快些，要不然就太长了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

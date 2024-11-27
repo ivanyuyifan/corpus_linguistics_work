@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T074327Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>John Lennon</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约翰列侬的一生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>John Lennon was born with a gift for music and comedy that would carry him further from his roots than he ever dreamed possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约翰列侬与生俱来的音乐与喜剧细胞使他取得的辉煌超出他曾经梦想的可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a young man, he was lured away from the British Isles by the seemingly bound less glamour and opportunity to be found cross the Atlantic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个年轻小伙，他被那看起来散发着无穷魅力的大西洋彼岸所吸引，抱着会被发现重用的愿望离开了英国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He achieved that rare feat for a British per former of taking American music to the Americans and playing it as convincingly as any homegrown practitioner, or even more so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从一位专门给美国人说美国音乐的英国演员那里学到了高超的表演技巧，并且说得让人觉得他俨然是个在本地受过训练的本地演员，有的甚至觉得他就是个本地人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For several years, his group toured the country, delighting audiences in city after city with their garish suits,funny hair, and contagiously happy grins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年后，他的乐队开始巡演全国，以他们华丽的造型，滑稽的发型以及具有感染力的笑容带给了每个城市的观众欢乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This, of course, was not Beatle John Lennon but his namesake paternal grandfather, more commonly known as Jack, born in 1855. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>披头士约翰 列侬，这本不是他的真名。出生于1855年的他名字取自于他祖父，一个很大众化的名字，叫杰克。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lennon is an Irish surname-from O'Leannain or O'Lonain-and Jack habitually gave his birthplace as Dublin, though there is evidence that his family had already crossed the Irish Sea to become part of Liverpool's extensive Hibernian community some time previously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>列侬（Lennon）是个爱尔兰的姓氏，是从“O’Leannain”或者“O’Lonain”演变而来的。虽然有资料表明他的家族在某个时期穿过了爱尔兰海，成为了利物浦广大的爱尔兰人中的一员，但是杰克还是把自己的出生地写成都柏林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He began his working life as a clerk, but in the 1880s fol lowed a common impulse among his compatriots and emigrated to New York. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在最开始的时候，他是一个小小的职员。但是在1880年代的时候，他跟大多数平凡的同胞一样冲动地移民到了纽约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whereas the city turned other immigrant Irishmen into laborers or police officers, Jack wound up as a member of Andrew Roberton's Colored Operatic Kentucky Minstrels.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这座城市把其他移民的爱尔兰人变成了劳工或警察，杰克最终成了Andrew Roberton’s ColoredOperatic Kentucky Minstrels的一员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However brief or casual his involvement, this made him part of the first transatlantic popular music industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论这是多么的短暂还是偶然，这使他成为了第一批从大西洋彼岸流行乐曲的一分子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>American minstrel troupes, in which white men blackened their faces, put on outsize collars and stripey pantaloons, and sang sentimental choruses about the Swanee River, "coons," and "darkies," were hugely popular in the late nineteenth century, both as performers and creators of hit songs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使被白人耻笑，美国游吟乐队依然身穿宽松上衣和条纹裤子，为斯旺尼河哼唱着温柔的歌曲。“浣熊”和“黑人”，这两首歌曲跟他们的演唱者以及创作者红透了19世纪的后半期。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

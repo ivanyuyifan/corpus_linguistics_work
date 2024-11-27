@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072352Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Great Writers: Virginia Woolf </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伟大作家系列：弗吉尼亚·伍尔芙</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virginia Woolf is an icon with a shaky reputation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗吉尼亚·伍尔芙的声誉是双重的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is known as depressed-a novelist who, at age 59, drowned herself in the River Ouse outside her weekend home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一方面，她因抑郁症广为人知——她是一个小说家，在59岁那年，投进位于度假屋附近的欧塞河里，结束了自己的生命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She also stands as that prototypical female figure whose face we put on mugs, t-shirts, and greeting cards to cover-with one sweeping gesture-women's contribution to literary history.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一方面，她又以其典型的女性形象而声名远播，我们把她的肖像印在杯子上、T恤上和贺卡上，用一个笼统的姿态来囊括女性为文学史作出的贡献。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But behind the public gloss, Woolf was probably the best writer in English for describing our minds without the jargon of clinical psychology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在光环之后，伍尔芙也许算得上是描绘我们精神世界而不用临床心理学术语的最棒的英国作家了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She could ride the journey of our thinking through its smallest bends and mood shifts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她常借由思维与情绪上最细微的变化，踏上探寻人类思想的旅程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She helped develop what is now called the Modernist aesthetic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙帮助推动了我们今天所说的现代美学的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The generation before her, the Victorians, wrote novels that focused on the external details of our lives-on city scenes, marriages, wills, and other social contracts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>维多利亚时代的前辈们，他们所创作的小说都是关注外部世界的点点滴滴，诸如城市景象、婚姻、遗嘱和其他社会契约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf envisioned a new form of expression that would focus our attention on the mind-on how it feels, inside the brain, to know ourselves and other people.She defended the voices that live under the surface, that go unnoticed in public places. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔夫开创了一种新的表达方式，通过关注精神世界——关注思想情感和思维活动来了解自己和他人，她为那些隐藏在表面之下的声音辩白，为那些被公众忽视的声音辩白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because she was a woman, she did not get a formal education like her brothers did at Cambridge, and she tried to give voice to her emergent ideas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为是女性，她不能像就读于剑桥大学的哥哥们那样接受正常的教育，但她想要把自己的想法表达出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She also suffered with what we would now diagnose as bipolar disorder, working through bouts of intense productivity and debilitating depression, during which she could barely eat and hallucinated birds talking Greek outside her window. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙还患有我们今天所说的躁郁症，她的创作动力源源不断，却又总是遭受抑郁症的折磨，发病期间她几乎不思饮食，总觉得听到鸟儿在窗外用希腊语交谈着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She felt that doctors around her were quick to pathologize but badly attuned to the life inside her mind, and so she worked to build a language for what she called the "Outsiders' Society," those people who had no literature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她觉得身边的医生虽能迅速诊断出她的病症，却调节不了她的内心世界。所以，她努力为她所说的“局外人社会”建构一种语言，就是那些并不从事文学创作的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1941, with Hitler invading London, Woolf, a lifetime pacifist, ended her life by putting rocks in her pockets and walking into the river outside her summer home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙一生爱好和平，1941年希特勒入侵伦敦之际，她在自己的口袋里装满了石头，跳进了她家度假屋附近的一条河流，结束了自己的生命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf had brilliant things to teach us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙教给了我们很多有益的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rethink your gender</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再思性别</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gender is a role we play that is shaped by culture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>性别是我们扮演的一个角色，由文化塑造而成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf said that men and women take roles that work in a sort of reciprocal relationship-and, in that way, allow a culture to function. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙指出，男人和女人在一种相互关系中扮演着各自的角色——文化也因而能发挥作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think of a ladder and its base which prevents it from slipping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象一个梯子和它的底部，底部防止它下滑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For one person to be a ladder, another needs to be a base. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果一个人是梯子的话，就需要另一个来做他的底部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as we fit ourselves into our roles, we overlook parts of our fuller personalities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，为了扮演好自己的角色，我们常忽视了我们完整人格中的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we want to reencounter our fullest selves, we need to do some gender-bending; we need to seek experiences that blur what it means to be "a real man" or "a real woman."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果想要重现一个完全的自我，我们需要做一些性别转移的工作：去体验一些并不强调何为“一个真正的男人”或者何为“一个真正的女人”的经历。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf had a few lesbian affairs in her life (with Ethel Smyth, with Vita Sackville-West), and she wrote a magnificently bold queer text, Orlando: A Biography, which was essentially a portrait of her lover Vita, portrayed as a nobleman who becomes a woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙一生中有过几段同性恋情（和埃塞尔·史密斯还有维塔·萨克维尔·西），她曾写过一本十分大胆的同性恋小说——以她的爱人维塔为原型的《奥兰多：传记》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf encouraged social interactions that can at least suggest the androgyny within us: "It is fatal to be a man or woman pure and simple; one must be woman-manly or man-womanly. ­ Some marriage of opposites has to be consummated" (A Room of One's Own). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙鼓励社会交往，因为它至少表明我们的内心都存在着雌雄同体：对于一个不折不扣的男人或者女人来说，它是毁灭性的；人必须是具有女子气的男性或者具有男子气的女性......一些婚姻矛盾尚需完善”（《一间自己的房间》）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gender was also a crucial political issue for Woolf. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于伍尔芙来说，性别还是一个至关紧要的政治问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because we live in a culture in which the male sex is raised, from the days of the nursery, to think of himself as dominant-as stronger or smarter or more emotionally stable than the other gender-the culture at large is geared towards a cult of dominance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为我们的文化在男性很小的时候，就向他们灌输这样的观念，他们是社会的主导——比女性更加强壮、更加聪明、情绪也更加稳定——文化也大体上朝着崇尚男性主导地位的方向发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If one half of the population is reared to see its self-actualisation as the realisation of power, this brings an ethic of aggression, of possession, of war.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果有一半的人认为依靠权力才能实现自我目标，那么侵略、占有与战争就会由此滋生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her anti-war tract Three Guineas, Woolf argued that we will only ever end war by rethinking this habit of "pitting of sex against sex, of quality against quality; all this claiming of superiority and imputing of inferiority, [these roles that] belong to the private-school stage of human existence where there are 'sides,' and it is necessary for one side to beat another side, and of the utmost importance to walk up to a platform and receive from the hands of the Headmaster himself a highly ornamental pot."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在以反战为主题的随笔《三枚旧金币》中，伍尔芙认为终止战争的唯一方式是重新思考这个问题，即“所有这一切使一个性别与另一个性别，使一种性质与另一种性质相斗，所有这种自命为优越而中伤他人为低劣的行径，都属于人类生存中的私立学校的阶段，当时人们是分为‘派别’的，而且有必要让一派打倒另一派，而且走到讲台、从校长本人手里接过一个装潢华丽的罐子。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the largess of ourselves and for our culture, we need to rethink what it means to "be a man" or "a woman."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了我们自身的赠与和我们的文化，我们需要重新思考作为一个男人或者一个女人到底意味着什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Empathise, with distance </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有限移情</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf's primary attachment to the world was one of empathy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙对这个世界产生的最初依恋便是移情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what does empathy mean?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，移情是什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Empathy, she said, is the drive to understand a person's "character"; it's a grasping toward another inner life that makes our relationships possible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>移情，她说，是想要了解他人性格的冲动；移情让我们抓住别人的内心世界，使得人与人之间的交往变得可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It would be impossible to live for a year without disaster unless one practised character-reading and had some skill in the art. Our marriages, our friendships depend on it; our business largely depends on it; every day questions arise which can only be solved by its help" ("Mr. Bennett and Mrs. Brown").</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要是不对人物性格进行判断，我们一年也活不下去，非得闯祸不可，我们结婚、交朋友都靠它，我们的公事也主要靠它；每天有很多问题出现都得靠它才能解决。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But understanding another person is a delicate task-because when we try to know another person too completely, we risk shrinking that other person into what we want her to be, rather than what she is.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是了解一个人是个很微妙的任务——因为当我们试图对一个人有着充分的了解时，我们会不由之主的把她想象成我们心里的样子，而忽略了现实中的她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her novel To the Lighthouse, a married couple sits in their living room, reading silently side by side, observing and thinking of each other but pained by a gap that exists between them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她的小说《到灯塔去》中，有这样一幕，一对已婚夫妇坐在客厅里，肩并肩静静地阅读，互相观察、审视着彼此，但是他们之间横亘着一道距离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They cannot tell each other everything, and that gap will always exist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不能把所有的事都告诉对方，那道距离会永远存在着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We ache to know each other's minds, but knowing must include some waiting, some refusal to possess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们渴望了解彼此的思想，但也知道这会经历一些等待，一些拒绝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It makes us safe to feel like we know things, like we can always predict the other; but we must live through the discomfort of unknowing to achieve real intimacy with someone else.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想着能洞悉一切并总能预测到他人的想法，会给予我们一种安全感；但我们必须体验未知带来的不愉快，才能和他人建立亲密的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We pin them down to one meaning­. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们将它们牢牢固定在一种意义上......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when words are pinned down they fold their wings and die" ("On Craftsmanship").</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果词语被固定后，就敛翼而亡了”（《工艺》）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In A Room Of One's Own, she describes a rigid academic sitting at his desk, trying to define someone else exhaustively, completely, with written words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《一间自己的房间》里，伍尔芙描写了一个古板的学者坐在书桌前，试图用文字把一个人详尽透彻地刻画出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He was labouring under some emotion that made him jab his pen on the paper as if he were killing some noxious insect as he wrote, but even when he had killed it that did not satisfy him; he must go on killing it; and even so, some cause for anger and irritation remained." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他是有些激动地工作着，这使他用笔在纸上戳着，就好像写作的时候他正在杀死一只害虫，但即使当他把它杀死之时，这也未令他满意，但他必须继续杀死它，但即使如此，也存在着让他愤怒和生气的理由。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every effort to know is haunted by an effort to possess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们竭力了解他人时，总生出控制的欲望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But knowing someone else also means allowing for their otherness to exist-unknown and respected-beside us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，了解他人意味着允许差异的存在，我们并不清楚这个差异是什么但满怀尊重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Give yourself space and time alone</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.有独立的空间和时间</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf was an avid diary-keeper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙十分喜欢记日记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Daily routines can tend to sweep us away in a fast pace of obligation-to bosses, to family, to lovers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日常生活中接踵而来的琐事——对上司的义务、家庭的义务还有爱人的义务——总将我们搜刮干净。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In turn, Woolf believed in having some activity in your day in which you escape the pace of public life and, there, observe your thoughts in some reverie or silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，伍尔芙相信，一些让你从公共生活中逃离出来的日常活动，会让你在幻想与沉默中观察你的思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We need a retreat, a place without usefulness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们需要一方无用的清闲之地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The test [is to] make a space in which, quite naturally, you can say what you want to say, [a space that] has not crushed the thing I wanted to say, but allowed me to slip it in, without any compression or alteration," Woolf wrote one day in her diary. "Nobody shall come here on their terms; or haul me off to them on theirs." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这个实验是要营造一个空间，理所当然地，在这个空间你能自由发表言论，我想说的不会遭到打击，我能自由地驰骋，不受约束，不被歪曲。”伍尔芙在一篇日记中写道，“没有人会因为他们的事由来到这个空间；或者把我拉到他们的领地。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This space can only happen under the auspices of privacy you stake for seeming uselessness. This space might be therapy, or yoga, or diary writing, or long walks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有当你要保护那些看似无用的隐私之时，这个空间才会出现，它也许是做一个治疗、练一次瑜伽、写一篇日记或者是开始一场长途旅行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part of the reason why we need privacy is that natural beauty often gets covered up by a world that's angled for efficiency, for work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们需要隐私，部分是因为自然之美总是隐藏于一个谋求效率与结果的世界之下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her essay "On Being Ill," a character who gets the flu is finally forced to simply lie in bed and, "for the first time in years, to look round, to look up-to look, for example, at the sky ­ Now, lying recumbent, staring straight up, the sky is discovered to be something so different from this that really it is a little shocking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在散文《论生病》中，伍尔芙写到一个主人公因患感冒不得不躺在床上，“而现在，斜躺在床上往上凝视，会发现天空与刚才描述过的景象如此不同，让我们的确有几分讶异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This then has been going on all the time without our knowing it!"-the sky! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各种形状频频变幻而后消失！”——天空！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To see things new, we need to steal time from the day for the mind to be odd and on its own.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们需要从日常琐事中盗取一点时间，让思想自由自在，异想天开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feminism</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4. 女性主义</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virginia Woolf began A Room of One's Own (1929) by describing a visit she had made to Cambridge University, where she had decided to take a look around Trinity College Library in order to consult the manuscripts of Milton's Lycidas and Thackeray's The History of Henry Esmond. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗吉尼亚·伍尔芙的随笔《一间自己的房间》（1929），以她的一次剑桥大学之行开篇，她决定去那儿的三一学院图书馆看看，拜读一下弥尔顿的诗《利西达斯》和萨克雷的小说《亨利·埃斯蒙德》的手稿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As she was about to step inside the library, however, "a deprecating, silvery, kindly gentleman" had appeared and "regretted in a low voice that ladies are only admitted to the library if accompanied by a Fellow of the College or furnished with a letter of introduction." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，正当她要踏进图书馆之时，“一个表示不赞成的、头发银白的和蔼绅士立即就走了出来”，“低声表示遗憾，说只有在学术委员会委员的陪同下或者带有介绍信时，女士方可获准进入图书馆。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a minor key, Woolf had come up against one of the great stately pillars upon which the inferior status of women was founded; their disenfranchisement from equal rights to higher education.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不无忧伤，伍尔夫遇到的正是社会中一个突出的现象，即女性处于弱势地位；她们无法享有平等的选举权以及接受高等教育的权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most women would have been offended by the incident, but few were likely to have responded to the offence politically; few were likely to have done anything other than blame themselves or nature or God for it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数女性可能会对这一事件非常生气，但却不可能拿起政治武器作出反抗；而是埋怨自己、埋怨自然、埋怨上帝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, never in history had women had the same rights as men to education. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，历史上女性从不曾享有与男性平等的受教育权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And had not many of the most important doctors in Britain and certain politicians in Parliament too made reference to women's biologically inferior minds, which stemmed from the smaller size of their skulls? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有哪个杰出的英国医生或是议会政治家提到过女性的精神世界吗？那个存在于小小的头骨里的精神世界？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What right, then, did any one woman have to doubt the motives of a gentleman who turned her away from a library, especially if he had silvery hair and delivered his message with apologies and a polite smile?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哪个女性能有权质疑那个阻止其进入图书馆的绅士是何动机呢？特别是当这个绅士有着满头银发，用遗憾的口吻微笑着跟你说时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woolf was less easily silenced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍尔芙很难保持沉默。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Performing the quintessential political manoeuvre, rather than asking herself, "What is wrong with me for not being allowed into a library?", she asked, "What is wrong with the keepers of the library for not allowing me in?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她展现出高超的政治伎俩，而不是埋头自问。“我是怎么了才不让进入图书馆”，她问到，“那些守门人是怎么了才不让我进去。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When ideas and institutions are held to be merely 'natural,' responsibility for suffering must necessarily lie either with no one in particular or else with the pained parties themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当所有社会观念与体制都被视为理所当然，遭受责备的责任要么不会特别地落到谁的头上，要么就由受苦的一方独自承担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But a political perspective alters the understanding of blame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是一个政治观念改变了对于责备的理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than being forced to feel ashamed for not measuring up to a status ideal, we are given leave to imagine that it might be the ideal, rather than something in our character, that is at fault. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们并没有被迫因行为与地位的不符感到羞愧，而是被灌输了这样的观念：那可能就是理想的状态，而非我们性格中的某些东西出了错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than wondering in disgrace, "What is wrong with me (for being a woman, having dark skin or no money)?", we are encouraged to ask, "What might be wrong, unjust or illogical about others for reproving of us?" - a question asked not from any conviction that we must be innocent (the stance of those who use political radicalism as a paranoid way of avoiding self-criticism), but asked because there is more folly and partisanship in institutions, ideas and laws than a naturalistic perspective usually allows us to imagine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们没有狼狈不堪地闲逛，而是大胆发问“（作为一个肤色黝黑、身无分文的女人）我有什么错？”，“他们为什么要指责我们，这么不公平、不合逻辑？”——问这个问题并不是因为相信我们一定是无辜的（那些为避免自我批评而偏执地使用政治激进主义的人，正持有这样的立场），而是因为，那些存在于体制、观念与法律之中的愚蠢与党派之争，比自然主义的观点更能让我们产生这样的疑问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On her way back to her Cambridge hotel, Woolf therefore moved outwards from her own hurt to consider the position of women generally; "I pondered what effect poverty has on the mind; and what effect wealth has on the mind and I thought how unpleasant it is to be locked out and of the safety and prosperity of the one sex and the poverty and insecurity of the other." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此在回剑桥宾馆的路上，伍尔芙放下自己所受的伤害，思考起女性的普遍地位来。“我思索着，贫穷对头脑有什么影响，财富对头脑有什么影响，我想到被拒之门外有多么不愉快，想到一个性别的富足与安全以及另一个性别的贫穷与无保障。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She reflected upon, and felt doubts about, the fashionable views of what a decent woman should be like; namely, a creature who was always "intensely sympathetic. She was immensely charming. She was utterly unselfish. She excelled in the difficult arts of family life. She sacrificed herself daily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她反思着这些，对流行的观点“何为一个体面的女人”产生了质疑；换句话说，女人是这样一种生物，她们“极富同情心，极有魅力，毫不自私，擅长家务，天天自我牺牲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there was chicken, she took the leg; if there was a draught, she sat in it - in short, she was so constituted that she never had a mind or a wish of her own, but preferred to sympathise always with the minds and wishes of others."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果家里吃鸡，她只吃鸡腿；如果家里有穿堂风，她坐在风口。她就是这样一个人，从来没有想到过自己的想法与期望，总是喜欢按照别人的想法和期待来做出牺牲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On returning to London, the questions continued: "Why did men drink wine and women water? Why was one sex so prosperous and the other so poor?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到伦敦之后，伍尔芙还在继续发问：“为什么男人喝酒，女人喝水？为什么一个性别如此富裕，另一个性别如此贫穷？”伍</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

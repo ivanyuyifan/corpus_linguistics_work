@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Water-in-Carbon Dioxide Microemulsions: An Environment for Hydrophiles Including Proteins</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>二氧化碳包水的微乳液可做为包括蛋白质的亲水物的溶体</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> Carbon dioxide in the liquid and supercritical fluid states is useful as a replacement for toxic organic solvents. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>液态或超临界状态的二氧化碳可用来替代有毒的有机溶剂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, nonvolatile hydrophilic substances such as proteins, ions, and most catalysts are insoluble. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，亲水物质如蛋白质、离子和大多数催化剂却不能溶解在二氧化碳之中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This limitation was overcome by the formation of aqueous microemulsion droplets in a carbon dioxide-continuous phase with a nontoxic ammonium carboxylate perfluoropolyether surfactant. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们使用无毒的全氟聚醚碳酸铵表面活性剂应用到二氧化碳介质中，形成二氧化碳包水的微乳液滴，便可以解决上述问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Several spectroscopic techniques consistently indicated that the properties of the droplets approach those of bulk water. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>采用几种光谱技术的研究，结果都表明这种微乳液滴的特性与水的特性相近。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The protein bovine serum albumin (BSA) with a molecular weight of 67,000 is soluble in this microemulsion and experiences an environment similar to that of native BSA in buffer.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>分子量为67，000的牛血浆白蛋白(BSA)，可以溶解在这个微乳相之中，这类似于天然的牛血浆白蛋白溶解在血液之中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The ability to design surfactants for the interface between water and carbon dioxide (CO2) offers new opportunities in protein and polymer chemistry, separation science, reaction engineering, environmental science for waste minimization and treatment, and materials science.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为水在二氧化碳(CO2)之中形成微乳液而设计的一种表面活性剂，给蛋白质和高聚物化学分离科学、反应工程、减少和处理废物的环境科学带来了新契机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Supercritical CO2 (critical temperature and pressure are 31°C and 73.8 bar, respectively) is a useful replacement for organic solvents to minimize waste and reduce volatile organic carbon (VOC) emissions.Not only is CO2 more environmentally acceptable and naturally abundant than organic solvents, but it is also nonflammable, essentially nontoxic, and the least expensive solvent after water.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>超临界CO2(临界温度和压力分别是31°C和7318bar)，可以用来替代有机溶剂，它可以减少废物和挥发性的有机溶剂的散发，在环境保护方面，CO2比有机溶剂更可以接受。CO2天然丰富，并且不燃、无毒、价格便宜，仅次于水。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Practical applications for CO2 include extraction of caffeine from coffee, homogeneous (1) and heterogeneous (2, 3) polymerization, production of submicrometer particles and fibers (4), spray painting and coating, and utilization as a feedstock to synthesize various organic substances (5).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>CO2也有很多实际应用，主要有:从咖啡豆中萃取咖啡因，均相、异相的聚合物合成，亚微米颗粒和纤维的生产，喷漆和被用做各种有机物的原料。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Our objective here was to make CO2 accessible to proteins and other nonvolatile hydrophilic substances such as ions by producing water-in-CO2 microemulsions that consist of thermodynamically stable and optically transparent aqueous domains.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本文的目的就是研究水如何在CO2中形成微乳相来使CO2流体可以溶解蛋白质和别的非挥发的亲水物质(如离子)，这种微乳相在热力学上是稳定的，光学上是透明的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These polar domains can solubilize the protein BSA.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个极性的水相可以溶解蛋白质BSA。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The properties of CO2 are much different from those of water or nonpolar organic solvents.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>CO2的特性非常不同于水和非极性有机溶剂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unlike water, CO2 has no dipole moment. Even when highly compressed, CO2 has far weaker van der Waals forces than those of hydrocarbon solvents, making it more like a fluorocarbon or fluoroether.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>CO2不同于水没有偶极矩，CO2甚至在高压下也比烃类溶剂的范德华力要弱，CO2类似于氟碳化合物和氟化乙醚。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequently, both lipophilic and hydrophilic substances are often insoluble. It should be possible to form a dispersion of either a hydrophilic or lipophilic phase in a C02-continuous phase.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此亲水和亲脂物质常不溶，但可以形成亲水和亲脂相分散在CO2连续介质中来解决此问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The dispersions may be stabilized with surfactants containing "CO2-philic" tails, such as fluorinated compounds.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用“亲CO2”尾部的表面活性剂，如氟化物，可以使这种分散相稳定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Recently, an organic latex, polymethylmethacrylate, was synthesized in CO2 with a fluorocarbon stabilizer, demonstrating the ability to disperse an organic phase (2).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最近在CO2中使用氟碳化合物稳定剂合成有机胶乳，聚甲基丙烯酸甲酯，这就证明了它有分散有机相的稳定性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, the ability to disperse water into CO2 as a microemulsion has been elusive, despite attempts with more than 150 surfactants during the last decade (6, 7).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管有150多种表面活性剂被用来做实验，但把水分散在CO2之中形成微乳相的研究还没有发现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The design of surfactants for conventional water-in-oil microemulsions is reasonably well understood, even for super critical fluid alkane solvents (8-10).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为传统的油水乳化剂而设计的表面活性剂是易理解的，甚至对于超临界烷烃所设计的表面活性剂也一样易理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, little is known about designing surfactants with the proper balance of molecular interactions for the C02-water interface. A key advance was the extraction of a moderately polar interfacially active dye, thymol blue, into reverse micelles in CO2 with a newly synthesized fluorinated sulfosuccinate surfactant (11).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而为使水和CO2之间分子作用达到平衡所设计的表面活性剂还没有，在CO2之中用最新合成的氟化磺基琥珀酸酯表面活性剂，萃取极性适中的表面活性剂染料百里酚兰时，流体中形成反向胶束，这给了我们关键的提示。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The amount of water, if any, present in the micelles was unknown, because the dye is soluble in water free reverse micelles (12).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在胶束中水的量即使有也是不知道的，因为百里酚兰在无水的反向胶束中是可溶的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In contrast to thymol blue, proteins are not soluble unless the reverse micelle cores are swollen with water to form microemulsion droplets.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与百里酚兰相比，蛋白质不溶于CO2之中，除非有反向胶束与水溶胀而形成微乳液。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Recently, Harrison et al. (13) showed enhanced dissolution of water into CO2 with a fluorocarbon-hydrocarbon hybrid surfactant.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最近Harrison等人研究表明用氟化碳与烃的表面活性剂可以增大水在CO2之中的溶解度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although this suggests the possibility of the aggregation of water into a micro emulsion, the nature of the water was not studied, because the surfactant was rapidly hydrolyzed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这说明水在微乳相中有聚集的可能，但对水存在的特性没做研究，因为表面活性剂很快分解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Very few lipophilic or hydrophilic surfactants are soluble in CO2.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在CO2中能溶的亲水或亲酯的表面活性剂很少。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We chose surfactants that are active at the fluorocarbon-water interface (used in blood substitutes) given that the weak van der Waals forces of CO2 match those of fluorocarbons.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们选用了氟碳化合物与水两相表面活泼的表面活性剂(在血液的替代品中使用过)，因为它可与CO2之间形成弱的范德华力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We have used an ammonium carboxylate perfluoropolyether (PFPE) surfactant, CF3O(CF2CF(CF3)O)3CF2- COO-NH4+ (14) (commercially avail able in the COOH form), with an average molecular weight of 740.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本实验采用的表面活性剂为全氟聚醚碳酸铵。〔CF3O(CF2CF(CF3)O3CF2COO-NH4+简称PFPE〕(商业上可以得到COOH形式的产品)，其平均分子量为740。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PFPE carboxy late surfactants with molecular weights from 2500 to 7500 are soluble in CO2 at pressures below 300 bar (15), but their ability to form microemulsions has not been reported.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>羰基化PFPE表面活性剂的分子量为2500～7500，在压力低于300bar可溶解在CO2之中，但它们形成微胶束的能力还未见报道。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The biological inertness of PFPE surfactants complements the non toxic nature of CO2.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>生理上惰性的PFPE表面活性剂正好能满足CO2无毒的特点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To prepare a microemulsion, we added water to a 1.4 weight % solution of PFPE in CO2, yielding a water concentration of 0.48 weight %.Phase boundaries were determined for a given solution of constant composition with a stainless-steel view cell (28 ml) containing a sapphire window (10).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了得到微乳相，首选把水添加到含PF2PE114w/%的CO2之中，使用的浓度达到0.48w/%，然后往带有蓝宝石可视窗口的不锈钢容器(28mL)加入给定组成的溶剂，测定其相边界。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At high pressures, the single-phase microemulsions were optically transparent.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>高压下，单一相的微乳液在光学上是透明的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As the pressure was lowered at constant temperature by moving a piston (10), the loss in density and hence in solvent strength of CO2 caused the solution to become turbid.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>温度不变移动活塞降低压力，密度下降，CO2的溶解能力下降，流体变浑浊。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Table 1 lists the cloud-point pressure and corresponding pure CO2 density as a function of temperature.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>表1给出了随温度变化时CO2的浊点压力和相应的CO2密度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We calculated the number of moles of water to those of surfactant, W0, by subtracting the independently known amount of water soluble in pure CO2 without surfactant from the total amount of water.The total moles of water per mole of surfactant was 14 for all temperatures.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们计算出水与表面活性剂的摩尔数之比W0。(无表面活性剂存在时相应的CO2所能饱和水的量已被扣除)，在所有温度下水与表面活性剂的摩尔比为14∶1。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A W0 of 10 suggests that some type of aggregated water domain is present, because a single surfactant molecule would not be hydrated by so many water molecules.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>W0为10时表示有聚集起来的水域存在，原因为一个表面活性剂分子，不能同时被这么多水分子水化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To show that such a domain truly exists and to characterize its nature, we describe below the results of four different spectroscopic techniques. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了说明这种结构确实存在并且描述它的特点，通过4种不同的光谱技术来分析说明。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fourier-transform infra red (FTIR) spectroscopy has been used to characterize water environments in micro emulsions, specifically interfacial "bound" water close to the surfactant head groups and "bulk-like" water in the droplet core (16). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用傅立叶变换红外(FTIR)光谱来测定微乳相内水的特征，特别是靠近表面活性剂头部的“束缚”水分子和在胶束核中象“水球”一样的水。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We used D20 because the 0-H stretching bands are obscured by CO2 and PFPE absorptions (17). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为O-H键易被CO2和PFPE吸收而变得模糊，故采用D2O分析。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Figure 1 shows the asymmetric and symmetric bands for free D20 dispersed in a saturated solution of CO2 (trace A, 2761 and 2653 cm-1). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图1显示了在无表面活性剂存在时，被D2O饱和的CO2溶剂中的对称和反对称键的吸收峰。(曲线A，2761cm-1和2653cm-1)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A dramatic effect was seen upon addition of PFPE to the solution (trace B) with the appearance of a large broad band centered at 2535 cm-'. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>把PFPE加入到溶剂CO2中后，很明显出现了以频率2535cm-1为中心的宽带吸收峰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This low-frequency broad band can be assigned to highly hydrogen bonded water in the microemulsion core, because the 0-H (or O-D) stretching frequency is known to decrease in proportion to the hydrogen bond energy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个低频宽带峰可以认为是在微乳相核中心含氢键多的水所产生，因为O-H(或O-D)伸缩振动频率是随氢键键能增加而降低。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The O-D stretching frequency approaches that of pure bulk D20 at -2500 cm-'. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里O-D伸缩振动频率接近于纯D2O液的频率～2500cm-1。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second water environment in the microemulsion structure, interfacial water, may be tentatively assigned to the shoulder at 2697 cm- (trace B). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图中曲线B在2697cm-1处的肩峰，可推测在微乳相中存在另一个界面水域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This intermediate frequency, between those of free and bulk-like D20, might be expected from the more strained interfacial environment for hydrogen bond formation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个中间频率的吸收峰是位于无表面活性的D2O中O-D和有表面活性剂存在时D2O的O-D伸缩振动的中间，是由于表面活性剂的加入，分子界面氢键的形成所产生。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Spectral shifts were measured with the spectroscopic probe methyl orange [(CH3)2NC6H4N=NC6H4SO3Na. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以甲基橙〔(CH3)2NC6H4N=NC6H4SO3Na〕作探针用分光镜测光谱漂移值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As the local environment of the probe becomes more polar, the absorbance maximum Xmax shifts to longer wavelengths. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当探测对象极性增强，吸收最大波长λmax就向波长增大方向移动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Methyl orange in methanol was introduced into a stainless steel cell with two sapphire windows, and the solvent was fully evaporated. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>溶解在甲醇中的甲基橙由2个蓝宝石窗口加入到不锈钢釜中，然后再完全蒸发溶剂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The PFPE surfactant (0.026 M) and various amounts of water were loaded into the cell. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随后把PFPE表面活性剂(0.026mol)和不同数量的水装入釜中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The spectra obtained at 276 bar are shown in Fig. 2 for various values of W0. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图2显示在276bar压力下，不同W0值的光谱图。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Benchmarks were placed for Xmax of (surfactant-free) solvents, including methanol (421 nm), water (464 nm), and aqueous carbonic acid (502 nm). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>把不含表面活性剂的溶剂的λmax作为基准点，即可得甲醇421nm，水464nm、碳酸水502nm。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As the value of W0 increased, there was a pronounced shift in Xmax, which indicates that methyl orange resides in a highly polar aqueous environment. This result confirms the existence of the bulk-like water seen, as shown above, with FTIR spectra. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当W0值增加时，λmax有明显的移动，这就表示在强极性的水核中有甲基橙存在。也就更加确定了水泡的存在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The shoulder in the spectra at 540 nm indicates the presence of an acidic environment due to carbonic acid.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在光谱图上540nm处有肩峰表示体系处于碳酸存在的酸性环境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Given a stable aqueous environment within CO2, we examined next solubilization of a model protein, acrylodan-labeled BSA (BSA-Ac) (18, 19). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确定了在CO2中有稳定的水核存在后，下一步我们就测定蛋白质BSA-Ac(负载有丙烯基的BSA，丙烯基作标志)的溶解度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This particular system was chosen because BSA is moderately large (67,000 daltons) and the strong Ac fluorescence provides a measure of both BSA conformation and concentration in solution (20). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>选用这种蛋白质是由于BSA分子量大小适中(67，000×1165×10-24g)，并且有强的Ac荧光，由此便可以方便地测量BSA的浓度和组成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We checked for any residual emission of pure supercritical CO2 and found essentially none. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而检测结果表明，纯超临界CO2中基本上没有荧光强度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Weak fluorescence at -390 nm was observed in a binary mixture of CO2 and water (Fig. 3A). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在水与CO2的二元体系混合物中，发现在～390nm有较弱的荧光吸收峰图3A。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With the addition of PFPE to form a microemulsion (W0 = 9), the BSA-Ac dissolved and the emission was substantial (Fig. 3B, solid line). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当给体系中加入PFPE便形成微胶束(W0=9)，BSA-Ac便溶解，体系中便出现了Ac的特征发射光谱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For comparison, we show spectra of native BSA-Ac (19, 21) and of BSA-Ac in bis(2-ethylhexyl) sodium sulfosuccinate (AOT) water-in-oil microemulsions formed in liquid n-heptane at Wo = 20 (21). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了便于对比，我们把纯BSA-Ac的光谱图，与BSA-Ac在液态正庚烷中加入双(2-乙基己基)-磺基琥珀酸钠(AOT)表面活性剂形成油包水微乳液(W0=20)的光谱图，一起在图中表示出来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For convenience, each spectrum was normalized to the maximum of the BSA-Ac + PFPE + water + CO2 fluorescence.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为方便起见，每个峰都以BSA-Ac+PFPE+水+CO2的最大荧光强度为标准进行校正。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The blue-shifted emission band in Fig. 3A relative to that of native BSA-Ac (Fig. 3B) is consistent with a small amount of BSA-Ac suspended into wet CO2 and with an Ac residue experiencing a nonpolar environment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与图3B中纯BSA-Ac的发射波长相比，图3A中的发射波长蓝移，这与有少量的BSA-Ac悬浮在湿的CO2之中有关，也与Ac处在非极性环境下有关。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Exposure of the Ac residue to CO2 indicates a conformational change in the suspended BSA. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>湿的CO2中呈现出悬浮态的Ac，表明不溶的BSA的形态的变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Upon forming a water-in-CO2 microemulsion with PFPE, the BSA-Ac fluorescence is very strong and is similar to that of native BSA-Ac in buffer at pH 7.0. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当用PFPE形成CO2包水微乳液时BSA-Ac荧光强度是非常强的，类似于纯的BSA=Ac在pH=7的缓冲溶液中的荧光强度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After recovery, the BSA-Ac is still recognized by the BSA antibody. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当分离还原后，BSA-Ac仍然能被BSA的反物质检出。(也就是说BSA-Ac从体系分离出来后，性质未发生变化。译者注)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Together, these results show that BSA-Ac is solubilized within the aqueous microemulsion droplets in an environment similar to that of bulk-buffered water and remains biologically active. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外，结果还表明，BSA-Ac可以溶解在乳化水滴中，类似于在pH=7缓冲溶液中，而且可保存其生物活性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These results are especially intriguing because BSA-Ac in AOT microemulsions at high water loadings (Fig. 3B) is conformationally altered with respect to native BSA-Ac. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有趣的是:BSA-Ac溶解，在含水较高的AOT乳化液中，其结构与BSA-Ac本身的结构比较有所变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Finally, we estimate that about 9% of the total BSA-Ac is encapsulated within the PFPE microemulsion droplets (22) and that the remainder is likely at the bottom of the vessel.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后，我们估计大约有9%的BSA-Ac溶解在PFPE微乳液中，剩余部分可能还在容器底部。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>X-band electron paramagnetic resonance (EPR) of 4-hydroxy-2,2,6,6-tetramethyl piperidino-1-oxy (4-hydroxy-TEMPO) was used to probe the local environment of the PFPE assemblies (23). At low CO2 density (&lt;13 M), nitrogen hyperfine splitting constants (called AN) for 4-hydroxy-TEMPO in CO2 solutions containing water and PFPE are much higher than those in CO2 alone, which indicates that a local environment around the probe is much more polar than pure CO2 (Fig. 4). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们用4-羟基-2,2,6,6．-四甲基-1-氧基哌啶基（4-羟基-TEMPO）作标记物，通过x-波段电子顺磁共振（EPR）来研究PFPE所形成的微乳核结构，当CO2的密度小于13M时，含水和PFPER的CO2体系的标记物即4-羟基-TEMPO的N超精细分裂常数AN比单独使用C02时高许多。说明所研究韵乳化核的极性比纯C02要高许多（图4）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also, the EPR spectral shapes reflect highly anisotropic motion, as evidenced by the diminished high-field peak. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外，EPR峰的形状，即逐渐减小的高场峰，反映出体系高度各向异性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both the splitting constants and spectral shapes show that PFPE is present as an organized assembly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>超精细分裂常数和谱峰的形状表明，PFPE是有序排列的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In contrast, the motion of the probe in water-saturated CO2 (without surfactant) is isotropic.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>相反饱和水的C02（不含表面活性剂）体系是各向同性的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At CO2 densities &gt;13 M, the apparent AN in the surfactant solution drops to near that in neat CO2. Thus, the observed AN results predominately from the presence of 4-hydroxy-TEMPO molecules found outside the microemulsion droplets. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当CO2的密度大于13M时，含有表面活性剂的CO2体系的AN很快降到接近纯CO2的AN，这是由于在微乳液滴外部有4-羟基-TEMPO的存在所致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The shapes of the spectra support this explanation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这点亦可从光谱图中得到证实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The lack of a polar environment for 4-hydroxy-TEMPO is a result of the rapid reduction of the nitroxide by reaction with NH4+ within the polar microemulsion core. The reduction in dense CO2 surfactant solutions follows pseudo firstorder kinetics with an apparent rate constant, k, of 6.8 x 10-4 s-1. For comparison, k is equal to 2.0 × 10-5 s-1 for solutions of 4-hydroxy-TEMPO in trifluoroacetic acid and ammonium acetate (pH 3.0). The much larger rate constant may be attributed, in part, to a high degree of nitroxide orientation in the restricted environment of the microemulsion core. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在极性的微乳相的核中，NH4+对使氧化氮很快还原，导致了4-羟基-TEMPO缺乏极性环境，在含表面活性剂且CO2密度大于13M的体系中，还原反应的表现速率是一级，k = 6.8×10^(-4)S^(-1)，而在三氟醋酸和醋酸铵组成的缓冲溶液中(pH = 3) ，4-Hyolroxy —TEMPO被还原的表现速率常数为k = 2.0 ×10^(-5)S^(-1)，速率常数增大的原因是由于在这样一个限定的核中，氧化氮的方向高度一致引起的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The strong sensitivity of the reaction rate to CO2 density is due to the requirement that a water pool be present before significant ionization and subsequent reduction reaction can occur.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于离子化和随后的还原反应发生都需要在微乳相内有这样一个“水池”存在，故反应速率对CO2的密度变化很敏感。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Our FTIR, ultraviolet-visible absorbance, fluorescence, and EPR experiments demonstrate the existence of an aqueous domain in CO2 with a polarity approaching that of bulk water. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们使用FTIR、紫外可见吸收光谱，荧光光谱和EPR光谱都证实在CO2中有水溶性的环境存在，它的极性和一般的水溶液极性差不多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, not only do PFPE-based microemulsions offer a thermodynamically stable aqueous domain in a CO2 phase, but they also appear to offer simultaneously a microenvironment that may not alter significantly the conformation of sequestered proteins. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在CO2中由于加入了PFPE，形成了微乳液，提供了热力学上稳定的水核，同时也提供了可溶解蛋白质但不改变蛋白质结构的流体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By comparing these results with those of previous studies, the successful formation of a microemulsion with PFPE may be attributed to the weak van der Waals forces of the surfactant tail, the strong tendency of the ionic head group to leave C02, the CF3 branching and the small size of the head group, which favor bending of the interface about water, and the low solubility of the fluoroether tails in water. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>和以前的研究结果相比，用PFPE成功地形成微乳相。其原因归结于以下几点：表面活性剂亲油端具有弱的范德华力，而其极性强的头部离子有强烈的排斥CO2的趋势，CF3支链和小的亲水头部有利于在水表面形成弯曲排列及氟化醚尾部在水中有低的溶解度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Given these guidelines, it should be possible to synthesize additional surfactants for environmentally benign applications in dense CO2.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>依照这些条件，能合成出别的在高密度CO2中使用的表面活性剂，并使它更具环境相溶性。</seg></tuv>
+</tu>
+</body>
+</tmx>

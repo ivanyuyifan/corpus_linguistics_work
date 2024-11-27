@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T024629Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin Highly</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加文·海利</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did it happen this way? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>竟然会有这样的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The land lay like stone, and one night, all night long, rain pelted down on it the way people, they say, hammer hard on a stone to find blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一个晚上，下了整夜的雨，这雨下得如此猛烈，就像人们形容的那样，好像要把石头砸出血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in the morning the land was cut in two by a deep flow of creek, clotted with red weed--Gavin Highly's creek.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天早上，石头一样坚硬的地面被一条深深的溪流割成两半，红色的杂草缠绕在周围——这是加文·海利的小溪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But all this was a long time ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都发生在很久以前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not know back then that hearts could be laid out like land and cut in two by storms coming out of the sky, or that dreams could be thrown, as Gavin Highly threw the ashes of his fire or his oyster shells or his old tins and bottles or his scraps of food, deep into the dark flowing divided heart to be buried there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我不知道，心可以像土地一样被暴雨割成两半，而梦想也可以抛弃，就像加文·海利把壁炉灰、牡蛎壳、旧锡罐、瓶子或是残羹剩饭扔进深深的溪流一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not know, and my brother did not know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我不了解，我的哥哥也不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We cared more about plums--ah, they were yellow and dusty blue and hung on trees, over Gavin Highly's fence, and in the early autumn the sun burned on each plum till its tight yellow or blue dusty skin gave in and rolled up like a blind to let in more sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们更关心李子，那些悬挂在树上的，黄色和灰蓝色的李子，就在加文·海利的篱笆里。初秋的太阳灼烧着每一颗果实，直到它们紧绷的黄色或灰蓝色皮肤裂开为止，好像卷起了百叶窗让更多的阳光照进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The plums split and were ripe and we ate them and, if Gavin Highly caught us, all he said, in one breath, was "Hop-it-you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>李子成熟开裂时，我们就去吃。假如被加文·海利抓住，他会一口气说，“滚开你们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think he understood about plums.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想他很了解李子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He lived alone; apparently, he had always lived alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他独自居住，显然一直以来只有他一个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story was that he had been up Central, living in a rabbit burrow, where a rabbit kept house for him and he invited ferrets, kindly ones, in for afternoon tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传说他以前住在森特拉尔的一个兔子洞里，由一只兔子替他打理家务，他邀请友善的白鼬喝下午茶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But of course that sort of story couldn't be believed by realists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现实的人当然不会相信那样的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, it was true that he had never lived in an actual house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他从未住过像样的房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A tent, yes, and huts and, when he was small, in a room with an iron bed, top and tail at night with brothers and sisters, but never a real house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要么是帐篷，要么是木屋。当他还小的时候，住在有铁床的屋子里，晚上和兄弟姐妹挤在一起睡，那绝不是真正的房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His dwelling now was a hut with a hole in the roof to satisfy the needs of smoke wanting to go out, and with old bulging beer barrels, corseted by rusty iron hoops, placed at strategic points around the outside walls, to act as downpipe and spouting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他的寓所是一座小棚屋，屋顶上有个洞作为烟囱，围绕外墙放置着几个铁箍都生了锈的啤酒桶，起到落水管的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There wasn't even a step to the door. Going inside was like climbing a mountain, though I had never been inside and could only guess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋门前甚至没有台阶，进屋的时候仿佛在爬一座山。虽然我从来没进去过，但我可以猜想到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People said that there were books everywhere, on shelves, under chairs, on chairs--the chairs were two--and tied with binder twine in bags under the bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们说他的屋子里到处是书，书架上，椅子上，椅子下，椅子共有两把，床底下也是用麻绳捆好的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin Highly collected and loved books. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加文·海利喜欢书，并且收藏它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one had ever really seen these books, but hearsay had it that they were worth thousands of pounds and, if ever Gavin wanted to have his dream and live in a proper house with a proper downpipe and spouting and taps inside and waste pipes under the sink and hot water, why, all he'd need to do was sell his books.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人看过这些书，不过听说它们价值好几千英镑。如果海利梦想着住在一所体面的房子里，配备了体面的落水管、下水道、自来水和热水，那么他只要把书卖掉就行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the selling, word went around, would have to happen very soon, for Gavin's hut had been condemned by the Health Inspector, and if he had no money to buy a house he would have to go to jail or to an old people's home, where he'd eat boiled mutton all the time and no oysters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利打算卖书了，消息传得很快。因为他的小屋成为了卫生督察员追究的对象。要是没钱买所新房子，他可能会去蹲监狱，或者去养老院，在那儿他最多能吃到煮羊肉，牡蛎则永远不会有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And folks knew how much Gavin Highly liked oysters--indeed, he ate so many that he could have become one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们都知道加文·海利多么喜欢牡蛎。确实，他吃了那么多，自己都快变成牡蛎了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was in league with them, surely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他和它们肯定是一伙的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then he was the kind of man who is in league with many things--almost everything except people. For him, there was no way, it seemed, of being in league with people, as he was with the birds, shabby starlings, their feathers worn and shiny green from flight, or with the frogs that in early autumn made the creek vocally sinister with their croaking, handless and cold, their pale-yellow-and-cream ballooning throats propped upon the surface of the water, or with the trees, willows that knew whenever their limbs failed, and lived near the creek, so as to be able to drop their dead parts down for burying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了与人不合群，他和动物们甚至植物都很合得来，比如八哥，它们的羽毛褪色了，飞翔的时候闪耀着绿光；或者是初秋不停鸣叫的青蛙，这些傻乎乎冷冰冰的家伙让小溪的喧闹不绝于耳，它们淡黄色的喉囊浮出水面；还有树木，柳树知道枝条在什么时候死去，于是扎根在小溪旁边，把那些枯死的枝条埋葬在水里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was that why Gavin Highly, too, lived so close to the creek? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那也是加文·海利住在小溪附近的原因吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tip, splash went the ashes from his fire every morning; whizzbang went the pork-and-bean tins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天早晨，他的炉灰溅起浪花，砰砰的声音是扔肉和豆子罐头盒时发出的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Till the Health Inspector made a visit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在卫生督察员到来之前，一切都很正常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a narrow man, like a shadow, the sort of man who slips under doors and through keyholes, or else how could he have known that our dog, Lassie, slept in our bedroom?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那家伙是个刻薄的人，仿佛一个影子，就是那种从门缝下面，或者从钥匙孔溜进来的人，要不然他怎么知道，我家的狗莱西睡在我们的卧室里呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have had complaints," he said to Mother on one visit. "There are dogs in and out of your windows. You have a . . . lady dog, I understand." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我要抗议”，有一次他对我母亲说，“你们家的窗户总有狗进进出出，你们家的狗是母的，我明白了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, the Health Inspector was a sneaky sort of man, and I felt sorry for old Gavin Highly when I heard my parents talking about him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，卫生督察员是个鬼鬼祟祟的家伙。从我父母口中得知消息时，我真替老加文·海利难过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They say the place is a disgrace. Full of books and oyster shells," a lady said to my mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们说那个地方很肮，到处是书和牡蛎壳，”一位女士告诉我母亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This lady came and drank tea and then knitted tea cozies and hotwater-bottle covers for bazaars, while Mother watched and wished that she could knit and crochet, but I did not like the knitting woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位女士来我家喝茶，然后开始编织茶杯罩和热水瓶罩，准备拿到集市上卖。我母亲看着她这么做时，希望自己也会编织和钩花。可是我不喜欢弄针织活的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Come to think of it, I wasn't much in league with people, either, and so I pitied poor Gavin Highly having to sell all his precious books or else sit in jail with a bowl of bread and water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这么看来，我也是不合群的人，所以我为可怜的加文·海利惋惜，他不得不卖掉珍贵的书，否则就得待在监狱里，只有一碗水和面包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I soon put him out of my mind, for a little while, anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我很快把这事儿忘了，在那么一小段时间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother had a new sled with a patented speedometer, which read, true or false, ninety miles an hour.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我哥哥有了一架新雪橇，还装着专利计速器。不知道是不是真的，上面显示每小时90英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One morning, it was autumn and the little polished acorn bullets were knocking down hard on the roof of the shed, and it was breakfast time, with my father eating porridge, my mother sewing a quick patch onto Dad's work pants, my brother putting the kindling wood in the coal house, and me still sitting, past porridge and halfway through bread and treacle, and suddenly my father stopped eating and said, "Today's the day."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个秋天的早晨，光滑的橡树种子掉落在屋顶上的时候，我们正在吃早餐。父亲喝着粥，母亲给他的工作裤缝补丁，哥哥把柴火放进煤棚。我静静地坐着，喝完了粥，正吃蘸蜜糖的面包。突然父亲放下粥说，“今天就到日子了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A silly, obvious remark. Of course today was the day--for me, the day of sycamore windmills. The sycamore seeds were brittle and thin as a fly's wings, but they could whizz, and today was the day of whizzing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平淡而傻气的话，今天当然到日子了。对于我，今天是悬铃木飞翔日，悬铃木的种子又薄又小，就像苍蝇的翅膀，它们能飞，今天就是它们飞的日子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I knew that my father was not talking about that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我知道父亲说的不是这个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took another piece of bread and treacle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我又拿了一片蜜糖面包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You have hollow legs," my father remarked absently, but in my curiosity about today's being the day I felt no special pride in this anatomical wonder, which my father quite frequently assured me that I possessed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你可真能吃，”父亲心不在焉地说，不过因为对今天是什么日子的好奇，我对解剖学上的奇迹并不感到十分自豪，虽然他经常提醒我这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He continued, "I hear Gavin Highly is selling his books today. He's making quite a fuss about it, advertising and all that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他接着说，“听说加文·海利今天要卖掉他的书，他小题大作，贴了广告，还叫了货车，要把书籍运到拍卖行去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a van calling to take them to the auction room, and this morning an expert is coming to look at the collection and price it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天早上，有一位专家会去看那些藏书，然后给它们估价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Half the town'll be there for sure."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>镇上一半的人都会去看。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could I forget that day? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我怎么会忘记那一天呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a light-blue morning wind blowing and thistledown flying loose along the tops of the clouds and larks going up and down, up and down, in the shining lift of the sky.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晨风吹着，蓟花的种子轻轻地飘到云端，云雀忽高忽低地飞翔，在明亮的天空下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poor Gavin Highly. I did not see anything that happened, but I know, I tell you, I know that it happened this way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可怜的加文·海利，我没有亲眼目睹，不过我知道会发生什么事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toward noon Gavin Highly began to prepare a number of packing cases at his front and only door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>快到中午时，加文·海利准备了一些货物箱放在前门，也是唯一的房门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cases were labelled "Soap Powder," "Tinned Beans," or "Sunkissed Oranges." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些箱子上贴着“肥皂粉”、“罐装豆子”和“阳光橙子”的标签。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All would eventually contain books, millions' worth, folks said, and old Highly would be someone, richer than anyone in town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们会被装上书，价值好几百万呢，镇上的人都说。那么老海利将会变成有头有脸的人物，比小镇上的任何人都富有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sat crouched like a watchdog on top of the cases, waiting for the men to come and see the books, the experts who lived in clean houses with doorsteps and downpipes and spoutings and taps, hot and cold, and baths, the experts with their folded wallets stuffed to the seams with banknotes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他像一只看家狗一样蹲在箱子上，等候专家的到来。那些专家住在干净的房子里，他们的寓所门前有台阶，有落水管，有自来水，冷的和热的，还有浴室。专家们的折叠钱包里塞满了钞票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And soon the experts did come, or, rather, one expert. He was an old man, about the same age as Gavin. He was half bald and he looked like a kind ferret, with his long nose leading the way up the path to where Gavin sat like a stone mountain on the cases.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快专家来了，只有一位，与加文·海利年龄相仿。头顶半秃，看起来像和善的白鼬，长长的鼻子指向宛如石山一样蹲在箱子上的加文·海利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Gavin Highly?" the visitor queried.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“加文·海利？”访客问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin looked respectful. "That's me, sir. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利很有礼貌地回答，“是的，先生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You got my notice, no doubt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看到了我的告示，毫无疑问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The books are in here. They mean m' life to me. They're valu'ble books, but they've gotta be sold."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些书都在里面，它们是我的生命，它们是很有价值的，不过就要被卖掉了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin led the way through the door to his one room. He had spread the books on the bed and the sofa. The thousands were not there--only fifty or so old volumes, some torn, some ragged and zigzagged by the teeth of mice or rats, some without covers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利把专家请进门，他把书摊在床和沙发上，并没有上千本，仅仅是50多本旧书，有的被撕破了，有的被耗子咬过，边缘参差不齐。还有一些连封面都不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've talked about them sometimes to people, but they're me private life," Gavin continued. "I've never shown them. I don't have people coming here. What are they worth?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我曾对别人提起过这些书，不过这是我的私生活，”海利说，“我从未让别人看过它们，也没有人来过我家，它们值多少钱？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expert frowned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家皱起了眉头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If they mean your life to you, how do you expect me to assess their real value?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“假如它们对你意味着生命，你让我怎么估算它们的真正价值？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He spoke in proper language and used big words because he was an expert.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他讲话得体，并且使用了很正式的措辞，因为他是专家。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin did not answer but reached for a book. "This is a hist'ry book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利没有回答，他拿起一本书，“这是一本历史书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've had not much education but I know it's valu'ble an' I read it every night."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没受过多少教育，不过我知道它很有价值，我每晚都读它。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expert leaned forward eagerly and grasped the book. The title? The edition? The publisher? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家急切地倾身抓起书，书名？版次？出版社？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He opened the book and read "Junior History for Schools. Our Nation's Story." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他打开书读道，“低年级历史教科书，我们国家的故事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was childish writing on the flyleaf, somebody's name, Standard Four, then a little rhyme:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在衬页上还有稚气的笔迹，某人的名字，四年级，下面是一首小诗：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Standard Four</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四年级</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never no more</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就这么多</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this book should chance to roam</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倘若此书伺机去闲逛</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Give it a whack and send it home to ME.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>揍它一下然后送它回我家</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The name was written again in red ink underneath.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面又用红墨水写了一遍名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expert turned over the pages. There was a picture of Captain Cook, embellished with red hair and a permanent wave and spectacles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家开始翻阅书页，里面有一幅库克船长（英国著名航海家）的图画，船长被画上了红头发，戴着眼镜，保持着挥手的姿势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The marks can be rubbed out, I s'pose," Gavin said. "All old books get some kind of marks, don't they, like stamps, but it's got about when grass grew in the streets of London and the Great Fire and the plague and the people walking from door to door and crying, 'Bring out your dead! Bring out your dead!' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这些印记可以擦掉的，我想，”加文说，“老书总有一些印记的，不是吗？就像邮票一样。这里面有伦敦街道长草的故事，还有大火和瘟疫，人们挨家挨户奔走相告，‘把死人抬出去！把死人抬出去！’</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And to think I've got a book about it! And I've others like that--po'try, and the high tide coming up on the coast of Lincolnshire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想我有一本这样的书，还有其他的书，比如诗集，《林肯郡海岸的满潮》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is what I call my treasure, and, if anything can buy me a decent house to spend my old age in, it's these books will buy it for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是我的宝贝。如果有什么东西能让我在体面的房子里安度晚年，那就是这些书了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are they worth?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们值多少钱？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a moment, the expert looked quite incredulous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有那么一会儿，专家看起来相当疑惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surely old Highly was not serious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想必老海利不是当真的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Children's history books, old, dirty magazines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小孩的历史书、又脏又旧的杂志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Worth millions," Highly had said in the note he'd got the auctioneer to type.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“价值几百万，”海利用足够大的声音说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin waited for the expert to answer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他等着专家回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They are valu'ble, aren't they? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它们很值钱，不是吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They're hist'ry."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们是历史。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes, they're valuable," the expert answered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的，它们很有价值，”专家答道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin sighed with relief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利舒了口气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Real downpipes and spoutings. A doorstep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真正的落水管，真正的门阶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taps running hot and cold, a warm fire and no smoke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水管里流出热水和冷水，温暖的火炉，没有浓烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I guessed their value," he murmured airily. "Though no one's seen them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我猜过它们的价值，”他嘀咕着，“尽管没人看过他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About what are they worth?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们值多少钱？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expert pondered. "A few pounds," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家琢磨了一下说，“几英镑。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin looked startled. "But there's some mistake--they're valu'ble." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利大吃一惊，“弄错了吧，它们很值钱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In money they are worth a few pounds, perhaps not even that." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“用金钱衡量，它们值几个英镑，或许更少。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gavin opened the history book to the picture of London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海利打开那本历史课本，翻到印有伦敦图片的那页。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Look. Grass growing in London streets, on the floors of the poor people's houses an' up through the cracks in the walls, an' when you go on the street you're going on grass, just like going out onto your lawn, if you've got a lawn." He turned the pages again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“瞧瞧，伦敦的大街上长了草，在穷人家的地板上，还有墙缝里。你走在大街上，就会踩到草，就像走在你家的草坪上，假如你有草坪的话。”他又翻了几页。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"An' look, the Fire in the Fern, that's us, an' the land being fished up out of the sea, and the forest being taken away--it's hist'ry," he pleaded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“瞧，蕨山的大火，那是我们，陆地从海洋中凸起，森林没有了——这是历史。”他恳求着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expert glanced at his watch. He took shelter in formality. "I haven't really much time, Mr. Highly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家瞟了一眼他的表，开始推托，“我没有多少时间，海利先生。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>The Card</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>贺卡</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The only thing I ever got off my old man was a birthday card when I was ten. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我从我老头子那里得到的唯一一样东西是我十岁时的一张贺卡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He'd gone off when I was three and left me and mam and my sister to fend for ourselves. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他在我三岁时离开了，留下我和老妈、姐姐自力更生。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mam never talks about him but my sister remembers him.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>老妈从没谈起过他，不过姐姐却记得他。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"What was dad like?" I ask.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“老爸是什么样的？”我问。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She looks at me through dark, sleepy eyes, pushes her hair back from her eyes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她透过黑色困倦的眼睛看着我，把头发从眼睛处向后推。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Her arms are scabbed like she's been shinning up a rusty drainpipe and accidentally slid back down and scraped herself. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她的胳膊上满是痂疤，仿佛她在擦一个生锈的排水管时意外地滑倒擦伤了自己似的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Whu?"</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“嗯？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I said, what was dad like?"</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我说，老爸是什么样的？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>he smiles at me, and I suss that she's still trippin' and I should ask her later when she's straight.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她对我微笑，我推测她还处在迷幻状态，我应该稍后在她不受毒品影响时问她。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Anyhow, the only thing I ever got from him was a birthday card when I was ten. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不管怎样，我从他那里得到的唯一一样东西是我十岁时的一张生日贺卡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It said Happy Birthday Mickey! </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上面写着生日快乐米奇（Mickey）！</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And then there was a verse inside the card that went:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且在贺卡里面还有一首诗，这样写道：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now you're ten, and how you've grown</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在你十岁了，你是怎么长大的</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It really won't be long</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其实用不了多久</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Til you're a man, and fully grown</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你就会成为一个男子汉，完全长大</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With arms both big and strong.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有强壮粗大的臂膀</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And on the front of the card was a picture, a cartoon, of a little boy wearing a hardhat and driving a tractor. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在贺卡的正面有一幅画，一幅卡通画，是一个小男孩戴着一个安全帽在开一辆拖拉机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But I mean, how would he know I'd grown? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但我的意思是，他怎么会知道我长大了？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To be honest, I was surprised he knew where I was, we moved so often.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>说实话，我感到惊讶的是他知道我在哪里，我们搬家搬得这么勤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the killer was, at the bottom of the card, below the rhyme, he'd added:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但要命的是，在贺卡的底部，在那首诗的下面，他又加上：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Remember, no one's got your back</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>记住，没有人帮你</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>XX. Dad.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>XX，老爸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'd studied this card on more than one occasion, trying to work out some depth to what he was telling me. 'Laura, what was dad like?"</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我不止一次研究这张贺卡，试图深入一点儿弄明白他在跟我说什么。“劳拉（Laura），老爸是什么样的？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Three hours later and she's washing up. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三个小时后，她在洗碗碟。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The dutiful daughter. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个孝顺的女儿。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She looked up a little, thought about my question for a second or two. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她稍稍抬头向上看看，考虑了一两秒钟我的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Then she said, "I love him. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后她说：“我爱他。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Still."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>依旧。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Well I hate him. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“噢，我恨他。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What was he like, though?"</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过，他是什么样的？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And she said, "Stern."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她说：“严格。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Stern, huh?"</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“严格，呃？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I don't mean strict; more like serious. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我的意思不是说严厉；更像是严肃。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Like you, a bit, but smarter, taller and better looking."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就像你，有一点点，但是更聪明、更高、更好看。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Then she laughed and slapped me across the arm, "Dry the dishes," she said.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后她大笑起来，拍拍我的胳膊，“把盘子擦干，”她说。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's funny, I learn a lot from my sister, mainly don't do drugs, which I should have written in capital letters instead of italics, but never mind, the thing is, when she's not high or shaking 'cos she needs some stuff, she's really smart and, truth be told, she's the core of our family, the strength, believe it or not. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好笑的是，我从我姐姐那儿学到很多东西，主要是不要沾毒品，这个我本应该用大写字母代替斜体字来写的，但是没关系，最重要的是，在她没有因为需要一些毒品而亢奋或颤抖时，她真的很聪明，而且说真的，她是我们家庭的核心，是力量的来源，信不信由你。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Honest, she keeps us together. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>老实说，她把我们维系在一起。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There's me, fifteen, bright, got a future, they tell me, though I haven't and I'll tell you about that later, and then there's my mam, as honest as, and working, and sensible (though not in her choice of boyfriends or anything) and all that stuff. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>至于我，十五岁，聪明，有前途，他们告诉我的，尽管我没有，这些我以后再告诉你。然后还有我老妈，一样的坦率，有工作，明智（尽管不是在她选择男朋友或任何事情上）和所有那些东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And then there's Laura. Nineteen, and a junkie, but she holds the family together. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后还有劳拉，十九岁，吸毒，但她把一家人团结在一起。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cos mam's a flake and useless, and I, basically, am at a loose end; financially, educationally, socially, morally... </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为老妈是一个有怪癖的人，又没什么用，而我基本上是吊儿郎当的，在经济上、教育上、社会地位上、道德上......</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I won't go on.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我不继续说下去了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Laura has one thing going for her; she's honest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>劳拉有一个优点，她诚实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And because she is honest she sees more than most, so she knows more than most, and she holds me and mam together.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正因为她诚实，她看到的比大部分人多，所以她知道的比大部分人多，她把我和老妈维系在一起。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mam.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>老妈。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hold on, I was told by my English teacher, Miss Wright, that I should show, not tell; 'too much exposition,' she'll say to me (look it up). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>等等，我的英语老师赖特（Wright）小姐跟我说，我应该展示而不是讲述“太多的解释说明”，她会对我说（查一查）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So maybe I should stop describing my life, start showing what happens instead, but I'll get to that bit in a bit, so to speak.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以或许我应该停止描述我的生活，改为开始展示发生了什么，但是过一会儿我就要达到那一点了，可以这么说。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ok, so mam. My mother. She is thirty seven years old and she is a flake. A total dribble. Weak as. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好吧，那么老妈，我母亲，她三十七岁，是一个怪人，一个十足的废物，懦弱无能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They should do a reality TV show on my mam - "How Not To ..."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们应该给我老妈做一个电视真人秀——“如何不......”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"How Not To bring up your children."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“如何不抚养孩子。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"How Not To save for the future."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“如何不为将来储蓄。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"How Not To get a good job."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“如何不得到一个好工作。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"How Not To attract a nice boyfriend."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“如何不吸引一个好的男朋友。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She did once. Attract a nice boyfriend, that is. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她确实有一次做到了，就是说，吸引了一个好的男朋友。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And I've read all the women's magazines she buys and I knew from the off it wasn't going to last. From the moment she said to me, 'He's kind, thoughtful, good looking. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我读过了她买的所有女性杂志，我从一开始就知道他们不会持久，从她对我说的那一刻起：“他亲切、体贴、英俊。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He's got a good job, Pete, and a lovely car' (a bloody good car, since you ask. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他有一份好工作，皮特（Pete），还有一辆漂亮的车（一辆非常好的车，既然你问了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You didn't? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你没问？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But you would have. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但你本来要问的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A Kompressor. Which means Supercharger. Which also means money. Cool. German. Cool. And much more). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个机械增压（Kompressor）型，它的意思是增压器，也意味着钱。酷，德国的，酷，还有更多的）。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But anyway, as she's telling me all this I'm thinking, Yeah, but mam, you're going to fall for a skinheaded nightclub doorman or a carpet salesman called Wayne and you're going to jack Pete in and tell me 'there was no spark' which translates as, you think that love equals pain, and affection means distress and you think that being nice is the equivalent of being invisible. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是不管怎样，在她告诉我所有这些时，我在想，是的，但是老妈，你将要爱上一个光头的夜总会门卫或一个叫韦恩（Wayne）的地毯推销员，你将要甩了皮特，告诉我“没有火花”，这说明，你认为爱等于痛苦、喜爱意味着忧伤，你认为好相当于不引人注目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Which it kind of is. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>类似这个意思吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So just be honest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以请只要诚实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Please. So, as predicted, Pete went the journey. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，不出所料，皮特去旅行了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Kompressor and all. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械增压型及所有一切。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And in moved Marc. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后马克（Marc）搬了进来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fifteen years younger than mam. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比老妈年轻十五岁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What a tosspot.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好一个酒鬼。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What a racket.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好一个混混。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was embarrassing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>真令人尴尬。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was the crime that no parent should inflict upon their children! </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那是没有哪一位父母应该带给孩子的罪行！</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Making those noises. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>发出那些声音。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I was twelve, which made Laura sixteen; she'd just failed her exams and was working in Safeway. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我十二岁，也就是说劳拉十六岁了；她刚刚考试不及格，正在西夫韦（Safeway，美国连锁超市）工作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Very content. Regular money, dreaming about her own flat. Boyfriend. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很满足，定期的薪水，梦想着她自己的公寓，男朋友。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And the last thing that Laura wanted was mam and Marc doing that upstairs halfway through a Sunday afternoon. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>劳拉最不希望的事情是老妈和马克在星期天下午中间时在楼上做那个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Go on mam; be a mam, not a flake. Don't be desperate, please. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来吧老妈；拿出一个妈妈的样儿来，不要做一个古怪的人，请不要绝望。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But no. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是不。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And when Marc made a play for Laura one afternoon, just a suggestion you understand, she screamed the place down and mam came dashing downstairs half-dressed and slapped Laura to shut her up and then slapped her again when she heard what she was accusing Marc of doing.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>某天下午当马克引诱劳拉时，只是一个暗示行为，你懂的，她报告了警察，老妈衣服穿了一半就冲下楼，掌掴劳拉让她闭嘴，然后当她听到她指责马克做了什么时又掌掴她。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'm not tough, really, I'm not. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我不强硬，真的，我不。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And I'm not pretending to be not tough so you'll think that really I secretly am tough either. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我也不假装不强硬，因此你会认为我实际上背地里是强硬的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'm just not. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我只是不。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So when mam took his side against Laura I couldn't drop Marc with a right hook to the jaw or a knee in the family jewels, though I really, really wanted to, so I just went and sat on the front step and listened to them row.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以当老妈帮着他对付劳拉时，我不能给马克的下巴一记右钩拳或用膝盖撞一下他传宗接代的宝贝把他撂倒，尽管我真的、真的想，所以我只是离开坐在前面台阶上听他们吵架。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was one of those afternoons with dark and light grey clouds flying across the sky on the wind (scudding, as they say in really old novels). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那是乌云和浅灰色云团随风飞过天空（行云，如他们在真正古老的小说里说的那样）的那些下午中的一个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I sat on the step of our front door watching the seagulls wheel and fly and sail on the wind. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我坐在我们前门的台阶上看海鸥乘风盘旋、飞翔、飘游。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I wished I could do that.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我希望我也能那么做。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I have this theory that, to us the world is a flat thing we stand on, but to birds it is a cliff they cling to, a huge ball and they cling to the side and then fall off and fly and glide. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我有一种想法，就是对我们来说世界是一个我们所站立的平坦的东西，而对鸟来说是一个它们所依靠的峭壁，一个巨大的球，它们依靠在边上，然后离开、飞翔、滑行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'm digressing here, but I can't remember what else happened, except I know how it ended. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我在这儿跑题了，但我记不起发生了其他什么事，除了我知道它是如何结束的之外。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The next morning I waited until Marc went out and then I used mam's phone to call the police and grass Marc for the twenty grams of cocaine he had stashed in a haversack under the stairs.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二天早上我等到马克出去了，然后我用老妈的电话报警，告发马克在楼梯下一个帆布背包里藏了20克可卡因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bingo.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>成了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Job done.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>完工。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Like I say, I'm not tough. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如我说的，我不强硬。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But I don't need to be when there's five polis and a German Shepherd dog breaking down the door and dragging Marc screaming down the path and into a van.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是在五个警察和一条德国牧羊犬闯进门一路把尖叫的马克拖进一辆厢式汽车时，我也不需要强硬。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Anyhow, this card I got from my dad. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不管怎样，这张贺卡是我从我老爸那儿得到的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It said, remember, no one's got your back, like this was some piece of information I'd known but had forgotten, or like I already had asked someone to get my back and then discovered they hadn't got it, or something. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上面说，记住，没有人帮你，好像这是我已知的某条知识但是忘记了，或者好像我已经请求某些人帮我，然后发现他们没帮，或者某些东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I mean, come on dad, I don't know who you are, or where you are or what you do or anything, but come on, be a dad for a minute. For as long as it takes not to write that sentence.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我意思是，来吧老爸，我不知道你是谁，或者你在哪里或者你做什么或者任何事情，但是来吧，做一分钟爸爸，用不写那个句子所花费的那么长的时间。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I was ten years old for Chrissake.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>看在上帝份上，我十岁了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Write I miss you or We'll meet up when you're older or Stick in at school. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>写我想念你或者你再大些时候我们会见面或者在学校好好学习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, here's an idea. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，这儿有一个主意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Don't send me a card.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不要给我寄一张贺卡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Go on.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unsend it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不要寄。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the funny thing is, daft, one-off card with a stupid picture and a deranged verse it might have been.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过好玩的事情是，傻乎乎的、仅送过这一次的带有一幅没什么意义的图画的贺卡和一首可能是的疯疯颠颠的诗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But he was right.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但他是对的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No one's got your back.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>没有人帮你。</seg></tuv>
+</tu>
+</body>
+</tmx>

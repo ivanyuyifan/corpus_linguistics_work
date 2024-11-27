@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T154630Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Embassy of Cambodia</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>柬埔寨大使馆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who would expect the Embassy of Cambodia? Nobody. Nobody could have expected it, or be expecting it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谁会想到柬埔寨大使馆设立在这儿？没人会想到，也没有人想过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a surprise, to us all. The Embassy of Cambodia!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的到来，让我们都大吃一惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next door to the embassy is a health center. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大使馆的一边，是家保健中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the other side, a row of private residences, most of them belonging to wealthy Arabs (or so we, the people of Willesden, contend). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外一边，是一排住房。这些房子大多由富有的阿拉伯人所有（或许这只是我们威尔斯登人想当然而已）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have Corinthian pillars on either side of their front doors, and - it's widely believed - swimming pools out back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子前门的两侧，都矗立着科林斯式的柱子，而且，大家都相信房子后院都建有游泳池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The embassy, by contrast, is not very grand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和这些房子相比，大使馆则相去甚远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is only a four- or five-bedroom North London suburban villa, built at some point in the thirties, surrounded by a red brick wall, about eight feet high. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它并不十分宏伟，只是一座三十年代修在北伦敦郊区的别墅，大概有四五间卧室，围着八尺来高的红砖墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And back and forth, cresting this wall horizontally, flies a shuttlecock. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>围墙里面，一只羽毛球在空中飞过来，又飞过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are playing badminton in the Embassy of Cambodia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大使馆里面有人在打羽毛球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pock, smash. Pock, smash.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>球高高飞到一边，又被用力扣回去，高球、扣球、高球、扣球，如此反复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only real sign that the embassy is an embassy at all is the little brass plaque on the door (which reads, "THE EMBASSY OF CAMBODIA") and the national flag of Cambodia (we assume that's what it is - what else could it be?) flying from the red tiled roof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显示大使馆身份的，仅仅是门上写着“柬埔寨大使馆”的娇小铜牌，以及在红色瓦房顶上飞扬的柬埔寨国旗——应该是柬埔寨国旗，不然还会是什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some say, "Oh, but it has a high wall around it, and this is what signifies that it is not a private residence, like the other houses on the street but, rather, an embassy."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人会说：“高高的围墙，不也告诉大家它与众不同，是大使馆吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The people who say so are foolish. Many of the private houses have high walls, quite as high as the Embassy of Cambodia's - but they are not embassies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说这话的人真是糊涂，边上许多房子都有围墙，而且和柬埔寨大使馆的围墙一样高，可它们就不是大使馆！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the sixth of August, Fatou walked past the embassy for the first time, on her way to a swimming pool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>八月六号那天，在去游泳池的路上，法图第一次路过大使馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a large pool, although not quite Olympic size. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她要去的游泳池，大小虽不及奥运泳池，但也不算小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To swim a mile you must complete eighty-two lengths, which, in its very tedium, often feels as much a mental exercise as a physical one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在里面游一英里，得游八十二个来回，游这段距离冗长乏味，锻炼身体，也磨练心理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water is kept unusually warm, to please the majority of people who patronize the health center, the kind who come not so much to swim as to lounge poolside or rest their bodies in the sauna. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>池中水温一直异常的暖和，这是为了满足保健中心的多数赞助人，不过这些人与其说是来游泳，倒不如说是过来在泳池边消磨时间，或者来蒸桑拿放松身子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fatou has swum here five or six times now, and she is often the youngest person in the pool by several decades. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图在这儿游过五六次，来游泳的人中，通常是她最年轻的，比别人小几十岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Generally, the clientele are white, or else South Asian or from the Middle East, but now and then Fatou finds herself in the water with fellow-Africans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泳池的顾客一般都是白人，也有些来自南亚或者中东的顾客，不过法图还是会偶尔看到自己的非洲同胞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she spots these big men, paddling frantically like babies, struggling simply to stay afloat, she prides herself on her own abilities, having taught herself to swim, several years earlier, at the Carib Beach Resort, in Accra. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看到那些非洲大个男人像孩子一样想浮起来，慌乱地拍打着水面，法图就对自己的能力引以为豪。几年前在阿克拉的加勒比海滩度假村，她自学了游泳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not in the hotel pool - no employees were allowed in the pool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是在酒店泳池里学的，酒店员工不能用泳池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, she learned by struggling through the rough gray sea, on the other side of the resort walls. Rising and sinking, rising and sinking, on the dirty foam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是在度假村墙外汹涌浑浊的海水里挣扎，在肮脏的泡沫里沉浮中学会游泳的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No tourist ever stepped onto the beach (it was covered with trash), much less into the cold and treacherous sea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海滩上满是垃圾，从来没有游客涉足，更没有游客下到冰冷危险的海水里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor did any of the other chambermaids. Only some reckless teen-age boys, late at night, and Fatou, early in the morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>度假村的女服务员中，也没有人去过海滩上，只有一些胆大的男生晚上去过，还有法图早上去过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is almost no way to compare swimming at Carib Beach and swimming in the health center, warm as it is, tranquil as a bath. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在加勒比海滩游泳，和在保健中心游泳，简直无法相提并论。保健中心的泳池里水温暖和，像温泉一般宁静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, as Fatou passes the Embassy of Cambodia, on her way to the pool, over the high wall she sees a shuttlecock, passed back and forth between two unseen players. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图在去游泳的路上经过大使馆，看见高墙后面的羽毛球在两个看不见的打球人间来来回回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The shuttlecock floats in a wide arc softly rightward, and is smashed back, and this happens again and again, the first player always somehow able to retrieve the smash and transform it, once more, into a gentle, floating arc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>羽毛球划过狭长的弧线，轻柔往右面飞去，然后又被用力扣回左边，这样反反复复，左边的人总能接住扣球，把球飞行的线路转化成轻柔的弧线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>High above, the sun tries to force its way through a cloud ceiling, gray and filled with water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高空中飘着灰暗的积雨云，太阳正奋力穿行在云层中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pock, smash. Pock, smash.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>羽毛球仍然在往返飞行，高球、扣球、高球、扣球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the Embassy of Cambodia first appeared in our midst, a few years ago, some of us said, "Well, if we were poets perhaps we could have written some sort of an ode about this surprising appearance of the embassy."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年前大使馆出现在我们当中时，有人说：“要是我们是诗人，就可以写些颂歌什么的，歌颂一下大使馆的让人惊讶的出现。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> For embassies are usually to be found in the center of the city. This was the first one we had seen in the suburbs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样说是因为一般在市中心才能看到其它国家的大使馆，柬埔寨大使馆是在郊区出现的第一家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But we are not really a poetic people. We are from Willesden. Our minds tend toward the prosaic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我们都不会写诗，我们只是威尔斯登人，没有诗情画意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I doubt there is a man or woman among us, for example, who - upon passing the Embassy of Cambodia for the first time - did not immediately think: "genocide."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，没有哪个威尔斯登人第一次路过柬埔寨大使馆时，脑中不是在想“种族屠杀”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pock, smash. Pock, smash. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高球、扣球、高球、扣球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This summer we watched the Olympics, becoming well attuned to grunting, and to the many other human sounds associated with effort and the triumph of the will. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个暑假，我们看了奥运会，听惯了运动员运动时发出的声音，也熟悉了人们努力奋斗、坚持不懈发出的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the players in the garden of the Embassy of Cambodia are silent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是柬埔寨大使馆的花园里，两个打羽毛球的人却寂静无声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> We can't say for sure that it is a garden - we have a limited view over the wall. It may well be a paved area, reserved for badminton.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们打羽毛球的地方是不是花园，我们并不确定，因为围墙太高，能看到的太少，也有可能是一块专门为打羽毛球而铺平的空地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> The only sign that a game of badminton is under way at all is the motion of the shuttlecock itself, alternately being lobbed and smashed, lobbed and smashed, and always at the hour that Fatou passes on her way to the health center to swim (just after ten in the morning on Mondays). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唯一能告诉我们有人在打羽毛球的，是飞来飞去的羽毛球，它在这边被高高击起，在那边被狠狠扣下。每周一早上十点刚过，法图路过大使馆，去保健中心游泳时，通常都有人在打羽毛球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It should be explained that it is Fatou's employers - and not Fatou - who are the true members of this health club; they have no idea that she uses their guest passes in this way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得说清楚，法图不是保健中心的会员，她的雇主，德拉沃尔夫妇才是。法图用他们的客人许可证去游泳，他们并不知情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Mr. and Mrs. Derawal and their three children - aged seventeen, fifteen, and ten - live on the same street as the embassy, but the road is almost a mile long, with the embassy at one end and the Derawals at the other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为德拉沃尔夫妇和三个孩子（一个十七岁，一个十五岁，一个十岁）的住所虽然和大使馆在同一条街上，但是大使馆在街头，德拉沃尔家在街尾，其间相距约一英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Fatou's deception is possible only because on Mondays Mr. Derawal drives to Eltham to visit his mini-market there, and Mrs. Derawal works the counter in the family's second mini-mart, in Kensal Rise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图的小把戏能行得通，仅仅是因为每逢周一，德拉沃尔先生都要开车去埃尔瑟姆，看看他的小超市，而德拉沃尔太太则要去肯瑟尔格林，在她家的另外一间小超市守柜台。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the slim drawer of a faux-Louis XVI console, in the entrance hall of the Derawals' primary residence, one can find a stockpile of guest passes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在德拉沃尔家常住房的门厅里，有一个仿路易十六时期的储物柜，柜子上的小抽屉里，有一摞积下来的客人许可证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody besides Fatou seems to remember that they are there.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了法图，德拉沃尔家里没人记得那儿有些客人许可证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since August 6th (the first occasion on which she noticed the badminton), Fatou has made a point of pausing by the bus stop opposite the embassy for five or ten minutes before she goes in to swim, idle minutes she can hardly afford (Mrs. Derawal returns to the house at lunchtime) and yet seems unable to forgo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从八月六号第一次看到有人打羽毛球以来，法图去游泳之前，都会在大使馆对面的公交车站停留五分钟或者十分钟，这悠闲的几分钟她几乎挤不出来，因为德拉沃尔太太会在吃午饭时回家，不过她似乎还是不愿放弃这点点时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such is the strangely compelling aura of the embassy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就算大使馆的氛围，惊人地引人注意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usually, Fatou gains nothing from this waiting and observing, but on a few occasions she has seen people arrive at the embassy and watched as they are buzzed through the gate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图的驻足观察通常一无所获，不过有几次她还是看到有人来大使馆，看着他们接受询问，走进大门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Young white people carrying rucksacks. Often they are scruffy, and wearing sandals, despite the cool weather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些都是背着背包的年轻白人，他们通常蓬头垢面，天气不热也穿着凉鞋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of the visitors so far have been visibly Cambodian. These young people are likely looking for visas. They are buzzed in and then pass through the gate, although Fatou would really have to stand on top of the bus stop to get a view of whoever it is that lets them in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大使馆的这些客人中，看不出哪个是柬埔寨人，他们可能是来办理签证的，得到允许后走进大门。法图得站到车站顶上，才能看到让他们进去的那个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What she can say with certainty is that these occasional arrivals have absolutely no effect on the badminton, which continues in its steady pattern, first gentle, then fast, first soft and high, then hard and low.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图可以确定，不时有人来访，并不会影响羽毛球，那只羽毛球仍然按老样子飞行，轻轻飞过来、快速窜回去，高高飘过来，又被用力扣回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the twentieth of August, long after the Olympians had returned to their respective countries, Fatou noticed that a basketball hoop had appeared in the far corner of the garden, its net of synthetic white rope rising high enough to be seen over the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>八月二十号那天，奥运会运动员早已各自回国，法图发现在大使馆花园的远角，出现了一个篮球架，篮筐上面高高挂着白色的人造绳编织的网，在墙外面就能看见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But no basketball was ever played - at least not when Fatou was passing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过没有人打过篮球，至少法图经过的时候没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following week it had been moved closer to Fatou's side of the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来一周，篮球架离法图路过的那堵墙更近了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It must be a mobile hoop, on casters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>篮球架底部肯定装有轮子，可以移动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fatou waited a week, two weeks, but still no basketball game replaced the badminton, which carried on as before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图等了一周，又等了一周，就是没有人打篮球，羽毛球也没有被取代，依然如常进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I say that we were surprised by the appearance of the Embassy of Cambodia, I don't mean to suggest that the embassy is in any way unique in its peculiarity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说柬埔寨大使馆的到来让我们有些惊讶，并不是因为大使馆独特或者稀奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, this long, wide street is notable for a number of curious buildings, in the context of which the Embassy of Cambodia does not seem especially strange. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，这条又宽又长的大街，就是因为许多奇特的建筑而闻名。这样一对比，柬埔寨大使馆并不十分奇特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a mansion called GARYLAND, with something else in Arabic engraved below GARYLAND, and both the English and the Arabic text are inlaid in pink-and-green marble pillars that bookend a gigantic fence, far higher than the embassy's, better suited to a fortress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>街上有一幢叫“格雷兰”的豪宅，“格雷兰”三个大字下面刻着阿拉伯文。高大围墙的尽头，立着花花绿绿的柱子，柱子上全都镶嵌着“格雷兰”和那些阿拉伯文。豪宅的围墙远比大使馆的高，要是围在城堡外面，一定恰到好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dramatic golden gates open automatically to let vehicles in and out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车辆进出时，金灿灿的大门会自动打开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At any one time, GARYLAND has five to seven cars parked in its driveway.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“格雷兰”的车道上，随时停有五到七辆轿车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a house with a huge pink elephant on the doorstep, apparently made of mosaic tiles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一所房子，门阶上躺一头硕大的粉色大象，这头大象显然是由小块瓷砖拼凑而成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a Catholic nunnery with a single red Ford Focus parked in front. There is a Sikh institute. There is a faux-Tudor house with a pool that Mickey Rooney rented for a season, while he was performing in the West End fifteen summers ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一家天主教女修道院，门前孤孤单单停着一台红色的福特福克斯；还有一家锡克教会；还有一幢带泳池的都铎式住房，十五年前米基·鲁尼在西区表演时租住过一久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That house sits opposite a dingy retirement home, where one sometimes sees distressed souls, barely covered by their dressing gowns, standing on their tiny balconies, staring into the tops of the chestnut trees.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子对面，是昏暗肮脏的养老院，养老院里，常常能看到痛苦的人，穿着睡衣，站在狭小的阳台上，目不转睛看着栗子树顶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So we are hardly strangers to curious buildings, here in Willesden &amp; Brondesbury. And yet still we find the Embassy of Cambodia a little surprising. It is not the right sort of surprise, somehow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以说在威尔斯登和邦斯贝利，奇特的建筑对我们来说并不陌生，不过柬埔寨大使馆仍然让我们有些惊讶，这种惊讶来得莫名其妙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a discarded Metro found on the floor of the Derawal kitchen, Fatou read with interest a story about a Sudanese "slave" living in a rich man's house in London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图在德拉沃尔家厨房地板上捡到一张《都市报》，因为感兴趣，她读了一则关于一个住在伦敦富人家庭里的苏丹“奴隶”的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not the first time that Fatou had wondered if she herself was a slave, but this story, brief as it was, confirmed in her own mind that she was not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图已经不止一次怀疑自己是否就是个奴隶，不过读了这则简短的故事，她确定自己不是奴隶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, it was her father, and not a kidnapper, who had taken her from Ivory Coast to Ghana, and when they reached Accra they had both found employment in the same hotel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，把她从科特迪瓦带到加纳的，是他父亲，而不是绑架犯。而且，她和父亲抵达阿克拉后，两人都在同一家酒店找到了工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two years later, when she was eighteen, it was her father again who had organized her difficult passage to Libya and then on to Italy - a not insignificant financial sacrifice on his part. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年后，法图满了十八岁，父亲又安排她艰苦地前往利比亚，然后又到意大利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, Fatou could read English - and speak a little Italian - and this girl in the paper could not read or speak anything except the language of her tribe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了她这趟旅程，父亲可花了不少钱。法图能读懂英语，也能说几句意大利语，而报纸上的那个女孩，除了部落方言，其它语言一概不会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And nobody beat Fatou, although Mrs. Derawal had twice slapped her in the face, and the two older children spoke to her with no respect at all and thanked her for nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且也没有人殴打法图，虽然德拉沃尔太太扇过她两次耳光，两个大些的孩子说话毫无礼貌，也毫无谢意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes she heard her name used as a term of abuse between them. "You're as black as Fatou." Or "You're as stupid as Fatou."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图有时听见自己的名字被两个孩子用来骂人，“你和法图一样黑”，“你和法图一样傻”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the other hand, just like the girl in the newspaper, she had not seen her passport with her own eyes since she arrived at the Derawals', and she had been told from the start that her wages were to be retained by the Derawals to pay for the food and water and heat she would require during her stay, as well as to cover the rent for the room she slept in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过话说回来，法图和报纸上的女孩一样，她到达德拉沃尔家后，就再没有亲眼见过自己的护照。而且德拉沃尔家以开始就告诉她，她在家里要吃饭、用水，要用暖气，要占用一间卧室，所以要扣下她的工资，用来支付这些费用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the final analysis, however, Fatou was not confined to the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最后来看，她并没有被限制在家里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had an Oyster Card, given to her by the Derawals, and was trusted to do the food shopping and other outside tasks for which she was given cash and told to return with change and receipts for everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德拉沃尔家给了她一张公交卡，而且她在买菜之类的采购任务上也得到信任，德拉沃尔家会给他现金，叫她把找零和发票拿回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If she did not go out in the evenings that was only because she had no money with which to go out, and anyway knew very few people in London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法图晚上不出去的话，唯一的原因就是她没有钱，再说她在伦敦也没有几个认识的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whereas the girl in the paper was not allowed to leave her employers' premises, not ever - she was a prisoner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而报纸上的女孩，没有雇主的允许的话，绝对不能出去，绝对不能，她简直就是个囚徒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Sunday mornings, for example, Fatou regularly left the house to meet her church friend Andrew Okonkwo at the 98 bus stop and go with him to worship at the Sacred Heart of Jesus, just off the Kilburn High Road. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，每到周日早上，法图都会出门到98路公交车站，和朋友安德鲁去基尔本高路站边的耶稣圣心堂做礼拜。礼拜完后，安德鲁常常带她去一家突尼斯咖啡馆，一起喝咖啡，吃糕点。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

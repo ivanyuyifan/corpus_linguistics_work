@@ -1,0 +1,688 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T120429Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Erik Gandini, Videocracy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃里克・甘迪尼导演纪录片《电视政治》
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Television has been blamed for the dumbing down of the American public since the ascendance of the boob tube in the 1950s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从20世纪50年代显像管电视机风靡以来，电视机就被指责为降低美国公众智力的罪魁祸首。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in Italy, where scandal-plagued prime minister Silvio Berlusconi controls the flow of information through his monopolistic holdings in that nation's biggest media conglomerates, there is a more insidious aspect to the chronic press muzzling at RAI and trashy tits-and-ass programming that predominate on his Mediaset channels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在意大利，饱受丑闻困扰的西尔维奥・贝鲁斯科尼总理通过他对其所在国家最大传媒集团的垄断，控制着信息的传播。他通过媒体持续炮轰意大利广播电视公司（RAI），并在自家的Mediaset传媒集团的频道上大量播放肮脏的黄色节目，背后均有其更深层的原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you want to get a sense of how the billionaire entrepreneur's televisual imagination has transformed the political and mass-media landscape in Italy, Erik Gandini's cunningly choreographed documentary Videocracy provides plenty of food for thought, taking a gimlet-eyed view of the Berlusconi phenomenon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你想了解一位亿万富翁企业家的电视王国是如何改变了整个意大利的政治和大众传媒版图的，埃里克・甘迪尼精心构思的纪录片《电视政治》可以给你很多启发，让你对贝鲁斯科尼现象有一个深入的思考。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But instead of stampeding into this tangle of cultural conflict with rhetorical guns a-blazing, Gandini, an Italian-born filmmaker based in Sweden (Gitmo: The New Rules of War), adopts a far subtler, more intriguingly first-person approach.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位出生在意大利、现居住在瑞典的导演（曾执导《关塔那摩：战争新规则》）并没有选择趟进唇枪舌战的文化冲突的浑水，而是采用了更讨巧的第一人称视角。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The film, which debuted at the Venice Film Festival, opens with grainy, black-and-white footage of a popular, late-night cable-access quiz show Berlusconi produced in the '70s, in which slinky housewives disrobed every time a call-in contestant answered a softball question correctly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>影片在威尼斯电影节上首映，开场画面即是贝鲁斯科尼在70年代担任制片人的有线电视深夜智力竞赛的画质粗糙的黑白影像资料，这个节目中打进电话的选手每次答对一道垒球的题目，就能看到性感的家庭主妇宽衣解带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This montage melds into the present day, when thousands of young women aspire to be veline: silent, scantily clad Vanna White–type showgirls who populate the airwaves, often becoming the wives of footballers or assistants to heads of state. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这组镜头过度到现代，成千上万的年轻姑娘们渴求成为“花瓶”――电视上充斥着寡言少语、穿着暴露的凡娜・怀特式的女演员――她们大都嫁给了足球运动员或者国家政要助理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Narrating in English with a voice that's part spook-house docent, part Grand Inquisitor, Gandini burrows into the sleazy superficiality of this celeb-obsessed, gossip-fueled playworld by profiling four of its most embedded denizens: white-clad, Mussolini-adoring TV agent Lele Mora, who lives in a luxurious villa surrounded by all the young talent he's cultivated; Fabio, manager of a TV control room ("the secret aquarium") where an Italian version of Big Brother is produced; Fabrizio Corona, a rogue paparazzi-turned-felon, now a huge celebrity himself in Italy; and Ricky, a Bergamo factory worker obsessed with landing a spot on television as a Jean-Claude Van Damme-meets-Ricky Martin star performer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全片用英语解说，让人感觉有点像鬼屋引导词又有点像大审判官的口气。甘迪尼带我们探查这个崇拜名人、八卦满天飞的花花世界，这个旅程是从介绍这个电视世界里最为人熟知的四个居民开始的。他们分别是电视经纪人莱莱・莫拉――他身着白色、崇拜墨索里尼，居住的豪华别墅被他一手发掘的年轻艺人所包围；电视禁闭间的经理法比奥――这间房间是为拍摄电视真人秀《神秘的水族馆》（意大利版的《大哥》）而制作的；锒铛入狱的二流子狗仔记者法布里奇奥・克罗那――他现在已是意大利家喻户晓的名人；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then there's Berlusconi himself, gloating at press conferences and flashing a million-dollar smile that never seems to end. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有贝加莫的工人瑞奇――他沉溺于成为兼具尚格・云顿和瑞奇・马丁魅力的电视明星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini's film is provocative (the trailer was banned from RAI state-owned television) but coolly personal, too, an exile's view of a national culture's puzzling decline.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼的影片极具挑衅（预告片被RAI国家电台禁播），但同时保持冷静的个人视角，从外部审视一个国家文化令人费解的衰落。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker spoke with Gandini about Berlusconismo, the society of spectacle, and why people with no ideology are scarier than dictators.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼接受《电影人》（Filmmaker）的采访，谈到了贝鲁斯科尼方式（Berlusconismo），奇观社会，没有思想意识比独裁者更可怕。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: You moved to Sweden from Italy to study filmmaking. Did you have an interest in documentary from an early age or did it spark after you landed there?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：你离开意大利到瑞典学习电影，是很早就对纪录片感兴趣吗？还是进入这个领域后才迸发的火花？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: My mother is Swedish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：我母亲是瑞典人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a tradition at home that we should go to Sweden to learn the language and it was also a great reason for leaving Bergamo, a very small town, very provincial. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们家里的传统要求我们要到瑞典去学习这个国家的语言，这也是可以让我离开贝尔莫的绝好理由，因为贝尔莫是个很小的城镇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the '80s, Italy was really under the boom of Berlusconi television. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>80年代，贝鲁斯科尼旗下的电视业正发展得如火如荼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I came to Sweden, the situation was bizarre because there was no commercial television until '89 or '90, so it was like going back ten years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而到了瑞典，情况有点奇怪，因为到89年或90年瑞典才有商业电视出现，所以对我来说就好像倒退了十年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Swedish TV had this very strong tradition of documentary which the school I went to was following big time. There was a huge enthusiasm about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑞典电视拥有很强的纪录片传统，我念的学校就处于盛行时期，人们对纪录片十分痴迷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember a couple of months after I came to Sweden, they were showing Claude Lanzmann's Shoah on prime time television. Coming from Italy, it was like science fiction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得刚到瑞典的两个月，他们正在电视黄金时间播放克劳德・朗兹曼的《浩劫》，这对于刚从意大利过来的我简直就好像是科幻片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So yes, it was encountering a whole way of working that for me was very inspiring.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以说，是的，我接触到了一种全新的工作方法，并从中深受启发。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: You mention in your director's note that your exposure to the cultural climate in Sweden made an impact, and that you were drawn in part to a genre that is regarded there as a cinematic artform, "creative documentary." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：你在导演笔记中提到和瑞典文化氛围的接触对你产生了影响，你被一种“创意纪录片”的类型所吸引，这种类型在那里被认为是电影艺术形式的一种。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you explain what that means to you?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能就这方面谈一谈吗？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: I like the idea that docs really are not a neutral portrayal of reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：我赞同纪录片并不是对事实的中立记叙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's such an old idea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不是什么新观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was going to film school, we were taught "take off your questions, never manipulate with music" or whatever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我上电影学校时，老师常教我们“不要提问，永远不要操控音乐”等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember when I saw Let's Get Lost, the Bruce Weber movie; it was so personal, and that was exactly what inspired me, the idea that documentary is really a subjective view. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得看了布鲁斯・韦柏的《让我们一起迷失》，非常个人化的片子，正是这点激发了我，纪录片其实是主观的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then of course you have the political Michael Moore genre that is very explicit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，你也有像迈克尔・摩尔这样针对政治问题的类型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All that for me has been a very welcome tendency that also underlines the fact that documentary is probably the freest, cheapest way for a person to express themselves cinematically.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很高兴所有这些现象也突现了这样一个事实，即对个人来说，纪录片可能是一种最自由、最经济的电影表达方式。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: And giving up the pretense to objectivity must be part of that sense of freedom.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：那么，抛开客观的伪装肯定也是这种自由感中的一部分。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: Yeah, I like not knowing exactly what your film is going to be in the end, because the scriptwriting for me is the editing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：没错，我不喜欢太清楚电影要怎样结局，因为我写剧本的过程就是剪辑的过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you work with television only, you will pressure yourself to guarantee how the drama and the plot will develop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你只和电视台合作，你会有压力要保证剧情和情节发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the opposite of what I'm looking for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是我想要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even aesthetically, I like the idea that you can show reality as it feels, more than as it is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使出于美学考虑，我偏爱展示感受到的真实，而不仅仅是真实本身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this opens up a huge range of storytelling options, even aesthetically and musically, for film language.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这给了我很大的空间可以选择用哪种电影语言来讲故事，包括画面和音乐也是如此。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: The most obvious form that a film about the Berlusconi media empire could have taken would have been an exposé. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：新闻调查的形式也许是拍摄贝鲁斯科尼媒体王国这种题材最显而易见的手段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your approach in Videocracy is much more personal, and also, I felt, almost mournful. There's something elegiac about your tone here.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是你却采用了更为个人化，甚至我感觉是哀痛的方式拍摄《电视政治》一片，整个基调仿佛挽歌一般。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: It's a choice, of course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：当然这是我的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am not Michael Moore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是迈克尔・</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not very confrontational. I'm more of an observer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>摩尔，我不太会把自己处于对立面，而更像个观察者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was really inspiring for me to be among these people who are very different from me and my friends, [who have] different values. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同那些和我大相径庭的人们以及具有不同价值观的朋友相处使我受益匪浅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They made me understand the whole logic, the whole system of values of what I call "Berlusconismo." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们使我懂得了所谓的“贝鲁斯科尼方式”的整体逻辑和整体价值系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For instance, I don't think Lele Mora's really a fascist, it's more like [he has] a lack of ideology, which is scarier to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举例来说，我认为莱莱・莫拉并非真正的法西斯主义者，而是缺乏意识思想，这一点让我感到恐惧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Italy, there is a tradition among the left of criticizing and attacking Berlusconi in a way that has become predictable and even boring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在意大利，传统上左翼总是批判和攻击贝鲁斯科尼，其作派已经到了陈词滥调、无聊至极的地步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People are tired of that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们已经对此厌烦了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, the conflict of interest! Ironically, [when it comes to] talking rhetoric and good arguments, he wins all the time, because he's a TV guy. He makes his point in a much more emotional way, through images and feelings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>啊，利益之争！具有讽刺意味的是，一旦涉及到漂亮的发言和辩论时，赢的总是贝鲁斯科尼，谁让他是电视人呢！他总能利用感情牌更感性地表达自己的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, he always presents himself as a martyr, as a victim, which is incredible because he is the man with the highest privileges in this country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如他总是把自己比作一名烈士或者受害者，这真是不可思议，他可是这个国家最具权势的人啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was hit in the face a couple of months ago, that was the best Christmas present because he had been struggling for some time to really look like a martyr but now he really was, with blood on his face.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个月前他脸部遭到攻击，这真是他收到的最好的圣诞节礼物，要知道他已期待已久希望自己看起来像个烈士，现在脸上流着鲜血的他真的成了烈士了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: Let's talk about this idea in the film about the flow of images and the flow of power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：我们来谈谈影片中形象和权力的流动。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On one hand, there's the force of Berlusconi's personality literally channeling itself to a viewing public, and on the other side there's the shaping of a mass sensibility and the dreams of everyday people, like Ricky and the girls who want to be veline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一方面，贝鲁斯科尼凭借一己之力将其传送给公众，另一方面，还形成了一股大众感性的力量，普通人的梦想，像瑞奇和渴望成为“花瓶”的女孩们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm interested in how you arrived at that concept as the driving force for what you wanted to accomplish here.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想知道你是怎样借其来推动此片？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: If you ask Ricky who has power, I don't think he would say politicians, he would say the VIPs, the celebrities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：要是你问瑞奇谁拥有权力，我觉得他不会说是政客，他的回答会是VIP和名人们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the same way, there's a great tension in Italy now, it's like a war being fought in the arena of television and pictures and gossip magazines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，意大利现在存在一种强烈的紧张气氛，如同电视、电影和八卦杂志上正在上演一场战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a number of stories, like this prostitute who Berlusconi had an affair with recently. She recorded everything on her mobile phone and even took pictures of the toilet inside [his house]. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有好多故事，像最近被爆和贝鲁斯科尼有染的妓女，她将所有活动都用手机拍了下来，甚至连（他家的）马桶也被拍了照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have a feeling that a character like Ricky wants to get inside television, he wants to empower himself that way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会感觉像瑞奇这样的人一心想进入电视圈，是为了拥有权势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Berlusconi made his power on television, and it's the only country where TV and politics are so enmeshed—in that sense he's an icon now—so if you live in Italy, the word "television" has different connotations.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝鲁斯科尼通过电视把自己变得强大，意大利是世界上唯一电视和政治如此紧密相连的国家――从这个意义上来说，他是当今的偶像――所以如果你住在意大利，“电视”一词有不同的寓意。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: Fabrizio Corona, the self-fashioned rebel paparazzi, identifies with Scarface and has empowered himself in a completely different way.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：法布里奇奥・克罗那，这位自我标榜的叛逆狗仔记者，把自己叫做“疤面”（译者注：艾尔・帕西诺主演的电影《疤面煞星》中的角色），用一种独特的方式获得了权利。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: The reason why Corona could promote himself as a rebel is because of what he said when he came out of prison: "Look, all these people smiling on your TV set, they have the power, so I take this camera and I get something back from them. I extort money from them." And that's his definition of a modern Robin Hood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：克罗那之所以可以用叛逆者的身份宣传自己，是因为他在出狱后的讲话：“看，这些人在电视里冲你笑着，他们有权有势，所以我利用摄像机让他们付出一些回报，我敲诈他们的钱财。”这样他把自己定义为现代的侠盗罗宾汉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So he became in the eyes of these people a rebel. And he's not a rebel at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自然他成了这些人眼中的反叛者，但这完全不是事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As you see in the film, he is a big Berlusconi fan, he's a reactionary, there's nothing new in his ideology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在这部片子里可以看到，他是贝鲁斯科尼的超级粉丝，他是个保守主义者，他的意识思想并无任何新奇之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What really interested me with Corona is that he plays a lot on the idea of the truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克罗那吸引我的地方是他在涉及真相方面做了很多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, he took these pictures of celebrities, showing how immoral they are. His idea was basically they are smiling, they're false on TV, look how they behave in the nights—they have mistresses, they do bad things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，他拍了很多揭示名人道德不伦的照片，他想让人知道他们虽然都在笑，但他们只是电视上的伪装，看看他们在晚上都是什么德行吧――他们偷情，他们做坏事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gossip is an offspring of Italian television, it's a project of diversion where people are interested in truths that are totally irrelevant.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>八卦是意大利电视的产物，是让人们对和自己不相关的人产生窥探真相心理的一种消遣。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: One of your films, Surplus, was centered around the ideas of John Zerzan. And this film made me think of people like McLuhan, Debord, and Baudrillard, not only because of the coinage in your film's title, but because of the banality of image consumption as it pertains in their work. Were your thoughts at all informed by theories of mass media?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：你的另一部作品《剩余》是以约翰・哲忍的思想为中心的，这部影片让我联想到麦克鲁汉、德博、纪希亚的名字，不仅因为影片片名的关系，还有形象消费的无聊性似乎也在他们的著作中有所提及，你的这些想法是否受到了大众传媒理论的影响？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: Yeah, of course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：当然有其影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've always been interested in the society of spectacle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直对奇观社会保持着兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in the end, I'm much more interested in confronting the reality of videocracy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但说到底更让我感兴趣的是面对电视政治这个现实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The director of the Big Brother show—he's an old friend of mine—was telling me that here, in this business, they have a saying that "television is fun to do, but not to watch." [Laughs] And his idea that Berlusconi's television is like mirror of his own personality made me think a lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《大哥》真人秀的导演是我的老朋友，他告诉我在这个行业里有一句俗话叫“做电视要比看电视好玩”。[笑] 他觉得贝鲁斯科尼的电视节目是他本人性格的写照，这个观点引发我很多思考。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have become like Berlusconi because we've been exposed to his subconscious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们已经变得喜欢贝鲁斯科尼，因为我们已经暴露在他的潜意识下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's ironic that this country which has such a traditional culture and superior qualities in culture now has reduced itself to this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>讽刺的是这个国家拥有如此悠久的文化传统和优良的文化品味，现在却将自身降低到如此程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is bizarre.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不太正常。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: I thought it was an interesting choice for you to profile a male performer, Ricky, as opposed to one of the velina wanna-bes. Why did you make that choice?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：你选择将男演员瑞奇和一个想成为“花瓶”的姑娘作对照十分有趣，你为什么这么做？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gandini: I really liked him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甘迪尼：我真得很喜欢他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the logic of his own thinking was for me totally revealing of the power of the system, like when he says that on TV, you get ten times bigger, you become immortal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的思考逻辑就是对权利系统的揭示，就像他在电视上说的，你比以前强大十倍，你成为不朽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think to me that was much more unpredictable than having a poor velina who is of course the symbol of the biggest group of discriminated human beings in Italy: women. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我而言，可怜的“花瓶”属于意大利受到最多歧视的人群“女人”中的一员，相比起来，瑞奇更具不可预测性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The idea of being willing to, as he says, sacrifice a part of his body for a career, you could easily translate that to a whole generation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照他的话来说，为了一个职业愿意牺牲自己身体的某个部分，你很容易将之放到整个一代人身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a question of how much you're prepared to sacrifice to get inside television. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了进入电视圈，你多大程度上做好了牺牲的准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you make a film, it's easy to think Oh, I should have someone who's against all this, an expert in Italian politics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你要拍一部电影时，很容易会想到，喔，我应该有一个反对者，一个意大利政治的专家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm trying not to be ruled by fear when I do these films and try instead to just portray what I find in my journey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在拍摄这些影片时，我试图不被恐惧左右，而只是描绘出这趟旅途中的发现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I found a very male-dominated world where women are in the background and that's what I end up showing.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终我发现这是个男性主导的世界，女性站在后面，于是我在影片中也有所表现。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker: There's an old adage among literary authors and people who teach creative writing, which is "Show, don't tell." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人：文学作家和创意作家中有一句座右铭“展现出来，不要讲出来”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're giving viewers the Berlusconi experience by immersing us in the world he lives in and that he's created, rather than having talking-head experts explain it all.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你将观众带进贝鲁斯科尼生活和创造的世界中，让观众切实感受他的经历，而不是让一些专家坐在那儿侃侃而谈。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

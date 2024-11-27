@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T120046Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too rich to queue?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有钱人就用不排队了？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why markets and morals don't fit We are moving towards a world where everything is up for sale, from standing in line to the right to pollute --- and that's bad for all of us, says Michael Sandel in this extract from his new book, What Money Can't Buy Nobody likes to queue.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为何市场和道德就不相称？ 我们正在朝着一个将任何东西都拿来买卖的世界前进，甚至连排队和污染这档子事也可以拿来交易―这对我们大家是有害的。--节选自迈克尔.桑德尔新书《金钱不能买的东西》。没人喜欢排队。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's long been known that, in fancy restaurants, a handsome tip to the waitress  can shorten the wait on a busy night.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家很久以前就知道，高档餐厅夜晚生意忙的时候，如果你付给餐厅领班一笔可观的小费就能缩短等候的时间。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such tips are quasi-bribes and handled discreetly.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种小费类似于行贿还要偷偷摸摸进行。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No sign in the window announces immediate seating for slipping the host a bank note.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>餐厅窗户上没有标注塞给老板钞票就立马有座位了吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in recent years, selling the right to jump the queue has come out of the sh Long queues at airport security checkpoints make air travel an ordeal.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但近几年来，将排队权利拿来出售着实让人讶异不已。机场安检要排长长的队这让飞机旅行苦不堪言。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But not everyone has to wait.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但并不是人人都非得这么等。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those with first- or business-class tickets can use priority lanes that take them to the front of the queue for screening.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些拥有一等舱或商务舱的乘客可以使用优先通道，让他们排到队首先接受安检。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>British Airways calls it Fast Track, a service that also lets high-paying passengers go first at passport and immigration control.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新国航空公司称其为“绿色通道”，这是一项特殊服务，允许付钱多的乘客持护照先走以及控制移民。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But most people can't afford to fly first class, so the airlines have begun offering economy passengers the chance to buy queue-jumping privileges as an à la carte perk --- at Luton Airport, for example, customers can pay to go to the head of the security queue. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是大多数人买不起一等舱，因此，是不是航空公司能开展一项如餐馆点菜付小费的服务，也能让那些坐经济舱的乘客们能有机会买个加塞的特权呢？打个比方在伦敦机场，顾客花个3美元就能到队首接受安检呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Critics complain that a fast track through airport security should not be for sale.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>评论家们抱怨说，机场的安检快速通道不应该出售。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Security checks, they argue, are a matter of national defence, not an amenity like extra leg room or early boarding privileges; the burden of keeping terrorists off aeroplanes should be shared equally by all passengers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们认为安检系关国防问题，而不像多要个房间歇歇脚或提前登机那么简单;所有乘客都必须有责任避免让恐怖分子钻了安检的空子。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The airlines reply that everyone is subjected to the same level of screening; only the wait varies by price.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空公司答复说，人人都得接受安检，只有等待的长短随付钱多少不一样。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As long as everyone receives the same body scan, they maintain, a shorter wait in the security line is a convenience they should be free to sell. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只要大家都经过同样的全身扫描，他们认为，接受安检时间短点是很方便的，这种权利应该自由出售。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amusement parks have also started selling the right to avoid queues.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>游乐园也已经开始销售避免排队的权利了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Traditionally, visitors may spend hours waiting to board the most popular rides and attractions.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般来说，游客可能要花几个小时的等待才能使用上最受欢迎的游乐设施，才能看到最热门的景点。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, Alton Towers and other theme parks offer a way to avoid the wait: for anything from ￡10 to ￡85 a person, Alton Towers will sell you a Fastrack pass that lets you go to the head of the queue on selected rides.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，奥尔顿塔和其他主题公园提供了一种避免等待方法：个人可以花个?10到?85，奥尔顿塔会卖给你的快速通行证，你就可以排到队首去到精选的游乐设施玩了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At Thorpe Park an Unlimited Fastrack ticket costs ￡70, while at Legoland ￡70 will pay for an Ultimate Q-Bot, reserving your place in a virtual queue for your favourite rides with 95% less wait time.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>索普公园的无限快速通行证要花费70英镑，而在乐高乐园，?70就可以支付一个终极快速通行证，他们可以在一个虚拟的队伍里为您保留一席之地，您要去最喜爱的游乐设施玩赏时，等待时间将减少95％。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interestingly, amusement parks often obscure these special privileges they sell.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有趣的是，游乐园经常对他们销售的这些特殊权限讳莫如深。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To avoid offending ordinary customers, some parks usher their premium guests through back doors and separate gates; others provide an escort to ease the way of VIP guests as they cut in.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了避免得罪普通顾客，一些公园通过后门和单独的大门招待他们的尊贵顾客们;而且当贵宾们插队时还有专门的人保驾护航。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This need for discretion suggests that paid queue-jumping --- even in an amusement park --- tugs against a nagging sense that fairness means waiting your turn. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种谨小慎微表明，有偿插队 （即使在游乐公园内）在和一个反复提及的道理―公平意味着排队--在苦苦较量。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you're put off by queue jumping at amusement parks, you might opt instead for a tourist sight, such as the London Eye.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你在游乐园插队被阻止的话，你可选择观光景点试试，如伦敦眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For ￡18.90 (￡19.90 for children), you can ride in one of 32 glass capsules and enjoy a spectacular view of the city.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>花个18.90英镑（儿童9.90英镑），你可以乘坐32个玻璃舱中的任一个去享受城市的壮观的景色。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, there can be a long wait for a capsule, so for ?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不幸的是，有可能经过漫长的等待才能等到空舱。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>28 a person, you can buy a Fast Track ticket that offers priority boarding.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但个人花上28英镑可以买一个快车道票，为你提供优先乘坐权。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shelling out ￡115.20 for a family of four may seem a steep price, but as the ticketing website points out, Fast Track tickets are ideal for customers "who want to make the most of their day". 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个四口之家可能要花上115.20英镑，这似乎价格不菲，但票务网站指出，快车道门票是那些“想一天玩得痛快”的顾客理想的选择。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To an economist, long queues for goods and services are wasteful and inefficient, a sign that the price system has failed to align supply and demand.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对一个经济学家来讲，购买商品享受服务的时候大排长龙是浪费时间和低效的表现，这表明价格体系和供需不匹配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Letting people pay for faster service at airports and amusement parks improves economic efficiency by letting people put a price on their time. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>允许人们在机场和游乐园付费享受更快的服务，通过让人们为自己时间标价，从而提高了经济效率。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even where you're not allowed to buy your way to the head of the queue, you can sometimes hire someone else to wait on your behalf.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使不允许你有偿占到队伍前头，有时可以雇用他们为你排队等候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each summer, New York City's Public Theatre puts on free outdoor Shakespeare performances in Central Park.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年夏天，纽约市的公共剧院将在中央公园中的莎士比亚免费户外表演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tickets for the evening performances are made available at 1pm, and the queue forms hours in advance.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚会演出的门票是下午1点发放，要提前数小时排队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2010, when Al Pacino starred as Shylock in The Merchant Of Venice, demand was especially intense. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2010年，当阿尔・帕西诺主演的“威尼斯商人”上映时，票务需求就尤其紧张。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many New Yorkers were eager to see the play but didn't have time to queue.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多纽约人都渴望看戏，但没有时间来排队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This predicament gave rise to a cottage industry --- people offering to wait in line to secure tickets for those willing to pay for the convenience.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种困境引起了家庭手工业行业的兴起 ? 有人提供排队等候的服务以确保拿到门票，为那些愿意支付的人创造便利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The line-standers advertised their services on various websites.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专职排队人在在各个网站登广告宣传他们的服务。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In exchange for queueing up and enduring the wait, they were able to charge their busy clients as much as $125 ($77) a ticket for the free performances. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>排队忍受了漫长等待，作为交换，他们将收取他们忙碌的客户12美元5元（?77），而他们观看的演出却是免费的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In China, the business of paying people to queue has become routine at top hospitals.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国，为避免排队的支付业务已成为顶级医院的常规做法。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, the market reforms of the last two decades have resulted in funding cuts for public hospitals and clinics, especially in rural areas.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国，过去二十年的市场化改革已导致公立医院和诊所的经费削减，尤其是在农村地区。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So patients from the countryside now journey to the major public hospitals in Beijing, creating long waits in registration halls.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，农村的患者现在去北京的各大公立医院，要在注册大厅漫长等待。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They queue overnight, sometimes for days, to get an appointment ticket to see a doctor. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们要通宵排队，有时需要几天才能得到一张预约票去看医生。 
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The appointment tickets are a bargain --- only 14 yuan (about ￡1.20) --- but it isn't easy to get one.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预约票很便宜 - 只有14元（约1.20英镑） - 但它是不容易得到的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than camp out for days and nights, some patients, desperate for an appointment, buy tickets from touts.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不经过几天几夜露宿等待，有些患者对等待绝望了，从票贩子那里买了票。 
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The touts hire people to queue for appointment tickets and then resell them for hundreds of pounds --- more than a typical peasant makes in months. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>票贩子雇人排队预约门票，然后以数百磅转售 ?票的价钱超过一个典型的农民数月的收入。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is something distasteful about touting tickets to see a doctor.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需要兜售门票去看医生让人心生反感。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For one thing, the system rewards unsavoury middlemen rather than those who provide the care.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一方面，系统给令人反感的中间商提供了好处，而提供医疗的人士却没什么奖赏。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Doctors could well ask why, if appointments are worth so much, most of the money should go to touts rather than to them, or to the hospitals.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医生可能会问为什么，如果预约真值这么多的话，大部分的钱应该应当进入票贩子的腰包，而他们或医院不应该从中获益。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Economists might agree and advise hospitals to raise their prices.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经济学家们可能会同意，并建议医院提高价格。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, some Beijing hospitals have added special ticket windows, where the appointments are more expensive and the queues much shorter. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，北京的一些医院已添加了特殊的售票窗口，其中的预约票更加昂贵，而排队的时间则短得多。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But regardless of who cashes in on the excess demand --- the touts or the hospital --- the fast track system raises a more basic question: should patients be able to jump the queue for medical care simply because they can afford to pay extra?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但无论谁从这种超额需求赚到了钱―票贩子或是医院 - 快速通道系统提出了一个更加基本的问题：患者就因为他们可以负担额外的费用就可以不排队了？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In airports, amusement parks and hospital waiting rooms, the ethic of the queue --- "first come, first served" ---is being displaced by the ethic of the market --- "you get what you pay for". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在机场，游乐园和医院的等候室，排队的道德观这么认为 - “先到的先服务” - 正在被市场伦理所取代 - “你支付多少钱才能得到什么样的服务”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this shift reflects something bigger: the growing reach of money and markets into new spheres of life.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种转变反映了更大层面的东西：金钱和市场触角越来越深入到新的生活领域来了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider the proliferation of private schools and hospitals, and the outsourcing of war to private military contractors.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>考虑私人学校和医院的增殖以及将战争外包给私人军事承包商。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider the eclipse of public police forces by private security firms --- especially in Britain and the US, where the number of private guards is more than twice the number of public police officers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再想想私人安保公司怎样让公共警察部队黯然失色的 - 尤其是在英国和美国，其中私人警卫的数量是公共警务人员数目的两倍以上。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider, too, the reach of commercial advertising into schools; the sale of "naming rights" to parks and civic spaces; the marketing of "designer" eggs and sperm for assisted reproduction; the outsourcing of pregnancy to surrogate mothers in the developing world; the buying and selling, by companies and countries, of the right to pollute. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再考虑考虑，商业广告已经深入到学校；公园及文娱场所出售的“冠名权”;“设计师”的卵子和精子用于辅助生育，外包给发展中世界的代孕母亲;以及 公司和国家购买和销售的行使污染权。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why worry that we are moving towards a society in which everything is up for sale?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么担心，我们正在走向一个将任何东西都经行交易的社会呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For two reasons: one is about inequality; the other is about corruption.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原因有两个：一个是关于不平等;另一个与贪污有关。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a society where everything is for sale, life is harder for those of modest means.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个把一切都拿来出售的社会里，那些挣钱少的人生活会更加艰难。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The more money can buy, the more affluence (or the lack of it) matters.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>钱可以买到更多的东西，更富裕（或缺乏）就更加重要。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But also, putting a price on the good things in life can corrupt them.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但同时，把生活中的好东西贴上价格标签可能会破坏好东西的本质。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paying children to read books might get them to read more, but it might also teach them to regard reading as a chore rather than a source of intrinsic satisfaction.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为儿童阅读书籍支付，这可能让他们多读书，但它也可能让他们视阅读为苦差事，而不是为了寻求内心的满足感而去阅读。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes, market values crowd out nonmarket values worth caring about. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，市场价值会挤走值得关心的非市场价值。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For years, Switzerland had been trying to find a place to store radioactive nuclear waste.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年来，瑞士一直在试图找个地方来储存放射性核废料。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the country relies heavily on nuclear energy, few communities wanted nuclear waste to reside in their midst.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然该国在很大程度上依赖于核能，很少社区希望核废料留在那里。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One location designated as a potential nuclear waste site was the small mountain village of Wolfenschiessen, in central Switzerland.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑞士中部城市 Wolfenschiessen被制定作为可能的核废料存放地。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1993, shortly before a referendum on the issue, some economists surveyed the residents of the village, asking whether they would vote to accept a nuclear waste repository in their community, if the Swiss parliament decided to build it there.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1993年，在这个问题上的全民公决开始之前，一些经济学家调查该村庄的居民，询问他们，如果瑞士议会决定在他们的社区建立核废料储存库，他们是否会投赞成票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the facility was widely viewed as an undesirable addition to the neighbourhood, a slim majority (51%) of residents said they would accept it.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然建造这一设施在大多数邻里看开是不可取的，仅刚超一半的居民（51％）表示他们会接受。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apparently their sense of civic duty outweighed their concern about the risks.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，他们的公民责任感战胜了他们对风险担心。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the economists added a sweetener: suppose parliament proposed building the nuclear waste facility in your community and offered to compensate each resident with an annual monetary payment.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来经济学家增加了有利条件：假设国会提出在你居住的社区建立核废料设施，并为每个居民每年提供金钱补偿。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then would you favour it?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么你会赞成吗？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The result: support went down, not up.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果：支持人数没增多反而减少了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adding the financial inducement cut the rate of acceptance in half, from 51 to 25%.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>金钱诱惑使支持率从51％至25％减少了一半。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's more, upping the ante didn't help.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，加大赔款的力度并没起到作用。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the economists increased the monetary offer, the result was unchanged.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当经济学家增加了赔偿款金额时，其结果是不变的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The residents stood firm even when offered yearly cash payments as high as ?5,300 a person, well in excess of the median monthly income.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使提供给每人每年高达5 300英镑的现金，这个数量都大大超过中等收入者月收入了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similar if less dramatic reactions to monetary offers have been found in other places where communities have resisted radioactive waste repositories.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他地方已经发现了类似的情况，虽然社区居民对金钱反应没那么激烈，但他们反对在社区建立放射性废物库的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So what was going on in the Swiss village?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，瑞士的小村庄发什么什么？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why would more people accept nuclear waste for free than for pay?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么相比金钱补偿却又更多的人无偿支持核废料存放呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many villagers, willingness to accept the nuclear waste site reflected public spirit --- a recognition that the country as a whole depended on nuclear energy and that the nuclear waste had to be stored somewhere.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于许多村民来讲，愿意接受核废料的地方反映了一种公德心―一种认识，即国家整体上依赖核能而且核废料必须存储在某个地方。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If their community was found to be the safest storage site, they were willing to bear the burden.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他们的社区被认为是最安全的存储站点，他们愿意承担负担。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Against the background of this civic commitment, the offer of cash felt like a bribe, an effort to buy their vote.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对于这项公民承诺，支付给他们现让他们有种受贿的感觉，好像是买他们手中的赞成票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, 83% of those who rejected the monetary proposal explained their opposition by saying they could not be bribed. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上拒绝接受金钱交易的反对者们有解释有83%的人表示，他们反对被收买。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You might think that adding a financial incentive simply reinforces whatever public-spirited sentiment already exists, thus increasing support for the nuclear waste site.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能会认为，增加了财政奖励，就能简单地升华业已存在的公共情怀，从而加强对核废料站点的支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, aren't two incentives --- one financial, the other civic --- more powerful than one?Not necessarily.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，来自金融和其他公民权利的激励难道不比单方面的激励强大呢？那可不一定。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Financial incentives have also been found to crowd out public spirit in settings less fateful than those involving nuclear waste.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在解决没有核废料处理那么重大的事件上，上财政激励措施显得比公德心更强有力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each year, on a designated "donation day", Israeli high school students go door-to-door to solicit donations for worthy causes --- cancer research, aid to disabled children, and so on.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年，在指定的“一日捐”日，以色列的高中学生会去逐户上门征求捐赠慈善事业 ?如资助助癌症研究，援助残疾儿童，等等。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two economists did an experiment to determine the effect of financial incentives on the students' motivations. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两位经济学家做了一个实验，以确定财政激励对学生的动机的影响。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They divided the students into three groups.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们将学生分成三组。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One group was given a brief motivational speech about the importance of the cause and sent on its way.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一组听取了有关募捐事业重要性的简短动机讲话并把全部募捐款发送。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second and third groups were given the same speech but also offered a monetary reward based on the amount they collected --- 1% and 10%, respectively.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二组和第三组分别给予相同的讲话，但也根据他们募捐总额 的1％和10％，分别为两组提供了金钱奖励。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rewards would not be deducted from the charitable donations; they would come from a separate source. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奖励不会扣除慈善捐款，而是使用其它来源付给学生。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Illustration: Francesco Bongiorni Which group of students do you think raised the most money?
+If you guessed the unpaid group, you are right.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你认为哪组的学生所募善款最多？如果你猜是无报酬的那组，你猜对了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unpaid students collected 55% more in donations than those who were offered a 1% commission.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有报酬的学生募集的捐款比那些获得1％的佣金的学生筹集的多达55％以上。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those who were offered 10% did considerably better than the 1% group, but less well than the students who were not paid at all.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些获得10％佣金的学生的表现比获得1％佣金那组表现的好多了，但不如没有报酬的学生表现好。 
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(The unpaid volunteers collected 9% more than those on the high commission.)
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（无偿的志愿者筹集的捐款比高佣金学生高出9％。）
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's the moral of the story?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这则故事体现的道德是什么？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The authors of the study conclude that, if you're going to use financial incentives to motivate people, you should either "pay enough or don't pay at all".
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这项研究的作者得出结论说，如果你要用财政奖励人，你要么“支付足够多或干脆就不支付”。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,64 @@
+Is the Age of Cyber War at Hand? 
+As millions of Americans all over the world celebrated their nation¡¯s independence over the July 4th holiday weekend, Web sites belonging to their government were bombarded with access requests, slowing and sometimes blocking access to the sites. 
+These denial-of-service attacks targeted the White House, Department of Homeland Security, U.S.Secret Service, National Security Agency, Federal Trade Commission, Department of the Treasury, Department of Defense and the Department ofState, as well as the New York Stock Exchange, Nasdaq, Amazon and Yahoo.
+When these sites were attacked, however, the whole country was busy spending time with friends and family and grilling food on their patios. 
+Hardly anyone seemed to notice that they could not access the latest news from the Federal Trade Commission or the Treasury Department.
+The following Tuesday, 11 Web sites of the SouthKorean government were brought down by the same network of 50,000 computers used in the attacks on the United States. South Korean intelligence officials blamed North Korea as the source of the attacks, an allegation that was reported by the Associated Press. 
+Suddenly a lot more people started paying attention.
+Internet security experts quickly determined that an unsophisticated adversary launched the attacks on the U.S. and South Korea, and debated whether North Korea was behind the attacks.Many of the Web sites were able to return to their usual business within a few hours. 
+Some security experts and policymakers concluded that the attacks were no more than a nuisance to the people of the United States and South Korea, regardless of whether North Korea was responsible.
+What was the motive behind the July 4 attacks?
+If the attacks did originate from North Korea, one motivation could have been to test the impact of flooding South Korean networks and the transcontinental communications between the U.S. government and South Korea on the ability of the U.S. military in South Korea to communicate with military leaders in Washington and the PacificCommand in Hawaii, suggests Dmitri Alperovitch, Vice President of Threat Research at McAfee. 
+The ability of the North Koreans to severely diminish the information transmission capacity of those links would provide them with a significant advantage in case of a surprise attack on South Korea across the Demilitarized Zone.
+The Georgian Cyber ¡°Flood¡±: A Model for Future Conflicts?
+In August 2008 Russia attacked the nation of Georgia in a dispute over the Georgian province of South Ossetia. 
+As the Russian military mounted its assault on the ground and in the air, a group of Russian nationalists joined the fray incyberspace. 
+Any civilian, Russian-born or otherwise,aspiring to be a cyber warrior was able to visit pro-Russia websites to download the software and instructions necessary to launch denial of-service attacks on Georgia. 
+On one Web site, called StopGeorgia, visitors could download a list of target Web sites and an automated software utility. 
+The only effort required by the user was to enter the Web address of a target and click a button labeled ¡°Start Flood.¡± 
+The coordinated assault inundated Georgia¡¯s government and media Web sites with access requests. 
+While the effects were minor at first,with service going down on some Web sites sporadically, the denial-of-service attacks became more severe once the armed hostilities started. 
+News and government Web sites were no longer reachable by anyone within or outside Georgia, severely hampering Georgia¡¯s public communications.Russia achieved a significant psychological victory by preventing Georgia from disseminating accurate information about the state of battle to the public. 
+And, with Georgia¡¯s side of the story silenced, Russia practically won the battle overinternational public opinion by default.Russia denied any involvement on the part of its military or government in the cyber attacks. 
+But some people were suspicious that the Russian military had the serendipity to begin hostilities on the ground concurrently with an entirely independent civilian cyber assault. 
+The U.S. Cyber Consequences Unit (US-CCU), an independent, non-profit research institute, began monitoring the situation almost immediately after the attacks, in part to determine how the campaign was organized. 
+In a recently released report, the US-CCU concluded that all of the attackers and activities showed every sign of being civilian, yet someone in the Russian government must have given the organizers of the attacks advanced notice of the timing of Russia¡¯s military operations. 
+Others had a different view of the attacks. 
+By the end of the week, Representative Peter Hoekstra, a member of the U.S. Congress, was stating publicly that the U.S. should conduct a ¡°show of force or strength¡± against North Korea for its alleged role in the attacks. 
+¡°Whether it is a counterattack on cyber, whether it is, you know, more international sanctions...but it is time for America and South Korea, Japan and others to stand up to North Korea,¡± he said, ¡°or the next time...they will go in and shut down a banking system or they will manipulate financial data or they will manipulate the electrical grid...and they may miscalculate and people could be killed.¡±
+The attacks were perhaps more than a simple crime in cyberspace, but did they warrant a U.S.political response or threat of military action? 
+What was the motive of the attackers? 
+Was there any truth to the assertion that North Korea was responsible for the attacks? 
+If they were, what were the intended consequences?
+The answers to all these questions were unclear.
+Yet these cyber attacks were not the first ones to raise such questions. 
+In 2007 Estonia fell victim to a series of denial-of-service attacks on government and commercial Web sites. 
+The attacks lasted for weeks, affecting the ability of Estonians to access their checking accounts online and conduct e-commerce. 
+Technical analysis showed the attacks came from sources within Russia, but the Russian government denied any responsibility. Although Estonia is a member of the NorthAtlantic Treaty Organization¡ªan alliance established during the Cold War to deter attacks from the Soviet Union¡ªthe members of the NATOdid not seriously consider an official military or diplomatic response to the attacks, according to Taimar Peterkop, Defense Counselor at the Embassy of Estonia in Washington. 
+Some members of NATO did send technical advisors to help Estonia reduce the impact of the attacks, but the assistance was not provided as part of an official NATO mission. 
+Once the attacks subsided, Estonia attempted to pursue the perpetrators through a law enforcement response to the attacks. 
+The investigation was successful in identifying some of the attackers in Russia, but Estonian law enforcement officers reached a dead end when they sought help from their Russian counterparts. 
+¡°Estonia has been unable to convince the Russian authorities to apprehend the offenders and bring them to justice,¡± Peterkop said.
+In the wake of these events and others, governments around the world are increasing their efforts to prepare for future cyber attacks. 
+NATO has setup a ¡°Center of Excellence¡± for cyber defense inEstonia to study cyber attacks and determine under what circumstances a cyber attack should trigger NATO¡¯s common defense principle that ¡°an attack on one is an attack on all.¡± 
+In June 2009, U.S.Defense Secretary Gates announced the formation of the U.S. Cyber Command, a sub-unified organization under U.S. Strategic Command. 
+Led by a four-star general, the new command is designed to defend vital U.S. military networks. 
+The UKgovernment recently announced plans to create a central Office of Cyber Security (OCS) to deal with the rising level of online attacks. 
+The OCS will have a role in coordinating offensive capabilities and, in extreme cases, would have the ability to mount a cyber attack in response to intrusions on UK networks. 
+Cooperative Cyber Defence Centre of Excellence
+The Cooperative Cyber Defence Centre of Excellence (CCDCOE) was established in May 2008 in Tallinn, Estonia to enhance NATO¡¯s cyber defense capabilities. 
+The CCDCOE is an international organization with membership open to all NATO nations.Currently, Estonia, Latvia, Lithuania, Germany, Italy, the Slovak Republic, and Spain have signed the memorandum of understanding to provide personnel and funding as Sponsoring Nations. 
+The mission of the CCDCOE is to improve the capabilities,cooperation and information sharing amongNATO nations through education, research and development, consultation and evaluation of lessons learned from cyber conflicts.
+Toward a Definition of Cyber War
+War is typically defined as the use of force, or violence, by a nation-state to compel another to fulfill its will. 
+Prussian strategist Carl von Clausewitz essentially defined it this way in his book On War¡ªa classic for strategic military thinking from the early 19th century. 
+Specifically, he described war as ¡°the continuation of politics by other means.¡±
+In other words, military conflict is a way for nationstates to achieve their political objectives when other means, such as diplomacy, are not working or are less expedient than violence. 
+Clausewitz¡¯s concepts continue to frame the way military strategists and international relations theorists think about war today.
+The world¡¯s increasing reliance on information technology coupled with the growing sophistication of cyber attackers has prompted experts to examine the notion of ¡°cyber war.¡±
+Yet there is disagreement among cyber security, technology and international relations experts as to what kind of actions, if any, constitute warfare in cyberspace.
+When determining whether a cyber attack is an act of cyber war, experts evaluate four key attack attributes: 
+Source: Was the attack carried out or supported by a nation-state?
+Consequence: Did the attack cause harm?
+Motivation: Was the attack politically motivated?
+Sophistication: Did the attack require customized methods and/or complex planning?

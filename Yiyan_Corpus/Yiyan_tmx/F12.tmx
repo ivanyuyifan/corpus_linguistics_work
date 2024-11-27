@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T115929Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>NOW WE ARE FIVE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们五个</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In late May of this year, a few weeks shy of her fiftieth birthday, my youngest sister, Tiffany, committed suicide. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年五月末，我最小的妹妹蒂凡尼自杀了。此时距离她的五十岁生日还有几个礼拜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was living in a room in a beat-up house on the hard side of Somerville, Massachusetts, and had been dead, the coroner guessed, for at least five days before her door was battered down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>彼时她躺在马萨诸塞州萨默维尔市穷乡僻壤处的一间破败房子里，验尸官推测在他们破门而入时，她至少已经死亡五天了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was given the news over a white courtesy phone while at the Dallas airport. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是在达拉斯机场的一部白色公用电话里听到这个消息的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, because my plane to Baton Rouge was boarding and I wasn't sure what else to do, I got on it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个时候我去巴吞鲁日的班机正在登机，因为一时也想不到能做什么，我也就按时登机了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following morning, I boarded another plane, this one to Atlanta, and the day after that I flew to Nashville, thinking all the while about my ever-shrinking family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天早上，我又坐上早班机去亚特兰大，第三天去了拉什维尔。期间我一直想着我那渐渐凋敝的家庭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A person expects his parents to die. But a sibling? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父母离去是意料中事，但兄弟姐妹呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt I'd lost the identity I'd enjoyed since 1968, when my younger brother was born.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从1968年我最小的弟弟出生后，我一直觉得自己是个大哥哥，但现在我似乎失去了这种感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Six kids!" people would say. "How do your poor folks manage?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“六个孩子！”人们也许会说，“真可怜，你们怎么受得了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were a lot of big families in the neighborhood I grew up in. Every other house was a fiefdom, so I never gave it much thought until I became an adult, and my friends started having children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我长大的地方有很多大家庭，每个房子都像一个采邑一样热闹，所以在长大成人、身边的朋友纷纷结婚生子前，我从来没有留意过这个问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One or two seemed reasonable, but anything beyond that struck me as outrageous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我开始觉得一两个孩子似乎比较合理，超过这个数可就太离谱了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A couple Hugh and I knew in Normandy would occasionally come to dinner with their wrecking crew of three, and when they'd leave, several hours later, every last part of me would feel violated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次，我和休碰巧与在诺曼底认识的一对夫妻和他们3个小恶魔共进晚餐，他们离开之后好几个小时，我还无法走出那种混乱的状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take those kids, double them, and subtract the cable TV: that's what my parents had to deal with. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想我父母当时要面对的情形：多一倍的孩子，而且还没有电视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, though, there weren't six, only five. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过现在只剩五个了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And you can't really say, 'Thereused to be six,' " I told my sister Lisa. "It just makes people uncomfortable."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“而且你还不能说‘过去曾经有6个孩子’我对姐姐丽萨说，“这会让人不舒服。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recalled a father and son I'd met in California a few years back. "So are there other children?" I asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年前，我在加州拜访了一对父子，其间我问：“还有其他孩子吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There are," the man said. "Three who are living and a daughter, Chloe, who died before she was born, eighteen years ago."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有的。”父亲答到，“还有3个活着，本来还有一个女儿克洛伊，但18年前她还没出生就夭折了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's not fair, I remember thinking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还记得当时自己想：这不公平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because, I mean, what's a person supposed to do with that?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是，你想要人们怎么应对这种话？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compared with most forty-nine-year-olds, or even most forty-nine-month-olds, Tiffany didn't have much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和大部分49岁，甚至和大部分49个月的人相比，蒂凡尼的遗物很少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She did leave a will, though. In it, she decreed that we, her family, could not have her body or attend her memorial service.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过她留下了遗嘱，叮嘱我们，也就是她的所有家人，不能取得她的遗体，也不能参加她的追悼会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So put that in your pipe and smoke it," our mother would have said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看开点，这事儿也就只能这样啦。”要是妈妈还在的话，会这么说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few days after getting the news, my sister Amy drove to Somerville with a friend and collected two boxes of things from Tiffany's room: family photographs, many of which had been ripped into pieces, comment cards from a neighborhood grocery store, notebooks, receipts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得知消息后几天，我的妹妹艾美和朋友开车到萨默维尔市，从蒂凡尼的房间里收拾出了两箱遗物：很多被捅得七零八碎的家庭照片、隔壁杂货店的意见卡、笔记本还有票据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bed, a mattress on the floor, had been taken away and a large industrial fan had been set up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的床就是一张放在地板上的席梦思，那时已经被清走，取之而代的是一部很大的工业风扇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amy snapped some pictures while she was there, and, individually and in groups, those of us left studied them for clues: a paper plate on a dresser that had several drawers missing, a phone number written on a wall, a collection of mop handles, each one a different color, arranged like cattails in a barrel painted green.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾美给她的房间拍了些照片，我们留存了下来，独自或几个人一起从里面找线索：不见了几个抽屉的碗柜里放着一个纸盘子，墙上写了一排电话号码，一捆拖把柄，柄柄颜色都不一样，看起来像插在绿桶里的一把香蒲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Six months before our sister killed herself, I made plans for us all to gather at a beach house on Emerald Isle, off the coast of North Carolina. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个妹妹自杀前六个月，我正计划着把兄妹几个聚集到北卡罗来纳绿宝石岛海边的房子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family used to vacation there every summer, but after my mother died we stopped going, not because we lost interest but because it was she who always made the arrangements and, more important, paid for it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去，我们一家人夏天常到那儿度假，不过母亲去世以后我们就不再去了。倒不是因为不想去，而是因为每次计划这件事的都是妈妈——更重要的是，付钱的也是她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The place I found with the help of my sister-in-law, Kathy, had six bedrooms and a small swimming pool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在弟妹凯西的帮助下找到了一所房子，有六个房间，一个小小的泳池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our weeklong rental period began on Saturday, June 8th, and we arrived to find a delivery woman standing in the driveway with seven pounds of seafood, a sympathy gift sent by friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的租期从7月8日星期六开始，为时一个礼拜。我们到那儿的时候，那位等着移交房子的女士正站在房子的车道上，身边放着七磅海鲜，这是一位好心的朋友送来的礼物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They's slaw in there, too," she said, handing over the bags.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“里头还卷心菜沙拉呢”她边把袋子交到我们手上边说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the past, when my family rented a cottage my sisters and I would crowd the door like puppies around a food dish. Our father would unlock it, and we'd tear through the house claiming rooms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去，每次我们到小别墅度假，我和我的姐妹们都会像小狗争食一样挤在门口，一俟父亲打开门，就喊叫着冲进去抢房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I always picked the biggest one facing the ocean, and, just as I'd start to unpack, my parents would enter and tell me that this was theirs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我总是能抢到最大的海景房，然后就在我打开行李箱的时候，父母亲就会走进来说，这间房是他们的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I mean, just who the hell do you think you are?" my father would ask. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我说，你以为你是谁啊？”我的父亲会这样问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He and my mother would move in, and I would get booted to what was called "the maid's room." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后他和我的母亲会搬进来，而我就只能住在那间“佣人房”里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was always on the ground level, a kind of dank shed next to where the car was parked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这间房永远都在底层，逼仄潮湿，旁边就是车房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was never an interior stairway leading to the upper floor. Instead, I had to take the outside steps and, more often than not, knock on the locked front door, like a beggar hoping to be invited in.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间里没有楼梯，我每次都只能到外面去上楼，而且常常像乞丐一样敲响锁住的大门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you want?" my sisters would ask.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你要干嘛？”姐妹们通常会问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I want to come inside." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我要进去”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's funny," Lisa, the eldest, would say to the others, who were gathered like disciples around her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真好玩，”大姐姐丽萨会向其他兄弟姐妹取笑，他们正像门徒一样围在她身边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Did you hear something, a little whining sound? What is it that makes a noise like that? A hermit crab? A little sea slug?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你们听见什么了吗？好像是有谁在哼哼唧唧，什么东西会发出这种声音呀？寄生蟹？还是小海参？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Normally, there was a social divide between the three eldest and the three youngest children in my family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家里的兄弟姐妹通常分成两伙，年龄最大的三个和年龄最小的三个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisa, Gretchen, and I treated the others like servants and did very well for ourselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽萨、格雷琴和我把另外三个当佣人使唤，什么都要占好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the beach, though, all bets were off, and it was just upstairs against downstairs, meaning everyone against me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是一到了海边，这个联盟就打破了，变成楼上的人联合起来欺负楼下的，也就是说，全家人都在欺负我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This time, because I was paying, I got to choose the best room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一次因为是我付的钱，最好的房间当然就归我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amy moved in next door, and my brother, Paul, his wife, and their ten-year-old daughter, Maddy, took the spot next to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾美住在我隔壁，弟弟保罗夫妻俩和他们10岁的女儿麦蒂住在艾美隔壁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was it for oceanfront. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这三间房都可以看到海景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The others arrived later and had to take the leftovers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到得稍晚的人就只能在剩下的房间里挑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisa's room faced the street, as did my father's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽萨的房间面朝大街，我父亲的也是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gretchen's faced the street and was intended for someone who was paralyzed. Hanging from the ceiling were electric pulleys designed to lift a harnessed body into and out of bed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格雷琴的房间不仅朝街，还是为半身不遂的人准备的，天花板上挂着电动皮带轮，随时预备把五花大绑的病人吊进或吊出房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike the cottages of our youth, this one did not have a maid's room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个别墅跟我们小时候住的不一样，没有佣人房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was too new and fancy for that, as were the homes that surrounded it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种房间已经过时了，周围的家庭也都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Traditionally, all the island houses were on stilts, but more and more often now the ground floors are filled in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以前，这种岛上的房子都是吊脚楼式的，但现在1楼常常也住满了人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They all have beachy names and are painted beachy colors, but most of those built after Hurricane Fran hit the coast, in 1996, are three stories tall and look almost suburban. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些房子都取了有海滨味的名字，漆上了海边的颜色。不过它们大部分是1996年弗兰台风过境后重建的，都有三层，看起来像郊区别墅一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This place was vast and airy. The kitchen table sat twelve, and there was not one but two dishwashers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子宽敞通透，餐桌可以坐下12个人，有两个洗碗机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the pictures were ocean-related: seascapes and lighthouses, all with the airborne "V"s that are shorthand for seagull. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>墙上挂的画都跟海有关：海景和灯塔，天上有不少V字，那是海鸥的简笔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sampler on the living-room wall read, "Old Shellers Never Die, They Simply Conch Out." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客厅墙上挂着一面刺绣，上面写着“老脱壳机永不死，它们成了撬螺器”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the round clock beside it, the numbers lay in an indecipherable heap, as if they'd come unglued. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刺绣旁边坐着一座圆圆的钟，上面的读数像脱了胶似的都累在了一起，根本看不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just above them were printed the words "Who cares?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这堆数字上方写了三个字：“谁在乎”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was what we found ourselves saying whenever anyone asked the time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以后我们一听到有人问时间，就会用这三个字答他：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who cares?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谁在乎”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The day before we arrived at the beach, Tiffany's obituary ran in the Raleigh News &amp; Observer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们抵达海岸的前一天，蒂凡尼的讣告刊登在了《罗利新闻与观察》上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was submitted by Gretchen, who stated that our sister had passed away peacefully at her home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>讣告是格雷琴写的，说我们的妹妹在自己的家里安然离世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This made it sound as if she were very old, and had a house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听起来好像她已经是白发老妪，而且还有自己的房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what else could you do? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过除此以外还能怎么样呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People were leaving responses on the paper's Web site, and one fellow wrote that Tiffany used to come into the video store where he worked in Somerville. When his glasses broke, she offered him a pair she had found while foraging for art supplies in somebody's trash can. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们在这份报纸的网站上悼念蒂凡尼，一个家伙还说她常去萨默维尔他工作的音像店，一次他的眼睛坏了，蒂凡尼还送了他一副，是她在别人家垃圾桶里翻找美术工具时发现的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said that she also gave him a Playboy magazine from the nineteen-sixties that included a photo spread titled "The Ass Menagerie."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说她还给了他一本60年代的《花花公子》，上面一幅照片的标题是“蠢货荟萃”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was fascinating, as we didn't really know our sister very well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些故事很有意思，因为我们并不是那么了解这个妹妹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each of us had pulled away from the family at some point in our lives--we'd had to in order to forge our own identities, to go from being a Sedaris to being our own specific Sedaris. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们每个人在人生的某一个阶段都渐渐脱离了这个家庭——我们必须要这样做才能形成自己的身份认同，让自己不再只是赛达瑞斯家的一员，而是独一无二的赛达瑞斯先生或女士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tiffany, though, stayed away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，蒂凡尼却总是不跟我们在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She might promise to come home for Christmas, but at the last minute there'd always be some excuse: she missed her plane, she had to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她曾经允诺会回家过圣诞节，结果总在最后一分钟找借口不来：错过了飞机、不得不工作等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same would happen with our summer vacations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年夏天的度假也是这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The rest of us managed to make it," I'd say, aware of how old and guilt-trippy I sounded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们其他人都能来。”我这样对她说，同时清楚知道我的话听起来老气横秋，引人愧疚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All of us would be disappointed, though for different reasons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蒂凡尼的缺席会让我们感到失望，虽然各人失望的原因不一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if you weren't getting along with Tiffany at the time, you couldn't deny the show she put on--the dramatic entrances, the non-stop, professional-grade insults, the chaos she'd inevitably leave in her wake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管你与蒂凡尼总是话不投机，却无法忽视她的存在——她那戏剧性的登场、从不止歇的专业级辱骂、离开后总是在身后留下的一片混乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day she'd throw a dish at you and the next she'd create a stunning mosaic made of the shards. When allegiances with one brother or sister flamed out, she'd take up with someone else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她今天把瓷盘子往你身上扔，明天就用这些瓷盘碎片拼成绝美的马赛克图案；今天跟一个哥哥姐姐闹翻了，明天就会跟另一个结成联盟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At no time did she get along with everybody, but there was always someone she was in contact with. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从来没办法跟所有人好好相处，但总是会跟某一个人保持联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toward the end, it was Lisa, but before that we'd all had our turn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她最后的联系人是丽萨，不过在这之前，我们每个人都轮了一遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last time she joined us on Emerald Isle was in 1986. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她最后一次跟我们一起去绿宝石岛是在1986年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And, even then, she left after three days," Gretchen reminded us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就算那一次她也只呆了三天就走了。”格雷琴提醒道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As kids, we spent our beach time swimming. Then we became teenagers and devoted ourselves to tanning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩提时候，我们去海边就是为了游泳；青少年开始，我们更喜欢晒日光浴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a certain kind of talk that takes place when you're lying, dazed, in the sun, and I've always been partial to it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都躺在沙滩上，被太阳晒得头昏目眩的时候，便会找些话聊，我一直很喜欢这样做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the first afternoon of our most recent trip, we laid out one of the bedspreads we had as children, and arranged ourselves side by side on it, trading stories about Tiffany.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在最近的一次旅行中，我们在一个午后铺开童年时的床单，并排躺在上面，聊起了蒂凡尼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What about the Halloween she spent on that Army base?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还记得她在陆军基地过的那次万圣节吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And the time she showed up at Dad's birthday party with a black eye?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还记得那次她一只眼眶乌青地出现在爸爸生日宴会上吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I remember this girl she met years ago at a party," I began, when my turn came. "She'd been talking about facial scars, and how terrible it would be to have one, so Tiffany said, 'I have a little scar on my face and I don't think it's so awful.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我记得几年前她在一次宴会上认识了一个女孩儿，”轮到我的时候，我说道，“她一直在讲脸上的疤痕，说脸上有疤是一件很可怕的事情。然后蒂凡尼就说，‘我脸上也有一个小疤痕，我没觉得有多丑啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>" 'Well,' the girl said, 'you would if you were pretty.' " </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这样啊，”那个女孩说，“你要是个漂亮女孩的话就不会这么觉得了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amy laughed and rolled over onto her stomach. "Oh, that's a good line!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾美笑得禁不住翻了个身：“噢，说得太妙了！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I rearranged the towel I was using as a pillow. "Isn't it, though?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我重新整理了一下用来当枕头的毛巾：“不过说得挺对的，不是吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Coming from someone else, the story might have been upsetting, but not being pretty was never one of Tiffany's problems, especially when she was in her twenties and thirties, and men tumbled helpless before her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这事发生在别人身上，听起来就有些凄凉，但蒂凡尼从来没有“不漂亮”这种烦恼，尤其在二三十岁的时候，多少男人都成了她的裙下之臣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Funny," I said, "but I don't remember a scar on her face." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有意思，”我说，“不过我真不记得她脸上有疤。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stayed in the sun too long that day and got a burn on my forehead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我那天在太阳下呆得久了一些，额头被晒伤了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was basically it for me and the beach blanket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受伤的就只有我和沙滩垫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I made brief appearances for the rest of the week, stopping to dry off after a swim, but mainly I spent my days on a bike, cycling up and down the coast, and thinking about what had happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自那以后，我便不再在沙滩上久留，游完泳以后等身体干了就走了。不过，我大部分的时间都在沿着海岸一圈一圈地骑自行车，一边骑一边想着种种往事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the rest of us seem to get along effortlessly, with Tiffany it always felt like work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们五个都能轻松地和睦相处，但跟蒂凡尼在一起就要费点劲了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She and I usually made up after arguing, but our last fight took it out of me, and at the time of her death we hadn't spoken in eight years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟她在争吵过后一般都能和好，但最后一次争吵让我怒不可遏，所以在她去世前，我们已经有8年时间没说过一句话了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During that period, I regularly found myself near Somerville, and though I'd always toy with the idea of contacting her and spending a few hours together, I never did, despite my father's encouragement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那八年里，我其实常常就在萨默维尔附近，而且会闪过跟她见面聊一会的念头。父亲也鼓励我这样做，但我一直没有迈出那一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, I'd get reports from him and Lisa: Tiffany had lost her apartment, had gone on disability, had moved into a room found for her by a social-service agency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过倒是总可以从父亲和丽萨处得到她的消息：她失去了房子、落下了残疾、住进了社会服务机构给她找的房间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps she was more forthcoming with her friends, but her family got things only in bits and pieces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的朋友对她的了解可能还要多些，家里人则常常只能得到一些支离破碎的片段。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

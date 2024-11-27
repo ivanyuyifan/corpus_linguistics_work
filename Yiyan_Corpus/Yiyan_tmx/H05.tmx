@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T091523Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China - Peoples Republic of Agricultural Biotechnology Annual</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>农业转基因年报 2015</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China Considering Major Revisions to Biotechnology Regulations</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国正对转基因法规进行重要修改</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Report Highlights:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要点</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China is one of the largest producers of biotech cotton in the world. It is also the world’s largest importer of biotech crops, but it has not yet approved any major biotech food crops for cultivation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国是世界最大的转基因棉花种植国，也是世界最大的转基因农作物进口国之一，但中国并未批准种植主要农作物用于食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Chinese government is in the process of revising its biotechnology regulatory system and is reportedly preparing to push ahead with the commercialization of biotech corn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国政府正在对转基因管理体系进行修订，并准备推进转基因玉米商业化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several domestic companies are reportedly preparing to submit Bt corn events for approval for domestic cultivation; the approval process is expected to take 3-5 years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据报道，几家国内种子企业正申报转Bt玉米在国内种植，而预计的审批流程将花费3-5年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, delays in import approvals continue to worsen, causing unpredictability for traders and delaying the adoption of needed new varieties inexporting countries such as the United States. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，转基因作物的进口审批进一步受到拖延，对于贸易商增加了不确定性，也延缓了新品种在主要出口国（如美国）的推广。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In May 2015, the Ministry of Agriculture (MOA)released a draft revision to its regulations governing biotechnology that would remove timelines for approvals and add economic and social factors to the approval process for the first time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年5月，农业部发布了对修订《农业转基因生物安全评价管理办法》的征求意见草案，其中取消了审批答复时限，并首次将经济、社会因素纳入审批流程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Executive Summary:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>摘要</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government of China is in the process of revising laws and regulations governing biotechnology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国政府正在修订转基因技术相关法律法规。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In May 2015, the Ministry of Agriculture (MOA) released a draft amendment to the AdministrativeMeasures for Safety Assessment of Agricultural Genetically Modified Organisms for public comments,which was later notified to the WTO SPS Committee (SPS notification 881). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年5月，农业部发布了对修订《农业转基因生物安全评价管理办法》的征求意见草案，之后知会了WTO SPS委员会（世界贸易组织实施卫生与植物卫生措施协定）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The amendment would remove timelines for approvals and add economic and social factors to the approval process for the firsttime (see GAIN Report CH15021). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该草案中取消了审批答复时限，并首次将经济、社会因素纳入审批流程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOA also recently reported that it is considering creating a procedure for soliciting public opinion on biotechnology applications to enhance public involvement in the agriculture biotech review decision making. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一份建议回复中，农业部表示正“积极研究并探索审批前社会意见征求程序”以便“在农业转基因审批决策中倾听社会公众意见，提高公众参与度”。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biotechnology is designated as a strategic emerging industry in China, and the government invests heavily in biotechnology research. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转基因技术被确定为中国战略新兴产业之一，政府在转基因技术研究上投入不菲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In September 2014, the government released remarks by PresidentXi Jinping affirming official support for biotechnology research, but calling for a cautious approach to commercialization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年9月，一份习近平主席的讲话确认了官方对转基因技术研究的支持，而在转基因商业化上则应采取谨慎的措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also said that foreign companies should not be allowed to “dominate the agricultural biotechnology product market.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时他表示“不能把转基因农产品市场都让外国大公司占领了”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is the first time remarks by President Xi on biotechnology have been made public. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是习主席第一次就转基因发表公开评论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February, 2015, the Chinese Communist Party pledged in its annual high level policy paper on agriculture to strengthen research, safety management, and public outreach on biotechnology (see GAIN Report CH15010).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年2月，中共中央印发了中央一号文件，强调加强转基因研究、安全管理和科学普及。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to recent news reports, several domestic companies are preparing to submit Bt corn events to MOA for approval for domestic cultivation. It is expected to take 3-5 years before these events are commercialized. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据报道，几家国内种子企业正向农业部申报转Bt玉米在国内种植，而最终的商业化生产预计还要3-5年时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China has not approved any foreign biotech food or feed crops for domestic commercial production. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在中国未批准国外转基因食用或饲用作物在国内商业化种植生产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When foreign companies have asked to submit an application for domestic cultivation, MOA informed them that China’s foreign direct investment restrictions prohibit them from doing so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而外商投资产业指导目录中将转基因作物种植列为了禁止外商投资的项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been increasing reports of farmers in China planting unapproved insect resistant varieties of corn and rice to cope with rising pest pressures, but it is unclear how widespread this trend is.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，越来越多报道显示中国农民种植未经批准的抗虫玉米和水稻，但具体散播规模并不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOA approved two new soybean and one corn variety for import in December 2014 (see Appendix II).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>农业部在2014年12月批准了两种新的转基因大豆和一种转基因玉米用于进口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the first new approvals since June 2013. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是自2013年6月以来首次新批准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The increasingly slow and unpredictable approval process resulted in large-scale trade disruptions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审批流程变得更缓慢而难以预料，造成了大规模的贸易阻滞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Corn trade remains weak after the approval of the corn event MIR 162, while DDGS trade witnessed a recovery. Trade in other products, such as alfalfa, have also suffered from biotech related trade disruptions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中美玉米贸易在MIR162品种被批准后依旧弱势，而DDGS贸易则略有起色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite these challenges, China is expected to remain a significant importer of biotech products, notably soybeans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有诸多障碍，中国将依然是转基因产品进口大国，尤其是大豆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States, as well as many other countries, has continued to press China to adhere to a science-based policy on biotechnology approvals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国和其他国家将持续敦促中国在转基因审批上秉持基于科学的政策制定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Government Policy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府政策</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biotechnology is designated as a strategic emerging industry in China, and the government invests heavily in biotechnology research. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转基因技术被确定为中国战略新兴产业之一，政府在转基因技术研究上投入不菲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the total amount of Chinese government expenditures on biotechnology is unknown, it is believed to far exceed public sector investment in biotechnology in any other country, including the United States (see the GAIN Report 13033 for additional details).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管我们不清楚中国政府在转基因项目上的具体投资，但我们相信这大大超过了包括美国在内的其他任何国家在转基因项目上的投资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February 2015, the Chinese Communist Party pledged in the 2015 No. 1 Document to strengthen research, safety management and public education on biotechnology (see GAIN Report CH15010).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年2月，中共中央印发了中央一号文件，强调加强转基因研究、安全管理和科学普及。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(The No. 1 Document gets its name from being the first policy document issued by the ChineseCommunist Party each year; it is reserved for important issues, such as agriculture.) The document built on the comments President Xi Jinping made on biotechnology during a major policy speech on agriculture in December 2013 (see below).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这份文件基于习近平主席在2013年12月针对转基因技术发表的重要讲话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The No. 1 Document and speech help partially explain what had appeared from the outside to be a confusing and somewhat contradictory set of government actions on biotechnology: slowing or stalled approvals for non-Chinese developed traits, stalled commercialization of domestically developed biotech corn and rice, and strong support for biotechnology research and seed companies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这份评论解释了政府在转基因产业上一些令人不解甚至矛盾的举动：延缓乃至阻碍外国转基因产品的审批、阻碍中国自主研发的转基因玉米和水稻商业化、大力支持转基因基础研究和种子公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sources suggest that these policies may be aimed at limiting foreign competition while China’s domestic biotechnology industry develops.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有消息称这些政策很可能是为中国本土转基因产业的发展而限制来自国外的竞争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are increasing reports that the unwritten policy against approving major GE food crops will soon come to an end. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有报道称针对转基因粮食作物的不成文禁令即将结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In summer 2015, two leading Chinese seed companies, Da Bei Nong and Origin,revealed that they have finished production trials for their Bt corn varieties, and are now ready to submit applications to MOA for biosafety certificates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年夏天，两家中国领先的种子企业，大北农和奥瑞金表示他们已经完成了转Bt玉米的生产试验，准备提交农业部申请转基因生物安全证书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The approval process for cultivation is expected to take three to five years, although they could be expedited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审批流程预计需要3-5年，但也可能会加快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been increasing reports of farmers inChina planting unapproved Bt varieties of corn and rice to cope with rising pest pressures, but it is still unclear how widespread this trend is.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>越来越多报道显示中国农民种植未经批准的抗虫玉米和水稻，但具体散播规模并不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestically developed varieties of biotech rice and corn received biosafety certificates in 2009 and these were renewed in December 2014. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内自主研发的转基因水稻和玉米于2009年获得安全证书，并在2014年12月更新证书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of these varieties were granted variety registration, the last step needed for commercialization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些品种还未进行品种审定注册，因此它们不能用于商业化种植。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To date, China has not approved any foreign biotech food or feed crops for domestic commercial production.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>迄今为止中国未批准国外转基因食用或饲用作物在国内商业化种植生产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The approval for cultivation of GE corn would be a major breakthrough for China’s biotechnology industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果转基因玉米被批准商业化种植，这将是中国转基因产业的重大突破。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lack of a clear path to commercialize for major biotechnology crop varieties (other than cotton) has limited incentives for local seed companies to invest in biotechnology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于在主要作物（不包括棉花）的转基因商业化种植上缺少明确的发展路径，本土种子企业在转基因技术上的投入热情有限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has also encouraged public labs to focus on basic research rather than developing commercially viable seeds.Inconsistent protection of intellectual property and the fragmented nature of China’s seed industry further discourage private sector investment in biotechnology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这同时也使科研机构更愿意进行基础研究而非开发商业化种子。而新品种保护缺失和种业碎片化进一步阻碍了民间资本投入转基因研发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government is working on developing a new seed law to try to improve variety protection (see GAIN report CH14035).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府正在制定新种子法，加强品种保护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Chinese government’s decision to restrict participation of foreign seed technology companies, ban foreign investment, and slow approvals for many biotechnology crops has slowed the development of the biotechnology sector in China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国政府通过限制和禁止外国投资、拒绝审批转基因品种来限制外国种业公司参与中国转基因产业，这也延缓了中国转基因产业的发展，因为国际公司原本有机会与中国公司合作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2011, foreign investment in biotechnology was moved from the“restricted” to the “banned” category, meaning that foreign companies could no longer conduct agricultural biotechnology research in China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2011年生物科技产业在外国投资目录中从限制类被转入禁止类，这意味着外国公司将无法在中国开展转基因研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some Chinese government officials have expressed concern that international seed companies would dominate the seed market in China if they were allowed to commercialize their biotechnology seeds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些政府官员表示如果任由国际种业公司推出商业化转基因种子，他们占领中国种子市场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The example of cotton, where international companies were allowed to commercialize seeds, suggests these fears may be misplaced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而从棉花的例子上看（国际公司可以推出转基因棉花种子），这种担忧可能言过其实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While biotech cotton seeds from international companies initially held large share of the market, locally developed varieties quickly arose and now dominate the market for biotech cotton seeds in China.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管开放伊始国际公司一度占据很大市场份额，本土研发的转基因品种很快兴起并占领了中国市场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Government officials cite lack of public acceptance as an important factor behind the slow pace of biotechnology commercialization in China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府官员将公众担忧作为中国转基因商业化发展缓慢的重要因素之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Public opinion is one factor that is considered when deciding whether to approve a genetically engineered (GE) crop for import or cultivation, along with safety, environmental, and economic considerations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据农业部官员说法，在评估转基因作物的进口或种时，公众意见、安全、环境、经济等因素都会被考虑在内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A lack of public acceptance was directly cited by MOA in July 2014 as the sole reason for delaying an import approval application for a GE soybean variety.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年7月农业部暂缓批准一种转基因大豆的进口申请，其直接原因就是公众担忧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government is increasing its public outreach efforts to address public misperceptions to help develop China’s domestic biotechnology industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国政府正开展公众宣教以消除这些误解和流言，以此帮助本土生物科技产业的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon after President Xi’s speech was published inSeptember 2014, MOA launched a campaign to train and educate local agricultural officials and the public about biotechnology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在习主席的讲话印发之后不久，农业部开展活动向地方农业官员和大众普及转基因知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both traditional and social media are being used to explain China’s biosafety regulatory work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这项活动通过传统媒体和社交媒体解释了中国的生物安全管理措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOA plans outreach to provincial agricultural officials, students, and the general public. Provincial authorities are being asked to assist in these efforts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>农业部计划向省市级农业官员、学生和普通大众开展这种知识普及，而地方政府也将参与这些科普活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many people in China still have limited knowledge about biotechnology, and rumors and misinformation is widespread. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国公众对于农业生物科技缺少准确的了解，而且容易受流言和误导的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A common and persistent misperception is that consumers inbiotechnology producing countries, such as the United States, do not themselves consume genetically modified food. (In reality over 90 percent of corn and soybeans in the United States come from GEvarieties and are used in many food products.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个普遍而持久的误解是转基因生产国的消费者，例如美国，自己并不食用转基因食物（事实上在美国超过90%的玉米和大豆是转基因品种，并被用于各种食物中）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The emerging media, such as the MicroBlog, WeChat,and on-line forums are often used by opponents of agricultural biotechnology.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各种新兴媒体，包括微博、微信、论坛等经常传播关于转基因的谣言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Public opponents of biotechnology have become more vocal and active in challenging the government.There have been a number of requests for MOA to disclose information, including questions from members of the National People’s Congress Consultative Committee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于转基因技术的声浪正愈演愈烈。农业部收到一系列信息公开要求，包括来自人大委员的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Chinese lawyer filed a case against MOA claiming that MOA violated the public information disclosure requirements after his request for information was rejected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一名律师因其信息披露要求被拒绝而状告农业部违反信息公开条例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lawyer requested disclosure of information related to agriculture biotech imports, safety review results and reports for three soybean events imported for food and feed use, reasons for rejecting commercialization of GE crops for staple foods, whether China plans to commercialize GE crops for staple foods, measures to protect domestic agriculture and farmers’interests, as well as implementation of the GMO labeling regulations and punitive measures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他要求农业部公开的信息共涉及五个方面，包括农业转基因生物进口的种类的数量；三种进口转基因大豆的安全评价信息；未批准转基因粮食作物商业化种植的原因；保护本土农业和农民利益免受进口转基因农产品冲击的措施；以及落实农业转基因生物标识制度的具体措施和落实情况等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOA responded that the approved events, the labelling requirements and the safety review documents have been disclosed on MOA’s official website and that the other issues do not fall within the government information disclosure scope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同农业部答复认为其申请公开的有关农业转基因生物进口的信息和落实农业转基因生物标识制度等信息，均已在农业部官方网站上公布，并提供了相关网址；其余信息都属于对有关问题的咨询，不属于政府信息公开的范畴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In July 2015, the Beijing High Court made the final ruling in favor of MOA. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2015年7月，北京高院驳回了这名律师的诉讼请求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Production</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生产</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China is the sixth largest producer of agricultural biotechnology crops in the world by area according to a 2014 report by the International Service for the Acquisition of Agro-biotech Applications (ISAAA).Cotton accounts for almost all of the 4 million acres of biotech crops grown in China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据2013年国际农业技术应用服务组织（ISAAA）的报告，中国拥有转基因作物400万公顷，是世界第六大转基因作物生产国。转基因作物种植总面积400万公顷，其中转基因棉花占绝大部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although China has commercialized six genetically modified plants since 1997 (cotton, tomato, sweet pepper, petunia, poplar, and papaya), few are in production today due to difficulties in bringing the products to commercialization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管自1997年以来中国商业化了六种转基因作物（棉花、番茄、甜椒、牵牛花、白杨和木瓜），由于实际商业化非常困难至今种植面积不大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2014, 7.1 million Chinese farmers planted 3.9 million hectares of biotech cotton. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年，710万中国农民种植了约390万公顷转基因棉花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While cotton acreage decreased from 4.6 million hectares in 2013 to 4.2 million hectares in 2014, the percentage of cotton acreage planted with GE seeds increased by three percentage points to 93 percent.Approximately 8,500 hectares of virus resistant papaya were planted in Guangdong, Hainan Island, and,beginning this year, in Guangxi. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管棉花总种植面积从2013年的460公顷下降到2014年的420万公顷，转基因棉花的种植比例则上升三个百分点到93%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virus resistant papaya acreage increased by 50 percent from 5,800hectares in 2013 to 8,475 hectares in 2014. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转基因抗病毒木瓜的种植面积大约8500公顷，分布在广东、海南和广西，其面积由2013年的5800公顷增长到2014年的8475公顷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been reports of farmers in China planting unapproved varieties of Bt corn and rice to cope with rising pest pressures, but it is unclear how widespread this trend is.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有报道称中国农民开始种植未经批准的转Bt玉米和水稻以应对虫害加剧，但尚不清楚有多少面积。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biotech products approved for commercial production in China can be found on MOA’s website. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经农业部批准可以在中国商业化种植的转基因产品可见农业部网站。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, biotech crop cultivation is approved on a province by province basis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总体而言，转基因作物的种植需要分省份批准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the vast majority of the safety certificates for cultivation are for domestically developed varieties of Bt cotton which are approved for three ecological areas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而绝大部分现有转基因安全证书是针对国内研发的转Bt棉花在三个主要生态区的种植。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government has not approved any foreign developed biotech food or feed crops for cultivation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府尚未批准任何国外研发的转基因品种用于食用或饲用种植。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>China does not have a co-existence policy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国尚未制定转基因与传统作物共存政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite years of public research, China has not yet commercialized any genetically modified grains or oil seeds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管研究已经进行了许多年，中国至今尚未商业化生产任何转基因粮食或油料作物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2009, MOA granted the first biosafety certificates for food and feed crops to two Chinese developed insect-resistant rice varieties and one high phytase corn variety (which were renewed at the end of 2014). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2009年，农业部首次向食用和饲用作物颁发了转基因生物安全证书，对象是自主研发的两种抗虫水稻和一种高植酸酶玉米（证书在2014年底更新）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, MOA did not issue final approval for planting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而农业部尚未批准最终的商业化种植。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MOA does not publish information on ongoing domestic biotech research and development. According to MOA publication son deregulation, major crops undergoing field trials (either the intermediary experiment or environmental release stage) include insect resistant corn, high lysine corn, insect resistant soybeans,and wheat that is less prone to pre-harvest sprouting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>农业部不发布国内转基因研究发展信息，但根据农业部批准信息，在研究中的主要作物（中间试验或环境试验）包括抗虫玉米、高赖氨酸玉米、抗穗发芽小麦，以及抗虫大豆。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

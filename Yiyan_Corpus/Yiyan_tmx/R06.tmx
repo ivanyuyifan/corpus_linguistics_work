@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T025201Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just Before the Black</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑暗前一刻</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sit in the driver's seat of my grandfather's old DeVille. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我坐在爷爷那辆旧帝威车的驾驶座上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is night out and cool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜深了，很凉爽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Me and Joe, we just sit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔和我就这么坐着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're out in front of the Palo Alto Municipal Golf Course pro shop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在帕洛阿尔托市高尔夫球用品专卖店门外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a tan building with white trim. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是一座白边黄褐色房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's where Joe and I work during the day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是乔和我白天工作的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We sit here because it's dark here, and there are no lights outside this building. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天黑了，房子外面没有灯，所以我们坐在这。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're stopped for no reason except that the night is still going and we're drunk, and who wants to go home, ever, and this spot is as good as any to just sit in the shadows and let life slow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们停在这儿不走不是为了什么，只是夜深了，我们都醉了，有人曾想回家，但这个地方是最好的，就坐在暗影之下，让生命缓缓流逝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My window is cracked, just a bit, and the air plays on my forehead like a cold whisper.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的车窗有些裂缝，流动的空气拂过额头，仿佛在窃窃私语，带来丝丝寒意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I often think about driving off the side of freeway overpasses, just plunge Grandpa's old blue boat through the cement guardrail: The sculpted barrier crumbling about me and Grandpa's blue machine; a great moment of metallic explosion and heavy ripping and jerking and then release; a soft, slow dive of arcing color through the windshield, into a hard second of impact, just before the black. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我常常在想我开车驶出高速公路立交桥侧，让爷爷那辆旧的蓝色车穿过水泥护栏猛地跌落下去的情形：护栏在我和蓝色旧车的周围化为粉碎；接着惊人的时刻来了，金属爆炸，手紧抓、痉挛，然后松开；一道轻柔的电弧之光慢慢直透挡风玻璃，变成又一冲击，就在黑暗之前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What an adventure lies behind one quick turn of the steering wheel. A great screaming, and then, slip away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车后有人急转方向盘，好一个险情！接着一声尖叫，然后滑至一边开走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe and I sit and stare at the wall of the building. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和乔坐在那里盯着房子的墙壁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The building is beige, but the shadows make it shadow-color.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子是米色的，但阴影使房子显得暗色重重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe smokes. His window is all the way down, and he breathes his smoke out the black gaping gap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔抽着烟，他的车窗开到了底，他在黑暗的烟雾缭绕中一呼一吸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is not much to talk about with Joe because he's such a moron. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于乔，没有什么可说的，他就是这样一个白痴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know what he thinks he is, or why he thinks he exists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道他把自己看成什么，他为什么认为自己还活着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess in some lives lived, no one tells you what to be, and so you be nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想有些人就是被动地活着，没人要你做什么，你就什么都不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the olden days you were born into it, all decisions made, and you farmed until you died, or cleaned the royal toilets.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你生于古代，命运就已被决定，你会种田或打扫皇室厕所直至老死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess they didn't have toilets. Just stuck their asses out and shat in the moat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想皇室没有厕所，他们只是脱了裤子往坑里拉屎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But someone had to wash out the hole.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过总得有人把坑洗干净。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If you lived in the olden times, what would you do?" I ask Joe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果您活在古代，你会做什么？”我问乔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe has to think about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔只好想了想这个问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is large, and his weight spreads from his belly across the seat, like it was a plastic sack full of liquid, rolling in layers upon itself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是个大块头，重量在肚子处堆集，然后往座位处分散，肚子就像一个充满液体的塑料袋，表面正在一层一层地滚动着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Which olden times?" he asks, and it's like a boar's grunt, a deep thing, from the thick part of his throat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哪个朝代？”他问道，声音从喉咙深处发出，沉沉的，就像野猪在咕噜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Like, King Arthur, with knights and horses." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就像亚瑟王时代，有骑士和战马的时代。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fatass thinks. I can hear it, rust-worn gears flaking and groaning slowly into motion, even smell it, yellow smoke emanating from his skull.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个蠢猪正在想，我能听到他那已经锈坏掉的大脑机器正嘎吱作响地慢慢运转起来，铁锈一片一片开始脱落。我甚至能闻到他脑壳里冒出来的黄烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'd be the king," he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会当国王，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can't be the king," I say. "No one is king. That's like winning the lottery."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不可能当国王，”我说，“谁都不能成为国王，成为国王就像中了六合彩一样难。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If I went back, I'd be king. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果我回到过去，我就会成为国王。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I'd fuck every virgin in the kingdom."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会和王国里的每一个处女做爱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can't be king, asshole. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不可能成为国王，你这个笨蛋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can't even be duke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你甚至连公爵都当不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact that you even said that shows you're not royalty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就通过你所说的，都能证明你不是王室成员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're a peasant."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你就是一个农民。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whenever people time-travel, they go back and they are friends with the king, or they are the king."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“只要人们可以穿越时空，他们就可以回到过去，与国王交朋友，甚至成为国王。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Because those are stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那些都是故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When people tell stories, they're always about the king, it's Aristotle crap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们讲故事时，总是讲与国王有关的事，那是亚里士多德在胡说八道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it's not real."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那不是真的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Neither is time travel."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“穿越时空也不是真的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There are very few kings, and you certainly wouldn't be one of them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“国王只有极少的几个，但肯定不会是你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fuck you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“去你妈的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fuck you, Joe, you're an idiot."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“去你妈的，乔，你就是一白痴。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're an idiot."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你才是白痴。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know," I say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I am. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是一个白痴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am friends with a slug, and my other friends are pigs and wolves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和懒鬼交朋友。我的朋友都是猪狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never make friends with nice things, just the shit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来不和好人交朋友，尽和一群垃圾交朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If you were king, I'd kill myself," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果你是国王，我就自尽。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe sucks off his cigarette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔抽完了香烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It lookslike the point of a golf tee in his fat, clenched paw.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他紧握着的肥胖爪子里，香烟看起来就像高尔夫球座的顶端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looks at me and the blue shadow-smoke drifts over the gate of his teeth like fog over a graveyard.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看着我，蓝色的烟影从一排排牙齿形成的门中飘出，仿佛墓地上空的迷雾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Then you better die, mofucker, cuz I'm the king round these parts."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你最好去死，去你妈的，不管怎么说，我就是这极少数国王中的一个。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiles with rotten teeth like busted shingles, all climbing over each other, and yellowing gray teeth next to shit-colored gums just don't go together, and I think, Why don't you get some braces motherfucker and brush those dang things, but I don't really think about that too much because I'm thinking about something else, or at least getting ready to do something else, or already doing ...</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笑着，露出了一口烂牙，这些烂牙就像碎石，一颗摞在一颗上。他那大便一样黄的牙龈上，灰白的牙齿泛黄，稀稀拉拉。我心想，你为什么不找些该死的牙箍，为什么不刷刷自己的臭牙。其实我也没往这方面多想，我正在想其他的事，要么是至少应该做什么事，要么是正在做着什么事......。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And before I even know it, or can enjoy the new look on Joe's face, like a blubbery peekaboo face, so surprised, because I'm driving us right toward the vague beige shadow-filled wall, and I can only see and hear Joe for a second, a high-pitched thing that cracks for just a second, and for that second I'm with Joe's voice on a plateau in the black of space, wherever it is that noise cracks like that and decibels live, and then it's gone because there's the metal sound so loud and it's how I had always planned it to be, crunching, and a jerk and the front of my head is filled with the cold hollow sinus pain, the surprise punch in the nose that takes you back to childhood and there's an immediate link to every other time you ever had your nose hit, by a ball, by a head, by your own knee, and after the surprise it doesn't go away; but I'm still there and the tires behind me are screeching because my foot is still on the gas, and the car has gone a ways into the wall but it ain't going any farther, and I look over at fat shit, and there is blood rolling out of a slice in his forehead, and some blood coming out of his mouth, and I think that it's from the head gash until I see one of those teeth is now a black gap and he looks like a fat something-awful: hockey-player-pumpkin-cartoon-shithead, and he says, "Why the fuck did you do that, Manuel?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前，我甚至都已经知道了后果，我会饶有兴致地看到乔的新面孔，一张肥肥的躲猫猫似的脸，令人无比吃惊。因为我开车朝着对面的墙直冲过去，那是一堵米色的墙，阴影重重，模糊不清。我能看到乔的样子、听到乔的声音的时间不超过一秒钟，令人紧张的噼啪作响声也仅仅只有一秒钟，那一秒，我在黑暗中，伴随着乔平稳的声音，无论哪里都是那样的声音、那样的噼啪声，那样强烈的噪音，然后消逝，因为金属的响声更大，这正是我一直想要达到的效果，嘎吱作响，颠簸震摇，我满头坑坑洼洼的伤口让人心寒，鼻子上出人意料的一击让人立刻回想起童年一幕幕自己鼻子被球、被别人的头、被自己的膝盖所碰撞的情形，除了当时的惊讶外，那一幕幕都不曾消逝。我仍活着，踩着油门，身后的轮胎嘎吱尖叫，车子已经进到墙里一段距离，但不是很深，我抬头看了看那头肥猪，他的额头破了一块皮，正流着血，他的嘴边也流出了血，在我看到他牙齿缺了一个、形成一个黑洞之前，我还以为他嘴边的血是从头上的伤口流下来的，他看起来就像有点恶心的肥胖家伙：曲棍球球员加南瓜加卡通笨蛋。他说：“你他妈的搞什么鬼，曼纽尔？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I laugh like crazy, a laughter that bubbles out like popcorn, because he looks so fucking silly, and because my name isn't even close to Manuel, that's his brother's name, his equally stupid older brother.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都笑疯了，爆发出像炸爆米花一般的咯咯笑声。他真他妈的笨，我的名字根本和曼纽尔沾不上边，曼纽尔是他哥的名字，他那个和他一样笨的哥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe just looks at me with that stupid look, covered in flowing blood, going onto his shirt like ketchup randomness, so much messier and more random than I could ever plan.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔就一副傻样地看着我，脸上血流不止，衬衫上也沾到了血，看起来就像乱糟糟的番茄酱，比我想象得更加杂乱不堪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I did paint those swirls, because I drove Grandpa's car into the wall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过是我搞得一团糟的，因为是我开着爷爷的车撞墙的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For six months I drove around town with that busted car. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六个月后我驾着那辆破车在镇里四处逛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The front was smashed. I replaced the lights, but they were crooked and looked in different directions, like Peter Falk's glass eye and real eye. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>车头撞得走了样，我换了车灯，但车灯装弯过来，照的不是正前方，就像彼得?福克的假眼和真眼看的方向不同一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't care, and they, the cops or anyone, didn't catch me or pull me over. For a while.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不在乎，反正无论是警察还是其他人，他们都不会抓我，让我把车开到路边，哪怕只是停一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm at work when I pass Joeon the way to the driving range. "Hey, Jack-O', we doing this thing tonight?" I say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我工作时要去驾驶区，正好路过乔那里，我对乔说，“喂，豁牙南瓜灯杰克，我们今晚一起玩玩，怎样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're friends again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和乔又和好了，成了哥们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yeah," he says. "Hector has the good shit."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好啊，”他说，“赫克托耳有上好的大麻烟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone calls Joe Jack-O' now because he didn't get a replacement tooth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，每个人都叫他豁牙南瓜灯杰克了，因为他没有去补那颗缺掉的牙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He kept the hole because he thought it made him unique, and he stopped being mad at me after he figured out he wanted the gap, and then we would laugh about me being so crazy driving into the wall, and I smiled when people would bring it up, but really it was a failure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他留着缺牙形成的那个洞，以为那样就能让他与众不同，当他明白他需要这个缺口时，他也就不再冲我发火了，我们会对我开车撞墙的疯狂之举大笑不已，而当人们提起这事时，我一笑而过，实际这件事做得很差劲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If only I had driven right through into some other reality, but the DeVille was sturdy, and yes it was busted in the front, but not really as much as it could have been, and not so much that my parents got too suspicious when I said that another car backed into me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是我开车撞入其它更实在的东西就好了，但是那辆帝威车太结实了，不错，车头部分已经破碎，但没有达到效果，所以我说前面的车倒退时撞了我，我爸妈没怎么怀疑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now me and Jack-O' are driving down the dark 280 freeway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我和豁牙南瓜灯杰克正沿着黑暗的280高速公路行驶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Me and fat boy cruising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和这胖子缓慢地前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I think about that missing tooth, and that gap, and how there was never a gap in that place before, and about three dimensions, and how the gap was on the inside of his mouth unless he opened his mouth and how things, shapes, folded in on themselves, and four dimensions, and if time is variable, then how do I vary it, and why do I want to? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在想他那颗缺了的牙齿，那个缺口，在想之前没有缺口时是怎样的，从三维的角度看，如果他不张开嘴，那缺口在他嘴里是怎样的，由此想到事物是怎样成形然后自行变化融合的，从四维角度看，如果时间可以改变，那么我该如何改变时间，我又为何想改变时间？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because everything just focuses in on me and I hate it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为什么事我都是焦点，我讨厌这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If you were an Egyptian, what would you do?" I ask Joe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果你一个埃及人，你会做什么？”我问乔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't start this shit again, Michael."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别谈这该死的话题，迈克尔。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Remember when you called me Manuel?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还记得你叫过我曼纽尔吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I never called you Manuel, idiot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我从来没叫过你曼纽尔，笨蛋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would be pharaoh."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会当法老。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, you're too fat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你当不了，你太肥了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pharaohs are skinny," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法老都瘦得皮包骨头，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't want to be an Egyptian: pyramids and mummies and shit, and sand, and all that, fuck it, it's boring, man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不想做埃及人：金字塔、木乃伊都狗屎，还有沙漠等等，都去他妈的，烦死人了，小子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would be an Aztec, or a Mayan, like my peeps, and I'd cut your fucking heart out, homes."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想做阿兹特克人，或者玛雅人，就像我的人一样，我会把你他妈的该死心脏切出来，带回家去。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joe is Mexican. His skin is an ashy light brown and his lashes are heavier than mine, and he has short fat eyebrows and shit-brown eyes, and thick hair that flops about his fat pumpkin head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔是墨西哥人，浅灰褐色的皮肤，睫毛比我浓，眉毛又短又宽，一双黄褐色的眼睛，头发很密，耷拉在肥大的南瓜脑袋上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wish I was Mexican, or Hebrew, I mean Jewish, I mean Israeli, or Mexican Jewish, or Mexican Jewish gay, because it can be so boring being you sometimes, and if you were the most special thing like that, it could be really great, but maybe some people say the same thing about you, and you want to tell those people: "No, you're stupid, it's no fun being me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我倒希望我是墨西哥人，或者是希伯来人，我说的希伯来人是指犹太人、以色列人，或者我是墨西哥裔犹太人也行，或者就是墨西哥裔犹太同性恋，这样我就不再是我自己，不会时不时令人厌烦。如果你是这么特别的话，那真是太好了，但也许还会有一些人说你不像原来的那个自己，那时你就只想告诉他们：“不，笨蛋，成为我自己一点意思也没有。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Maybe we should try it," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许我们应该试试看，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Michael, I'm serious, don't do something crazy just because we're talking about your olden-time things again, just let me the fuck out if that's what you're thinking."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“迈克尔，说正经的，不要因为我们又在谈论你那古代的事情，你就去发疯，如果你想要那么做的话，他妈的先让我下车。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, man, I'm just saying that maybe those Mayans were on to something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，小子，我只是说也许那些玛雅人是那么一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe if we take someone's heart out and sacrifice it, then something special will happen."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许如果我们挖出人的心脏作祭祀，可能会出现不一样的事情。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can tell that Joe is looking at me like he is trying to figure me out, and I know that he can't figure me out because he isn't laughing and he isn't arguing, he is just staring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可以描绘出乔看着我的情形，他想极力弄懂我，但我知道他不可能弄懂我，因为他既没有大笑也没有争辩，只是盯着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Maybe we could take Hector's heart," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许我们能挖出赫克托耳的心脏，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are going to see Hector over at Foothill, the junior college where I go to night school. He lives near there and sells us shit, and we're supposed to meet him in the corner of the parking lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们正打算去山麓找赫克托耳，山麓是我上夜校的一所专科学校，赫克托耳就住在那附近，卖给我们大麻烟，我们可能会在停车场的拐角处碰到他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hector isn't a scary guy, he has a nice-guy face, but he could probably fuck somebody up if he wanted to.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赫克托耳不是一个可怕的人，他长了一张好人的脸，但是他可能会把你玩死，只要他愿意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hector would fuck you up," says Joe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“赫克托耳会玩死你的，”乔说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not if I stabbed him in the stomach," I say, and I'm reaching under my seat with my left hand as I say this, and I pull out a foot-long kitchen knife and then I point it at Joe while I'm still driving.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果我朝他肚子捅一刀，他就不会了，”我一边说，一边把左手伸到座位下，抽出一英尺长的菜刀，指着乔，而且还一边开着车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fuck you Michael, fuck you Mike-al!" he screams and I laugh because he has funny inflections when he gets excited.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你他妈的，迈克尔，他妈的，迈克—尔！”乔尖叫着，我哈哈大笑，乔激动的时候非常可笑，挺能带动气氛的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why do you have to be like this?" he says. "Why do you have to be Jack-the-Ripper psycho? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你为什么非要这样子不可？”乔喊道，“你为什么非要像开膛手杰克那样变态？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why do you have to be so crazy? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你为什么非要这么疯狂？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just want to buy some weed, I don't want to kill anyone, and I don't want to take their heart!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只不过是想买些大烟，我不想杀人，我不想挖心！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You said you wanted to, puta, so I'm just saying, then let's do it!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说过你想，贱人，我现在也在说，来，咱们一起干！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't call me puta, bitch! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别叫我贱人，臭东西！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And put that fucking knife down! And watch the road!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把你他妈的刀放下，看着路！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I poke the knife at him, at his fat stomach, lightly poking it with the tip, but he's wearing a puffy North Face jacket, so it doesn't stab him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把刀顶着乔肥肥的肚子，用刀尖轻轻地戳了戳他，乔穿着一件鼓鼓的乐斯菲斯夹克，一点感觉也没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stop it!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不要玩了！”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

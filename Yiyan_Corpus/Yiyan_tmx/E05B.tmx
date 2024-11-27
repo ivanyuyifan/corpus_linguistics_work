@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T153459Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How to Tie a Clove Hitch Knot</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手把手教你打一个完美双套结</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Completed clove hitch </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图示：已完成的双套结</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a fairly simple knot that can be useful for securing ropes to trees, posts, or other things that stand upright. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个简单又非常实用的绳结，它可以作为安全绳索用于任何需要攀爬高处的地方，比如爬树或悬挂海报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With this knot, it's fairly easy to adjust the length of the rope if you need to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有了这个绳结，你可以根据需要轻易的调整绳子长度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can be used in lashing ropework and also in sailing, especially as a temporary way to hold things.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双套结还可以用于捆绑绳索，航海，尤其是当作一个临时的方法捆住某物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are two methods suggested here. You might like to try both to see which works out best for your needs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里，我们提供了两种方法教你打双套结，你可以两样都试试，看看哪一种最适合你。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steps</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method One </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>方法一</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pick up the running end of the rope (the end that will be loose after you tie the knot). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拿起绳索的活动末端（在完成绳结后，末端将变得松散）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wrap it halfway around the pole or timber. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将它在杆子或木头上环绕半圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cross the running end over the wrapped part of the rope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在环绕处上交叉绳索末端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This will form an "X" shape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样会得到一个类似“X”的形状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bring it back around the pole.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把它放回到木杆旁边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lift the "X" part of the knot and slip the running end under this "X" horizontally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将绳结的“X”形状部分提起来，并把绳索的活动末端塞入“X"形的水平下方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pull the knot tight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拉紧绳结。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method 2</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>方法二</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is an alternative method of tying the clove hitch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是另一种系双套结的办法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A clove hitch may be tied by forming two loops and putting a pole through those two loops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用这种方法，双套结将由两个环组成，只要把木杆穿过这两个环即可。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This alternative technique has the limitation of having to be tied at the end of a pole. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种替代性的技术有一定的限制，即必须系在杆子的底部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, it is quicker to tie than the above method.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，用这种方法系绳结比上一种要快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make 2 loops as shown. Make the two loops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将绳索弯成如上图所示，摆弄成如图的两个环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An easy way to remember this is to end the left loop above and right loop down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用简单的方法记住左边环的绳索末端在上方，而右边的在下方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Place the right loop over the left loop.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将右边的环放在左边的环上面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Insert the pole into the loops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把木杆穿过这两个环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You now have a clove hitch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你就得到一个双套结啦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pull in opposite directions to tighten the clove hitch.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朝相反的方向拉绳索以拉紧绳结。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tips</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小贴士</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember to first make an 'X' then pull the working end through the 'X' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记得先做出一个“X”形状，然后才是将活动末端塞入“X”形中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The clove hitch is an excellent knot for starting and ending lashings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双套结是一个捆绑绳索的绝妙方法，无论是在用来打起始结还是最后固定用的结都很好。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warnings</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>警告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This knot may jam, making it hard to untie in some situations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双套结可能会很麻烦，在某些时刻很难解开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This knot may also slip, which means you should not use it to support large weights or in situations where the knot coming untied under stress could be dangerous.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双套结还可能很滑，即你应该避免让它承受太大重量，或在紧张的时刻解开绳索，这样会很危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, this knot is not highly secure, so it is best used for temporary situations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般来说，双套结并不能确保安全万无一失，所以最好是做临时用途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This knot will be secure as long as tension remains constant as it tightens down on itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当双套结被系紧并一直保持该状态时是安全的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a load/unload situation this knot is highly unsecure.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当它满负荷或超负荷操作时就非常不安全了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160823T025425Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another Manhattan</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再来一杯曼哈顿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had lied to each other so many times, over so many years, that deceptions between them had become commonplace, practically repertoire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年来，他们相互撒谎很多次，相互欺骗也成为常事，几乎成了他们间的全部节目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone knew this about them--it wasn't news among their friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于这点，所有人都知道，更不是他们朋友圈里的新闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night, they had dinner reservations with Elliot and Susan, who were accustomed to following the shifts in attitude and tone--Kate's theatrical sighs, for instance, in reaction to Jim's mournful looks across the table at her--brought on by the strain of living in an atmosphere of worry and betrayal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那晚，他们预定了位置，要和艾略特、苏珊共进晚餐。艾略特和苏珊已经习惯了关注他俩态度和语气的转变。比如凯特的夸张叹息，就是回应吉姆隔着桌子看她的忧伤眼神。吉姆这种眼神，又是因为生活在不忠和烦恼的紧张气氛里十分紧张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was winter, and dark, and the air in their little apartment was dry and nauseatingly warm; and yet what they needed, it seemed to Jim, was not to flee their home for another night of exciting conversational pauses and sly four-way flirting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正值冬天傍晚，他们狭小公寓里空气干燥，温暖得令人作呕。然而对于吉姆来说，他们想要的不是从家逃离，晚上坐到一起，兴奋地谈话、休息；也不是四个人各怀心思，相互调情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They needed to sit down together, no matter how stuffy it got in the living room, no matter how loudly the radiators hissed and banged, and take turns speaking their minds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们需要的是，不管客厅里有多闷，不理散热器发出的嘶嘶砰砰声有多吵，都坐到一起，轮流说出自己的心声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had to talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们必须得谈谈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But first he would stop at the florist's on his way home from the outpatient clinic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但首先，在从门诊诊所回家的路上，他准备在花店停一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he walked through the door carrying a bouquet, there was a chance that Kate might smile.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他要是抱着花束走进门，凯特脸上可能会露出微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a chance also that it wouldn't look awkward or strange when, at the end of the evening--he didn't really believe that he and Kate would be staying in--he paired with Susan for the walk through the cold, from the restaurant to Elliot's car. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也有另外一种可能——晚宴结束后（吉姆确信他们晚上不会呆在家里不出去），他携着凯特穿过寒风，从餐厅走向艾略特的汽车时，看上去不至于尴尬，奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might look, in other words, as if he were not bothered by Kate's whispering to another man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也可能让自己看起来好像并未因凯特与另外一个男人耳语而困扰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(She had a way, with Elliot, of bowing her head and mumbling furiously through the strands of hair that fell across the side of her face, so that, in order to make out her words, Elliot was forced to stoop and lean into the fog of her breath.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯特与艾略特讲话时，习惯低着头，头发滑下遮在脸侧，说话叽叽咕咕，语速又快。为了听清楚凯特的话，艾略特不得不屈身，把头偏进凯特呼出的热气里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jim's own affair, his affair with Susan, had been over for almost five months, long enough, he thought, as he approached the florist's on the corner by his and Kate's building, for him to begin experimenting--later that same night, if the mood was right--with innocently putting his arm around Susan's shoulder while she and he and Kate and Elliot walked in two sets of two toward the parking garage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉姆自己与苏珊的恋情，已经结束快五个月了。他觉得够久了。想着，他已经快到花店了，就在他和凯特所住楼房的拐角。晚上迟些时候，如果心情不错的话，他要开始他的实验——苏珊与他，凯特与艾略特，成双成对走向停车场时，他要单纯地搂住苏珊的肩膀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, he wanted to be careful not to punish Kate, or, at least, not to seem to punish her, for her success in adultery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，他只是想表现得细心些，并非因为凯特不忠而想惩罚她，至少看起来不像是惩罚她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elliot made her laugh--in a sweet way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾略特逗苏珊笑，方法甜蜜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyone meeting them for the first time would think they were a new couple.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次碰见他们的人，都会认为他们是新结合的一对情侣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was wrong to hate her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不应该憎恨凯特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd arrived at the florist's. Inside, he went straight over to the roses in their refrigerated case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经到达花店。花店里，他直接走向装玫瑰的冷柜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though it was a cold day, cold and very windy, and he'd come in chilled, the short walk across the heated space warmed him, and he could feel the frigid air hit him in the face when he yanked open the glass door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天气很冷，风很大，他走进来时已经冻透了。但是在有暖气的屋内走了短短几步，他便暖和起来，猛然拉开冷柜玻璃门，还能感觉到冷气铺面而来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He leaned in and peered at the flowers. He asked the girl, "Do you have yellow roses that haven't already bloomed and, you know, opened?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他俯身看着玫瑰花，问那女孩：“有没有还没绽放的黄玫瑰？你知道，就是还没开放的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yellow roses, signifying friendship more than eros, seemed right, given the complex potentials of the evening.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黄玫瑰更多时候象征友爱，而非情爱。鉴于晚上有各种可能性，十分复杂，所以黄玫瑰似乎比较合适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We only have these."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“只有这些。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They're pretty, but they're not going to last."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它们很漂亮，但是开不了多久。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was pretty as well, the girl showing him roses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>给他看玫瑰的那女孩，也很漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had he seen her in here before and somehow not noticed? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉姆之前在这见过她，却又不知怎地没有注意？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How old was she? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她年纪多大？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Should he risk looking into her eyes? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不要冒险看看她双眼？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was she wearing a ring? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有没有戴戒指？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about her ass? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屁股怎样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And what had he said to her just now? Blooming and opening meant the same thing in relation to flowers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉姆刚才问她什么，关于花，绽放和开放就是一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd become inarticulate in her presence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她面前，吉姆不会说话了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kate, in the meantime, was upstairs in the apartment, talking on the phone to Elliot. The call had gone on for more than five hours. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，凯特在楼上公寓里，正和艾略特打电话，已经打了五个多小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kate had had to use all available phones: her cell phone and, before the cell, the apartment's two cheap cordless handsets, one in the kitchen and one in the bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不得不用尽所有能用的电话。她用了自己的手机。之前还用了公寓里两部便宜的无绳电话，一部在厨房，一部在卧室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Can you hear beeping? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你听见电话嘟嘟响没？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've got to switch phones. Hang on," she'd exclaimed when the kitchen phone's battery began dying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我得换电话，等等。”她叫道。厨房里那部电话快没电了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carrying that phone (her first of the call), she'd gone into the bedroom, picked up its brother from the night table, and said, into this new phone, "Are you there? Can you hear me? Hold on while I hang up the other phone," after which she'd taken both phones to the kitchen and dropped the dead one into its cradle on the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她拿着电话（她最先用的就是这部）走进卧室，从床头柜上拾起另一部电话——厨房里那部的兄弟。然后对着新电话说：“你还在吗？能听得见吗？等等我挂掉那电话。”说完，她便拿着两个电话走进厨房，把没电的那部挂到墙上底座里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A small cabinet door beside this phone opened onto a narrow and dark airshaft that had once housed a dumbwaiter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电话边上的橱柜开着一扇小门，开到一个阴暗狭小的通风井上，里面曾经安装过升降机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kate opened and closed this empty cabinet several times while explaining, on the bedroom phone, why Elliot's being married and her being married shouldn't necessarily be considered something they had in common. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯特打开空橱柜的门，然后又关上，反反复复。同时又对着卧室里那部电话向艾略特解释，为什么绝对不能把艾略特和她都已婚视为他们的共同之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That they were both childless could stand as an area of emotional parity, she felt, considering the fact that they both remained unsure as to whether to have children, while their spouses frequently made it clear that, in their opinions--Susan's specifically regarding Elliot, Jim's specifically regarding Kate, and neither Susan nor Jim meaning to suggest a marital reconfiguration--they'd make "a great dad" or "a great mom."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯特觉得她和艾略特都没有孩子是情感上的平等。他们俩都还不确定要不要孩子，但是他们的伴侣——艾略特指的是苏珊，凯特指的是吉姆，都没有指自己是对方的伴侣——总是明说要作个“好爸爸”、“好妈妈”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elliot interrupted: "Don't you get tired of hearing that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾略特打断了她：“你还没有听厌烦吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's beside the point," Kate answered, and went on, "Oh, Elliot, why is talking to you so damn fucking difficult?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这不是重点。”凯特回答他。然后继续说：“哎，艾略特，为什么和你谈话就他妈的这么难呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you need an answer?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你想知道为什么吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know me, always curious." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我一直很好奇，你是晓得的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How stupid was that? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真傻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd been trying, not for the first time, to lovingly make clear to Elliot why she could no longer sleep with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>已经不是头回了，凯特一直煞费苦心，试图向艾略特澄清为什么再不能和他上床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the first hours of the conversation she'd been able to control the impulse to bait and flirt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谈话开始的几个小时里，凯特还能控制自己想和艾略特挑逗调情的冲动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the business of swapping phones, the walking from room to room in the stuffy apartment, had, as it were, weakened her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在沉闷的公寓房间走来走去，不停地更换电话，可以说已经让她清醒过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as if, in losing that first phone, she'd lost a line of defense, however symbolic, against Elliot's desire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>似乎第一次电话断线时，她对于艾略特欲望的防线也断了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe, she thought as she stood in the kitchen, opening and closing the dumbwaiter door with one hand, the necessary act of sacrificing one phone for another could be read as a veiled enactment of the sort of ambivalence required for alternating between lovers in the first place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又或者，当她站在厨房，单手开关着升降机门时，她想的是，牺牲一部电话，再换用另一部，可以解读为一种模糊的演绎，演绎她从一开始轮换于两个情人之间产生的矛盾心理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or was that too absurd?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是不是太荒唐了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Say that once more. I didn't hear what you were saying," she said to Elliot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“再说一遍，我没有听到你说什么。”她对艾略特说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The heating pipes banged; day was turning to dusk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>暖气管道发出巨响；白天渐渐进入黄昏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She listened to the hiss of steam escaping from the radiator beneath the kitchen window. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她听着厨房窗户下暖气片里逃逸出来的嘶嘶声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elliot began again, "I was saying that I sometimes think that you think that because I'm a psychiatrist I can automatically see all the different sides of a situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾略特又开始说：“我是说，我有时觉得你那样想，是因为我是精神病医生，我能顺理成章地看到情况的所有不同面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I'm not that kind of psychiatrist."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，我不是这种精神病医生。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Please don't talk to me like I'm one of your postdocs," she said, and he took a long breath.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“麻烦不要那样和我说话，好像我是你的博士后学生一样。”她作了次漫长的呼吸，说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said, "Kate, we're involved with each other, Kate." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“凯特，你我是有感情关系的。凯特。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jim's your friend."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“吉姆是你的朋友。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And so are you my friend."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你也是我的朋友。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your wife is my friend, too." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你妻子也是我的朋友。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She continued, "Fuck, I hate this. Now this motherfucking phone is beeping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她继续道。“妈的，我讨厌这电话，又开始响了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hold on. Elliot, can you hold on?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等等，艾略特，能不能等一会？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She swapped the bedroom phone for the insufficiently charged kitchen phone, went with that phone back into the bedroom, and sat on the edge of the bed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把卧室里的电话换成了厨房里的那部。那部电话还没有充足电。她拿着电话走回卧室，坐到了床沿上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Kate, why are you bringing up Susan? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“凯特，你为什么要提苏珊啊？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I need to know what your point is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我得知道你的想法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We agreed that we weren't going to talk about Susan. So where are you going with this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们说好不谈苏珊的，你提她做什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kate? Are you there?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯特，你还在吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He waited.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他等候着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Will you talk to me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你要不要说话？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Please, don't do this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拜托，别这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't do this, Kate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别这样，凯特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All right, fuck this, fuck this, fuck--"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧。妈的......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His phone was beeping. It wasn't the battery. It was another call. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他电话响了，不是电池的原因，是另外有人给他打电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said, "Kate, hang on a minute. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“凯特，等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hang on, Kate."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等一会，凯特。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took the call. "Hello?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他接了电话：“喂？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's me," she said, and then informed him in a miserable voice that both her home phones were dead, and that she was on her cell phone and just wanted to say that she didn't much enjoy dishonesty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是我。”凯特说道，然后用痛苦的声音告诉艾略特，她家里的电话全没电了，她现在用着她手机，刚才正想说她一点都不喜欢不诚实的做法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You'll have to speak up," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你就得和吉姆讲清楚。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Can you hear me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你听得见吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tell me when the signal is clear." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信号清楚了告诉我。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She pressed the cell phone against her ear and walked from the bedroom to the living room, then into the kitchen, then straight down the hall, passing the tiny second bathroom, with the broken, unusable toilet, to the apartment's miniature front foyer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把电话听筒摁到耳朵上，然后从卧室走到客厅，再走到厨房，然后径直走下走廊，走向公寓的狭小前厅。途中路过极小的第二洗手间，里面的马桶已经坏掉，不能用了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Here?" she said. "Here?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“喂？喂？”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm losing you," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我听不见。”艾略特说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And so she retraced her route, winding up back in the living room, where she turned on a lamp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，她又顺着刚才的路线，绕着上楼，回到了客厅里，打开了客厅里的一盏灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sky was dark. Everywhere on the city's horizon she saw other people's lit windows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天空黑暗无光，她视野里的城市，每处都是别人光亮的窗户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once again, Elliot had bullied her--or she'd let him bully her--into leaving open the question of their affair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾略特又一次逼她，或者说她自己让艾略特逼的，搞得自己不能理清感情问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was the use in arguing, anyway? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>争吵到底有什么用呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jim would come home any minute, and, a little later, the two of them would go out and meet Elliot and Susan for dinner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉姆随时会回家来，而且过一会他们俩就会出去，与艾略特和苏珊一起吃饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How crazy was that? She still had to shower and dress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真疯狂，她还得冲凉，还得打扮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She conceded to Elliot, "All right, I'll think about it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她答应艾略特：“好吧，我会考虑的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tomorrow, then?" Elliot said, and added, "I knew you'd come to your senses." He joked that if he didn't get out of his office in the next few minutes he'd be forced to show up at the restaurant in his white coat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那明天如何？”艾略特说。接着又补充道：“我知道你不会做傻事的。”他开玩笑说如果他不在几分钟内离开办公室，他就得穿着白大褂到去饭店了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They said goodbye, and she put down the phone and wept for a quarter of an hour.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们说了再见，凯特放下电话，哭泣了一刻钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Downstairs at the florist's, Jim's bouquet for Kate was growing and growing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼下花店里，吉姆给凯特的花束越来越大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It featured not only yellow roses but red and pink solitaires, along with sprigs of heather, freesia, and alstroemeria; green and white calla lilies; blue irises; mums; and some other things the girl had plucked from buckets and waved in the air for him to see and approve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>花束中的主角不仅有黄玫瑰，还有单枝的红玫瑰、粉玫瑰，小枝的石楠、小苍兰、秘鲁百合；加上绿色和白色的马蹄莲、蓝色的鸢尾花、菊花，以及其它一些品种，女孩从花篮中抽出，在空中挥舞，让他看看是否认同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What else? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“其它的呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What does she like?" she'd asked him, as she leaned into the refrigerator and reached for more.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她喜欢什么花？”女孩边问他，边倚靠在冷柜上，伸手去拿更多的花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That looks so nice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看起来真漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think she'll like just what you like," he said, and wondered whether it was O.K. for him to have said it. Was it provocative? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得你喜欢的，她就会喜欢。”他答道。心里想他这样说是否合适，是否有些挑逗意味？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were no other customers in the shop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>店里没有其他顾客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Staying close but keeping his distance, he followed the girl from one display case to another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他靠近女孩，却又保持着距离，跟着女孩从一个花柜走到另一个花柜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He might as well have been buying lingerie, he felt; and, in fact, it seemed to him that the bouquet was somehow intended for the girl, as much as for Kate, who would've been, well, not exactly mortified to know that her husband was downstairs using a shopgirl as a proxy to get himself worked up for sex later that night.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他觉得他最好是在买女式内衣；其实，他似乎就是为这女孩买的花束，感觉像是为凯特买的一样。而凯特，要是知道丈夫在楼下用女店员作替代品，为晚上的性爱热身，应该也不会真的伤心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Baby's breath," the girl said to him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“满天星。”女孩对他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Excuse me?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I love baby's breath."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我喜欢满天星。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In that case, we'll have to have a bunch," Jim said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那样的话，我得要一束。”吉姆说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She turned away, laid the unfinished bouquet on its side on the countertop beside the cash register, and, with her back to him, said, "We have a lot to work with here." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把还未装点完成的花束平放在收银机边上的工作台上，转过身子，然后背对着吉姆说：“我们要做很多工作整理花束。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She glanced back over her shoulder (did she want him to come closer?), then, quickly--what a great flirt, he thought--turned away again and set to work breaking down the bouquet and separating the flowers into groups, a variegated series of stacks that she arranged not by color or type (except in the case of the combined red, pink, and yellow roses) but, as became clear, by stem length. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她回头瞟了一眼（是想吉姆再靠近些吗？），然后又快速转过去——多棒的调情啊，他想——开始打散花束，把花分开成几种。一堆颜色混杂的花，除了红、粉、黄玫瑰的组合外，她没有按颜色或者种类整理，但是很明显，她是按长度整理的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she had her piles, she picked up clippers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整理完成后，她拿起了剪刀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This will take a minute," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这很快的。”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He watched her snip the stems. He said, "Take your time."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看着女孩修剪根茎，说道：“不着急。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there was a problem: what were these flowers going to cost? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是有一个问题：这些花要多少钱呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bouquet as she assembled it--as it came to be, in her hands--was broader and taller by far than what he'd come into the florist's wanting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩把花束拿在手里，包了起来。现在花束已经比吉姆进来时想要的更大，更长。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

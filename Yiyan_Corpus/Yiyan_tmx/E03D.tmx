@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T151007Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make Your Own Shaving Cream</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自制剃须膏</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My favorite part about caring for the environment is that it encourages the D.I.Y. spirit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于环保，我最喜欢的部分是它宣扬了一种DIY的理念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've always been a little on the crafty side and am more than happy to make something myself if it means that I'll save money and help out the planet by reducing my own consumption of chemical-infused products that are also often times packaging nightmares.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对此，我时常灵光闪现，而且手工制作除了让我感到开心外，更让我有成就感的是，我不但省了钱还减少了自身对有害化学品的消耗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,887 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T045326Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Senior Housing Options: assess your needs and make the best senior living/residential care choice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选择养老方式 ，选择优质生活</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether your search for senior housing is prompted by a serious medical condition or the desire for a lifestyle change, finding the right place to live can be challenging and stressful for both you and your family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论你选择养老方式的动机是基于想要更好的医疗条件，或是想要改变生活方式，选择一个真正合适的住所，对于你还有你的家人来说都是不小的挑战和麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the earlier you assess your current needs and how those needs may evolve over time, the more choices and control you'll have. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，越早评估你的当前需求，以及这些需求如何随着时间的推移而改变，你就会拥有更多选则和控制权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By learning about the different types of senior housing available, you can make the choice that's right for you and ensure you enjoy a happy, healthy, and fulfilling home environment as you age.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过了解不同类型的养老方案，你可以选择一所最适合你的，并确保将来拥有一个快乐、健康、充实的养老环境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is senior housing?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是养老？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aging is a time of adaptation and change, and planning your future housing needs is an important part of ensuring that you continue to thrive as you get older. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老龄化是一个随着时间去适应和改变的过程。规划你将来的养老需要，是确保你在慢慢老去的时间里能持续生活的重要条件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, every older adult is different, so the senior housing choice that's right for one person may not be suitable for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，每一个老年人都不同。所以一个适合别人的养老方案并不一定适合你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The key to making the best choice is to match your housing with your lifestyle, health, and financial needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最好的选择，应该是和你的生活方式、健康状况以及财政状况相符的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This may mean modifying your own home to make it safer and more comfortable, or it could mean moving to a housing facility with more support and social options available on site. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，你可以改装现有的房屋，使它变得更安全舒适；也可以搬到一个拥有更多设备和社会资源的家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It could even involve enrolling in a network of like-minded people to share specialized services, or moving to a retirement community, an apartment building where the majority of tenants are over the age of 65, or even a nursing home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也可以和一些志同道合的人一起分享专业的服务；搬去一个租户大多数是65岁以上老人的退休社区；或者住进养老院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When deciding on the senior housing plan that's right for you, it's important to consider not only the needs you have now but also those you may have in the future:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你在计划选择养老计划时，一定要把你当下的需求和将来可能出现的需求一起考虑进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Physical and medical needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活和医疗需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As you age, you may need some help with physical needs, includingactivities of daily living. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着年龄的增长，你可能在日常生活上需要一些帮助，比如一些日常的生活能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This could range from shopping, cleaning, cooking, and looking after pets to intensive help with bathing, moving around, and eating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从买东西、打扫卫生、做饭、照顾宠物到洗澡、外出和饮食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You or a loved one may also need increasing help with medical needs. These could arise from a sudden condition, such as a heart attack or stroke, or a more gradual condition that slowly needs more and more care, such as Alzheimer's disease.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你或你的爱人也可能由于一些突发事件有医疗需求，例如突发心脏病、中风；或者由于某些慢性疾病（如老年痴呆症）越来越需要悉心照顾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Home maintenance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房屋维护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you're living alone, your current home may become too difficult or too expensive to maintain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若你一人独居，你的房子可能会变得越来越难维护，维护起来开销也越来越大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may have health problems that make it hard to manage tasks such as housework and yard maintenance that you once took for granted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于身体每况愈下，一些曾经理所当然的事务会变得难以完成。比如家务活和修理院子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Social and emotional needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社交和情感需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As you age, your social networks may change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的社交网络会随着年龄的增长而改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Friends or family may not be as close by, or neighbors may move or pass on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朋友和家人也许不在附近，邻居搬迁或去世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may no longer be able to continue driving or have access to public transportation in order to meet up with family and friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无法自己驾车而必须乘坐公共交通工具去拜会亲戚和朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or you simply may want to expose yourself to more social opportunities and avoid becoming isolated and housebound.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也许想要更多外出社交的机会，而不想孤立和足不出户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Financial needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>财务需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Modifying your home and long-term care can both be expensive, so balancing the care you need with where you want to live requires careful evaluation of your budget.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>修建房子以及长期的护理都是昂贵的。因此，平衡好你想要的护理生活和选择喜欢的住所，需要你仔细预估预算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Preparing yourself for change</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>准备改变自己</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether you're considering home care services or relocating to a retirement home, planning your future housing needs often runs hand-in-hand with facing up to some loss in your level of independence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论你是在考虑家庭养老还是搬进养老院，规划你的老年生活往往伴随着坦然接受一定程度上丧失自理能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Understandably, the prospect of losing independence can be overwhelming for many older adults. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显而易见，这种可预见的自理能力的丧失，能击倒许多老年人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can bring with it feelings of shame, embarrassment, fear, confusion, and anger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使他们感到羞耻、尴尬、恐惧、困惑和愤怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it's important to remember that you're not alone in this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但重要的是，要记住，你并不是孤单一人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most of us over the age of 65 will require some type of long-term care services. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们中的大多数人在65岁以后将需要某种形式的长期护理服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And there's nothing to be ashamed about in admitting you need more help than you used to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>承认你比过去需要更多的帮助并没有什么值得羞耻的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, we've all had to rely on others at some point during our adult lives, be it for help at work, home or vehicle repairs, professional or legal services, or simply moral support. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，所有人都在生活的某些时候需要依靠别人的帮助。无论是在工作，家庭或者汽车维修，专业或法律服务，或只是道义上的支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many of us, independence is recognizing when it's time to ask for help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于我们许多人来说，独立，仅存在于当我们需要寻求帮助的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Coming to terms with changes in your level of independence</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接受自理能力的改变</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's normal to feel confused, vulnerable, or even angry when you realize you can't do the things you used to be able to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你意识到一些事情以前能做，而现在却无能为力的时候，会感到迷茫、脆弱，甚至生气都是正常的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may feel guilty at the prospect of being a burden to family and friends, or yearn for the way things used to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想到会成为家人和朋友的负担，你可能会感到愧疚，怀念过去的生活状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By acknowledging these feelings and keeping your mind open to new ways to make life easier, you'll not only cope with your change in situation better but may also be able to prolong other aspects of your independence for longer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过正视这些情绪和保持思想开放，使生活更轻松保持心胸开阔，你不但可以应付这些变化，也许还可以延长你在其他方面的自理能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Communicate your needs with family and loved ones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与家人和亲戚沟通你的需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's important to communicate with family members your wishes and plans, and listen to their concerns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与家庭成员沟通你的愿望和计划，接受他们的关心是很重要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, long distance family members might think it's better for you move close by so that they can better coordinate your care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，远亲也许希望你能搬去他们附近，以便他们能更好地照顾你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, you might not want to uproot yourself from your community and friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是你又不希望离开原来的社区和朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, just because you have family close by does not automatically mean they will be able to help with all your needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，你有亲人住在附近也不意味着他们一定能关注到你所有需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They may also be balancing work, their own children, or other commitments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们也要兼顾工作，自己的小孩，或其他事务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clear communication from the outset can help avoid misunderstandings or unrealistic assumptions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从一开始就清晰的沟通可以帮助避免误解或不切实际的假设。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be patient with yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对自己要有耐心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Losses are a normal part of aging and losing your independence is not a sign of weakness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失去是衰老的组成部分。失去自理能力并不意味着无能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Allow yourself to feel sad or frustrated about changes in your housing situation or other aspects of your life without beating yourself up or labeling yourself a failure.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面对日常生活或其他方面的改变，允许自己去感受悲伤或沮丧。而不要打倒自己或是标签自己是一个失败者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be open to new possibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接受新的可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your loved ones may offer suggestions about senior housing options or other ways to make your life easier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的亲人可能会提供关于养老方案或其他让你生活得更好的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than dismissing them out of hand, try to keep an open mind and discuss the possibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要立即否决，尽量保持一个开放的心态接受和讨论这些方法的可行性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes, new experiences and situations can lead to you developing new friendships or finding new interests you'd never considered before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，全新的经历和环境，可以带领你去发展新的友谊或者发现从未想到过新乐趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Find a way of accepting help that makes you comfortable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寻找一种让自己舒适的方式接受帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can be tough to strike a balance between accepting help and maintaining as much of your independence as possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既要保持自己自理能力独立性的感受，又要学会坦然接受他人帮助，两者很难平衡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But remember that many people will feel good about helping you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但请记住，很多人都非常乐于帮助你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it makes it easier, offer to trade chores. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以通过“家务交换”来让自己心理踏实一些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, you can sew on buttons in exchange for some heavy lifting or cleaning chores. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，用缝纽扣交换提重物或清洁家务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or return other people's help by "paying it forward".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者“赊账”的方式回报他人的帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Volunteer your time to help or teach others, while at the same time expanding your own social network.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奉献你的时间，去帮助别人教导别人，同时可以扩大自己的社交。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Helping a loved one cope with a loss of independence</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帮助心爱的人应对自理能力的丧失</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's painful to see a loved one struggling to maintain their home or themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看着心爱的人努力地维持家庭或他自己是很痛苦的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe clothes are not as clean as they used to be or the house is getting increasingly messy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许他们的衣服不再整洁，房屋越来越凌乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe your loved one is experiencing frequent falls or memory lapses such as leaving the stove on or the door unlocked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许他常常跌倒，记忆力减退，比如不关煤气或忘记锁门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While you can't force a loved one to accept help or move home, unless they are a danger to themselves or others, you can provide them with information and reassurance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而你不能强迫他去接受帮助或搬家，除非他已对自己或他人构成危险。你可以给予建议和安抚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't take it on alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要任由他不管。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brainstorm with other family and friends and talk with your loved one's medical team. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和亲戚朋友集思广益，咨询你爱人的医疗团队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes a senior will listen more to a doctor, care manager, or other impartial party.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候老人家会更愿意接受医生、护理经理或其他第三方人士的意见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Explain how care may prolong independence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>告知良好护理可以延长自己能力时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Accepting some assistance now may help your loved one remain in his or her home for as long as possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在接受援助，可以帮助他尽可能长时间留在家里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or if your loved one considers an assisted living facility now, for example, it may negate the need for a nursing home later on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他现在顾虑使用生活辅助设备，将来有可能会拒绝疗养院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Help your loved one cope with the loss of independence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帮助心爱的人应对自理能力的丧失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Encourage your loved one to stay active, maintain relationships with friends and family, and to keep an open mind about new interests, such as trying a day care facility.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鼓励他坚持运动，和亲朋好友保持联系，对新事物保持开放的心态，比如尝试日托辅助设备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suggest a trial run for home care services or other changes to give your loved one a greater sense of control over his or her situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以试验的形式提供家庭护理服务或其他改变，让他对自己的状况有自我控制感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A trial run let's your loved one have the chance to experience the benefits of assistance or change in living situation before having to commit to anything long-term.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>试验可以让他有机会去感受辅助设备或改变生活状态的好处，而不至于永久地否定一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't expect to handle all care yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要指望自己来处理所有的护理工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are only 24 hours in a day, and you need to be able to balance your own health, family, work, and finances. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天只有24小时，你需要兼顾自己的健康、家庭、工作和财务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caregiving can start with small assistance, and rapidly grow to an all-encompassing task. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看护可以从一个细小帮助开始，延伸到所有任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Getting help is not a sign of weakness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获得帮助，并不是一种软弱的表现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It means you care enough about your loved one's health and safety to realize when the responsibility is too great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它意味着你足够关心在乎你爱的人的健康和安全，领会责任的重大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Educate yourself about the resources that can help your loved one, and see if other family members can also help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反思你所能提供给你关爱的人的资源，看看家庭其他成员是否也能提供帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are your senior housing options?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的养老选择是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a broad array of housing options available to seniors, from staying in your own home to specialized facilities that provide round-the-clock nursing care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>供老年人选择的养老方式有很多，从家庭养老到提供24小时护理的专业化辅助设备中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The names of the different types of housing options can sometimes be confusing, as the terminology can vary from region to region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>术语可能因地区而异，不同类型的养老方式的名字有时会混乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the term "assisted living" can mean one thing in one state or country and something slightly different elsewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，“辅助生活”在一个地区或国家是一个意思，而在另一个地方可能又稍有不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, in general, the different types of senior housing vary according to the amount of care provided for activities of daily living and for medical care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，一般情况下，养老方式根据日常生活及医疗护理的程度不同而有不同分类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When researching a senior housing option, make sure it covers your required level of care and that you understand exactly the facilities offered and the costs involved.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在选择一个养老方式时，要确保它满足了你的护理需求，并且你准确地了解它所提供的设施以及费用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Senior housing option 1: Aging in place</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>养老方案1：家庭养老</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Staying at home as you age has the advantage of keeping you in a familiar place where you know your neighbors and the community. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家庭养老有一个优势就是，邻居和社区都是你所熟悉的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a wide range of home care services that can help you maintain your independence within the comfort of your own home, from in-home care to day care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有一个全面的居家照顾服务，帮助你在家里舒适地维持独立性，从居家养老过度到日托养老。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may also be able to make home repairs or modifications to make your life easier and safer, such as installing a wheelchair ramp, bathtub railings, or emergency response system.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也可以修改房屋使你生活得更轻松安全。如安装轮椅坡道，浴缸扶手，或应急响应系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Staying at home may be a good option if:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>留在家里可能是一个很好的选择，如果：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have a close network of nearby family, friends, and neighbors</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你和邻居、亲戚、朋友联系紧密</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Transportation is easily accessible, including alternate transportation to driving</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交通便利，四通八达，交通包括替代驾驶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your neighborhood is safe</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的邻居是安全的</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your home can be modified to reflect your changing needs</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的家可以根据你变换的需求而改装</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Home and yard maintenance is not overwhelming</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子和院子维护起来方便</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your physical and medical needs do not require a high level of care</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的身体和医疗的需求并不需要高水平的护理</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have a gregarious personality and are willing and able to reach out for social support</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有一个合群的个性，并愿意接受社会支持</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You fall within the geographical confines of an integrated community, such as a "village" or NORC (Naturally Occurring Retirement Community) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你属于一个地理限定内的综合社区，如“村”或NORC （自然形成的退休人员社区）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aging in place is a less effective senior housing option once your mobility is limited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你移动能力有限，家庭养老并不是一个很好的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Being unable to leave your home frequently and socialize with others can lead to isolation, loneliness, and depression. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无法随时离开家里，与其他人交往，容易导致孤立、孤独和抑郁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, even if you select to age in place today, it's important to have a plan for the future when your needs may change and staying at home may no longer be the best option.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，即使你现在选择家庭养老，为未来做好打算非常重要。当你的需求发生改变时，家庭养老并不是最好的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Senior housing option 2: The Village concept</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>养老方案2：概念村</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Village solution to aging in place is a relatively new concept, enabling active seniors to remain in their own homes without having to rely on family and friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>概念村的形式养老是一个相对新的理念。它使能独立生活的老年人可以留在自己家里，而无需依靠家人和朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Members of a "village" can access specialized programs and services, such as transportation to the grocery store, home health care, or help with household chores, as well as a network of social activities with other village members.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而“村”里的成员可以享受专业的方案和服务，如乘坐交通去杂货铺，家庭保健，或帮忙做家务，也可以和村里的其他成员保持社交活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Senior housing option 3: Naturally Occurring Retirement Communities (NORC) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>养老方案3：自然形成的退休社区（ NORC ）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like the village concept, Naturally Occurring Retirement Communities (NORC) enable seniors to stay in their own homes and access local services, volunteer programs, and social activities, but tend to exist in lower income areas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和概念村类似，自然形成的退休社区（ NORC ）使老年人留在自己家中，享受本地服务。志愿者活动，社会活动。但往往存在于低收入地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A NORC may be as small as a single urban high rise, or it may spread out over a larger suburban area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个NORC可能和城市中的一个单一多层建筑那么小，也可能分布在一个较大的郊区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>See Related Links for help finding a NORC program in the U.S.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（可查阅美国NORC计划相关链接）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Senior housing option 4: Independent living</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>养老方案4：独立生活</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

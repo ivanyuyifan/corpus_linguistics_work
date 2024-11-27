@@ -1,0 +1,847 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200428T051327Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>introduction</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简介</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information and information systems are critical and vitally important assets. Without reliable and properly secured information and information systems, business operations would be severely disrupted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息及信息系统乃企业至关重要的资产，若未受到可靠及妥善保护，业务运作可能受到严重损害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Likewise, the preservation and enhancement of XX Corp.’s reputation is directly linked to the way in which both information and information systems are managed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，维护和提高XX Corp.的声誉也和信息及信息系统的管理方式息息相关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maintaining an adequate level of security is one of several important aspects of both information management and information systems management.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保持适当的安全级别是信息管理与信息系统管理的重点之一。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To be effective, information security should be a team effort involving the participation and support of every user who deals with information and/or information systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有效的信息安全取决于团队努力，需要使用信息及／或信息系统全体用户的参与和支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In recognition of the need for teamwork, this End User Computing Policy clarifies the responsibilities of users as well as the steps they should take to help protect information and information systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是鉴于集体协的必要性，本《终端用户计算机应用政策》阐述了用户责任，及协助保护信息及信息系统须采取的措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This document describes ways to prevent and respond to a variety of threats to information and information systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本文件描述预防及应对信息及信息系统威胁的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All references in this policy to "XX Corp." or “company”include XX Corp. and all of its direct and indirect subsidiary companies and controlled operations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在本政策中，凡提述“XX Corp.”或“公司”包括XX Corp.及其所有直接或间接附属公司及受控业务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every user, no matter what their status,should comply with the information security policies found in this and related information security documents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不论身份地位如何，所有用户均须遵守本文件及相关信息安全文件中的信息安全政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users who deliberately violate this and other information security policy statements will be subject to disciplinary action up to, and including, termination of employment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故意违反本政策及其它信息安全政策声明的用户会受到纪律处分，严重者予以解雇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Security Framework</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安全框架</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The security framework represented by this policy has been created to satisfy the following elements.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确立本政策所述的安全框架，以实现：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Critical Business Function</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重要商业作用</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information and information systems are necessary for the performance of just about every essential activity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开展每项基本业务均需要信息及信息系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there were to be a serious security problem with this information or these information systems, XX Corp. could suffer serious consequences including lost customers, reduced revenues, and/or degraded reputation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果信息或信息系统存在严重安全问题，将给XX Corp. 带来严重后果，包括客户流失、收入减少及／声誉受损。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result,information security should be a critical part of the business environment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，信息安全应是商业环境的重要部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Supporting Business Objectives</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>支持业务目标</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This informationsecurity requirements document has been prepared to ensure that XX Corp.is able to support further growth of the business, comply with regulatoryrequirements as well as ensure a consistently high level of customer service. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>编制此信息安全规定文件旨在确保XX Corp.能支持业务进一步发展、遵守监管规定并保持一贯的高水准客户服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This document is also intended to support XXCorp.’s reputation for high-integrity and high-quality business dealings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本文件还帮助XX Corp.建立良好的声誉，以诚信经营并提供优质服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because prevention of security problems is considerably less expensive than correction and recovery, this document will also reduce costs in the long run.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于预防远远胜于纠正及恢复，因此本文件亦将降低公司的长期运营成本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consistent Compliance</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坚持合规</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A singleunauthorized exception to security measures can jeopardize other users, the entire company, and even outside organizations such as business partners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何一次未经授权使用，违反安全政策均会危害其它用户、整个公司甚至业务合伙人等外部组织。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The interconnected nature of information systems requires that all company employees worldwide observe an adequate level of security. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息系统的联网性质要求公司在世界各地的雇员遵守适当的安全级别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This document defines that adequate level of due care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本文件界定应注意（due care）的适当级别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In some cases, these requirements will conflict with other objectives such as improved efficiency and minimized costs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在某些情况下，这些要求可能与提高效率及降低成本等其它目标冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Management has examined these tradeoffs and has determined that there quirements defined in this document are appropriate for all employees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>管理层已权衡这些要求，并确定本文件中阐述的规定适用于所有雇员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, as a condition of continued employment, all employees (employees, contractors, consultants, temporaries,etc.) should consistently observe the requirements set forth in this document. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，作为继续雇佣的条件之一，所有雇员（雇员、订约人、顾问、临时雇员等）应始终遵守本文件列明的规定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Team Effort Required</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>必要的团队协作</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should play an important role in the information security area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户应在信息安全方面发挥重要作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now that information and information systems are distributed to the office desktop, the employee's role has become an essential part of information security. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今，信息与信息系统已配备至办公室台式计算机中，雇员在信息安全方面负有重要责任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No longer is information security the exclusive domain of IT personnel -information security is now a team effort requiring the participation of every employee who comes into contact with information and/or information systems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息科技人员不再是维护信息安全的唯一责任人，只有通过团队的努力，以及每位接触信息及／或信息系统雇员的参与，才能保证信息安全。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Policy Administration</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政策管理</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The company retains the absolute right, in its sole discretion, to change this policy and to determine whether any actions are covered by this policy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司保留绝对权利，可全权酌情决定更改本政策并决定任何行为是否属本政策涵盖范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the event of any failure to comply with any section of this policy,the company may take whatever action it determines to be necessary to avoid or prevent further violations or harm to employees, third parties and/or the company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若发生任何未能遵守本政策任何条文的行为，公司可采取其认为必要的任何行动，避免或预防进一步违规行为或对雇员、第三方及／或公司造成损害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such action could include any disciplinary action, up to and including termination of employment, as well as civil lawsuits or criminal prosecution.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些行动包括所有纪律处分，严重者予以解雇，以及民事诉讼或刑事检控。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Questions about this Policy should be directed to the company InformationTechnology Department or the company Legal Department.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若对本政策有任何疑问，请直接联系公司信息科技部门或公司法律部门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>general information security</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>II. 一般信息安全</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Roles and Responsibilities of Users</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户作用及责任</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information users are individuals who have been granted explicit authorization to access, modify, delete, and/or utilize information by the relevant data owner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信息用户乃获得相关数据拥有人明示授权，可存取、修改、删除及／或利用信息的个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should use the information only for the purposes specifically approved by the data owner. Users should also comply with all security measures defined by the data owner, and/or defined by the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户仅可将信息用于数据拥有人特别批准的用途，并应遵守数据拥有人及／或信息科技部门规定的所有安全措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should additionally refrain from disclosing information in their possession (unless it has been designated as public) without first obtaining permission from the data owner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，未经数据拥有人许可，用户应避免披露其拥有的信息（已成为公共资料者除外）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should additionally report to the IT Department all situations where they believe an information security vulnerability or violation may exist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果用户认为存在信息安全漏洞或违规行为，应向信息科技部门汇报所有情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use of Systems</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>系统的使用</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Management reserves the right to revoke the privileges of any user at any time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>管理层保留随时撤销任何用户特权的权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conduct that interferes with the normal and proper operation of information systems, which adversely affects the ability of others to use these information systems, which violates any applicable law or which is harmful or offensive to others will not be permitted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>禁止作出干扰信息系统正常及适当操作的行为，这将影响他人使用该等信息系统、违反任何适用法律或伤害或侵犯他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following activities may be categorized as improper conduct:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以下活动属不当行为：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should not move information classified at a certain sensitivity level to a less sensitive level unless this action is a formal part of an approved declassification process.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非行动经销密程序正式批准，否则用户不应将高机密级别信息当作为低级别信息处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should not exploit vulnerabilities or deficiencies in information systems security to damage systems or information, to obtain resources beyond those they have been authorized to obtain, to take resources away from other users, or to gain access to other systems for which proper authorization has not been granted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户不得利用信息系统安全缺陷或不足，损坏系统或信息，以获取其无权得到的资源，窃取其它用户资源或未经批准使用其它系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All such vulnerabilities and deficiencies should be promptly reported to the IT Department.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发现上述漏洞或缺陷，须立即向信息科技部门汇报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should not access or create intimidating, hostile, or offensive material on the basis of sex, race, color, religion, national origin, sexual orientation, or disability. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户不得存取或制作有关性别、种族、肤色、宗教、籍贯、性取向或残疾的威胁性、敌对性或侵犯性资料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The conduct of any of these prohibited activities and/or any other improper conduct or violation of this policy or applicable law is cause for immediate disciplinary action, up to and including termination of employment, and personal responsibility for any civil liabilities or criminal penalties.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何上述禁止活动及／或任何其它不当行为或违反本政策或适用法律的行为，将招致直接纪律处分，严重者包括终止雇佣，且个人将承担所有民事责任或刑事处罚。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Privacy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>私隐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless contractual agreements dictate otherwise, data sent over company computer and communications systems are the property of XX Corp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非契约性合同另有规定，通过公司计算机及通讯系统发送的数据属XX Corp.财产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To properly protect and manage this property, management reserves the right to examine all data stored in or transmitted by these systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为妥善保护及管理该财产，管理层保留权利检查所有存储于这些系统或通过这些系统传输的数据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should have no expectation of privacy associated with the information they store in or send through these systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司不予保护用户存储在这些系统或通过这些系统传输的信息私隐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Return of Information and Information Systems</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>归还信息与信息系统</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upon termination of employment or other engagement with the company(regardless of the reason for, or circumstances surrounding, such termination and regardless of whether it occurs voluntarily or not), or at any other time when requested by the company, all of the company's information and information systems must be returned to the company and all prior authorizations of the user to use any of the information systems shall automatically be revoked and cease immediately.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与公司的雇佣关系或其它合同终止后（不论终止因何原因发生或在何种情况下终止，也不论终止是否自愿发生），或在公司要求的任何其它时间，公司的所有信息及信息系统必须归还予公司，且先前授予用户使用任何信息系统的许可须立即自动撤销及停止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ANTI-VIRUS ADMINISTRATION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>III. 防病毒管理软件</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virus detection software approved by the IT Department is in place on all personal computers with operating systems susceptible to viruses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有个人计算机中易感染病毒的操作系统均安装有信息科技部门认可的病毒侦测软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All files coming from external sources should be checked before execution or usage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自外部的所有文件在操作或使用前均应接受检查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users are not authorized to turn off or disable virus detection software. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户无权关闭或停用病毒侦测软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This software detects changes inconfiguration files, system software files, application software files, and other system resources.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此软件可检测配置文件、系统软件文件、应用程序软件文件及其它系统资源中的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>User possession or development of viruses or other malicious software is prohibited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>禁止用户持有或开发病毒或其它恶意软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virus Reporting</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>病毒报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If users obtain virus alerts, they should immediately close networked applications (i.e.email, Internet, etc.) and disconnect from all networks (if capable) and cease use of the affected computer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果用户收到病毒警告，应立即关闭联网应用程序（如电邮、互联网等），并断开所有网络连接（如有能力）并停止使用中毒计算机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They should then contact the IT Department or appropriate personnel for technical assistance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户随后应联系信息科技部门或相关人员，寻求技术帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To prevent possible damage to information and information systems, users are not permitted to remove viruses on their own.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为防止可能对信息及信息系统造成伤害，禁止用户自行杀毒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If users suspect they may have been the victims of a virus or other malicious software,they should immediately contact the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果用户怀疑受病毒或其它恶意软件影响，应立即联系信息科技部门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because it may indicate a computer virus infection or similar security problem, allunusual systems behavior, such as missing files, frequent system crashes, misrouted messages, and the like should also be promptly reported.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若出现文件丢失、系统频繁当机、误转讯息及类似异常系统现象，可能表示计算机感染病毒或出现类似安全问题，务必立即报告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SOFTWARE / HARDWARE USAGE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IV. 软件／硬件的使用</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All software and hardware used on, in, or to enhance or develop company systems is the property of XXCorp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有用来加强或开发公司系统的软件及硬件乃XX Corp.财产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>XX Corp.has provided this software and hardware for use in conducting company business;personal use is prohibited.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>XX Corp.规定，这些软件及硬件仅可用以开展公司业务， 禁止将其用于个人用途。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users are not permitted to download software from electronic bulletin board systems, the Internet, or other systems outside of XX Corp. unless specifically authorized by the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户不得从电子布告栏系统、互联网或XX Corp.其它外部系统下载软件，但获信息科技部门特别授权者除外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Authorized downloads can be made only on systems in which current anti-virus software is installed and functioning, as determined by the IT Department.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获授权下载仅可由信息科技部门决定，在已安装并运行现有防病毒软件的系统上进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users must not install any software on XX Corp.'s personal computers, network servers, or other machines (such as laptops and stand-alone computers) without first receiving advanced authorization from the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未经信息科技部门事先授权，用户不得在XX Corp.的个人计算机、网络服务器或其它设备（如笔记本电脑及独立式计算机）上安装任何软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Strict adherence to software vendors'license agreements and copyright holders' notices is required. Users are forbidden from making unauthorized copies of software. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户须严格遵守软件供应商的许可协议及版权持有人的公告，不得未经授权复制软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A defense for violators of copyright and licensing agreements will not be provided. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>侵犯版权及违反许可协议者无权辩护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All doubt about whether software is copyrighted, proprietary, or otherwise inappropriate for duplication should be resolved in favor of not duplicating such information.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如对软件是否受版权、专利保护或由于其它原因不适于复制存在疑问，请勿复制该等信息。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users are responsible for proper and adequate physical security and protection of software in their possession. A locked file cabinet or locked desk drawer should be used to safeguard software.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户负责合理及充分保护其持有软件的实体安全，应使用带锁档案柜或带锁办公桌抽屉保护软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Office computer equipment (desktop computers, fax machines, etc.) must not be moved or relocated without the prior approval of the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未经信息科技部门事先批准，不得移动或重新安放办公室计算机设备（台式计算机、传真机等）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moreover, computer equipment should not be stored on the floor without using an appropriate computer stand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，必须使用合适的计算机桌，禁止将计算机设备放在地面上。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Equipment, regardless of ownership, used outside company premises to support business activities is subject to ITDepartment authorization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不论设备归谁所有，在公司场所以外使用设备开展商业活动须获信息科技部门授权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The degree of protection should be equivalent to that of on-site equipment, taking into account the different level of risk.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户应根据不同风险级别，为现场设备提供相应的保护。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Computer equipment provided by XX Corp. must not be altered or added to in any way without authorization from the IT Department. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未获信息科技部门授权，不得以任何方式更改或增加XX Corp.提供的计算机设备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inaddition, users must not bring their own computers, computer peripherals, or computer software into company facilities without authorization from their supervisor and the IT Department.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，未经主管及信息科技部门授权，用户不得将私人计算机、计算机外部设备或计算机软件带入公司场所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passwords</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>V. 密码</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All passwords must have at least eight (8)characters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有密码不得少于八（8）个字符。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All user-chosen passwords for computers and networks should be difficult to guess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户设置的所有计算机及网络密码须难以猜测。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The user-ID must never be used as the password. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>切勿将用户名设为密码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Common words in a dictionary,derivatives of user-IDs, and common character sequences such as "123456" should not be employed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>密码不应采用字典中的常用词、用户名衍生词及诸如“123456”等普通字符序列。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Likewise,personal details such as spouse's name, automobile license plate, social security number, and birthday should not be used unless accompanied byadditional unrelated characters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非附加其它不相关的字符，否则配偶姓名、汽车车牌、社会保险号码及生日等个人详细资料亦不宜设为密码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All user-chosen passwords must contain at least one alphabetic and one non-alphabetic character. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有用户设置的密码必须至少包含一个字母字符及一个非字母字符。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Non-alphabetic characters include numbers(0-9) and punctuation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>非字母字符包括数字（0-9）及标点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The use of control characters and other non-printing characters is discouraged because they may inadvertently cause network transmission problems or unintentionally invoke certain system utilities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于控制字符及其它非打印字符，可能在无意中引起网络传输故障或调用若干系统公用程式，故密码中不可使用这些字符。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passwords will be changed every 90 days and a unique password will be required. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>密码应90天更换一次，须设置成特殊、难以猜测的密码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All passwords must be promptly changed if they are suspected of being disclosed, or are known to have been disclosed to unauthorized parties.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如怀疑密码泄露，或发现已向未获授权方披露，应立即进行更换密码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All PCs, laptops and workstations must be secured with a password-protected screen saver with the automatic activation feature set at 15 minutes or less, or by logging-off when the host will be unattended.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有个人计算机、笔记本电脑及工作站必须使用带有密码的荧幕保护程式，并将自动启用功能设定为15分钟或以下，或在主人离开时登出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users must not write their passwords down unless they have effectively concealed or physically secured such passwords.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非用户可有效隐藏或从实体上保护这些密码，一般情况下不得写下密码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passwords must never be shared or revealed to anyone else besides the authorized user. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>切勿将密码告知或透露予授权用户以外的任何人士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A common tactic of hackers is the use of “social engineering” where by they call an employee claiming to represent an authoritative party such as theISP (Internet Service Provider), network company, or new member of the ITdepartment and request the user’s password for apparent legitimate reasons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑客常以ISP（互联网服务供应商）、网络公司或信息科技部门新成员等权威机构身份致电雇员，并以绝对正当理由索取密码，此惯用伎俩称为“社交工程”（social engineering）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, passwords should never be disclosed, especially via email or over the phone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再次重申，切勿泄露密码，尤其是通过电邮或电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To do so exposes the authorized user to responsibility for actions that the other party takes with the password. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>否则，授权用户将对其它人士使用密码的行为负责。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users are responsible for all activity performed with their personal user-IDs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户须对以其个人用户名进行的所有活动负责。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>User-IDs may not be utilized by anyone but the individuals to whom they have been issued. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何人士只得使用自己注册的用户名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Users should not allow others to perform any activity with their user-IDs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用户不得允许他人藉其用户名进行任何活动。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

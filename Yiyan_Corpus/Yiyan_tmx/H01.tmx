@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T063048Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The World’s Worst Pollution Problems: Assessing Health Risks at Hazardous Waste Sites</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界严重污染问题报告：有害废弃物场所的健康风险评估</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Introduction</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前言</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About the report</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于本报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 2012 World’s Worst Pollution Problems Report sets out to quantify the human health impacts from major sources of hazardous pollution in low to middle-income countries. In particular the focus is on sites in the developing world where toxic pollution has occurred because of industrial activity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《2012年世界严重污染问题报告》对中低收入国家的主要有害污染源对人体健康的影响进行了量化，重点是发展中国家因工业活动而已经发生有毒物质污染的地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This evaluation of industries and pollutants is based on data collected by the Blacksmith Institute and Green CrossSwitzerland through investigations of pollution hotspots around the world, principally abandoned (“legacy”or “orphan”) sites and informal artisanal activities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对各工业和污染物的评估基于布莱克史密斯研究所和瑞士绿十字组织通过对世界各重点受污染地区的调查数据，调查对象主要是废弃土地（包括遗留土地和遗弃土地）和非法手工工业活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This report is compiled using analysis of the BlacksmithInstitute’s site database and a review of industry research, statistics and peer-reviewed studies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告通过分析布莱克史密斯研究所资料库，审查行业调查、统计数据和经同行评议的研究编写而成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2011, the Blacksmith Institute and Green Cross Switzerland published a report that began to quantify the burden of disease from industries using a single site, beginning the process of measuring health impacts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2011年，布莱克史密斯研究所与瑞士绿十字组织发布了一份报告，通过单个受污染场所对工业造成的疾病负担进行量化，开始对健康影响进行衡量。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This report revisits that process but goes a step further. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告再次进行这一过程，但更进一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using additional data the 2012 report estimates the total health impact from toxic industrial pollutants in 49 countries in the developing world, extrapolating health impacts to provide a better understanding of the true scope of the issue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2012年报告通过使用更多数据，对49个发展中国家有毒工业污染物对健康的整体影响进行评估，以使人们对问题的严重性有更好的认识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within the last year theBlacksmith Institute has investigated and analyzed hundreds of additional sites around the world and initiated in depth research on the process of estimating the global burden of disease from hazardous waste sites.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去的一年中，布莱克史密斯研究所调查、分析了世界各地数百处新的受污染场所，对有害废弃物场所造成的全球疾病负担做了深入研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That information and research has produced increasingly more accurate estimates that get closer to reflecting the impact of toxic substances on people in the developing world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相关信息与研究已能更准确的反映有毒物质对发展中国家人口的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The goal of this report is to identify and quantify the contribution to the global burden of disease of the most significant pollutants and industry sectors in low and middle-income countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告旨在确定和量化中低收入国家的主要污染物和工业行业造成的全球疾病负担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scope of the problem</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究范围</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Blacksmith Institute currently estimates that the health of some 125 million people is at risk from toxic pollution globally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>布莱克史密斯研究所估计，有约1.25亿人的健康正遭受有毒污染的威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Previous estimates had indicated that this number was in the range of 100 million,but the investigation of hundreds of additional sites over the past year has expanded the estimation of the impact.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前的估计是1亿人以内，但去年对数百处新的受污染场所的调查增加了这一预期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hazardous waste sites in the U.S. and around the developed world have been extensively documented and are now closely monitored by national agencies such as the U.S. Environmental Protection Agency(EPA). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国及其他发达国家的有害废弃物场所都记录在案，受到国家机构（如美国环保局等）的密切监控。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, mining and industrial processes and their related wastes and emissions are typically tightly regulated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>采矿和工业过程以及相关废弃物同样受到严格控制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, in the developing world, the prevalence of hazardous pollutants and their resulting health impacts have generally not been investigated in depth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而发展中国家对于有害污染物的致病率及其对健康的影响一般都没有深入研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are many toxic contamination sites from previous industrial or mining activities as well as many active industrial and mining sites that continue to pollute the surrounding environment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去的工业或采矿活动留下了许多受有毒物质污染的场所，也有许多正在进行的工业和采矿活动在继续污染着周边环境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Based on Blacksmith Institute’s investigations and observations, as well as the research of others, it is clear that the impact on health in low and middle-income countries from these sites is very significant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据布莱克史密斯研究所的调查与观测以及其他研究可以明显看出，这些受污染地区对中低收入国家人口的健康影响非常严重。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, 98% of adults and 99% of children affected by exposure to lead live in low- and middle income countries. To exacerbate the problem, the expanding production of high-volume chemicals is increasingly being transferred to developing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，中低收入国家98％的成人和99％的儿童有铅接触问题，而越来越多大宗化学品的扩大生产正逐渐向发展中国家转移，使问题进一步恶化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Organization for Economic Cooperation andDevelopment (OECD) has estimated that the global output of chemicals in 2020 will be 85% higher than in 1995, and nearly one-third of the production will take place in developing countries, compared to about one-fifth in 1995.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）估计，2020年全球化学品产量将比1995年高出85％，而其中近三分之一来自发展中国家，这一比例在1995年则是约五分之一4。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Populations of developing countries are particularly vulnerable to toxic pollution resulting from industrial processes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展中国家的人口极易受到工业过程中产生的有毒物质的污染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the local level, participants in small-scale industries often do not have knowledge of best practices or may not be aware of the toxicity of the chemicals and processes they use. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而地方上的小型工业企业的从业者没有相关防护知识，或对所使用的化学品和生产过程的毒性一无所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poor communities,in which small-scale industries are often located, have little ability, either financially or culturally, to take measures to reduce their risk of exposure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贫困地区没有采取措施减少人员的接触风险的经济能力或文化知识，而这里往往是小型企业的所在地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additionally, these communities have limited or no health care infrastructure that can address the health effects of toxic pollution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，这些地区少有或没有处理相关健康影响的医疗设施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To further exacerbate the health risk,poor communities often have low overall standards of health, due to poor nutrition and other causes,which increase health risks and impacts from toxic substance exposure, particularly for children.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于营养不良等原因，贫困地区的整体健康水平较低，进一步加剧了有毒物质接触对健康的危害（特别是对儿童）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the governmental level, the reasons are more complex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府层面的原因更加复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The World Health Organization (WHO) and UNEnvironment Programme (UNEP) Health and Environment Linkages Initiative project found that barriers to addressing environmental pollution are economic, institutional, political and social in nature and include trade globalization, market liberalization, debt burdens and structural adjustment policies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界卫生组织和联合国环境计划署的“健康与环境联系倡议”（Health and Environment Linkages Initiative）项目发现，解决环境污染问题的障碍实际上是经济、制度、政治和社会，包括贸易全球化、市场自由化、债务负担和结构调整政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Governments may view environmental regulation as a barrier to development and environmental systems supporting livelihoods are not considered in economic equations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府视环境监管为发展的障碍，在经济政策制定中并不考虑涉及民生的环境问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As more research is published and links between health impacts and environmental pollution are better understood, the connection between poorly managed economic growth and human health needs to be appropriately accounted for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着越来越多研究成果的发表以及健康问题与环境污染之间的联系得到人们更好的认识，之前不受重视的经济增长与人体健康状况的联系需要得到适当的解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Making the connection between economics and human health is easy – the cost of illness and the loss of productivity due to disease and death is a huge and preventable economic burden.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种联系很容易解释：治疗疾病的开支以及因疾病和死亡导致的生产力损失对经济影响重大，但可预防。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In order to make this connection, it is essential to begin the process of quantifying the public health burden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了得出这种联系，有必要对公共健康负担进行量化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This report examines the health burden that toxic pollutants put on human populations, specifically covering those pollutants associated with the contaminated sites that are the focus of Blacksmith Institute and Green Cross. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告分析了有毒污染物造成的健康负担，特别是布莱克史密斯研究所和绿十字组织关注的受污染场所的各种污染物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Broad air and water pollution from sources such as urban emissions and poor sanitation are not considered. Additionally, occupational exposures and risks are not addressed, since these are the mandate of local regulatory agencies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自诸如城市生活、交通排放和卫生条件差等造成的广泛性的空气和水污染不在考虑之列；职业病风险由各地政府机构进行管理，也未予考虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While these other sources contribute greatly to human health risks,they are well recognized and being addressed by other agencies and groups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些污染源对人体健康有很大威胁，但它们已获得公认，由其他各机构和组织进行处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The work summarized hereon pollution and health is not being undertaken by other agencies and is intended to fill a very important knowledge and research gap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告对污染与健康的总结未被其他机构进行，可填补一项重要的认识和研究上的空白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other considerations have also narrowed the scope of the report. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些其他方面的考虑也限定了本报告的涉及范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The investigated sites making up theBlacksmith Institute’s database are located only in countries where political and logistical considerations allow for routine and safe access for investigators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>布莱克史密斯研究所资料库中的受污染场所仅位于在政治和交通上可供调查人员进行定期安全访问的国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The discussion of impacted geographic regions in the report is by no means complete and only represents the current sites investigated by Blacksmith Institute.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告中对受影响地区的讨论并不完整，仅可代表布莱克史密斯研究所调查的场所的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Financial limitations constrain our ability to investigate sites in all countries as well; so the countries that are chosen are considered to be representative of similar low to middle-income countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有限的资金也使我们无法在所有国家进行调查，因此入选的是我们认为能够代表中低收入国家情况的国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, the current lack of reliable human-based studies on the health impacts of pollutants has limited our ability to quantify the health effects of certain toxic pollutants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，目前仍缺乏污染物对健康影响的可靠的人类研究，这也限制了我们对特定有毒污染物对健康影响的量化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite the intent to achieve wide coverage for low and middle-income countries, these constraints have led to some important omissions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了未能广泛覆盖中低收入国家之外，上述限制也导致了一些重大的遗漏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These geographic,financial, political and information limitations mean that the global burden of disease represented in this report is almost certainly underestimated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上述地理、资金、政治和信息限制意味着本报告指出的全球疾病负担几乎可以肯定是被低估的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toxic pollution and human health</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有毒污染与人体健康 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The WHO has estimated that environmental exposures contribute to 19% of cancer incidence worldwide.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世卫组织估计，世界范围内癌症发病率的19%是由接触污染环境造成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additionally, a WHO Global Health Risks report looked at five environmental exposures, (unsafe water,sanitation and hygiene, urban outdoor air pollution, indoor smoke from solid fuels, lead exposure and climate change), and estimated they account for nearly 10% of deaths and disease burden globally and around one quarter of deaths and disease burden in children under the age of five.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，世卫组织的一项全球健康风险报告考察了六种接触情况（用水安全问题、清洁卫生问题、城市户外空气污染、室内固体燃料烟尘、铅接触和气候变化），估计这些问题占全球死亡人口和疾病负担的近10%，以及约四分之一的五岁以下儿童的死亡和疾病负担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The connection between pollution, notably toxic substance pollution, and human health has long been made in the developed world. Incidents such as Love Canal, a hazardous waste site in New York causing illness in the 1970s, brought industry pollutants and their effect on human health to prominence in public health studies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发达国家对于污染（特别是有毒物质污染）与人体健康的联系的关注已有很长时间，类似爱河事件（爱河位于纽约，在20世纪70年代，其中的有害废弃物引起了大规模疾病。）的事故将工业污染及其对人体健康的影响问题带到了公共健康研究的突出位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, these connections between toxic pollution and human health have largely not been made as clearly in the developing world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这种联系在发展中国家普遍尚未得到明确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lack of investigation and quantification of the human health impacts of contaminated sites have left an often-marginalized population with few resources to address this growing problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受污染场所对人体健康的影响的调查与量化仍很缺乏，而资源匮乏的社会边缘人群正面临着这个日益严重的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sadly, health impacts from environmental pollution often affect the most vulnerable, especially children, within these already neglected populations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而其中最脆弱的个体，特别是儿童，更易受影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The objective of the work of the Blacksmith Institute and Green Cross Switzerland and one goal of this report is to give a voice to this marginalized population that is in danger from toxic pollutants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>布莱克史密斯研究所和瑞士绿十字组织的目标以及本报告的目的就是，为受到有毒污染物威胁的边缘人群发出声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What can be done?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们能做什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mining and industrial production are critical drivers of global GDP. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>采矿和工业生产是GDP增长的关键推动力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to 2012 data from the CIAWorld Fact Book, these industries currently contribute over 30% to world GDP. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据中情局“世界概况”（CIA World Fact Book）的2012年数据，工业贡献了全球GDP的30%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Industries also contribute greatly to the improvement of the human condition and advance society as a whole. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工业也极大地改善了人类的生存条件，推进社会的整体进步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, should be recognized that the amount of pollution produced in these processes is unsustainable unless great efforts are taken to minimize and control pollution and waste; particularly in developing countries where advanced control technologies and “green” manufacturing practices are less prevalent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而我们应当认识到，在这些过程中产生的污染不能继续下去，必须花大力气尽量减少和控制污染与浪费。尤其是在发展中国家，因为先进的控制技术和“绿色”生产在这里并未普及。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Major toxic environmental pollution problems are generally preventable and markedly easier and more economical to prevent than to clean up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>主要的有毒污染问题一般都可预防，而且预防明显要比清理更容易、更经济。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This report is intended not only to identify the problems, but also to explore some of the solutions that currently exist, as they are many and varied.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告不仅要找出问题所在，也会讨论目前已有的多种多样的解决方案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While many countries and many industries have made great strides to reduce and prevent hazardous pollution, there remains a vast, dispersed and tragic legacy of toxic waste and a continuing problem of hazardous substance pollution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管许多国家与行业在减少和预防有害污染方面取得了很大进展，但仍有大量有毒废物分散各处，产生的污染问题持续存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More can and should be done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们能做的还有很多，我们也应当做得更多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Governments in developing countries are often constrained by political and economic forces, reducing their ability to address environmental pollutants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展中国家的政府往往受制于政治和经济实力，而难以应对环境污染问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>TheBlacksmith Institute and Green Cross Switzerland endeavor to partner with local entities and industry leaders to implement cost effective solutions that rely upon proven technologies, both to prevent and to remediate pollution problems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>布莱克史密斯研究所与瑞士绿十字组织致力于同地方实体和行业领袖合作，实施具有成本效益的解决方案，依靠成熟技术预防和治理污染问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For each industry sector discussed in the report, a typical example of remediation solutions and a discussion of preventative actions are presented. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于所讨论的每个行业，本报告都给出了治理方案和预防措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These solution examples show that these quantified risks can be reduced; and our intent is to move people, governments and industries to action.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些解决方案表明风险可以降低，我们要做的是使民众、政府和各行业行动起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Global burden of disease and DALYs</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球疾病负担和伤残调整生命年（DALY）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is clear that human exposure to hazardous pollutants is a very large public health problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人体接触有害污染物是个非常大的公共健康问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the ability of public health professionals to quantify this problem has been constrained by several factors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，公共健康专家量化该问题的能力一直受制于几个因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In order to quantify health impacts related to pollutants there are numerous information inputs needed,including: amount and length of exposure, size of population, type of pollutant, and the type and severity of health impacts per unit of pollutant exposure, (known as the dose-response relationship). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了量化污染物对健康的影响，我们需要获取大量信息，包括接触程度和时间、人口数量、污染类型以及单位暴露范围对健康影响的类型和程度（也称为剂量反应关系）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many of the pollution problems presented in this report, verifiable data on each of these inputs is not fully available,and in fact may be very limited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于本报告中出现的许多污染问题，相关可证实数据无法完全获得，所获数据也可能非常有限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, dose-response data from human studies is sometimes limited because of the ethical inappropriateness of doing studies on humans, so data must be inferred from animal studies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，由于人类实验所存在的伦理限制，从中获得的剂量反应数据有时是有限的，则一部分数据需要通过动物研究进行推断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, observation studies of exposed populations are not often done because of the difficulty in isolating one cause for a disease in a population and the difficulty of obtaining community-level data on the extent of pollution and the local population that may be exposed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，对污染接触人群的观察研究较少，因为很难在人群中隔离致病的某个单一因素，且难以获得社区一级的污染程度和受影响人数的数据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The WHO is carrying out ongoing work to calculate the global burden of disease from all causes, by specific cause. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世卫组织正在计算所有特定原因造成的全球疾病负担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other researchers have sought to specifically calculate the burden of disease from defined chemical exposures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他研究人员已试图具体计算定量化学品接触引起的疾病负担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is done using a WHO-developed indicator that estimates the burden of disease on the basis of a Disability-Adjusted Life Year or DALY. The burden of disease – measured in DALYs – quantifies the gap between a population’s current health and an ideal situation where everyone lives out their full life expectancy in good health.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所使用的疾病负担的指标是由世卫组织提出的伤残调整生命年（Disability-Adjusted Life Year，DALY），它对人群当前健康状况与完全健康状态下达到预期寿命的理想状况间的差距进行量化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This tool was developed as a way to quantify the effects of disease and compare the level of impact for various diseases and adverse health causes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种方法被用于量化疾病的影响，比较各种疾病和不利因素的影响程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The results give signals about the causes, effects and level of impacts of certain diseases to health and environmental policy makers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其结果向健康与环境政策制定者表明特定疾病的产生原因、表现和影响程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the last year the Blacksmith Institute and Green Cross Switzerland have been using field studies and expertise in pollution analysis to prepare estimates on the contribution of industrial toxic pollutants to the burden of disease. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去的一年中，布莱克史密斯研究所与瑞士绿十字组织已经通过实地调查和听取污染分析领域专家的意见，就工业有毒污染物造成的疾病负担进行评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The estimates in this report are based on information collected through the BlacksmithInstitutes Toxic Sites Identification Program (TSIP). This program is an ongoing process to identify and screen contaminated sites in low and middle-income countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本报告中的评估基于布莱克史密斯研究所有毒场所识别计划（Toxic Sites Identification Program，TSIP）所收集的信息，这一计划持续对中低收入国家的受污染场所进行识别和筛选。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

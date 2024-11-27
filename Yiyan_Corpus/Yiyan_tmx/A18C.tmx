@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>A humanoid robot will visit space for the first time in September aboard the Space Shuttle Discovery, NASA announced Wednesday.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>NASA在本周三宣布，第一台人形机器人将于今年九月搭乘发现号航天飞机首次踏入太空。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Robonaut 2, which was co-developed by NASA with General Motors, will serve as an assistant to the humans on board the International Space Station, using the same tools developed for astronauts.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由NASA和通用汽车公司联合开发的机器宇航员2号（Robonaut 2）将登陆国际空间站，充当人类宇航员的助手，它们工作时所使用的工具与人类宇航员的完全一样。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While plain old robots, such as the Mars Phoenix Lander, are a major part of NASA’s operations, humanoid robots are a different story. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然那些简单的老式机器人如“凤凰号”火星探测器依然还是NASA太空行动的主体部分，
+但这次人形机器人的升空则完全代表了一个不一样的故事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is significant science-fiction appeal to the idea of humanoid robotic helpers for humans, but does the idea makes more than literary sense? Yes, said Jeffrey Hoffman, an MIT aerospace professor and former astronaut.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让人形机器人成为人类宇航员的助手，这种想法对我们来说有种特别的科幻小说式的吸引力，主意虽然不错，但除了感觉新奇外真的有什么实际作用吗？对此，麻省理工学院航天系教授兼前宇航员Jeffrey Hoffman作出了肯定的回答。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“I’m a very strong believer in human-robotic interaction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“对于人类与机器人之间的互动作用，我是持强烈的肯定态度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can build up a synergy to accomplish what neither humans nor robots could accomplish on their own,” Hoffman said. “That’s the inspiration behind Robonaut.”
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们可以通过加强协同作用，让人类和机器人去完成一些他们各自无法单独完成的工作，”Hoffman说，“机器宇航员的设计灵感正是由此而来。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many successful robots, like Kiva’s product-distribution robots or the military’s little helpers look nothing like humans. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>许多成功的机器人，如Kiva公司的产品配送机器人或军队使用的小型辅助机器人，它们的外表看起来与人类丝毫相似之处；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And some space researchers like MIT historian and policy analyst David Mindell don’t think humanoid robots are a very good idea. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些太空研究专家如麻省理工学院的历史学家兼政策分析师David Mindell也认为人形机器人进入太空并不是什么好主意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the International Space Station may be the perfect place for a humanoid robot.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但现在看起来，国际空间站可能是个适合人形机器人前往的完美去处。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“It’s incredibly important that Robonaut have a humanoid form factor because he’s being sent into space, and it’s incredibly expensive, and he has to do a lot to pay himself off,” said former roboticist Daniel Wilson (author of How to Build a Robot Army). “It has to be able to pick up any tool that an astronaut could use and go outside.”
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“让机器宇航员拥有类人的外表至关重要，因为它是要送入太空的，而且它本身就无比昂贵，机器宇航员要在太空站上完成许多任务才能值回票价，”前机器人专家Daniel Wilson（《如何打造一支机器军队》一书的作者）说，“当人类宇航员出舱时，机器宇航员必须做到能为他们递上任何工具。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Wilson argued that space was a uniquely good environment to showcase both the versatility of people and a general-purpose humanoid robot.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Wilson坚持认为，太空是一个特别优越的环境，它不仅可以展示人类宇航员的能力，而且可以令多用途的类人机器人表现出良好的适应能力。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“You can’t bring a tool to solve every single problem. There’s no way. Astronauts can’t haul all that shit up there. It’s like, ‘I have a screwdriver and my brain, and I need to solve the problem, and I don’t know what the problem is before I leave the planet,’” Wilson said. “You can use the humanoid to leverage all those tools.”
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“每解决一个问题就要带上一种工具，这是不可能的事情，但人类宇航员又不能一次性的带上所有工具，比如说‘我有一把起子，我还会思考，我要去解决问题，但在离开地球之前，谁知道会碰到什么问题，’”Wilson说，“但我们可以利用类人机器人带上所有需要的工具。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>James Hughes, who studies emerging technologies at Trinity University, suggested that humanoid robots may provide a nice middle ground between hardcore human spaceflight evangelists and those who would rather see robotic missions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三一大学专门研究新兴科技的James Hughes认为，比起推崇完全由人类或完全由机器人主宰太空，类人机器人则提供了一个很好的妥协方案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most space watchers feel that the human programs are what drives interest and funding in exploration, while scientific investigation will be driven by robots.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>许多太空观察家认为，人类适于根据自己的兴趣所在规划太空计划，并提供对太空探索进行资助，而太空科学调查研究最好还是交给机器人去完成。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You get some of the advantages of both and hopefully it will be a nice compromise between the two,” said Hughes. “But it may not satisfy either side.”  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“人形机器人是一个折中方案，从中我们既能兼顾双方的优势所在，又希望双方能很好的合作，”Hughes说，“但该方案也许无法让争论双方都感到满意。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Robonaut project began in 1996 and the first version of the bot came out in 2000. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器宇航员计划始于1996年，2000年该机器人的第一个原型正式亮相。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 2006, NASA’s Dexterous Robotics Laboratory at Johnson Space Center teamed up with GM to design the new robot.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2006年，NASA位于约翰逊太空中心的灵活机器人实验室（Dexterous Robotics Laboratory）又与通用汽车公司联合设计新式机器人。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“It is very safe to say that the United States and NASA possess the state of the art in robotic dexterity,” said Nic Radford, the Robonaut deputy project manager. “The ideas are limitless.”  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器宇航员计划的项目副经理Nic Radford说：“我敢说，就机器人灵活性的发展水平而言，美国和NASA已经走在了世界的前列，但创意是无限的。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The bot will be phased into operation in three stages. First, it’ll operate only from a fixed position inside the International Space Station. Then, it’ll be allowed to move about inside, and finally within a few years, it will be allowed to do extravehicular activities.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器宇航员计划将分为三个阶段，首先，机器宇航员将被限定在国际空间站中的固定位置进行工作；然后它会获准在空间站内自由移动；在接下来的几年内，它才能进行最终的舱外活动。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“It’s really going more to an autonomous system,” Radford said. “Right now, it has a task-based system built up of behaviors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“机器宇航员不光是一个简单的自治系统，”Radford解释说，“现在它只是个组合了人类行为的任务型系统。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We program in a task and based on the sensory input that it receives, it’s able to make decisions on what it’s going to do next.”
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>等我们编排好任务程序，根据所接收到的感官输入，机器宇航员就可以自行决策它下一步的行动安排。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The opportunity to test on the robot in orbit has Radford, Wilson and Hoffman excited.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器人升空后的检测工作落到了Radford、Wilson和Hoffman的身上，这令他们感到异常兴奋。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“This has been a dream of our group for a long time,” Radford said.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“这是我们研发团队一直以来所梦寐以求的，”Radford说。</seg></tuv>
+</tu>
+</body>
+</tmx>

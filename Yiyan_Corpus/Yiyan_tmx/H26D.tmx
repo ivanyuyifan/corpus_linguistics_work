@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Digital platform company Akamai has released its latest State of the Internet Report. The report covers the last quarter of 2009.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数字平台公司Akamai已经发布了最新的互联网现状报告，报告截止时间为2009年最后一个季度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The single oddest statement in the report is Akamai's contention that "slightly more than 465 million unique IP addresses, from 234 countries, connected to the Akamai network - 4.7% more than in the third quarter of 2009, and 16% more than in the same quarter a year ago." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该报告有一点让人不可思议：报告称“目前Akamai网络中包含来自234个国家的4.65亿多个独立IP地址，比上个季度增加4.7%，比去年同期增加了16%”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Given that most countries in the world recognize between 194 and 196 countries, it is difficult to understand how even the most liberal definition of country could result in Akamai's total.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目前全球大多数国家承认194-196个国家，即便是采用最宽松的国家定义，也无法凑出Akamai所称的234个国家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here are a list of important and interesting trends that Akamai has identified in Q4.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以下是报告摘要：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Attacks</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络攻击</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Akamai observed attack traffic originating from 198 unique countries around the world.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络攻击来自全球198个国家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Russia remained the top attack traffic source, accounting for 13% of observed attack traffic in total.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>俄罗斯居首，占全球所有网络攻击的13%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The United States, China and Brazil took second and third and fourth place for a total of 20%.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国、中国和巴西分列第2、3、4位，共占20%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Akamai observed attack traffic targeted at more than 10,000 unique ports.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络攻击主要针对1万多个独立端口。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Users</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用户</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Akamai observed a 4.7% increase (from the third quarter of 2009) globally in the number of unique IP addresses connecting to Akamai's network. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>据Akamai统计，和2009年第三季度相比，全球独立IP数增长了4.7%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ending 2009 at 465 million unique IPs.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2009年末全球独立IP数为4.65亿。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The metric grew 16% from the end of 2008, and nearly 54% from the end of 2007.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现有IP总数比2008年年末增加16%，比2007年增加近54%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The United States and China together contribute 40% of unique IP addresses in the world.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国和中国两个国家的独立IP地址占全球IP总数的40%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Scandinavian countries have the highest number of IPs per person. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>斯堪的纳维亚国家的人均IP地址数最高。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the U.S. it was New Jersey that took that honor.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在美国，人均IP数最多的州是新泽西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are 32 countries with fewer than 1,000 unique IP addresses.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有32个国家的独立IP地址数不到1000个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>South Korea retained its lead as having the most high broadband (over 5 Mbps) and the highest average speed (12 Mbps).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>韩国带宽最高（大于5 Mbps），平局网速最快（12 Mbps）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Delaware also maintained the highest average connection speed in the United States, increasing to 7.6 Mbps.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在美国特拉华州带宽保持领先，也是平均网速最快的州（7.6 Mbps）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Over 40 of the mobile providers surveyed had average speeds of over 1 Mbps.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>40%以上受调查移动服务提供商的平均网速超过1 Mbps。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two out of three U.S. mobile providers lost speed for the second quarter in a row.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三分之二的美国移动提供商的网速连续两个季度下降。</seg></tuv>
+</tu>
+</body>
+</tmx>

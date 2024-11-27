@@ -1,0 +1,105 @@
+introduction
+Information and information systems are critical and vitally important assets. Without reliable and properly secured information and information systems, business operations would be severely disrupted. 
+Likewise, the preservation and enhancement of XX Corp.¡¯s reputation is directly linked to the way in which both information and information systems are managed. 
+Maintaining an adequate level of security is one of several important aspects of both information management and information systems management.
+To be effective, information security should be a team effort involving the participation and support of every user who deals with information and/or information systems. 
+In recognition of the need for teamwork, this End User Computing Policy clarifies the responsibilities of users as well as the steps they should take to help protect information and information systems. 
+This document describes ways to prevent and respond to a variety of threats to information and information systems. 
+All references in this policy to "XX Corp." or ¡°company¡±include XX Corp. and all of its direct and indirect subsidiary companies and controlled operations. 
+Every user, no matter what their status,should comply with the information security policies found in this and related information security documents. 
+Users who deliberately violate this and other information security policy statements will be subject to disciplinary action up to, and including, termination of employment.
+Security Framework
+The security framework represented by this policy has been created to satisfy the following elements.
+Critical Business Function
+Information and information systems are necessary for the performance of just about every essential activity. 
+If there were to be a serious security problem with this information or these information systems, XX Corp. could suffer serious consequences including lost customers, reduced revenues, and/or degraded reputation. 
+As a result,information security should be a critical part of the business environment.
+Supporting Business Objectives
+This informationsecurity requirements document has been prepared to ensure that XX Corp.is able to support further growth of the business, comply with regulatoryrequirements as well as ensure a consistently high level of customer service. 
+This document is also intended to support XXCorp.¡¯s reputation for high-integrity and high-quality business dealings. 
+Because prevention of security problems is considerably less expensive than correction and recovery, this document will also reduce costs in the long run.
+Consistent Compliance
+A singleunauthorized exception to security measures can jeopardize other users, the entire company, and even outside organizations such as business partners. 
+The interconnected nature of information systems requires that all company employees worldwide observe an adequate level of security. 
+This document defines that adequate level of due care. 
+In some cases, these requirements will conflict with other objectives such as improved efficiency and minimized costs. 
+Management has examined these tradeoffs and has determined that there quirements defined in this document are appropriate for all employees. 
+As a result, as a condition of continued employment, all employees (employees, contractors, consultants, temporaries,etc.) should consistently observe the requirements set forth in this document. 
+Team Effort Required
+Users should play an important role in the information security area. 
+Now that information and information systems are distributed to the office desktop, the employee's role has become an essential part of information security. 
+No longer is information security the exclusive domain of IT personnel -information security is now a team effort requiring the participation of every employee who comes into contact with information and/or information systems.
+Policy Administration
+The company retains the absolute right, in its sole discretion, to change this policy and to determine whether any actions are covered by this policy. 
+In the event of any failure to comply with any section of this policy,the company may take whatever action it determines to be necessary to avoid or prevent further violations or harm to employees, third parties and/or the company. 
+Such action could include any disciplinary action, up to and including termination of employment, as well as civil lawsuits or criminal prosecution.
+Questions about this Policy should be directed to the company InformationTechnology Department or the company Legal Department.
+general information security
+Roles and Responsibilities of Users
+Information users are individuals who have been granted explicit authorization to access, modify, delete, and/or utilize information by the relevant data owner. 
+Users should use the information only for the purposes specifically approved by the data owner. Users should also comply with all security measures defined by the data owner, and/or defined by the IT Department. 
+Users should additionally refrain from disclosing information in their possession (unless it has been designated as public) without first obtaining permission from the data owner. 
+Users should additionally report to the IT Department all situations where they believe an information security vulnerability or violation may exist.
+Use of Systems
+Management reserves the right to revoke the privileges of any user at any time. 
+Conduct that interferes with the normal and proper operation of information systems, which adversely affects the ability of others to use these information systems, which violates any applicable law or which is harmful or offensive to others will not be permitted. 
+The following activities may be categorized as improper conduct:
+Users should not move information classified at a certain sensitivity level to a less sensitive level unless this action is a formal part of an approved declassification process.
+Users should not exploit vulnerabilities or deficiencies in information systems security to damage systems or information, to obtain resources beyond those they have been authorized to obtain, to take resources away from other users, or to gain access to other systems for which proper authorization has not been granted. 
+All such vulnerabilities and deficiencies should be promptly reported to the IT Department.
+Users should not access or create intimidating, hostile, or offensive material on the basis of sex, race, color, religion, national origin, sexual orientation, or disability. 
+The conduct of any of these prohibited activities and/or any other improper conduct or violation of this policy or applicable law is cause for immediate disciplinary action, up to and including termination of employment, and personal responsibility for any civil liabilities or criminal penalties.
+Privacy
+Unless contractual agreements dictate otherwise, data sent over company computer and communications systems are the property of XX Corp. 
+To properly protect and manage this property, management reserves the right to examine all data stored in or transmitted by these systems. 
+Users should have no expectation of privacy associated with the information they store in or send through these systems. 
+Return of Information and Information Systems
+Upon termination of employment or other engagement with the company(regardless of the reason for, or circumstances surrounding, such termination and regardless of whether it occurs voluntarily or not), or at any other time when requested by the company, all of the company's information and information systems must be returned to the company and all prior authorizations of the user to use any of the information systems shall automatically be revoked and cease immediately.
+ANTI-VIRUS ADMINISTRATION
+Virus detection software approved by the IT Department is in place on all personal computers with operating systems susceptible to viruses. 
+All files coming from external sources should be checked before execution or usage. 
+Users are not authorized to turn off or disable virus detection software. 
+This software detects changes inconfiguration files, system software files, application software files, and other system resources.
+User possession or development of viruses or other malicious software is prohibited. 
+Virus Reporting
+If users obtain virus alerts, they should immediately close networked applications (i.e.email, Internet, etc.) and disconnect from all networks (if capable) and cease use of the affected computer. 
+They should then contact the IT Department or appropriate personnel for technical assistance. 
+To prevent possible damage to information and information systems, users are not permitted to remove viruses on their own.
+If users suspect they may have been the victims of a virus or other malicious software,they should immediately contact the IT Department. 
+Because it may indicate a computer virus infection or similar security problem, allunusual systems behavior, such as missing files, frequent system crashes, misrouted messages, and the like should also be promptly reported.
+SOFTWARE / HARDWARE USAGE
+All software and hardware used on, in, or to enhance or develop company systems is the property of XXCorp. 
+XX Corp.has provided this software and hardware for use in conducting company business;personal use is prohibited.
+Users are not permitted to download software from electronic bulletin board systems, the Internet, or other systems outside of XX Corp. unless specifically authorized by the IT Department. 
+Authorized downloads can be made only on systems in which current anti-virus software is installed and functioning, as determined by the IT Department.
+Users must not install any software on XX Corp.'s personal computers, network servers, or other machines (such as laptops and stand-alone computers) without first receiving advanced authorization from the IT Department. 
+Strict adherence to software vendors'license agreements and copyright holders' notices is required. Users are forbidden from making unauthorized copies of software. 
+A defense for violators of copyright and licensing agreements will not be provided. 
+All doubt about whether software is copyrighted, proprietary, or otherwise inappropriate for duplication should be resolved in favor of not duplicating such information.
+Users are responsible for proper and adequate physical security and protection of software in their possession. A locked file cabinet or locked desk drawer should be used to safeguard software.
+Office computer equipment (desktop computers, fax machines, etc.) must not be moved or relocated without the prior approval of the IT Department. 
+Moreover, computer equipment should not be stored on the floor without using an appropriate computer stand.
+Equipment, regardless of ownership, used outside company premises to support business activities is subject to ITDepartment authorization. 
+The degree of protection should be equivalent to that of on-site equipment, taking into account the different level of risk.
+Computer equipment provided by XX Corp. must not be altered or added to in any way without authorization from the IT Department. 
+Inaddition, users must not bring their own computers, computer peripherals, or computer software into company facilities without authorization from their supervisor and the IT Department.
+Passwords
+All passwords must have at least eight (8)characters. 
+All user-chosen passwords for computers and networks should be difficult to guess. 
+The user-ID must never be used as the password. 
+Common words in a dictionary,derivatives of user-IDs, and common character sequences such as "123456" should not be employed. 
+Likewise,personal details such as spouse's name, automobile license plate, social security number, and birthday should not be used unless accompanied byadditional unrelated characters.
+All user-chosen passwords must contain at least one alphabetic and one non-alphabetic character. 
+Non-alphabetic characters include numbers(0-9) and punctuation. 
+The use of control characters and other non-printing characters is discouraged because they may inadvertently cause network transmission problems or unintentionally invoke certain system utilities.
+Passwords will be changed every 90 days and a unique password will be required. 
+All passwords must be promptly changed if they are suspected of being disclosed, or are known to have been disclosed to unauthorized parties.
+All PCs, laptops and workstations must be secured with a password-protected screen saver with the automatic activation feature set at 15 minutes or less, or by logging-off when the host will be unattended.
+Users must not write their passwords down unless they have effectively concealed or physically secured such passwords.
+Passwords must never be shared or revealed to anyone else besides the authorized user. 
+A common tactic of hackers is the use of ¡°social engineering¡± where by they call an employee claiming to represent an authoritative party such as theISP (Internet Service Provider), network company, or new member of the ITdepartment and request the user¡¯s password for apparent legitimate reasons. 
+Again, passwords should never be disclosed, especially via email or over the phone. 
+To do so exposes the authorized user to responsibility for actions that the other party takes with the password. 
+Users are responsible for all activity performed with their personal user-IDs. 
+User-IDs may not be utilized by anyone but the individuals to whom they have been issued. 
+Users should not allow others to perform any activity with their user-IDs. 

@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T054833Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love girl </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恋爱中的原始人
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am Oog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我叫奥戈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love Girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爱女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Girl loves Boog.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩爱波戈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is bad situation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是坏情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog and I are very different people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟波戈很不一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, we have different jobs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，我们的工作不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My job is Rock Thrower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的工作是扔石头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I will explain what that is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会解释的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are many rocks all over the place and people are always tripping on them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这地方到处都是石头，老是拌着人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So when I became a man, at age eleven, the Old Person said to me, "Get rid of all the rocks." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以当我十一岁，成为一个大人时，老人对我说，“弄走这些石头。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since that day, ten years ago, I have worked very hard at this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那天起，十年前，我就开始非常努力地扔石头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whenever it is light outside, I am gathering rocks and throwing them off the cliff.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只要外面亮着天，我就去捡石头，把它们都扔到山崖下面去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog's job is Artist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波戈是个艺术家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I will explain what that is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会解释的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he became a man, the Old Person said to him, "Cut down the trees so we have space to live." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他长大的时候，老人对他说，“把那些树砍了，这样我们就有地方住啦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Boog did not want to do this, so now he smears paint inside caves. He calls his smears "pictures." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是波戈不想干，他就在洞里乱抹颜料，他把他抹出来的东西叫做“画”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody likes to look at them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都喜欢看“画”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the person who likes to look at them most is Girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最喜欢看“画”的人是女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love Girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我喜欢女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I will explain what that is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会解释的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I look at her, I feel sick like I am going to die. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看着她的时候，感觉就像是要死了一样难受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have never had the Great Disease (obviously, because I am still alive). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还从来没有得过天大的病（这很明显，因为我还活着）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But my uncle described it to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我舅舅跟我描述过天大的病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said there is a tightness in your chest, you cannot breathe, and you have anger toward the Gods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，你觉得胸口发紧，无法呼吸，你对诸神感到愤怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was going to ask him to explain more, but then he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想让他再多解释一点，但接下来他就死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My point is: Girl makes me feel this way, like I am going to die. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的看法是：女孩让我有这种感觉，就像要死了一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are many women in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界上有很多女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By last count, seven. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上一次数，是七个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she is the only one I ever loved.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但她是我唯一曾经爱过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Girl lives on Black Mountain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩住在黑山。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is called Black Mountain because (1) it is mountain and (2) it is covered in black rocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那地方叫做黑山是因为（1）它是一座山（2）它上面布满了黑色的石头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every day, Girl has to climb over the rocks to get to the river. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天，女孩都要爬过那些石头到河边去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is too hard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这太难了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She has small legs and she is often getting stuck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的双腿细小，常被石头卡住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So one day I decided, "I will clear a path from Girl's cave to the river."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以有一天，我决定，“我要从女孩的洞到河边，清出一条道路来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have been working on Girl's path for many years, picking up the black rocks and carrying them away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我为女孩的这条路干了许多年，搬起黑石头，把他们拿走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never throw her rocks off the cliff like normal rocks. Instead, I put them in a pile next to my cave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从没有把她的石头像一般石头那样扔下山崖，而是把它们在我的洞边堆成一堆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I like to look at the pile, because it reminds me of how I am helping Girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我喜欢看这个石头堆，因为它让我想起我是怎么帮助女孩的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother, who I live with, says the pile "has to go." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈，跟我生活在一起，她说这个石堆“得离开这儿。“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(I worry that she will move the pile, but it is unlikely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（我担心她会把石堆挪走，但那是不可能的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, she is an elderly thirty-two-year-old woman.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，她是个上了年纪的，32岁的女人啦。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have made good progress on Girl's path, but there are still many rocks left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在女孩的这条路上进展不错，但还是有很多石头要搬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The job would go faster, but I am clearing the path in secret by the light of the moon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工作必须得加快，不过我一直只能在月光下偷偷干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reason is- and this is a hard thing to admit- I am afraid to talk to Girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为-很难承认这事儿-我害怕跟女孩讲话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If she found out it was me clearing all the rocks, I'm sure she would say something to me like "Hello" or "Hi there." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是她发现是我在为她清除石头，我保证她会对我说点什么，”嗨“，或者”你好啊“什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then I would be in trouble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后,我就有麻烦了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because the truth is I am not so good at making words.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为说真的，我不大会说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog is very good at making words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波戈非常善于讲话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, last week he showed off his new picture at the Main Cave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如上周，他在主洞里展示他的新作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone was expecting it to be a horse or a bear (all his pictures so far have been horses, bears, or a mix of horses and bears). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都期待会是一匹马或一头鹿(目前为止，他画的要么是马，要么是鹿，要么是马和鹿混在一堆儿）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this picture was not of any animal. It was just a bunch of red streaks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这次他画的不是动物，只是一些条纹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People were angry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家生气了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I wanted animals," the Old Person said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我要动物，”老人说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where are the animals?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“动物在哪里？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was bad situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是坏情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought that Boog would lose his job or maybe be killed by stones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想波戈可能会丢掉工作，或者被石头砸死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then Boog stood on a rock and spoke.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但波戈站上岩石，开始讲话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My art is smart," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的艺术是机智的,"他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And anyone who does not get it is stupid."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不懂它的人是愚蠢的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone was quiet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都沉默了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We looked at the Old Person to see what he would say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们看着老人，想听他怎么说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Old Person squinted at the red streaks for a while. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老人眯起眼看了一会儿那些条纹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he rubbed his chin and said, "Oh, yes, now I get it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他用手擦了擦下巴，说道，”哦，是的，现在我懂了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is smart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它是机智的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People who do not get it are stupid."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不懂的人是愚蠢的。“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few seconds later, everyone else got it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几秒钟之后，其他人也都看懂了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is smart," they said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它是机智的，”他们说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is smart!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它是机智的！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only person who did not get it was me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只剩下我还没理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My beard began to sweat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我紧张得要命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was scared that someone would ask me to make words about the picture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我害怕有人要我发表看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I headed slowly for the exit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我慢慢走向出口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was almost out of the cave when Boog pointed his finger at me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我就要走到洞外的时候，波戈用手指向我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you like it, Oog?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你喜欢它吗，奥戈？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone stopped making words and looked at me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都停止说话，看着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is smart," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它是机智的,”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I meant for my voice to sound big, but it came out small.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要让自己的声音大点，但说出口的却还是很小声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog smiled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波戈笑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ah," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Then why don't you explain it to us?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么为什么不解释一下给我们听?”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt a burning on my skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得我的皮肤像在燃烧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was sort of like when you fall into a cooking fire and your body catches on fire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像掉进做饭的火里，浑身都着了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked at my feet and people started laughing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看着我的双脚，人们开始大声笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked up at Girl to see if she was one of the ones laughing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我抬头看向女孩，看她是不是也在笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was not (thank Gods). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没有（谢天谢地）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she could hear all the other people laughing and that was just as bad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她能听见其他人在笑，这一样糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I am tired from talking to people who are less smart," Boog said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我讨厌跟不够聪明的人讲话，”波戈说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I am going to mate with Girl now."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我现在要跟女孩交配。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took Girl's hand and started to mate with her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拿过女孩的手，开始跟她交配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some people stayed to watch, but most took this as their cue to leave.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些人留下来观看，但大多数人认为这是暗示他们离开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On my way out, I heard Girl making sounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我出去的时候，我听到女孩在发出声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They stayed in my head all night, like an echo in an empty cave.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那声音一整夜都在我脑子里，就像空洞里传来的回声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day, I decided to become an Artist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，我决定要做一个艺术家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I told my plan to Oog (there are several of us named Oog- I'm sorry if it is confusing) and he said, "You can't be an Artist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把计划告诉了奥戈（我们有好几人叫奥戈-很抱歉这让人困惑），他说，“你做不了艺术家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is hard."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那很难。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oog agreed with him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥戈同意他的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're a Rock Thrower," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是仍石头的，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stick with that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“坚持做下去吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was angry at Oog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对奥戈感到愤怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Partly because he always takes Oog's side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一部分是因为他总是支持奥戈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But mostly because I did not agree with his words.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但主要还是因为我不同意他的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe Artist is hard job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许艺术家很难当。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not for me to say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但对我来说不是如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I would be surprised if it was as hard a job as Rock Thrower.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果当艺术家像仍石头一样难的话，我会感到吃惊的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Throwing rocks is not so easy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仍石头没那么简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, five years ago one of my shoulders detached from my arm when I was throwing a boulder off the cliff. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如五年前，我把一块巨石扔下山崖的时候，一只肩膀跟胳膊脱开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And two years after that the other shoulder detached also. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年后，另一只肩膀也一样了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can still throw rocks off the cliff. But now when I throw them I am screaming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在仍然能把石头扔下山崖，不过仍的时候会喊叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not just once in a while, but constantly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是偶尔，而是一直。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every time I throw a rock, I am screaming, loud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当我仍一块石头，我都会喊叫，大声地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not even realize I am screaming- it is just part of my life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我甚至意识不到我在喊叫-这只是生活的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another thing is that sometimes I fall off the cliff, which is bad situation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一件事是，我有时会掉下山崖，那是坏情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I am going to make a picture," I told the others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我打算画张画儿，”我告诉其他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A good one." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一张好画。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who are you going to show it to?" Oog said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你打算给谁看？”奥戈说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your mother?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你妈妈?”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone laughed: Oog, Oog, Moog, even Oog.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都笑了：奥戈，奥戈，摩戈，甚至还包括奥戈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I will show it to Girl."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会给女孩看。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one made words after that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人再说话了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have never spoken to Girl, but one time she spoke to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没跟女孩说过话，但有一次她跟我说来着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a long time ago, when we were still children.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是很久以前，我们还是孩子的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the first day of school and we were learning to count. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是上学的第一天，我们学习数数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was confusing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那挺不好理解的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am very good at some numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对一些数字比较擅长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I understand "one" and "two" very well and I am O.K. with "three." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对“1”和“2”理解的非常好，“3”也没问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when it gets to higher math, like "four" or "five," I have trouble.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但更大的数，像“4”或“5”，就有困难了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Old Person had told us each to make a pile of five rocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老人让我们每个人堆一个五块石头的石头堆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not know how many that was and it was getting to be my turn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道那是多少，而且就该轮到我了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was bad situation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是坏情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Old Person was about to call on me, when Girl whispered in my ear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老人就要喊到我了，这时女孩轻声对我说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You have too many rocks," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你的石头太多了，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You need to take away four." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你得拿走四块。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stared at her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think she could tell from my eyes that I did not have a great grasp of "four." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信她从我的眼睛里能看出来，我不大领会“4”的含义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's two twos," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是两个2，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I swallowed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我咽了口唾沫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To this day, I do not know what she meant by this.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到今天，我也不知道她说的是什么意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't worry," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别担心，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I will help you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会帮你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Old Person was about to look at my pile when Girl stood up and pointed into the forest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老人正要查看我的石头堆时，女孩站起来，指着森林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Predator!" she yelled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“猛兽！”她大喊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time we came back from the Hiding Cave, it was night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等我们从躲避洞回来的时候，天已经黑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the second day of school, we graduated and I got my sheepskin just like everybody else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上学的第二天，我们毕业了。我跟其他人一样，得到了羊皮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to thank Girl, but I did not know which words to make. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想谢谢女孩，但不知道该说什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I said nothing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我什么也没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Girl has a small head, so it is very strange how she fits so many things inside of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩的头很小，她脑袋里能装那么多东西真是非常奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knows all the numbers: "six," "eight"- you name it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她知道所有的数字：“6”，“8”-你说吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she also knows other things nobody else knows.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她还知道其他别人不知道的事儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One time, I followed her down to the river. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一次，我跟着她到来到河边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was hunting fish in the normal way, by jabbing a stick in the water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她正在用通常的方式捕鱼，用棍子向河里猛刺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a long time, she caught a small flat fish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了很久，她逮到一条小鱼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I assumed she would do the normal thing (rip off the head and eat the body), but instead she did the strangest thing I have ever seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜想她会揪掉鱼头，吃掉身体，那是常规的做法。但她没有，她做了我见过的最奇怪的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She put the stick- with the small fish still on it- back into the river. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把棍子-前端还叉着小鱼-放回水里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A short time later, she pulled the stick out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不一会儿，她把棍子拿出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A bigger fish was on the stick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>棍子上有一条更大的鱼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not understand how Girl did this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道女孩是怎么做到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I have thought a lot about what I saw, and I have developed a theory: she is a witch who knows magic.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想了很久，得出一个结论：她是会魔法的女巫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even though she is probably a witch, I still love her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管她可能是个女巫，我仍然爱她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother says that when you love someone you love them despite their flaws. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈说过，当你爱一个人的时候，会不顾他们的缺点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, my father was not so good at hunting after a monster ate his arms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，我爸爸在被猛兽吃掉一条胳膊后，不那么能打猎了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But my mother continued to mate with him, because she loved him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我妈妈仍然跟他交配，因为她爱他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Girl must really love Boog, because he has many flaws. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩一定真的爱波戈，因为他有许多缺点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He never smiles or shares his meat with other people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从来不笑，也从不把肉分享给别人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is rude to the Old Person and will not rub his feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对老人粗鲁，不给他磨脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he isn't very "down to earth." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，他不怎么"实际。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, one day he stood on the big rock and said, "Everyone should worship me, for I am a living God." Maybe he is right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，有一天他站在大石头上说，“每个人都该崇拜我，因为我是永生的神。”也许他是对的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not know how all that works. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道那怎么可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he doesn't have to say it on the rock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他怎么也不该在岩石上说那话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog's worst flaw, though, is that he disrespects Girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波戈最糟的缺点，是不尊重女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is subtle, but if you watch him closely you can tell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管不明显，但如果你仔细观察就会发现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, sometimes he orders her to mate with him in front of crowds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，有时候他会命令她在众人面前跟他交配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know this is his right (he is man, she is woman). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道这是他的权力（他是男人，她是女人）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it is the way he orders her to mate that I do not like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我不喜欢的是他命令女孩的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He makes his voice big and snaps his fingers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很大声地说，还打响指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is like he is talking to a dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像他在跟狗说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I owned Girl, I would only command her to mate with me in front of crowds if it seemed like she was in the mood to do that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是我拥有女孩，只有当她看起来有心思那么做的时候，我才会命令她在众人面前跟她交配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Boog has a lot going for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波戈拥有很多东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is very wealthy (three skins). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很富有（三张皮子）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is maybe a God (unclear). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也许是个神（还不清楚）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He styles his hair in the new cool way (wet). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有新酷的发型（弄湿）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He invented Art. But I still cannot understand why Girl is with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发明了艺术。但我还是不能理解为什么女孩会跟着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As my father used to say, "There must be other monsters in that cave that we don't know about."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像我父亲常说的，“洞里一定还有你不知道的怪兽。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I decided to make my picture of a horse, because I knew that was a thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我决定要画一匹马，因为我知道那是很重要的画。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took a long time, for many reasons: (1) I could only work nights, because of my rock-throwing job; (2) it was my first time making Art; and (another reason) my mother was watching over my shoulder the whole time and making words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这花了我很长时间，因为很多原因：（1）我只能夜里工作，因为我扔石头的工作；（2）这是我第一次搞艺术；（另一个原因）我妈妈总是一直在我身后观看，还说个不停。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You are bad at this," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不适合干这个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love my mother and will always rub her feet, but sometimes I think she does not know how to help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我爱我妈妈，我会永远为她磨脚，但有时候我认为她不知道怎么帮我。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

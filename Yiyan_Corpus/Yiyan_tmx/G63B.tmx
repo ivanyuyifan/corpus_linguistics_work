@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083105Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not the Child My Grandmother Wanted</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不是祖母想要的那种女孩</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the earlier and most remarkable memories of my youth is a conversation with my grandmother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我还年轻的早些时候，有一段记忆最难忘，那就是和我祖母的一段对话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had many conversations with her, or rather monologues, but this particular one stands out as she imparted the most important insights of her teachings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和她聊过很多次，其实更多的只是她在说，但这一次谈话让我记忆犹新，因为那一次祖母把她最重要的生活信条传给了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the moment when I understood how much I was worth. My value was approximately the same as a piece of sheep fat in the sun.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个时候，我明白了自己的价值--基本就和太阳下晒着的肥羊肉差不多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were on our front yard of white sand. It was a hot day, like almost all days in Mogadishu. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像摩加迪沙(索马里首都)大部分的天气一样，那天很热，我们呆在铺着白砂的前院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was nothing unusual about the flies that irritated us or the ants that I avoided for fear of their sharp, agonizing bites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日子照常，苍蝇飞来飞去，我一直在躲着那些咬人很厉害的蚂蚁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If they happened to crawl under my dress or I sat on them accidentally they would punish me with a sting that made me shriek with pain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果它们爬进裙子里，或者我不小心坐在它们身上，它们就会蛰我，疼得我叫起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That shrieking and hopping about would earn disapproval and even a slap from Grandmother.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦我叫嚷或者乱动，祖母就会不高兴，甚至打我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think I was 6 or 7 on that day, maybe younger, but I know I was not 8 because my family had not yet left Somalia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我大概六七岁吧，也可能更小，但肯定没到八岁，因为那时我们一家还没离开索马里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Grandmother was moralizing as usual. On that day, like all other days, she was admonishing me to remember my place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像往常一样，那天祖母又在说教了，她训诫我，要端正自己的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Cross your legs," she said, "lower your gaze. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“把腿并上，”她说道“目光放低点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You must learn not to laugh, and if you must laugh then see to it that you don't cackle like the neighbor's hen." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你得学着别笑了，如果非笑不可，也别笑的跟邻居家的母鸡似的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had no chickens but the noise of the neighbors' hens screeching and hooting and trespassing was enough for me to get the message.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们当时没养鸡，但是邻居家母鸡咕咕的叫着到处乱闯的样子，让我明白了祖母的意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If you must go outside make sure you are accompanied and that you and your company walk as far away from men as possible," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果你非得出门，一定得有人跟着，你们走路时一定离那些男人越远越好。”她说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To my grandmother's annoyance, I responded with the question: "But Grandmother, what about Mahad?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我祖母不爽的是，我问道：“但是祖母，那Mahad呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother Mahad never seemed to invite this kind of endless preaching from Grandmother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖母从来没对我的兄弟Mahad唠叨这些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She answered me like the obtuse child she decided I was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她当即觉得我愚钝不可教，但还是回答了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mahad is a man! Your misfortune is that you were born with a split between your legs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“Mahad是男人啊！你生来两腿间有缝，这是你的不幸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And now, we the family must cope with that reality!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我们一家就得面对这个事实！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought: There was yet another thing I did wrong and I did not have the ability to set right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想：我还是做错了一件事，而且再也改变不了了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If only I wasn't so dimwitted; if only I understood how I was to blame for the flaw that granny abhorred so much.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我当时不是那么傻；如果我能明白，为什么我要因为祖母对我是女孩的憎恨而受到责怪，那就好了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ayaan, you are stubborn, you are reckless and you ask too many questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“Ayaan，你太固执又太鲁莽，还总是爱问问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is a fatal combination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坏毛病都出在一起了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Disobedience in women is crushed and you are disobedient. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女人不能不服从，但你就不服从。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is in you, it is in your bone marrow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你就是这么个人，天性都在你的骨头里了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can only attempt to tell you what is right."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只能试着告诉你，什么是对的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Grandmother pointed to a piece of sheep fat on the ground. It was covered with ants, and flies were zooming above it, landing on it, sucking it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖母指着地上的一片肥羊肉，爬满了蚂蚁，苍蝇绕着飞来飞去，落在上面吮吸着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a vile piece of meat that was being warmed by the sun, and a trickle of fat seeped out of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肉在阳光下烤热了，汤都流了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said: "You are like that piece of sheep fat in the sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说：“你就像太阳下的一片肥羊肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you transgress, I warn you men will be no more merciful to you than those flies and ants are to that piece of fat."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不遵守妇道，男人对你就会连苍蝇和蚂蚁对那片肉还不如，不再可怜你了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A lot has changed in my life since those days in the sun with Grandmother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从那次太阳下和祖母的谈话后，我的生活改变了太多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today when I look back I see that I have proven her wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，当我回首往事的时候，我已经证明了，她错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I disobeyed, true to my nature, I transgressed, but I avoided the destiny of the sheep fat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有顺从别人，只是遵从自己的天性，我违反了所谓教条，但我避免了肥羊肉的命运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sitting in an airplane, I have on my lap the memoir of Nujood Ali. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我坐在飞机上，膝上放着Nujood Ali的自传。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The title of the book is "I Am Nujood, Age 10 and Divorced." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书名是“I Am Nujood, Age 10 and Divorced.” （“我叫Nujood，我十岁了，我离婚了”）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My reading list contains another book, by Elizabeth Gilbert. It is called "Eat, Pray, Love: One Woman's Search for Everything Across Italy, India and Indonesia." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我读的书还有另外一本，Elizabeth Gillbert写的，名字叫做 “Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia.” （“美食，祈祷，爱”）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reason I associate the two books is because of their description of marriage and divorce, and particularly the word "painful."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我之所以把这两本书联系在一起，是因为她们对婚姻和离婚的描写，当然还有对“痛苦”的描写。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nujood was 8 years old when a delivery man approached her father in Sana, Yemen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当一位送货员来到Nujood在也门的萨纳的家中时，她只有八岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the initial expression of hospitality, the delivery man stated his business: He was looking for a wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在寒暄过后，送货员挑明了此行的目的：他想找个妻子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nujood's two older sisters were already married, so she was the logical bride, regardless of her age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Nujood的两个姐姐已经结婚了，所以不管年龄多大，她成为了新娘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her father accepted $750 in dowry money and gave away his 8-year-old daughter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的父亲接收了750美金的嫁妆，送走了自己八岁的女儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Nujood's mother and sisters appealed to him, pleading that she was too young to get married, the father responded with the excuse used by all Muslim fathers who marry off their daughters before they come of age: "Too young? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当Nujood的姐姐和妈妈恳求父亲，说她还太年轻，不能结婚时，这位父亲用了所有嫁出幼女的穆斯林父亲的借口：“太年轻了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the Prophet wed Aisha she was only 9."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿以莎嫁给穆罕默德的时候才九岁。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, Muhammad wed Aisha when she was 6. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，阿以莎六岁嫁给穆罕默德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Scripture, the Prophet waited for Aisha to begin menstruating before consummating the marriage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经卷上说，穆罕默德等到阿以莎开始行经后才圆房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nujood's new husband, Faez, showed no such restraint.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而Nujood的丈夫Faez可没那么好的自制力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In painful detail, Nujood describes a real nightmare on her wedding night: How she runs away, how she seeks help, how she struggles, how he touches her and she wriggles out of his arms, how she calls out to her mother- in-law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Nujood详细的描述了婚礼当晚那场残酷的噩梦：她怎样跑掉，怎样寻求帮助，怎样抗争，她试图挣脱开Faez的时候他怎样摸她，她又是怎样向婆婆求救。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Aunty," she screams, "somebody help me!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“阿姨”她喊道“谁来救救我啊！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there was silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是没人回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She describes how he gets hold of her, his awful smell, a mixture of tobacco and onions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还写道他是怎么抓住她，他身上难闻的混杂了烟草和洋葱的味道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She recounts the childish threat she makes - "I will tell my father" - and the husband's reply: "You can tell your father whatever you like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她孩子气的威胁--“我会告诉我的父亲”-- Faez回答道“你爱怎么跟他说就怎么跟他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He signed the marriage contract, he gave me permission to marry you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他跟我签了结婚的合同，他同意我跟你结婚的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the time Nujood was able to gather her wits about her she set about planning her escape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自Nujood稍微长大足够机敏后，她开始计划逃跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story is recommended reading for anyone who seriously wants to understand what Muslim women can be subjected to.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果谁想要了解穆斯林女人遭受的苦难，那么这本书最合适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Yemen, Nujood's father, her husband, the judges, the policemen and the broader society - with the exception of a very few - view her situation as normal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在也门，除了极少数人以外，Nujood的父亲，她的丈夫，法官，警察和社会舆论，都把这个情况视为再正常不过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Yemen is by no means unique.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且像也门这样的地方也数不胜数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I turn to Elizabeth Gilbert's description of a painful divorce it becomes clear to me what feminism has accomplished in the West. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我翻开Elizabeth Gilbert的书，看到她对离婚之痛的描写，我一下子明白，女权主义在西方已经实现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gilbert decides to divorce her husband not because he was forced upon her, but because there is something intangible that he cannot give her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Gilbert之所以要和丈夫离婚，并不是他将意志强加于她，而是因为有些看不见的东西，是他给不了她的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She chose to marry him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她决定和他结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every decision she made was voluntary: to marry him, to buy property with him, even to try for a child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个决定都是自愿的：和他结婚，和他购置房产，甚至试着生孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet still she felt unfulfilled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她还是觉得缺了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The deep sense of dissatisfaction leads her to abandon her marriage, the life of a privileged woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她内心深深的失望使得她放弃了这段美好的婚姻生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She goes to Italy to find a piece of herself, the pleasure of eating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她去意大利找寻失落的自己，享受美食的快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She goes to India to find another piece of herself: the pleasure of devotion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她去印度找寻失落的自己：享受宗教的快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Indonesia she finds yet another piece of herself: the balance between the pleasures of eating and praying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她去印尼找寻失落的自己：享受美食和宗教平衡中的快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India she finds a guru who answers her spiritual needs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度她找到了一位导师，为她解决精神层面的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gilbert's story shows what feminism can achieve elsewhere, especially in the Muslim world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Gilbert的故事告诉我们，女权主义在别的地方也可以实现，特别是那些穆斯林国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But her story also demonstrates something else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她的故事也告诉了我们一些别的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those women in the West who, like Gilbert, have harvested what the early feminists fought for have almost no affinity for women like Nujood - and like me when I was a little girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些西方国家的女人，就像Gilbert这样的女人，她们享受到的是早期女权主义者努力抗争来的果实，而她们和Nujood这样的女人，或者像我小时候那样的女孩，完全没有共同点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is not to pass judgment on Gilbert. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不是对Gilbert的主观判断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the contrary, I admire her intellectual honesty and her pursuit of self-knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反的是，我欣赏她充满智慧的直白和对自我认识的追求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The woman I have become in the West now feels closer to the Gilberts of this world than the Nujoods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在西方长大，感觉更贴近Gilbert这样的女人，而不是Nujood那样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I find myself asking as I read these two books: What can current Western feminism offer the Nujoods?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我读这两本书时，我不禁问自己：对于Nujood那样的女人，西方女权主义能够帮到什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I often am asked by my Western audiences: "Where did feminism go wrong?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我经常被西方国家的观众问到：“女权主义到底哪里错了呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think the answer is staring us in the face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想答案就在我们眼前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Western feminism hasn't gone wrong at all - it has accomplished its mission so completely that a woman like Elizabeth Gilbert can marry freely and then leave her husband equally freely, purely in order to pursue her own culinary and religious inclinations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西方女权主义根本就没错--它已经彻底完成了自己的使命，所以像Elizabeth这样的女人才能自由的结婚，同样自由的离开自己的丈夫，只是为了追求美食和宗教信仰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The victory of feminism allows women like Gilbert to shape their own destinies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女权主义的胜利使得Gilbert这样的女人能够主宰自己的命运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there is a price for this victory: The price is a solipsism so complete that a great many Western women have lost the ability to empathize with women not only in the Islamic world, but also in China, India and other countries; women whose suffering takes forms that are now largely unknown in the West, save in the ghettos of immigrants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这样的胜利也是有代价的：代价就是完全的独我主义，西方国家的女人已经失去了移情的能力，不但无法理解伊斯兰教国家的女人，更无法理解中国，印度和其他国家的女人；西方国家已经很少有那些受苦受难的女人，但在移民聚居地还有所保留。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

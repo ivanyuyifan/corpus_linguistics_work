@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Part I Research, Researchers, and Readers</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一部分研究、研究者与读者</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>HOW TO USE THIS BOOK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何使用本书</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The best way to deal with the complexity of research (and its anxieties) is to read this book twice. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>处理复杂研究（及其引起的焦虑）的最好方法，就是把这本书看两遍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First skim it to understand what lies ahead (flip past what seems tedious or confusing). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一遍大概浏览，稍微了解书中的内容（如果遇到觉得迷惑或枯燥的部分，就先跳过）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But then as you begin your work, carefully read the chapters relevant to your immediate task. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后，当你开始研究工作时，就可以仔细阅读与目前进度相关的章节。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are new to research, reread from the beginning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你是研究新手，就从头开始再读一遍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are in an intermediate course but not yet at home in your field, skim part I, then concentrate on the rest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你已经有些研究经验，但对目前的研究领域不太熟悉，第一部分约略看过即可，然后再仔细阅读其余章节。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are an experienced researcher, you will find chapter 4 and parts III and IV most useful.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你自认是个研究老手，或许会发现第四章，以及第三、第四部分对你而言最有帮助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In part I, we address what those undertaking their first project must think about deliberately: why readers expect us to write up our research in particular ways (chapter 1), and why you should think of your project not as solitary labor but as a conversation with those whose work you read and with those who will in turn read your work (chapter 2).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一部分讨论你初次执行研究计划时，必须特别仔细考虑的事项：为什么读者会期待你用某些特别的方式撰写报告（第一章）？为什么不可以把你的研究计划设想成独自进行的工作，而是你与参考文献的作者及未来的读者之间的对话（第二章）？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In part II, we discuss how to frame and develop your project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二部分讨论如何形成并发展你的研究计划。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We explain</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们阐明：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to find a topic in an interest, </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何从一个兴趣找出题目（topic），</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>then how to focus and question it (chapter 3); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后如何专注于这个题目并提出问题（第三章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to transform those questions into a research problem (chapter 4); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何把那些问题转换成研究难题（第四章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to find sources to guide your search for answers (chapter 5); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何寻找原始资料，来引导你找到答案（第五章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to engage sources in ways that encourage your own best thinking (chapter 6). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何使用这些原始资料，并对你发现的观点进行彻底思考（第六章）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In part III, we discuss how to assemble a sound case in support of your claim. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在第三部分，我们讨论如何组合一个严谨的论证，来支持你的观点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That includes </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>包括：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>an overview of a research argument (chapter 7); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>概述一个研究论证所包含的要素（第七章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to evaluate your claim for its significance (chapter 8); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>怎样才称得上具有重要意义的观点（第八章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to judge what count as good reasons and sound evidence (chapter 9); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>怎样才称得上是个有效的理由及有力的证据（第九章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to acknowledge and respond to questions, objections, and alternative views (chapter 10); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为什么你必须以及如何去承认质疑、异议及替代方案，然后作出回应（第十章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to make the logic of your argument clear (chapter 11).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何为你论证的逻辑辩护（第十一章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In part IV, we lay out the steps in producing your paper: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在第四部分，我们列出了产生报告的步骤：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to plan and execute a first draft (chapter 12); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何规划及撰写初稿（第十二章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to test and revise it (chapter 13); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何检验与修改它（第十三章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to incorporate sources (chapter 14); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何撰写导论和结论，使读者相信你的报告值得他们花时间去阅读（第十四章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to present complex quantitative evidence clearly and pointedly (chapter 15); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何清楚而明确地呈现复杂的量化的证据（第十五章）；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>how to write an introduction and conclusion that convince readers your argument is worth their time (chapter 16); </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何修改行文风格，好让它清楚、直接而且易读（第十六章）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In an afterword, "The Ethics of Research," we reflect on a matter that goes beyond professional competence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在后记的“研究伦理”部分，我们会思考及讨论专业能力以外的一些事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Doing and reporting research is a social activity with ethical implications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>进行研究与撰写论文是一种具有伦理意涵的社会活动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We often read about the dishonest research of historians, scientists, stock analysts, and others. And we see plagiarism among writers at all levels of achievement, from secondary-school students to leaders of their professions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最近发生了某些历史学家、科学家、股市分析师等发表不诚实研究的丑闻，我们也知道不少剽窃文章的行为广布于各层级的作者中，从中学学生到各专业顶尖的人员都有。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such events highlight the importance of doing and using your research ethically.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些事件凸显了认真思考什么是研究与写作伦理的重要性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Between some of the chapters you will find "Quick Tips," brief sections that complement the chapters with practical advice.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在某些章节之后，你可以看到【快速提示】，这是对该章内容的简短补充。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In a concluding essay, we address those who teach research. At the end of the book is a bibliography of sources for beginning researchers and for advanced researchers in particular fields.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本书最后附上的，是与我们书中议题相关研究的简短概述，给教研究方法的老师的短文，以及为研究新手及进入特殊领域者提供的参考书目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Research is hard work, but like any challenging job done well, both its process and its results can bring great satisfaction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究是一项辛苦的工作，就如同任何具有挑战性的工作一样，它的过程和结果都会带给个人极大的满足感。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No small part of that satisfaction comes from knowing that your work sustains the fabric of a community of people who share your interests, especially when you discover something that you believe can improve your readers5 lives by changing what and how they think.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那种满足感，部分来自你知道自己的研究将有助于所属的团体。当你发现自己居然可以改变读者的思考内容与思考模式，进而改善他们的生活时，那种对所属团体有所贡献的满足感会特别强烈。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1 Thinking in Print</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一章以书面形式来思考</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Uses of Research, Public and Private </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究的用处，公众的及个人的</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this chapter, we define research, then discuss how you benefit from learning to do it well, why we value it, and why we hope you will too.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这一章我们将界定什么是研究，然后讨论在做研究的过程中，可以获得什么？为什么我们要重视研究？为什么我们希望你也重视研究？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whenever we read about a scientific breakthrough or a crisis in world affairs, we benefit from the research of those who report it, who in turn benefited from the research of countless others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不论何时，当科学有重大突破或发生世界事务危机时，你可以从阅读报道者的研究报告中受益，而他们之前也曾从其他许多人的研究中获益。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When we walk into a library, we are surrounded by more than twenty-five centuries of research. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>坐在图书馆阅览室从事研究工作时，你身边是数百年来的研究成果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When we go on the Internet, we can read millions of reports written by researchers who have posed questions beyond number, gathered untold amounts of information from the research of others to answer them, then shared their answers with the rest of us so that we can carry on their work by asking new questions and, we hope, answering them.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在互联网上可以找到数百万份研究报告，而所有的报告也都是研究者的产物。他们不断地提出疑问与难题，搜集无数的数据，寻获答案与解决方法，然后与我们分享他们的研究成果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Teachers at all levels devote their lives to research. Governments spend billions on it, businesses even more. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>各层级的老师将生命投注于研究，政府将可观的经费投入到研究工作，而企业界的花费则更多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Research goes on in laboratories and libraries, in jungles and ocean depths, in caves and in outer space, in offices and, in the information age, even in our own homes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究在实验室、图书馆、丛林、大海深处、洞穴与外层空间进行着。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Research is in fact the world's biggest industry. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，研究是世界上最大的产业。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Those who cannot do it well or evaluate that of others will find themselves sidelined in a world increasingly dependent on sound ideas based on good information produced by trustworthy inquiry and then presented clearly and accurately.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>世界越来越依赖于建立在可靠信息上的明智理念，而可靠信息是可信赖的研究的成果。不能确实地做研究或评价他人研究的人，将发现自己处于世界的边缘。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That's why in this book we will urge you to be amiably skeptical of the research you read, to question it even as you realize how much you depend on it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除非我们相信他们是严谨地做研究并正确地呈现研究结果，我们才可能信赖他们的研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>WHAT IS RESEARCH?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1研究是什么?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the broadest terms, we do research whenever we gather information to answer a question that solves a problem: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>广义来说，其实每个人都在做研究：我们都在搜集资料，回答问题以解决难题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PROBLEM： Where do I find a new head gasket for my 1965 Mustang?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>难题：需要福特公司野马型汽车（1965年生产）用的汽缸床垫片。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>RESEARCH： Look in the yellow pages for an auto-parts store, then call to see if it has one in stock.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究：打电话给汽车零件商，或上网查询哪里有存货。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PROBLEM： To settle a bet, I need to know when Michael Jordan was born.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>难题：想知道篮球明星迈克尔·乔丹的出生地。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>RESEARCH： You Google "Michael Jordan birthday." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究去图书馆查阅名人辞典，或到Google网站里在5000多万份有关乔丹的资料中去挑选。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PROBLEM： I'm just curious about a new species of fish.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>难题：想知道更多关于新品种热带鱼的新发现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>RESEARCH： You search the Internet for articles in newspapers and academic journals.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究：上网搜集报纸或杂志里的文章。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We all do that kind of research every day, and though we rarely write it up, we rely on those who wrote up theirs: Jordan's biographers, the fish discoverers, the publishers of the yellow pages and the catalogs of the autoparts suppliers—they all wrote up their research because they knew that one day someone would have a question that they could answer.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使我们都在从事与此类似的研究，却没有人落笔写下来。但我们正依赖着写出研究结果的人：汽车零件供货商，乔丹传记的作者，鱼类的发现者......他们把自己研究的结果写下来，因为他们预期有一天，他们的资料将解答别人的疑问。.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're preparing to do a research project not because you want to but because it's been assigned, you might think that it is just make-work and treat it as an empty exercise. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你是因为老师指定做一项研究才阅读本书，或许会把阅读本书看成是个烦人的工作或空泛的练习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We hope you won't. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们希望你不会如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Done well, your project prepares you to join the oldest and most esteemed of human conversations, one conducted for millennia among philosophers, engineers, biologists, social scientists, historians, literary critics, linguists, theologians, not to mention CEOs, lawyers, marketers, investment managers—the list is endless.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你有实际的理由认真地做这项工作：你可以学习到终身受益的研究技巧，不管你选择哪种生涯。除此之外，你的研究计划将会引导你，参与这个最古老、最受人尊重的人类对话，而这个对话，数千年来就在哲学家、工程师、生物学家、社会科学家、历史学家、文学评论家、语言学家、神学家等无数的研究者间进行着。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Right now, if you are a beginner, you may feel that the conversation is one-sided, that you have to listen more than you can speak because you have little to contribute. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在，你或许会觉得这个对话似乎是单向的，亦即聆听多于讲述，而且你似乎无法有所贡献。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are a student, you may feel that you have only one reader: your teacher. All that may be true, for the moment. But at some point, you will join a conversation that, at its best, can help you and your community free us from ignorance, prejudice, and the half-baked ideas that so many charlatans try to impose on us. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就此刻而言，或许是个事实，但在将来的某个时刻，你将被要求加入一场对话，而这场对话，在它最有作用的时候，可以帮助你与你所属的团体免除无知、偏见、误解，免于那些冒牌学者强加于我们的一些不成熟的想法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is no exaggeration to say that, maybe not today or tomorrow but one day, the research you do and the arguments you make using it can improve if not the whole world, then at least your corner of it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们这样讲并不过分：你的研究跟研究报告或许不能改善整个世界，但至少可以改善你周围的环境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>WHY WRITE IT UP?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.2为什么要写出来?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For some of you, though, the invitation to join this conversation may still seem easy to decline. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>话虽如此，每当发出参与研究对话的邀请时，有些人可能很容易就加以拒绝。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you accept it, you'll have to find a good question, search for sound data, formulate and support a good answer, and then write it all up. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为你进行这样的研究对话，将会面对更多的工作，去找寻好的问题、严谨的资料、好的答案和支持这个答案的论证，并仔细地把研究结果写下来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if you turn out a first-rate paper, it may be read not by an eager world but only by your teacher. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>甚至，即使你写出了一流的报告，阅读这份报告的很可能不是急切的读者，而只是你的老师。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And, besides, you may think, my teacher knows all about my topic. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除此之外，你或许会想：老师对我的题目已经很清楚了，如果他直接告诉我答案或指定我该看哪些书，我就能专心研读这些书的内容。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What do I gain from writing up my research, other than proving I can do it?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我把报告写出来，除了证明我能写出来之外，还可以得到什么呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One answer is that we write not just to share our work, but to improve it before we do.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>下面是我们的答案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Write to Remember</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.2.1写作有助于记忆</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Experienced researchers first write just to remember what they've read. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究者写下他们所发现的，是为了将它们记住。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A few talented people can hold in mind masses of information, but most of us get lost when we think about what Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Boskowitz—but what was it that Smith said? When you don't take notes on what you read, you're likely to forget or, worse, misremember it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有少数的幸运儿，能够不写下来却还能记得这些信息。但是包括本书作者在内的大多数人，都没能拥有这种本领。例如，当我们想到张三根据李四的研究而有新发现，然后与王五奇怪的数据作比较，而这些数据是由赵六所支持的。但是，等一下一我已经忘记张三的研究结果了！大多数的研究者，只有借助写作才能策划和执行他们的研究计划——条列原始资料、整理研究概述、记录实验注释、拟出大纲等等。那些没有记录下来的，可能都会被忘记，甚至更糟的是被记错了。这就是为什么谨慎的研究者，不会等资料齐全时才开始写作：他们从研究计划起始就开始写作，让自己的脑袋尽可能清楚地记得大部分的数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Write to Understand</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.2.2写作有助于了解</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A second reason for writing is to see larger patterns in what you read. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>写作的第二个理由是协助了解研究结果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你以新的方式安排及重新安排研究的结果时，你会发现新的关联、对比、复杂性及意涵。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使你能记住自己研究发现的全部结果，仍得梳理不同方面的论证，划定复杂的关系，以及区分专家之间的不同观点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I want to use these claims from Wong, but her argument is undercut by Smith's data. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如：我想用李四的观点，但他的论证与张三比起来似乎较不完整。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When I put them side by side, I see that Smith ignores this last part of Wong's argument. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我比较两者，发现张三忽略了李四论证的最后部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aha! If I introduce it with this part from Brunelli, I can focus on Wong more clearly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>嗯，如果我以王五的这部分内容来介绍它，我就能集中于李四让我提出问题的论证部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thafs why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>写作有助于对所发现的有更好的理解，以及从中发现更宽广的意义，进而丰富你的思考。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Write to Test Your Thinking</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.2.3写作可以获得新的观点</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A third reason to write is to get your thoughts out of your head and onto paper, where you'll see what you really can think. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然写作最基本的理由是把你脑袋里的思维变成文字，进而以更清楚的书面形式把自己的思考看得更清楚，但另一个理由则是这种书面形式会让你的观点更清晰，并且不至于过分夸张。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Just about all of us, students and professionals alike, believe our ideas are more compelling in the dark of our minds than they turn out to be in the cold light of print. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为不管是学生或专业人员，我们在自己温暖的心中对自己想法的看法，总是比摊开在大太阳下面看起来更为条理分明。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can't know how good your ideas are until you separate them from the swift and muddy flow of thought and fix them in an organized form that you—and your readers—can study.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你以注释、大纲、概述、评论还有其他书面形式去促进思考时，思考将能获得改善。但你只有从快速混乱的思维中将特定的想法分离出来，并以一种有组织、有条理的形式确定下来，才能知道自己真正能思考什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In short, we write to remember more accurately, understand better, and evaluate what we think more objectively. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>简而言之，你应该写作，如此才能够有正确的记忆、更好的理解，以及更清楚地理解自己的思维。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>(And as you will discover, the more you write, the better you read.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且你也会发现，当你写得更好的时候，在阅读上也会更具有批判力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>WHY A FORMAL PAPER?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.3为何要有一份正式的报告?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But even when they agree that writing is an important part of learning, thinking, and understanding, some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined (or even want to) and conform to conventions they did nothing to create. Why should I adopt language and forms that are not mine? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使你同意写作是学习、思考，以及理解的重要部分，有些人可能会疑惑：为什么我不能以自己喜欢的形式写作？为什么我得满足研究团体——特别是尚未加入或甚至不想加入的研究团体——强加的格式限制？这些为他人写作而设定的限制，时常让某些学生感到痛苦，他们相信自己没有理由迎合一个自己没有参与创立的对话惯例。我不能了解，为何我要采用不属于自己的措辞和格式？我自己的措辞有什么问题？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aren't you just trying to turn me into an academic like yourself? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你不过只是想把我变成像你一样的学究吧？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If I write as you expect me to, I risk losing my identity.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果我按照老师期望的方式去写作，会不会有丧失自己特性的顾虑？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such concerns are legitimate (most teachers wish students would raise them more often). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你有正当的理由担心（学生应该经常将这些感受提出来）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But it would be a feeble education that did not change you at all, and the deeper your education, the more it will change the "you" that you are or want to be. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，一个完全无法改变你的教育会是个无法起作用的教育。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That's why it is so important to choose carefully what you study and with whom. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接受越多的教育，越可能改变你所视为理所当然的“你七这就是为什么小心选择你的研究以及指导老师是很重要的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But it would be a mistake to think that learning to report sound research must threaten your true identity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，如果认为学习撰写扎实的研究报告必然威胁到你的真正特性，那就是错误的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It will change the way you think, but only by giving you more ways of thinking. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它会改变你的思考模式，不过却是以一种赋予你更多思考模式的方式来改变你。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You will be different by being freer to choose whom you want to be and what you want to do with your life.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你或许会变得不同，但你能更自由地去选择你想成为什么样的人，以及你以后想做什么事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the most important reason for learning to write in ways readers expect is that when you write for others, you demand more of yourself than when you write for yourself alone. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>或许，学习用读者期待的方式撰写研究报告最重要的理由，是以别人的标准和价值去检验你的想法，进而让你更理解自己和自己的想法。为别人写作会比为自己写作的要求更严格。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be but for what they really are. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你在写作中确定自己的想法之际，由于你是如此熟悉它们，你需要的帮助不是让这些想法以自己想要的方式被理解，而是让这些想法真实地呈现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You will understand your own work better when you try to anticipate your readers inevitable and critical questions: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你明确地试着去预想读者的问题时，你将会更了解自己的作品：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How have you evaluated your evidence? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何评价你的证据？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Why do you think it's relevant? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为何你认为它是有关联的？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What ideas have you considered but rejected?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你曾经考虑过但后来拒绝的想法是什么？</seg></tuv>
+</tu>
+</body>
+</tmx>

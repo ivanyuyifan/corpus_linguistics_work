@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160907T051003Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SMOKE SCREEN</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烟幕</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CHAPTER 1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley pulled open the rusty screen door, its hinges squealing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利拉开锈迹斑斑的纱门时，门铰发出咯吱咯吱的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hey! You in here?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哎呀，你就住这里？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ain't I usually?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我一直住这里！”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A curl of faded red paint flaked off when the wood frame slapped closed behind Raley as he stepped into the one-room cabin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利走进那个单间小屋，身后木门框“啪”地关上时，一团褪色的红漆应声而落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It smelled of fried pork and the mouse-gnawed Army blanket on the cot in the corner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小屋弥漫着一股炸猪肉和角落小床上老鼠啃过的军用毛毯发出的异味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took a moment for his eyes to adjust to the dimness and find the old man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，雷利的眼睛才习惯屋内昏暗的环境并看到那个老头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was sitting at a three-legged table, hunched over a cup of coffee like a dog guarding a hard-won bone, staring into the snowy screen of a black-and-white television. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头坐在一张三条腿的餐桌旁，像狗护着费尽力气才抢得的骨头一样弓着腰捂着一杯咖啡，眼睛盯着满是雪花的黑白电视屏幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ghostly images flickered in and out. There was no audio except for a static hiss.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幽灵般的图像在屏幕上闪闪烁烁，但是，除了静电发出的沙沙声外，没有任何声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good morning." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“早上好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man snorted a welcome through his sheaves of nasal hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那老头抖抖鼻毛哼哼鼻子以示欢迎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He'p yourself." He nodded toward the enamel coffeepot on the stove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他朝炉上的搪瓷咖啡壶点了一下头，说：“喝点吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Can't recommend the cream. It curdled overnight." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乳酪昨夜坏了，就别加了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley stepped over the three hounds lying motionless on the floor and went to the refrigerator that was jammed between an antique pie safe, which served as a pantry, and a drafting table, which served no purpose whatsoever except to collect dust and further reduce the floor space in the crowded cabin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利从一动不动地躺在地上的三只猎狗身上跨过，走向挤在充当食品柜的老式碗橱与高低可调的制图桌之间的冰箱。那张桌子，除了收集灰尘和进一步减少拥挤的小屋空间外，再也没有任何用途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The handle on the fridge door had broken off, probably decades ago, but if you pressed your fingers just right into the soft rubber sealant in the crack, you could pry it open. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冰箱门把手已折断，恐怕是几十年前就断了。但是，如果把手指插进门缝中的密封软胶，还是可以掰开冰箱门的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I brought you some catfish." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“给你带了点鲶鱼。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley set the newspaper bundle on one of the rusty wire shelves, then quickly shut the door against the mingled odors of cream gone bad and general spoilage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利把一卷包着鲶鱼的报纸放在其中一个锈迹斑斑的冰箱格子上后，迅速关上冰箱门，以阻挡已经变质的乳酪和完全腐烂的食物发出的混合异味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Much obliged." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“非常感谢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're welcome." The coffee probably had been boiled several times and would be the consistency of molasses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不用谢。”那咖啡很可能已经煮过好几回，而且弄得跟糖浆一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without cream to dilute it, Raley thought it better to pass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既然没有乳酪调和咖啡，雷利觉得不喝为妙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He glanced at the silent TV. "You need to adjust your rabbit ears." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利瞥了一眼无声电视，说：“得调调天线。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ain't the rabbit ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不关天线的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I turned off the sound." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我关了声音。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How come?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为啥？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man replied with one of his customary harrumphs that said he couldn't be bothered to answer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那老头习惯性地哼哼鼻子，表示懒得回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A self-proclaimed recluse, he had lived in voluntary exile ever since "the war," although which war had never been specified. He had as little as possible to do with other Homo sapiens.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自称为隐士的他，自从“那场战争”爆发以来，就一直自我放逐至今。但是，他却从未说明究竟是哪场战争，而且尽可能不与其他人来往。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shortly after Raley had moved into the vicinity, the two had come upon each other in the woods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前，雷利搬到那个地方不久，他俩就在林中相遇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley was staring down into the beady eyes of a dead opossum when the old man came crashing through the underbrush and said, "Don't even think about it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利当时低头在看一只死负鼠圆鼓鼓的双眼，那位老头从灌木丛中冲过来，说：“休想拿走。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"About what?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“休想什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"About taking my possum."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“休想拿走我的负鼠。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Touching the bloated, flyblown, limp body with the pink, hairless tail and horrible stench was the last thing Raley intended to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利最讨厌的，就是触摸臃肿、软绵绵、布满苍蝇卵、带有粉色无毛尾巴且发出恶臭的躯体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He raised his hands in surrender and stood aside so the barefoot old man in stained overalls could retrieve his kill from the metal jaws of the small trap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他举手以示放弃并站在一旁，让那位穿着脏兮兮的工作裤的光脚老头，可以从那个小小的诱捕夹子的金属钳夹上取得其猎物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Way you been stampin' around out here, it's a wonder to me it ain't you caught in this trap instead of the possum," he grumbled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你，常在这里窜来窜去吧。真奇怪，夹住的不是你，而是负鼠。”老头嘟嚷着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley wasn't aware that anyone lived within miles of the cabin he'd recently purchased. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利并未意识到，在他最近购买的小屋数英里范围内，还住有其他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd rather not have had a neighbor of any kind, but especially one who kept track of his comings and goings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不希望与任何人作邻居，尤其不希望与知道他行踪的人作邻居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the old man stood up, his knees protested in loud pops and snaps, which caused him to grimace and mutter a string of curses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那老头起身时，其膝盖发出喀嚓喀嚓的抗议声，脸上浮现出痛苦的表情，口中骂声不断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the carcass dangling from his hand, the old man looked Raley over, from his baseball cap and bearded face to the toes of his hiking boots. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他手里晃动着负鼠尸体，眼睛上下打量着雷利，从头戴的棒球帽和胡须巴扎的脸一直看至穿着登山鞋的足尖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inspection complete, the old man spat tobacco juice into the dirt to express his opinion of what he saw. "Man's got a right to walk in the woods," he said. "Just don't go messin' with my traps."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>检查完毕，老头将烟液一口啐到地上，发表其看法：“你是有权在林中散步，但别弄乱了我的夹子。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It would help me to know where they are." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“它可以帮我确定猎物在哪里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man's cracked lips spread into a wide grin, revealing tobacco-stained stubs that once were teeth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头皱裂的嘴唇张得开开的，露齿而笑，烟草熏黑的残余牙根暴露无遗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Wouldn't it though?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是吗？”他咯咯地笑着，转身而去：“我打赌，你会发现它们的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still chuckling, he turned away. "You'll find ¡®em, I'm bettin'." Raley could hear his laughter long after he disappeared into the dense foliage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利还在听着他吃吃的笑声，他的人影却早已消失在浓密的树林中了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the ensuing months, they'd accidentally bumped into each other in the woods several times. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后几个月，他们好几次在林中不期而遇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At least to Raley these were chance meetings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少对雷利而言，是偶然相遇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He reasoned the old man made himself visible when he wanted to and didn't when he was disinclined to give his new neighbor even a grunt of a greeting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他认为，老头是想现身时就现身，不想和新邻居甚至哼哈打一声招呼时就不现身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One hot afternoon, they met in the doorway of the general store in the nearest town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个炎热的午后，在最近城镇的百货商店门口，他们又相遇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley was coming in, the old man going out. They nodded to each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利进去，老头出来，双方点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, when Raley left with several sacks of groceries, he noticed the old man sitting in a chair on the shaded porch of the store, fanning himself with his straw hat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来雷利提着几袋东西离开时，注意到老头坐在商店遮荫门廊的椅子上，用草帽给他自己扇风。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Acting on impulse, Raley peeled a cold can of beer from the plastic webbing and tossed it to the old man, who, revealing excellent reflexes, caught it in one hand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利一时冲动，从塑料网袋中拿出一罐冰凉啤酒抛给他。老头反应神速，只手接住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley stowed his groceries in the bed of his pickup and climbed into the cab. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利将所购物品塞入皮卡车箱，而后爬进驾驶室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man regarded him with patent suspicion as he put the truck in reverse and backed away, but Raley noticed that he'd popped the top on the beer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他倒车掉头回去时，老头满腹狐疑地看着他，但是，雷利注意到，老头拉开了那罐啤酒盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following morning there was hard knocking on Raley's door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>次日早上，雷利听到重重的敲门声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This being a first, he approached the door cautiously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是头一回听到敲门声，雷利小心翼翼地打开门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man was there, holding a chipped ceramic bowl containing a heap of some raw animal flesh that Raley couldn't identify. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那老头站在门口，手里拿着一只破损的陶瓷碗，碗里装着一团生肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He feared it was carrion that even the trio of hounds had rejected.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利看不出是什么动物的肉，担心是甚至连那三只猎狗也嫌弃的腐肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In exchange for the beer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“换你的啤酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't like bein' beholden to nobody." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不想欠任何人情。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley took the bowl thrust at him. "Thanks." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利将碗塞回给他：“谢谢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His visitor turned and walked down the steps. Raley called after him, "What's your name?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客人转身走下台阶，雷利追喊道：“你叫什么名字？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who wants to know?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谁想知道？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Raley Gannon." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“雷利甘农。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man hesitated, then grumbled, "Delno Pickens." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头犹豫了一下，咕哝道：“德尔诺皮肯斯。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From that morning, they developed a quasi friendship founded on loneliness and a shared reluctance for interaction with other people.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那天早上起，因孤独而又不愿意与其他人交往的他俩，就建立了准朋友关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sum-total value of Delno's possessions wouldn't be a hundred dollars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺的家什总值不到一百美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was always dragging home something he'd salvaged from God knew where, items he had no practical use for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他经常往家里拖带一些东西。那些上帝才知道来历的东西，对他并没有什么用处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His cabin was situated on stilts to prevent it from flooding when the Combahee overflowed its banks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为防止康贝河水漫过河岸而浸水，他的小屋建在桩上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Junk had been stuffed into the crawl space beneath the structure, as though to provide a more solid foundation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子下的水电管道间隙，塞满了无用的东西，似乎那样就可以加固地基。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The area surrounding the cabin was also littered with junk that was never utilized so far as Raley could tell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小屋周围的空地，也堆满了在雷利看来永远不会有用的杂七杂八的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Collecting it seemed more important to Delno than the articles themselves.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对德尔诺而言，收集这些物品比那些物品本身，似乎更重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drove a truck that Raley called Frankenstein because it was made of parts Delno had assembled himself, held together with baling wire and duct tape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺驾驶的卡车，雷利称之为“拼装怪车” ，因为那是由德尔诺用他自己收集的零配件组装的，用打包钢丝和布基胶带绑在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a miracle to Raley that he ever got the contraption started, but as Delno said, "It ain't pretty, but it gets me anywhere I want to go."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利觉得，老头可以让那个奇妙装置跑起来，真是个奇迹，但正如德尔诺所说：“虽然不中看，但我想去哪里，它就可以把我带到哪里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would eat anything. Anything. Anything he could knock from a tree, trap, or pull out of the river. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头任何东西都吃，任何东西！树上敲下的，夹子夹住的，河里捞出来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But whatever he had, once their friendship had been established, he was always willing to share it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且一旦成为朋友，无论得到什么东西，他都愿意分享。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surprisingly, he was very well read and conversant on subjects which, to look at him, one wouldn't have expected him to have even a passing knowledge of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奇怪的是，老头非常博学，熟悉从外表看他甚至根本考不及格的科目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley came to suspect that his hillbilly accent and vocabulary were affected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利怀疑，他的乡巴佬口音和用语都是故意伪装的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like the squalor he lived in, they were protests against a former life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像他居住的肮脏环境一样，它们与他从前的生活形成鲜明对比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But whatever that former life had entailed remained Delno's secret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，无论从前过着怎样的生活，那都属于德尔诺的秘密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He never mentioned a hometown, his childhood or parents, an occupation, children, or wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺从未提起过他的故乡、童年、父母、妻子或者孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beyond his hounds, he talked to no one except Raley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除猎狗外，他从未和雷利以外的人讲过一句话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Intimate relationships were limited to a stack of old nudie magazines with well-thumbed pages, which he kept on the floor beneath his cot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和他存在亲密关系的，仅限于他放在小床下地板上的一堆经常翻阅的裸体色情杂志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley shared nothing personal with Delno, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利与德尔诺也不存在亲密关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not for the first two years of their acquaintanceship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起码在他们认识的头两年，不存在那种关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then one evening at sunset, Delno showed up at Raley's cabin, bringing with him two Mason jars filled with a murky liquid that he'd fermented himself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来的一个日落黄昏，德尔诺来到雷利的小屋，手里拿着两个金属螺盖玻璃瓶，那两个瓶子装满了令德尔诺自己兴奋不已的浑浊液体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Haven't seen you in over a week. Where you been?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一周不见，去哪了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Here."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就在这里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley didn't want company, but Delno elbowed his way inside anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利不想接客，德尔诺却不管不顾地挤了进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Thought you might be needin' a swig or two." Giving Raley one of his scornful once-overs, he added, "Lookin' at you, I'd say my hunch was right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想你会痛饮一两口。”他轻蔑地扫视雷利一遍后，继续说：“看见你，我得说我的直觉很准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You appear to be in bad shape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看起来身体不好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Could smell you as I was coming up the steps."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走上台阶时，就闻到了你身上的异味。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're a fine one to criticize someone else's appearance and personal hygiene." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对他人外貌和个人卫生，你倒挺善于评头论足的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who'd you call?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“给谁打过电话？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That blabbermouth that runs the cash register at the store? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“记得那商店收银的长舌妇吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The one with her hair piled up high, wears long, dangly earrings? Told me you come in there last week, got a handful of change, and fed it into the pay phone outside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个发髻高高盘起、戴着长长的晃来晃去的耳环的女人？她告诉我，上周你去过那里，换了一些零钱，投入外面的公用电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Said you talked a few minutes, then hung up, looking like you was ready to kill somebody. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说，你讲了几分钟就挂了，你好像要杀人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Got in your truck and took outta there without even paying for your groceries."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你甚至连买东西的钱都没有付，就上车离开那里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He uncapped one of the jars and passed it to Raley, who sniffed the contents, then shook his head and passed it back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他打开其中一瓶的瓶盖，递给雷利。雷利用鼻子闻了闻，摇摇头，递回给他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So, I'm askin'," Delno continued after taking a hefty swallow from the jar, "who'd you call?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺重重地喝了一口，继续问：“好了，我问你，给谁打过电话？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was dawn before Raley stopped talking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利这才开口说话，而且一直谈到破晓才停止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By then, Delno had drained both jars. Raley was simply drained ¡ª emotionally, mentally, physically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到那时，德尔诺已喝干了两瓶酒，雷利简直是精疲力竭——感情上、精神上和肉体上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been a painful but therapeutic catharsis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然很痛苦，但却是一种精神宣泄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had lanced a dozen wounds.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刺开了许多伤口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With nothing more to say and no breath left to say it, Raley looked over at the old man, who had listened for hours without making a single comment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再也无可诉说也没有力气诉说的雷利，抬头看着不发一语倾听了数小时的老头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expression on the creased, leathery face was one of profound sadness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头扭曲的皮革似的脸上浮现出一种深深的忧伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His eyes were naked and unguarded for the first time since Raley had known him, and Raley knew he was looking straight into the soul of a man who'd experienced indescribable heartache. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自雷利认识他以来，老头的眼睛头一回毫无掩饰，毫无防备。雷利明白，老头正在直视经历了难以言说的心痛之人的灵魂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seemed Delno Pickens had collected all the misery and injustice in the world and packed it into that one hopeless gaze.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺皮肯斯似乎收集了人间所有的苦难和不公，并将其打包塞入绝望的凝视中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he sighed, and in one of the rare times they'd ever made physical contact, reached across the space separating them and patted Raley on the knee. "Go wash your armpits before the stink of you makes me puke up all that good liquor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来，老头叹了一口气，跨过分隔彼此的空间，拍了拍雷利的膝盖，这是他们罕见的一次身体接触：“去洗洗你的腋窝，别让你那难闻的臭味熏得我把所有的好酒都呕了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll cook you some breakfast."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我给你煮点早餐吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They never again referred to anything Raley had told him that night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后，他们再也没有提起那天晚上雷利告诉他的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as though the long night had never happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个晚上，似乎是从未经历过的最漫长的夜晚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Raley never forgot the bleakness with which Delno had looked at him that morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且那天早上德尔诺看着他的忧郁眼神，雷利永远不会忘记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this morning when he raised his head from staring into his coffee mug and looked up at Raley, he was wearing that same expression of despair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而这个早上，当老头把盯着咖啡杯看的头抬起来看雷利时，仍然满脸是同样绝望的表情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's the matter?" Raley's heart hitched, automatically thinking disaster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么了？”雷利心里咯噔一下，不由自主地想到了灾难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A 747 loaded with passengers crashing into a mountainside. A presidential assassination. A terrorist attack on the scale of 9/11.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>搭载乘客的747路班车坠落山崖？总统被暗杀？恐怖分子实施了如911一样大规模的袭击？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't go and do somethin' crazy, now, okay?" Delno said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别再去干疯狂的事情，行不？”德尔诺说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What happened?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“发生什么事了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Muttering dire predictions about "nothin' good comin' outta this," Delno hitched his chin toward the TV.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德尔诺喃喃地说完“来者不善”的可怕预言后，就抬起下巴对着电视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raley went over to the vintage set and turned the volume knob, then fiddled with the rabbit-ear antenna in the hope of getting a better picture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利走至老式电视机旁，打开音量按钮，摆弄天线，希望电视图像可以好起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The video remained erratic and the audio was scratchy, but within moments he had a clear understanding of what had happened and why Delno had dreaded telling him: Jay Burgess was dead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图像仍然不稳定，发出的还是沙沙声，但没一会儿，雷利就完全明白发生了什么，为什么德尔诺害怕告诉他： 杰伊伯吉斯死了!</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

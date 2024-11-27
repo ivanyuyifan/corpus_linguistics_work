@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T032902Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Furlough</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假期</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the night that his wife shipped out to Iraq, Henry agreed to let his daughters sleep in bed with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妻子坐船前往伊拉克的当天晚上，亨利答应女儿们和他一起睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had begged, and he said okay, but only for the one night; the concession seemed a small one given that the girls were, at least temporarily, losing a mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们恳求他，他答应了，不过说好只此一晚；其实这不过是个小小的妥协，毕竟两个女孩的妈妈离开了，至少暂时来说，孩子们失去了自己的妈妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was never able to regain the ground he lost, however, and for five months they encamped in his bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他一直没能够夺回失去的阵地，接下来的五个月里她们一直在他的卧室里安营扎寨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But last night had been the final night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是昨晚是最后一晚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tonight, for the first time since their mother left, the girls were going to sleep in their own beds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今晚开始女孩子们要回去自己的卧室睡觉了，这也是她们的妈妈离开后，她们第一次回自己的卧室睡觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Colleen, missing most of a leg, was coming home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失去了大半条腿的科琳要回家了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's like having your very own little insurgency," Moira had said to her sister on one of their many phone calls while Colleen was serving in Iraq. Moira said things like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳在伊拉克服役的时候，她的妹妹莫伊拉给姐姐打过很多电话，有一次她是这样说的：“简直就是自己家里发生的一场小型叛乱，”莫伊拉说话就是这个样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Colleen's sister was the kind of woman that Henry liked, wry without any of the mocking bitterness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳的妹妹是亨利喜欢的那个类型：她喜欢嘲讽，但她的嘲讽并不苦涩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They've occupied your bedroom, Colleen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她们占领了你的卧室，科琳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I keep telling Henry that he can't let them bunker down. Get them out before it's too late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直和亨利说不能等孩子们挖好防御工事，要赶在来不及之前让她们回自己的卧室才行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Buy them toys. Bribe them off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>给她们买玩具，收买她们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Weapons of mass distraction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上大型杀伤性武器，管它的，给她们糖果吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hell, give them candy, whatever it takes, just be a man, that's what I tell him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管要付出什么样的代价，一定要顶住！我就是这么告诉他的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But despite Moira's words, neither she nor Henry had tried to move the girls back to their own beds while Colleen was gone; among the many small betrayals that Henry had committed as a father, depriving his daughters of this small sense of security would have loomed large. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但尽管莫伊拉是这么说的，无论是她还是亨利都没有想法子让孩子们在科琳离家的时候搬回自己的卧室。作为爸爸，亨利已经在不少小事上哄骗了女儿们，与之相比，剥夺她们这一点点安全感似乎更让他不好受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, he did not mind sleeping in the same bed with his daughters; their presence, the gentle weight of their bodies, their hot sticky breath on his neck, was comforting to him in a way that his wife's presence had never been. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，他并不介意和女儿们睡在一张床上；她们的存在，她们身体的小小重量，脖颈上感受到她们热乎乎的呼吸，这些都带给他一种舒适感，而这是妻子睡在他身边时他所未感受到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, sleeping with them was not the problem; instead, the actual process of getting the girls to fall asleep was the torment for Henry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，和她们一起睡并不是问题所在。其实，哄女孩子们入睡才是真正折磨亨利的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tilly, barely 3, shifting against him, kicking at him, talking to her doll, and then the grunting- her porcine grunting rising in volume until he had to threaten to take away her monkey blanket- and Karen, almost 5 but with a teenager's penchant for exaggerated sighs, hands roving over his face, touching his eyes, his ears, no matter how many times he took her wrist and laid her arms flat against her body; that 30 or 40 minutes of trying to get them to go to sleep every night made him doubt his ability to raise his children without violence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刚刚三岁的蒂莉在他身边磨来蹭去，用脚踢他，和她的洋娃娃聊天，还不时地哼哼，她那像小猪似地哼哼声越来越吵，直到亨利不得不吓唬她说要拿走她的小猴毛毯；卡伦快五岁了，却像个十来岁的孩子一样喜欢夸张的手势，她的小手在亨利脸上摸来摸去，一会摸他的眼睛，一会揪他的耳朵；亨利只好一次又一次地握住她的小手腕，把她的胳膊平放回身体两侧。每天晚上都要花上三、四十分钟来哄她们睡觉，亨利开始怀疑自己不用武力就能把孩子们养大的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, the torment was worth it for the precious few minutes he had with them when they were neither awake nor asleep, when they were finally still and their breath began to flatten out in rhythmic heaviness, when their bodies fell slack and rolled in toward him, toward the black-hole depression that he occupied in the middle of the mattress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，当女儿们终于静下来，呼吸变得平稳，开始有节奏地一呼一吸；当她们小小的身子放松了，脸朝向他，或者说朝向他在床上压出来的凹陷处蜷成一团，她们半睡半醒，这宝贵的几分钟使得之前的折磨变得可以忍受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They always fell asleep within seconds of each other, and he often wondered if some magic formula could make them fall asleep more quickly, say, in three or four minutes, instead of the better part of an agonizing hour.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们总是前后差不上个几秒钟就一起睡着，而亨利常常纳闷是不是有什么神奇配方可以让女儿们更快地入睡，比方说，三、四分钟之内，而不是令人痛苦的接近一个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once Tilly and Karen were sleeping, Henry always crept out of bed with exaggerated carefulness, though he knew that something more momentous than his evacuation would be required to rouse them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等到蒂利和卡伦睡着了，亨利总是小心翼翼地爬下床，尽管他知道他的小心有些夸张，这个时候他的撤退恐怕很难惊动两个孩子，要想吵醒她们，那得要更大的动静才行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Karen occasionally talked in her sleep, muttering and mumbling, no words that he could decipher, the language of somnolence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡伦有时会说梦话，嘟嘟囔囔的，亨利一个词也听不出：梦之国的语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She seemed to be having a conversation she would not let him enter; dreaming, she asked and answered her own questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她好像在和人说话，但不让自己的爸爸加入进来；她在梦中自问自答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But once they were down, they were gone to him until morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们一旦睡着，就一直熟睡到清早。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was still amazed by how soundly they slept, as if night were some sort of pit they had been thrown into, something irreversible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他常常惊讶于她们熟睡的程度，好像跌入了黑夜的深坑，一去不回头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could do nothing to disturb them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他做什么都打搅不了她们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time he left his room, he knew the house would be clean. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等他从自己的卧室里出来，他知道家里已经打扫干净了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moira, already a frequent visitor before her sister left, had gotten into the habit of coming over every day to play with the girls while Henry cooked, to lend a hand with bath time and reading stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>姐姐去服兵役之前，莫伊拉就是他家的常客。现在则习惯每天都过来，亨利准备晚餐时，她陪孩子们玩耍，给孩子们洗澡时也要帮上一把，还有睡前读故事给孩子们听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While he lay with the girls until they fell asleep, Moira washed the dishes, straightened up a little, put in a load of laundry, and if she had time, sent an e-mail to her sister. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后亨利留在床上，等着女儿们睡着，莫伊拉在厨房洗碗，稍稍整理下房间，把脏衣服放进洗衣机。如果有时间的话，就给姐姐发封邮件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moira liked to send photographs or scan drawings that the girls had done, to tell Colleen what the girls had eaten for dinner, what they had said that was cute, what changes Colleen was missing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫伊拉喜欢把孩子们的相片或者扫描进电脑的手工绘画发给科琳，告诉她孩子们晚餐吃了什么，说过些什么有趣的话，以及科琳错过了她们的哪些变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I want her to come home to kids that she still knows," Moira told Henry one night.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天晚上，莫伊拉告诉亨利：“我希望她回家来的时候，仍然对孩子们有熟悉的感觉。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That empathetic concern was one reason Henry was still amazed at how little compunction Moira had shown about her affair with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫伊拉对她和亨利偷情的事没表露出多少内疚，亨利对此感到惊奇；她“希望姐姐回来后不觉得孩子们陌生”的这一担心是亨利觉得惊讶的原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had no qualms about taking Colleen's place, both as surrogate mother and as Henry's lover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为孩子们的代理妈妈和亨利的情人，她对取代科琳没有流露出什么不安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To be fair, Henry often thought that, in many ways, the first was a bigger betrayal than the second; Colleen loved her daughters unequivocally, but her husband was a different matter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公平地来说，亨利常常觉得前一项背叛在很多方面都要比后一项更为严重；科琳对女儿的爱是什么都比不上的，而丈夫则是另外一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry had gone to college with both Colleen and Moira, had met Moira first, in fact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利和科琳、莫伊拉一起上的大学，其实他先认识的是莫伊拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moira was the popular sister, funny and smart, one year younger than Colleen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫伊拉比科琳小一岁，有趣而聪明，是两姐妹中更受欢迎的那一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moira was the one who dated and went to parties, the one who had a full ride on a softball scholarship, the one who was friends with everybody but kept her mystery, as if she had some hidden substance that nobody would ever discover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫伊拉约会不断，常常参加派对，莫伊拉靠着垒球奖学金念完整个大学，莫伊拉和谁都是朋友，但又没人看得透她，就好像她藏着一些永远没人能发现的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Colleen, though physically similar, seemed determined to be everything Moira was not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳和莫伊拉外形上差不多，但她似乎决意要成为和妹妹完全不同的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Colleen was a loner, except for her sister's company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了和妹妹做伴之外，科琳是个独行侠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was sour, quick with a harsh word, and she did not play sports, joining the ROTC instead to cover her tuition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳脾气不好，言谈尖刻，科琳不打球，她的大学学费来自预备军官训练营的奖学金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had watched enough movies to know the way it worked: Moira was loud and shiny, but Colleen was the one with depth, the true treasure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利看过足够多的电影来做出判断：莫伊拉引人注目，光芒四射，但科琳是有深度的那一个，是真正的宝藏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought he was being clever when, near the end of his and Colleen's senior year of college, he went after Colleen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他和科琳大学四年级快要结束的时候，亨利对科琳展开追求，那会儿他还以为自己怪聪明的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought he had secured a prize.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他认定自己稳赢大奖了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry soon realized he had outsmarted himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利很快意识到自己太过自以为是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both sisters were exactly as they appeared on the surface; Colleen was petulant and better suited to her own company than anybody else's, and Moira was genuinely likable and smart, an interesting woman with a complex profundity that made him feel vital in her presence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两姐妹的内在和她们的外在表现完全一致：科琳难以取悦，她最喜欢自己陪着自己；而莫伊拉却让人由衷地愿意亲近，是个即聪明有趣，又内容丰富的女人。有莫伊拉在场的时候，亨利总会觉得自己充满活力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He understood his mistake, however, a bit too late: after a few weeks of dating, Colleen was pregnant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他明白自己追错女孩了，但是明白得有点太晚了。约会了几周之后，科琳怀孕了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry was the kind of man who believed in duty, and he compounded the error by marrying Colleen, in a small ceremony immediately after graduation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利是相信责任感的男人，毕业后不久，他错上加错地用一场小小的婚礼娶了科琳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Momentum set in, the marriage became irreversible, and a year later, when Moira joined Henry and Colleen in the sisters' small hometown, Moira became a fixture as both aunt and friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>趋势形成，婚姻已经不可逆转。一年之后，莫伊拉也回到了两姐妹的家乡小城，作为小姨和朋友加入到亨利和科琳的生活当中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only later, once Henry was left alone on the home front and Moira had stepped in neatly, taking over Colleen's role as mother and wife, did Henry, for the first time, have a visceral understanding of what marriage should be, of what marriage could have been had he chosen better.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再往后，亨利被一个人留在家里和孩子们孤军作战，莫伊拉恰到好处地加入进来，代替科琳成为母亲和妻子，直到此时，亨利才第一次发自肺腑地明白婚姻应该是个什么样子，明白了如果当初他选对了的话，他的婚姻原本可以是副什么模样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had thought about it before Colleen left, had even come close a time or two, when he was alone with Moira, but he had never acted, had never tried to kiss his sister-in-law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳离开家之前，他就这么想过，有那么一两次，当他单独和莫伊拉在一起的时候，他几乎要做出些什么来，但他始终没有采取行动，他从未试图去吻自己妻子的妹妹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when Moira finally kissed him- she initiated their affair, they both agreed on that- he had hesitated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的私情是由莫伊拉引发的，他们俩都同意这一点。莫伊拉最终亲了他，他原本还在犹豫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His life with Colleen had been less miserable than he would have thought, and he knew that kissing Moira back meant a precipitate and ineluctable dissolution of the stability that, in his marriage to Colleen, was the bedrock from which he carved out certain joys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和科琳的婚姻生活没有他想的那么差劲，他知道一旦回应莫伊拉的亲吻，他和科琳的稳定婚姻就会迅速而无可避免地瓦解。稳定性是他们婚姻的基石，他也从中找到了不少乐趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He taught English at the local high school, a job that felt like nothing more than destiny, and he loved the small confines of Lake City, the familiar security the town offered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利在当地高中教英文，如果不用命中注定来解释的话，不过是一份无足轻重的工作。他喜欢面积不大的湖城，带给他一种熟悉的安全感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had bought a neat house tucked two blocks off the main square, an easy walk to school for Henry, and only a block away from City Hall, where Colleen had landed a job as the assistant city manager. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们自置的房子离小镇主广场不过两个街区，亨利可以很轻松地走着去学校，距离科琳上班的地方也不过一个街区。科琳在市政厅做助理市行政官。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had enough money to pay his student loans, to hire a babysitter when Colleen's parents were not available, to buy a matching cherry crib, dresser, and gliding chair for Karen's room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有足够的钱偿还亨利的学生贷款，科琳的父母没时间帮忙带孩子时，他们也请得起保姆。他们买了配套的樱桃木婴儿小床，梳妆台，卡伦的房间里配了一张摇椅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And they had Moira, as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且他们还有莫伊拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moira lived with her parents, but seemed content to spend her time in Henry and Colleen's company, as if she had done all of the socializing she needed to do while she was away at college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫伊拉和父母住在一起，她似乎满足于陪着亨利和科琳消磨时光，就好像在离家上大学的那些日子里，她已经过够了社交生活似地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She doted on Karen, and then, 20 months later, on Tilly as well, bringing clothes, toys, and stuffed animals for the girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她溺爱卡伦，一年零八个月之后，她也一样地溺爱蒂莉，不时地给孩子们带来衣服、玩具、动物公仔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the few nights when Moira went out with friends or ate dinner with her parents instead of Henry and Colleen, Henry found himself wishing for his sister-in-law's presence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>偶尔有几个晚上，莫伊拉去见朋友，或者陪着父母而不是亨利夫妻吃晚饭，亨利发现自己盼望着莫伊拉的出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He enjoyed Moira's company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他喜欢莫伊拉的陪伴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was funny and quick, as happy to talk about music as politics, the first one to tell him about gossip from the high school, where she taught math, and he had often hoped that something else was behind her smile: a hint of regret that he had chosen the wrong sister. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她幽默，反应快，谈音乐和谈政治一样地津津有味。莫伊拉在当地高中教数学，她是第一个告诉亨利学校里八卦故事的人。他常常希望她的微笑背后有其它东西：暗示他选错了人的懊悔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But more than that, Moira's presence transformed Colleen, made her into a better person, somebody who was finally generous with her emotions, who was affectionate with Henry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不仅如此，莫伊拉的存在改变了科琳，科琳变得大方，愿意与人分享感情，和亨利也亲亲热热的，莫伊拉把她变成了一个更好的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some nights, perhaps once a month or so, that sense of generosity and affection carried through the night into Henry and Colleen's bedroom, staying with them long after Moira had left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些晚上，一个月有那么一次吧，这份大方和亲热的感觉停留了一整晚，跟着他们一起进了卧室，在莫伊拉离开之后很久还陪着他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had sex on other nights, but those were the only times when sex seemed like something other than a duty, something other than just a part of marriage that they had both signed up for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其它的晚上他们也会做爱，但在这样的晚上，性不再像是一种责任，不再仅仅是他们共同缔结的婚姻的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew that if not for Moira, their marriage would not have contained enough happiness to keep him and Colleen together.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他明白，如果不是有莫伊拉，他在婚姻中体会到的幸福不足以让他和科琳守着对方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that had been before the inevitable, before Colleen's Army Reserve unit was called up for active duty in Iraq. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这都是在不可避免的那件事发生之前，在科琳由陆军预备役军官变成去伊拉克服役的现役军人之前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Colleen shipped out, they had achieved a sense of balance, something to maintain the shape of their marriage, as unfulfilling as it often was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳坐船离开之前，他们原本已经达成某种平衡，找到了可以维持他们婚姻的某种东西，尽管这个婚姻常常让他们不能满足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With Colleen gone, Moira was no longer a bridge between them but a destination in her own right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科琳离开后，莫伊拉不再是他们之间的桥梁，她本身变成了一个目的地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted her to kiss him, and on that third night after Colleen had left, when he and Moira were sitting on the couch and she touched his leg and then, when he looked at her, when she shifted up onto her knees and leaned into him, kissing him, her eyes open, watching to see what he would do, he was reluctant to pull back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他希望莫伊拉吻他，科琳离开后的第三晚，他和莫伊拉坐在沙发上，她碰了碰他的腿，然后在他看着她的时候，科琳跪在沙发上俯身过去，亲了亨利。她睁着双眼，要看清楚他会怎么做。亨利不愿意躲开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More than just the dissolution of his marriage made him pull away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让亨利躲开这个吻的不仅仅是担心婚姻的瓦解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We shouldn't do this now. Probably not ever, but certainly not now," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们不应该这样做，现在不该，也许永远都不应该。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That you're her sister is bad enough, though God knows betrayal is betrayal- I mean, even if we didn't have kids, if you and Colleen hated each other, if you and I were drunk- but this is something different, another level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但毫无疑问现在不该这么做，”他说：“你是科琳的妹妹，这就已经够糟糕的啦，天知道，背叛就是背叛。我的意思是，就算我们没有孩子，就算你和科琳互相憎恶，或者说咱们喝醉了，但这个不一样，这完全是另一个层面的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Colleen was just out of town for the weekend..." he said, trailing off, trying to say what seemed so obvious to him. "We shouldn't do this," he said, "at least not now." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果科琳只是出城去度周末...”他说着，声音渐渐低了下来，试图说出在他看来再明白不过的事实：“我们不该这么做，”他说：“至少不是现在。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, for once, he seemed to be speaking past her, and only later did Henry realize she had willfully misheard him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这一次，他似乎不是在对着她说话，后来亨利才意识到莫伊拉成心误解了他的原话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Then when? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那什么时候应该呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How long? How long are you going to stay with her, Henry? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你准备和科琳过多久，亨利？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another year? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再过一年？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another five? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五年？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And if you don't pack it in, Colleen will. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不说的话，科琳也会说的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was going to leave you. Did you know that? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她准备离开你，你知道吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was going to leave you and then she got called up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她要离开你了，然后她被征入伍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All we're doing is delaying the inevitable."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们所做的一切不过是在推迟这个不可避免的结果。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She'll never forgive you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她永远不会原谅你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Christ, Henry, that's one of the reasons why you guys suck as a couple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的老天，亨利，你们俩为什么是这么糟糕的一对，这就是原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course she'll forgive me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她当然会原谅我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's already forgiven me, even if she doesn't know it yet."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她已经原谅我了，尽管她现在还不知道这事。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

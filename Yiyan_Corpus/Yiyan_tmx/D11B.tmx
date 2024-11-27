@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151102T123941Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Economist explains: Why India's Muslims are so moderate </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么印度的穆斯林如此温和</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ON SEPTEMBER 3RD Ayman al-Zawahiri, al-Qaeda's chief, released a video message in which he promised to "raise the flag of jihad" across South Asia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9月3日，基地组织首脑艾曼·扎瓦希里（Ayman al-Zawahiri）发布了一条视频消息，宣布将在南亚“升起圣战的旗帜”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many analysts responded with little more than a shrug. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多分析人士对此的回应只是耸耸肩而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The extremist group looks increasingly desperate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该极端组织看起来越来越歇斯底里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since Osama bin Laden was killed in 2011, al-Qaeda's impact has been limited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从2011年本·拉登（Osama bin Laden）被杀后，基地组织的影响力已变得十分有限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is overshadowed by the brutal Islamic State in Syria and Iraq, which draws volunteer fighters from a wide range of countries and has said that Afghanistan and Pakistan will be brought under its yoke too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的影响力已不如活跃在叙利亚和伊拉克的残暴极端组织“伊斯兰国”（Islamic States，以下简称IS），该组织在众多国家中招募志愿战士，声称阿富汗和巴基斯坦也将屈从于它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet the biggest reason for scepticism about al-Qaeda's threat is that neither it, nor the IS, are likely to get support from more than a tiny handful of Muslims in India.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，之所以怀疑基地组织的潜在威胁性，最大的原因在于，无论它或IS都不太可能从印度获得一定数量的穆斯林的支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>India's Muslims are numerous, but moderate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度穆斯林人数众多，但都很温和。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though barely 15% of the total, at some 180m they roughly number the same as Pakistan's entire population. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度穆斯林占其总人口数的15%，数量约为1.8亿，几乎相当于巴基斯坦总人口数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many are disaffected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人心怀不满。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the only Muslim-majority state, Kashmir, residents are embittered by years of heavy-handed rule by Indian security forces, and protests frequently erupt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克什米尔是唯一一个穆斯林占多数的地区，这里的居民多年来怨恨印度安全部队严厉的规则，抗议频频爆发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Occasional terrorist attacks take place in Indian cities, blamed on a home-grown group, the Indian Mujahideen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>归咎于土生土长的印度圣战者群体（the Indian Mujahideen），印度一些城市也偶有恐怖袭击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February 2013 a bomb attack in Hyderabad killed 16. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2013年2月，在海德拉巴（Hyderabad）爆发了炸弹袭击，16人因此丧生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But these attacks have been growing less frequent and less deadly, possibly because support from Pakistan has waned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，可能因为来自巴基斯坦的支持有所减弱，这些袭击已经越来越少，也越来越不具有致命性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bursts of deadly religious violence, when Muslims and Hindus clash, also take place, most notably last year near a northern town, Muzaffarnagar, when at least 40 people were killed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当穆斯林和印度教徒发生冲突时，也会爆发致命的宗教暴力事件，最显著的是去年发生在北方小镇穆扎法尔纳加尔（Muzaffarnagar）附近的袭击，导致了至少40人死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>India's Muslims generally have reasons for some gloom: they endure lower levels of education, income, political representation or government jobs than the majority Hindus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度的穆斯林通常有理由感到悲观：他们的受教育水平和收入水平，他们的政治代表权或政府工作机会都低于大多数印度教徒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet India's Muslims, almost across the board, have remained moderate, tolerant, quick to condemn religious violence and ready to engage members of other religions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，几乎遍布全国的穆斯林仍然温和、宽容，毫不迟疑地谴责宗教暴力，乐意与其他宗教成员融合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The contrast with the sectarian bloodletting, growing radicalism and deepening conservatism in Pakistan next door, for example, is striking.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，与邻国巴基斯坦的宗派流血事件、日益增长的激进主义和日益深化的保守主义相比，差别是惊人的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A combination of factors explains it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诸多因素的组合可以解释其中原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Islam in South Asia has a long history, over 1,000 years, but was long dominated by Sufis who integrated closely with non-Muslim Hindus, sharing many cultural practices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊斯兰教在南亚有着1000多年的悠久历史，但长期以来都受与印度教徒联系密切的苏菲派控制，与印度教徒共享许多文化习俗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Pakistan, decades of large-scale migration to the Gulf along with close political ties to Saudi Arabia saw harder forms of Sunni Islam adopted, notably the spread of Wahhabi and Deobandi mosques, madrassas and beliefs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在巴基斯坦，几十年来大规模迁徙到海湾地区的移民，以及与沙特阿拉伯密切的政治关系，都使得更强硬的伊斯兰教逊尼派教义在该国传播，尤其是瓦哈比派（Wahhabi）和迪欧班地派（Deobandi）清真寺、伊斯兰学校（madrassas）和教义的传播。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By contrast many Indian Muslim migrants to the Gulf, for example from Kerala, have proved less effective at reimporting harder-line forms of Islam on a large scale. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，海湾地区的许多印度穆斯林移民，例如来自喀拉拉邦的移民，则证明将更强硬的伊斯兰教派大规模传进印度不太有效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indian madrassas appear to be under more watchful eyes of the state. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度的伊斯兰学校似乎更多地受到国家警惕的监视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is crucial, too, that India-unlike Pakistan and many other countries with large Muslim populations -has long remained as a robust and lively democracy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至关重要的是：与巴基斯坦及其他有大量穆斯林人口的国家不同，印度长期以来都是强健、有活力的民主国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A secular constitution and the electoral clout of a sizeable minority helps give Muslims in India a stake in the political system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世俗宪法和大规模的少数民族在选举中的影响力有助于印度穆斯林取得政治地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many are also intensely proud to be Indian, even if a few support Pakistan's cricket team. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人还因自己是印度人有强烈的自豪感，即使一小部分人支持巴基斯坦板球队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Targeted government welfare schemes to assist "backward" Muslim groups may help too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府有针对性的协助“落后”穆斯林群体的福利计划也有帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The election this year of Hindu nationalist, Narendra Modi, as prime minister has not cheered Indian Muslims. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年大选中，印度教民族主义者纳伦德拉·莫迪（Narendra Modi）获胜，担任总理，印度穆斯林无法为之欢呼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his promise to treat the secular constitution as his "bible" helps to put a limit on anxiety. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他承诺把世俗的宪法作为他的“圣经”，这有助于缓解担忧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps as important, as Indian Muslims are widely dispersed around the country, they are in a small but not insignificant minority almost everywhere: that fact encourages both majority Hindus and Muslims mostly to rub along together, since extremism would prove disruptive for just about everyone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度穆斯林在全国各地广泛分散，几乎无处不在，尽管是少数民族，但影响力却不小，也许重要的是：由于极端主义将被证实几乎对每个人都有破坏性，这一事实促使广大印度教徒和穆斯林大多能勉强共处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such moderation is obviously a boon, and prevents more communal violence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种温和显然是个福音，且能防止更多的公共暴力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even troubled Kashmir has for the past three years seen relative calm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使问题重重的克什米尔地区在过去三年也相对平静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A handful of Indian recruits have reportedly joined up with IS in the Middle East but because they are from a population of 180m that hardly looks significant (more worrying are reports of several young men joining the IS from increasingly hardline, Sunni-Islam Maldives). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据报道，少数印度新兵在中东地区加入了IS，但这些人在1.8亿总人口中仅占一小部分，看起来并不明显（更令人担忧的是，有报道称，越来越强硬的马尔代夫伊斯兰教逊尼派中有许多年轻人正在加入IS）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet moderation today is not a guarantee that extremism will not arise tomorrow in India. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，今天的温和并不能保证将来印度就不会出现极端主义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One additional reason at times given for India's Muslims remaining moderate is that literacy rates and incomes have been low, leaving them relatively isolated from those global forces-such as jihadist websites and news of atrocities against Muslims in the Middle East¡ªthat help to spread rage elsewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个印度穆斯林仍保持温和的原因是，他们的识字率和收入水平都很低，使得他们与那些全球性力量相对隔绝——比如圣战主义的网站、中东反穆斯林暴行的新闻报道。而在其他地方，正是这些力量在帮助扩散暴行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rising literacy, an ever-more urban population and growing wealth and information may yet encourage more extremist factions to emerge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>识字率的提高，城市人口的持续增加，财富和信息的增长可能都会鼓励更多极端主义派别的出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Large migration flows to the Gulf might yet help to bring back more conservative Islamic beliefs and funds for Wahhabi mosques and madrassas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大量移民流入海湾地区可能还有助于带回支持瓦哈比清真寺和伊斯兰学校的更保守的伊斯兰教义和资金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, if Hindu nationalists in power were to grow heavy- handed, a backlash and a rise in extremism are easy to imagine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，如果有权势的印度教民族主义者变得更残暴，极端主义的反弹和增加是很容易想象的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stability in India is a remarkable achievement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度的稳定性是一项了不起的成就。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With luck, zealots and murderers such as al-Zawahiri will therefore fail in their desperate ambitions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸运的是，诸如扎瓦希里这样的狂热分子和杀人犯最终会因他们不顾一切的野心而失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But preserving stability will be a task for everyone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，维持稳定将是每个人的任务。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

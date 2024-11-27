@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T152106Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whip Up A Super-Chic DIY Pom Pom Necklace </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>创意手工：超靓绒绒球项链</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alright, we're about to really flex our DIY muscles, here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是时候摩拳擦掌活动一下手指了，姑娘们看这里！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We recently spotted this killer Tory Burch pom-pom necklace in a magazine, only to find out that it isn't yet available--sad face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近我们在杂志上看到了这款秒杀我们双眼的，由托里 伯奇设计的绒绒球项链——悲催的是还没上市销售。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But instead of sulking over something we couldn't have, we put our gears in motion to figure out how to make it ours. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，与其为了一件得不到的东西生闷气，不如开动脑筋自己做一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, while we're not sure how much the original would have cost us, we're willing to bet that ours is, in fact, way, way cheaper, and just as nice. Sure, those little balls of color might look complicated, but trust us -- if you've been able to master our other DIY projects, then this one will be a breeze. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管我们不确定这款经典之作究竟多少钱，但我们得意地向你承诺，自己做的不但和原作一样漂亮，而且便宜大大地！当然，那些五颜六色的小球看上去很复杂，但请相信我们——如果你能轻松掌握我们之前推出的DIY方法，那么这也将是小事一桩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's what you'll need: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>材料清单：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seed beads in a variety of colors -- we used yellow, orange, and red.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.各色米珠——黄色，橙色，红色</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Embroidery floss in a variety of colors -- we used orange, yellow, green, blue, and red</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.各色松捻刺绣绒线（十字绣用线，毛线皆可）——橙色，黄色，绿色，蓝色，红色</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Large brass endcaps</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.大号黄铜帽</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Small brass endcaps</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4.小号黄铜帽</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brass jump rings</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5.黄铜吊环</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brass lobser-claw clasp</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6.黄铜龙虾扣</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needle-nose pliers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7.尖嘴钳</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Super glue</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8.万能胶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A butter knife</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9.抹黄油的餐刀</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A pair of scissors</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>10.剪刀</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>White cotton cord, available at home improvement stores </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>11.棉绳（在家居装饰商店有卖）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 1 -- Take one of the large endcaps and put a dab of super glue on the inside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤1——取一个大号黄铜帽，在内部滴入少量万能胶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 2 -- Grab a jump ring with the needle nose pliers and insert it into the brass endcap, so that it sticks into the super glue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤2——用尖嘴钳夹取一枚黄铜吊环，粘在刚才涂抹万能胶的黄铜帽内部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 3 -- The jump ring should be standing up inside the endcap, so that you can later thread embroidery floss through it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤3——吊环应垂直立在黄铜帽内部，以便之后绒线的穿过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 4 -- Take one color of embroidery floss and begin to wrap it around the blade of a butter knife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤4——选取一种颜色的绒线，缠绕在黄油餐刀上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure to hold on to the lose end so that it doesn't unravel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>捏紧线头，不要散开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 5 -- Wrap the first color of embroidery floss around the knife a few times, and then cut it off from the bundle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤5——将第一种颜色的绒线在餐刀上缠几圈，然后从线轴上断开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Begin to wrap a new color of floss around the knife, holding both loose ends together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后开始缠另一种颜色的线，同时捏住两条线头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note that you don't have to be neat and orderly with the colors when wrapping them, but you do ultimately want a small bundle of floss that's about 1/2-inch wide or slightly smaller.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然缠的时候各色绒线不一定整齐又有规律，但是你最终得到的那捆绒线需保证半英寸宽或稍小一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 6 -- Repeat step five for the remaining colors of floss, until you have wrapped all of them around the knife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤6——重复步骤5，将剩余颜色的线都缠在餐刀上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feel free to repeat colors to make your bundle thicker, resulting in a fuller pom-pom.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同一颜色的线可以重复使用，这样最后的绒球会更饱满。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 7 -- Snip snip!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤7——剪断线头！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 8 -- Cut a piece of floss about 5-inches long.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤8——剪下一段五英寸长的绒线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 9 -- Carefully slide the bundle of floss off of the knife, being very careful to not squish or unravel it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤9——小心地从餐刀上取下缠好的绒线，注意不要压扁或散开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 10 -- Take the piece of floss you cut in step 7 and tie it around the middle of the bundle. You should have two closed loops of floss on either side -- it should sort of look like an "8".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤10——将刚才剪下的长绒线绑在绒线捆的中间，紧紧地缠两圈，完成后样子像一个“8”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 11 -- Using a pair of scissors, cut through the loops in the bundle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤11——用剪子剪开绒线捆的线圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 12 -- Carefully fluff out the floss fibers, making sure to not pull them out of the bundle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤12——轻轻抖开绒线捆的绒线，不要把绒线拽出线圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fluff the fibers outwards and start shaping the bundle into a round shape.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后用手修整成圆球状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 13 -- Take the scissors and begin to trim the tips of the floss, until you have a ball that's round and dense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤13——用剪子修边，知道你得到一个圆实饱满的绒球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do not cut off the longer piece of floss from step 7.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意不要剪断步骤7时预留的长绒线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 14 -- Repeat steps 4-13 seven more times, to make eight pom-poms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤14——再重复步骤4——13七次，制作出八个绒线球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feel free to make them slightly different sizes, but none of them should be more than an inch in diameter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大小不一也可，但绒球直径不能小于一英寸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 15 -- Cut four pieces of embroidery floss, about 6-inches long.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤15——剪下四根六英寸长的绒线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 16 -- Thread one piece of embroidery floss at a time through the jump ring in the endcap from step 3. Repeat until all four pieces of floss are threaded through.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤16——将一根绒线穿过铜吊环，重复此操作，直到四根绒线都穿过吊环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 17 -- Tie the four pieces of floss into a knot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤17——将四根绒线打结。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 18 -- You should now have eight pieces of floss hanging from the jump ring.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤18——现在你应该得到八根拴在吊环上的绒线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 19 -- Take one of the eight strands of floss and begin to thread a series of seven seed beads onto it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤19——取其中一根绒线，在上面穿上七粒米珠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We used three red, two orange, and two yellow beads.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三粒红色，橙色黄色米珠各两粒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 20 -- Take one of your pom-pons and tie the two long, lose threads onto the thread you just beaded in step 18. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤20——取一个绒球，将预留的两条绒线系在刚才穿米珠的绒线上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure your knot is secure and the pom-pom does not slide off.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一定要绑牢，否则绒球会脱落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 21 -- Cut off any excess threads.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤21——剪掉多余的线头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 22 -- Repeat steps 18-20 for the remaining pom-poms with varying lengths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤22——重复步骤18——20,，以同样长度绑好余下的绒线球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you're finished, use the pliers to attach a jump ring to the top of the endcap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>完成之后，用镊子将吊环安装在铜帽顶端。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 23 -- Cut a piece of cotton cord about 1 1/2-2 feet long, depending on how long or short you want the finished necklace to be.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤23——剪下一段1.5——2英尺长的棉线，长度取决于最后你需要的项链长度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 24 -- Take a small endcap and put a dab of super glue on the inside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤24——取一个小号铜帽，在其内部滴入一些万能胶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 25 -- Stick one end of the cotton cord into the endcap and push it down, so it adheres to the glue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤25——将棉线的一段粘在铜帽里，按实固定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Repeat with the other side of the cotton cord. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一端同理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you added too much glue and it spills out onto your fingers, don't freak out! Simply soak a cotton ball with acetone nail polish remover and rub over the glue on your skin to remove it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你抹的万能胶太多而粘到了手上，不要害怕，用棉花蘸取丙酮卸甲油擦拭去除。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 26 -- Open the jump ring on top of the endcap with all of your pom-poms, and slip the cotton cord inside. Close the jump ring.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤26——打开铜帽上的吊环，将绒球穿进棉绳，再合闭吊环。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 27 -- Using the pliers, squeeze the jump ring so that it flattens and doesn't slide feely around the cotton cord.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤27——用尖嘴钳夹扁吊环，这样绒球就不会在棉绳上滑动了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 28 -- Repeat steps 25 and 26 to attach the remaining two sets of pom-poms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤28——重复步骤25、26将剩下几个绒球固定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Attach a jump ring to one of the endcaps attached to the cotton cord. Attach a jump ring, and then a lobster-claw clasp to the other endcap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在棉绳一端的铜帽上安装吊环，另外一端安装龙爪扣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're done! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你成功了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take your colorful little necklace out for a spin, and be sure to let everyone know that yes, you made this.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴上你亲手制作的项链，向每个人炫耀吧，你成功了！</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

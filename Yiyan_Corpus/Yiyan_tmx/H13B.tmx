@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200419T080315Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're excited to announce the availability of ReadWriteWeb's Q2 2009 VC Funding Report, our second premium report powered by data from ChubbyBrain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们很高兴宣布推出读写网2009年第二季度VC（风险投资商）投资报告，它得到了ChubbyBrain的数据支持，是我们的第二份超值报告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have been tracking early-stage investment in Internet, mobile and SaaS since the financial crisis in September 2008 and we believe that this report is unlike anything else you've seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从2008年9月的金融危机以来，我们就在追踪互联网、手机和SaaS（软件在线服务）的早期投资状况，因此我们认为这份报告有它的独到之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Investors, bankers and advisers involved in the funding of digital innovation will get the facts on the deal-by-deal basis that they need to make decisions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告对案例进行了逐个分析，参与数码创新领域注资的投资者、银行家和顾问可从中了解到应该怎样做出决策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our Report gives you the facts on 240 deals closed in April, May and June - who invested, in what company, how much they invested and when. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告中阐述了在四、五、六三个月完成的240笔交易——投资者是谁、投资给什么公司、投资额为多少，以及投资时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Read on to see what's included in the guide and how to purchase it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来，本文会告诉你报告中的内容和购买方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How to Purchase the Report</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何购买报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Guide is available for purchase at a price of $299 from this page. (You won't be charged until you complete a few simple steps on that page.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告的购买价格为299美元，点击此处购买（完成几个简单步骤后，系统才会进入收费页面）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compared to other reports, or internal time spent tracking the market, you get a whole lot for your money here.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比起其他报告或是自己花时间追踪市场动向的话，购买我们的报告绝对物超所值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What The Report Includes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告内容</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The research team at ChubbyBrain extracted the raw deal-by-deal data (240 deals in this quarter) from a wide variety of sources (e.g. regulatory filings, press releases, etc.) and through direct conversations with investors and startups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ChubbyBrain的研究团队从多个信息来源（管理机构的档案文件、新闻报道等）以及投资者和创业公司的对话中提取了每个交易的数据（本季度有240起交易）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ReadWriteWeb then analyzed the data based on our understanding of early-stage Web technology innovation, so you can see the trends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>读写网根据对早期网络技术创新的认识对这些数据进行分析，将行业的发展趋势展现在读者面前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We start out with the basics. You get to see this detail on all 240 deals - the company, the investors, the date, the amount. Our Deal Tombstones have it all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们从最基本的起步，读者可以从公司、投资者、时间、投资额四个方面的细节来检视这240起交易，这些都包括在Deal Tombstone部分里。</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="x-olf-flag">1</prop>
+<tuv xml:lang="EN-US">
+<seg>We believe that's an unusually low price for an incredible amount of business value. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们认为对于一份含有如此多商业信息的报告来说，它的价格确实是很低了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

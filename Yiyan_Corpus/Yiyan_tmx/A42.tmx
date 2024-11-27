@@ -1,0 +1,932 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T114036Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>STRANGE BUT TRUE
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥运马拉松史上的九大怪事
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sure, the Olympic Marathon produces great champions but also bizarrely weird moments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毋庸置疑，奥运马拉松赛场涌现了许多伟大的冠军，但也出现了许多千奇百怪的事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here are nine that still astound us.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面是九个至今提起仍令人震惊的真实事件。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each edition of the Olympic games presents astonishing, if often expected, athletic feats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一届奥运会都会出现一些令人惊奇的体育壮举，虽然多数都在人们预料之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think the '92 dream team thumping all-comers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如92年梦之队的全胜战绩。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or Michael Johnson blitzing his way to world records in '96 in golden spikes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或是1996年迈克尔・约翰逊[i]风驰电掣地在“金钉子”[ii]挑战赛中连破世界纪录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But usually the most memorable moments are the ones that happen unpredictably, leaving spectators laughing, crying, or totally unprepared to react at all.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但通常，最令人难忘的还是那些完全出人意料，突然间令观众大喜大悲或者呆若木鸡的情形。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Olympic Marathon often features the great, the awful, and the you've-got-to-be-kidding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥运会马拉松比赛中有伟大的选手，有可怕的意外，还有让人难以置信的怪事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, it is the longest, most arduous, and most historic of the Games' events—the perfect stage for wondrous victories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，这是奥运会比赛中耗时最长，最枯燥也最有历史意义的项目，因而也是上演奇迹般胜利的绝佳舞台。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is also the most public event — run on city streets, not inside a pricey, high-security stadium?so strange stuff can happen, and often does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它还是最贴近公众的项目，选手们在城市街道上奔跑，而不是在造假不菲，保卫周全的体育场里――所以才有机会发生，也确确实实发生了各种怪事。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've been studying the Olympics, attending the Games, and interviewing its Marathon champions for nearly a half-century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近五十年来，我一直研究奥运会，不光亲临赛场观看，还采访奥运马拉松冠军。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This summer I'll be in London covering the next installment, waiting to witness the latest in glory?and ignominy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年夏天，我也会到伦敦采访本届的比赛，期待着亲眼见证最新的光荣――以及丑行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To get ready, I've compiled my list of the oddest moments in Olympic Marathon history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为功课，我汇集了一张奥运马拉松史上最古怪事件的清单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Enjoy these unforgettable memories.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>敬请品读这些难忘的记忆。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1908, London: Supporting  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1908年，伦敦奥运会：配角插手
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cast Due to its grueling nature, the Olympic Mara-thon often produces scenes dramatic enough to warrant exploration in literature and song. This was never truer than in 1908—all thanks to a diminutive Italian runner who didn't even win the race.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为比赛的艰苦艰苦卓绝，奥运会马拉松常常会发生一些足以谱成诗篇或歌曲传唱的戏剧性场面，尤其是对1908年奥运会来说，这都缘于一位没能赢得比赛的小个子意大利选手。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dorando
+Pietri was first into the Olympic Stadium, but so sapped by the distance (this was the first-ever marathon of 26 miles, 385 yards; previously races had been roughly 25 miles) and warm weather that he wobbled the wrong way on the track, then collapsed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>道多兰多-佩特里（Dorando  Pietri）是第一个跑进奥林匹克体育场的，但是超长的距离（这届奥运会上马拉松距离首次改为26英里385码，即42.195公里，此前几届的马拉松距离只有大约25英里，约40公里）和温热的天气让他精疲力竭，跌跌撞撞的跑上了相反的方向，并体力不支倒地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rising, he staggered a few steps, then collapsed again and again while spectators looked on with a mix of horror and fascination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他站起来，蹒跚几步，再次跌倒，又爬起来，又一次跌倒。观众们担忧而又崇敬地注视着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trackside officials came to Pietri's aid, and eventually half-carried his limp body across the finish line. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自作主张的赛道官员帮了佩特里一把，搀扶着虚弱的他越过了终点线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>American Johnny Hayes finished a short time thereafter, but the Italian flag had already been raised up the victory pole. After an official American complaint, Pietri was rightfully disqualified.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国选手约翰尼·海耶斯紧随其后冲过终点，但是代表胜利者的旗杆上已经升起了意大利国旗，美国队提出正式抗议，结果佩特里因为在外力帮助下完成比赛而被取消成绩。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was not dishonored, however. Indeed, many viewed him as a heroic figure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他并未因此蒙羞，反而被很多人视为英雄一般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sir Arthur Conan Doyle (of Sherlock Holmes fame) was close at hand for the chaotic finish, later writing, "No Roman of prime has ever borne himself better. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在围观佩特里冲线的混乱人群中，因写作福尔摩斯而闻名的亚瑟·柯南道尔爵士就近在咫尺，他后来写道：“高尚的罗马人中，品德无人出其右；伟大的血脉传承不衰。”不久之后纽约市的演出筹办者们开始上演大手大受欢迎的《重赛》，讲述的是佩特里对阵海耶斯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The great breed is not yet extinct." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Months later promoters in New York City began staging wildly popular Pietri vs. Hayes "rematches." And composer Irving Berlin wrote a song, presumably the worst of his career, called "Dorando." It included this line: "He run-a, run-a, run-a like anything."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作曲家欧文·柏林（Irving Berlin）谱写了名为《道多兰多》的歌曲，这估计是他职业生涯中最差的作品，里面有这么一句歌词：“他跑啊――跑啊――跑啊，跑得跟什么似的。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her Royal Kindness! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>王后殿下慈悲！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Illegal aid cost Pietri gold, but his sportsmanship earned him a trophy from Queen Alexandra.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>违规的搀扶让佩特里丢掉了金牌，而亚历山德拉王后[vi]却为了表彰其体育精神，颁给了他一座奖杯。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1952, Helsinki: Triple Threat</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1952年，赫尔辛基奥运会：帽子戏法</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the 1952 helsinki olympics drew to a close, Czech-oslovakia's Emil Zatopek, 29, had already won the 5000 meters and 10,000 meters, setting new Olympic records in both. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 1952年赫尔辛基奥运会闭幕在即，捷克斯洛伐克选手，29岁的艾米尔?扎托贝克[vii]已经赢得了5000米跑和10000米跑的金牌，并分别打破了这两个项目的奥运会纪录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could have rested on his substantial laurels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>取得如此辉煌的成就，他完全可以头戴桂冠休息一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he chose to enter an event he had never run before the marathon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而他却选择参加他从没跑过的马拉松比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There he faced England's tough-as-nails Jim Peters, who had recently lowered the world record from 2:25:39 to 2:20:43.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在比赛中他碰到了来自英格兰的强劲对手，吉姆?彼得斯[viii]，后者刚刚把世界纪录[ix]从2小时25分39秒刷新为2小时20分43秒。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hoping to shake his unexpected new foe, Peters started at a crazy fast pace, especially given the warm weather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寄希望于动摇这位不期而遇的对手的斗志，彼得斯一开始就以近乎疯狂的高速度奔跑，尤其是考虑到当时温热的天气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zatopek followed on his heels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>扎托贝克一直紧跟着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just before halfway, Zatopek turned to Peters and asked, in perfect, formal English: "Excuse me, but the pace?is it fast enough?" Not to be outdone, Peters answered, "No, too slow," so Zatopek accelerated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在快到半程的时候，扎托贝克转向彼得斯，用十分标准，十分正式的英语问道：“请原谅，不过这个速度，够快吗？”彼得斯毫不示弱的说：“不够，太慢了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peters couldn't keep up and eventually dropped out near the 20-mile mark.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是扎托贝克开始加速，彼得斯无法跟上他的步伐，最终在20英里（约32公里）处退出比赛。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By that time Zatopek was alone and well ahead of the field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而此时扎托贝克一人遥遥领先。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before a capacity crowd in the Olympic Stadium, the new marathoner broke the tape in 2:23:03?his third Olympic record in three races at the Helsinki Games. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在奥林匹克体育场内万众瞩目下，这位马拉松新手以2小时23分3秒的成绩冲破了终点线――这是他在赫尔辛基奥运会上打破的第三个奥运会纪录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one before or since has matched his triple-gold performance in the 5000 meters, 10,000 meters, and marathon.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在一届奥运会上同时获得5000米，10000米和马拉松三枚金牌的成就，旷古绝今。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What An Entrance! The massive Finnish Crowd gave Zatopek "a frenzied roar of adulation," The New York Times said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多么风光的入场！大批的芬兰观众对扎托贝克报以“近乎奉承的狂热的山呼海啸”，《纽约时报》如此报道说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1960, Rome: Shoeless Wonder  The Italian organizers of the Rome Olympic Marathon expected their event to make history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1960年，罗马奥运会：赤脚大仙
+主办罗马奥运会的意大利人希望他们的奥运会能够创造历史。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the first Marathon that neither started nor finished in the Olympic Stadium, instead offering a tour of the ancient city's famous historical sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是奥运马拉松第一次没把起点和终点设在奥运体育场内，而是经过一系列名胜古迹，实际上是一条观光路线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As an added flourish, they started the race in early evening, guaranteeing that the runners would conclude by the flickering glow of a thousand torches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们还别出心裁的把开赛时间定在傍晚，以确保选手们在成千上万火炬的照耀下完成比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the organizers never imagined the winner would run barefoot, that he would be from Africa, and that his triumph would mark a turning point in the evolution of worldwide distance running. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是组织者们绝对没想到冠军会是赤脚比赛的，也没想到他来自非洲，而他的胜利标志着世界长跑运动发展的转折点。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one had ever heard of 28-year-old Abebe Bikila before the race, and at the start the Ethiopian drew snickers: He wasn't wearing shoes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这场比赛之前，没人听说过28岁的阿贝贝?贝基拉[x]，在起跑线上，这位埃塞俄比亚选手引得人们纷纷窃笑：他没有穿鞋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given that some of the final miles would be run over the cobblestoned Appian Way, his approach seemed suicidal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赛程的最后几英里是鹅卵石路面，他这么做似乎与自杀无异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bikila paid no heed. He ran an easy 5-K, was with the leaders at 10-K, and went to the front with Moroccan Rhadi Ben Abdesselam at 20-K.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝基拉却毫不在意，他前5公里跑的很轻松，在10公里时处在领先集团中，而到20公里处就和摩洛哥选手拉迪?本?阿布德萨勒姆（Rhadi Ben Abdesselam）遥遥领先。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> The two ran the rest of the way side by side until Bikila, with a seemingly effortless glide, surged ahead in the last mile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两人在余下的赛段一直并驾齐驱，在最后一英里时，贝基拉加速冲上前去，似乎只是徒劳的一搏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He made his move as he passed the obelisk of Axum, an Ethiopian relic plundered by Italy and moved to Rome. (It was returned to Ethiopia in 2008.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是在经过阿克苏姆[xi]方尖碑时开始加速的，那是一处被意大利人掠夺并带到罗马的埃塞俄比亚古迹（2008年，这座方尖碑被归还给埃塞俄比亚）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bikila's time, 2:15:17, was not just an Olympic record, but a new world record. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝基拉的成绩是2小时15分钟17秒，不仅打破了奥运纪录，更是一项新的世界纪录。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foot Soldier Bikila, who followed his barefoot win with more gold in 1964, was a guard to Ethiopian Emperor Haile Selassie.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步兵贝基拉，随后在1964年东京奥运会再次夺得金牌，他还是是埃塞俄比亚皇帝海尔?塞拉西一世（Haile Selassie）的卫兵。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1968, Mexico City: Last, Not Least </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1968年，墨西哥城奥运会：最后但绝非最差</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most runners enter the Olympic Marathon with dreams of glory. Of course, only three can win medals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 多数参加奥运马拉松比赛的选手都是为了获得荣耀，当然，只有三个人能获得奖牌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And some poor soul must finish last. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而总会有一个最后跑完的可怜人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1968, that was Tanzanian John Stephen Akhwari. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1968年的这个人就是坦桑尼亚选手约翰?史蒂芬?阿赫瓦里（John Stephen Akhwari）。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An hour after Ethiopia's Mamo Wolde had claimed the gold medal in 2:20:26, and with only a few thousand athletes, fans, and officials remaining in a darkening Olympic Stadium, a runner came through the tunnel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在埃塞俄比亚选手莫莫·沃尔德（Mamo Wolde）以2小时20分钟26秒的成绩摘得金牌的一小时后，几千在夜幕笼罩的奥运体育场上等待的运动员、观众和官员们的注视下，一位选手穿过隧道跑进场内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was Akhwari. He had fallen heavily at some point, and badly injured his right knee. Medics urged him to quit, but he would not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他就是阿赫瓦里，在赛道的某处重重地摔倒并伤到了右膝后，虽然医务人员劝告他退赛，但是他不同意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Akhwari approached the track, he broke into a halting, painful jog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿赫瓦里慢慢接近了跑道，强忍着痛苦，步履蹒跚地慢跑前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He received a smattering of applause, and then more, and then, as he continued gamely around the track, a wild crescendo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>掌声响起来了，并且随着他在跑道上缓步绕行，变得愈发强烈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was not the Olympic champion, the onlookers seemed to be saying; this was the Olympic spirit incarnate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是奥运会冠军，这是奥林匹克精神的化身，观众们似乎表达出了这样的心声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Akhwari finished in 3:25:27 more than 19 minutes behind the previous runner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿赫瓦里以3小时25分钟27秒的成绩完成比赛，比前面一名选手慢了19分钟。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, when asked why he refused to drop out, given his severe injuries, Akhwari said, "My country did not send me 11,000 kilometers to start the Olympic Marathon. They sent me here to finish it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来，被问到在伤势如此严重的情况下为何还拒绝退赛的时候，阿赫瓦里答道：“我的祖国把我从一万多公里以外送到这里，不是让我开始比赛，而是让我完成比赛的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Burning Bright! 40 years after his last-place run, Akhwari took part in the torch run prior to the Beijing Games.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>火焰般的光辉！在他最后一名跑完比赛的40年后，阿赫瓦里参加了北京奥运会开幕前的火炬传递（上图）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1972, Munich: The Case of the Masquerading Marathoner </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1972年，慕尼黑奥运会：滥竽充数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The victory lap is a tradition for Olympic champions—a postrace, wave-to-the-crowd celebration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 对于奥运冠军来说，赛后绕场一周庆祝胜利，向观众招手致意，这是一种传统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marathoners, however, use a different tack when taking a bow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而马拉松运动员的谢幕式采取的是另一种方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you've built a comfortable lead coming into the Olympic Stadium, you can relax and enjoy your victory even before reaching the finish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遥遥领先的选手跑进主场馆后，终于可以稍微放松一下，在终点前的最后一段提前享受胜利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's what American Frank Shorter was expecting to do at the end of his runaway win in Munich.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国运动员弗兰克`肖特（Frank Shorter）[xii]在慕尼黑主体育场赛道终点前正式如此期待的。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Racing in muggy conditions, Shorter totally outclassed the field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当天天气闷热潮湿，肖特完全把大部队甩在了后面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He surged hard and early to build a late-race lead of more than two minutes over such marathon titans as world record holder Derek Clayton, British star Ron Hill, and defending Olympic champ Mamo Wolde.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很早就开始拼命加速，后程时已经比一众马拉松巨人领先两分钟以上，被他甩开的包括世界纪录保持者德雷克·克莱顿（Derek Clayton）[xiii]，英国巨星罗恩?希尔（Ron Hill）[xiv]以及卫冕冠军莫莫·沃尔德。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shorter (left), 24 and born in Munich, looked forward to an appreciative greeting in the stadium. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肖特（左图）24岁，就在慕尼黑出生，他盼望着能在体育场里收到热烈的欢迎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he was met by boos and angry whistling as he circled the oval. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当他沿椭圆赛道绕场时，听到的却是嘘声和愤怒的哨声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unbeknownst to him, a complete impostor had bolted onto the track a half lap ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还不知道，有个完全假冒的“选手”在他之前跑进了体育场，只比他早半圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's who the spectators were booing, but Shorter didn't realize this at first. He thought: Geez, I know I'm an American in Europe, but give me a break. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>观众们嘘声的对象正是那个人，而肖特却一下没明白过来，暗自想道：老天啊，就算美国人在欧洲不受欢迎，好歹让我喘口气吧。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surprised but undeterred, Shorter completed his seemingly effortless lap of the stadium to cross the line in 2:12:20, just eight seconds shy of the Olympic record. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃了一惊的肖特并没有被吓到，他跑完了体育场里似乎不太讨好的一圈，以2小时12分钟20秒的成绩撞线，仅仅比奥运会纪录慢了8秒钟。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who's he? Shorter entered the stadium to boos. Only later did he learn they were for an imposter, Norbert Sudhaus.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是谁啊？肖特跑进了充斥着嘘声的体育场，后来才知道这针对的是一个假冒运动员，诺伯特?苏豪斯（Nobert Sudhaus）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1984, Los Angeles: Simply Staggering  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1984年，洛杉矶奥运会：步履蹒跚
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the 1928 Amsterdam summer games, Olympic officials permitted women to try the 800-meter distance for the first time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1928年阿姆斯特丹夏季奥运会上，奥运官员首次允许女性尝试800米跑比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The result was a disaster. Competing on a warm day, several of the women collapsed after finishing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果是一场灾难，比赛当天天气温热，数名女子在完成比赛后昏倒在地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sight so disgusted Olympic decision-makers that they didn't allow women to run the 800 again until 1960. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时场面不堪入目，结果奥运决策层从此禁止女性参加800米跑，直到1960年才解禁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good thing these same (male) officials didn't see the end of the first Olympic Women's Marathon in 1984.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还好这些（男性）官员们没能见到1984年奥运会上的首次女子马拉松比赛的结果。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Twenty minutes after Joan Benoit Samuelson won the historic gold medal, Gabriele Andersen Schiess lurched into the L.A. Coliseum in a frightful re-creation of the Dorando Pietri finish of 1908. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔恩Benoit萨缪尔森夺得这枚历史性金牌的二十分钟后，卡布利约拉-安德生-希斯（Gabriele Andersen Schiess）跌跌撞撞的跑进洛杉矶竞技场，她的表现有些可怕，像是1908年的道尔兰多·佩特里那一幕的重演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Listing badly to her left, and staggering over four lanes of the track, the Swiss-born ski instructor from Idaho took more than five minutes to complete the final 400 meters, as a worldwide TV audience looked on in horror. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她身体向左歪的厉害，在四条赛道上摇摇晃晃的前进。在全世界电视观众的担惊受怕的注视下，这位瑞士出生，来自爱达荷州的滑雪教练用了5分多钟才走完最后的400米。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Medical personnel observed her closely, but decided not to assist her, as that would have meant a disqualification. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医务人员靠近观察她的状态，但决定不去帮助她，因为外界帮助会导致取消比赛资格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andersen Schiess eventually got to the finish under her own power, and without ever collapsing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安德森·希斯最终靠自己的力量到达终点，一次也没有倒下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She placed 37th in 2:48:45. (Eight months earlier, she had won the first California International Marathon in 2:33:25.) Many watching feared for Andersen Schiess's health. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她以2小时48分45秒名列37位（八个月后，她赢得了第一届加利福尼亚国际马拉松，成绩是2小时33分钟25秒）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not an issue. Doctors released her shortly after her finish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多观众都为安德森?希斯的身体健康而担心，这丝毫不是问题，她完赛后不久，医生们就允许她出院了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A week later she ran a local race in Idaho.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一周后她参加了爱达荷州的一个当地比赛。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bend, But Not Break! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>硬撑着绝不倒下！安德森?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andersen Schiess listed and limped over the final lap, but did not collapse until after finishing.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希斯歪歪斜斜，一瘸一拐的走完了最后一圈，到达终点后才终于倒下。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2004, Athens: Collision Course </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2004，雅典奥运会：半路冲撞</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 2004 Athens Olympic Marathon should have been a celebration — a return of the Olympics to Athens for the first time since the 1896 Games, which concluded with the first-ever marathon footrace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2004年雅典奥运会的马拉松比赛本该是庆祝1896年以来奥运首次回归雅典的盛典，正是1896年在雅典举行了有史以来第一次马拉松赛跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the runners entered in the 2004 marathon faced their event with some trepidation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，参赛的选手们对2004年的马拉松比赛都谈之色变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were worried about the tough, mostly uphill course. And they absolutely dreaded the fierce heat of Athens in August. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们因为赛道的艰难，多爬坡而发愁，对八月雅典高温望而却步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That said, no one gave a thought to deranged spectators?until they hit the 22-mile mark. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面对如此多的不利因素，选手们谁也没想到还要提防精神失常的观众――直到他们来到22英里标志处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's where a 57-year-old defrocked Irish priest wearing a red kilt and green knee socks blazed across the street and shoved race leader Vanderlei de Lima into the crowd. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里，一位57岁，被解除教职的爱尔兰牧师穿着红色苏格兰裙和绿色中筒袜，突然发作横冲过街道把处于领先的范德雷?德?利马[xv]撞到了人群中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took de Lima, of Brazil, 15 seconds to free himself and return to action. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自巴西的德?利马花了十五秒才摆脱纠缠回到赛道上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too late. The damage was done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是已经晚了，负面影响已经发生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The attack really surprised me," he said later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“突如其来的袭击吓了我一条，”他后来说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He did not injure me, but he broke my rhythm and I lost my concentration." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他并没伤到我，但是打乱了我的节奏，让我无法集中精力比赛。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the last several miles, de Lima was passed by eventual winner Stefano Baldini of Italy and American Meb Keflezighi. Still, he ran strong enough to place third and gain the day's biggest finish-line reception. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德·利马在最后几英里被后来夺冠的意大利选手斯特凡诺-巴尔迪尼（Stefano Baldini）和美国选手梅布・凯夫莱齐吉(Meb Keflezighi)超越。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>De Lima never ran another world-class marathon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德·利马再也没参加过其它世界级马拉松比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His attacker, Cornelius Horan, was given a 12-month suspended sentence and a fine of 2,000 British pounds.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>袭击他的康奈利?霍兰（Cornelius Horan）被判12个月监禁的缓刑，并处以2000英镑的罚金。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No Pushover! His gold-medal dreams shattered by a deranged spectator, de Lima was cited later for his exceptional sportsmanship.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝不会被轻易击倒！德?利马的金牌梦被发狂的观众打碎了，后来他因为非同一般的体育精神而受到表彰。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2004, Athens: Greek Tragedy  According to legend, Pheidippides died after completing the run from Marathon to Athens in 490 BC. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2004年，雅典奥运会：希腊悲剧  根据传说，公元前490年斐迪庇第斯[xvi]跑步从马拉松抵达雅典之后倒地身亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 2004 Athens Olympic Marathon, England's Paula Radcliffe's mojo met a similar fate.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元2004年雅典奥运会马拉松比赛上，英国选手保拉?拉德克里夫[xvii]的好运也是如此。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Radcliffe, 30, ranked among the most heavily favored runners in Olympic history. The year before, she had run an astonishing world record, 2:15:25, in the London Marathon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>30岁的拉德克里夫，是奥运史上最受瞩目的长跑选手之一，2003年，她在伦敦马拉松赛创造了震惊世界的新纪录，2小时15分钟25秒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But on this day something went terribly wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在这一天，她的状态变得非常糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe it was the 95-degree temperature, or the long, grindingly uphill course, or simply the intense pressure. Radcliffe ran with the leaders through the halfway point, but couldn't match eventual winner Mizuki Noguchi of Japan on the toughest stretch of hills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许是因为摄氏35度的高温，或者难以忍受漫长的爬坡，或者只是因为压力太大，拉德克里夫跟随领先选手经过了半程点，但是在最艰苦的漫长山路上没能超越最终获胜的日本人野口水木[xviii]。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T032722Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hotel Melancholia</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忧郁饭店</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a period in my life when I spent a lot of time in hotel rooms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在生命中曾有一段时间，有很多时间是在酒店客房里头过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was normal to skit from Shanghai to Dublin via Vilnius and Rome in a month, and then begin the loop all over again: Athens, Novosibirsk, Kuala Lumpur. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在一个月之内从上海出发，通过维尔纽斯和罗马，抵达都柏林，然后又前往雅典、新西伯利亚、吉隆坡，是很平常的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I travelled alone to these cities and when I got there I was required to stand on stages, sit on panels and talk endlessly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我单独旅行到这些城市，而一到达的时候，就必须站在台上，参与专门小组，不停地说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of each jet-lagged and scrambled day, I would go back to my hotel room where sometimes the mini-bar was stocked, sometimes not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在历经时差、匆匆忙忙的一天结束之后，我就会回到我的酒店客房，里头的小冰箱有时装满饮料，有时空无一物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The aircon would rattle, or not work, or be set too high or low with a fixed dial, and I would attempt to relax on an oversized bed with stiff pillows, listening to the TV from next door or to strangers whispering in the corridor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷气或许会发出嘎嘎声，或者完全无法操作，或者利用固定表盘调得太高或太低，而我会试着在太大的床和硬枕头上放松，听着隔壁的电视或者走廊里的陌生人窃窃私语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I lived in a hotel in Moscow called the Cricket for a month. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾在莫斯科的一座名叫“蟋蟀”的酒店住上一个月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In European countries, I stayed in compact three-star rooms, while in the Middle East it was always big chains: the Sheraton, the Radisson or the Hilton Nile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在欧洲国家的时候会住在狭窄的三星客房，而在中东的话，我总是会选择大型连锁酒店：喜来登、丽笙、尼罗河希尔顿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here and there, depending on local deals and the nature of my stay, I'd take a room in one of the iconic, colonial-style hotels from the novels of Graham Greene or Agatha Christie: the American Colony in Jerusalem, the Pera Palace in Istanbul or the Taj Mahal Palace in Mumbai. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在各处会视当地的优待和逗留的本质而选择格雷厄姆·格林（Graham Greene）或阿加莎·克里斯蒂（Agatha Christie）的小说中的具标志性的殖民地风格酒店中的客房：耶路撒冷的美国殖民地酒店、伊斯坦布尔的佩拉宫酒店、或孟买的泰姬陵皇宫酒店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I travelled like this from my mid-20s for a decade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从20岁中期就这么旅行了十年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes I was single, other times in a relationship, and the eternal transience suited me at the start. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候我单身，有时候我心有所属，而永恒无常，起初很适合我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was fun, for a few years, until suddenly it wasn't.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它好玩了几年，直到它突然不好玩了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On arrival, I liked to wash away long journeys with a swim in the hotel pool, usually found in the bowels of the building. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一抵达的时候，就会在设在酒店大厦最深处的游泳池里头游泳，借此洗掉长途旅程的疲惫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would trek along corridors in fluffy hotel slippers, past rows of identical doors, almost naked under the bathrobe, both intimate and exposed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会穿着毛茸茸的酒店拖鞋，身上几乎赤裸地穿着浴袍，又亲密又暴露地走过走廊一排一排相同的房门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pool would invariably be empty, and as soon as I took my glasses off I could no longer see the edges of the fake palm trees or the steps to the Jacuzzi.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泳池总是会空着，而我一将眼镜拿下，我就不再能够看到假棕榈树的边缘或者按摩浴缸的阶梯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a long time, the swimming ritual was helpful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个游泳习惯，长久以来都有帮助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would cleanse away London-me and become a shiny new, international person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会洗掉来自伦敦的我，化为全新的国际人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then in one pool, after a particularly disorientating 18-hour journey, I floated on my back, buoyed by chemicals and water, and heard an odd bright voice in my head offering up a simple suggestion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，我在经过一个特别混乱的18小时旅程过后，在某一个泳池里平躺浮在添加化学物质的水面上的时候，脑海中听到了一个异常响亮地声音，给了我一个很简单的提议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to die, it said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想死。”它说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A calm, sane voice, perfectly integrated with the flickering light reflections on tiles and the sound of lapping water, of drips from the sauna room, of taps being turned on somewhere else in the building. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个很平静、很理性的声音，和从瓦块反射的闪烁的光、水翻滚的声音、桑拿浴的滴水的声音、大厦别处的水龙头开启的声音，很完美地融合在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I flipped onto my stomach and began a slow breaststroke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我翻了过来，卧在水面上，开始了一个缓慢的蛙泳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go down, it said, and so I did, swimming underwater with eyes closed until I nudged the edge of the pool just as I imagine a shark might nose against the side of a boat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“沉下去”，它说，我就照做了，闭着眼睛在水面下游着，直到碰到了泳池的边缘，好像鲨鱼的鼻子碰到船的一侧似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next time it happened, the voice was stronger, and the time after that, stronger again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这件事再次发生的时候，声音更强烈了，第三次，声音又更强烈了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An insistent, reasonable interior monologue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个坚持、合理、内心的独白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where am I? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在哪里？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Random swimming pool, random country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随机的国家里的随机的泳池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whom do I know here? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在这里认识什么人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody, really. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真的没有人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who would miss me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谁会想念我？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody, really. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真的没有人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go down then, into the chlorine-blue, and let go, said an unambiguous and rational voice that terrified me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你就沉下去吧，沉到蓝色的氯水中，然后放手吧。”一个又不含糊又理性的声音，让我吓坏了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A person is not supposed to be in both Asia and Africa in the same week on a regular basis; the world should not be traversed at that speed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个人不应该定期在同一周以内在亚洲和欧洲两地；世界不应该以那种速度经过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was scrambling, discombobulating; worse, it was damaging - some central element of my subjective self was being ebbed away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的生活让人混乱，更糟的是，它也对人有害。我的主观自我的某个中心元素正在消退。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet, I still said yes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，我还是答应了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was the go-to girl for a last-minute flight to anywhere, and whenever I returned home, lightly tethered to a house-share in Brixton, south London, I plotted to be away again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只要有需要临时飞往某处，人们就会找上我，而我每当回到家，就是短暂留在伦敦南部的布里克斯顿的一间共享房子的时候，我又要计划旅行了。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I climbed out of a taxi on my way home, or dragged my suitcase towards my front door, I would think of Jean Rhys, writing in Good Morning, Midnight (1939): 'Walking back in the night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我回家的时候从德士爬出来，或者拖着行李走向大门的时候，我就会想起琼·里斯（Jean Rhys）在《早安午夜》（Good Morning, Midnight）（1939年）里这么写道：“夜晚时分走回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Back to the hotel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走回酒店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Always the same hotel ­ You go up the stairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总是同样的酒店......你走上阶梯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Always the same stairs, always the same room.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总是同样的阶梯，总是同样的房间。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My life on a loop, searching for the new, but in reality going round in circles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的生命是一个圆圈，总是寻找着新的事物，实际上反而是在兜圈子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a part of the brain called the hippocampus that is shaped just like a seahorse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大脑有一个部位叫做海马体，其形状就像海马。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is in many ways still an unconquered mystery, but it is believed to act as an internal sat-nav. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它在很多层面上还是一个未征服的谜，但是它相信是大脑的内部卫星导航。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It provides a crossroads between memory and the processing of location, and not just locations of geography and place - although it does deal in those, contextualising landmark objects and images to understand landscapes, interiors and scenes - but also the mapping of an emotional geography such as future goals and aspirations and how to reach them, or memory sequences, or the systemisation of our own personal narratives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它为记忆和位置的处理提供了接驳。它不只处理地理和地方的位置，将地标和图像串联起来，以理解景观、内景和场地；它也为情感进行制图，例如，未来的目标和愿望以及如何达到它们、记忆顺序、或者系统化我们的自我叙述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is how we understand where we are and how we put ourselves into the points of view of others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是我们理解自己的所在地，以及我们怎么把自己置入别人的观点的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Depression has been found to have a dampening and distorting effect on the hippocampus, so that we become, in many layers of the word, lost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忧郁症已经被发现会使海马体产生抑制与扭曲的影响，使我们在多个层面上迷失了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know if my hippocampus navigator was suppressed by too much travel or if I was simply exhausted from a decade of avoiding intimate relationships and any semblance of a stable home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道我的海马体的导航器是因为旅行太多而被抑制，或者我只是因为十年以来避开亲密关系或者貌似稳定家庭的事物而劳累了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whatever it was, the suicidal impulse triggered by the architecture of hotels and all the signifiers connected to them - key cards, long corridors, the ting of a service bell - kept growing stronger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管怎样，酒店的建筑，以及和酒店有关的代表物——钥匙卡、长长的走廊、服务铃的叮叮响——所引发的自杀冲动，就越来越强烈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had been restless for 10 years, swinging between a 'home' that consisted of a transient rented room and the never-ending process of arriving alone at an Italo Calvino-esque city of everywhere/nowhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我已经无法安定了十年。我从一个短暂的出租房间的“家”，和一个和Italo Calvino的小说中一样、永无止境的单独抵达到处/无处的城市的过程之间来回奔波。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was lonely, getting lonelier, and ebbing across to the other side of the mirror with no idea how to stop it happening.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很孤单，而且越来越孤单，而且好像正在退到镜子的另一边，又无法制止它的发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my final year of intensive travelling, I developed insomnia so acute that the only way I could cope was to read all night and catch up on sleep during the siesta, if I was in a siesta-friendly country, or cat-nap in the late afternoon hours where I was often free before getting ready for evening activities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我频密旅行的最后一年里，我患上了失眠，其程度严重到我唯一能应付的方法，就是彻夜阅读，然后在午休时刻补眠（如果在实行午休的国家的话），或者在下午较迟时分，准备傍晚活动之前有空的时候小睡片刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During these difficult nights when the alien city outside my window often seemed paradoxically too empty and too full of people, I found myself reading about the Surrealists and their relationship with cities, travel, escape, and hotel rooms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那些艰难的晚上，窗外的陌生城市时常似乎矛盾地又空虚又充满人群的时候，我会去研究超现实主义者和他们与城市、旅行、逃避与酒店客房之间的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Katherine Conley's book Automatic Woman (1996), I read how the German artist Unica Zurn (the partner of fellow artist Hans Bellmer) was interned into a psychiatric asylum in the 1960s as a result of smashing a windowpane in a hotel room in Berlin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在凯瑟琳·康利（Katharine Conley）的著作《自动的女人》（Automatic Woman）（1996年）中读到德国艺术家乌尼卡·泽恩（Unica Zürn）（同是艺术家的汉斯·贝尔默（Hans Bellmer）的配偶）在1960年代因为在柏林的酒店客房砸碎了一面窗玻璃而被关进精神病院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andre Breton's muse 'Nadja' was also incarcerated due to her 'erratic and odd behaviour' in a Paris hotel, and the British-born artist and writer Leonora Carrington, with whose work I had become fascinated, was arrested and detained in a clinic as a result of stripping naked and confronting staff of the Hotel Ritz in Madrid.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安德烈·布雷顿（André Breton）小说中的主角“娜嘉”也因为在巴黎的酒店的“又不稳定又古怪”的行为而被监禁。我着迷的艺术作品的作家，英国出生的艺术家兼作家利奥诺拉·卡林顿（Leonora Carrington）的艺术作品，使我为之着迷；她在马德里的丽兹酒店脱光，又和职员对峙，结果在一家诊所被逮捕和拘留。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That all three women came undone, psychologically speaking, in hotel rooms is not a surprise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这三个女人在酒店客房里头心理上的崩溃，不足为奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They lived peripatetic, transient lives anyway and, for these women associated with Surrealism, the mirrors, doors, locks, balconies and bathrooms of hotel rooms became active props and surroundings for the process of 'going to the other side', much encouraged and exploited by the male artists in their lives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们反正过的是流动、易变的生活，而对于这些涉及超现实主义的女人来说，酒店客房里的镜子、门、锁、阳台和浴室，成为了“移到另外一边”的过程的现行道具与环境，而她们生命中的男性艺术家则非常鼓励她们，甚至利用她们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Surrealists were obsessed with encounters with the unconscious, with dalliances with madness and most often it was the women who were pushed - or chose to jump - all the way into the rabbit hole while their male counterparts looked on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>超现实主义着痴迷于跟潜意识的接触，并和疯狂调情，而且是女人最常被推进或者选择跳入无底洞，而她们的男性同行只有袖手旁观。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was through doorways opened by women that male Surrealists felt they could reach a pure state of psychic automatism - in other words, art outside the confines of reason, or moral or aesthetic control - and the hotel room was often the perfect theatre for these experiments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男性超现实主义者是通过女性开启的门，才能感觉到自己能够到达一个通灵性全自动的状态，换句话说，就是理性、道德与审美控制的局限之外的艺术，而酒店客房，往往就是这些实验完美的场景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zurn in particular was a full-bodied manifestation of the paradoxical other, occupying an entirely liminal space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中，泽恩是处在完全阈限空间里头的倒影的完全表现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She would walk a few paces behind Bellmer, not simply a muse but also a living embodiment of the life-sized, pre-pubescent dolls he made. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她会走在贝尔默后面几步。她不只是他的灵感， 也是他创作的等身青春期前玩偶的鲜活体现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zurn suffered three breakdowns, each precipitated when she went away from the apartment in Paris she shared with Bellmer, or away from her children from a previous marriage, and installed herself in a hotel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泽恩崩溃了三次，而每次的引发，是当她离开她和贝尔默共享的巴黎公寓，或者离开前一段婚姻的儿女，并将自己安置在酒店里头的时候。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her autobiographical writings, Zurn wrote that a hotel room became 'a huge empty stage, almost dark, [it] appeared, not like the product of a hallucination, but more like a clear picture that forms in the centre of one's being...' The trigger, she wrote, was looking through the hotel window and experiencing hallucinations relating to a childhood trauma: her family home was auctioned when she was 15, along with all its contents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泽恩在她的自传中写道，酒店客房成为了“一个巨大、空虚的舞台，几乎漆黑，看起来似乎不是幻觉的成品，而比较像是在一个人自我的中心形成的一个清晰的画面......”她写道，引发这种现象的事物，就是望出酒店的窗，并经历和童年时的创伤有关的幻觉：她的家庭的房子，以及里头的所有物件，在她15岁那年被拍卖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It signalled the destruction and loss of her family as she knew it, of her childhood, and a fundamental part of herself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这标志着她所认识的家庭、她的童年、以及她的自我的根本部分的毁灭和消失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zurn was attracted to madness and embraced it, deliberately placing herself in anonymous rooms in order to allow the hallucinations to occur. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泽恩被疯狂所吸引，并接受了它。她故意将自己置于无名的房间，以便让这些幻觉发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She traversed borders between reality and unreality, exemplified by images relating to rooms and houses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她走过现实与虚幻之间的边界，而这从一些跟房间和房子有关的影像可看出一斑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wrote:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她写道：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This house, bathed in an emerald green light, becomes transparent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这间由一个翠绿色的光沐浴着的房子，变得透明了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through the walls she can see. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她能够看穿墙壁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The inside: she sees the Indian Buddha from the Temple of the Rocks, the big Chinese dragon embroidered in gold and silver thread on a black velvet background, the Arab lamp with golden, red, and green light. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看到里头有来自岩石圣殿的印度佛，那只巨大的中国龙，以金银线绣在紫色丝绒背景上，以及那盏有着金色、红色、绿色的阿拉伯灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this image of the interior of the house is brief, the walls close up again ... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这间房子内部的影像只有昙花一现，因为墙壁又封闭了......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The door closes again, and the entire house, even the green fairy light under which the house first appeared, melts away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门又关闭了，整间房子，包括房子当初出现时照着它的那道绿色仙光，就融化了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few years later, in 1970, having suffered another cycle of hallucinations followed by a crashing return to reality, she committed suicide by throwing herself from a balcony in Paris.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几年后，她在1970年再发生了一轮幻觉，接着轰然回到现实之后，从巴黎的一个阳台跳楼自杀了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have a collection of hotel-headed notepaper and I use it to write people notes, instead of sending postcards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我收集了一些酒店抬头的记事纸。我会利用它来给别人写信，而不是寄明信片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The American poet Elizabeth Bishop, an inveterate traveller for the duration of her life and no stranger to hotels, drew sketches on hotel stationery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国诗人伊丽莎白·毕晓普（Elizabeth Bishop）一生中本性难移地旅行，也对酒店不陌生。她会用酒店的信纸来画草图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One such drawing is her room at what was the Murray Hill Hotel in New York, and the space she captures feels claustrophobic, confined. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中的一个这样的画作，就是她在纽约当时的美利山酒店的客房，而她所捕捉的空间，感觉上又狭小又受限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the story 'In Prison' (1938) she writes: 'The hotel existence I now lead might be compared in many respects to prison life, I believe: there are the corridors, the cellular rooms, the large, unrelated group of people with different purposes in being there that animate every one of them but it still displays great differences.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在她的故事《监狱中》（In Prison）（1938年）中写道：“我相信，我现在过着的酒店生活，可以在许多层面上和监狱生活作比较：两者都有走廊、划分的房间、一大群互不相干的人，在那里有不同的目的，而这些目的虽然会让每一个人赋予生命，但彼此之间依旧有着巨大的差异。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hotel experience boils down to the room: the confinement of the space that is at once personally yours and not yours, cell-like, an entrapment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酒店的体验，基本上和客房有关，就是在一个同时亲密地属于你，也同时不属于你的空间被局限着，就像一个牢房、一个陷阱一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan Ellis writes in Art and Memory in the Work of Elizabeth Bishop (2006) that 'wallpapered rooms were always difficult spaces for Bishop to settle down in because of their link to childhood fears'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森·埃利斯（Jonathan Ellis）在《伊丽莎白·毕晓普的作品中的艺术与记忆》（Art and Memory in the Work of Elizabeth Bishop）写道：“贴墙纸的客房，对毕晓普来说，很难让她安定下来，因为它们和童年时的恐惧有所关联。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just like Unica Zurn looked out of hotel windows and saw the demolition of her family home, it finally occurred to me that it makes no difference how far you run - to a hotel perched on the edge of the universe perhaps - the room one takes will always be wallpapered with childhood fears and in the bathroom half-light you will always look like a ghost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像乌尼卡·泽恩望出酒店的窗口，看到她的家庭的房子被拆除一样，我终于领悟到，你不管逃到多远也无所谓：你的客房里头的墙纸，总是会勾起童年的恐惧，而你在浴室的阴暗的光底下，总是会让你看似是鬼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My sense of disease grew when travelling, so I tried to bring things from home to make me feel grounded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我持有的不安的感觉，总是会在旅行的时候加剧，因此我试图从家中带一些东西，让我觉得更脚踏实地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I quickly realised that I did not own anything other than books that had any personal meaning, and this fact alone made me sad and question the way I had been living my life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，我很快地发现到我所拥有的，也只有一些有个人意义的书，而单是这个事实，就足以让我感到悲伤，并质疑自己过生活的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to feel panic whenever I was around the furniture and fittings of international hotels: the purposefully generic lobby, the vast reception desk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当我处在国际酒店的家具或者装设、有意设计得一般的大厅、广阔的前台的时候，我的心里就恐慌了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It got so even the dining spaces and stairwells of hotels began to induce anxiety when I walked through them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就连酒店的餐厅和楼梯间，会在我穿越的时候会引发焦虑。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

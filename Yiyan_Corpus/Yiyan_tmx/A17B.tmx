@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T113025Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Difference engine: Let the games begin </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另类的学习工具：比赛开始了</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FULL marks to Apple for devising ways to improve how science, mathematics and other topics are taught in primary and secondary schools across America. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果公司在设计各种方法，以提高全美各中小学的科学、数学与其他课程的授课方式，这是个很棒的创意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The company's “Reinventing Textbooks” event last week showed how effectively Apple's popular iPad tablet computer can replace the stack of tedious, and invariably outdated, textbooks that school children have to lug around these days.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上周苹果公司的“创新课本”活动展示了潮本—iPad怎样取代目前学生携带的繁多、单调、信息总是过时的课本。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple is providing a free Macintosh application, dubbed iBooks Author, which allows publishers, teachers and writers to produce interactive textbooks with video, audio and even rotating 3D graphics that spring to life with the touch of a finger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果公司提供一个免费的苹果电脑应用，被称为电子书创作程序，这种程序允许出版商、教师和作家创作视频、音频，甚至旋转3D图形的交互式课本，这些课本用手指就能操控。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By and large, interactive multimedia offer more engaging explanations that students more readily grasp and remember. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基本上交互式多媒体能提供大量的、更吸引人的授课，这样学生理解和记忆更容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To play such books on an iPad, a free application called iBooks 2 must first be downloaded from the company's App Store. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要在iPad上播放这样的课本，必须从苹果公司的应用商店先下载一个叫做电子书2（iBooks 2）的免费应用程序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interactive textbooks can then be purchased from iTunes, Apple's online store, for $15 apiece or less. That is a seventh of the price of the average textbook used in schools today.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交互式课本可以在苹果的在线商店iTunes购买，费用大约为每本$ 15美元，是现在学校使用课本平均价格的七分之一。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No question that interactive textbooks deliver results. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交互式课本展现出的成效无庸置疑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A pilot study carried out for Houghton Mifflin Harcourt, a textbook publisher based in Boston, compared the performance of two groups of children over the course of a year at the Amelia Earhart Middle School in Riverside, California. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总部设在波士顿的课本出版商—霍顿?米夫林?哈考特（Houghton Mifflin Harcourt）完成了初步研究，出版社用一年多的时间对加州滨江的美国阿米莉亚?埃尔哈特中学（Amelia Earhart Middle School）两组学生的成绩进行比较。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A control group used the traditional Holt McDougal Algebra 1 textbook, while an experimental group used iPads with an interactive version of the same coursework. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一实验对照组，采用传统的代数l课本，而另一实验组使用ipad交互式课本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of the year, 78% of pupils using the interactive text scored “proficient” or “advanced” on the California algebra test, compared with only 59% scoring likewise with the standard textbook.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年年底的加州代数考试，使用交互式课本78％的学生得到“优”或“良”，与之相比，使用同样标准课本的学生只有59％。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Done properly, interactive textbooks offer not only video tutorials, more personalised instruction, just-in-time hints and homework help, but also instant access to assessment tools, teaching resources and the ability to network socially with students elsewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果正确操作，交互式课本不仅提供视频教程、更加个性化的教学，还能及时给予提示和作业帮助，并能即时进入评估工具、教学资源和学生随时能进行网络社交。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using tools for highlighting and annotating virtual flash-cards, students can select information within the text and store it for later revision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用教学工具来突出和解释虚拟动画卡片上的内容，学生可以挑选课本内的资料，并保存下来，以备后期复习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Searching public databases, direct from within the textbook, is also possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>检索公共数据库，在课本中进行管理也成为可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At school, students can sync with their teachers' computers, to hand in their quiz results and homework for marking.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学校，学生可与他们老师的电脑同步，掌握自已的测验成绩、家庭作业分数。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Houghton's pilot programme in Riverside was not the first attempt to use e-books in education. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>霍顿在滨江的试点项目，并不是首次尝试在教育中使用电子图书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, digital textbooks have been around for more than a decade, but have made little impact on education so far. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，数字课本已经有超过十年发展历程，但到目前为止，对教育的影响不大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Forrester Research, a market-research company based in Cambridge, Massachusetts, e-books accounted for only 2.8% of America's $8 billion textbook market in 2010.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据总部设在马萨诸塞州，坎布里奇市的一家市场调研公司—弗雷斯特研究公司（Forrester Research）的调研， 2010年美国80亿美元的课本市场，电纸书只占2.8％。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The problem has been the lack of suitable devices for reading them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题在于，一直缺乏合适的设备阅读电子书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Laptops and PCs have been too cumbersome for the job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>笔记本电脑和台式电脑用来看书显得太笨重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dedicated e-readers have lacked the screen size, colour graphics and computing power to render the rich multimedia content. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专业的电纸书阅读器屏幕、色彩、图形和计算能力不足以呈现丰富的多媒体内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The latest tablet computers seem finally to fit the bill.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最新的平板电脑似乎终于满足了这种要求。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except for one awkward thing: at around $500 apiece, tablets like the iPad 2 are still much too expensive for all but the wealthier school districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了有件事，让人尴尬：像iPad2这样的平板电脑，差不多每台要500美元，除了富裕的学区能接受，对所有的学校来说，仍然过于昂贵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike computers, which are installed in classrooms and shared by pupils, the whole point of a tablet is that it is carried around by an individual and used anywhere, including the home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平板电脑，不像安装在教室和学生共享的计算机，重要的是人们能随身携带，能在任何地方使用——包括家里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That means one tablet for each and every child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着平板电脑适合每一个小孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even with bulk-buying discounts of up to 10%, cash-strapped school districts—which provide public education for nine out of ten of America's 58m school children—cannot afford the upfront cost of tablet-based teaching.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使高达10％的团购折扣，给五千八百万美国学生提供公共教育的学区90%缺乏资金，负担不起基于平板电脑教学的前期费用。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Put it this way. On average, the textbooks used in American high schools cost a little over $100 each. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这么说吧，平均算下来，美国高中课本费用一百多美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given normal wear and tear, they last for around five years, as they are passed onto subsequent students. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>考虑到正常的磨损和消耗，它们的使用寿命在五年左右，实际上课本还要留给后一年级的学生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Typically, pupils use five different textbooks in each grade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常情况下，每年级学生使用五本不同的课本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That means textbooks cost a school district around $100 a year for every student attending secondary school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着学区一所中学每名学生课本的费用为每年100美元左右。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The figure is only marginally less for pupils in primary schools.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>费用只比小学生略少点。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With breakages, losses and theft, there is no way that a $500 iPad could survive for five years in a school environment without costly maintenance, repair and replacement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学校里，一台500美元的iPad随着破损、丢失和盗窃，加上没有昂贵的保养、维修和更换，不可能使用上5年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the cost of downloading five original $15 textbook titles from iTunes for each pupil in every grade, plus annual upgrades for every student. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年级每名学生从iTunes下载5本15元课本的费用，在加上每名学生升级后更换课本的费用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, by going the virtual route, education authorities could find their textbook costs soaring out of sight.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，通过演算，教育专家可以发现学生的课本费用直线上升。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why not let children who can afford to buy their own iPads use them in class? Outside private schools, that is never going to happen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么不让买得起ipad的学生在课堂上使用？在民办学校，这种事决不会发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No superintendent of public schools could allow such a digital divide to emerge in the classroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公立学校的负责人不能允许在课堂上出现‘贫富不均’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ethics aside, lawsuits would fly (giving new meaning to the term “class action”) as a minority of students hogged the high scores and the scholarships.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>道德标准暂且不谈，当少数学生得到高分、奖学金，诉讼也会纷至沓来（“集体诉讼”也多了新的案例）。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The difficulty of dealing with such issues—not to mention the bureaucracy of the public school system—explains why Inkling, a San Francisco firm that has pioneered interactive 3D textbooks for the iPad, has steered clear of schools and focused instead on the needs of college students. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>处理这类问题很困难，更不用说公立学校体制的官僚主义，这也解释了比iPad先推出交互式3D课本的旧金山Inkling公司，为什么避开学校，转而关注大学生的需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your correspondent saw everything, and more, that Apple demonstrated last week while interviewing Inkling's founder, Matt MacInnis, a year ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记者看到，苹果上周展示了一年前Inkling的创始人马特?麦金尼斯的采访。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, Inkling had produced over 60 multimedia textbooks for the academic world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，Inkling为教育界制作了超过60种多媒体课本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today, it lists 113 to Apple's four. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，Inkling有113种多媒体课本可用在苹果四上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the Inkling app installed on an iPad, chapters can be downloaded from iTunes for $1.99 a go.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着Inkling的应用程序安装在iPad上， 这些课本可以在iTunes下载，费用为每次1.99美元。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple's marketing muscle will surely stimulate demand for better interactive content, not only in primary and secondary schools, but for tertiary education as well. “That's a rising tide that floats all boats,” notes Mr MacInnis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果的市场营销力量不只是在中小学，也会在大学较好的刺激交互式内容的需求。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“The future of digital-learning content isn't a book on a screen, but an engaging multimedia experience,” he says. In other words, the flat e-book is dead. Sorry, Amazon.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>麦金尼斯先生指出：“这将提升使用者的成绩，未来触控学习内容并不只是在屏幕看书，也是引人入胜的多媒体体验，另外，我不得不说，亚马逊平板电子书已过时。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet, for all the interactivity with stunning graphics and engaging video, your correspondent cannot help thinking that something is missing here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，你的客户对所有交互式的绚丽图像、精彩视频，不禁认为还差点什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite their compelling content, the interactive textbooks seen so far perpetuate the “linearity and conformity” of traditional learning, where everything is geared—from kindergarten to high-school—to preparing for college entrance; where mistakes are expunged at the cost of creativity.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管它们的内容具有吸引力，到目前为止，交互式课本保持着传统学习的系统、相宜，拥有从幼儿园到高中，到考大学的所有配套课本；传统学习的的瑕疵在于磨灭了学生的创造力。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is what Sir Ken Robinson, a leading authority on education reform, calls the “industrial model” of education. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是为什么教育体制改革的主要专家肯恩?罗宾逊爵士，称其是教育的产业模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As professor of education at Warwick University, Dr Robinson led a national commission on creativity, education and the economy for the British government, and has spent the past decade trying to prevent education authorities from stifling their students' inner passions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为沃里克大学教育教授、罗宾逊博士领导的英国政府经济、创造力、教育全国委员会，在过去的十年，试图防止教育主管部门扼杀学生的灵感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his view, creativity is as important in education as literacy—and should be given equal emphasis.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他看来，创造力如文化教育一样重要，应给予同样重视。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That would seem a reasonable start. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这似乎是一个良好的开端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, if software is to be used as a teaching aid (called “blended learning” in pedagogical circles), then it should seek to balance the need for correct answers with the freedom to take risks and break rules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，如果软件被用作教具（在教育界称为“混合学习”），那么软件就应该寻求正确答案的需求、自由冒险的需求，打破规则的需求之间的平衡。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“If you're not prepared to be wrong,” Dr Robinson preaches, “you'll never come up with anything original.”
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗宾逊博士认为，“如果你不准备去犯错误，你将永远不会有任何原创。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No question that industry is crying out for innovative young minds capable of taking intellectual chances. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问，企业急需能够把握知识机遇，有创新意识的年轻人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A common complaint is that science education, in American schools especially, is doled out in easily digested bites that condition students to get correct answers, but without any profound understanding of why. In a report published last year, the National Research Council in Washington, DC, identified a number of cross-cutting concepts (such as “cause and effect” and “stability and change”) that provide the weft and the warp of science. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>科学教育经常遭人诟病，尤其是在美国学校，只是简单的让学生获得正确答案，却不从更深的层次去让学生理解为什么？华盛顿特区国家研究委员会去年发表的一份报告，认为一些跨领域概念（cross-cutting concepts ）（如“因果关系”、“稳定与变化”）就像是科学的经纬线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mastering these thoroughly, the report argued, would provide a firm foundation for young thinkers to take the kind of chances needed to be truly innovative.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告提出，彻底掌握这些知识，将给年轻的才子获得更多的机会打下牢固的基础，这需要真正的创新。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One promising approach along these lines has been adopted by the CK-12 Foundation, a non-profit organisation that seeks to reduce the cost of teaching materials by using open-source methods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>CK- 12基金会采用了一种有前景的方式来理会这些跨领域概念，这是一家非营利组织，旨在通过开放源代码的方法来降低教材成本。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its FlexBook platform, predominantly for science and mathematics, allows high-school teachers to mix and modify content freely to meet individual needs, while still adhering to curriculum standards.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的FlexBook平台以科学和数学为主，允许高中教师自由融合和修改内容，满足个人需要，同时仍坚持课程标准。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year, the CK-12 Foundation is to start offering tools that will allow high-school students to teach themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年，CK- 12基金会开始给高中学生提供工具自学。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

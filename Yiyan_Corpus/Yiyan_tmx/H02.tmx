@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T064806Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>State of the News Media 2014</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2014年新闻媒体状况报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways, 2013 and early 2014 brought a level of energy to the news industry not seen for a long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很多方面，2013年和2014年初给新闻业带来了沉寂已久的生机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even as challenges of the past several years continue and new ones emerge, the activities this year have created a new sense of optimism – or perhaps hope – for the future of American journalism.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管过去几年的故有挑战在继续，还有新的挑战浮现，但是今年的作为给美国新闻业的未来带来了一丝乐观，或者说是希望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Digital players have exploded onto the news scene, bringing technological knowhow and new money and luring top talent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数字化已在新闻领域爆发，带来新的科技知识，新的资金和吸引眼球的高级人才。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BuzzFeed, once scoffed at for content viewed as “click bait,” now has a news staff of 170, including top names like Pulitzer Prize-winner Mark Schoofs, and is the kind of place that ProPublica’s Paul Steiger says he would want to work at if he were young again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾靠诱骗点击赚取浏览量的BuzzFeed，如今拥有170名新闻员工，其中包括杰出人物普利策奖所得者马克斯谷弗斯（Mark Schoofs），并被ProPublica新闻室的保罗斯蒂格（Paul Steiger）谓其理想的工作地，如果能重返年轻的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mashable now has a news staff of 70 and enticed former New York Times assistant managing editor Jim Roberts to become its chief content officer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Mashable公司现有70名新闻员工，并挖角到《纽约时报》的前任助理执行编辑吉米罗伯茨（Jim Roberts）任其首席新闻官。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in January of this year, Ezra Klein left the Washington Post for Vox media, which will become the new home for his explanatory journalism concept. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年一月，艾泽拉克林（Ezra Klein）离开《华盛顿邮报》跳槽到Vox Media，作为发展其“解释性新闻”理念的新天地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of these companies are already successful digital brands – built around an innate understanding of technology – and are using revenues from other parts of the operation to get the news operations off the ground.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多此类公司本身就是成功的数字品牌，始终以科技为发展核心，并用其他地方的运营资本发展新闻业务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other kinds of new revenue are flowing into news operations as well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他途径的新收入也在流入新闻企业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A new breed of entrepreneurs – like Jeff Bezos, John Henry and Pierre Omidyar — are investing their own money in the industry, in some cases creating wholly new entities and in others looking to bring new life to long-standing ones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些新兴的企业家，如杰夫贝佐斯(Jeff Bezos)、约翰亨利(John Henry)和皮埃尔欧米迪亚(Pierre Omidyar)，都在将其资金投入到这个行业，要么创造了全新的实业，要么为传统新闻带来新的生机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among their best credentials – beyond deep pockets – is that they are tech industry insiders and news media outsiders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们卓越的资历中，除了财富，是他们身兼科技行业的圈内人和新闻媒体的圈外人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Philanthropic money has grown as well, in many cases focused on smaller outlets seeking to fill the gap in news coverage left by legacy cutbacks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>慈善款项也在增长，多数关注在更小众的寻求填补新闻集团因财政削减而留下新闻报道空白的新闻源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As recently as March 2014, the Jerome L. Greene Foundation announced a $10 million grant to New York Public Radio to help build its digital capabilities, an expressed need among nonprofits.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近的是2014年3月， 杰罗米基金会（Jerome L. Greene Foundation）宣布向纽约公共广播电台捐资一千万美元以帮助其建立数字业务，建立数字业务是所有非盈利新闻机构的心声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The year also brought more evidence than ever that news is a part of the explosion of social media and mobile devices, and in a way that could offer opportunity to reach more people with news than ever before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一年还前所未有地有力证明了新闻参与了社交媒体和移动设备的大爆发，这在某种程度上使新闻前所未有地触及到更多的受众。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Half of Facebook users get news there even though they did not go there looking for it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>半数的Facebook用户在页面上可以浏览新闻，尽管这并非他们本意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the Facebook users who get news at the highest rates are 18-to-29-year-olds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最可能在Facebook上获得新闻的用户年龄段介于18到29岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same is true for the growth area of online video. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这同样适用于网络视频的增长用户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Half of those who watch some kind of online video watch news videos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>半数在网上看视频的用户会看新闻视频。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, young people constitute the greatest portion of these viewers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，年轻人是最主要的受众。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Accompanying this momentum is the question of what it adds up to within the full scope of news that consumers receive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着这股动力而来的质疑是：人们收到的新闻资讯中有多少是这股动力带来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here the events of the last year get put in some perspective. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在此提供去年的资料来昭示部分观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our first-ever accounting found roughly 5,000 full-time professional jobs at nearly 500 digital news outlets, most of which were created in the past half dozen years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们首次统计发现近500家数字新闻媒体中有近5，000个全职新闻专业职位，多数是在过去五年中设置的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the vast majority of bodies producing original reporting still comes from the newspaper industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是绝大数原创新闻报道的机构仍然来自传统报业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But those newspaper jobs are far from secure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而报业的工作岌岌可危。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Full-time professional newsroom employment declined another 6.4% in 2012 with more losses expected for 2013. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2012年，全职专业的新闻室工作招聘下降了6.4%，预计2013年将会有更大降幅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gannett alone is estimated to have cut 400 newspaper jobs while the Tribune Co. announced 700 (not all of them in the newsroom).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仅Gannett公司一家就预计要裁员400名，而Tribune Co.表示要裁减700名员工（部分非新闻室职位）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new money from philanthropists, venture capitalists and other individuals and non-media businesses, while promising, amounts to only a sliver of the money supporting professional journalism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自慈善家，企业资本家和其他个人以及非传媒类公司的新的资金，尽管振奋人心，但总数不过是支撑专业新闻报道所需资金的极小一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Traditional advertising from print and television still accounts for more than half of the total revenue supporting news, even though print ad revenues are in rapid decline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自纸媒和电视广播的固有的广告收入依然占据过半的行业总收入用以支撑新闻报道，虽然纸媒的广告收入在急剧减少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While seeing some small gains in new revenue streams like digital subscriptions and conferences, total newspaper advertising revenue in 2013 was down 49% from 2003. (That 2013 number also includes some niche and non-daily publications.) Television ad revenue, while stable for now, faces an uncertain future as video becomes more accessible online. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管看到一些新的收入来源，如数字订阅和数字会议，但是报纸广告的总收入自2003年起到2013年下降了49%（2013年的数据还包括了一些小众和非按日发行的刊物）。电视广告收入虽然目前尚且稳定，但由于网络视频的可及性，其未来也堪忧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What’s more, most of the new revenue streams driving the momentum are not earned from the news product itself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更重要的是，多数由这股动力所带来的新的收入并非来自新闻报道本身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were a number of other events over the last year for which the impact on citizens is mixed or unclear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去一年间发生许多给居民带来多重影响或者影响不明的新闻事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Local television, which remains the primary place American adults turn to for news, saw its audience increase for the first time in five years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本地电视台，作为稳居美国成年人们获取新闻资讯的首要来源，在五年里首次见证了观众群的增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, though, there were fewer stations producing original news compared with 2012, primarily the result of television acquisitions that left fewer companies in control of more stations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管同时，制作原创新闻的电视台相比2012年变得更少了，主要由于对电视台的收购令更少数的公司掌控更多的电视台。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this point, fully a quarter of the 952 U.S. television stations that air newscasts do not produce their news programs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>值此时刻，全美952家播送新闻的电视台中有整整四分之一不是自制新闻节目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additional stations have sharing arrangements where much of their content is produced outside their own newsroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>附属的电视台遵守共享协议，意即其内容来自它方制作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The impact on the consumer seems to vary from market to market, with some markets increasing potential reach by airing news on stations that never had it – even if that newscast is the same one that airs on another local station. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这对于受众的影响似乎因市场不一而有所差异，有些市场通过播送新增的新闻增加了潜在的受众——即使那些新闻播报与其他地方台雷同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other markets the news has contracted, as news organizations have reduced staff or content production for cost efficiency.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些市场上的新闻在缩减，原因是新闻组织为了经济效益而裁减员工和减少内容制作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In digital news, the overlap between public relations and news noted in last year’s State of the News Media report became even more pronounced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数字新闻方面，在去年的新闻媒体报告中所昭示的公共关系与新闻的交叠现象变得越发显著。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the greatest areas of revenue experimentation now involves website content that is paid for by commercial advertisers – but often written by journalists on staff – and placed on a news publishers’ page in a way that sometimes makes it indistinguishable from a news story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一项重要的创收尝试涉及到商业广告赞助的内容，多由网站记者采写，并以某种方式放在新闻报道页面，有时与新闻故事别无二致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Following the lead of early adapters like The Atlantic and Mashable, native advertising, as it is called by the industry, caught on rapidly in 2013. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在早期的采用者如《大西洋月报》和Marshable的引领下，这种业界所谓的“原生广告”在2013年迅速发展起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The New York Times, The Washington Post and most recently The Wall Street Journal have now begun or announced plans to begin devoting staff to this kind of advertising, often as a part of a new “custom content division.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《纽约时报》，《华盛顿邮报》和最近的《华尔街日报》都在着手或在发布计划安排员工做这种广告，通常都作为新的“内容定制部门”的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>eMarketer predicts that native ads spending will reach $2.85 billion by 2014.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>eMarketer预测原生广告的花费将在2014年达到20.85亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of these publishers initially expressed caution over such ads, with Wall Street Journal editor-in-chief Gerard Baker even describing it as a “Faustian pact.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多此类内容发布机构最初就表示要谨慎对待这类广告，《华尔街日报》的首席主编吉拉德贝克（Gerard Baker）甚至将其形容为“浮士德的交易（笔者注：又称魔鬼交易）”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the end, though, many publishers eventually came down with a conclusion similar to Baker’s, who said that he was “confident that our readers will appreciate what is sponsor-generated content and what is content from our global staff,” according to a statement released by The Journal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过最后还是有很多发布机构得出一个与贝克类似的结论，根据The Journal的引述，贝克曾表示他“相信我们的读者将会意识到什么是赞助的内容，什么是来自我们全球各地员工的文章”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That may be the case, and it could also be the case that stories created for and paid for by advertisers do not bother consumers as long as they are a good read. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一种情况，或许还有一种情况就是广告商所赞助的定制内容只要读来有用就不会引起读者的反感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this point, though, there is little if any public data that speak to consumer response one way or the other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过几乎没有公开的数据提供受众对于这两种情况的反馈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And despite evidence of news consumption by Facebook users—half of whom report getting news across at least six topic areas—recent Pew Research data finds these consumers to have rather low levels of engagement with news sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管可以证明Facebook用户也在看新闻——半数用户表示浏览六种以上的各类新闻资讯，但近期皮尤的研究数据（Pew Research data）发现这些消费者和新闻网站的互动率相对较低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another question looming over developments in social media is whether the self-selective process combined with algorithmic feeds are narrowing the kinds of information Americans are exposed to.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个关于社交媒体的发展的疑问是：这种将自主选择的过程与自动得出的新闻订阅相结合，是否使美国人得到的信息范围变得狭隘？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the biggest stories of the year, the NSA documents leaked by Edward Snowden, shined light on yet another area of challenge for journalism in the digital age: easy access to web-based content. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年一件最重大的事件要数美国国家安全局（NSA）的文件被爱德华斯诺登（Edward Snowden）泄露出去，这凸显出数字时代的新闻业所面临的另外一个挑战：网络内容易被破解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It threatens the security of journalists’ communications and their ability to get sources to share information with them, the ultimate impact of which could be the stories that don’t get reported on and delivered to consumers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这威胁到记者们的通讯安全及其说服线人提供消息的能力，最终将可能致使事件无法被报道以及被传达给受众。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A year ago, the State of the News Media report struck a somber note, citing evidence of continued declines in the mainstream media that were impacting both content and audience satisfaction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一年前，《新闻媒体状况》报告（the State of the News Media）指出一个严峻的事实，证明了主流媒体的持续衰落对内容和读者的满意度带来冲击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As indicated above and throughout this report, many of these issues still exist, some have deepened and new ones have emerged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如上所述及全文内容，很多此类问题仍然存在，有的在加深，新的问题也在浮现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, the level of new activity this past year is creating a perception that something important, perhaps even game-changing, is going on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，去年的新迹象还是带来了一种认知：一些重要的甚至可能改变大局的事情正在发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the developments in 2013 are at this point only a drop in the bucket, it feels like a heavier drop than most. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果说2013年的发展目前看来仅是沧海一粟，但这“一粟”的分量似乎重过其他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The momentum behind them is real, if the full impact on citizens and our news system remains unclear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些发展背后的动力是现实存在的，哪怕它对民众和整个新闻系统的冲击尚不明了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year’s Annual Report, our 11th edition, set out to examine these shifts—in revenue, in jobs, in technology, in content, in consumer behavior. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年的年度报告，是我们第11次发布，旨在对收入、职位、科技、内容和消费者行为等方面进行检视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is structured a bit differently than in the past – to account for the widening of the industry, the growing influence of technology and new ways of sharing of our data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次报告的结构相比以往有所不同，以求阐释新闻行业的扩大、不断增长的科技的影响力，以及分享我们的数据的新方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year’s report includes four original research reports and two graphical presentations, along with key findings and a searchable database of all the statistics gathered in past years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本年度报告包括四个原始研究调查报告和两个图表，以及一些重要发现和一个涵盖历年统计数据的提供搜索的数据库。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From these reports, six major trends emerge:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这些报告中，出现以下6大趋势：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thirty of the largest digital-only news organizations account for about 3,000 jobs and one area of investment is global coverage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1）30家最大的纯数字新闻媒体拥有近3，000名员工，他们的投资领域之一就是全球化报道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vice Media has 35 overseas bureaus; The Huffington Post hopes to grow to 15 countries from 11 this year; BuzzFeed hired a foreign editor to oversee its expansion into places like Mumbai, Mexico City, Berlin and Tokyo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Vice Meida拥有35家海外分部；《哈芬顿邮报》希望今年从11个国家扩大到15个；BuzzFeed聘用了一名外籍编辑负责监督其向孟买、墨西哥、柏林和东京等地的扩张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two-year-old business-oriented Quartz has reporters in London, Bangkok and Hong Kong, and its editorial staff speaks 19 languages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>成立了两年的商业博客Quartz在伦敦、曼谷和香港都有记者，其采编团队会19种语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This comes amid pullbacks in global coverage form mainstream media. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，主流媒体的全球触角却在收缩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The amount of airtime network evening newscasts devoted to overseas reporting in 2013 was less than half of what it was in the late 1980s. International reporters working for U.S. newspaper have declined 24% from 2003 to 2010. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与80年代末相比，晚间新闻的海外报道在2013年减少了大半。为美国报业工作的国际记者也在2003至2010年间减少了24%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the new digital native outlets continue to add staff, the country may be seeing the first real build-up of international reporting in decades – save for a few start- ups like Global Post.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着新兴的纯数字化新闻机构在不断招兵买马，美国或将在数十年来见证第一次真正的国际化报道的壮大——除去个别新成立的媒体如Global Post。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So far, the impact of new money flowing into the industry may be more about fostering new ways of reporting and reaching audience than about building a new, sustainable revenue structure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2）至今，流入新闻业的新投资或许更多的是关于促进报道的新方式和接近受众的新方式，而非发展新的可持续的收入结构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The news industry in the U.S. brings in a little over $60 billion of revenue annually, according to estimates in our report. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>推测自本报告，美国的新闻业获得逾600亿美元的年收入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Advertising, at least for now, accounts for roughly two-thirds of this pie, most of which remains tied to legacy forms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就目前来看，广告收入占据总收入的近三分之二，其中大多还在沿袭传统的模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Audience revenue accounts for about a quarter and is growing both in total dollars and in share. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自受众的收入占四分之一，并在总金额和股份方面继续增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this revenue may also be coming from a smaller—or at least flat—pool of contributors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这部分收入也可能来自小众的，至少是固定的，一群投资者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>New kinds of earned revenue streams like event hosting and web consulting account for about 7%, while investment from sources such as venture capital and philanthropy amount to only about 1% of the total. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新型的收入如线上活动和网上咨询占比约7%，不过来自诸如风险投资和慈善投资只占总收入的1%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One part of the equation worth exploring is what kind of savings occurs at digital news startups free of the legacy infrastructure, but taking on the newer costs of technology development and maintenance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于该等式值得探讨的一部分是对于摆脱了传统媒体结构的数字媒体能在哪里节约资金，毕竟在开发和维护技术上产生新的支出.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Social and mobile developments are doing more than bringing consumers into the process – they are also changing the dynamics of the process itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3）社交媒体和移动设备的发展所带来的不只是吸引更多的受众，它们还在改变新闻采编的流程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>New survey data released here find that half (50%) of social network users share or repost news stories, images or videos while nearly as many (46%) discuss news issues or events on social network sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次披露的新的调查数据发现半数（50%）的社交媒体用户会分享或转载新闻故事、图片或视频当近似的用户（46%）在社交网站上讨论新闻事件或活动时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And with broader mobile adoption, citizens are playing important eyewitness roles around news events such as the Boston bombing and the Ukrainian uprising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且随着手机的普及，公民们在类似波士顿爆炸案和乌克兰起义这些新闻事件中扮演着重要的目击者角色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Roughly one-in-ten social network users have posted news videos they took themselves, according to the data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数据表明，大约十分之一的社交媒体用户发布过自拍的新闻视频。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And 11% of all online news consumers have submitted their own content (including videos, photos, articles or opinion pieces) to news websites or blogs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>11%的网络新闻受众向新闻网站或博客提交过个人作品（包括视频，照片，文章或评论）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as powerful, though, are the shifts in how news functions in these spaces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过同样重要的是新闻在这些平台中功能性的改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On social sites and even many of the new digital-only sites, news is mixed in with all other kinds of content – people bump into it when they are there doing other things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在社交型网站，甚至在很多新的纯数字网站，新闻与所有其他类型的内容相混合——于是当人们在做其他事情的时候会碰巧看到新闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This bumping into means there may be opportunity for news to reach people who might otherwise have missed it, but less of that may be in the hands of news organizations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种“碰巧”对于新闻而言意味着触及到那些可能错失它的受众的机会，不过似乎少数来自新闻机构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only about a third of people who get news on Facebook follow a news organization or individual journalist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在Facebook上获得新闻的用户，仅三分之一有关注新闻媒体或记者。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

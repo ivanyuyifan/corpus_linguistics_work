@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Web Science: Studying the Internet to Protect Our Future
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络科学：研究因特网 保护我们的未来
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Studying the Web will reveal better ways to exploit information, prevent identity theft, revolutionize industry and manage our ever growing online lives 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研究网络将会揭示利用信息，预防身份盗用，实现产业革新和管理我们不断发展的网络生活的更好方式
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since the World Wide Web blossomed in the mid-1990s, it has exploded to more than 15 billion pages that touch almost all aspects of modern life. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自从万维网在1990年代中期兴起繁荣以来，它已经激增到了150亿个网页，这些网页触及现代生活的几乎所有方面。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Today more and more people's jobs depend on the Web. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今天，越来越多人的工作依靠网络。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Media, banking and health care are being revolutionized by it. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>媒体、金融和医疗正在被它革新。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And governments are even considering how to run their countries with it. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>各国政府甚至正在考虑怎样利用它管理国家。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Little appreciated, however, is the fact that the Web is more than the sum of its pages. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，极少有人了解这一事实：网络并非仅仅是网页的数量。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Vast emergent properties have arisen that are transforming society. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>改变社会的大量突现的特征已经出现。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>E-mail led to instant messaging, which has led to social networks such as Facebook. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电子邮件引发了即时信息传送，这又产生了比如Facebook之类的社交网络。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The transfer of documents led to file-sharing sites such as Napster, which have led to user-generated portals[1] such as YouTube. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>文件的传送导致了诸如Napster一类分享文件的网络，这产生了像YouTube这样的用户生成的门户网站。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And tagging content with labels is creating online communities that share everything from concert news to parenting tips.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用标签标注内容正在创建能够分享从音乐会消息到育儿指导等一切内容的网上社区。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But few investigators are studying how such emergent properties have actually happened, how we might harness them, what new phenomena may be coming or what any of this might mean for humankind. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但没有几个研究人员在研究这些突现的特征实际上是怎样出现的，我们有可能怎样利用它们，可能出现什么新现象，或者这些新现象中的任何一种现象对人类意味着什么。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A new branch of scienceв "Web scienceв" aims to address such issues. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学的一个新的分支――网络科学――旨在解决这些问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The timing[2] fits history: computers were built first, and computer science followed, which subsequently improved computing significantly. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>时机的选择符合历史：首先发明了计算机，计算机科学随之出现，这随后极大地提高了计算能力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Web science was launched as a formal discipline in November 2006, when the two of us and our colleagues at the Massachusetts Institute of Technology and the University of Southampton in England announced the beginning of a Web Science Research Initiative. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络科学于2006年11月被确定为一门正式学科，当时我们两个人和我们在麻省理工学院和英格兰南安普顿大学的同事宣布开始发起一项“网络科学研究计划”。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Leading researchers from 16 of the worldвЂ™s top universities have since expanded on that effort.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来自世界16所顶尖大学的主要研究人员随后在这一研究计划上展开了研究。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This new discipline will model the WebвЂ™s structure, articulate the architectural principles that have fueled its phenomenal[3] growth, and discover how online human interactions are driven by and can change social conventions. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这一新的学科将设计网络的结构，指明推动它飞速发展的建筑学原理，探索网络上的人类互动怎样由社会习俗所驱使和怎样改变社会习俗的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It will elucidate the principles that can ensure that the network continues to grow productively and settle complex issues such as privacy protection and intellectual-property rights. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它将阐明能够确保网络继续有效发展和解决复杂问题（比如保护隐私和知识产权）的原则。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To achieve these ends, Web science will draw on mathematics, physics, computer science, psychology, ecology, sociology, law, political science, economics, and more.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为达到这些目的，网络科学将吸收数学、物理学、计算机科学、心理学、生态学、社会学、法学、政治学、经济学，以及更多学科的知识。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, we cannot predict what this nascent endeavor might reveal. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，我们无法预测正在进行的这项工作将揭示什么。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet Web science has already generated crucial insights, some presented here. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而网络科学早已产生了重要的认识，其中一些已在这里呈现出来。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ultimately, the pursuit[4] aims to answer fundamental questions: What evolutionary patterns have driven the Web's growth? Could they burn out? 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最终，这一研究着力寻求如下重要问题的答案：什么发展模式推动了网络的发展？它们会消亡吗？
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How do tipping points[5] arise, and can that be altered?
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>倾点是怎样产生的，能改变它们吗？
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Insights Already 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>已经取得的认识 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although Web science as a discipline is new, earlier research has revealed the potential value of such work. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管网络科学作为一门学科是崭新的，先前的研究已经表明这种工作的潜在价值。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As the 1990s progressed, searching for information by looking for key words among the mounting number of pages was returning more and more irrelevant content. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随着1990年代的进展，通过在众多的网页中查找关键词搜索信息返回了越来越多的无关内容。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The founders of Google, Larry Page and Sergey Brin, realized they needed to prioritize[6] the results.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌的创始人拉里・佩奇和谢尔盖・布林意识到他们需要把结果区分优先次序。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Their big insight was that the importance of a page "how relevant it is" was best understood in terms of the number and importance of the pages linking to it. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们的远大认识是，网页的重要性――它的相关性――就数量和与之相链接的网页的重要性方面，得到最好的理解。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The difficulty was that part of this definition is recursive: the importance of a page is determined by the importance of the pages linking to it, whose importance is determined by the importance of the pages linking to them. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>问题是该定义的一部分是递归的：一个网页的重要性是由与之相链接的众多网页的重要性决定的，而这些网页的重要性是由与它们相链接的网页的重要性决定的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Page and Brin figured out an elegant[7] mathematical way to represent that property and developed an algorithm they called PageRank to exploit the recursiveness, thus returning pages ranked from most relevant to least.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>佩奇和布林想出了一个绝妙的办法来描述这一特性并研发了一种运算法则（他们称为网页等级）来利用这种递归性，这样就按照从最相关到最不相关的顺序搜索到网页。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Google's success shows that the Web needs to be understood and that it needs to be engineered[8]. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌的成功表明网页需要理解，需要策划。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Web science serves both purposes. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络科学服务于这两个目的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Web is an infrastructure of languages and protocolsвЂ”a piece of engineering. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络是语言和协议的基础下部组织，也就是一项工程。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The philosophy[9] of content linking underlies[10] the emergent properties, however. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，与内容链接的设计原则构成了这些突现特征的基础。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some of these properties are desirable and therefore should be engineered in. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中一些特征是令人满意的，因而应该设计在里面。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, ensuring that any page can link to any other page makes the Web powerful both locally and globally. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，确保任何网页能够连接到其他任何网页使网络在本地和全球都很强大。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other properties are undesirable and if possible should be engineered out, such as the ability to build a site with thousands of artificial links generated by software robots for the sole intention of improving that site's search ranking--so-called link farms.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他特征不令人满意，如果可能，应该排除,比如，利用数千个由软件机器人产生、仅仅为提高该网站的搜索排名（因而叫做连接联盟）的人工链接建立一个网站的能力。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Another early discovery, which came from graph theory, is that the Web's connectivity follows a so-called power-law degree distribution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一个源于图象理论的早期发现是，网络的连通性遵循一个叫做幂指数分配的定律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In many networks, nodes have about the same number of links to them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在很多网络中，网站大约都有相同数量与其相连的链接。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But on the Web a few pages have a huge number of other pages linking to them, and a very large number of pages have only a few pages linking to them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是在网站上，只有几个网页有与之相连的庞大数量的其他网页，很多网页只有几个网页与之相连。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Northeastern University's Albert-László Barabási and his colleagues coined the term "scale-free" to characterize such networks [see"Scale-Free Networks," by Albert-László Barabási and Eric Bonabeau; Scientific American, May 2003]. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>东北大学的艾伯特・拉斯洛・巴拉巴西和同事创造了“无标度”这一术语，来描述这些网络的特征[    参见艾伯特・拉斯洛・巴拉巴西和埃里克・博纳博著《无标度网络》；2003年5月《科学美国人》]。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many people were surprised because they assumed Web pages would have an average number of links to and from them.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很多人感到吃惊，因为他们想象网页会有相等数目连接到它们和由他们连接的链接。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In scale-free networks, even if a majority of nodes are removed, a path from one of the remaining nodes to any other is still likely to exist. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在无标度网络中，即使大多数网站被删除，尚存的网站通向其他任何网站的一条路径仍有可能存在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Removing a relatively small number of the highly connected nodes, or hubs, however, leads to significant disintegration. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，删除数量相对较少、高度关联的网站，或者中继站，导致重大程度的崩溃。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This analysis has been crucial for the companies and organizationsвЂ”be they telecommunications providers or research laboratoriesвЂ”that design how information is routed on the Web, allowing them to build in substantial redundancy that balances traffic and makes the network more resistant to attack..
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这一分析对于那些设计在网络上怎样发送信息，允许它们在平衡访问量和促使网络更加能够抵御攻击的相当冗余度内建立的各个公司和组织来说是很重要的，不管它们是电信供应商，还是从事研究的实验室。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thorough understanding of scale-free networks, gleaned by analyzing the Web, has prompted experts to analyze other network systems. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>透彻地理解无标度网络（通过分析网络而发现的）鼓舞了专家们分析其他的网络系统。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They have since found power-law degree distributions in areas as far-flung[11] as scientific citations and business alliances. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们此后发现在科技引文和商业联盟中都广泛存在幂指数分配定律。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The work has helped the U.S. Centers for Disease Control and Prevention improve its models of sexual disease transmission and has helped biologists better understand protein interactions.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这项工作已帮助美国疾病控制和预防中心改善了性病传播模型，并已帮助生物学家更好地理解蛋白质的相互作用。 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scientific analysis has also characterized the Web as having short paths and small worlds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学分析已总结出网络的特征为具有短途路径和众多极小的领域。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While at Cornell University in the 1990s, Duncan J. Watts and Steven H. Strogatz showed that even though the Web was huge, a user could get from one page to any other page in at most 14 clicks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1990年代在康乃尔大学时，邓肯?沃茨和史蒂芬?斯特罗加茨指出，即使网络很庞大，用户也可能至多在14次点击过程中从一个网页转到另一个网页。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet to fully understand these traits, we need to appreciate that the Web is a social network. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而要全面理解这些特征，我们需要理解，网络是一种社交的网络。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1967 Harvard University psychologist Stanley Milgram asked residents in Omaha, Neb., and Wichita, Kan., to attempt to send a package to an individual described only by his name, some general features and the fact that he lived in Boston. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1967年哈佛大学心理学家斯坦利・米尔格拉姆请内布拉斯州奥马哈市和堪萨斯州威奇塔市的居民给一个人发一个包裹，只知道这个人的名字、某些一般特征和他住在波士顿这一事实。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The residents were to send the package to an intermediary who they thought might know more about how to reach the individual and who could then send it on to another intermediary. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>居民们打算将包裹发给一个中间人，他们认为这个中间人对于怎样找到那个人也许知道的更多，这个中间人会继续向另一个中间人传递包裹。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Eventually 64 of the almost 300 packages made it to the designated recipients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最终大多300个包裹中的64个成功发给了指定的那个收件人。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On average the number of intermediaries needed was sixвЂ”the basis of the catch-phrase "six degrees of separation."
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>平均起来所需的中间人数量是6个，也就是“六度分割”理论的基数。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More recently, however, Watts, now at Columbia University, tried to repeat the experiment with an e-mail message to be forwarded on the Web and experienced failures in path finding. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而最近，现在已在哥伦比亚大学的沃茨试图用在网上传递一个电子邮件信息的方法重复这个实验，却在寻找路径时遭到失败。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In particular, if individuals had no incentive to forward the note the paths broke down. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>特别是，如果个人没有传送信息的动机，路径就会中断。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet only very slight incentives improved matters.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而只有很轻微的动机改善问题。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The lesson is that network structure alone is not everything; networks thrive only in the light of[12] the actions, strategies and perceptions of the individuals embedded in them. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从中得到的教训是，仅仅网络结构并非一切；网络只有借助于行动、策略和个人内在的认识才能繁荣兴旺。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To realistically know why the Web has a beneficial structure of short paths, we need to know why people who contribute content link it to other material. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要真正认识为什么网络拥有简短路径的有利结构，我们需要知道为什么发布信息的人把它和其他材料连接起来。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Social drivers --goals, desires, interests and attitudes--are fundamental aspects of how links are made. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>社会驱动力――目标，愿望，兴趣和态度――是链接如何构成的基本方面。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Understanding the Web requires insights from sociology and psychology every bit as much as from mathematics and computer science.From Micro to Macro One major area of Web science will explore how a small technical innovation can launch[13] a large social phenomenon. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>了解网络需要像领会数学和计算机科学一样，领会社会学和心理学的每个方面  从微观到宏观 要精确估计博客世界的规模很困难。网络科学的一个重要方面将探索一项小的技术革新怎样能够形成一个大的社会现象。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A striking example is the emergence of the blogosphere [14]. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个显著的例子是博客世界的出现。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although early Web browsers did not provide a handy way for the average person to "publish" his or her ideas, by 1999 blog programs had made self-publishing much easier. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管早期的网络浏览器不为一般人提供手动方式发表观点，到1999年博客程序已经让自我发表观点这一做法变得比较容易。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Blogging subsequently caught fire because as people got issues off their chest, they also found others with similar views who could readily assemble into a like-minded community.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>写博客随后成星火燎原之势，因为人们能够倾吐心中之事，人们也找到具有相同观点的人，这些人很容易汇集成一个思想相同的社区。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is difficult to estimate the size of the blogosphere accurately. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg/></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>David Sifry's leading blog search engine, called Technorati, was tracking more than 112 million blogs worldwide in May of this year, a number that may include only a mere fraction of the 72 million blogs purportedly in China. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>戴维・斯夫里的主要博客搜索引擎（名字叫Technorati）在今年5月跟踪了1.12亿世界范围的博客，这一数字也许只包括7200万中国支持的博客中的极小部分。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whatever the size, the explosive growth demands an explanation. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不管规模大小，暴长需要解释。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Arguably, the introduction of very simple mechanisms, especially TrackBack, facilitated[15] the growth. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大概很简单的机制的引入，特别是TrackBack，促进了增长。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If a blogger writes an entry commenting on or referring to an entry at another blog, TrackBack notifies the original blog with a "ping." 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果一个博客作者写了一条评论或让人参阅另一个博客的一个事项，TrackBack用“乒”字通知原先的博客。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This notification enables the original blog to display summaries of all the comments and links to them.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个通知使原来的博客能够展示所有评论的摘要和到它们的链接。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this way, conversations arise spanning several blogs and rapidly form networks of individuals interested in particular themes. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过这种方式，掀起对话，延伸到几个博客，迅速形成对某些特定主题感兴趣的个体网络。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And here again large portions of the blog structure become linked via short paths --- not only the blogs and bloggers themselves but also the topics and entries made.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样再次博客结构的大部分通过短途路径连接起来，不仅仅是博客和博客作者本人，而且还有所讨论的话题和事项。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As blogging blossomed, researchers quickly created interesting tools, measurement techniques and data sets to try to track the dissemination of a topic through blogspace. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随着博客的兴盛，研究人员很快创造了令人感兴趣的工具、测量技术和数据系统以设法在博客世界跟踪一个话题的传播。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Social-media analyst Matthew Hurst of Microsoft Live Labs collected link data for six weeks and produced a plot of the most active and interconnected parts of the blogosphere. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>社交媒介分析人士、微软活性实验室的马修・赫斯特搜集了六个星期的链接数据，制作了一张博客世界最活跃和相互联系部分的图表。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It showed that a number of blogs are massively popular, seen by 500,000 different individuals a day. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它表明一些博客非常受欢迎，每天有50万不同的人看过。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A link or mention of another blog by one of these superblogs guarantees a lot of traffic to the site referenced. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些上层博客之一所做的链接或提及的另一个博客保证了通向提及网站的很大访问量。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The plot also shows isolated groups of dedicated enthusiasts who are very much in touch with one another but barely connect to other bloggers.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该图也表明，专心致志的热心人士的孤立群体彼此联系很密切，但很少与其他博客作者联系。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If exploited correctly, the blogosphere can be a powerful medium for spreading an idea or gauging[16] the impact of a political initiative or the likely success of a product launch. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果正确利用，博客世界会成为传播思想，或者估计一项政治行动的影响，或者可能成功推出一个产品的有力媒介。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The much anticipated release of the Apple iPhone generated 1.4 percent of all new postings on its launch day. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>广受期待的Apple iPhone的发行在它发行当天引发了所有新帖子中的1.4%。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One challenge is to understand how this dissemination might change our view of journalism and commentary. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个挑战是，了解这种传播会怎样改变我们对新闻业和评论的观点。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What mechanisms can assure blog readers that the facts quoted are trustworthy? Web science can provide ways to check this so-called provenance of information, while offering practical rules about conditions surrounding its reuse. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>什么机制能向博客读者保证引用的事实值得信赖？网络科学能提供检查这种所谓的信息来源的方法，同时提供关于它的再利用条件的实用规则。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Daniel Weitzner's Transparent Accountable Datamining Initiative at M.I.T. is doing just that.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>丹尼尔・韦茨纳在麻省理工学院进行的《简明可解释性数据挖掘计划》做的正是这项工作。</seg></tuv>
+</tu>
+</body>
+</tmx>

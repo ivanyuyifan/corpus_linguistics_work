@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>CHAPTER 26 MECHANICAL VENTILATORY SUPPORT</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第26章 机械通气</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>MECHANICAL VENTILATORY SUPPORT</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mechanical ventilation is a therapeutic method that is used to assist or replace spontaneous breathing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气是一种用来辅助或替代自主呼吸的治疗方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The primary indication for initiation of mechanical ventilation is respiratory failure, of which there are two basic types: hypoxemic respiratory failure, which is present when arterial O2 saturation (SaO2) &lt;90% occurs despite an increased inspired O2 fraction, and hypercarbic respiratory failure, which is characterized by arterial PCO2 values &gt;50 mmHg. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>开始机械通气的主要适应证是呼吸衰竭，包括两种基本类型:低氧性呼吸衰竭，表现为提高吸氧浓度不能纠正的动脉血氧饱和度（SaO2）&lt;90%；高碳性呼吸衰竭，即动脉CO2分压值大于50mmHg。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When it is chronic, neither of the two types is obligatorily treated with mechanical ventilation, but when acute, mechanical ventilation may be lifesaving.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于慢性呼吸衰竭来说，两种类型均非必须采用机械通气治疗，但对于急性呼吸衰竭，机械通气是救命的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>INDICATIONS</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>适应证</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most common reasons for instituting mechanical ventilation are acute respiratory failure with hypoxemia (acute respiratory distress syndrome, heart failure with pulmonary edema, pneumonia, sepsis, complications of surgery and trauma), which accounts for ~65% of all ventilated cases, followed by causes of hypercarbic ventilatory failure such as coma (15%), exacerbations of chronic obstructive pulmonary disease (13%), and neuromuscular diseases (5%). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实施机械通气最常见的原因是低氧急性呼吸衰竭（如急性呼吸窘迫综合征、心源性肺水肿、肺炎、败血症、外科手术和创伤并发症），在所有机械通气病例中占65%，其次是引起高碳性呼吸衰竭的原因，如昏迷（15%）、慢性阻塞性肺疾病加重（13%）及神经肌肉疾病（5%）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The primary objectives of mechanical ventilation are to decrease the work of breathing, thus avoiding respiratory muscle fatigue, and to reverse life-threatening hypoxemia and progressive respiratory acidosis.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气的主要目标是减少呼吸功，从而避免呼吸肌疲劳，并扭转危及生命的低氧血症和进行性加重的呼吸性酸中毒。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In some cases, mechanical ventilation is used as an adjunct to other forms of therapy, such as its use in reducing cerebral blood flow in patients with increased intracranial pressure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在某些情况下，机械通气可被用作辅助治疗方法，例如，在患者颅内压增高时，机械通气可用于降低脑血流量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mechanical ventilation also is used frequently in conjunction with endotracheal intubation to prevent aspiration of gastric contents in otherwise unstable patients during gastric lavage for suspected drug overdose or during gastrointestinal endoscopy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气也经常配合气管插管使用，在疑似药物过量进行洗胃或胃肠内镜检查时，防止患者胃内容物误吸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In critically ill patients, intubation and mechanical ventilation may be indicated before essential diagnostic or therapeutic studies if it appears that respiratory failure may occur during those maneuvers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于危重病人来说，如果预计在重要诊断和治疗活动中会出现呼吸衰竭，可预先行气管插管和机械通气。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>TYPES OF MECHANICAL VENTILATION</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气的类型</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In its broadest sense, there are two distinct methods for ventilating patients: noninvasive ventilation (NIV) and invasive ventilation or conventional mechanical ventilation (MV).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从广义上讲，通气患者可以施行两种不同的方法:无创通气（NIV）和有创通气/传统机械通气（MV）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Noninvasive ventilation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无创通气</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Noninvasive ventilation has been gaining more acceptance because it is effective in certain conditions, such as acute or chronic respiratory failure, and is associated with fewer complications, namely, pneumonia and tracheolaryngeal trauma. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无创通气现已获得越来越多的认可，因为它在一定的条件下是有效的，如急性或慢性呼吸衰竭，且伴随更少的并发症，比如肺炎和气管喉创伤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Noninvasive ventilation usually is provided by using a tight-fitting face mask or nasal mask similar to the masks traditionally used for treatment of sleep apnea. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无创通气通常要使用一个紧密贴合的面罩或鼻罩，类似于传统上用于治疗睡眠呼吸暂停的面罩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Noninvasive ventilation has proved highly effective in patients with respiratory failure from acute exacerbations of chronic obstructive pulmonary disease and is most frequently implemented by using bilevel positive airway pressure ventilation or pressure support ventilation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于因慢性阻塞性肺病急性加重所致呼吸衰竭，无创通气是十分有效的，通常采用双水平气道正压通气或压力支持通气。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In both of these modes, a preset positive pressure is applied during inspiration and a lower pressure is applied during expiration at the mask. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这两种模式中，在吸气过程中经过面罩施加一个预先设定的正压，在呼气过程中施加一个较低压力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both modes are well tolerated by a conscious patient and optimize patient-ventilator synchrony. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两种模式对于神志清醒的患者均有良好耐受性，并能优化人机同步性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The major limitation to its widespread application has been patient intolerance because the tight-fitting mask required for NIV can cause both physical and emotional discomfort. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>限制其广泛应用的最大原因在于病人的不耐受性，因为无创通气所需要的紧贴面罩会导致身体和心理的不适。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition, NIV has had limited success in patients with acute hypoxemic respiratory failure, for whom endotracheal intubation and conventional MV remain the ventilatory method of choice.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外，无创通气在低氧急性呼吸衰竭患者中只取得了部分成功，因为对于这些患者来说，气管插管和常规有创通气仍是优先选择的通气方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most important group of patients who benefit from a trial of NIV are those with acute exacerbations of chronic obstructive pulmonary disease (COPD) leading to respiratory acidosis (pH &lt;7.35). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>慢性阻塞性肺病急性加重导致呼吸性酸中毒（pH&lt;7.35）的患者是无创通气的最大受益者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Experience from several well-conducted randomized trials has shown that in patients with ventilatory failure characterized by blood pH levels between 7.25 and 7.35, NIV is associated with low failure rates (15–20%) and good outcomes (intubation rate, length of stay in intensive care, and in some series mortality rates). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数个较高质量的随机试验表明，血pH在7.25~7.35的呼吸衰竭患者，无创通气失败率较低（15%~20%），结果较理想（插管率，重症监护住院时间，以及一系列死亡率）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In more severely ill patients with pH &lt;7.25, the rate of NIV failure is inversely related to the severity of respiratory acidosis, with greater failure as the pH decreases. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>pH小于7.25的更严重病例，无创通气失败率与呼吸性酸中毒的严重程度呈负相关，随着pH的降低，失败率越大。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In patients with milder acidosis (pH &gt;7.35), NIV is not better than conventional therapy that includes controlled oxygen delivery and pharmacotherapy for exacerbations of COPD (systemic corticosteroids, bronchodilators, and, if needed, antibiotics).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于轻度酸中毒（pH&gt;7.35），使用无创通气的效果不优于常规疗法，包括控制性氧疗和药物治疗（全身应用皮质醇、支气管扩张药及必要时的抗生素）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Despite its benign outcomes, NIV is not useful in the majority of cases of respiratory failure and is contraindicated in patients with the conditions listed in Table 26-1. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管有上述好的结果，无创通气在大多数情况下并无帮助。如果患者具备表26-1中所列条件下，那么无创通气是禁用的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Experience shows that NIV can delay lifesaving ventilatory support in those cases and actually results in aspiration or hypoventilation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>经验表明，在那些情况下无创通气会延迟能救命的通气支持，可导致误吸或通气不足。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once NIV is initiated, patients should be monitored; a reduction in respiratory frequency and a decrease in the use of accessory muscles (scalene, sternomastoid, and intercostals) are good clinical indicators of adequate therapeutic benefit. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无创通气一旦开始，应该对患者进行密切监测；呼吸频率降低和辅助呼吸肌（斜角肌、胸锁乳突肌和肋间肌）活动减少是治疗效果良好的临床指标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Arterial blood gases should be obtained at least within hours of the initiation of therapy to ensure that NIV is having the desired effect and that it is safe to continue its application. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>动脉血气分析应至少在治疗开始数小时内进行，以确保达到预期效果并能继续安全使用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lack of benefit within that time frame should alert one to the possible need for conventional MV.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果在这段时间内没有达到预期疗效，那么就应注意有创机械通气治疗的必要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Conventional mechanical ventilation</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>常规机械通气</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Conventional mechanical ventilation is implemented once a cuffed tube is inserted into the trachea to allow conditioned gas (warmed, oxygenated, and humidified) to be delivered to the airways and lungs at pressures above atmospheric pressure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一旦带套囊导管插入气管，允许条件优化的气体（加温、氧化和加湿）在高于大气压的压力下输送至呼吸道和肺，常规机械通气便开始实行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Great care has to be taken during the act of intubation to avoid brain-damaging hypoxia. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>插管时要尤其小心，以避免导致脑损伤的低氧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In some patients, intubation can be achieved without added sedation. In most patients, the administration of mild sedation may help facilitate the procedure. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于一些患者来说，气管插管可无须使用镇静药来实现，但对于大多数患者来说，使用轻度镇静药可以帮助促进这一过程。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Opiates and benzodiazepines are good choices but can have a deleterious effect on hemodynamics in patients with depressed cardiac function or low systemic vascular resistance. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>阿片类和苯二氮类药物是很好的选择，但对心脏功能降低和体循环血管阻力低的患者来说会对其血流动力产生有害影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Morphine can promote histamine release from tissue mast cells and may worsen bronchospasm in patients with asthma; fentanyl, sufentanil, and alfentanil are acceptable alternatives. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>吗啡能促进组织肥大细胞释放组胺，并可能加重哮喘患者支气管痉挛的症状，也可替换为芬太尼、舒芬太尼和阿芬太尼。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ketamine may increase systemic arterial pressure and has been associated with hallucinatory responses; it should be used with caution in patients with hypertensive crisis or a history of psychiatric disorders. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>氯胺酮会增加全身动脉压，并与幻觉反应有关；有高血压危象或精神疾病史的患者慎用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Newer agents such as etomidate and propofol have been used for both induction and maintenance of anesthesia in ventilated patients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>较新的药物，如依托咪酯和丙泊酚，已被用于持续机械通气患者的诱导和维持麻醉。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They are shorter-acting, and etomidate has fewer adverse hemodynamic effects, but both agents are significantly more expensive than older agents. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两者药效均短，依托咪酯的血流动力学不良反应更少，但两者均比老药更贵。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Great care must be taken to avoid the use of neuromuscular paralysis during intubation; in particular, the use of agents whose mechanism of action includes depolarization at the neuromuscular junction, such as succinylcholine chloride, should be avoided in patients with renal failure, tumor lysis syndrome, crush injuries, medical conditions associated with elevated serum potassium levels, and muscular dystrophy syndromes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>插管时要尤其注意，避免使用肌松药；特别注意的是，作用机制包括神经肌肉接头去极化的药物，如氯化琥珀胆碱，应避免用于患者:肾衰竭、肿瘤溶解综合征、挤压伤等高血钾情况和肌营养不良综合征的患者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PRINCIPLES OF MECHANICAL VENTILATION</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机械通气的原则</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once the patient has been intubated, the basic principles of applying MV are to optimize oxygenation while avoiding overstretch and collapse/rerecruitment ventilator-induced lung injury (VILI). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一旦患者已插管，应用机械通气的基本原则是优化氧合，避免由肺泡过度扩张和塌陷/重复肺复张引发的呼吸机相关性肺损伤（VILI）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This concept, which is illustrated in Fig. 26-1, has gained acceptance because of important empirical and experimental evidence linking high airway pressures and volumes and overstretching the lung with collapse/rerecruitment with poor outcomes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如图26-1所示，这一概念已获认可，因为重要经验和实验证据证明，高气道压力和容积、肺泡塌陷/重复肺复张所致肺过度扩张与不良预后相关。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although normalization of pH through elimination of CO2 is desirable, the risk of lung damage associated with the large volume and high pressures needed to achieve this goal has led to the acceptance of permissive hypercapnia. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管我们希望通过降低二氧化碳使pH正常化，但为实现这一目标所需大容量和高压力所带来的肺损伤风险还是让我们接受允许性高碳酸血症。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This approach has been found to be well tolerated when care is taken to avoid excess acidosis by pH buffering.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若注意通过pH缓冲避免过度酸中毒，这一策略已被证明具有良好的耐受性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>MODES OF VENTILATION</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通气的模式</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mode refers to the manner in which ventilator breaths are triggered, cycled, and limited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通气模式是指呼吸机通气触发、切换和限制的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The trigger, either an inspiratory effort or a time-based signal, defines what the ventilator senses to initiate an assisted breath. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>触发是指呼吸机如何检测吸气努力或时间信号来发起一次辅助呼吸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cycle refers to the factors that determine the end of inspiration. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>切换指的是决定吸气结束的因素。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, in volume-cycled ventilation, inspiration ends when a specific tidal volume is delivered. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，在容积切换型通气中，吸气以预置的潮气量被输送而结束。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other types of cycling include pressure cycling and time cycling. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他类型的循环包括压力切换和时间切换。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The limiting factors are operator-specified values, such as airway pressure, that are monitored by transducers internal to the ventilator circuit throughout the respiratory cycle; if the specified values are exceeded, inspiratory flow is terminated, and the ventilator circuit is vented to atmospheric pressure or the specified pressure at the end of expiration (positive end-expiratory pressure [PEEP]). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>限制因素是操作者指定的一些数值，如气道压力，能够在整个呼吸周期内通过呼吸环路内传感器对机械通气患者进行监测；如果超过指定值，吸气气流被终止，呼吸机管道内压降至大气压或呼气末期指定压力[呼气末正压（PEEP）]。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most patients are ventilated with assist control ventilation, intermittent mandatory ventilation, or pressure-support ventilation, with the latter two modes often used simultaneously (Table 26-2).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大多数通气患者使用辅助控制通气，间歇指令通气，或压力支持通气，后者两种模式经常同时使用（表26-2）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Assist control ventilation (ACMV) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>辅助控制通气（ACMV）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is the most widely used mode of ventilation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>辅助控制通气是最常用的通气模式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this mode, an inspiratory cycle is initiated either by the patient-inspiratory effort or, if none is detected within a specified time window, by a timer signal within the ventilator. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种情况模式下，一个通气周期始于患者吸气努力，但如果在特定时间窗内未探测到自主触发，那么通气周期便始于呼吸机的计时器信号。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Every breath delivered, whether patient- or timer-triggered, consists of the operator-specified tidal volume. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>每一次呼吸，无论是患者还是机器触发，均包含操作者指定的潮气量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ventilatory rate is determined either by the patient or by the operator-specified backup rate, whichever is of higher frequency. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通气频率是由患者或操作者指定后备频率中较高的决定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>ACMV commonly is used for initiation of mechanical ventilation because it ensures a backup minute ventilation in the absence of an intact respiratory drive and allows for synchronization of the ventilator cycle with the patient- inspiratory effort.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>辅助控制通气常用于初用机械通气时，因为它能保证在没有一个完好的呼吸驱动的情况下，提供后备的分钟通气量，并保证呼吸机与病人的自主吸气同步。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Problems can arise when ACMV is used in patients with tachypnea due to nonrespiratory or nonmetabolic factors, such as anxiety, pain, and airway irritation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于非呼吸或非代谢因素，如焦虑、疼痛和呼吸道刺激而引起呼吸急促的患者，采用辅助控制通气时会出现一些问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Respiratory alkalemia may develop and trigger myoclonus or seizures. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>呼吸碱血症可能会出现并引发肌阵挛或癫痫。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Dynamic hyperinflation leading to increased intrathoracic pressures (so-called auto-PEEP) may occur if the patient-respiratory mechanics are such that inadequate time is available for complete exhalation between inspiratory cycles. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果患者呼吸周期内没有足够的时间完成呼气，动态肺泡过度充盈会导致胸内压增高（即内源性呼气末正压）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Auto-PEEP can limit venous return, decrease cardiac output, and increase airway pressures, predisposing to barotrauma.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>内源性呼气末正压会限制静脉回流，减少心排血量，增加气道压力，诱发气压性损伤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Intermittent mandatory ventilation (IMV) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>间歇指令通气（IMV）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With this mode, the operator sets the number of mandatory breaths of fixed volume to be delivered by the ventilator; between those breaths, the patient can breathe spontaneously. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种模式下，操作者需要设定通过呼吸机输送固定容量的指令通气频率；在这些指令通气之间，患者能够自主呼吸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the most frequently used synchronized mode (SIMV), mandatory breaths are delivered in synchrony with the patient抯 inspiratory efforts at a frequency determined by the operator. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在最常用的同步间歇指令通气（SIMV）中，指令通气在操作者设定频率下输送，并和患者的自主呼吸保持同步。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the patient fails to initiate a breath, the ventilator delivers a fixed-tidal-volume breath and resets the internal timer for the next inspiratory cycle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果患者未能发起自主呼吸，呼吸机会输送固定值的潮气量，并重置下一个吸气周期的内部定时器。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>SIMV differs from ACMV in that only the preset number of breaths is ventilator-assisted.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同步间歇指令通气与辅助控制通气不同之处在于，同步间歇指令通气只有预定次数的呼吸是呼吸机辅助的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>SIMV allows patients with an intact respiratory drive to exercise inspiratory muscles between assisted breaths, making it useful for both supporting and weaning intubated patients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同步间歇指令通气可使呼吸驱动完好的患者呼吸机辅助呼吸的间隙锻炼吸气肌，对插管辅助期和撤机期的患者有帮助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>SIMV may be difficult to use in patients with tachypnea because they may attempt to exhale during the ventilator-programmed inspiratory cycle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>SIMV模式可能难以用在患者呼吸急促时，因为患者可能会在呼吸机控制的吸气期呼气。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When this occurs, the airway pressure may exceed the inspiratory pressure limit, the ventilator-assisted breath will be aborted, and minute volume may drop below that programmed by the operator. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当这种情况发生时，气道压力可能超过吸气压力高限，呼吸机辅助呼吸将被中止，可导致分钟通气量低于操作者的设定值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this setting, if the tachypnea is in response to respiratory or metabolic acidosis, a change in ACMV will increase minute ventilation and help normalize the pH while the underlying process is further evaluated and treated.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种情况下，如果呼吸急促由呼吸性或代谢性酸中毒引起，换为辅助控制模式将增加每分钟通气量，并帮助恢复正常的pH，同时对潜在病因进行进一步评估和治疗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pressure-support ventilation (PSV) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力-支持通气（PSV）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This form of ventilation is patient-triggered, flow-cycled, and pressure-limited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一种患者触发、流量切换和压力限制的通气形式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It provides graded assistance and differs from the other two modes in that the operator sets the pressure level (rather than the volume) to augment every spontaneous respiratory effort. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力-支持通气提供分级的辅助呼吸，与前两种模式不同的是，操作者设置压力水平（而不是容积）以增强每次自主呼吸。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The level of pressure is adjusted by observing the patient-respiratory frequency. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力水平是通过观察病人的呼吸频率来调整的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During PSV, the inspiration is terminated when inspiratory airflow falls below a certain level; in most ventilators, this flow rate cannot be adjusted by the operator. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在进行压力-支持通气时，当吸气流速低于一定水平，吸气终止；多数呼吸机流速水平是无法由操作者调节的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When PSV is used, patients receive ventilator assistance only when the ventilator detects an inspiratory effort. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>PSV模式下，只有呼吸机监测到自主呼吸，患者才能获得通气辅助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PSV frequently is used in combination with SIMV to ensure volume-cycled backup for patients whose respiratory drive is depressed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力-支持通气通常与同步间歇指令通气结合使用，以为呼吸驱动受抑制的患者提供一个容量切换的后备保障。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PSV frequently is well tolerated by most patients who are being weaned; PSV parameters can be set to provide full or nearly full ventilatory support and can be withdrawn to load the respiratory muscles gradually.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力-支持通气对于撤机期的患者具有良好的耐受性；通过设置压力支持通气参数，可以提供全部或几乎全部的通气支持，也可以逐渐撤出呼吸机负荷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are other modes of ventilation, and each has its own acronym, making it very difficult to understand for those unfamiliar with the terms. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除此之外，还有其他的通气模式，各有其自己的缩写，这让不熟悉术语的人很难理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All these modes are modifications of the manner and duration in which pressure is applied to the airway and lungs and of the interaction between the mechanical assistance provided by the ventilator and the patient-respiratory effort. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有这些模式都是对用在气道和肺内压力的方式和时间的调整，也是对呼吸机提供的机械支持和患者的自主呼吸间相互作用的调整。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although their use in acute respiratory failure is limited, the following have been used with varying levels of enthusiasm and adoption.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管以下几种模式的作用在急性呼吸衰竭中是有限的，但是它们确被不同程度地采纳和使用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pressure-control ventilation (PCV) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（1）压力-控制通气（PCV）:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This form of ventilation is time-triggered, time-cycled, and pressure-limited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一种时间触发、时间切换和压力限制的通气模式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During the inspiratory phase, a specified pressure is imposed at the airway opening throughout inspiration. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在整个吸气阶段，有特定压力施加在整个气道开口。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since the inspiratory airway pressure is specified by the operator, tidal volume and inspiratory flow rate are dependent, rather than independent, variables and are not operator-specified. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为吸气气道压力是由操作者所指定的，潮气量和吸气流速是一个因变量，而不是可由操作者指定的自变量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PCV is the preferred mode of ventilation for patients in whom it is desirable to regulate peak airway pressures, such as those with preexisting barotrauma, and postoperative thoracic surgical patients, in whom the shear forces across a fresh suture line should be limited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力控制通气对于希望调节气道峰压的患者是优选的模式，例如已存在气压伤和胸外科手术后需限制横跨刀口剪切力的患者来说。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When PCV is used, minute ventilation and tidal volume must be monitored closely; minute ventilation is altered through changes in rate or in the pressure-control value, which changes tidal volume.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>进行压力控制通气时，必须密切监测每分钟通气量和潮气量，通过改变通气频率或压力来改变潮气量，从而改变每分钟通气量。</seg></tuv>
+</tu>
+</body>
+</tmx>

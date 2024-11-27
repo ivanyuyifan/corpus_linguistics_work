@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T031032Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Foreigner's Guide to Polish Weddings</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰传统婚礼简介</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Ceremony</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仪式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is perhaps not a surprise that many Polish wedding ceremonies are still held in churches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到现在，多数波兰人还是选择在教堂举行婚礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a country where so many people have at least some tie to the Catholic Church, it remains an important part of many couples' wedding plans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个大部分人口都受到天主教影响的国家里，这一点是很多新婚夫妇都要考虑的因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though fashions have certainly changed in recent years, guests might want to consider standards of modesty when in the Church. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然现在有很多时髦的婚庆方式，但在教堂的低调婚礼总是最标准的操作流程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Longer hem lengths and covered shoulders were once obligatory, and should perhaps still be kept in mind for more conservative affairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果要迎合保守的口味，婚纱面纱最好越长越好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Otherwise, take this opportunity to dress to the nines; a Polish wedding is not the time to slack off sartorially.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有，参加波兰婚礼是一个尽情装扮自己的机会，毕竟它要求宾客们在衣着裁剪上不能有丝毫的马虎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Catholic ceremony itself is similar to Catholic rites anywhere - though those who understand the language might be surprised by the frequency of rather "traditional" vows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天主教的仪式在所有地方都差不多——但如果听懂波兰语的外国人会发现婚礼誓词的内容非常传统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wives often pledge service and obedience to their future husbands - though of course this might well reflect an observance of tradition, rather than an actual picture of the future relationship.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新婚妻子们会宣誓自己将全力侍奉和绝对服从丈夫——这当然只是一种传统的誓词，它并不代表新婚夫妇以后的关系发展状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those accustomed to large wedding parties will notice that many Polish couples choose to restrict the number of attendants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参加过波兰大型婚礼派对的宾客们知道，主办方对参加婚礼的宾客数目有所限制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Polish couples typically are joined only by their witnesses, normally family members or very close friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参加婚礼的只能是见证人，他们通常是家庭成员或者很亲密的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two selected witnesses accompany the bride and groom at both their civil and church ceremonies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两位经过挑选的见证人将陪伴新郎新娘参加民政和宗教仪式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though recent trends have seen bridal parties grow; if you see a couple with only two attendants, it's not for lack of friends, but rather in adherence to custom.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然现在流行越来越多人参加婚礼派对，不过如果你看到只有两个人参加婚礼仪式的话，不要以为这对夫妻缺乏朋友。实际上他们只是遵守传统罢了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good Omens and Bad Portents: Wedding Superstitions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚礼上的迷信：好预兆和坏预兆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A full Catholic ceremony can be long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个完整的天主教婚礼仪式可以很漫长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While you're listening, take a second to see if the bride and groom have observed a number of old superstitions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个漫长的仪式里，你可以慢慢观察新郎新娘有没有遵循一些传统的迷信仪式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she is walking down the aisle, it's crucial the bride not trip over her veil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新娘从过道上走过来的时候，万万不能被婚纱绊倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since it also is critical that she not look back at to make sure it's properly positioned, all responsibility for minding the veil thus falls on the bride's attendant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但同时由于她不能够回头看看婚纱的位置摆放是否正确，所以看护行进中的婚纱位置的责任，就落在了陪伴新娘的人身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next, check out the bride's shoes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二，要小心检查新娘的鞋子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tradition says they mustn't be open toed, because future wealth and fortune will fly right through the open toes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>千万不能穿露出脚趾的鞋子，否则婚后的财运都会从露脚趾的鞋子中跑掉！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wrong shoe is not the only accessory choice that can doom the marriage; custom dictates that brides must never wear real pearls, as they will bring a lifetime of misery.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选错鞋子不但对婚礼的进行打击很大，但更加重要的是新娘子千万不能穿戴真珍珠，否则她一辈子都会遭遇厄运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you see the bride subtly move a patch of her wedding dress to cover the top of her groom's shoe, she might be following the old belief that this will give her a position of dominance in the relationship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你看到新娘偷偷用婚纱裙子掩盖住新郎的鞋子，那就意味着这个新娘在婚姻里打算有占领主导地位的野心 - 这也是一个老传统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those worried about the future of the couple also should keep an eye on any candles lit on the altar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些关心新婚夫妇未来稳定的看客也应该留意是否有蜡烛滴到圣坛上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tradition says if one goes out during the ceremony, either the bride or the groom will die young.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据传统，圣坛上的蜡烛要是熄灭了一根，那就意味着新郎或者新娘的其中一个很年轻就要死掉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, odds are if you're at a Polish wedding, the name of the month probably contains an 'R' (in Polish - March, June, August, September, October, or December). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有，在波兰语里，三月、六月、八月、九月、十月和十二月的名称都含有一个“r”字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's thought that these months will bring good luck to a marriage and are thus the most popular times to plan a wedding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据说在这些月份结婚特别能交好运，所以这些月份都是结婚的旺季。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having made it through the ceremony - hopefully without inadvertently cursing themselves to an unhappy future- the young couple will exit the church as husband and wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好了，如果一切都进展顺利的话，新郎新娘步出教堂以后就是夫妻了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where this moment is often accompanied with the throwing of rice, you likely will find that guests in Poland shower the newlyweds with coins (thankfully, Polish coins are quite small). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你习惯其他国家向他们抛掷米粒的话，你会发现波兰人习惯抛硬币。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is an adaptation of the traditional custom of throwing grain at the couple to ensure a prosperous and productive future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这在波兰的传统里意味着给新婚夫妇带来源源不断的财运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The coins, similarly, represent wishes for a successful future.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些硬币象征着美好的婚姻前景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bread, Salt, Vodka: The Reception Begins</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面包、盐、伏特加：招待开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now that the ceremony is over, it's time for the party to begin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚礼完成后，派对就应该开始了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many Polish wedding receptions still open with the traditional presentation of bread and salt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多波兰派对都由最典型的面包和盐开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upon the newlyweds' arrival at the reception, their parents present them with bread and salt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新婚夫妇到达派对现场后，双方父母给他们赠送面包和盐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bread is specially prepared and often decorated with the names of the couple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面包是经过了精心的准备，通常上面有夫妇的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This gift of bread and salt is symbolic - the bread is offered so that the couple many never know hunger, while the salt reminds them of life's difficulties and the importance of learning to cope.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面包和盐作为赠品是一种象征：面包象征夫妻俩永远无需挨穷；而盐则提醒他们生活的艰辛和解决困难的决心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Following the bread and salt, the couple traditionally has their first toast. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在面包和盐后，新婚夫妻会开始第一轮敬酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Customarily, the father of the bride or groom presents the couple with two glasses - one of vodka, one of water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传统来说，新婚夫妇双方的父亲们为他们送上两只杯 - 一杯伏特加，一杯白开水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are offered first to the bride, who must make her selection without knowing which is which. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们首先让新娘挑选，而她不知道哪一杯是酒，哪一杯是水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tradition says that whoever ends up with the glass of vodka will be the dominant partner in the relationship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰传统认为，谁挑选中了酒，谁在婚姻中就占有强势地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After their drink (and the portent of their future dynamic), the couple throws their glasses; if they break, it is a sign of good luck.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喝过酒水后，新婚夫妻扔掉杯子，要是碎了就会有好运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around this time, you may notice that guests have begun to hand over envelopes of money to the bride and groom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个时候，你会察觉到宾客们会给新婚夫妇送上用信封装的是钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While some couples have begun to register for gifts, giving cash is still more common. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然有些婚礼开始用礼品，但给钱还是更加普遍的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Getting the Party Started: Food and Drink</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>派对开始：食物和饮品</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With these traditional ceremonies out of the way, guests can look forward to the beginning of a very long, very filling evening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一轮传统仪式之后，人们就开始漫长的派对之夜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Current wedding guides advise that "for a standard wedding lasting about 12 hours, there are typically served between four and five hot entrees, along with appetizers, pastries, cake, and fruit." So if you finish your first meal and think it wasn't too filling, just wait ­there's more to come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当前的婚礼指南认为：“在一个时长大约12小时的婚礼里，通常要上四到五道热菜，还有其他开胃菜、甜点、蛋糕和水果。”要是你吃完第一道菜觉得不饱，可以慢慢等待。还陆续有来呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same wedding guide suggests a hot meal be served approximately every three hours.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而通常每个三个小时才会上一道热菜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The menu likely will vary based on the tastes of specific couples, but guests can expect a spread of cold starters to include cheeses, meats, vegetables, pates, and herring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>菜式会根据新婚夫妇的口味而不同，但通常宾客们可以首先享受到芝士、肉类、蔬菜和鲱鱼等冷盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There probably will be a soup... ­or two. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许也有会有两道汤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hot entrees might include grilled meats, roast chicken, smoked or baked fish, pork loin, tripe, hearty stews, potatoes, and breads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热菜包括烤肉、烧鸡、烟熏鱼、猪肉卷、牛肚、炖品、土豆和面包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Guests will also be treated to pastries, fruit, and cake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宾客们还会享受到甜点、水果和蛋糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Polish presentation of wedding cake is quite similar to that in other parts of the world, with the bride and groom cutting the first pieces and feeding one another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰的婚礼蛋糕跟其他国家差不多，新婚夫妇切蛋糕后相互喂食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All that food will be washed down with a seemingly endless supply of drink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伴随着食物还有源源不断的饮品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most popular beverage (as one might suspect) is vodka - which flows freely throughout the night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最流行的饮品是伏特加，整个晚上都会源源不断地供应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The gathering may spontaneously raise their glasses and start chanting "gorzko, gorzko!", meaning "bitter, bitter!" in order to demand a kiss from the groom and bride, in other words to ask for some sugar.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚宴嘉宾应该举起酒杯并且高喊“gorzko! gorzko!”，意思是“苦啊！苦啊！”这样做的意思是催促新婚夫妇接吻，也就是要求看到一些甜蜜的景象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the Stroke of Midnight: Oczepiny </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午夜钟声仪式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whereas many weddings would be winding down as midnight approaches, a Polish wedding is just approaching one of its most traditional moments - the removal of the bridal veil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许其他国家的婚宴在午夜来临之际也就快要结束了。但波兰的婚宴在午夜到来之际也就意味着另外一个仪式的开始。 这是波兰婚礼最传统的时刻：新娘要脱去头纱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This ceremony - called "oczepiny" - traditionally represented the transitional moment for the bride as she moved from her single youth towards her married future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个仪式叫“oczepiny”：传统上，它象征一个新娘从单身的少女变成一位已婚的少妇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The midnight hour was significant as a time of transition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午夜是这个身份转变的关键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The details of this ceremony have changed significantly over the years, but it remains a memorable moment in many contemporary Polish weddings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个仪式在近年变化得很快，但在很多波兰婚礼中是最值得纪念的时刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Traditionally, the oczepiny ceremony began with the unbraiding and cutting of the young bride's hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传统上来说，这个午夜婚礼由解开新娘的辫子和剪走部分头发开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long braids were symbolic of girlhood freedom; and as a newly married woman, the bride's hair was unbraided to reflect her new marital status.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长辫子是未婚少女自由的象征；对于一个已婚女人来说，她是不应该扎辫子的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the unbraiding of her hair also came the removal of the bride's wedding veil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>解开辫子之后就要拿掉面纱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The veil was exchanged for a special wedding cap, customarily a gift from the bride's godmother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拿掉之后带上专门为婚礼准备的特殊帽子，这通常是新娘祖母的礼物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is said that brides traditionally refused the cap three times, as it represented the loss of independence and youth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传统上来说，新娘要拒绝这份礼物三次，因为它象征着新娘失去了独立和青春。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once accepted, the cap became a special symbol of the marriage and was only worn on very special religious occasions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦接受了礼物，这顶帽子就承载着婚姻的重担，只有在特殊的宗教场合才会戴上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These days, not surprisingly, brides don't often mark this occasion with a change in their hairstyle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了今天，新娘们不会在这种场合改变任何发型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oczepiny has instead become a time for fun and games. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个仪式也慢慢开始变得娱乐化和游戏化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bride removes her veil and tosses it into a gathered crowd of single women. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新娘摘下面纱，把它扔向一群未婚的女士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The groom also gets in on the fun - removing and throwing his tie to the assembled male guests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新郎也会加入到游戏中：他接下自己的领带，扔向一群未婚的男士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is said that those who catch the tossed garments will be the next to marry (though not necessarily each other).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些接到抛掷物品的人将会很快也能结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the removal of the veil and tie, the bride and groom might choose to play a number of games. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脱下面纱和领带后，新婚夫妇将会参与一些游戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The character of these games can vary - some couples play a little trivia game about one another. Other options involve guests in silly competitions or bawdy scavenger hunts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些游戏都不同：有时候两夫妻会玩弄一下对方，有些则是比较简单的让宾客比赛或者甚至是有些下流的小游戏。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

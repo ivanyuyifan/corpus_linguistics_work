@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200207T120219Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Exploratory factor analysis</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>14.3 探索性因子分析</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The goal of EFA is to explain the correlations among a set of observed variables by uncovering a smaller set of more fundamental unobserved variables underlying the data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>EFA的目标是通过发掘隐藏在数据下的一组较少的、更为基本的无法观测的变量，来解释一组可观测变量的相关性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These hypothetical, unobserved variables are called factors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些虚拟的、无法观测的变量称作因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Each factor is assumed to explain the variance shared among two or more observed variables, so technically, they are called common factors.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（每个因子被认为可解释多个观测变量间共有的方差，因此准确来说，它们应该称作公共因子。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The model can be represented as</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>模型的形式为：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>where Xi is the ith observed variable (i = 1...k), Fj are the common factors (j=1...p), and p&lt;k. Ui is the portion of variable Xi unique to that variable (not explained by the common factors). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中Xi是第i个可观测变量（i = 1...k），Fj是公共因子（j = 1...p），并且p&lt;k。Ui是Xi变量独有的部分（无法被公共因子解释）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ai can be thought of as the degree to which each factor contributes to the composition of an observed variable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ai可认为是每个因子对复合而成的可观测变量的贡献值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we go back to the Harman74.cor example at the beginning of this chapter, we’d say that an individual’s scores on each of the 24 observed psychological tests is due to a weighted combination of their ability on four underlying psychological constructs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到本章开头的Harman74.cor的例子，我们认为每个个体在24个心理学测验上的观测得分，是根据四个潜在心理学因素的加权能力值组合而成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the PCA and EFA models differ, many of the steps will appear similar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然PCA和EFA存在差异，但是它们的许多分析步骤都是相似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To illustrate the process, we’ll apply EFA to the correlations among six psychological tests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为阐述EFA的分析过程，我们用它来对六个心理学测验间的相关性进行分析。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One hundred twelve individuals were given six tests, including a nonverbal measure of general intelligence (general), a picture-completion test (picture), a block design test (blocks), a maze test (maze), a reading comprehension test (reading), and a vocabulary test (vocab). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>112个人参与了六个测验，包括非语言的普通智力测验（general）、画图测验（picture）、积木图案测验（blocks）、迷津测验（maze）、阅读测验（reading）和词汇测验（vocab）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can we explain the participants’ scores on these tests with a smaller number of underlying or latent psychological constructs?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们如何用一组较少的、潜在的心理学因素来解释参与者的测验得分呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The covariance matrix among the variables is provided in the dataset ability.cov. You can transform this into a correlation matrix using the cov2cor() function. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数据集ability.cov提供了变量的协方差矩阵，你可用cov2cor()函数将其转化为相关系数矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are no missing data present.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数据集没有缺失值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because you’re looking for hypothetical constructs that explain the data, you’ll use an EFA approach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为要寻求用来解释数据的潜在结构，可使用EFA方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As in PCA, the next task is to decide how many factors to extract.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与使用PCA相同，下一步工作为判断需要提取几个因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Deciding how many common factors to extract</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>判断需提取的公共因子数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To decide on the number of factors to extract, turn to the fa.parallel() function: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用fa.parallel()函数可判断需提取的因子数：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The resulting plot is shown in figure 14.4. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果见图14-4。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Notice you’ve requested that the function display results for both a principal components and common factor approach, so that you can compare them (fa="both").</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意，代码中使用了fa = "both"，因子图形将会同时展示主成分和公共因子分析的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are several things to notice in this graph. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图形中有几个值得注意的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you’d taken a PCA approach, you might have chosen one component (scree test, parallel analysis) or two components (eigenvalues greater than 1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果使用PCA方法，你可能会选择一个成分（碎石检验和平行分析）或者两个成分（特征值大于1）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When in doubt, it’s usually a better idea to overfactor than to underfactor. Overfactoring tends to lead to less distortion of the “true” solution.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当摇摆不定时，高估因子数通常比低估因子数的结果好，因为高估因子数一般较少曲解“真实”情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Looking at the EFA results, a two-factor solution is clearly indicated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>观察EFA的结果，显然需提取两个因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first two eigenvalues (triangles) are above the bend in the scree test and also above the mean eigenvalues based on 100 simulated data matrices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>碎石检验的前两个特征值（三角形）都在拐角处之上，并且大于基于100次模拟数据矩阵的特征值均值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For EFA, the Kaiser–Harris criterion is number of eigenvalues above 0, rather than 1. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于EFA， Kaiser-Harris准则的特征值数大于0，而不是1。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Most people don’t realize this, so it’s a good way to win bets at parties.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（大部分人都没有意识到这一点。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the present case the Kaiser–Harris criteria also suggest two factors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图形中该准则也建议选择两个因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Extracting common factors</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>提取公共因子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now that you’ve decided to extract two factors, you can use the fa() function to obtain your solution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你决定提取两个因子，可以使用fa()函数获得相应的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The format of the fa() function is</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>fa()函数的格式如下：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>where r is a correlation matrix or a raw data matrix</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中：r是相关系数矩阵或者原始数据矩阵； </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>nfactors specifies the number of factors to extract (1 by default)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>nfactors设定提取的因子数（默认为1）； </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>n.obs is the number of observations (if a correlation matrix is input) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>n.obs是观测数（输入相关系数矩阵时需要填写）； </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>rotate indicates the rotation to be applied (oblimin by default) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>rotate设定旋转的方法（默认互变异数最小法）； </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>scores specifies whether or not to calculate factor scores (false by default) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>scores设定是否计算因子得分（默认不计算）； </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>fm specifies the factoring method (minres by default) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>fm设定因子化方法（默认极小残差法）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike PCA, there are many methods of extracting common factors. They include maximum likelihood (ml), iterated principal axis (pa), weighted least square (wls), generalized weighted least squares (gls), and minimum residual (minres). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与PCA不同，提取公共因子的方法很多，包括最大似然法（ ml）、主轴迭代法（ pa）、加权最小二乘法（ wls）、广义加权最小二乘法（ gls）和最小残差法（ minres）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Statisticians tend to prefer the maximum likelihood approach because of its well-defined statistical model. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>统计学家青睐使用最大似然法，因为它有良好的统计性质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes, this approach fails to converge, in which case the iterated principal axis option often works well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过有时候最大似然法不会收敛，此时使用主轴迭代法效果会很好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To learn more about the different approaches, see Mulaik (2009) and Gorsuch (1983).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欲了解更多提取公共因子的方法，可参阅Mulaik（2009）和Corsuch（1983）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For this example, you’ll extract the unrotated factors using the iterated principal axis (fm="pa") approach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本例使用主轴迭代法（ fm = "pa"）提取未旋转的因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The results are given in the next listing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果见代码清单14-6。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can see that the two factors account for 60 percent of the variance in the six psychological tests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以看到，两个因子解释了六个心理学测验60%的方差。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you examine the loadings, though, they aren’t easy to interpret. Rotating them should help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过因子载荷阵的意义并不太好解释，此时使用因子旋转将有助于因子的解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rotating factors</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因子旋转</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can rotate the two-factor solution from section 14.3.4 using either an orthogonal rotation or an oblique rotation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以使用正交旋转或者斜交旋转来旋转14.3.4节中两个因子的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let’s try both so you can see how they differ. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我们同时尝试下两种方法，看看它们的异同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First try an orthogonal rotation (in the next listing).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先使用正交旋转（见代码清单14-7）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Looking at the factor loadings, the factors are certainly easier to interpret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果显示因子变得更好解释了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reading and vocabulary load on the first factor, and picture completion, block design, and mazes loads on the second factor. The general nonverbal intelligence measure loads on both factors. This may indicate a verbal intelligence factor and a nonverbal intelligence factor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阅读和词汇在第一因子上载荷较大，画图、积木图案和迷宫在第二因子上载荷较大，非语言的普通智力测量在两个因子上载荷较为平均，这表明存在一个语言智力因子和一个非语言智力因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By using an orthogonal rotation, you’ve artificially forced the two factors to be uncorrelated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用正交旋转将人为地强制两个因子不相关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What would you find if you allowed the two factors to correlate? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果想允许两个因子相关该怎么办呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can try an oblique rotation such as promax (see the next listing).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此时可以使用斜交转轴法，比如promax（见代码清单14-8）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several differences exist between the orthogonal and oblique solutions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据以上结果，你可以看出正交旋转和斜交旋转的不同之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an orthogonal solution, attention focuses on the factor structure matrix (the correlations of the variables with the factors). In an oblique solution, there are three matrices to consider: the factor structure matrix, the factor pattern matrix, and the factor intercorrelation matrix.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于正交旋转，因子分析的重点在于因子结构矩阵（变量与因子的相关系数），而对于斜交旋转，因子分析会考虑三个矩阵：因子结构矩阵、因子模式矩阵和因子关联矩阵。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The factor pattern matrix is a matrix of standardized regression coefficients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因子模式矩阵即标准化的回归系数矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They give the weights for predicting the variables from the factors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它列出了因子预测变量的权重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The factor intercorrelation matrix gives the correlations among the factors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因子关联矩阵即因子相关系数矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In listing 14.8, the values in the PA1 and PA2 columns constitute the factor pattern matrix. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在代码清单14-8中， PA1和PA2栏中的值组成了因子模式矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They’re standardized regression coefficients rather than correlations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们是标准化的回归系数，而不是相关系数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Examination of the columns of this matrix is still used to name the factors (although there’s some controversy here). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意，矩阵的列仍用来对因子进行命名（虽然此处存在一些争论）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again you’d find a verbal and nonverbal factor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你同样可以得到一个语言因子和一个非语言因子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The factor intercorrelation matrix indicates that the correlation between the two factors is 0.57. This is a hefty correlation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因子关联矩阵显示两个因子的相关系数为0.57，相关性很大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the factor intercorrelations had been low, you might have gone back to an orthogonal solution to keep things simple.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果因子间的关联性很低，你可能需要重新使用正交旋转来简化问题。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The factor structure matrix (or factor loading matrix) isn’t provided. But you can easily calculate it using the formula F = P*Phi, where F is the factor loading matrix, P is the factor pattern matrix, and Phi is the factor intercorrelation matrix. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因子结构矩阵（或称因子载荷阵）没有被列出来，但你可以使用公式F = P*Phi很轻松地得到它，其中F是因子载荷阵， P为因子模式矩阵， Phi为因子关联矩阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A simple function for carrying out the multiplication is as follows:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面的函数即可进行该乘法运算：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Applying this to the example, you get </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对上面的例子使用该函数，可得：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now you can review the correlations between the variables and the factors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你可以看到变量与因子间的相关系数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Comparing them to the factor loading matrix in the orthogonal solution, you see that these columns aren’t as pure. This is because you’ve allowed the underlying factors to be correlated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将它们与正交旋转所得因子载荷阵相比，你会发现该载荷阵列的噪音比较大，这是因为之前你允许潜在因子相关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the oblique approach is more complicated, it’s often a more realistic model of the data.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然斜交方法更为复杂，但模型将更符合真实数据。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can graph an orthogonal or oblique solution using the factor.plot() or fa.diagram() function. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用factor.plot()或fa.diagram()函数，你可以绘制正交或者斜交结果的图形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The code produces the graph in figure 14.5.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来看以下代码：它的生成图形见图14-5。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The code produces the diagram in figure 14.6. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>代码：生成的图形见图14-6。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you let simple=TRUE, only the largest loading per item would be displayed. It shows the largest loadings for each factor, as well as the correlations between the factors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若使simple = TRUE，那么将仅显示每个因子下最大的载荷，以及因子间的相关系数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This type of diagram is helpful when there are several factors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这类图形在有多个因子时十分实用。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you’re dealing with data in real life, it’s unlikely that you’d apply factor analysis to a dataset with so few variables. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当处理真实生活中的数据时，你不可能只对这么少的变量进行因子分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You’ve done it here to keep things manageable. If you’d like to test your skills, try factor-analyzing the 24 psychological tests contained in Harman74.cor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此处只是为了操作方便，如果你想检测自己的能力，可尝试对Harman74.cor中的24个心理学测验进行因子分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The code should get you started!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以下代码：应该是个不错的开头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>14.3.4 Factor scores</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>14.3.4 因子得分</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compared with PCA, the goal of EFA is much less likely to be the calculation of factor scores. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相比PCA，EFA并不那么关注计算因子得分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But these scores are easily obtained from the fa () function by including the score = TRUE option (when raw data is available). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在fa()函数中添加score = TRUE选项（原始数据可得时）便可很轻松地获得因子得分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additionally, the scoring coefficients(standardized regression weights) are available in the weights element of the object returned.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外还可以得到得分系数（标准化的回归权重），它在返回对象的weights元素中。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the ability.cov dataset, you can obtain the beta weights for calculating the factor score estimates for the two-factor oblique solution using</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于ability.cov数据集，通过二因子斜交旋转法便可获得用来计算因子得分的权重： </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike component scores, which are calculated exactly, factor scores can only be estimated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与可精确计算的主成分得分不同，因子得分只是估计得到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several methods exist. The fa () function uses the regression approach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的估计方法有多种，fa()函数使用的是回归方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To learn more about factor scores, see DiStefano, Zhu, and Mindrila, (2009).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>若想更多地了解因子得分，可参阅DiStefano、Zhu和Mindrila的“Understanding and Using Factor Scores: Considerations for the Applied Researcher”（2009）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before moving on, let’s briefly review other R packages that are useful for exploratory factor analysis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在继续下文之前，让我们简单了解下其他用于探索性因子分析的实用R软件包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>R contains a number of other contributed packages that are useful for conducting factor analyses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>R包含了其他许多对因子分析非常有用的软件包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The FactoMineR package provides methods for PCA and EFA, as well as other latent variable models. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>FactoMineR包不仅提供了PCA和EFA方法，还包含潜变量模型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It provides many options that we haven’t considered here, including the use of both numeric and categorical variables. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它有许多此处我们并没考虑的参数选项，比如数值型变量和类别型变量的使用方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The FAiR package estimates factor analysis models using a genetic algorithm that permits the ability to impose inequality restrictions on model parameters. The GPA rotation package offers many additional factor rotation methods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>FAiR包使用遗传算法来估计因子分析模型，它增强了模型参数估计能力，能够处理不等式的约束条件，GPArotation包则提供了许多因子旋转方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, the nFactors package offers sophisticated techniques for determining the number of factors underlying data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，还有nFactors包，它提供了用来判断因子数目的许多复杂方法。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>EFA is only one of a wide range of latent variable models used in statistics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>EFA只是统计中一种应用广泛的潜变量模型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We’ll end this chapter with a brief description of other models that can be fit within R. These include models that test a priori theories, that can handle mixed data types (numeric and categorical), or that are based solely on categorical multiway tables. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在结束本章之前，我们简要看看R中其他的潜变量模型，包括检验先验知识的模型、处理混合数据类型（数值型和类别型）的模型，以及仅基于类别型多因素表的模型。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In EFA, you allow the data to determine the number of factors to be extracted and their meaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在EFA中，你可以用数据来判断需要提取的因子数以及它们的含义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But you could start with a theory about how many factors underlie a set of variables, how the variables load on those factors, and how the factors correlate with one another. You could then test this theory against a set of collected data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是你也可以先从一些先验知识开始，比如变量背后有几个因子、变量在因子上的载荷是怎样的、因子间的相关性如何，然后通过收集数据检验这些先验知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The approach is called confirmatory factor analysis (CFA). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种方法称作验证性因子分析（CFA）。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CFA is a subset of a methodology called structural equation modeling (SEM). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>CFA是结构方程模型（SEM）中的一种方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SEMnot only allows you to posit the number and composition of underlying factors but how these factors impact one another as well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>SEM不仅可以假定潜在因子的数目以及组成，还能假定因子间的影响方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can think of SEM as a combination of confirmatory factor analyses (for the variables) and regression analyses (for the factors). The resulting output includes statistical tests and fit indices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以将SEM看做是验证性因子分析（对变量）和回归分析（对因子）的组合，它的结果输出包含统计检验和拟合度的指标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are several excellent packages for CFA and SEM in R. They include sem, openMx, and lavaan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>R中有几个可做CFA和SEM的非常优秀的软件包，如sem、openMx和lavaan。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ltm package can be used to fit latent models to the items contained in tests and questionnaires. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ltm包可以用来拟合测验和问卷中各项目的潜变量模型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The methodology is often used to create large scale standardized tests. Examples include the Scholastic Aptitude Test (SAT) and the Graduate RecordExam (GRE). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该方法常用来创建大规模标准化测试，比如学术能力测验（SAT）和美国研究生入学考试（GRE）。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Latent class models (where the underlying factors are assumed to be categorical rather than continuous) can be fit with the FlexMix, lcmm, randomLCA, and poLCpackages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>潜类别模型（潜在的因子被认为是类别型而非连续型）可通过FlexMix、lcmm、randomLCA和poLC包进行拟合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lcda package performs latent class discriminant analysis, and the lsa package performs latent semantic analysis, a methodology used in natural language processing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>lcda包可做潜类别判别分析，而lsa可做潜在语义分析——一种自然语言处理中的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ca package provides functions for simple and multiple correspondence analysis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ca包提供了可做简单和多重对应分析的函数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These methods allow you to explore the structure of categorical variables in two-way and multiway tables, respectively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>利用这些函数，可以分别在二维列联表和多维列联表中探索类别型变量的结构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, R contains numerous methods for multidimensional scaling (MDS). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，R中还包含了众多的多维标度法（MDS）计算工具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MDS is designed to detect underlying dimensions that explain the similarities and distances between a set of measured objects (for example, countries). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所谓MDS，即可用来发现解释相似性和可测对象（如国家）间距离的潜在维度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cmdscale () function in the base installation performs a classical MDS, while the isoMDS () function in the MASS package performs a nonmetric MDS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基础安装中的cmdscale()函数可做经典的MDS，而MASS包中的isoMDS()函数可做非线性MDS。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The vegan package also contains functions for classical and nonmetric MDS.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>vagan包则包含了可做两种MDS的函数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this chapter, we reviewed methods for principal components (PCA) analysis and exploratory factor analysis (EFA). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本章，我们主要学习了主成分分析（PCA）和探索性因子分析（EFA）两种方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>PCA is a useful data reduction method that can replace a large number of correlated variables with a smaller number of uncorrelated variables, simplifying the analyses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>PCA在数据降维方面非常有用，它能用一组较少的不相关变量来替代大量相关变量，进而简化分析过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>EFA contains a broad range of methods for identifying latent or unobserved constructs (factors) that may underlie a set of observed or manifest variables.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>EFA包含很多方法，可用来发现一组可观测变量背后潜在的或无法观测的结构（因子）。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

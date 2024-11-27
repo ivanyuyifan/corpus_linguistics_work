@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T120201Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>NEWTON, THE MAN
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛顿，这个人
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is with some diffidence that I try to speak to you in his own home of Newton as he was himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在牛顿自己的家里，我试图就牛顿为题来进行演讲，是有些忐忑不安的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have long been a student of the records and had the intention to put my impressions into writing to be ready for Christmas Day 1942, the tercentenary of his birth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我长久以来学习了很多资料，并将我的印象诉诸文字，就是在为1942年的圣诞节——牛顿的三百周年诞辰做准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war has deprived me both of leisure to treat adequately so great a theme and of opportunity to consult my library and my papers and to verify my impressions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是战争的出现使我既不能有闲暇充分地对待这样重大的题目，也没有机会查阅大量的书籍和文献来验证我的印象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So if the brief study which I shall lay before you today is more perfunctory than it should be, I hope you will excuse me.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，假若我今天呈现的简短研究显得比较肤浅的话，我希望你们能够原谅我。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One other preliminary matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个基本问题我想说明的是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe that Newton was different from the conventional picture of him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信牛顿与我们传统印象中的那个人不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I do not believe he was less great. He was less ordinary, more extraordinary, than the nineteenth century cared to make him out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我并不是说他不伟大，相对于19世纪处心积虑所描述的那个伟大形象而言，他更不平凡，更异于常人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Geniuses are very peculiar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天才们都是很奇怪的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let no one here suppose that my object today is to lessen, by describing, Cambridge's greatest son. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请不要猜想我今日的目的是通过描写来贬损剑桥最伟大的儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am trying rather to see him as his own friends and contemporaries saw him. And they without exception regarded him as one of the greatest of men.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我正努力地像他自己的朋友和同代人看他那样去看他，而他们毫无例外地视他为最伟大的人物之一。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the eighteenth century and since, Newton came to be thought of as the first and greatest of the modern age of scientists, a rationalist, one who taught us to think on the lines of cold and untinctured reason.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从18世纪以来，牛顿被公认为是现代科学家时代首屈一指的最伟大的人，一位理性主义者，一个教会我们在冷静的和纯粹的理性路线上思考的人。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not see him in this light. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不用这种眼光看他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not think that any one who has pored over the contents of that box which he packed up when he finally left Cambridge in 1696 and which, though partly dispersed, have come down to us, can see him like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛顿在1699年最后离开剑桥时留下了一个整理好的盒子，里面内容尽管有所丢失，但是流传了下来，我认为任何一个仔细研读过这个盒子内容的人都不会用这种眼光去看他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛顿不是理性时代的第一人，他是魔术家中的最后一个，他是巴比伦人的和苏美尔人的最后一个，他是最后一个同我们大约10，000年前的智力祖先一样看待这个世界的伟大头脑。
+用与那些不到10，000年前开始构建我们的智力遗产的人同样的眼光观察这可见的，智力的世界的最后一位伟大头脑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊萨克·牛顿，1642年圣诞节出生的没有父亲的遗腹子，是最后一个东方三圣[注：即寻访初生基督的三博士]能够真诚地效忠的神童。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had there been time, I should have liked to read to you the contemporary record of the child Newton. For, though it is well known to his biographers, it has never been published in extenso, without comment, just as it stands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果有时间，我很愿意给大家读一下牛顿童年在当时所做的记录，尽管为他的传记作者所熟知，但从未发表过，是一个不太任何评论和感情色彩的传记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here, indeed, is the makings of a legend of the young magician, a most joyous picture of the opening mind of genius free from the uneasiness, the melancholy and nervous agitation of the young man and student.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里，确实是这位年轻魔术师传奇的一个描述，关于这个年轻学生从焦虑、忧郁和神经质的激动中解放出来的开放的天才头脑的一幅最充满快乐的图画。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For in vulgar modern terms Newton was profoundly neurotic of a not unfamiliar type, but - I should say from the records - a most extreme example. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用现在流行的现代术语说，牛顿对不熟悉的事物有深深的神经过敏，但是我从记录中得出的是，他是这种病症中最极端的一个典型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His deepest instincts were occult, esoteric, semantic-with profound shrinking from the world, a paralyzing fear of exposing his thoughts, his beliefs, his discoveries in all nakedness to the inspection and criticism of the world. 'Of the most fearful, cautious and suspicious temper that I ever knew', said Whiston, his successor in the Lucasian Chair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最深的天性是玄奥的、隐秘的——带着深深的遁世，他对把自己的思想、信仰和发现袒露给世人进行探究和批评有着强烈的惊恐。“我所曾知道的最惧怕，小心和多疑的性格之一，”他的后继者，剑桥大学数学教授惠斯顿这样说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The too well-known conflicts and ignoble quarrels with Hooke, Flamsteed, Leibniz are only too clear an evidence of this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛顿与胡克，佛拉姆斯蒂德和莱布尼茨之间著名的冲突和不光彩的争吵就是这方面的典型例证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like all his type he was wholly aloof from women. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像所有他这种类型的人一样，他整个地疏远于女性们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He parted with and published nothing except under the extreme pressure of friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他什么也不发表和出版，除非在朋友们的极端催促和压力下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until the second phase of his life, he was a wrapt, consecrated solitary, pursuing his studies by intense introspection with a mental endurance perhaps never equalled.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他生命的第二阶段之前，他一直保持神圣的孤独，通过强烈的内省，以一种可能永无匹敌的精神毅力坚持他的研究。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe that the clue to his mind is to be found in his unusual powers of continuous concentrated introspection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信在他非同一般地持续的集中内省的力量中，将发现他思想的线索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A case can be made out, as it also can with Descartes, for regarding him as an accomplished experimentalist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像笛卡尔一样，可以认为他是一种成功的实验家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing can be more charming than the tales of his mechanical contrivances when he was a boy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有什么能比他在还是一个小男孩时所做的机械发明这个传说更引人入胜的了，那里他创造了自己的望远镜和光学实验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are his telescopes and his optical experiments, These were essential accomplishments, part of his unequalled all-round technique, but not, I am sure, his peculiar gift, especially amongst his contemporaries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些是基本的成就，是他无可匹敌的全能的技巧的一部分，但我确信不是出于他特殊的天赋，特别是在他的同代人当中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His peculiar gift was the power of holding continuously in his mind a purely mental problem until he had seen straight through it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的特殊天赋是持续地在他头脑中持有一个纯粹心智的问题，直到看透它为止的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I fancy his pre-eminence is due to his muscles of intuition being the strongest and most enduring with which a man has ever been gifted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜测他早期的卓越归因于他的直觉的力量，一个人所能被赋予的最强大、最坚忍的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyone who has ever attempted pure scientific or philosophical thought knows how one can hold a problem momentarily in one's mind and apply all one's powers of concentration to piercing through it, and how it will dissolve and escape and you find that what you are surveying is a blank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何一个曾尝试过纯粹科学的或哲学的思考的人都知道，一个人如何能在头脑中于刹那间抓住一个问题，并运用他所有的专注力去穿透它，了解到这个问题将如何地难以解决和逃避，最终你会发现正在研究的不过是一个空白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe that Newton could hold a problem in his mind for hours and days and weeks until it surrendered to him its secret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信，牛顿能够在他的头脑中抓住一个问题数小时，数天，甚至数周，直到它向他放弃它的秘密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then being a supreme mathematical technician he could dress it up, how you will, for purposes of exposition, but it was his intuition which was pre-eminently extraordinary - 'so happy in his conjectures', said De Morgan, 'as to seem to know more than he could possibly have any means of proving'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后作为一个至高的数学技师，他能够像你们[译者注：听众，剑桥的教授和学生们]将做的那些，为了解释的目的将它装扮起来，但他的直觉才是真正卓越不平凡的地方——“在他的推测中如此幸福，”德摩根说，“以至于他知道的似乎比他所可能证明的要多。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The proofs, for what they are worth, were, as I have said, dressed up afterwards - they were not the instrument of discovery.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些证明，如我已说的，是为了表明那些思想是有价值的，而被装扮起来——它们不是发现的工具。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is the story of how he informed Halley of one of his most fundamental discoveries of planetary motion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一个故事，一次他告诉哈雷关于行星运动的基本发现之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Yes,' replied Halley, 'but how do you know that? Have you proved it?' Newton was taken aback - 'Why, I've known it for years', he replied. 'If you'll give me a few days, I'll certainly find you a proof of it' - as in due course he did.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对啊！”哈雷说，“但你是怎样知道的呢？你证明过它吗？” 牛顿吃了一惊——“证明？为什么，我已知道它多年了，”他回答，“如果你给我几天时间，我肯定能给你找到它的一个证明”——如他所言，他及时地完成了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, there is some evidence that Newton in preparing the Principia was held up almost to the last moment by lack of proof that you could treat a solid sphere as though all its mass was concentrated at the centre, and only hit on the proof a year before publication. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，有证据表明牛顿一直在准备的《原理》推迟了很长时间，直到出版的一年前，他找到了能将一个实心球体看成是质量集中在其中心点的证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this was a truth which he had known for certain and had always assumed for many years.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过这是一他多年来认定的不需证明的“事实”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certainly there can be no doubt that the peculiar geometrical form in which the exposition of the Principia is dressed up bears no resemblance at all to the mental processes by which Newton actually arrived at his conclusions.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，没有疑问，用以装扮《原理》之阐释的特殊的几何形式与牛顿实际得出结论的思想进程一点也不相似。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His experiments were always, I suspect, a means, not of discovery, but always of verifying what he knew already.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我怀疑，他的实验一直以来都不是一种发现的手段，而总是证明他已经知道的东西的一种手段。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why do I call him a magician? Because he looked on the whole universe and all that is in it as a riddle, as a secret which could be read by applying pure thought to certain evidence, certain mystic clues which God had laid about the world to allow a sort of philosopher's treasure hunt to the esoteric brotherhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我为何称他为一个魔术师？因为他把整个宇宙以及所有宇宙内的事物都看作一个难解之谜，这个迷可以通过将纯粹思考运用于特定证据上来解读，就好像是上帝将这线索置于世界各处，以允许一类哲学家像财富探险者那样，最终探索着加入它那神秘的兄弟会一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He believed that these clues were to be found partly in the evidence of the heavens and in the constitution of elements (and that is what gives the false suggestion of his being an experimental natural philosopher), but also partly in certain papers and traditions handed down by the brethren in an unbroken chain back to the original cryptic revelation in Babylonia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他相信，这些线索将被部分地发现于天空的证据中或元素的构成中（而这是一位自然实验哲学家的错误的设想），但也部分地存在于特定的文献和习俗中，这些文献和习俗可以追溯到在古巴比伦的最初的秘密启示，带着末被打开的铁链被兄弟们传下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He regarded the universe as a cryptogram set by the Almighty - just as he himself wrapt the discovery of the calculus in a cryptogram when he communicated with Leibniz. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将宇宙视为上帝用密文书写的文件——恰如他与莱布尼兹通信时，把自己关于微积分的发现用一种加密的方式书写一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By pure thought, by concentration of mind, the riddle, he believed, would be revealed to the initiate.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他相信，通过纯思考，借助于头脑的专注，这个谜底终将被揭开。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did read the riddle of the heavens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的确解读了苍穹之谜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he believed that by the same powers of his introspective imagination he would read the riddle of the Godhead, the riddle of past and future events divinely fore-ordained, the riddle of the elements and their constitution from an original undifferentiated first matter, the riddle of health and of immortality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他相信，同样地通过他内省想象的力量，他还将解读神性之谜，神灵所语言的关于过去与未来事件之谜，元素及它们从一个原始的无差别的第一物质的构成之谜，健康与不朽之谜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All would be revealed to him if only he could persevere to the end, uninterrupted, by himself, no one coming into the room, reading, copying, testing-all by himself, no interruption for God's sake, no disclosure, no discordant breakings in or criticism, with fear and shrinking as he assailed these half-ordained, half-forbidden things, creeping back into the bosom of the Godhead as into his mother's womb. 'Voyaging through strange seas of thought alone', not as Charles Lamb 'a fellow who believed nothing unless it was as clear as the three sides of a triangle'.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对他而言，一切都将被揭示，只要他能够坚持到底，不被自己打断。没有人进入房间，阅读、重复、检验——一切都由他自己进行，以上帝的名义而没有打岔，没有揭露，没有不速之客，也没有批评。当他猛击这些半命令、半禁止的事物时，他带着害怕或退缩，爬回神性的胸怀中去如同进入母亲的子宫中，“独自航穿奇怪的思想之海”，而不像查尔斯·莱姆——“一个不相信任何事物除非它像一个三角形的三条边那样清楚的家伙。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And so he continued for some twenty-five years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而他就如此持续奋斗了大约25年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1687, when he was forty-five years old, the Principia was published.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1687年，当他45岁时，《原理》出版了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here in Trinity it is right that I should give you an account of how he lived amongst you during these years of his greatest achievement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是在三一学院这儿，我将对你们阐述他如何在你们中间生活，如何在这些年中取得他的最伟大的成就。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The east end of the Chapel projects farther eastwards than the Great Gate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时这个教堂东端比大门还要靠东。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the second half of the seventeenth century there was a walled garden in the free space between Trinity Street and the building which joins the Great Gate to the Chapel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在17世纪下半叶，在三一街和连接大门和教堂的建筑之间的空地上有一个围墙花园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The south wall ran out from the turret of the Gate to a distance overlapping the Chapel by at least the width of the present pavement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南墙出了大门的角楼与教堂有一段距离——至少相当于现在人行道的宽度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus the garden was of modest but reasonable size. This was Newton's garden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样这个花园虽然不大，但也有了合理的规模，正像在1690年洛根关于学院的版画很好地显示的那样，这是牛顿的花园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had the Fellow's set of rooms between the Porter's Lodge and the Chapel - that, I suppose, now occupied by Professor Broad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在守门人住处和教堂之间有一套高级住房——我猜想，现在那里被布罗德教授占了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The garden was reached by a stairway which was attached to a veranda raised on wooden pillars projecting into the garden from the range of buildings. At the top of this stairway stood his telescope - not to be confused with the observatory erected on the top of the Great Gate during Newton's lifetime (but after he had left Cambridge) for the use of Roger Cotes and Newton's successor, Whiston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这花园连有一条有扶栏的楼梯，通向木柱撑起的阳台，阳台从建筑区凸伸进花园，在楼梯顶部立着他的望远镜——不要将它混淆于牛顿在世，但离开剑桥后罗格·科茨和牛顿的继任者惠斯顿所用的竖立起来的天文台。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This wooden erection was, I think, demolished by Whewell in 1856 and replaced by the stone bay of Professor Broad's bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，这个木建筑物被休厄尔于1856年拆除，代之以布罗德教授卧室的隔间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the Chapel end of the garden was a small two-storied building, also of wood, which was his elaboratory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在花园的教堂一端是一个小的二层建筑，也是木制的，是他的试验室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he decided to prepare the Principia for publication he engaged a young kinsman, Humphrey Newton, to act as his amanuensis (the MS. of the Principia, as it went to the press, is clearly in the hand of Humphrey). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他决定准备出版《原理》一书时，他雇佣了一位年轻的男亲戚，汉佛莱·牛顿来做他的抄写员（《原理》的手稿，当它付梓时，很清楚是汉佛莱所书写的）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Humphrey remained with him for five years - from 1684 to 1689. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>汉佛莱与他呆了5年——从1684到1689年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Newton died Humphrey's son-in-law Conduitt wrote to him for his reminiscences, and among the papers I have is Humphrey's reply.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛顿死后，他的内侄康迪特为他的回忆录写信给汉佛莱，而在文献中我找到了汉佛莱的答信。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During these twenty-five years of intense study mathematics and astronomy were only a part, and perhaps not the most absorbing, of his occupations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这25年高强度的研究中，数学和天文学只是一部分，甚至可能不是对他最有吸引力的事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our record of these is almost wholly confined to the papers which he kept and put in his box when he left Trinity for London.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们有关这些的记录几乎全部局限于当他离开三一学院去伦敦时保存并放在他那个盒子中的文献。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me give some brief indications of their subject. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我列举一些简单的关于这些主题的提示。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are enormously voluminous - I should say that upwards of 1,000,000 words in his handwriting still survive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>们是极其浩繁——我应该说，他尚存的手稿中有100万字以上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have, beyond doubt, no substantial value whatever except as a fascinating sidelight on the mind of our greatest genius.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，它们几乎没有任何实际价值，除了作为一个吸引人的侧面来观察我们最伟大的天才的头脑。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me not exaggerate through reaction against the other Newton myth which has been so sedulously created for the last two hundred years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在与过去200年来被创造的另一个牛顿神话对抗时，我还是不要夸大其辞的好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was extreme method in his madness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的疯狂中有极端的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All his unpublished works on esoteric and theological matters are marked by careful learning, accurate method and extreme sobriety of statement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有他的关于秘密的和神学的事情的未发表的著作，都镌刻着这样一些特征：仔细的研究、精确的方法和极端清醒的措辞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are just as sane as the Principia, if their whole matter and purpose were not magical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果它们的内容和目的不是魔法性的，其智慧可以同《原理》相比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were nearly all composed during the same twenty-five years of his mathematical studies. They fall into several groups.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们分几个部分，几乎都是在与他的数学研究相同的25年期间完成写作的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Very early in life Newton abandoned orthodox belief in the Trinity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很早期的生活中，在三一学院的牛顿就抛弃了正统的信仰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this time the Socinians were an important Arian sect amongst intellectual circles. It may be that Newton fell under Socinian influences, but I think not. He was rather a Judaic monotheist of the school of Maimonides. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，苏西尼派是知识分子圈中一个重要的教派，可能牛顿受到了这个教派的影响，但我不这样认为，他更应该被认为是一位迈蒙尼德犹太神论的犹太教一神教者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He arrived at this conclusion, not on so-to-speak rational or sceptical grounds, but entirely on the interpretation of ancient authority. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他到达这一结论，不是站在“如此这般说来”的理性或怀疑的立场上，而是整个基于古代权威的解释。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,40 @@
+International Deep Drawing Research Group
+INTRODUCTION
+The IDDRG, International Deep Drawing Research Group, was started in 1957 as an organization of national groups devoted to the study of sheet forming.
+At this time, many types of sheet metal forming operations were well understood and,particularly, the differentiation between modes of deformation was already established:stretching, plane strain, shear and shrink drawing. 
+However, the latter ¨C fabrication of cups ¨C was not so well understood and, particularly, the influencing mechanical characteristics were not identified.
+Some thought that earing was detrimental, others that the yield point elongation had to be avoided (killed steels performed better than rimmed steels) but there were counter examples and things were not so clear.
+This is why English, Sweden and Netherland researchers had contact to gather their forces on this topic. 
+They decided to meet in Amsterdam in March 1957, inviting representatives from Germany, Belgium, France and Chile. 
+The only goal was to understand cup forming, hence the name of Deep Drawing Research Group that was chosen at the end of this event.
+A first international conference was organised in Paris, May 1960, gathering 212attendees from 15 nations. 
+At the end of this conference, the initial purpose of theIDDRG was enlarged to consider more topics than initially proposed. 
+It was to do cooperative research on tests, materials, and processes. 
+Such work included methods for determining the strain-hardening exponent n, R-value, other tests for sheet metal formability and, later, forming limit curves.
+Starting at this conference, a schedule was established for working group meetings every year with open Congresses in even numbered years. 
+The working group meetings were closed sessions made up of delegations from the National Groups that comprised the IDDRG. 
+The reason for these closed sessions was to allow experts to informally review critical issues related to materials, tests, and processes.
+As some of the initial technical issues were resolved, the working groups became progressively more informal, and over the years became mini conferences. 
+By 1998, it had become obvious that the format of the IDDRG needed to be changed. 
+This evolution took time, but starting in 2003, the meeting schedule shifted to yearly conferences with both regular papers and poster papers that are included in conference proceedings.
+MISSION STATEMENT
+The yearly conference of the IDDRG is devoted to experimental and computational papers with industrial relevance that are presented by academic and industrial researchers. 
+The intent of the conference is to present new work that stimulates thinking and provides opportunities for informal discussion among researchers in sheet metal formability. 
+Written proceedings, which include both the presentations and poster papers, are published. 
+Now, CD-ROMs containing all papers are also produced for each conference. 
+The IDDRG maintains a library of papers going back to 1960 (see website).
+ACTIVITIES
+Conferences are scheduled for May or June in Europe, North America or Asia.However, most conferences are held in Europe because the majority of the current membership resides in Europe. 
+Conferences start with an informal reception on Sunday evening followed by two and a half days of technical sessions. 
+Ample time is allowed for technical discussion, and various social events are scheduled in association with the conference.
+In order to provide focus for the next conference, the Executive Committee of theIDDRG uses input from members attending the previous conference to select topics of interest in sheet metal forming that will provide new information and facilitate exchange of ideas on these topics. 
+Typical topics include machinery and press-tools, new processes, new materials, experimental methods for evaluating formability and studying press operations, spring back, constitutive equations, plasticity criteria, and friction and wear with attention to interface behaviour as characterized by topography and surface chemistry, lubrication, speed, and temperature.
+Submissions are reviewed by a scientific committee to select the best papers. Papers that are not selected for presentation are automatically included as poster papers if they have acceptable technical quality. 
+Also, commercial content is not acceptable in IDDRG papers.
+While mathematical modelling is important in studies of sheet metal formability, forIDDRG papers, mathematical modelling should be a tool, not a topic in itself. 
+Thus,topics such as new algorithms, innovative shell or solid elements, time integration schemes, etc are not considered for presentation or poster papers.
+Paper proceedings are distributed to all attendees at the start of the Conference. 
+Talks are scheduled for twenty minutes followed by ten minutes for questions and discussion.Furthermore, the conferences are organized so that there is ample time for further discussion. 
+English is the official language of the IDDRG.
+ORGANISATION
+The officers of the IDDRG are the current President, Vice-Presidents, general Secretary,treasurer, and active past-presidents. 

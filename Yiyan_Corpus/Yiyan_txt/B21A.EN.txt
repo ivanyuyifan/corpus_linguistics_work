@@ -1,0 +1,33 @@
+Eroding Library Role?
+If libraries do not seriously rethink their role in the lives of researchers, they could come to be seen more as resource purchasers than as research collaborators, according to a report released today by the nonprofit group Ithaka S+R.
+"As scholars have grown better able to reach needed materials directly online, the library has been increasingly disintermediated from research processes," write the authors of the report, which is based on a national survey of professors administered last year.
+"The declining visibility and importance of traditional roles for the library and librarian may lead to the faculty primarily perceiving the library as a budget line, rather than an active intellectual partner," they later add.
+That certain scholars no longer see libraries as "gateways" for finding information is no secret, write the Ithaka researchers, who have conducted the survey every three years since 2000; past data have shown that scientists tend not to turn to library-specific resources --- such as library catalogs or librarians --- to kick-start research projects.
+What previous studies have not shown is that researchers in the humanities are following suit, says Roger C. Schonfeld, the group's manager of research.
+The humanities have traditionally had a stronger relationship with libraries than the sciences. 
+So even when scientists began distancing themselves from libraries as remotely accessible digital journals and data banks made it easier to do so, many librarians seemed to think that it would not take any big effort to maintain their relevance to humanities scholars, Schonfeld says.
+The latest data suggest that "that is [no longer] an adequate strategy," he says.
+Humanists still see the library as indispensable; 75 percent said librarians still play an important role in supporting teaching, and 82 percent said the library provides crucial archiving services.
+But as far as research goes, the percentage of humanities faculty who use the library building as a starting point for research has gone down in each iteration of the survey, from 18 percent in 2003 to 6 percent in 2009. 
+Ditto the library's online catalog, which 24 percent of faculty used as a starting point last year, compared to 39 percent in 2003.
+Meanwhile, 70 percent of last year's respondents said their first research stop is either a general-purpose search engine or a specific electronic research resource, up from 42 percent in 2003. 
+Although humanities scholars still bypass the campus library and its catalog less routinely than their science colleagues, this year's data confirm that humanists are heading in that direction, Schonfeld says.
+"As far as the question of what the trend line is, the humanities are marching down the same path as the social sciences and the sciences," he says.
+This presents libraries with a choice of "either investing to reengage with scientists and certain social science fields or of building on their existing strength with humanists to build durable services for an increasingly online future," the report says.
+Though he emphasizes that Ithaka is not in a position to make universal strategy recommendations in either case, Schonfeld cites the Johns Hopkins University medical library as an example of a library that has dramatically changed the way it is structured in order to reengage medical researchers. That library has reduced its physical footprint and embedded librarians within research departments as information experts. "It's a completely different model of librarianship," Schonfeld says.
+As far as fortifying ties with the humanities, Mary Ellen K. Davis, executive director of the Association of College and Research Libraries, indicated that many libraries are already shifting to a stronger emphasis on teaching support --- one of the functions that humanists surveyed by Ithaka still see as crucial. 
+Libraries also recognize the trend toward online research and are working with scholars to figure out how to collaborate on research remotely, Davis said, while also taking on new roles such as advising scholars on copyright issues --- which are especially pertinent and ambiguous in the world of digital resources. 
+She objected to the idea that just because scholars do not visit the stacks as regularly as before, the campus library (and its staff) is any less of an "intellectual partner."
+Implications for Open Access 
+One of the other themes the Ithaka survey explored was what motivates scholars when they are deciding where they want to get published.
+Their highest priority? 
+That the publication be widely read by their peers within the discipline. 
+Their lowest? 
+That the publication be openly accessible.
+"Traditional channels --- often made more efficient by the transition to digital but otherwise largely unchanged --- remain the most important ways in which faculty communicate both formally and informally," says the report.
+Despite any lip service they might pay to the ideal of open scholarship, "faculty interest in revamping the scholarly publishing system is secondary to concern about career advancement, and activities that will not be positively recognized in tenure and promotion processes are generally not a priority," it says.
+What this means is that the success of the open access movement will likely depend on university leadership, not scholars, the authors write, noting that a number of institutions have mandated that faculty deposit research in open vaults.
+But, left to their own devices, scholars are much more likely to say they hope to put their research in open repositories sometime in the future (50 percent) than to actually do it (30 percent). 
+"Whether this is cause for hope that faculty are moving toward depositing more of their work, or just an indication of good intentions, is hard to tell," says the report.
+Outside of making scholars put their studies into open repositories, which are seldom used anyway, university leaders might seek to nudge their faculties toward open access by "realign[ing] incentives." 
+Schonfeld says this could mean one of two things: tying promotion and tenure policies to publication in open-access journals, which probably won't happen; or playing to scholars' desire that their work be visible by emphasizing that anybody, not just subscribers, can find and view openly accessible articles.

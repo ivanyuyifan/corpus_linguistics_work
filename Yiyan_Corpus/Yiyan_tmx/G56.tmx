@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T081047Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My Gypsy childhood</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的吉普赛童年</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The receptionist looked at me with disdain when I walked into Suffolk College asking to enrol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我走进萨克福大学，要求报读时，接待员用轻蔑的眼神看着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their access course for mature students didn't have any entry requirements as such, but the receptionist warned me it was an advanced, intensive course, and there seemed to be a blank space under "educational history" on my application form. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们面向成人学生的接入课程（access course）并没有任何入学要求，但接待员警告我说，这是一个高级、紧密的课程，在我的申请表上的“教育经历”栏里看上去是一片空白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I explained that I wasn't a dropout, I just hadn't gone to school, she looked even more scornful.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我说我不是一个中途退学的学生，我只是从来没有上过学时，她的眼神更是充满嘲讽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was 22 and had never spent a day in a classroom in my life; an alien concept for many people but common in Gypsy and Traveller families. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我那时22岁，从来没在教室里呆上过一天；对许多人来说，这是一个非常奇怪的观念，但对吉普赛和流浪者（Traveller）家庭来说却很普遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are more than 100,000 nomadic Travellers and Gypsies in the UK, and 200,000 who live in permanent housing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在英国有超过10万多处于游牧状态的流浪者和吉普赛人，另外还有20万拥有固定住所的流浪者和吉普赛人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many, like me, never attend school, while others are illiterate because formal education is not a priority in our culture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像我一样，许多吉普赛人从来没上过学，另外一些人是文盲，因为在我们的文化中，正式教育并不受到重视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My upbringing was unusual, but not unique. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的成长经历不平常，但也不独特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until I was eight my family lived on the road, travelling around Ireland by horsedrawn wagon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我八岁前，我们家一直住在路边，乘着马拉的蓬车在爱尔兰四处流浪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was one of six children, with three more half-sisters, and our family was considered small. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我家有6个孩子，还有三个同父异母的姐妹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having 12 or 13 children was common among Travellers in Ireland.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的家庭算小了，爱尔兰的流浪者，一家有12个或13个孩子都很普遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marrying first cousins is also common among Gypsies (and a potential genetic timebomb), my parents come from very different backgrounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在吉普赛人里，表亲结婚的现象也很普遍（一个潜在的基因定时炸弹）。我的父母有着完全不同的背景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother was born into an upper-class American family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲生长在一个上层阶级的美国家庭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On her gap year she literally ran away with a Gypsy - my father, who bred horses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在一次休学年（gap year）毫不犹豫地跟人逃走了－－一个养马的吉普赛人，我的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both are extremely intelligent and open-minded people who wanted to bring us up in a stimulating, free and fulfilling environment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们两个都是非常有教养和思想开放的人，他们想让我们在一个不沉闷、自由和开明的环境中长大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead of going to school, my siblings and I, like many children from travelling families, were taught about the arts, music and dance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和我的兄弟姐妹，像许多来自流浪者家庭的孩子一样，没有去上学，而是由大人教我们艺术、音乐和舞蹈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our education was learning about wildlife and nature, how to cook and how to survive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们学习野外生活和认识大自然，学习如何做饭与生存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know my times tables but I could milk a goat and ride a horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道乘法口诀表，但我知道如何给山羊挤奶和骑马。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could identify ink caps, puff balls and field mushrooms and knew where to find wild watercress and sorrel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会辨认一些野山菌和蘑菇，我也知道在哪可以找到野西洋菜和菠菜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the age of eight or nine I could light a fire, cook dinner for a family of 10 and knew how to bake bread on an open fire.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在8、9岁的时候，我会生火，做一顿十口之家的中餐，或是在明火上烤面包了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that it was always idyllic: life on the road could be harsh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是所有的日子都田园诗般美妙，在路上的生活很艰辛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a child with younger siblings I had to work hard: my daily routine included fetching water, cooking and changing nappies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个有着幼小弟妹的孩子，我必须努力劳动。我日常的工作有：取水，做饭和换尿片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We also struggled financially; my dad's passion has always been breeding Gypsy cobs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也会陷入经济危机；我爸爸的热情一直在饲养吉普赛矮脚马上面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes he would get a good sale, but a lot of the time we were penniless. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时他能做成一笔好买卖，但大多数时候我们一个便士都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we worked as a family, fruit picking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们就一家出动，去采野果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One summer, I remember practically living off mushrooms as we worked on a mushroom farm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得有一年夏天，当我们在一个蘑菇农场工作时，我们实际上是以蘑菇度日的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We also picked daffodils; after about five seasons I developed an allergy to the liquid in the stems and my skin would blister on contact with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也摘水仙花；五个花季后，我对水仙花茎里的液体产生过敏，接触到它皮肤就会长水泡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any money we earned went straight to my mother and father.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们挣的钱全部上交给我的母亲和父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our life was always lived outside; working, playing and socialising was all done around the fire or in the woods and fields. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们总是住在外面；工作、游戏和社交都在篝火边、树林里或是田野里进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wet weather was a curse and we would huddle up around a wood burner in one of the caravans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在该诅咒的潮湿的天气里，我们就蜷缩在其中一个大蓬车里的火堆旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many years we had no electricity, no television, no radio; nothing electrical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多年来，我们没有电，没有电视，没有收音机；没有任何电器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had china dolls but no other toys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们有瓷娃娃，再没有其它玩具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And we played cards - thank God for playing cards! If it wasn't for them, I would have no mathematical ability whatsoever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们玩牌－－谢谢上帝，我们有牌！如果不是玩牌，我就不会有任何数字方面的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike some of my siblings, I learned to read when I was quite young. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与我的兄弟姐妹不同的是，我很小时就学习阅读了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother and grandparents bought me books and, with mum's help, I could read by the time I was about nine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲和祖父母给我买了书，正是在母亲的帮助下，我在大概9岁时就可以阅读了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the age of 12 or 13 I had devoured all of F Scott Fitzgerald, EM Forster, Louisa May Alcott and Emily Bront. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在12岁或13岁时，我已经啃完了斯科特-费茨杰拉德（Scott Fitzgerald）、福斯特（EM Forster）、路易萨-梅-奥尔科特（Louisa May Alcott）和艾米莉-布朗特（Emily Bront）的所有作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I bought them in charity shops or asked for them as birthday presents; together, books and cards gave me an understanding of words and numbers in the absence of any formal education.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从慈善书店买书，或是要求父母把书当作生日礼物送给我；在没有接受正式教育的情况下，书和牌一起，给了我文字和数字方面的知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was, though, completely unaware of the outrageous way the media portrays the Gypsy population. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而我完全不知道媒体对吉普赛人的无耻可恶的描绘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As children, we had very little contact with people living in houses and because we didn't go to school or watch television, I was oblivious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在孩童时，我们与住在屋子里的人几乎没有接触。我们不上学，不看电视，所以我没有注意到这些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother didn't take us shopping, as there were so many of us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲不带我们去购物，我们人太多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember once when we were camped on a lane close to a council housing estate, children would walk across the field towards where we were playing in the trees to hurl abuse and throw stones at us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记得有一次，我们在靠近地方议会的房子附近的一条小路边上露营时，那里的孩子穿过田野，来到我们玩耍的树林里，向我们谩骂，并向我们扔石头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when I asked my brother why they were angry, he didn't seem particularly bothered, saying perhaps it was "because they didn't understand and thought we were dangerous".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我问哥哥为什么他们如此生气，他似乎对此没什么特别的困扰，说也许是“因为他们不理解我们，认为我们是危险的人”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it hadn't been for literature, maybe I would have remained unaware of the way we were described. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果没有文学作品，也许我仍然不会知道我们被描绘成什么样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But a love of books evolved into an interest in magazines and newspapers, and that exposed a world of prejudice and ignorance to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对书的热爱发展成对杂志和报纸的兴趣，这些媒介向我揭示了一个偏见和冷漠的世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my early teens, I realised for the first time that there's a widely held view that everyone who lives in a caravan or on the road is a dirty, thieving Gypsy, never contributing to society while living for free on land that doesn't belong to them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我早期的青少年岁月，我第一次意识到有一种广泛的成见，认为住在大蓬车或路边的每一个人都是肮脏、偷盗的吉普赛人，他们对社会没任何贡献，不付出任何代价地生活在不属于他们的土地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gypsies and Travellers are the only social group that it is still acceptable to insult. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉普赛和流浪者是唯一仍然接受这种侮辱的社会团体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In part, I think this stems from our levels of illiteracy and lack of social involvement; if people are unaware of what is being written about them, they're not going to dispute it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>部分地，我认为这源自于我们的文盲程度和缺乏社会参与；如果人们不知道自己被别人歪曲成怎样，他们就不会去为此争论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And if they don't dispute it, it will carry on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果没有争论，歧见就会继续。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In England, Gypsies were ruled as a distinct ethnic group under the 1976 Race Relations Act. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在英格兰，根据1976年的种族关系法（Race Relations Act），吉普赛人被界定为一个特殊的族群。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Irish Travellers were granted this status in 2000. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而爱尔兰的流浪者则在2000年才获得相应的地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it has made very little difference to popular opinion or attitude, and even less difference to the lives of the Travellers themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这对外界的意见和态度几乎没什么影响，对流浪者自己的影响则更小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gypsy and Traveller people still have the lowest life expectancy, the highest child mortality rate and are the most "at risk" health group in the UK, as well as being excluded from many of the basic social and legal structures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉普赛人和流浪者人民仍然有着最短的平均寿命，最高的儿童死亡率，他们是英国健康状态最“高危”的群体，他们仍然被排除在许多基本的社会和法律框架之外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although I didn't go to school, some of my siblings did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我没有上过学，但我的一些兄弟姐妹上过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And like so many other Gypsy children, they faced bullying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如其他的许多吉普赛孩子一样，他们也遭受欺凌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often I would turn up at the high-school gates to find them in floods of tears because children had been picking on them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我经常在中学大门前碰见他们，看到他们眼泪汪汪的样子，一定是其他的孩子找他们茬了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can be hard to reach your full potential without schooling, but compared with traditional illiterate Gypsy or Traveller families, we had good opportunities and were not expected to marry young, have lots of children and follow in our parents' footsteps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不上学，你很难完全发挥你的潜能，与传统的文盲吉普赛和流浪者家庭相比，我们有着更好的机会，我们不会被要求追随父母的脚步，在年轻时就结婚，生下许多孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a child, my passion had been flamenco (the music of the Gypsy community in Spain). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我还是一个孩子时，我就对弗拉门戈（一种西班牙吉普赛族群的音乐）充满热情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother took me to a dance class after we settled in Norfolk when I was about nine, and I was hooked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我9岁，我们家在诺福克定居下来时，我的母亲带我去参加一个舞蹈班，我马上就迷上了弗拉门戈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had rented a piece of land for our wagons and been granted special residency rights by the council. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们租了一小片地来停放我们的蓬车，地方议会也批准了我们的特别居住权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We moved into mobile homes and eventually built a wooden structure to house a bathroom, kitchen and communal area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们搬入流动房屋，最终，我们建了一个带浴室、厨房和公共区域的木结构房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This meant I could have regular lessons and I became a professional flamenco dancer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着我可以定期上课，而我也成了一个专业的弗拉门戈舞蹈演员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the age of 17, I was filled with a desire to leave the chaotic comfort of the camp behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在17岁时，我内心就充满着离开营地后面那种嘈杂的舒适的欲望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After saving money doing care work I travelled around the world for years, dancing in flamenco bars in Australia, flamenco schools in Spain and on beaches in India.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过做护理工作存了一点钱，我到世界各地旅行了几年，我去过澳大利亚的弗拉门戈酒吧、西班牙弗拉门戈学校和印度海滩跳舞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But even when I was travelling, I never really told people about my upbringing or family, for fear of negative or ignorant responses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但即使在旅行中，我也从来没有真正告诉过人们我的成长和家庭背景，我担心会有负面或无知的的反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without school it is hard to make lifelong friends, and I know that only my family understand my fears, emotions and background. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没上过学，就很难结交一生的朋友，我知道只有我的家人理解我的恐惧、情感和背景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family was so large and close that I never felt I needed friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的家庭如此之大而且和睦，我从来不觉得需要朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But while I was away, a sense of discontentment grew inside me that I knew wasn't going to go away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当我离家在外，一种不满足的渴望从心底生起，我知道这种渴望再也不会消失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had toyed with the idea of going to college in the past, but it had seemed unnecessary, difficult and somehow unobtainable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我过去曾经有过不经意的上大学的念头，但在那时看来，上大学并无必要、而且困难、有点无法达成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, aged 22, I was ready - but it wasn't going to be easy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我22岁时，我准备好了－－但这并不容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before I was accepted, I had to write 3,000 words on why I wanted to enter the education system so late - quite a challenge for someone who had never written more than a letter before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我被大学接受之前，我必须写3000字来陈述我这么晚才进入教育系统的理由－－这对一个之前从没写过超过一封信长度的人来说实在是一个挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I got my place and, for the next nine months of the course, spent my nights in our caravan home reading GCSE-level text books, desperately trying to gain the basic knowledge I was expected to have. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我获得通过，在接下来的9个月的接入课程里，我每个晚上都在大蓬车里读GCSE-level的教科书，拼命学习要求掌握的基本知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know about the atrocious crimes Hitler was guilty of, nor when the Battle of Hastings took place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道希特勒所犯下的残暴罪行，也不知道黑斯廷斯战役发生在哪一年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had no idea what the respiratory system did and I couldn't punctuate a sentence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对呼吸系统能做什么一无所知，我也不会给一个句子标上标点符号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I had a good vocabulary, a lot of determination and a hugely supportive family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我词汇量不错，有坚定的信心以及家庭的巨大支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trying to study among them was another matter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而要在他们的包围当中学习则是另一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finding peace and quiet had always been impossible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获得安宁和平静通常是不可能的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was a little girl I dreamed of living in a terraced house on a cobbled street, because in wagons and caravans you never get any peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我是一个小女孩时，我就梦想住在一个鹅卵石街道旁边的带露台的房子里，因为在货车和大蓬车里，你永远无法得到安宁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You live on top of each other, privacy is non-existent and the only place you find solitude is by hiding under a tree or walking across a field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都挤在一块，没有隐私，你唯一能找到独处的时候是藏在树底下，或行走在田野里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a child I would wander off alone whenever I got the chance, to find a patch of moss to sit on and spend the afternoon watching ladybirds and picking flowers to press.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小时候，只要一有机会，我就单独走开，找一小片苔藓，坐在上面；一整个下午观看螵虫，或者摘下花儿，把它揉碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moving from one culture to another is incredibly difficult, and knocking down the barriers and misconceptions is even harder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从一种文化过度到另一种文化有着令人难以置信的困难，而要消除障碍和误解就更艰难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps I shouldn't have been surprised - there has been a long history of persecuting Gypsies in Europe: the Egyptians Act of 1530 banned them from England, while later acts forced them to give up their nomadic existence or face death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许我不应该惊讶－－在欧洲有长期压迫吉普赛人的历史：1530年，英国颁布《埃及人法》（the Egyptians Act）将他们从英格兰驱逐出去，之后，其它的法案又强迫他们放弃游牧生活，否则就面临死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Nazis considered them "nonpersons", and some experts believe around 600,000 European Gypsies were eradicated, most gassed in Auschwitz.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纳粹将他们定义为“非人”，一些专家相信，大约有60万欧洲吉普赛人被屠杀，其中绝大多数被毒死在奥斯威辛集中营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are several different groups within the travelling community. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在流浪者族群中有几个不同的团体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Roma Gypsies, who originated from the Indian subcontinent around 1,000 years ago and have now spread across Europe; Irish Travellers, who have a common language (Shelta) and are believed to have became nomadic in the 16th or 17th century; plus new age travellers, hippies and crusties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗马吉普赛人，大约1000年前发源于印度次大陆，现在遍及欧洲；爱尔兰流浪者，他们有共同的语言，Shelta，他们被认为是在16或17世纪成为游牧民族的；再加上新时代的流浪者，嘻皮士和地壳朋克（crusties）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some choose a nomadic life because they want to be more in touch with nature; others to live on the edge of society without a national insurance number or fixed address.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些人选择游牧生活，是因为他们想更接近自然；其他的人生活在社会边缘，是因为他们没有社会保险号码或固定的住址。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet when Gypsies and Travellers do want to settle down, there are extra complications. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，当吉普赛人和流浪者真正想定居下来的时候，却又有更多的困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More than 90% of planning applications submitted by Gypsy families are refused, compared with 20% of non-traveller applications. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉普赛家庭呈上的规划申请超过90%被拒绝，而非流浪族群的申请只有20%被拒绝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, Gypsies may be buying pieces of land on green belts and have little or no knowledge of the administration system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，吉普赛人也许会在绿化带（green belt）买一小片地，但他们对行政管理系统了解太少甚至一无所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A planning application by a Gypsy family is always met with an extreme number of objections by the local residents (I know this from experience). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一份规划申请常常会面对极多的当地居民的拒绝（我从经验中得知）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it's a fact that having Gypsies in a neighbourhood lowers the price of property.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而与吉普赛人为邻，会导致房地产价格更低也是一个事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My siblings and I were born into this lifestyle, but we weren't taught to carve clothes pegs and sell lucky heather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和我的兄弟姐妹就是在这种生活方式中长大的，但我们不会学习如何做衣服夹子和卖吉祥石南（lucky heather）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were brought up with strict morals, values and guidelines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在严格的道德、价值和行为准则下成长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't look or act particularly different to anybody else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的外表和行为与其他人并无特别不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We just had a different path, and weren't brought up living in a house.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们只是走了不同的路径，不在房子里长大而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After completing my access course (thanks to a wonderful tutor, I got distinctions in all the units), I did a degree with the Open University, and that meant completely changing my way of life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在完成我的接入课程后，在一位了不起的导师的帮助下，我的所有单元都得了优（distinction）。我在公开大学（the Open University）拿到了学位，这意味着我的生活方式已彻底改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last November, at the age of 30, I moved to Brighton to study at Brighton Journalist Works. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去年11月，我30岁，我搬去布莱顿，在布莱顿记者工作室（Brighton Journalist Works）学习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I live here with my boyfriend in a flat, which is bizarre and alien to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和男朋友住在一个公寓里，这对我来说新鲜又奇异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family are, admittedly, no longer truly nomadic, and my parents support my decision to transform my life, but I have never lived within bricks and mortar before, and I feel completely out of touch with nature now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，我的家庭已不是真正的游牧家庭了。我的父母支持我的改变人生的决定，但之前我从没有在一个砖墙结构的房子里生活过，我现在感到彻底远离了自然。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>A tourism report released last week by the China Tourism Academy, a tourism research institute under the National Tourism Administration, said the total revenue would include US$35 billion earned from overseas tourists, down five percent from last year, and RMB950 billion from domestic travelers, up eight percent from 2008.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上周，国家旅游局属下的旅游业研究机构中国旅游学术论坛发布了一份旅游业报告，指出以上总收入将包括海外游客带来的350亿美元收益，同比减少了5%；另外还包括国内游客带来的9500亿元人民币收益，同比增长了8%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The report said China expected to see 124 million inbound trips this year, down five percent from a year earlier. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>报告称，今年中国的入境游数量将达到1.24亿次，同比减少了5%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The number of inbound tours longer than one night would drop 10 percent to 48.2 million.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>时间长于一晚的入境游数量将下降一成，为4820万次。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The report said the number of inbound trips declined 5 percent to 62 million in the first six months.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>报告指出，今年上半年入境游数量减少了5%，降至6200万次。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The academy said the outbreak of H1N1 in April added to the woes of the global tourism industry, which was suffering from the global economic recession.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该机构表示，4月甲型流感的爆发使得原本受到世界经济危机冲击的全球旅游业雪上加霜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It said it was unlikely inbound tourism would recover in the second half, but domestic and outbound tourism would increase if the spread of flu virus were curbed in China.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>报告称，入境旅游不可能在下半年复苏，但如果中国国内能够控制住流感蔓延，国内游和出境游将会实现增长。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The report said the outbreak of the flu virus had a negative impact on the country's tourism, but tourism authorities had launched a series of stimulus plans to boost domestic tourism, such as promotion of rural tourism and tourism coupons, which helped buoy domestic tourism.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>报告指出，流感的爆发对中国旅游业产生了负面影响，但旅游部门已经出台了一系列刺激方案推动国内旅游业发展，例如宣传乡村旅游、发放旅游优惠券等，已经令国内游有所恢复。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first half-year saw one billion domestic trips, up 10 percent from a year ago, and a revenue of RMB500 billion, up 10 percent.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今年上半年，国内游数量为10亿次，同比增长一成，总收入达到5000亿元，同比增长一成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Domestic tours were expected to total 1.9 billion for the year, up 10 percent.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>全年国内游总数预计将达19亿次，同比增长一成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>China's tourism revenue totaled RMB1.16 trillion last year, including RMB874.9 billion from local travelers and RMB283.9 billion from overseas tourists.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>去年，中国旅游业总收入为1.16万亿元，其中包括本地游客消费的8749亿元以及海外游客消费的2839亿元。</seg></tuv>
+</tu>
+</body>
+</tmx>

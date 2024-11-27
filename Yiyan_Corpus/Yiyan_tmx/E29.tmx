@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Keys To Better Communication With Clients </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些窍门，让你更好地与客户沟通</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I recently spoke with a prospective client who started the conversation by saying that he had called us because he was unhappy with his website's current design and development team. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我最近采访了一位我的潜在客户，谈话一开始他就说到对自己的网站目前的设计以及开发团队都很不满意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Questioning what about his current team he didn't care for, I discovered that it wasn't the company's product or its prices - he was satisfied with the work they did for him and felt that he was charged fairly for it. He was unhappy with their communication.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当问及是否他不够关心自己的开发团队时，我发现问题不是出在产品质量或是价格上——他很肯定团队所做的成绩并且认为要价也很公道，问题是他对他们之间的沟通不畅感到不爽。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Communication Breakdown Link </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>沟通障碍</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Poor communication is a surefire way to damage any project or relationship, but when I dug deeper into this particular case, I realized that lack of communication was not the issue; the company provided regular updates on projects and milestones and so on. Rather, it was the words they used when giving those updates and answering questions. The problem was that the provider spoke "Web speak" and nothing else.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>劣质的沟通轻易就能破坏掉任何项目、合作关系，但是当我深入挖掘这个事例时，我发现缺乏沟通并不是问题的关键所在，开发团队能够定期更新项目，提供不同阶段的时间表，然而，正是他们做这些事时用到的专业术语导致了沟通的不顺畅。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This isn't the first time I've heard this complaint from someone when discussing their Web team. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种抱怨自己设计团队的话我不是第一次听到了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While they appreciate the provider's knowledge of the profession and industry, they bemoan the reality that they cannot translate that knowledge into language that someone who is not a fellow Web professional would understand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管这些客户很钦佩团队人员的专业性和职业性知识储备，但是他们常常感叹这样一个事实，开发人员们不能把那些专业性的知识转化为大众都能听得懂的语言。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While the updates may be plentiful, the communication is still poor.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更新升级网站的方法那么丰富，可到了交流沟通方面却词穷了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PEER-TO-PEER COMMUNICATION LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对等的交流</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Those of us in the Web industry enjoy countless opportunities to exchange knowledge with our peers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那些和我们一道在互联网行业做事的人都喜欢与同行们一起交流知识技术，这样的机会真是越多越好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From attending conferences and meetups to contributing to conversations on blogs to communicating on platforms such as Twitter and Dribbble - Web designers and developers can share information and learn from each other in a myriad of ways. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从参加交流会议到在博客上探讨，再到在诸如Twitter和Dribbble这样的平台上互动——网页设计师们以及开发者们彼此分享前沿信息，从多种渠道相互学习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The way we communicate in these circles, however, is very different from how we must communicate outside of them, even though we are often discussing the same topics.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而在这个圈子里交流，和我们必须与之打交道的外界交流是完全不一样的，尽管讨论的东西往往都是相同的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The way we speak about issues such as browser inconsistencies and approaches such as progressive enhancement and responsive Web design must be tailored to the audience we are addressing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们谈论问题的方式，比如谈到浏览器的不一致性、浏览器的浏览方式如优化处理和响应式网页设计时，有必要以一种观众能够接受的方式来表述。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is, of course, easier said than done. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这话说起来容易，做起来难。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After speaking with our peers in technical terms that we all understand, how do we then alter our language and way of speaking to present a technical piece of information in a non-technical way? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当我们已经和同行们用专业术语聊过以后，我们该如何转变语言表达方式，让技术语言变得通俗易懂呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The truth is that, like everything else in our industry and in life, it takes practice.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，正如生活和事业上的其他事物一样，凡事都需要练习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Practice, Practice, Practice Link </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>练习，说到底还是练习</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Over the years, I have been told by a number of clients that they enjoy meeting with me and discussing their website because I "make it easy to understand." I have been commended on presenting these technical concepts in a very accessible way and on the fact that it seems to come naturally to me. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些年来，我的客户们都说他们喜欢和我开会，讨论他们的网站，因为我说的东西“很容易理解、明白”。我常因此而受到称赞，把专业知识用通俗易懂的语言表述出来，已经成为了一种习惯。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While I appreciate that my clients feel this way about my presentational skills, the truth is that I have worked hard to be able to talk in this way.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我很感激客户们对我的表达技巧的认可，我也一直努力去钻研这种表达方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this article, I will go over a few of the ways that have helped me adjust how I speak about what I do in order to better communicate with my clients. I will also address some warning signs of communication breakdown, as well as ways to get those conversations back on track if they do falter.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在本文中，我将会重温那些曾助我一臂之力的方法，我是用什么办法把自己所做的东西更好的将给客户听，更好的与他们沟通的，以及当他们踌躇不定的时候又是如何将我们的谈话带回正轨的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>BUSINESS SECOND LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>请先将生意放在第二位</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I have long praised the benefits of having casual non-business conversations with clients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我一直都大力推崇那种与客户间非业务性质的闲谈，真是好处多多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This practice also has a place here as you strive for more effective communication with clients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种闲谈也是我们争取与客户有效沟通的一个部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Too often, communication is strained from the start because a client fears you will speak to them in terms they do not understand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般来说，聊天一开始气氛很紧张，因为客户总是担心你又要用那种他们不懂的语言来说话了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No one wants to appear confused or uninformed, especially in a business setting, and that type of anxiety can make a bad situation even worse. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谁也不表现得糊涂又无知，尤其在商务场合，这样的焦虑会使情况变得越来越糟。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By starting a meeting off with light informal conversation, you help to minimize any anxiety the client may have and set the tone for the rest of the meeting. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以一场没什么信息量的轻松谈话作为会议的开场白，你会把客户的焦虑感降到最低，并且也为整个会议定下了轻松的基调。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Additionally, you might learn something about the client or they about you, helping you to continue building a genuine, long-term relationship that goes beyond just the business you do together.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，你也不妨多了解客户的想法以及客户眼中的你是什么样的，这会帮助你建立一个真诚的，长期的，不仅仅局限于商场上的伙伴关系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By starting out the conversation with something other than business talk, you enable the client to see you as someone other than just "their Web designer," and you have a chance to break the ice and strengthen the relationship before the discussion turns to business.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以一个跟生意无关的谈话开始，这样你的客户不只把你当成“他们的网页设计师”，你也有机会去打破僵局，并能在正式谈判之前融洽彼此的关系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>LEARN THEIR LANGUAGE LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学说他们的生意语言</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While casual conversation is a good way to start a meeting, you will have to get to business sooner or later. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管随便闲聊对一场会议来说是一个好的开始，你还是迟早都要谈到正事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To complement the technical explanations that you normally give, you could also learn your client's language and speak to them in terms they understand and are comfortable with.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了对你常说的那些技术上的专业知识进行补充说明，你也可以学习那种能让他们理解并且感到舒适的说话方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Speaking their language" doesn't mean adding horrible business jargon to your vocabulary. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“说他们的生意语言”并不意味着在你的言谈里加些无聊的商业术语。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It just means understanding what is important to the client and speaking to those topics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只是想让你明白什么对客户来说是重要的，什么是你可以说的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By correlating technical information to their business goals, you will find that the message is much better received.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>把技术知识和他们的商业目标建立某种联系，你会发现你想传达的东西会很容易被接受。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, you may be well versed in topics such as HTML5, CSS3, responsive design and so on, but you should go beyond the technical application of these topics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比如，你擅长的话题有HTML5、CSS3、响应式设计等，但是最好不要局限在这些话题的技术应用方面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You must also know how they can be used to help meet the business goals of your clients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你应该了解的是它们如何帮助你的客户实现商业目标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is the language that clients speak. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些就是客户们的语言。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you explain how CSS3 media queries enable a website layout to reflow according to screen resolution, creating a UX that is optimized for the user's current environment, then you will usually be met with a blank stare. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你试图解释屏幕分辩率和CSS3媒体库可以让网站布局断行，并可创建一个优化用户当前环境的UX，你通常会收获一个白眼。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Instead, say that you will build the website to work well on a variety of devices, from large desktop monitors to handheld mobile phones, thus enabling the visitor to complete their task as easily as possible, whether that task is to read content, sign up for an account or make a purchase. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果换一种方式来说，你会建一个功能强大、运行良好的网站，大到台式电脑小到手机都适用，并且让访问者不论是浏览网站、注册还是购买都做到尽可能的简单便捷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such tasks are the purpose of the website and are directly in line with your client's business goals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些是网站要做的，也和客户的商业目标直接挂钩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By making it easy for people to complete those tasks with whatever device they are using at that time, you give the website the best chance to convert those visitors into actual customers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们只想实现这些功能，不论用什么设备都行，所以最简单方便的操作才会给你的网站以机会，实现游客到顾客的转变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the end, you are still talking about responsive design and CSS3 media queries, but you are focusing on the business results instead of the technical execution required to achieve the results - and your client can certainly understand and get excited about business results.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后，你其实仍是在说响应式设计和CSS3媒体库，只是关注的是商业结果而不是技术上要达到的结果——你的客户也会明白并且为之兴奋的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>WRITE NON-TECHNICAL ARTICLES LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>写一些非技术性的文章</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As you begin to use new technologies and experiment with new techniques, one way to reinforce your learning is to write about it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你开始运用新技术、试验新技术时，强化知识学习的途径之一就是写点关于它的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Authoring an article helps you to fully think through the process. It can also generate conversation that furthers your knowledge of the subject. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>创作一篇文章帮助你全面了解整个过程，也可以借助文章来与人交流加深学习。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, if the only articles you author are technical ones meant for other designers and developers, then you may be compounding the challenge of being able to communicate with a non-technical audience.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，如果你的读者都是那些设计师啊开发人员啊那些技术范儿的话，你还是会面临与非技术读者的交流障碍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you enjoy writing articles about Web design, try producing some that are geared to your clients or other business owners. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你喜欢写一些关于网页设计的文章，可以试试写一些你的客户或是其他企业人看得懂的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By writing about the aspects of Web design in a non-technical, client-focused way, you can continue to explore the best way to present those topics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从非技术的角度、以客户为中心去写网页设计，你会不断地发掘出更好的展示你观点的方法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Over time, you will find that your explanations in the articles become part of your normal vocabulary with clients, giving you talking points that find their way into your meetings and conversations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>久而久之，你会发现你在文章中的语言习惯将会变成你和客户交流的语言习惯，并很可能会成为会议上的话题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>TEACH WHAT YOU KNOW LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>传授你所知道的东西</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition to writing articles, also take your knowledge and experience to the classroom or stage and verbally teach what you know to others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除了写作，你还可以把你的知识和经验带到课堂上、会场里，向别人口头传授你所知道的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The website design and development course that I have been fortunate enough to teach at the University of Rhode Island for the past few years has been an enormous help to my presentational skills. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>过去的几年里，我曾有幸在美国罗德岛大学开设网页设计和网站开发课，这对我演讲技巧的提高起了很大的帮助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Being able to present technical information to students, a group that actually bridges the gap between technical and non-technical, has helped me find ways to discuss these topics in a manner that is accessible to beginners but also informative enough to be applied to the work they are doing.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>能够向学生们传授一些技术上的知识，拉近技术人员和非技术人员之间的距离，这些在某种程度上都帮助我寻找到讲解技术的方法——既适用于那些初学者，又能在工作上用到。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if you don't have the opportunity to teach a class at the university level, consider volunteering to lead a class on basic HTML and CSS at your local library or high school. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使你没有一个机会在像大学那样的课堂上讲课，你也可以在当地的图书馆或是高中考虑义务教授基本的HTML，CSS知识。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The benefits you get from the experience will influence how you speak with clients and help you better present technical concepts in a way that is easy to understand, never condescending and always productive.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好处就是，你从中学会如何与客户交流，如何以更易被理解的方式展示你的技术，而非居高临下，而且相当富有成效。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Communication Is A Two-Way Street Link </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>沟通需要双向互动</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While these tips may help you improve your own skills, the fact of the matter is that quality communication is not one-sided. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管这些小窍门能帮助你提高技巧，事实上沟通的质量并不取决于其中一方。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It has to flow in both directions: from you to your clients and from your clients back to you. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它需要双向互动：你传达给客户，客户再反馈给你。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Part of your job is not only to improve your own skills, but to ensure that your client's are up to snuff as well.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以你不仅要提高自己的技巧，还要确保你的客户也能达到预期效果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here are a few things to look out for on your client's end of the conversation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>临到与客户谈话的尾巴时，还有一些你需要留心的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>LOST IN TRANSLATION LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>信息误传</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When kicking off a project or speaking with a prospective client, one of the first things you should do is determine who you are speaking with and what their role in the project will be. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你启动一个项目时或是与一位潜在客户交流时，你要做的第一件事就是要确定你在和什么样的人交流，他们在项目里的角色是什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Are they a decision maker with the authority to provide quality feedback on the project, or are they a messenger? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们是能提供项目质量反馈的决策者或者仅仅是一个传达者？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are dealing with someone who is essentially a go-between, then you run the risk that your words will be mangled when recounted to the actual decision makers or that their words will be mangled when recounted back to you. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果和你打交道的实际上是一个中间人的话，那么传达到实际决策者那的信息就会被扭曲，传达给你的语言也会有误，这样的风险势必要承担。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is a recipe for misunderstanding and tension.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里有一个解决误解和避免这种情况的窍门。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This scenario is especially common when dealing with large companies in which meeting with the decision makers is very hard to arrange. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有种情景极其常见：你的合作对象是那种大公司，决策者难得一见，很难约到。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Still, you should be pushing for this. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过你仍可以为此做点什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Key decision makers must be present at key meetings and presentations in order to maintain quality communication. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>重要决策者必须在关键会议上出现，以保证沟通的质量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This might sound strict and a bit unrealistic, but anything less will not do, and this is what you should demand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来的方法听起来可能会比较严格比较不现实，但是做了总比不做好，而且你也会用得到。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Explain that you understand that their schedules are tight - yours is as well - but developing a successful solution will be a team effort, and key personnel from both sides must be in contact with each other directly for it to work. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>告诉他们你了解他们严格的时间表——当然他们也要了解你的——然而若想开发一个成功的解决方案必须要整个团队去努力，双方的关键人员也要为此建立直接的联系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This doesn't mean that C-level executives need to be at every meeting, but it does mean that you shouldn't be meeting with only a messenger.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这不说是要C级执行官必须出席每一场会议，而是说你不能和单一的一个信息传递者见面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The success of a project is directly related to the quality of the communication during the process. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>项目的成功与项目过程中沟通的质量有直接关系。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Make sure you are speaking with the right people during it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>确保你全程都在和对的人进行交流。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>RESPONDING BEFORE READING LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>及时反馈</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Feedback given in a project will often contradict previous feedback or decisions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随着项目的进行，客户的反馈常常会推翻之前的那些决策和结论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In some instances, this happens because the client gave that initial feedback hastily without fully understanding the nature of the issue or the decision being made. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在某些情况下是因为客户最初给出的反馈太过匆忙和草率了，并没有充分了解问题的性质或是已经做的决定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whenever this happens to me, it is almost always because an email was not fully read and the reply was sent too quickly.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当这种情况发生在我身上时，通常是因为邮件被草草读过后就回信的缘故。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Email is a necessary form of communication, but it is also easy to rush through and even dismiss entirely. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电子邮件是一个必要的沟通形式，但是它又很容易被仓促间误读、肢解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you rely solely on email or another kind of digital communication, then you risk the conversation breaking down.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你仅通过邮件或是其他数字通讯来沟通的话，你将面临着沟通破裂的风险。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pick up the phone or schedule an in-person or video meeting to review and decide on key points in the project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不论是电话会议、现场会议或视频会议，通过这些你都可以审视并做出项目关键性的决策。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Dismissing a conversation is much harder in a meeting than when opening one of the hundreds of emails they likely get each day. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让那些习惯于每天收到成百封邮件的人再拆一封邮件，远比在会议上谈得不愉快要容易得多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you require digital communication as a record of the decisions made, then you could certainly follow up on the meeting with a recap of what was discussed and decided. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你需要用数字通讯手段来记录所做的决策的话，你当然可以全程记录会上讨论过的和做了决定的内容。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Meeting to make decisions and then using email to recap and reinforce those decisions lead to fewer misunderstandings caused by hurried responses from a distracted team.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在会议上作的决策，后续再用邮件来记录和强化它们，这将会减少一个匆忙、分心的团队工作所带来的误解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>LATE TO THE GAME LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>项目进行到最后的小插曲</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Another scenario to be mindful of is when someone jumps into the communication loop deep into the project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有一个需要留心的情况就是，会有人突然加入到项目沟通中去，并且会对项目有很大影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if you have excellent documentation on the decisions and communication that have happened so far through project management software like Basecamp, these late additions to the group will rarely be able to assimilate all of the information that has been accumulated, meaning their feedback and comments will not have the benefit of this historical knowledge. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即便你有出色的决策方案和完美的沟通，而且你所做的一切像大本营一样稳稳驻扎在整个项目上，可是那些后期才加进项目中的人却不太容易吸收已经达成共识的信息，所以他们的反馈和评论将会帮倒忙。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This can be dangerous. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是很可怕的事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The new team member will often want to make an impact on the project, but if they do not understand the decisions that have been made thus far or why they have been made, then they could easily derail the project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新的团队成员总是想做些成果出来，但是如果他们不懂得先前的决策的影响力和作此决策的前后原因，他们会轻易毁掉一个项目的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, you want to avoid this.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>毫无疑问，你要避免这种情况的发生。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If a new member does jump into the project, bring them up to speed and direct their enthusiasm in a positive way. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果新成员确实被加进来了，那就让他们熟悉情况并且用积极的方式去引导他们。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Schedule a meeting or a call with them and perhaps one or two others from the team, just to "get up to speed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>给他们开会或是做电话沟通，也可以叫上团队中的其他几人，为的是“赶上进度”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>" Explain what the team has decided so far and detail what the next decision points are and how their input into those upcoming decisions will be helpful.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>向他们解释团队到目前为止的决策以及下一个决策点的细节，以及他们的到来对这个进行中的项目将会有多大的帮助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By directing their enthusiasm at upcoming decisions instead of back to previous decisions, you enable their contributions to help, rather than hinder, the project.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过把他们的热情引导到新的决策上，而不是拘泥于之前的决策，你将会化妨碍为助力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PAYING ATTENTION TO THE SIGNS ALONG THE ROAD LINK</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>留心项目进行中的提示</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Obvious signs of strained communication in email include expressions of frustration, clearly miscommunicated messages and decisions that contradict previous conversations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>邮件中出现的沟通危险迹象是显而易见的，包括沮丧的表情，错误传达的信息以及与之前沟通不符的决策。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When you see these emails, do not reply to them to "set the record straight." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当你在邮件中看到这些，不要试图去澄清。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pick up the phone and do it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还是拿起电话来沟通吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When communication is already strained, a flurry of emails back and forth usually does little else than compound the frustration. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果沟通陷入僵局，一系列拉锯的邮件往来无异于火上浇油。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once again, this is where an in-person or video meeting helps.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有现场会议或视频会议能够再一次发挥作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By discussing the issue verbally, you stand a much better chance of resolving it and getting everyone back to healthy communication. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>口头阐释问题，会让你更容易解决问题，也会把所有人都带回良性轨道上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Regularly scheduled meetings are great, but if you notice signs of miscommunication, don't wait until the next one happens; ask for a quick call or meeting to address the issue immediately.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>定期会晤是再好不过的了，但是你一旦发现了理解被误传的迹象，就不要等到下次会议时才提，要尽快打个电话或召开会议，把问题扼杀于萌芽中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Quality Communication For All Link </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>适用于每个人的高质量沟通</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Communication skills do not benefit Web professionals alone. They apply to anyone, from any industry or business, who has to communicate with others. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>交流技巧不仅对专业Web从业者有益，它适用于任何人，任何行业任何业务，只要离不开和人打交道。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No matter what business you are in, healthy communication skills will help you do it better. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不论你从事哪一行，良好的沟通技巧都会让你的工作更顺当。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fittingly for an article about conversation, I invite your contribution to the discussion:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一篇有关沟通的文章，那么我想请大家也来讨论一下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What ways have you found to improve communication with your own clients?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>诸位有什么提高与客户沟通质量的窍门吗？</seg></tuv>
+</tu>
+</body>
+</tmx>

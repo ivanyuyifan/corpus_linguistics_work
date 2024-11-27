@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Lemon battery </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>手把手教你做个柠檬电池！</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Batteries consist of two different metals suspended in an acidic solution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在使用酸的电池制造方式中需要两种不同的金属。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Copper and Zinc work well as the metals and the citric acid content of a lemon will provide the acidic solution.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>铜和锌是非常好的选择，因为它们能和柠檬中的柠檬酸形成很好的酸性电池环境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Batteries like this will not be able to run a motor or energize most light bulbs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>像这样的电池还不能为发动机或者大部分的灯泡提供能量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is possible to produce a dim glow from an LED.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是已经足够让一个LED灯发出微弱的灯光。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The lemon: A large, fresh, "juicy" lemon works best.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新鲜个大汁液充足的柠檬是我们的不二选择。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The nail: Galvanized nails are coated in zinc. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>钉子一般会用锌镀上一层外皮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I used a 2" galvanized common nail.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这里我选用一般的二号镀锌钉。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The penny: Any copper coin will work.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何一种铜硬币都可以发挥作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Creating the battery: Insert a penny into a cut on one side of the lemon. Push a galvanized nail into the other side of the lemon.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来制作我们的电池：在柠檬的一侧切开一个小口，将硬币插进去，然后将镀锌的钉子插入到柠檬的另外一边。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The nail and penny must not touch.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>钉子和硬币绝对不能互相接触。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is a single cell of a battery. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如图所示是一个单芯的电池。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The zinc nail and the copper penny are called electrodes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>镀锌钉和铜硬币就是电池的电极。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The lemon juice is called electrolyte.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而柠檬中的柠檬汁就是电解质。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All batteries have a "+" and "-" terminal.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有的电池都应该有正负两端。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Electric current is a flow of atomic particles called electrons. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电流是由叫做电子的微粒流动而形成的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Certain materials , called conductors, allow electrons to flow through them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>某些导体能让电子随意穿过他们。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most metals (copper, iron) are good conductors of electricity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它们中的绝大部分都像铜和锌一样，是电流的良导体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Electrons will flow from the "-" electrode of a battery, through a conductor, towards the "+" electrode of a battery. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电子将有负电极流出，经过导体，流进电池的正极。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Volts (voltage) is a measure of the force moving the electrons.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而电压则是一种对电子推力大小的测量。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I have connected a volt meter to our single cell lemon battery. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我将一个电压计连到了我们的单芯柠檬电池上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The meter tells us this lemon battery is creating a voltage of 0.906 volts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>电压计显示柠檬电池可以提供0.906伏特的电压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unfortunately this battery will not produce enough current (flowing electrons) to light a bulb.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不幸的是这个电压还不能产生足够的电流来点亮一个灯泡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To solve this problem we can combine battery cells to create higher voltages. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了解决这个问题，我们可以将多个柠檬电池串联起来一次产生较高的电压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Building more lemon batteries and connecting them with a metal wire from "+" to "-" adds the voltage from each cell.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们可以用前面的方法做更多的柠檬电池，并用金属线将他们之间的正负极连接起来来让电压加成。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The two lemon batteries above, combine to produce a voltage of 1.788 volts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如图所示，将两个柠檬电池串联起来我们可以产生1.788伏特的电压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This combination still does not create enough current to light a small bulb. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样产生的电压还是不够支撑起一个小灯泡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Note the red wire connecting the batteries is joined from "+" (penny) to "-" (galvanized nail).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一定要注意图中的红线是用来由+（硬币）连接到-（钉子）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Four lemon batteries create a voltage of 3.50 volts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4个柠檬电池一起可以产生3.50伏特的电压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We should be able to light up a small device like an LED (Light Emitting Diode).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们可以用它来驱动一个小型的用电装置，像LED灯（Light Emitting Diode）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Note the connecting wires go from "+" to "-" on each battery.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>注意，每个电池之间都是将正极和负极相连。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To turn on an LED you must determine the "+" and "-" connections. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>想要LED灯发光，你必须先判断LED的正极和负极。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you look closely at the red plastic base of an LED you will notice a "flat" spot (indicated by arrow above). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自己观察LED的红色塑料地盘，你会看到一个平点（如图中箭头所示）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The wire that comes out beside the flat spot must connect to the "-" side of a battery, the other wire to the "+" side.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由平点后面出来的线必须被连接到电池的负极。另外一根则连接到正极。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Important information about LED's: LED's are designed to work at very low voltages (~ 2V) and low currents. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关于LED的重要信息：LED是被用来工作在非常小的电压（大约2伏）和电流环境下的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They will be damaged if connected to batteries rated at over 2 volts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果供电的电压超过2伏，LED有可能被烧毁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>LED's require resistors to control current when used with batteries rated at over 2 volts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当使用2伏以上的电池时，需要使用额外的电阻来帮助控制电流。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lemon batteries produce low current. It is OK to connect an LED to a lemon battery.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而柠檬电池只能产生较小的电流，完全可以将它直接连到LED的两端。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the above image, electrons flow from the "-" (nail) end of our lemon battery through the LED (making it glow) then back to the "+" (penny) end of the battery. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如上图所示，电子由钉子一端流出柠檬电池经过LED然后由硬币那一端流回电池。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is an electronic circuit. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这整个形成了一个电路。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The LED glows dimly with this configuration.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这种环境下LED能发出微弱的光。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Improving your battery.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>加强你的电池</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The quality of the copper and zinc can be a problem for a battery like this. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>像这种样子的电池，铜和锌的质量至关重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pennies in particular are rarely pure copper. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般来说，硬币很少使用纯铜制造的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Try substituting a length of 14 gauge copper wire (common house wire) for the penny. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可以尝试使用14号铜线（家里最常见的那种）来替换硬币。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Experiment with different lengths and configurations of electrodes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可以做实验使用不同长度的铜线来当电极。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other sources of zinc and copper may be found in the plumbing supply department of a hardware store.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在器材商店的水管部应该可以找到其他的铜锌来源。</seg></tuv>
+</tu>
+</body>
+</tmx>

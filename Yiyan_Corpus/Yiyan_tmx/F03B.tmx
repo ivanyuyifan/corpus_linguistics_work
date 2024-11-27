@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T043534Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're only 23. Stop rushing life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你才23岁，何必活得那么匆忙</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked my CEO today "what can I do to be better" and he responded that it was the fourth time I asked that question in the last month. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天，当我问公司老总“要如何才能做得更好”，他说这已经是过去一个月我第四次问他这个问题了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While he appreciated my efforts to always improve and get better, he told me I needed to give it time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉我，尽管他很欣赏我为想要变得更好而付出的努力，但我需要给自己一些时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whenever I've asked him for feedback in the past, he's always told me that I've done a great job and that if I continue to do what I do, I'll be fine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之前每当我向他寻求反馈时，他都会告诉我我的工作已经做得很好，只需要继续保持下去。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought to myself that that's the worst feedback I can get. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我暗自思忖，这真是我能得到的最糟糕的回复了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't want to be "fine." I want to be great, to be excellent, to be amazing, to be (insert another synonym here). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要的可不仅仅是“很好”，我想要的是“优秀”，是“卓越”，是“完美”，是......（各种你能想到的高度赞赏）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was almost offensive that I will be "fine" because it sounded like mediocrity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很好”这个词太过平庸，让我感觉仿佛受到了冒犯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of my goals has always been to be the stupidest person in the room so I can surround myself with crazy smart people I can learn from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的众多目标中有一个便是——能成为整间屋子里最蠢的人，因为这样我身边就都是可以让我学习借鉴的聪明人了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's how I can grow the fastest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样我才能以最快的速度进步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inadvertently, by doing that, I can't help but compare myself to them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但如此一来，我总是会不经意地拿自己和他人进行比较。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My CEO sold a multi-million dollar company when he was 28. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的老板在28岁的时候，卖掉了一家价值几百万美元的公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My Product Manager has founded and sold multiple businesses and he's 25. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们公司的产品经理在25岁的时候，就已经创立并卖掉了多家企业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's only 2 years older than me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>25岁..只比我大2岁啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I work day-in-day-out with these two incredibly smart and talented people, I question myself, what have I done? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我质问自己，天天和这两位如此睿智有才的人并肩工作，我到底做出了什么成绩？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I'm only 2-5 years behind them, what will I have accomplished in that time?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等再过2-5年，我到了他们现在的年纪，我会做成什么事？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stories about Mark Zuckerberg, Bill Gates, Steve Jobs, and other crazy 20 -something-years-old founders making a dent in the world has created a sense of urgency in us (the all-too-ambitious-millennial-wantrepreneurs). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们听过关于扎克伯格、比尔盖茨、乔布斯和其他许多20几岁就开始崭露头角的有志青年的故事，这些太过雄心勃勃的人给我们造成了一种急迫感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It also doesn't help when there are countless stories telling us that there's no better time than now-when we're young, out of school, with nothing to lose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而那些类似“刚出校园时的你一无所有不存在失去，正是打拼的最佳时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't wait until you have a family, mortgage, responsibilities, etc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要等到有了家庭、贷款、责任和其他束缚，那时候就晚了”的论调更是多不胜数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This sensation of now has made me very impatient to grow and create value.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凡此种种对“当下”的关注，让我迫不及待地想要获得成长，去创造价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to get to my goals faster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要更快地完成我的目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to be better tomorrow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要每一天都变得更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to learn everything I can so I can go create value ASAP. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要想了解一切，这样我才能在最短时间内创造价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all have 24 hours in a day and I feel compelled to use every minute in the most productive manner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于每天的24小时，我恨不得把每一分钟都效率最大化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I'm eating breakfast, I'm watching a tutorial on Udemy; if I'm in transit, I'm listening to a podcast; if I'm waiting for the bus, I'm reading an article on Pocket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃早餐的时候，我会阅读辅导资料；乘坐交通工具时，我会听听播客；如果是在等公交，那我就掏出手机看文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I don't, it feels like I'm falling behind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我不这样做，就会感觉被落在了人后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember a few months ago coming back from the Valley where so many people told me that if I wanted to learn as much as I can while working in tech, I needed to move down there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还记得几个月前在硅谷时，人们都告诉我，如果你想在科技创企里学到最多的东西，就最好搬过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More opportunities, more resources, more talent, more growth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里有更多的机会，更多的资源，更多的能人和更快的成长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made sense. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们说的不无道理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyone who wanted to do acting should go to LA, anyone who wanted to do tech/startups should go to SF. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就好像你想演戏，就得去好莱坞；你想创业，就去旧金山一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A friend said to me that because there are more opportunities in the Valley, people learn and grow faster, and if I don't go now, I will be falling behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的一个朋友对我说，硅谷有更多的机会，你能学习和成长的更快。不然就只能落于人后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That scared me. I don't want to fall behind from my peers. I was almost going to pack my bags and move.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个说法让我感到惶恐，我不想被同龄人们甩在身后，我差一点就收拾行李搬了过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I came back to Toronto, I thought about it a little more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我回到多伦多，深入地思考了一下这个问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why did I really want to move to SF? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么我非要搬过去不可呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is that what I really wanted? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这真的是我想要的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I realized that while my professional ambition is important, so is family, personal development, and balance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我意识到，尽管我的事业抱负很重要，可我的家庭、个人发展和生活平衡也是一样的重要啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Knowing that these are my golden years, I should be maximizing my output and giving myself the opportunities to lay the foundation for "success."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道这几年是我的黄金时期，我应该尽可能的拼命，为社会肯定的“成功”打下良好的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once again, I felt guilty that I wanted balance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是忽然间，我有了负罪感，我竟然妄想要生活平衡？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And that's just wrong.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，这是不对的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While no one's ever going to tell me it's wrong to want balance at my age, our productivity-obsessed culture combined with a sense of urgency shaped this judgment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管从来没有人跟我说，在我这个年纪谈论生活与工作的平衡是错误的，但急功近利的社会文化和其中暗藏的压迫感塑造出了我的这种价值观。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may be that I work in tech where agile development, speed to market, and scale are always top of focus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许是因为我在科技行业工作，这个行业需要市场快速更新，尽快扩张，且规模总是人们关注的焦点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this world, if you don't move fast, you can't compete.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在当今世界，如果你动作慢了，就无竞争力可言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I treated myself as a startup. Telling myself that I need to be better faster, and that there's a ticking clock to do so.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我把自己当成一家创企来经营，我告诉自己，时不我待，我需要变得更快更强。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just spent the last 3 hours sitting in Indigo after work, picked up a book, and read it cover to cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在写这篇文章前，我花了3个小时泡在书店，选了一本书一页一页地认真阅读。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't remember when was the last time I did that. I don't know what prompted me to do this either. But it felt great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不记得上次这样做是什么时候，我也不知道是什么促使我今天这样做，但这样的感觉还不赖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I forget what it felt like to be sucked into a good book and have your mind be taken somewhere else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我已经快忘了当你全身心沉浸在一本好书中的感觉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I forced myself to finish it even though my mind was telling me I had 1000 other things to do and worry about.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我逼着自己把书看完了，尽管我的大脑告诉我我还有1000件事情需要我操心等着我去做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And guess what? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你猜怎么样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was OK.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得还行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was it productive? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这算是高效率行动吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Debatable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很难讲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was it a waste of time? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这算是浪费时间吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did I sell a company? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我卖掉一家公司了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Will I sell a company (or create enough value in society to have monetary returns) in the next 2 years? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来2年我能不能卖掉一家公司（或是为社会创造足够多的价值）？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But even if I don't, that's OK. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便如此，也没什么大不了的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As long as I have learned something, and that I've created some value in someone's life, today was a good day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只要我今天学到了一丁点东西，贡献了一丢丢价值，那就算是不错的一天了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

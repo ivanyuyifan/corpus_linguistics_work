@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160827T015557Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dear Sunshine</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亲亲阳光</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was born he had exactly six minutes of normal living. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刚出生时，有过正好六分钟的正常生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For those six minutes he was loved, cosseted and crooned over by midwives and nurses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这六分钟里，助产士和护士们喜爱他，宠爱他，轻哼着歌哄他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He entered the world feeling cautious but very comfortable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他来到这个世界，虽然小心翼翼，但是感觉很舒服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he opened his eyes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他睁开了眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few of the nurses shrieked; some ran away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个护士恐怖地尖叫起来，一些甚至逃走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What is it?" his mother demanded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么了？”他母亲问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This one has a dragon behind his eyes," the head midwife said, her voice matter-of-fact and precise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这个孩子眼睛里有一只龙”，主助产士说到，声音不容置疑又极其精确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had been delivering babies for far too long to panic at every little abnormality that might occur during a birth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她做接生婴儿的工作太久了，久到对于任何一次生产中可能发生的怪异事也已经司空见惯，毫不惊慌了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Best set him out to die now before you get too attached.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在你感到不舍之前，最好把他扔掉，让他死了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were just words then- meaningless sounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对他而言都是些词罢了--没有意义的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't cry out because they meant nothing; instead, he sensed the midwife's calm manner, her professional handling of his small body, her scent of sweat and stale lavender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有因为它们什么意义都没有而哭；相反的，他察觉到了助产士的平静，她握着他小小身体的专业，以及她身上汗水混合着变淡薰衣草香水的味道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He liked all of these things, and nestled close to her body.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他喜欢这一切，舒适地紧靠着她的身体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes," the midwife added, "kill him before you even give him a name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对，”助产士继续说：“在你给他起名字前，杀了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's better that way."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样最好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He has a name," his mother snapped, taking him from the midwife's arms with jarring force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他有名字了，”她母亲厉声说，用惊人的力量把他从助产士的手臂中抢了过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"His name is Dear Sunshine." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他的名字叫亲亲阳光。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His mother wrapped a blindfold around his eyes and from then on he lived in darkness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他母亲给他的眼镜围上了眼罩，从此，他生活在黑暗中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can't turn a monster into a boy," his father said, "And you can't turn a dragon into a son."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你根本不能把怪物变成小男孩”他父亲说：“你也不可能把龙变成自己的儿子。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Just watch what I can do," his mother said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“等着瞧吧，看我能做到什么”他母亲说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By then, three days after his birth, he was already starting to understand human language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时，他已经出生三天了，已经开始懂得人类的语言了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he was small and frail and couldn't move around like he wanted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他太小太弱了，根本不能如他所愿地移动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He hated how useless he was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他讨厌自己的无能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He cried all the time to express his outrage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不停地哭泣以表达他的愤怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He killed his first man when he was three. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他三岁时第一次杀人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A drunken knight snatched off the boy's blindfold as a dare. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个挑战，一个醉醺醺的骑士抢走了男孩儿的眼罩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The knight wanted to see a dragon and so a dragon was the last thing he ever saw.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>骑士想看看龙，结果龙成了他看到的最后的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one but the boy's mother dared approach him to put his blindfold back on; they were afraid that they too would have their heads smashed against the walls.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了男孩儿的母亲，没人敢靠近他，把他的眼罩戴回去；他们害怕他们的头也会被砸在墙上砸个粉碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Dear Sunshine," his mother said, crossing her arms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“亲亲阳光”他母亲把双臂交叉在胸前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the first time he ever got a good look at his mother- she was thin and fierce, like a dragon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是他第一次认真地审视自己的妈妈----她又瘦又强悍，像一只龙一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ugly but aesthetically pleasing. He admired the sight of her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然很丑但是审美上让人很愉悦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What have I said about killing people?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“关于杀人的事，我是怎么说的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not to," he said, a tad sulky.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不要杀人，”他说，有点小孩子气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And why did you?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你刚才为什么杀人？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because the dragon wanted me to, he could have answered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为龙想让我杀人，他本来可以这么回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because the knight was stupid and deserved it and because all day, every day, the dragon screams under my skin Release me Release me Release me Release me and so I released him and it felt good.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为那个骑士太蠢了，活该被杀，因为那只龙每天都整天在我的身体里吼着，重复喊着---- 放了我，放了我，放了我，放了我，所以我放了他，感觉很好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I forgot," he said instead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我忘了，”代替地，他这样答道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looked at him with disbelief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不可置信地望着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't kill and don't lie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不准杀人，不准撒谎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You know better."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你心里有数。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her stern face was the last thing he saw before she looped the blindfold around his eyes once more.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最后看到的是她严峻的脸，之后她再一次把眼罩蒙上了他的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The year he turned ten, his parents fought constantly and without surrender.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一年他十岁了，父母不停地打架，谁也不服输。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think I don't know about your whores?" his mother screamed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你以为我不知道你嫖妓？”他母亲尖叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think I don't know about all your bastards?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你以为我不知道你还有私生子？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think I'll risk breeding a bitch who throws out dragons?" his father snarled. "You think I want that thing to be my heir?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你以为我会犯傻养活个会生龙的婊子？”他父亲咆哮道：“你以为我想要那东西当我的继承人？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well he is your heir and you just have to deal with that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哼，他就是你的继承人，你还就得面对这种事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night, all the king's bastards had their throats slit, one by one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上，所有的国王的混蛋们都从他们嘴里溜了出来，一个接着一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone blamed Dear Sunshine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有都是亲亲阳光的错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His father struck him once in the head but never again after the boy nearly tore out his arm.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他父亲打了他脑袋一次，但是在男孩儿差点把他胳膊扯下来之后，他再也没那么干过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was twelve, the assassination attempts started.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他十二岁时，暗杀事件开始了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They amused him more than anything else- as if poison or blades or fire could ever be enough to kill a dragon! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比起其他事，他们都最爱以他取乐----似乎毒药，刀或者火就足够杀死一只龙了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only result was a lot of dead assassins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唯一的结果就是多了许多的刺客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his mother grew unhappy at each attempt on his life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他母亲对有人想取他性命的事变得越来越不高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said nothing, did nothing, but Dear Sunshine knew her well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她什么也不说，什么也不做，但是亲爱的阳光太了解她了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So did the dragon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那只龙也是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The barbarians came when he was fifteen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他十五岁时，野蛮人出现了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They came in countless numbers, riding fierce beasts and bringing slaughter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们数量多得数不清，骑着凶猛的野兽，四处为虐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone said they would never breach the city walls but everyone was wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都是他们进不了城墙但是所有人都错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon all the boy could hear was screaming and dying throes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久男孩儿听到的就全是尖叫声和死人的痛呼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Should I kill them for you?" he asked his mother.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我应该为你杀了他们么？”他问自己的母亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She ran her hands through his hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的手指穿过他的头发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, Dear Sunshine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，亲亲阳光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let them come."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让他们来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let them slaughter, she meant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让他们屠杀，她想这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He understood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他明白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dragon did too.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>龙也明白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The barbarian king killed the boy's father in the throne room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>野蛮人的头领在皇宫里杀死了男孩儿的爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterwards he summoned Dear Sunshine to come before him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后，他将亲亲阳光唤到跟前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They tell me you have a dragon behind your eyes," the barbarian said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们告诉我你眼里有一只龙，”野蛮人说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dear Sunshine did not reply.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亲亲阳光没有回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They say you killed your siblings." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们说你杀了同族人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, Dear Sunshine said nothing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一动不动，亲亲阳光一言不发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But, you see, dragons don't slit throats. People do." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可你看，龙不割喉咙，但是人却这么干。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes," the boy said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是，”男孩儿回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Was it you that left the city gates open?" the barbarian asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是你让城门大开的么？”野蛮人问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No," the boy said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是我，”男孩儿说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your mother is a bit of a monster, I think," the barbarian said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你母亲是个怪物，我想。”野蛮人说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She is my mother," the boy said simply.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她是我母亲，”男孩儿只是说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The barbarian took the former queen as a whore and the whole kingdom knew.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>野蛮人把前任女王当做妓女，全国上下都知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He thinks I'll bear him a dragon son," she told Dear Sunshine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他想让我给他生了个龙儿子，”她对亲亲阳光说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's just as stupid as your father."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他和你父亲一样蠢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Shall I kill him for you?" he asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我该为你杀了他么？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why not?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么不？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The assassins have stopped, haven't they? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“暗杀已经停止了，是吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let him be while he leaves you be."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他让你活着，你就让他活着。“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he turned twenty his mother killed the barbarian king. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他二十岁时，他母亲杀死了野蛮人王。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stabbed him through the heart during their lovemaking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在她们做爱的时候刺穿了他的心脏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterwards she declared herself Empress- "Not Queen"- and slaughtered anyone who dared protest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后，她宣城自己为女皇----“而非皇后”----任何胆敢反对的人都格杀勿论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She met little resistance because everyone feared her dragon son.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她几乎没有遇到任何反抗，因为所有人都怕她的龙儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By then, Dear Sunshine realized his mother did not need him to kill people for her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知道那时，亲亲阳光才意识到他母亲根本不需要他为她杀人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What would you like me to do?" he asked her one day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你想让我为你做点什么？”终有一天，他问她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you my son or a dragon?" she asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是我的儿子还是龙？”她问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought hard before answering. "Both." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他认真地思考，之后回答：“二者都是。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stroked his cheek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轻抚他的面颊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Then that is enough."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那，这就足够了。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

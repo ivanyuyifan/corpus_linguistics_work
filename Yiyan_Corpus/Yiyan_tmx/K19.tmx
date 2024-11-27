@@ -1,0 +1,1311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160907T055000Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cold Little Bird </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冰冷的小鸟</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It started with bedtime.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整件事始于那天晚上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A coldness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一种冷漠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A formality.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一种拘谨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin and Rachel tucked the boy in, as was their habit, then stooped to kiss him good night.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁和瑞秋照旧帮儿子掖好被子，然后躬身亲吻他，并向他道晚安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Please don't do that," he said, turning to face the wall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你们以后别这样了！”他说着，扭头面向墙壁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They took it as teasing, flopped onto his bed to nuzzle and tickle him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们以为他在开玩笑，就坐下来，用鼻子蹭他，胳肢他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boy turned rigid, endured the cuddle, then barked out at them, "I really don't like that!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男孩一动不动地忍受着他们的爱抚，最后大声地说，“我真的不喜欢这样！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jonah?" Martin said, sitting up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“乔纳？”马丁坐了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't want your help at bedtime anymore," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不想再让你们哄我睡觉了”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm not a baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我已经不是小孩儿了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have Lester. Go cuddle with him." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们不是还有莱斯特吗？哄他去吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sweetheart," Rachel said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“甜心宝贝”瑞秋说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're not helping you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们不是在帮你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're just saying good night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们只是在说晚安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You like kisses, right? Don't you like kisses and cuddles? You big silly." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你喜欢亲亲，对吧？难道你不喜欢亲亲抱抱了吗？你这个小傻瓜。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonah hid under the blankets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳藏在毛毯底下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A classic pout. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子生气的一种典型表现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except that he wasn't a pouter, he wasn't a hider. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可他平时却不会这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a reserved boy who generally took a scientific interest in the tantrums and emotional extravagances of other children, marvelling at them as though they were some strange form of street theatre.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是个沉默的男孩，当看到其他孩子发脾气或者大喊大叫，他会很有兴趣的看着，仿佛那是某种街头的闹剧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin tried to tickle the blanketed lump of person that was his son. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁想要隔着毯子胳肢儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't know what part of Jonah he was touching. He just dug at him with a stiff hand, thinking a laugh would come out, some sound of pleasure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不知道会碰到哪儿，只是用手到处戳，期待着儿子会笑出来，高兴点儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It used to work. One stab of the finger and the kid exploded with giggles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以前这招挺管用的，用手指头戳一下，他就会格格笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Jonah didn't speak, didn't move.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是乔纳没出声，也没动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We love you so much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们非常爱你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You know?" Martin said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对？”马丁说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So we like to show it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所以我们喜欢把它表现出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It feels good." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们觉得这样很好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not to me. I don't feel that way."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可我没这么觉得。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What way? What do you mean?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你觉得呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They sat with him, perplexed, and tried to rub his back, but he'd rolled to the edge of the bed, nearly flattening himself against the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坐在他身边，不知所措地想要摩挲他的后背。但是他滚到床的另一边，把自己紧紧贴在墙上，似乎要把自己压成一个扁片儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't love you," Jonah said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不爱你们”乔纳说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, now," Martin said. "You're just tired. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，你只是累了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No need to say that sort of stuff. Get some rest." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别说这样的话，好好睡一觉吧”马丁说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You told me to tell the truth, and I'm telling the truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你们以前总让我说实话。那我现在就跟你们说实话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I. Don't. Love. You." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我，不，爱，你们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种情况会出现的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kids tested their attachments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子们会考验父母的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They tried to push you away to see just how much it would take to really lose you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会把你们推走，就是想让你们尝尝真正失去他们的滋味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a parent, you took the blow, even sharpened the knife yourself before handing it to the little fiends, who stepped right up and plunged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为父母，你得能经受住这种打击，甚至得帮他们磨快那把终将刺向自己的刀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or so Martin had heard.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁听说过这种事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They hovered by Jonah's bed, assuring him that it had been a long day - although the day had been entirely unremarkable - and he would feel better in the morning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们俯下身，告诉他那是因为他今天经历了太多的事情——尽管那只是个再普通不过的日子—— 一觉醒来，一切都好起来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin felt like a robot saying these things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当马丁说这些话的时候，觉得那好像是个机器在发出声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He felt like a robot thinking them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他想这些事情的时候，觉得自己也像是个机器人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was nothing to do but leave the boy there, let him sleep it off.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有别的办法，只能随他去，让他睡一觉再说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Downstairs, they cleaned the kitchen in silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下了楼，他们静静的收拾厨房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rachel was troubled or not, he couldn't tell, and it was better not to check. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看不出来瑞秋是不是为这件事发愁，而且最好别再追究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In some way, Martin was captivated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在某种程度上，马丁自己也很困惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he were Jonah, ten years old and reasonably smart, starting to sniff out the world and find his angle, this might be something worth exploring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他是乔纳，长到十岁又非常聪明，开始了解世界，了解自己，也许这是一种值得尝试的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Getting rid of the soft, warm, dumb providers who spun opportunity around you relentlessly, answering your every need. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>摆脱那些柔软、温暖、总是绕着自己转，供给一切的提供者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good play, Jonah. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这步棋走得不错，乔纳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But how do you follow such a strong, definitive opening move? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开局有力而明确，可接下来你要怎么走呢？我该怎么办呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What now?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以后几周，乔纳说话算话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the next few weeks, Jonah stuck by his statement, wandering through their lives like some prisoner of war who'd been trained not to talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在他们周围沉默地做着自己的事，好像是个被禁止说话的战俘一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He endured his parents, leaving for school in the morning with scarcely a goodbye. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他容忍着他的父母，早上几乎不说再见就去上学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upon coming home, he put away his coat and shoes, did his homework without prompting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到家以后，他会自己把衣服和鞋放好，不用别人催促就写好作业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He helped himself to snacks, dragging a chair into the kitchen so that he could climb on the counter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己拿零食，挪个凳子到厨房去够柜子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He got his own glass, filling it with water at the sink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己拿杯子，从水龙头上接水喝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was done eating, he loaded his dishes in the dishwasher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚饭之后，他会把自己用过的碟子放进洗碗机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin, working from home in the afternoons, watched all this, impressed but bothered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于每天下午都在家工作，马丁看到了这一切。他有些感动但又有些疑惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He kept offering to help, but Jonah always said that he was fine, he could handle it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他总是想要帮点忙，可是乔纳总是说没事，他自己能搞定。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At bedtime, Martin and Rachel still fussed over Lester, who, at six years old, regressed and babified himself in order to drink up the extra attention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>临睡前，马丁和瑞秋仍然会围着莱斯特转。莱斯特虽然已经六岁了，现在却表现得像个小宝宝，以吸收那些忽然增多的关爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonah insisted on saying good night with no kiss, no hug. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上床睡觉之前他坚持只说晚安，但没有亲吻和拥抱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shut his door and disappeared every night at 8 P.M.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天晚上8点，他会消失在门后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Martin or Rachel caught Jonah's eye, the boy forced a smile at them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当马丁或瑞秋捕捉到他的目光时，他会挤出一丝微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was so obviously fake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但那显然是假笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Could a boy his age do that?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这么小的孩子居然会假笑？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Of course," Rachel said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“当然”瑞秋说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think he doesn't know how to pretend?" "No, I know he can pretend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你觉得他不会假装吗？” “我知道他会假装。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this seems different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这是两码事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, to have to pretend that he's happy to see us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是说，看到我们，他要假装很高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First of all, what the fuck is he so upset about? And, second, it just seems so kind of . . . grownup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，他到底是为啥这么不高兴？再有，这好像是某种...早熟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the worst possible way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且是最糟糕的那种。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A fake smile. It's a tool one uses with strangers."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假笑，那是对付陌生人的时候才会用的一种工具啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, I don't know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，我不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's ten. He has social skills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经十岁了，有了一些社交技巧，已经学会把自己的感觉藏起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He can hide his feelings. That's not such an advanced thing to do." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也没什么了不起的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin studied his wife.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁研究着他的妻子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"O.K., so you think everything's fine?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧。那你觉得啥事儿也没有？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I think maybe he's growing up and you don't like it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想也许是因为他长大了，而你并不喜欢他这样”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And you like it? That's what you're saying? You like this?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你喜欢他这样了？你这话的意思是，你喜欢这样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His voice had gone up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的嗓门儿高了一点儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had lost control for a minute there, and, as per motherfucking usual, it was a deal-breaker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刚才情绪有点失控，所以，和往常一样，谈话终止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rachel put up her hand, and she was gone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑞秋举了下双手，离开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the other room, he heard her say, "I'm not going to talk to you when you're like this."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他听见她在另一个房间说到“你这样说话的时候，我不会跟你说话的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>O.K., he thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧,他想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Goodbye. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那就再见吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We'll talk some other time when I'm not like this, a.k.a. never.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那就在我不这样的时候再说吧，也就是，永不。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonah, it turned out, reserved this behavior solely for his parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，后来他们发现，乔纳的这种表现仅限于对父母。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A probing note to his teacher revealed nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问了一下他的老师，也没发现任何异常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was fine in school, did not act withdrawn, had successfully led a team project on Antarctica, and seemed to run and play with his friends during recess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在学校表现很好，没有表现出任何孤僻的迹象，还带领了他的小组很好地完成了一项南极洲的课题。下课后和他的朋友们跑来跑去地玩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Run and play? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跑来跑去地玩？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What animal were they discussing here? Everybody loved Jonah was the verdict, along with some bullshit about how happy he seemed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在说什么动物吗？结论是所有人都喜欢他，加上他在学校表现得挺高兴的一些废话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Seemed" was just the thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“表现得”，就是这个问题。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seemed! If you were an idiot who didn't know the boy, who had no grasp of human behavior.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“表现得！”如果你不了解这孩子，你就看不出来他的行为有何问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, Jonah doted on his brother, read to him, played with him, even let Lester climb on his back for rides around the house, all fairly verboten in the old days, when Jonah's interest in Lester had only ever been theoretical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在家的时候，乔纳溺爱他的弟弟。给他讲故事，和他玩，甚至让莱斯特爬到他的后背上在屋里爬来爬去。在以前这些可都是不可能的。那时，乔纳只是在理论上对莱斯特有点兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lester was thrilled by it all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莱斯特因为这个变化兴奋不已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He suddenly had a new friend, the older brother he worshipped, who used to ignore him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他忽然有了一个新朋友，一个可以崇拜的哥哥，而这个哥哥以前总是忽略他的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Life was good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活多么美好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But to Martin it felt like a calculated display. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是对于马丁，这好像是故意演给他看的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With this performance of tenderness toward his brother, Jonah seemed to be saying, "Look, this is what you no longer get. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过对于弟弟的温情表演，他好像在说“看啊，这就是你再也得不到的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>See? It's over for you. Go fuck yourself."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看见了吧？ 你玩完了，滚一边儿去。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin took it too personally, he knew. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁知道自己把整件事都看成是针对自己的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe because it was personal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许这真的只是针对他的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One night, when Jonah hadn't touched his dinner, they were asking him if he would like something else to eat, and, because he wasn't answering, and really had not been answering for some weeks now, other than in one-word responses, curt and formal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天晚上，乔纳没碰他的晚餐，他们问他是不是想吃点儿别的，他没回答。他这样不回答或者用简单的一句话作为回答已经好几周了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin and Rachel abandoned their usual rules, the guideposts of parenting they'd clung to, and moved through a list of bribes. They dangled the promise of ice cream, and then those monstrosities passing for Popsicles, shaped like animals with chocolate faces or hats, which used to turn Jonah craven and desperate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁和瑞秋只好抛弃他们一直沿用的方式，转而去许诺给他一系列的好处。他们答应给他买冰淇淋，或者答应他从那种有着巧克力脸或者帽子的、沿街叫卖冰棍的怪物型售货车上的冰棍。那种冰棍以前会让他特别高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Jonah remained silent and sort of washed-out looking, Martin offered his son candy. He could have some right now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是乔纳依旧沉默，带着某种筋疲力尽的表情。于是马丁同意他可以吃糖。现在就可以吃一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If only he'd fucking say something.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只要他能说点儿什么话，怎么都行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's just that you're all in his face," Rachel said to him later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是因为你太在意他的表情了”瑞秋后来跟他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How's he supposed to breathe?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这么大压力，叫他怎么受得了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You think my desire for him to speak is making him silent?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你觉得是因为我想让他说话，他才不说话了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's probably not helping." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得可能没用”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whereas your approach is so amazing." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看来你那样更管用”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My approach? You mean being his mother? Loving him for who he is? Keeping him safe? Yeah, it is pretty amazing."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我那样？你是说当好他的妈妈，爱他原本的样子，保护他？哈，这真了不起！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> He turned over to sleep while Rachel clipped on her book light.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他转身睡觉，瑞秋则打开了她的床头灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They'd ride this one out in silence, apparently.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，他们会开始冷战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They'd written their own vows, promising to be "intensely honest" with each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们曾经发誓说要“时刻对对方忠诚”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had not specifically said that they would hold up each other's flaws to the most rigorous scrutiny, calling out each other's smallest mistakes, like fact checkers, believing, perhaps, that the marriage would thrive only if all personal errors and misdeeds were rooted out of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他们并没有说过婚姻存在的基础就是根除所有人为错误和不当行为，需要每个人像事实核查员那样，刨根问底地揪着对方的小毛病不放。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This mission had gone unstated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没人这样说过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning, when Martin got up, Jonah sat reading while Lester played soldiers on the rug. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早上，马丁起床的时候，乔纳在看书，而莱斯特在地毯上完玩具士兵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lester was fully dressed, his backpack near the door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莱斯特的衣服都穿好了，他的背包放在门口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no possible way that Lester had done this on his own. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不可能是他自己弄好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obviously, Jonah had dressed his brother, emptied the boy's backpack of yesterday's crap art from the first-grade praise farm he attended, and readied it for a new day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，乔纳帮他穿好了衣服，把他包里昨天在初级美术班画的蹩脚的画拿出来，为上课做好了准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Months ago, they'd asked Jonah to perform this role in the morning, to dress and prepare his brother, so that they could sleep in, and Jonah had complied a few times, but halfheartedly, with a certain mysterious cost to little Lester, who was often speechless and tear-streaked by the time they found him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个月前，他们曾让乔纳每天早上负责这件事，给弟弟穿衣服，帮他准备好书包，这样他们就能多睡会儿了。乔纳不情愿地做了几次，结果，等他们看到小莱斯特的时候，发现他总是眼泪汪汪地不说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chore had quickly lapsed, and usually Martin awoke to a hungry, half-naked Lester, waiting for his help.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那项任务很快消失，当马丁醒来的时候总是发现饿着肚子、半裸的莱斯特在等他帮忙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today, Lester seemed happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天，莱斯特看起来挺高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no sign of crying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有哭过的迹象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good morning, Daddy," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“早上好，爸爸”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hello there, Les, my friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“早上好，小莱斯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sleep O.K.?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>睡得好吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jonah made me breakfast. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“乔纳给我做了早餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had juice and Cheerios. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我吃了麦圈和果汁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I brought in my own dishes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我自己把盘子放进洗碗机里了”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Way to go! Thank you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真棒！谢谢你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Martin figured he'd just play it casual, not draw too much attention to anything.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁决定表现得随意些，不对任何事情表现出特殊关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good morning, champ," he said to Jonah. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“早上好，伙计”他对乔纳说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What are you reading?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你看什么书呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin braced himself for silence, for stillness, for a child who hadn't heard or who didn't want to answer. But Jonah looked at him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁已经准备好孩子的答复会是安静、漠然、没听见或者不想回答，可是，孩子却抬头看着他说：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's a book called 'The Short.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这本书叫《短暂》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a novel," he said, and then he resumed reading.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是一部小说”他说完就接着往下读了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A fat bolt of lightning filled the cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>封面上有一个巨型的闪电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A boy ran beneath it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个男孩在下面跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The title lettering was achieved graphically with one long wire, a plug trailing off the cover.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一条长长的电线蜿蜒着形成了一个个字母，构成书的标题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, yeah?" Martin said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是吗？”马丁说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's it about? Tell me about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“讲什么的？跟我说说。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a long pause this time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这回是长长的停顿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin went into the kitchen to get his coffee started. He popped back out to the living room and snapped his fingers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁走进厨房煮上咖啡，然后打着响指回到客厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jonah, hello. Your book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“喂，乔纳。你的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's it about?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是讲什么的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonah spoke quietly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳安静地开始说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His little flannel shirt was buttoned up to the collar, as if he were headed out into a blizzard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的小法兰绒衬衫的扣子一直扣到领子，好像他就要面对一场暴风雪似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Martin almost heard a kind of apology in his voice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马丁甚至在他的语调中听出了一点儿歉意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Since I have to leave for school in fifteen minutes, and since I was hoping to get to page 100 this morning, would it be O.K. if I didn't describe it to you? You can look it up on Amazon." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“因为我要在15分钟之内就要去上学，而且我想在今天早上就看到第100页，如果我不给你讲不知道行不行呢？你可以上亚马逊上查。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told Rachel about this later in the morning, the boy's unsettling calm, his odd response.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天早上晚些时候，他把这件事，孩子令人不安的平静、以及他奇怪的回答都告诉了瑞秋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yeah, I don't know," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，我不知道”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I mean, good for him, right? He just wanted to read, and he told you that. So what?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我是说，干的不错，不是吗？他只想接着看书，而且他告诉你了。这怎么了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Huh," Martin said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哈！”马丁说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rachel was busy cleaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑞秋忙着收拾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She hadn't looked at him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没有抬头看他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their argument last night had either been forgotten or stored for later activation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>昨夜的争吵要么被忘记了，要么会在另一个场合中会被重新拾回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd find out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他会知道的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She seemed engrossed by a panicked effort at tidying, as if guests were arriving any second, as if their house were going to be inspected by the fucking U.N. Martin followed her around while they talked, because if he didn't she'd roam out of earshot and the conversation would expire.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在全身灌注地、紧张地收拾，仿佛客人随时会到来，仿佛他们的房子在被他妈的联合国监视一样。马丁跟着她走来走去，因为要是他不这么做，她会走出听力范围，对话就会终止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He just seems like a stranger to me," Martin said, trying to add a lightness to his voice so she wouldn't hear it as a complaint.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得他就像一个陌生人”马丁说，试图在声音中加进一丝轻松使这句话不那么像在抱怨。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200203T093236Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thinking Small Won’t End Poverty</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>着眼于细微之处不能消除贫困</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decades of US-backed community development programs have left behind a disastrous economic and political legacy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数十年来，有美国当靠山的社区发展项目给政治和经济留下了一堆烂摊子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Customers at Whole Foods may have noticed new decorations adorning the registers a while ago: photographs of smiling inhabitants of poor countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全食超市的顾客可能注意到了前段时间用来装饰储物柜的新的小玩意儿：贫穷国家居民微笑着的照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is the work of the Whole Planet Foundation, the grocery store’s philanthropic arm, which is running its eighth annual “prosperity campaign” to achieve a “future without poverty.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是全食小额贷款基金会——基于食杂店的慈善机构的杰作，该基金会正组织第八次年度“繁荣作战”以期实现“没有贫困的未来”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoppers can donate their bag credits — the five-cent rebate they receive by forgoing plastic bags — to a microfinance fund.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>购物的人可以捐赠自己的消费积分——因为不用塑料袋而获得的五分钱折扣，给小额贷款基金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Combining this with traditional donations, Whole Foods hopes to raise $5 million to fund forty thousand small loans to “impoverished entrepreneurs” around the globe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将这种捐赠和传统捐赠相结合，全食超市希望能为基金会筹措到500万美元，并为全球范围内“贫困企业家”筹集到4万美元的小额贷款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They say that these direct financial transfers, unmediated by government agencies, can “empower the poor and the communities around them.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们说，这些直接的财务中转，不经过政府机构，使得穷人和贫穷的地区能够继续发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways, this is the age of the micro, of thinking small and acting locally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很多方面，这是一个着眼细微之处（往细微之处想）并立足周边的”微”时代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Microloans are only one part of the broad move toward “bottom-up” development, which seeks to enroll the poor directly in anti-poverty campaigns.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小额贷款只是自下而上的开发工作中大动作的一部分，它致力于将穷人直接招揽进反贫困运动的大军。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The World Bank has invested heavily in this area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界银行在小额贷款这个领域大举投资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its acting chief economist describes communal participation as “a central tenet of development policy,” and in the past fifteen years the institution has doled out over $85 billion for community empowerment and government decentralization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其首席代理经济学家将公共参与描述成“发展政策的第一要义”。在过去的十五年中，公共机构已经为社区分权和政府权力下放发放了850亿的资金。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2006, Muhammad Yunus, the public face of microcredit (and a partner of the Whole Planet Foundation), won the Nobel Peace Prize. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2006年，穆罕默德 尤纳斯——小额贷款的代言人（全食小额贷款基金会的合作伙伴），赢得了诺贝尔和平奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2009, it went to Barack Obama, who began his career as a community organizer on the south side of Chicago.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2009年，奥巴马摘得诺贝尔和平奖，而他是以芝加哥南部社区组织者的身份开始从政生涯的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Much of the enthusiasm for tackling poverty in this way comes from the feeling that top-down, expert-driven solutions haven’t worked very well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多希望通过小额贷款来解决贫困的想法都是因为自上而下、专家主导的方案并没有什么成效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Big dams designed to provide irrigation and generate electricity have displaced millions of people (between forty to eighty million in the twentieth century) and created huge reservoirs that have proved ideal breeding grounds for disease-bearing mosquitoes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设计初衷是提供灌溉用水和发电的大坝使得成千上万的人流离失所（20世纪就有4千万至八千万人），并且使大水库成了带病菌的蚊子的温床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Family planning campaigns have devolved into state-sponsored forced sterilization sprees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>计划生育已经沦为政府实行强制绝育的放肆行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Government attempts to jump-start the market with “special economic zones” have turned into land grabs as private developers seize peasants’ property and then hire those they have dispossessed at extremely low wages.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府用经济特区来带动市场的企图却演变成对土地的掠夺，就像私人开发商侵吞农民土地之后，又以极低的工资雇佣这些财产被侵吞的人一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You hear one of these stories and it’s easy to write it off as a mistake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你听了一个这样的故事，可能还会很容易认为它是个误会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You hear fifteen and it starts to look like a pattern.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但你听了十几件诸如此类的事，故事也开始像那么回事儿了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Development is a fiendishly complex business, with cultural, sociological, ecological, and economic aspects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展并不仅仅是错综复杂的商业问题，它与文化、社会、生态、经济息息相关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe relying on foreign experts, who tend to be drawn toward stark diagnoses and one-size-fits-all fixes, is the wrong way to go about things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许依赖倾向于简单粗暴的判断和放之四海而皆准的外国专家并不是处理事情的正确方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe it would be better to let poor communities themselves decide what would be best for them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许让贫穷社区的人自己决定什么对他们来说是最好的会更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, they’re the ones who can actually see what’s happening on the ground, and they have good reason to care about getting it right.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟他们才是能真真切切看到自己身边在发生什么的人，而且他们有足够的理由关心让脱贫方法回到正轨上来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is the thinking behind the recent embrace of small-scale, participatory projects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是近期小规模、参与性的小额贷款背后的一些思考。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Local wisdom in the place of expert knowledge, many small projects rather than a few big ones, communities in charge of their own developmental destinies. It sounds refreshing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地方智慧取代专家学识、众多小项目逆袭大工程，社区为自身发展命运负责，这听起来就令人精神一振。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What few realize, however, is that there is nothing new in this approach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，很少有人意识到的是，这些方法并没有推陈出新。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 1950s and 1960s, the United States, United Nations, and dozens of governments throughout the world launched a massive, global community development campaign throughout the Global South.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在20世纪50年代和60年代，美国、联合国和世界范围内许多国家政府曾在南半球推行过大规模的全球社区发展计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are only now uncovering its history.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我们只是在揭开历史的真相。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It Takes a Village</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个村子撑起了整个国家</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Community development as we know it today began in Etawah, a medium-sized district in northern India. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众所知周，今日的地区发展起源于印度北部一个中等大小的地区——埃达沃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1948, prime minister Jawaharlal Nehru engaged an urban planner from the United States, Albert Mayer, to see what could be done to “build up community life” in India’s villages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1948年，印度总理贾瓦哈拉尔 尼赫鲁与美国城市规划师阿尔伯特 迈尔会面，想看看怎样在印度村庄中“打造社区生活”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nehru offered Etawah as an experiment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼赫鲁把埃达沃当成了试验点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nehru asked the right person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也确实请对了人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like many of his compatriots, Mayer worried about what mechanization was doing to the United States, particularly to its community life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和许多美国人一样，迈尔为机械化正给美国尤其是美国的社区生活带来的改变而感到担心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He appreciated what he saw in Indian villages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很欣赏在印度村庄看到的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than focusing on material outcomes (more abundant harvests, better livestock), Mayer concluded that he should solicit the “felt needs” of Etawah residents themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与注重物质产出（更多的收成、更好的牲畜）不同，迈尔得出结论说，应该征集埃达沃居民自己的切身需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That way, they could come up with their own “folk-solutions.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有那样，他们才能想出“民族方案”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remarkably, it seemed to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，这种想法似乎成功了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using only available technology and local resources, villagers built schools, roads, and sanitary wells. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村民们自己只用了现有技术和当地资源来建造学校、修路、打干净的井。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Etawah quickly became famous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃达沃迅速蹿红。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>President Truman praised it in his speeches, Eleanor Roosevelt visited it, and Mayer’s work was covered in Time, Life, the New York Times, and the Ladies Home Journal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杜鲁门总统在他的演讲中对埃达沃大加赞赏，埃莉诺 罗斯福（美总统罗斯福的夫人）亲临参观，迈尔的这一杰作还被《时代杂志》、《生活》、《纽约时报》、《妇女之家》争相报道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building on Etawah, India launched a nation-wide community development program in 1952, on Gandhi’s birthday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在埃达沃的基础上，印度开始在1952年甘地生日那天于全国范围内推行社区发展项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States gave tens of millions of dollars, the Ford Foundation took a central role, and the UN sent over streams of experts to help. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国援助了上千万美元，福特基金会起了核心作用，联合国派遣一大波专家前去支援。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To encourage village communities still further, India’s government embarked on a campaign of “democratic decentralization,” replacing appointed local officials with elected ones and entrusting village councils with some of the business of economic planning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了进一步鼓励农村社区，印度政府着手实施“民主分权”的行动，不再指定当地官员而是选举产生当地官员并把一些经济计划之类的事情委托给乡村理事会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the mid 1960s, the community development program covered all of India’s villages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到20世纪60年代，社区发展项目基本覆盖了印度所有的乡村。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To fully appreciate that achievement, consider that those villages collectively contained around ten percent of the global population.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要充分意识到这些成就，就必须考虑到这些乡村的人口总共占了全球人口的百分之十左右。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From India, community development spread outward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从印度开始，社区发展计划扩散开来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States set up a Division of Community Development within the State Department to help with funds and expertise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国在国务院内成立了社区发展部门以提供资金和技术支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, it established the Peace Corps to send young people abroad to assist directly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，美国成立和平队，向国外派遣年轻人进行直接援助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By 1960, more than sixty countries had community development programs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到1960年，超过60个国家成立了社区发展项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surveying all of this, Nehru concluded that community development was by “far the most revolutionary thing” his government had achieved.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对所有这些项目进行调查后，尼赫鲁总结说，社区发展是到目前为止他的政府所做的最具有革命性的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Etawah Bubble</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃达沃泡沫</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there are two things that are surprising about the history of community development. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但关于社区发展项目的历史有两件事是令人惊讶的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One, which Nehru noticed, was how widely it was applied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其一，是尼赫鲁提到的这个项目的实施范围有多广。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second is how little it seemed to do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其二，有多少小事需要落到实处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Progress can be hard to measure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正因为如此，项目所取得的进展也就很难衡量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ask an economist whether a development project is a success, and she will point you to the numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你问一个经济学家一个项目成功与否，她会倾向于用数字说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did incomes go up or down? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收入上升亦或是下降了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about life expectancy? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生活期望又是什么样的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet community developers insisted, time and again, that their achievements couldn’t be captured by cold statistics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社区开发商还经常把他们的成就不能用冷冰冰的数字来衡量这套说辞挂在嘴边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building a vibrant culture of communal participation was an all-round sort of thing, they insisted, not a matter of metrics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坚持说，建立充满活力的公共参与文化，是综合性的事情，不能只看数字指标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In place of numbers, they offered stories.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了盖过数字的的风头，他们开始讲建设的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet numbers, for all their flaws, often correspond to real things that we want to know about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有不足，但数字基本上能与我们想要知道的真实情况相符合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the case of India, the numbers that were most pressing had to do with agriculture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就印度而言，最紧要的数字必然和农业有关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the late 1950s, it was clear that India was simply not growing enough grain to feed its rising population. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到20世纪50年代末期，印度的粮食产量很明显已经不能满足日益增长的人口需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“India faces a problem of overwhelming gravity,” warned the Ford Foundation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“印度面临的问题非常严重，”福特基金会警告说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although Ford had been a key supporter of community development, in the face of the numbers it changed its support. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管福特基金会一直是地区发展项目的主要支持者，但面对这些数字，他的支持已经有所变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The main problem with India, the foundation concluded, wasn’t that it needed more communal spirit. It needed more food.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该基金会总结说，印度的主要问题不是它需要更多的公共精神，而是它需要更多的食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the 1960s, it had become clear that community development could not stave off India’s looming agricultural crisis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到20世纪60年代，社区发展计划不能延缓印度一触即发的农业危机这一点已经不言而喻了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, it was hard to say what it could do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，很难说这个规划能不能延缓危机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Study after study, in India and elsewhere, searched for the benefits of community schemes and came up short. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度以及印度之外别的地方，研究倒是接二连三，企图找出地区计划的好处来，但一切已经是力不从心了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most high-profile report on the Indian program, commissioned by Nehru’s government itself, concluded that, for all of the heady talk, very little was done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由尼赫鲁政府委托进行的印度社区发展项目中最受瞩目的一份报告，现在却说，社区发展项目只是雷声大，雨点小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the end, few community groups had “shown any enthusiasm or interest in this work.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终，没几个社区对这项工作表现出任何的热情和兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A major problem, the studies emphasized, was that the communities in question were rarely democratic places. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究强调，主要的问题是现在正讨论的地区基本都不是民主之地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Funds intended for general use had a way of ending up in the hands of landlords and village headmen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意在公共用途的资金，有落入地主和乡村首领手中的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, the most pressing problems — debt, patriarchy, caste, and tenancy — were rarely even discussed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，最严重的问题——债务、父权制、排他团体、租约——都很少被讨论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The famed economist Gunnar Myrdal concluded, after a careful examination, that community development’s “net effect” had been to “create more, not less, inequality.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>著名经济学家甘纳 缪达尔在细致的考察后总结道，社区发展的净效应一直是“创造更多，不能更少，不平等”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The anthropologist Gerald Berreman put it more bluntly: to put village councils in charge of fighting rural poverty, he observed, was like putting Jim Crow school boards in charge of desegregation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人类学家Gerald Berreman说得就更直白了：让乡村理事会负责消除贫穷，就好像让黑人学校董事会负责废除种族歧视。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India, community development died with Nehru in 1964. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>印度的地区发展项目随着1964年尼赫鲁的死亡落幕了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His daughter Indira Gandhi, who soon became prime minister herself, gutted the program and brought the Ministry of Community Development under the control of the production- oriented Ministry of Agriculture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的女儿英迪拉 甘地不久后继任总理，她终结了这个项目，并将社区发展部置于生产导向型农业部的控制之下。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was a common move. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的举动并不稀奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With food shortages looming throughout the Global South, the countries that had turned toward community development in the 1950s ran in the opposite direction in the 1960s, away from fostering communal solidarity and toward engineered seeds, improved livestock, chemical fertilizers, and large-scale agriculture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粮食短缺的问题在南半球蔓延，20世纪50年代投身于地区发展项目的国家纷纷在60年代改走完全相反的路。他们不再培养公共团结而是倾向于转基因种子、改良的畜种、化肥和大农业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Green Revolution was, in many ways, a reaction against community development’s unimpressive record.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从很多方面来说，绿色革命是对地区发展项目成绩不堪的反应。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the 1950s, a Southern country without a community development program was rare. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20世纪50年代，没有参与社区发展项目的南半球国家少之又少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the 1970s, a country with an active program was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到20世纪70年代，也没有哪个国家不在积极转型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Napalm Values</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>暴力也很重要</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The one place where community programs continued to grow was in the field of counterinsurgency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社区发展项目中一直保持增长的一个地方是镇压暴乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Starting in the 1950s, the Central Intelligence Agency had bankrolled the schemes in the Philippines as a way of quashing a rural insurgency, the left-wing “Huk Rebellion.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从20世纪50年代开始，美国中情局在菲律宾为该计划提供资金，将它作为镇压一场农村暴动即左翼Huk叛乱的一种方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By encouraging peasants to identify with their “community,” which was controlled by their landlords, rather than with their class, the CIA hoped it could head off a revolution.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过鼓励农民认同被地主控制的“社区”而非自己的阶级，中情局希望可以借此阻止革命的发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个方法也确实起效了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a carrot-and-stick combination of community programs and napalm, the CIA and Philippine government beat back the uprising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有社区项目和汽油弹这两者软硬兼施，中情局和菲律宾政府成功镇压了起义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the agency’s perspective, this was a miracle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从中情局的角度，这几乎可以算得上是个奇迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Community development, one of its officers giddily explained, could be a bulwark “against the leftist takeover of every hamlet in Latin America, Asia, and Africa.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>官员之一草草解释说，社区发展，就是阻止左翼分子接管拉美、亚洲以及非洲每个城镇的一道屏障。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was more aspirational than anything else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这可真是比其他任何事都令人梦寐以求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The one place where the United States did fully support community development as a counterinsurgency tactic was in South Vietnam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国全力支持社区发展项目，并将其作为镇压暴乱的战略的一个地方是越南共和国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Ngo Dinh Diem’s government, pointing to India’s program, unveiled its own set of village schemes on what Diem called the “community development principle,” the United States sent over its experts from the Philippines.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吴廷琰政府，以印度为例将本国对于乡村计划的想法公之于众。吴廷琰称之为社区发展原则，美国当即将在菲律宾的专家派了过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This culminated in the Strategic Hamlet Program, which sought to build community spirit among South Vietnamese peasants within fortified villages and establish a free-fire zone outside of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一做法在战略乡村规划时达到了顶峰，这一规划致力于在越南原有乡村的农民中建立社区精神，并在这些乡村外建立自由开火区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States provided $10 million in funds, in addition to its seasoned community experts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国提供了1000亿美元的资金以及经验丰富的地区专家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet, strategic hamlets became an emblem of the failure of the Diem regime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终，战略乡村计划却成了吴廷琰政权倒台的象征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despised by their inhabitants and easily infiltrated by national liberation forces, the hamlets collapsed quickly after Diem’s death in 1963.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>越南居民鄙视这些区域，并国家解放力量轻易渗透进了这里，1963年，吴廷琰死后，这些地区迅速土崩瓦解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Small Talk</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>闲谈</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Community, though, is once again in vogue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，如今社区又再一次流行了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the problems it faced in the middle of the century are cropping up again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本世纪中期它面临的问题如今又再一次出现了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2013, two lead economists at the World Bank, Ghazala Mansuri and Vijayendra Rao, reviewed nearly five hundred studies on participatory development. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2013年，世界银行两名首席经济学家Ghazala Mansuri和Vijayendra Rao对近500份关于参与性发展的研究进行了评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surveys they examined covered a hodgepodge of activities and places — participatory budgeting in Brazil, microloans in Pakistan, women’s access to water in Kenya, forest management in Uganda, post-conflict rebuilding in Liberia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们检测的这些调查包括了很多活动和地区——巴西的参与式预算、巴基斯坦的小额贷款、肯纳亚女人的水权、乌干达的森林管理、利比亚的灾后重建等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their review included ethnographies, surveys, randomized control studies, and econometric analyses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的评估包括民族志、调查、随机对照研究以及经济分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What they found was not encouraging. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而他们的发现却并非那么鼓舞人心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Occasionally, they concluded, participatory programs generate creative responses to local conditions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们得出结论，参与性项目偶尔对当地情况造成积极影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, more often, they get hijacked by a local elite. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但更多的是，社区发展项目被当地的精英分子所控制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When community programs have yielded measurable benefits at all, those benefits (usually modest) have tended to accrue to those who are “the most literate, the least geographically isolated, and the most connected to wealthy and powerful people.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当社区项目获得了可观的利益时,这些好处(通常是温和的)倾向于流向那些最有文化、地理位置最便利、和有权势的人联系最紧密的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If community programs have consistently floundered, both in the past and today, what’s left? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果社区项目在过去和现在一贯只是胡乱折腾，那它还留下了什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A return to the rule of experts? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对专家规则的重新推崇？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bigger dams and better seeds? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大坝和更好的种子？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If faced with two approaches — that of the development expert, asking “What can we do for the poor?” and that of the community developer, asking “What can we do with them?” — then the grassroots approach seems at least less condescending.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果有两种途径——一种是发展专家问：“我们能为穷人做什么？”，另一种是社区开发者问：“和居民一起我们能做什么？”——那么基层的方法至少能显得不那么优越。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet there is a third question that inhabitants of the Global North might ask, one that would be far more productive. “What have we been doing to them?”  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有第三个问题，北半球居民可能会问，一个会更有成效，“我们都对他们做了什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That question implies a different framework, one that proponents of participatory development rarely consider. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个问题暗示着不同的发展体系，一个参与性发展的支持者很少考虑的体系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It raises the possibility that there might be some causal relationship between government policies in the Global North and the continued poverty of the Global South. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它使北半球政府政策和南半球的持续贫困之间存在着因果关系的可能性大大增加。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

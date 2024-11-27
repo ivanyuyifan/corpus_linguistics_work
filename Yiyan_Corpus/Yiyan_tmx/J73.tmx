@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200921T082947Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 3 Form & Space </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3 形式与空间</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“We put thirty spokes together and call it a wheel; but it is on the space where there is nothing that the utility of the wheel depends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“三十辐共一毂，当其无，有车之用；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We turn clay to make a vessel; but it is on the space where there is nothing that the utility of the vessel depends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埏埴以为器，当其无，有器之用；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We pierce doors and windows to make a house; and it is on these spaces where there is nothing that the utility of the house depends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凿户牖以为室，当其无，有室之用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Therefore, just as we take advantage of what is, we should recognize the utility of what is not.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故有之以为利，无之以为用。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lao-tzu</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tao Te Ching</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《道德经》</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>6th century B.C.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元前6世纪</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Space constantly encompasses our being. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>空间连续不断地包围着我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through the volume of space, we move, see forms, hear sounds, feel breezes, smell the fragrances of a flower garden in bloom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过空间的容积，我们进行活动、观察形体、听到声音、感受清风、闻到百花盛开的芳香。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a material substance like wood or stone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>空间像木材和石头一样，是一种实实在在的物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet it is an inherently formless vapor. Its visual form, its dimensions and scale, the quality of its light—all of these qualities depend on our perception of the spatial boundaries defined by elements of form. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，空间天生是一种不定形的东西，它的视觉形式、它的维度和尺度、它的光线特征一所有这些特点都依赖于我们的感知，即我们对于形体要素所限定的空间界限的感知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As space begins to be captured, enclosed, molded, and organized by the elements of mass, architecture comes into being.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当空间开始被体块要素所捕获、围合、塑造和组织的时候，建筑便产生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Temple of Kailasnath at Ellora, near Aurangabad, India, A.D. 600-l000</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Temple of Kailasnath at Ellora. near Aurangabad， India， A.D. 600-1000 埃洛拉的凯拉思纳斯神庙，奥兰加巴德附近，印度，公元600--1000年</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Pantheon, Rome, A.D. 120-124</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>The Pantheon， Rome， A.D. 120-124 万神庙，罗马，公元120--124年</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FORM &amp; SPACE: THE UNITY OF OPPOSITES</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>形式与空间：对立的统一</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our visual field normally consists of heterogeneous elements that differ in shape, size, color, or orientation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们的视野中，通常包含不同种类的要素，这些要素的形状、尺寸、颜色或方向都不相同。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To better comprehend the structure of a visual field, we tend to organize its elements into two opposing groups: positive elements, which are perceived as figures and negative elements, which provide a background for the figures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了更好地理解一个视野的结构，我们往往把其中的要素归为相反的两组：被理解为图的正 要素和给图提供背景的负要素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our perception and understanding of a composition depends on how we interpret the visual interaction between the positive and negative elements within its field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们对于一个构图的感知和理解，取决于我们如何解释图形中正要素与负要素之间的视觉作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this page, for example, letters are seen as dark figures against the white background of the paper surface. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，在本页中，字母对于纸面的白底而言可以看做是黑色的图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consequently, we are able to perceive their organization into words, sentences, and paragraphs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因而我们可以感知这些字母所组成的单词、句子和段落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the diagrams to the left, the letter “a” is seen as a figure not only because we recognize it as a letter in our alphabet but also because its profile is distinct, its value contrasts with that of its background, and its placement isolates it from its context.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在左侧的图里，字母‘a’被看做为图，这不仅仅因为我们知道它是字母表中的一个字母，而且还因为它的外形独特，其明度与背景形成对比，并且它所在的位置使其与背景隔离开来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As it grows in size relative to its field, however, other elements within and around it begin to compete for our attention as figures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，随着它的尺寸相对于它所处的范围而增大的时候，字母当中或字母周围的其他要素就开始作为图来争夺我们的注意力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At times, the relationship between figures and their background is so ambiguous that we visually switch their identities back and forth almost simultaneously.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时，图与底之间的关系变得非常含糊，以至于我们的视觉会同时不停地切换它们的图底属性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>White-on-Black or Black-on-White?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白图黑底还是黒图白底？ </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two Faces or a Vase?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是两幅面孔还是一个花瓶？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In all cases, however, we should understand that figures, the positive elements that attract our attention, could not exist without a contrasting background. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，在所有的情况下我们都必须明白：吸引我们注意力的正要素“图”，如果没有一个与之形成对比的背景，那是不可能存在的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figures and their background, therefore, are more than opposing elements. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，图与底的关系不仅仅是对立的要素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Together, they form an inseparable reality—a unity of opposites—just as the elements of form and space together form the reality of architecture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二者共同形成一个不可分离的实体，一个对立的统一体，就像形式与空间要素共同形成了建筑实物一样。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Line defining the boundary between solid mass and spatial void</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>A. 线限定了实体与虚空之间的界限</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The form of solid mass rendered as a figure</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>B. 实体的形式被表现为“图”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The form of the spatial void rendered as a figure</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>C. 虚实的形式被表现为“图”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plan Diagrams, Taj Mahal, Agra, India, 1630-1653. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泰姬·玛哈陵·阿格拉，印度，1630—1653 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shah Jahan built this white marble mausoleum for his favorite wife, Muntaz Mahal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沙贾汗（Shah Jahan ）为他的爱妻玛塔兹·玛哈尔（Muntaz Mahal）建造了这座白色大理石的陵墓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Architectural form occurs at the juncture between mass and space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑形式出现在实体与空间的接合上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In executing and reading design drawings, we should be concerned with both the form of the mass containing a volume of space as well as the form of the spatial volume itself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在实施与阅读设计图纸时，我们既要关注包含空间体积的实体形式，也要关注空间容积本身的形式。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fragment of a Map of Rome, drawn by Giambattista Nolli in 1748</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗马地图片段，詹巴蒂斯塔·诺里于1748年绘制 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Depending on what we perceive to be positive elements, the figure-ground relationship of the forms of mass and space can be inverted in different parts of this map of Rome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这幅罗马地图的不同部位上，取决于我们把何者视为正要素，实体形式与空间形式之间的图底关系可以颠倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In portions of the map, buildings appear to be positive forms that define street spaces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这幅地图的有些部分，建筑物似乎是正要素，限定了街道空间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other parts of the drawing, urban squares, courtyards, and major spaces within important public buildings read as positive elements seen against the background of the surrounding building mass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在该地图的另外一些部分，城市广场、庭院以及重要公共建筑中的主要空间则被当做正要素，与作为背景的、周围环境中的建筑实体形成对比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The symbiotic relationship of the forms of mass and space in architecture can be examined and found to exist at several different scales. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以通过分析发现，建筑中买体形式与空间形式之间的共生关系存在着几种不同的程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At each level, we should be concerned not only with the form of a building but also its impact on the space around it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论在哪种程度上，我们不仅要考虑建筑的形式，而且还要考虑它对周围空间的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At an urban scale, we should carefully consider whether the role of a building is to continue the existing fabric of a place, form a backdrop for other buildings, or define a positive urban space, or whether it might be appropriate for it to stand free as a significant object in space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个城市尺度范围内，我们应该精心考虑一座建筑物的责任，是延续一个场所的现有结构，给其他建筑物当背景，还是限定一个明确的城市空间，抑或作为城市空间中的一个重要物体而适合于独立存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the scale of a building site, there are various strategies for relating the form of a building to the space around it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一座建筑物的基地范围内，有各种各样的方法来处理建筑物与周围空间的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A building can:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>—座建筑物可以：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A. form a wall along an edge of its site and begin to define a positive outdoor space;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>A. 沿着基地的边缘形成一面墙，并且限定明确的室外空间；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>B. merge its interior space with the private outdoor space of a walled site;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>B. 将其室内空间与围墙范围以内的、私有室外空间融为一体；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>C. enclose a portion of its site as an outdoor room and shelter it from undesirable climatic conditions; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>C. 围起基地的一部分作为室外场地，使这部分室外场地能够遮风避雨；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>D. surround and enclose a courtyard or atrium space within its volume— an introverted scheme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>D. 在建筑物的内部容积中，环绕或围合一个庭院或中庭空间——这是一种内向的设计；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Monastery of St. Meletios on Mt. Kithairon, Greece, 9th century A.D. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基塞隆山上的圣梅勒修斯修道院，希腊，公元9世纪</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>E. stand as a distinct object in space and dominate its site through its form and topographical positioning—an extroverted scheme; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>E. 作为一个独特的实体立于空间之中，并通过其形式和外部特征控制着建筑物所在的基地——这是一种外向的设计；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>F. stretch out and present a broad face to address a view, terminate an axis, or define an edge of an urban space; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>F.立面宽阔舒展，与景观对话，作为一条轴线的终点或限定某一城市空间的边界；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>G. stand free within its site but extend its interior spaces to merge with private exterior spaces; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>G.在基地内自由排布，但室内空间延伸出去，与私有的室外空间融为一体；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>H. stand as a positive form in a negative space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>H.在负空间中作为一个正的形体而存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Buildings Defining Space: Piazza San Marco, Venice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑物限定了空间：圣马可广场，威尼斯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building as an Object in Space: Boston City Hall, 1960, Kallmann, McKinnell &amp; Knowles</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑物作为空间中的一个实体：波士顿市政厅，1960，卡尔曼，麦金尼尔及诺尔斯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building Embedded in the Landscape: Eyup Cultural Center, Istanbul, Turkey, 2013, EAA-Emre Arolat Architects </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑物嵌入景观：埃郁普文化中心，伊斯坦布尔，土耳其，2013， EAA—埃姆瑞·阿罗拉特建筑师事务所</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building Dominating the Landscape: Cooroy Art Temple, Cooroy Mountain, Australia, 2008, Paolo Denti JMA Architects </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑物主宰者景观：库洛依艺术圣殿，库洛依山，澳大利亚，2008，保罗·邓蒂JMA建筑师事务所</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building as Landscape: Palafolls Public Library, Palafolls, Spain, 2009, Enric Miralles and Benedetta Tagliabue/Miralles Tagliabue EMBT </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建筑物即为景观：帕拉福尔斯公共图书馆，帕拉福尔斯，西班牙，2009，恩里克·米拉雷斯与贝妮蒂塔·塔格丽娅布/米拉雷斯·塔格丽娅布EMBT事务所</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Landscape as Building: Olympic Sculpture Park, Seattle Art Museum, Seattle, Washington, 2008, Weiss/Manfredi Architecture/Landscape/Urbanism </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>景观成为建筑：奥林匹克雕塑公园，西雅图艺术博物馆，西雅图，华盛顿州，2008，韦斯/曼弗雷迪建筑/景观/城市规划设计公司</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the scale of a building, we tend to read the configurations of walls as the positive elements of a plan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一栋建筑物的尺度范围内，我们倾向于把墙的造型当成平面图中的正要素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The white space in between, however, should not be seen simply as background for the walls, but also as figures in the drawing that have shape and form.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是墙之间的空白空间不应当简单地视为墙的背景，而应当视为有形状和形式的图形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even at the scale of a room, articles of furnishings can either stand as forms within a field of space or serve to define the form of a spatial field.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是在一个房间的尺度范围内，家具物品既可以作为形式而立于某一空间领域中，也可以用来限定空间领域的形式。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seinajoki Theater, Finland,i968-1969, Alvar Aalto </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塞纳约基的剧院，芬兰，1968--1969，阿尔瓦·阿尔托 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The form and enclosure of each space in a building either determines, or is determined by, the form of the spaces around it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在建筑中，每个空间的形式和围护结构，不是决定了其周围的空间形式就是被周围的空间形式所决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Theater in Seinajoki by Alvar Aalto, for example, we can distinguish several categories of spatial forms and analyze how they interact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，在阿尔瓦·阿尔托设计的塞纳约基剧院中，我们可以分辨出好几种类型的空间形式，可以分析这些空间形式是如何相互作用的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each category has an active or passive role in defining space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一种类型，在限定空间方面都有主动或被动的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some spaces, such as offices, have specific but similar functions and can be grouped into single, linear, or clustered forms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>A. 某些空间，例如办公室，用途虽各异，但有相同的功能，可以把它们组成独立的、线性的或组团的形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some spaces, such as concert halls, have specific functional and technical requirements, and require specific forms that will affect the forms of the spaces around them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>B.某些空间，例如音乐厅，具有特殊的功能和技术要求，因而需要特殊的形体，由此会影响到其周围空间的形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some spaces, such as lobbies, are flexible in nature and can therefore be freely defined by the spaces or grouping of spaces around them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>C. 某些空间，例如门厅，其性质是灵活的，因此可以被周围的空间或空间组团自由划分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FORM DEFINING SPACE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>形式限定空间</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Square in Giron, Colombia, South America</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉隆的广场，哥伦比亚，南美</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we place a two-dimensional figure on a piece of paper, it influences the shape of the white space around it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们把一幅两维的图形布置在一张纸上的时候，它会影响到周围白色空间的形状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a similar manner, any three-dimensional form naturally articulates the volume of space surrounding it and generates a field of influence or territory which it claims as its own. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同理，任何三维的形式自然会清晰地表达出其周围的空间体积，并且产生一个受到影响的范围或能够据为己有的领地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following section of this chapter looks at horizontal and vertical elements of form and presents examples of how various configurations of these formal elements generate and define specific types of space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本章的其余部分着眼于水平和垂直的形式要素，并举例说明这些形式要素构成的图形，是如何产生并限定特定空间类型的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>HORIZONTAL ELEMENTS DEFINING SPACE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水平要素限定的空间</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Base Plane </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基面</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A horizontal plane laying as a figure on a contrasting background defines a simple field of space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个水平面作为一个图形平放在反差很大的背景上，就限定出一个简单的空间领域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This field can be visually reinforced in the following ways.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用下面几种方法可以使该领域在视觉上得到加强。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elevated Base Plane </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基面抬升</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A horizontal plane elevated above the ground plane establishes vertical surfaces along its edges that reinforce the visual separation between its field and the surrounding ground.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水平面拾升到地面以上，则会沿着水平面的边界生成若干个垂直表面，这就在视觉上强化了该领域与周围地面之间的分离感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Depressed Base Plane </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基面下沉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A horizontal plane depressed into the ground plane utilizes the vertical surfaces of the lowered area to define a volume of space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个水平面下沉到地面以下，利用下沉部分的垂直表面来限定一个空间容积。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Overhead Plane </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>顶面</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A horizontal plane located overhead defines a volume of space between itself and the ground plane.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水平面位于头顶之上，则在顶面与地面之间限定出一个空间容积</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a horizontal plane to be seen as a figure, there must be a perceptible change in color, tone, or texture between its surface and that of the surrounding area.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了使一个水平面能被看成一个图形，在其表面与周围区域的表面之间，必须在色彩、明度或质感上具有可以感知的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stronger the edge definition of a horizontal plane is, the more distinct will be its field.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水平面的边界越清晰，则其领域越明确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although there is a continuous flow of space across it, the field nevertheless generates a spatial zone or realm within its boundaries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然有连续不断的空间穿越其间，但无论如何，该领域会在它的边界内产生一个空间区域或空间地带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surface articulation of the ground or floor plane is often used in architecture to define a zone of space within a larger context. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在建筑中，地面或楼面的接合常常用来在更大的背景中限定一个空间区域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The examples on the facing page illustrate how this type of spatial definition can be used to differentiate between a path of movement and places of rest, establish a field from which the form of a building rises out of the ground, or articulate a functional zone within a one-room living environment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下一页的实例清楚地表明了，这类限定空间的方法是如何用来区分行动路线和休息区域，如何在建筑形体拔地而起的地方建立起一个领域，或者如何在一个房间的起居环境中明确地划分出一个功能区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Street in Woodstock, Oxfordshire, England</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍德斯托克的街道，牛津郡，英格兰 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Katsura Imperial Villa, Kyoto, Japan, 17th century</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桂离宫，京都，日本，17世纪 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Parterre de Broderie, Palace of Versailles, France, 17th century, Andre Le Notre</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刺绣花坛，凡尔赛宫，法国，17世纪，安德烈·勒·诺特</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interior of Glass House, New Canaan, Connecticut, 1949, Philip Johnson</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玻璃住宅室内，新坎南，康涅狄格州，1949，菲利浦?约翰逊</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ELEVATED BASE PLANE</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基面抬升</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elevating a portion of the base plane creates a specific domain within a larger spatial context. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将基面的一部分抬升，会在更大的空间范畴内创造一个特定的空间领域。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The changes in level that occur along the edges of the elevated plane define the boundaries of its field and interrupt the flow of space across its surface.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沿着抬高了的平面边缘所发生的高度变化，限定了其领域的界限并打断了穿过其表面的空间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the surface characteristics of the base plane continues up and across the elevated plane, then the field of the elevated plane will appear to be very much a part of the surrounding space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果基面抬升所形成的侧表面继续向上伸展，并超过了已经抬高的基面，那么抬高了的基面所限定的范围，看起来很像周围空间的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If, however, the edge condition is articulated by a change in form, color, or texture, then the field will become a plateau that is separate and distinct from its surroundings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，如果边界在形式、色彩或质感等方面 发生了明确的变化，那么这个范围便成为一块高地，与周围环境分离而且区别明显。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fatehpur Sikri, Palace Complex of Akbar the Great, Mogul Emperor of India, 1569-1574. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法塔赫布尔·西格里（“胜利之城”的意思），印度莫卧尔大帝阿克巴的宫殿群，1569--1574</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A special place is established by a platform in an artificial lake surrounded by the emperor’s living and sleeping quarters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过人工湖上的一座平台，建起了一处特殊的 场所，周围环绕着皇帝的起居与就寝处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The degree to which spatial and visual continuity is maintained between an elevated space and its surroundings depends on the scale of the level change.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抬高的空间与周围环境之间，在空间与视觉上的连续程度取决于高程变化的幅度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The edge of the field is well-defined; visual and spatial continuity is maintained; physical access is easily accommodated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.领域的边界得到很好的界定；视觉与空间的连续性依然保持；身体很容易接近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Visual continuity is maintained; spatial continuity is interrupted; physical access requires the use of stairs or ramps.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.视觉连续性尚存；空间连续性被打断；身体则需要利用楼梯或坡道来接近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Visual and spatial continuity is interrupted; the field of the elevated plane is isolated from the ground or floor plane; the elevated plane is transformed into a sheltering element for the space below.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.视觉与空间的连续性均被打断；抬高的基面所限定的区域已经与地面或楼板分离；抬高的基面演变成下面空间的遮蔽要素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Acropolis, the cidatel of Athens, 5th century B.C.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卫城，雅典城堡，公元前五世纪 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Izumo Shrine, Shimane Prefecture, Japan, A. D. 717 (last rebuilt in 1744)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出云大社，岛根县，日本，公元717年（最后一次复建是1744年）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Temple of Jupiter Capitolinus, Rome, 509 B.C.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朱比特神庙，罗马，公元前509年</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elevating a portion of the ground plane establishes a platform or podium that structurally and visually supports the form and mass of a building. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地面的一部分升起来便形成了一个平台或墩座，从结构上或视觉上来看，这个平台或墩座都支撑着建筑的体块与形式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The elevated ground plane can be a preexisting site condition, or it can be artificially constructed to deliberately raise a building above the surrounding context or enhance its image in the landscape. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抬高的地面可以是已经存在的基地条件，也可以人工建造，目的是有意抬升建筑使其高于周围环境或者强化其在地景中的形象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The examples on this and the preceding page illustrate how these techniques have been used to venerate sacred and honorific buildings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两页的实例说明了如何把这些技法用于表现神圣与庄严的建筑。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pavilion of Supreme Harmony (Taihe Dian) in the Forbidden City, Beijing, 1627</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太和殿，紫禁城，北京，1627 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Temple Mountain, Bakong Temple, A.D. 881, Hariharalaya, Cambodia</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寺山，巴公寺，公元881年，诃利诃罗洛耶，柬埔寨 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Valhalla, near Regensburg, Germany, Leon von Klenze, 1830-1842</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英烈祠，雷根斯堡附近，德国，列侬?冯?克伦策，1830--1842 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Private courtyard of the Imperial Palace, the Forbidden City, Beijing, China, 15th century </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>皇宫中的私密庭院，紫禁城，北京，15世纪 </seg>
+</tuv>
+</tu>
+</body>
+</tmx>

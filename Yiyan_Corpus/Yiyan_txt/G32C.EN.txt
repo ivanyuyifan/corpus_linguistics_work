@@ -1,0 +1,26 @@
+Brief Academic Biography of Marvin Minsky
+Marvin Minsky is Toshiba Professor of Media Arts and Sciences, and Professor of Electrical Engineering and Computer Science, at the Massachusetts Institute of Technology. 
+His research has led to both theoretical and practical advances in artificial intelligence, cognitive psychology, neural networks, and the theory of Turing Machines and recursive functions. 
+(In 1961 he solved Emil Post's problem of "Tag", and showed that any computer can be simulated by a machine with only two registers and two simple instructions.) 
+He has made other contributions in the domains of graphics, symbolic mathematical computation, knowledge representation, commonsensical semantics, machine perception, and both symbolic and connectionist learning. 
+He has also been involved with advanced technologies for exploring space.
+Professor Minsky was a pioneer of robotics and telepresence. 
+He designed and built some of the first visual scanners, mechanical hands with tactile sensors, one of the first LOGO "turtles," and their software and hardware interfaces. 
+These influenced many subsequent robotic projects.
+In 1951 he built the first randomly wired neural network learning machine (called SNARC, for Stochastic Neural-Analog Reinforcement Computer), based on reinforcing the synaptic connections that contributed to recent reactions. 
+In 1956, when a Junior Fellow at Harvard, he invented and built the first Confocal Scanning Microscope, an optical instrument with unprecedented resolution and image quality.
+Since the early 1950s, Marvin Minsky has worked on using computational ideas to characterize human psychological processes, as well as working to endow machines with intelligence. 
+His seminal 1961 paper, "Steps Towards Artificial Intelligence" surveyed and analyzed what had been done before, and outlined many major problems that the infant discipline would later later need to face. 
+The 1963 paper, "Matter, Mind, and Models" addressed the problem of making self-aware machines. 
+In "Perceptrons," 1969, Minsky and Seymour Papert characterized the capabilities and limitations of loop-free learning and pattern recognition machines. 
+See my further remarks below. 
+In "A Framework for Representing Knowledge" (1974) Minsky put forth a model of knowledge representation to account for many phenomena in cognition, language understanding, and visual perception. 
+These representations, called "frames," inherited their variable assignments from previously defined frames, and are often considered to be an early form of object oriented programming.
+In the early 1970s, Minsky and Papert began formulating a theory called The Society of Mind which combined insights from developmental child psychology and their experience with research on Artificial Intelligence. 
+The Society of Mind proposes that intelligence is not the product of any singular mechanism, but comes from the managed interaction of a diverse variety of resourceful agents. 
+They argued that such diversity is necessary because different tasks require fundamentally different mechanisms; this transforms psychology from a fruitless quest for a few "basic" principles into a search for mechanisms that a mind could use to manage the interaction of many diverse elements.
+Bits and pieces of this theory emerged in papers through the 70s and early 80s. 
+Papert turned his energies to applying these new ideas to transforming education while Minsky continued to work primarily on the theory. 
+In 1985, he published "The Society of Mind," a book in which 270 interconnected one-page ideas reflect the structure of the theory itself. Each page either proposes one such mechanism to account for some psychological phenomena or addresses a problem introduced by some proposed solution of another page. 
+In 2006, Minsky published a sequel, "The Emotion Machine," which proposes theories that could account for human higher-level feelings, goals, emotions, and conscious thoughts in terms of multiple levels of processes, some of which can reflect on the others. 
+By providing us with mulitple different "ways to think," these processes could account for much of our uniquely human resourcefulness.

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T114417Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new masters of management
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司管理的新领军者
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Developing countries are competing on creativity as well as cost. That will change business everywhere.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展中国家在创新和成本方面的竞争将改变世界经济
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THIRTY years ago the bosses of America's car industry were shocked to learn that Japan had overtaken America to become the world's leading car producer. They were even more shocked when they visited Japan to find out what was going on. They found that the secret of Japan's success did not lie in cheap labour or government subsidies (their preferred explanations) but in what was rapidly dubbed "lean manufacturing". 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三十年前，美国汽车生产企业老板们惊讶的发现日本取代美国成为世界汽车生产的领头羊，当他们发现当时日本汽车产业状况时显得更加的惊讶：日本汽车业的成功居然不是得益于廉价劳动力或政府补贴（这是他们一贯的看法），而是得益于世界迅速熟知的所谓“精益生产”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While Detroit slept, Japan had transformed itself from a low-wage economy into a hotbed of business innovation. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当底特律还在呼呼大睡的时候，日本却正在迎头赶上，将自己从低工资经济时代一跃转变为企业创新的温床。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

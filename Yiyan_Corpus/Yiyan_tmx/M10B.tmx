@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160827T020950Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Last Night of the World</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界的最后一夜</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What would you do if you knew this was the last night of the world?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要是你知道这是世界的最后一夜，你会做什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What would I do; you mean, seriously?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我会做什么？你是认真的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes, seriously." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对，认真的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know- I hadn't thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道——我没想过。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She turned the handle of the silver coffeepot toward him and placed the two cups in their saucers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把银咖啡壶的手柄转向他，将两个杯子放在他们的碟子上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He poured some coffee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他倒了些咖啡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the background, the two small girls were playing blocks on the parlor rug in the light of the green hurricane lamps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>远处，在绿色防风灯的灯光下两个小女孩在客厅的地毯上玩积木。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was an easy, clean aroma of brewed coffee in the evening air.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜晚的空气中有一股安逸、洁净的煮咖啡的香味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, better start thinking about it," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“唔，最好开始考虑这个问题，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You don't mean it?" said his wife.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不是这个意思吧？”他妻子说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He nodded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他点点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A war?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“战争？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shook his head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他摇摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not the hydrogen or atom bomb?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是氢弹或原子弹吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Or germ warfare?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要么是细菌战？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"None of those at all," he said, stirring his coffee slowly and staring into its black depths. "But just the closing of a book, let's say." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“根本不是这些，”他说，慢慢地搅着他的咖啡，眼睛注视着它黑暗的深处，“而是，打个比方说，一本书到结尾了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think I understand." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想我没明白。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, nor do I really. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的，实际上我也不明白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's jut a feeling; sometimes it frightens me, sometimes I'm not frightened at all- but peaceful." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只是一种感觉；有时让我害怕，有时我一点都不怕——反而很平静。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He glanced in at the girls and their yellow hair shining in the bright lamplight, and lowered his voice. "I didn't say anything to you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他瞥了一眼女孩们和她们在明亮的灯光下闪亮的黄色头发，然后压低了声音，“我没跟你说过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It first happened about four nights ago."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次是在大概四个晚上之前发生的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A dream I had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我做的一个梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I dreamt that it was all going to be over and a voice said it was; not any kind of voice I can remember, but a voice anyway, and it said things would stop here on Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我梦见一切都要结束了，一个声音说的确如此；那不是我能想起的任何一种声音，但总之是一个声音，它说地球上的事物就要结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't think too much about it when I awoke the next morning, but then I went to work and the feeling as with me all day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天醒来时我没对这事想太多，但是之后我去上班，那种感觉整天都跟随着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I caught Stan Willis looking out the window in the middle of the afternoon and I said, 'Penny for your thoughts, Stan,' and he said, 'I had a dream last night,' and before he even told me the dream, I knew what it was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在下午过半时，我撞见斯坦·威利斯（Stan Willis）正看向窗外，我说：‘在想什么呢？斯坦，’他说：‘昨晚我做了一个梦，’在他告诉我那个梦之前，我就知道了那是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could have told him, but he told me and I listened to him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来可以讲给他听的，但他跟我讲了，我就听他说。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It was the same dream?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是同样的梦？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I told Stan I had dreamed it, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉斯坦我也梦到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't seem surprised. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他好像没感到惊讶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He relaxed, in fact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，他很轻松。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we started walking through offices, for the hell of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，为了好玩，我们开始在办公室里四处溜达。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't planned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有计划过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We didn't say, let's walk around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们没有说，我们四处走走吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We just walked on our own, and everywhere we saw people looking at their desks or their hands or out the windows and not seeing what was in front of their eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们只是各走各的，在每一个地方，我们都看到人们要么看着他们的办公桌，要么看着他们的手，要么看向窗外，而对他们眼前的东西却视而不见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I talked to a few of them; so did Stan."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和其中几个人谈了谈；斯坦也是。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And all of them had dreamed?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们所有人都做梦了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所有人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same dream, with no difference."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样的梦，分毫不差。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you believe in the dream?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你相信这个梦吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes. I've never been more certain."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“相信，我从未这么确信过。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And when will it stop? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那什么时候结束呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world, I mean." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是指，世界。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sometime during the night for us, and then, as the night goes on around the world, those advancing portions will go, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在我们这边是晚上的某个时刻，然后，随着夜晚绕着世界前进，那些前面的部分也要结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It'll take twenty-four hours for it all to go."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全部结束要用二十四个小时。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They sat awhile not touching their coffee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坐了一会儿，没有碰他们的咖啡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then they lifted it slowly and drank, looking at each other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他们慢慢端起来喝，眼睛看着对方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do we deserve this?" she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是我们应得的吗？”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's not a matter of deserving, it's just that things didn't work out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这不是应得不应得的事，只是事情进行不下去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I notice you didn't even argue about this. Why not?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我发觉你对这件事甚至都不争辩一下，为什么不呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I guess I have a reason," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想是有原因的吧。”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The same reason everyone at the office had?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是和办公室里每一个人都有的同样的原因吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She nodded. "I didn't want to say anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她点点头，“我本来什么都不想说的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It happened last night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我昨晚梦到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the women on the block are talking about it, just among themselves." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>街区的女人们也在谈论这件事，不过只是在她们之间谈。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She picked up the evening paper and held it toward him. "There's nothing in the news about it."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她拿起晚报递给他，“关于这件事，新闻里什么都没有。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, everyone knows, so what's the need?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是没有，大家都知道了，那还有什么必要？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took the paper and sat back in his chair, looking at the girls and then at her. "Are you afraid?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他接过报纸，向后靠坐在他的椅子上，看看女孩们，然后看向她，“你害怕吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not even for the children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使为了孩子也没怕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I always thought I would be frightened to death, but I'm not."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直以为我会怕死，但我现在不怕。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where's that spirit of self-preservation the scientists talk about so much?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“科学家们谈论了这么多的自我保护精神在哪儿呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't get too excited when you feel things are logical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你感觉事情合乎逻辑，你就不会太激动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is logical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这事合乎逻辑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing else but this could have happened from the way we've lived."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以我们的生活方式，除此之外不可能发生其它事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We haven't been too bad, have we?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们没有太坏，是不是？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, nor enormously good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是，但也不是非常好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I suppose that's the trouble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想那就是问题所在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We haven't been very much of anything except us, while a big part of the world was busy being lots of quite awful things."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一直以来，除了自己的事以外我们不怎么参与其它事，同时世界上的一大部分人在忙着做许多相当可怕的事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girls were laughing in the parlor as they waved their hands and tumbled down their house of blocks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客厅里，女孩们一边挥手推倒她们的积木房子，一边哈哈大笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I always imagined people would be screaming in the streets at a time like this."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我一直以为在这样的时刻人们会在街上大喊大叫。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I guess not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想不会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't scream about the real thing."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人不会对事实喊叫的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you know, I won't miss anything but you and the girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道吗，除了你和女儿们，我不会留恋任何事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never liked cities or autos or factories or my work or anything except you three. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来都不喜欢城市、汽车、工厂、我的工作以及除了你们三个之外的任何事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I won't miss a thing except my family and perhaps the change in the weather and a glass of cool water when the weather's hot, or the luxury of sleeping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了家人，或许还有天气上的变化和天气热时的一杯凉水，或者睡觉的奢侈外，我一件事都不会留恋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just little things, really. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有小事，真的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can we sit here and talk this way?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们怎么能坐在这里这样说话呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Because there's nothing else to do." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“因为没有其它事要做。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's it, of course, for if there were, we'd be doing it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没错，当然了，因为要是有的话，我们应该正在做着呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I suppose this is the first time in the history of the world that everyone has really known just what they were going to be doing during the last night."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想这是世界上有史以来第一次每个人真的知道了在最后一夜他们要做什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I wonder what everyone else will do now, this evening, for the next few hours." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想知道别的人现在要做什么呢，在这个夜晚，在接下来的几个小时里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Go to a show, listen to the radio, watch the TV, play cards, put the children to bed, get to bed themselves, like always." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“去看一场演出、听收音机、看电视、打牌、安顿孩子们上床睡觉、他们自己上床睡觉，像平常一样。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In a way that's something to be proud of- like always."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“用一种有点骄傲的方式——像平常一样。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

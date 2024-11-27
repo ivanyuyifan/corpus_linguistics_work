@@ -1,0 +1,1127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T155604Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paris, at Night</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜·巴黎</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today was rice day, fifty-pound sacks of white rice in trucks bearing an elephant logo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天是大米日，每袋五十磅的白大米装在带有大象标志的卡车上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same happy elephant appeared on the bags, its head raised to the sky, the trunk curved like an S.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样快乐的大象也出现在袋子上，它的头昂向天空，鼻子弯曲成一个S型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Elephant," Todd said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“大象，”托德（Todd）说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said it because a laborer was staring at it intently. Which meant he wasn't working.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他这么说是因为一个工人正目不转睛地注视着它，这表示他没在工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's right," the man said. "I couldn't remember the word." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说的对，”那个人说，“我想不起那个词了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was the only other human at the loading dock this morning. The man didn't have a name, just a number, like the rest of the robots.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是这个上午在装卸码头上的唯一的另一个人类，这个人没有名字，只有一个代号，就像其他的机器人一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Let's get back to it, 8831, okay?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们回到工作上吧，8831，好吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yessir," the man said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好的，先生，”那个人说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That could be me, Todd thought as he watched him work side by side with his silent mechanical counterparts, lifting, carrying, and dropping bags of rice from the back of the truck to the warehouse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可能也会是这样，看着他与沉默的机械同行们肩并肩一起工作，从卡车后面到仓库抬起、搬运、放下一袋袋大米时托德心想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A bad car accident, a bad fall from a ladder, and that could be me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一场严重的车祸、从梯子上重重摔下，我可能也会成这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or a bad memrip.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者一个失败的记忆移植手术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AT LUNCH, Todd thought of things he could sell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午餐时，托德考虑了一下他能够卖的物品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything he owned of any value, he could touch: his grandfather's watch, his grandmother's wedding ring, a gold necklace belonging to some forgotten relative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何他拥有的值钱的东西，他能动用的：他祖父的手表、他祖母的结婚戒指、一条属于某个被遗忘的亲戚的金项链。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His car, too, but that was out of the question as he needed it to work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有他的车，但那是不可能的，因为他还需要它来工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He got up from his chair and scanned the floor below, the robots still working away, a sea of metallic shoulders rising and falling in unison, strangely beautiful in a way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从椅子上站起来，看了一眼楼下，机器人还在远处工作，一片金属肩膀组成的海洋同时起落，从某个角度来看有一种奇异的美。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over by the forklift sat 8831, his eyes as blank as the piece of bread he was eating.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在另一边铲车旁坐着8831，他的眼睛和他正在吃的那片面包一样空白无味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two weeks from today was Todd's thirtieth wedding anniversary, and even if he were to pawn the watch, the ring, and the necklace, he knew he wouldn't even come close to having enough for Paris. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再过两个星期就是托德的结婚三十周年纪念日，即便典当了手表、戒指和项链，他知道他也不会接近有足够的钱去巴黎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's where Sue had wanted to go for as long as he could remember. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是苏（Sue）很久以来都想要去的地方，他能记得有多久就有多久了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They didn't have the money to honeymoon there, but that was okay because back then, there had been plenty of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们没有去那里度蜜月的钱，但那没什么，因为在当时，有大把的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were young, both healthy and working, so they would save a little here and there and in a couple of years, they would be walking up to the Eiffel Tower at night arm in arm, find themselves underneath the arch and look up at the beacon that shined on this city of lights.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们年纪尚轻，两个人都健康勤劳，所以他们这里那里节省一点，几年后，他们就会在晚上挽着胳膊走向埃菲尔铁塔，发现自己在拱顶下仰着头看向照耀着这个灯光之城的灯塔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then came two sons and three recessions and a second mortgage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是随后有了两个儿子，三次大萧条和一个二次抵押贷款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A hysterectomy for her, a double bypass for him, and now here he was, nine years short of retirement, supervising a team of robots and a retarded man, thinking about folks who could sell things they couldn't touch, like stocks and bonds and whatever else he couldn't even fathom, people with money who would pay to experience another's most cherished moments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她做了一次子宫切除手术，他的心脏做了两个搭桥，现在他在这儿，再有九年就退休了，管理着一队机器人和一个智力迟钝的男人，想着能够出售他们动不了的东西的人们，比如股票、债券以及其他任何他甚至都理解不了的东西，想着愿意花钱体验别人最珍爱的时刻的有钱人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Silly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>愚蠢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That would be Sue's word for it if this were a story she'd overheard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这是苏偶然听到的一个故事，这将是她对此的评价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a trip, a goddamn trip, what a silly thing to do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了一次旅行，一次该死的旅行，干这么蠢的事啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was more than a trip. It was their life together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这不仅仅是一次旅行，这是他们一起的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was life and there was death, and it seemed to Todd that if he waited any longer, there wouldn't be a difference between the two.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有生，有死，但在托德看来如果他再等下去，这两者之间也不会有差别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He opened the filing cabinet and rifled through the folders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他打开文件柜，在文件夹中搜索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In all the years he'd been here, only a handful of human workers had come and gone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在这里的这些年，只有少数几个人类工人来来去去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All of them were handicapped in some way; they came through the city welfare program, and 8831 was no exception.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们所有人在某方面都有残疾；他们是通过城市福利计划来的，8831也不例外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Name: Lopez, Manny</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>姓名：洛佩兹，曼尼（Lopez, Manny）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Age: 46</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年龄：46</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tax Status: Married</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纳税身份：已婚</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Disability: Neural Trauma </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伤残：神经损伤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Neural Trauma. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>神经损伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was worth a shot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>值得一试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Manny's wife picked up on the second ring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曼尼的妻子在第二声铃响时接听了电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd told her who he was, and after he assured her that her husband was not hurt, he was fine, he was a great worker, he asked her what he wanted to know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德告诉她他是谁，在他向她保证她丈夫没有受伤、他没事儿、他是一个很好的工人之后，他向她询问他想知道的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She listened without interrupting him, then there was a lengthy silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她听着，没有打断他，然后是长时间的沉默。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why?" she asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么？”她问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Does it matter?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有关系吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I can report you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我可以举报你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再次沉默。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He did it because he loved me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他那么做是因为那时他爱我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Loved," she said, hardening. "Not loves." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时爱，”她说，语气加强，“不是现在爱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I heard you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我明白你的意思。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she hung up on him, and for the rest of the day, Todd replayed the conversation in his mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后她挂断了电话，那一天余下的时间里，托德在他脑子里重复播放这次谈话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Should he have lied to her, made up some story about a sick mother, a dying child? He wasn't good at talking, especially on the phone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是不是应该对她撒谎，编造一些关于一个患病的母亲、一个垂死的孩子的故事？他不擅长谈话，特别是在电话里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People thought he was unfriendly, hostile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们认为他不友好，充满敌意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A woman once told him his voice sounded like broken stones rattling in a cage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个女人曾经告诉他他的声音听上去像是破碎的石头在升降车里嘎嘎地响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The horn blared at five, time for the two humans to go home and the robots to be reconditioned and put in standby.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五点钟铃响了，到两个人类回家及机器人修整待用的时间了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd was walking out to his car when Manny touched his shoulder.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德正向外走向他的车，这时曼尼碰碰他的肩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Boss," he said, sounding uncertain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“老板，”他说，声音听上去不确定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He held out his phone. "My wife, she wants to talk to you?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他递出他的电话，“我妻子，她想和你说话？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE HOUSE was quiet when he returned, and it seemed to Todd that he wanted to keep it that way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他回来时房子很安静，而托德似乎也想要它保持这个样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take small, measured steps, like a thief. He carefully pulled the door shut, holding onto the doorknob and turning it by hand until it locked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>迈着小而仔细的步子，像个贼一样，他小心地拉上门，握着门把手，用手转着把门锁上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Above, the floorboards creaked, Sue's footsteps as she walked from their bedroom to the bathroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上面，地板咯吱作响，苏从他们的卧室走向洗手间的脚步声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then a flush, and the trill of water climbing up to refill the toilet tank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后是冲水声，和水升上去装满马桶水箱的颤动声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And now the muffled voice of the late-show host on TV, the encouraging laughter of the studio audience, the one-two punch repeating until they cut to commercial.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在是电视上夜间秀节目主持人被压低的声音、演播室观众鼓励的笑声，两者连续反复直到他们切入广告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd sat at the dining table and peeked inside the microdome, at the plate Sue had made for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德坐在餐桌旁，朝保鲜罐里瞥了一眼，看看苏给他做的一盘饭菜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pork chops, a bunch of broccoli spears, a hill of mashed potatoes with a well of gravy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>猪排、一大堆西兰花、堆成小山的浓肉汁土豆泥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He touched the REHEAT button and watched his plate spin slowly, the inside of the dome steaming up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他轻轻按下“加热”按钮，看着他的盘子慢慢地转动，罐子里面升起蒸汽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One thing for sure, my clients never tire of wedding proposals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一点是肯定的，我的客户对求婚从不厌倦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man Todd had met after work was funny, friendly, utterly normal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德下班后见的那个男人风趣、友好、完全正常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It didn't seem possible that they were talking about something that could land both of them a minimum of two years in prison.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看上去他们不可能是在谈论一些能使他们两个在监狱中至少关两年的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not going to lie to you, Todd. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不打算对你说谎，托德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a risk to this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个有风险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People do get hurt, like your friend Manny. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实有人受伤，比如你的朋友曼尼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But keep in mind that Manny didn't follow our simple yet extremely important directions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但要记得曼尼是没有遵循我们简单却极为重要的指示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We told him over and over again that he wasn't to consume any alcoholic beverages twenty-four hours before the procedure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们一再告诉他事前二十四小时内不要饮用任何含酒精饮料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We even hired a Portuguese translator to make sure he understood what was required of him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们甚至请了一位葡萄牙语翻译以确保他明白对他的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>See, this is why Mrs. Lopez still led you to us, because she knows we do good work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看看，这就是为什么洛佩兹太太还要把你引荐给我们，因为她知道我们的工作做得好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her cousin's a regular sourcer, comes in once a month, has been for years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她表弟是一个定期的供应源，一个月来一次，都好几年了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't mess up, Todd. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不会搞砸的，托德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the sourcers who mess up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是供应源自己搞砸的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I can see we'll have a smooth ride, because you're a smart guy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信我们会顺利进行的，因为你是个聪明人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though he introduced himself as Richard Gibbons, he also immediately admitted that it was an alias.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管他自我介绍叫理查德·吉布斯（Richard Gibbons），他还是立即承认那是化名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my opinion, Todd? In my opinion, I think it's something the government should regulate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我看来，托德，在我看来，我认为这是政府应该管理的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because let's face it, everybody's doing it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为让我们正视这件事，每个人都在这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But think how long it took for marijuana to become legalized. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是想想大麻合法化用了多长时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hell, it's still not legal in Alabama.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我靠，在阿拉巴马州还是不合法的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd opened the microdome and took out the plate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德打开保鲜罐，拿出盘子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pork had gotten a little tougher, but it still tasted wonderful, his wife's signature flavors of mint and garlic in every bite.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>猪肉有点硬了，但味道还是很好，每一口都有他妻子特有的薄荷和蒜香味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The way I see it, you're getting peak value for something that is going to eventually disappear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得，你对某些最终要消失的东西赋予了最高的价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not just talking about Alzheimer's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不只是在谈老年痴呆症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once you go past sixty, memories fade at an alarming clip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人一过六十岁，记忆就以惊人的速度衰退。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's what happens because the brain can only retain so much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是因为大脑只能保留这么多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like all of our other organs, it's about usage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像我们所有的其他器官一样，这和用量有关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When was the last time you thought about your honeymoon? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你最后一次想起你的蜜月是什么时候？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Honestly? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坦白说？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The less you use, the more you lose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你用得越少，你失去的就越多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the foundation of how our bodies work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我们身体运转的根本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The health benefits of memripping, they're not some urban legend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记忆移植对健康有益，这不是某些都市传奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're cleaning house. You're taking out the garbage and putting in out on the curb, but here's the difference: you're getting paid for that trash.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是在打扫房子，你拿出垃圾，倒在路边，但区别是：你因为那些垃圾而得到了报酬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a painless, quick procedure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个过程没有痛苦，快速也快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All you had to do was remember what you wanted to have ripped while the machine was plugged into you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你所要做的就是在机器插入你身体时记得你想要分离的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surgery was completely automated and technologically sound.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手术完全是自动化的，技术可靠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Memory is free. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记忆是免费的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not for our clients, of course, haha! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然对我们的客人来说不是的，哈哈！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But for you, Todd. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但对你来说是的，托德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think of all the new memories you'll create with the money you'll have. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想用你即将得到的钱去创造的所有的新记忆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our government wants to equate our enterprise to organ trafficking, but nothing could be further from the truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们政府想要把我们的事业等同于器官交易，但事情远非如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You grow memory like a crop, and when you want to, you harvest it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你像种庄稼一样种植记忆，在你想要的时候，你就收割。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are there people picketing against farmers every time they cut down a bushel of corn? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次农民砍倒几升玉米时有人抗议他们吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's natural. It's life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是自然的，这是生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Todd?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“托德？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sue met him at the sink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苏在水槽那儿见到他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She reached for the dish towel hanging off the hook, but Todd angled his body to block her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她伸手去拿挂在钩子上的擦碗布，但托德扭身挡住了她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's just one dish," he said. "You can let it dry."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就一个盘子，”他说，“让它自己风干吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You had a long day."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你累了一整天了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd wiped his hands on the towel and turned around to face her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德用毛巾擦擦手，转过身面向她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even though she looked prettier with her makeup on, he also liked seeing his wife like this, right before they went to bed, because only he saw her like this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使她化上妆看起来更漂亮，他还是喜欢看到他妻子现在这个样子，就在他们上床以前的样子，因为只有他看到她这个样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody else in the world knew this Sue, only him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世上没有其他人知道这个苏，只有他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though it was possible that wouldn't be true after the memrip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管在记忆移植之后这可能不会是真的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But was that a bad thing? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但那是一件坏事吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was it so terrible to share his love for his wife with someone else?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与他人分享他对妻子的爱有这么可怕吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd waited to turn off the kitchen lights, for Sue to switch on the lamp at the landing of the staircase. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德等着关掉厨房的灯，等着让苏打开楼梯底部的灯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was their unspoken routine to retire to their bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是他们回卧室就寝时不用说出口的惯例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were many other small routines like that one, and now, as he climbed the stairs with her, Todd thought how wonderful it was to know another person so well, that this was comfort, that this was home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有很多其他和这个一样的小惯例，现在，在他和她一起爬楼梯时，托德想这么了解另一个人是多么美好啊，这就是舒适，这就是家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>TRIANGULAR BOXES. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三角形的箱子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was the shipment that waited for him when he arrived at work the following morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是第二天早上上班时等着他的货物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were blue ones and red ones and yellow ones and green ones, and each contained a like-colored chair from a Korean designer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有蓝色的、红色的、黄色的、绿色的，每一个都装有一把由一个韩国设计师设计的同色的椅子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Todd couldn't see how a box like that could hold a comfortable chair, so he opened one up and sat in it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托德不明白那样的箱子如何装得下一把舒服的椅子，所以他打开了一个，坐上去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jesus Christ," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“天哪，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four auto-adjusting palm-shaped prongs supported him in ways that seemed impossible: his lower back, his love handles, and his neck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四个自动调节的手掌形叉子以似乎不可能的方式支撑着他：他的后腰、他腰上的赘肉，还有他的脖子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he had his way, he would sit here forever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他能想怎样就怎样，他会永远地坐在这里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he couldn't, as the whistle blew and the robots came to life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他不能，因为哨子吹响了，机器人复活了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought the oddly-shaped boxes might pose a challenge for them, but they didn't miss a step. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想这些奇形怪状的箱子可能会对它们造成挑战，但它们一步也没错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The robots saw the way the boxes were stacked inside the truck, right side up and upside down, staggered to maximize space, and they replicated the exact pattern in the warehouse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>机器人看到箱子在卡车里的堆叠方式，正面朝上、颠倒朝下，交错排列以最大限度地利用空间，它们在仓库里复制同样的模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Manny worked in perfect tandem with his mechanized brothers as the morning turned into afternoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从早上到下午，曼尼与他的机械兄弟们完美地配合着工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like yesterday, he went back to the forklift to eat his lunch, and Todd wondered if perhaps he used to run one of those. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和昨天一样，他回到铲车那里吃午餐，托德怀疑或许他曾经开过其中一辆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He considered asking him but changed his mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想着问问他但又改了主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Manny did so before, he certainly didn't now, so what was there to talk about?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果曼尼以前开过，那他现在确实不开了，那么还有什么好谈的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his office, Todd dug into the brown paper bag of his own lunch and thought that today was very much like yesterday, and the day before that, and the day before that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他办公室里，托德大口吃着褐色纸袋里他自己的午餐，想到今天和昨天非常相似，前天也是，再前一天也是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But tomorrow would be different because tonight would be different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但明天将会不同，因为今夜将会不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the memrip went according to plan- and he had no reason to believe it wouldn't, because he hadn't had a beer in the last twenty-four hours, hadn't washed his hair this morning, followed everything Gibbons had told him- tomorrow he would call up that travel agent who advertised in the paper and tell her to book the platinum romantic getaway to Paris for two.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果记忆移植按计划进行——而他也没理由认为不会，因为他在过去二十四小时内没有喝过一杯啤酒，今天早上没有洗头，遵照吉布斯告诉他的所有事——明天他要打电话给在报纸上打广告的旅行社，叫她预订到巴黎的双人白金浪漫之旅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a trip, a goddamn trip, what a silly thing to do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了一次旅行，一次该死的旅行，干这么蠢的事啊。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

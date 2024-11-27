@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200428T032036Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Madrid, Spain, Thursday 13 May 2010 - Amadeus IT Holding, S.A. (Amadeus: “AMS.MC”), the parent company of Amadeus IT Group, S.A., a leading transaction processor and provider of advanced technology solutions for the global travel and tourism industry, has announced yearon-year financial results for its first quarter (three months ending 31st March 2010).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西班牙马德里 2010年5月13日-- Amadeus IT Holding（以下简称Amadeus）宣布了其截至3月31日的第一季度财务业绩。Amadeus IT Holding是Amadeus IT Group的母公司，后者是全球旅游行业领先的交易处理商和技术解决方案提供商。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An increase in adjusted net income of 58.1% to reach €128.9m is backed by a growth in revenues of 13.4% to €705.3m and an improvement in adjusted EBITDA by 26.1% to €280.3m. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus第一季度调整后净利润同比增长了58.1%，达到1.289亿欧元，这主要是由于收入同比增长了13.4%（达到了7.053亿欧元）和调整后息税前利润同比增长了26.1%（达到了2.803亿欧元）所带动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This continues Amadeus’ trend for steady growth, following an increase in adjusted EBITDA every year between 2004 and 2009.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这延续了Amadeus自2004-2009年期间持续的调整后息税前利润稳定增长的趋势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This steady growth is underpinned by double digit increases in both the Distribution and IT solutions businesses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一稳定的增长主要体现在其分销和IT解决方案业务都取得了双位数的增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Revenues within the Distribution area increased by 12.4% whilst the volume of air travel agency (TA) bookings increased by 9.6% in the first quarter of 2010, primarily driven by the performance of emerging markets (Middle East and Africa, CESE5 and Asia &amp; Pacific). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分销业务的收入同比增长了12.4%，其中机票预订量主要受益于新兴市场（中东和非洲、亚太地区、中东欧国家）的发展而增长了9.6%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amadeus maintained its global leadership position in market share of close to 7% of air travel agency bookings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在机票预订方面，Amadeus继续保持着其在全球的领先地位，市场份额高达37%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The IT Solutions business grew its revenues by 17.9% uring the period, continuing its track record of solid growth as contracted migrations6 took lace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IT解决方案业务的收入同比增长了17.9%，主要是部分航空公司将其传统的旅客管理系统迁移到Amadeus Altéa CMS系统所带动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>President &amp; CEO of Amadeus, David Jones, said: “Our year-on-year growth of total revenues by 13.4%, increased adjusted EBITDA of 26.1% and substantial growth of net income by 58.1% to reach €128.9m is further proof of the strength and profitability of Amadeus’ transaction-based business model. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus的总裁和CEO David Jones说，“我们的总收入同比增长了13.4%，调整后息税前利润同比增长了26.1% ，净利润同比增长了58.1%而达到1.289亿欧元，这对我们以交易为基础的商业模式的潜力和盈利能力是一个很好的证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are encouraged by the recent industry-wide increase in global air traffic and travel bookings and this is a strong indicator of our growth potential as the global travel industry continues to recover.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近全行业的航空客流量和旅游预订量的增长对我们是极大的鼓励，当全球旅游业开始复苏之际，这对我们的增长潜力是一个很强烈的信号。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Q1 2010 Business Highlights:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一季度业务概括：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Distribution</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分销业务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the first quarter of 2010, Amadeus continued its drive to sign long-term full content agreements with key airline customers, including Air France-KLM (4 years), Westjet (3 years),Iberia (5 years), and Austrian Airlines (5 years). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第一季度，Amadeus继续与主要的航空公司客户签署了全面的内容协议，其中包括法航-荷航集团（4年）、加拿大Westjet (3年) 西班牙Iberia (5年)和奥地利航空 (5年)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These contracts join a growing number of recently signed long-term content agreements which balance airlines’ need for efficient distribution with secure access to relevant travel content for travel agencies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些协议与其他最近签署的长期内容协议可以更好地满足航空公司进行高效分销和旅行社安全的获得相关旅游产品内容的需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amadeus signed similar agreements in 2009 with, among others, British Airways (3 years), Lufthansa and Swiss (5 years), SAS Group (5 years) and Virgin Atlantic (3 years). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus在2009与其他航空公司签署了类似的协议，其中包括 英国航空 (3年) 汉莎航空和瑞士航空(5年)、北欧航空集团 (5年)和维珍航空 (3年)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All these long-term full content agreements also apply to ancillary services7. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有这些长期的全面内容协议同样适用于辅助服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More than 80% of all airline bookings made by Amadeus travel agencies worldwide are made on airlines with full content agreements.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus全球旅行社用户所进行的机票预订中，其中超过80%是通过签署了全面内容协议的航空公司所进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As ancillary services become an ever more significant part of travel, Amadeus is working hard to ensure that the benefits of an unbundled approach can be enjoyed by all in the industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当辅助服务成为了旅游过程中更加重要的组成部分时，Amadeus在努力使非打包产品的方式能让行业的所有参与者受益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amadeus’ multi-channel strategy for ancillary services is focused on creating sustainable profitability for airlines while managing complexity and cost for all parties involved in the travel supply chain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus对于辅助产品的多渠道策略的重点是给航空公司带来可持续的盈利，同时帮助旅游供应链的相关各方更好地管理成本和操作的复杂性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The company is working on a number of initiatives in this area which will be rolled out throughout the year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这一领域中，Amadeus今年还将推出几个相关的举措。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amadeus is also participating in a joint industry initiative led by travel management companies, online agencies, and global distribution systems to support the implementation of recently developed, industry-wide technology standards which enable shopping, booking, payment, and reporting of ancillary services.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus还参与了由差旅管理公司、在线旅行社、GDS所领导的一次全行业行动，以支持一项最近出炉的、全行业技术标准的实施，该标准致力于推动辅助服务的搜索、预订、支付和报告过程的标准化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In January Amadeus launched Amadeus Master Pricer Agent Fare Families for online travel agencies and for travel agencies with an online presence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一月份，Amadeus 针对在线旅行社和其他有在线业务的旅行社推出了Amadeus Master Pricer定价工具产品（Amadeus Master Pricer Agent Fare Families）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As part of the company’s Master Pricer portfolio, Amadeus was first to launch a merchandising solution that enables travel agents’ customers to more easily compare airlines’ fares and their associated conditions online.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为其Master Pricer产品的一部分，Amadeus在全行业中第一家发布了产品促销解决方案，从而使得旅行社的客户可以更方便地在线对航空公司的票价和相关的使用条件进行对比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February Amadeus and Carlson Wagonlit Travel (CWT), a global leader specialising in business travel management, signed a memorandum of understanding (MOU) to explore the outsourcing of some of its mid and back-office transaction technologies to Amadeus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在二月份，Amadeus和全球差旅管理公司Carlson Wagonlit Travel (以下简称CWT)签署了谅解备忘录，后者将把其部分中后台交易技术外包给Amadeus。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Amadeus also signed a long-term global distribution agreement reinforcing both Amadeus and CWT’s longstanding relationship.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Amadeus还与CWT签署了长期的全球分销协议，巩固了双方的合作关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also in February, Amadeus announced a long-term alliance with Concur (Nasdaq: CNQR), a leading provider of on-demand employee spend management solutions, to bring key technologies together for a combined travel and expense management solution to extend their core offerings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样在二月份，Amadeus 宣布与Concur（为企业提供员工费用管理解决方案）结成了长期的合作伙伴，以将双方的核心技术结合为企业提供差旅和费用管理解决方案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This includes the integration of travel bookings from Amadeus e-Travel Management (AeTM) into Concur.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中包括对Amadeus e-Travel Management (AeTM)和Concur。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Expense, as well as the unique integration of Amadeus core distribution technology into Concur.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Expense系统的整合，以及将Amadeus核心的分销技术与Concur。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cliqbook Travel – the first time Amadeus has provided this type of technology to a third party.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Cliqbook Travel系统的整合，这是Amadeus第一次将此技术提供给一家第三方公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In March CWT launched ‘Connect Now’ – an end-to-end travel management solution aimed at small and mid-sized companies with or without a managed travel programme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在三月份，CWT发布了Connect Now，该方案专门针对没有集中差旅计划的中小型企业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The portal was the result of a joint development effort which is based on and powered by Amadeus technology.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该网站是双方合作的结果，由Amadeus提供技术支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also in March Amadeus announced LinkHotel, a new distribution and marketing service aimed at small to medium-sized hotels and groups of hotels with South Africa's City Lodge as the launch partner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样在三月份，Amadeus宣布发布LinkHotel 这项新的分销和市场服务主要针对中小型酒店和集团酒店，南非的City Lodge成为首家客户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This increases Amadeus capacity to bring relevant hotel content for bookers to build on the 86,000 plus hotels bookable on Amadeus as of March 2010.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这使得Amadeus可以为预订者提供更相关的酒店产品内容，截止2010年3月，Amadeus提供全球86 000多家可预订的酒店产品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the end of the first quarter, Amadeus launched CheckMyTrip for mobile browsers allowing travellers to check up-to-date travel plans on the go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第一季度末，Amadeus针对手机浏览器发布了CheckMyTrip，使得旅行者可以在行程中查询最新的旅行计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CheckMyTrip pilot apps for iPhone and Blackberry were also launched as well as an app for sharing itineraries on the social networking site Facebook.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>CheckMyTrip针对iPhone和Blackberry的应用程序和在社交媒体网站Facebook上进行行程分享的应用程序也同时进行了发布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Airline IT</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空公司IT业务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the first three months of 2010 Amadeus has migrated 3 new airlines - TAP Portugal, Aegean Airlines and Mauritania Airways) - to one or more Altéa Customer Management System (CMS) modules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第一季度，Amadeus已经将葡萄牙TAP航空、希腊Aegean Airlines航空、毛里塔尼亚航空公司的系统迁移到了Altéa CMS系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saudi Arabian Airlines also migrated to Altéa CMS in April.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沙特阿拉伯航空在四月份也迁移到了Altéa CMS。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, Amadeus has also migrated 3 existing Altéa customers including Spanair and Grupo SATA – to the Departure Control System module. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，Amadeus还将三个现有的Altéa客户（包括Spanair和Grupo SATA）系统迁移到了离港控制系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, Spanair also migrated its departure control system to the Star Alliance’s Common IT Platform (CITP), thus becoming fully operational on the platform, and LOT Polish Airlines expanded its IT partnership with Amadeus to adopt Star CITP inventory module, becoming the 13th alliance member carrier to select the joint centralised platform developed and hosted by Amadeus.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，Spanair同时将其离港系统迁移到了星空联盟的通用IT平台（CITP） 波兰的LOT Polish Airlines扩大了与Amadeus的IT合作关系，采用了星空联盟的CITP库存模块，成为了星空联盟中使用这一由Amadeus开发和托管的系统的第13家公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During this period, 2 regional French airlines have also signed for additional Amadeus Altéa modules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2家法国的区域航空公司签署了额外的Amadeus Altéa模块协议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Furthermore, Asiana Airlines signed an agreement to commence an evaluation of Altéa CMS.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韩亚航空签署了协议，开始对Amadeus Altéa进行评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In e-commerce Amadeus renewed its contract with TAROM and implemented Aegean Airlines in the first quarter of 2010. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在电子商务方面，Amadeus与TAROM续签了协议，并实施了希腊Aegean Airlines的协议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today over 100 airlines use Amadeus’ e-Commerce technology to power and optimise their online sales. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>截止目前，全球有100多家航空公司使用Amadeus的电子商务技术，为其在线销售提供支持和优化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, our existing e-commerce customer Croatia Airlines started using Amadeus Affinity Shopper, an extreme search solution for airlines websites, launched in November 2009. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现有的电子商务客户克罗地亚航空开始使用Amadeus Affinity Shopper，这一针对航空公司网站的搜索方案在2009年11月发布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through this solution consumers can explore and select their trip based on their desired holiday experience, allowing them to ask online open questions such as “where can I go, what can I do, for what I want to spend?”.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过这一解决方案，消费者可以根据他们的假期体验探索和选择行程，并可以通过在线方式问一些开放式的问题，例如：“我能去哪里，我可以做什么，我想花多少钱？”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

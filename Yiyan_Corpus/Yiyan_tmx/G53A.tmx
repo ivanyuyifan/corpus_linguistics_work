@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Ralph Baer: The Father of the Video Game</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>史蒂夫·卡拉斯——拉尔夫·拜尔：电子游戏之父</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For those video game enthusiasts old enough to remember Pong -- the primitive, two-dimensional simulated game of table tennis that came out in 1972 -- it's not hard to marvel at how mind-blowingly sophisticated games like Call of Duty, Halo or any number of them in the XBox or PlayStation catalog have become.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无论现在的游戏（像《使命召唤》、《光晕》或者游戏机目录中的任意一款）变得多么令人惊愕的复杂，对于能够回想起“乒乓”游戏（1972年发行的原始的二维乒乓球模拟游戏）的那些上年纪的游戏爱好者而言，他们一点都不会感到惊讶。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No one, however, is more amazed than Ralph Baer, the man responsible for inventing video games.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，没有人不会对拉尔夫·拜尔这位发明电子游戏的人感到惊奇。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At 90, the New Hampshire-based inventor can still recall horse-drawn carriages delivering milk door-to-door to the homes on his street in Cologne, Germany, where he spent the first fifteen years of his life.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管已经90岁了，这位新罕布什尔州的发明家仍然能够回忆起在德国科隆他家那条街上挨家挨户送牛奶的马车，他在那里度过了生命中的最初15年。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ralph Baer was born in the town of Pirmasens, Germany. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拉尔夫·拜尔出生于德国的皮尔马森斯市。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When Adolf Hitler came to power, the Baer family -- like other German Jews -- was forced to find refuge abroad when Nazi policies stripped them of their citizenship.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此时正值阿道夫·希特勒当权，当纳粹警察剥夺了他们的公民权时，拜尔一家如同其他德国的犹太人，被迫去国外寻求庇护。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"My father, who had fought in the German army on two fronts in WWI, saw the writing on the wall and knew what was going to happen," Baer told us.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔说：“我父亲曾经在一战期间服役于德国军队参与两线作战，他看到了墙上的标语，意识到即将会发生的事情。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>So, he immediately began getting the paperwork together and by September of 1938 we were finally able to leave Germany. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以，他立即开始办理各种文件，到1938年9月我们终于得以离开德国。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Everybody on my father's side, except for two children, was murdered in one of the lesser known death camps outside Riga. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我父亲这边的亲属，除了两个孩子外，都在里加市外的一座几乎无人知晓的死亡集中营惨遭杀害。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The family settled in New York Cityn where Baer taught himself electronics through a National Radio Institute correspondence course. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔一家在纽约落脚，在那里拜尔通过一个国家电台函授班自学电子工程。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By his late teens Baer was servicing radios and electronic devices for two repair shops on Manhattan's Upper East Side.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在他快20岁的时候，拜尔为曼哈顿上东区的两家维修店维修无线电和电子设备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Five years later he was drafted into the U.S. Army. "I was beginning to wonder when I'd get that letter to make an appearance at the local draft board," Baer said.But I was proud to be finally part of the action. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>五年后，他应召加入美国军队，他说：“当我收到当地征兵委员会的应召信时，我开始担心，但是对于最后我能成为一名士兵我很自豪。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On one hand, I was well on my way to feeling at home in the United States. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一方面，我在适应美国生活方面还不错。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Having had my life turned upside down by Hitler was another piece of the picture.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，我的生活已经被希特勒完全颠覆。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After basic infantry training, Baer was trained in military intelligence at Fort Ritchie, along with many other Jewish draftees from Central Europe. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“经过基本的步兵训练之后，拜尔与许多其他中欧应征者一起在里奇堡的军事情报部门接受培训。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He also became an expert on both allied and German weaponry. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他还成为了盟军和德军武器的专家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After arriving in Paris following its liberation, Baer was tasked to teach thousands of allied soldiers everything there was to know about German weapons, from identification to how to fire them.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>解放并进驻巴黎后，拜尔受命将有关德国武器从识别到使用方法的知识向成千上万的盟军士兵倾囊相授。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"If I learned anything from the army it was about being able to get things done, no matter how tough the assignment, and it served me later in life," said Baer.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔说，“如果说我在军队中学到什么东西的话，那就是无论任务如何艰难，我都会尽力将其做好，这让我受益终身。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After the war Baer attended the American Television Institute of Technology in Chicago and graduated in 1949 with a Bachelor of Science degree in Television Engineering.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>战后，拜尔在芝加哥就读于美国电视技术学院并在1949年毕业，获得电视工程专业的理学学士学位。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Back in New York, he worked as an engineer designing and building surgical cutting machines and pulse generating muscle-toning equipment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>回到纽约后，他成为一名工程师，设计和制造手术切割仪器和脉冲肌肉按摩仪器。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He also designed power line carrier signaling equipment for IBM before going to work for the equipment design division at Sanders Associates, a defense contractor responsible for developing electronic surveillance and intelligence systems.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他在跳槽进入桑德斯联合公司（负责生产电子监控和信息系统的国防承包商）设计部门工作前，还为IBM公司设计了电力线载波信号仪。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He found time to get married to Dena Whinston in 1952 and start a family.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1952年，他在百忙之中与蒂娜·温斯顿结婚成家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He then worked on alpha-numeric projection displays for the better part of the 1960s, and in 1966 came up with the original concept for playing games using a home TV set. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>20世纪60年代的大多数时间，他都致力于字母数字投影显示器方面，在1966年他提出了用家用电视机玩游戏的最初观念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Baer's was the first patent application for video games in 1968, which eventually resulted in his invention of the "Brown Box" console video game system licensed to Magnavox in 1972.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1968年，拜尔的专利申请成为首个游戏专利权申请，从而最终促使他发明了名为“棕盒”的电子游戏控制系统，并于1972年授权由玛格纳沃克斯公司发行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Under Baer's supervision, the "Brown Box" became known as the Magnavox Odyssey, the world's first home video console. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在拜尔的管理下，“棕盒”以玛格纳沃克斯的奥德赛而为人知晓，成为世界上第一个家用游戏机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was on the Odyssey that one of the earliest video games, Pong, first gained its popularity.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正是在奥德赛的基础上，最早的一款电子游戏——乒乓游戏——广受欢迎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I always used to get paraded about at places like Sanders and Lockheed as an example of how broadminded they were to support individual inventors," Baer told us.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔说：“我过去总是经常夸赞像桑德斯和洛克希德这样的公司是具有拥护个体发明者宽厚之心的榜样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They didn't support us at all. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，他们根本就没有拥护我们。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was just my chutzpah and the fact that I was pretty high up on the food chain -- I had 500 technicians and engineers working for me in my division -- that I was able to do the things that I did.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我能够有今天的成就只不过是因为我的肆无忌惮和我身处食物链顶端的事实（我有500名技术人员和工程师在我的部门为我工作）。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Baer is also responsible for the first-person shooter video game to feature a light gun peripheral pointing device, used for the first time on the Odyssey's Shooting Gallery series. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔还致力于以具备外设光枪指向设备为特点的单人射击电子游戏，其首次应用是在奥德赛射击场系列游戏中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the mid-'70s Baer started R.H. Baer Consultants.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>20世纪70年代中期，拜尔成立了R.H.Baer 顾问公司。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Among many things, I invented and developed single-chip, micro-processor-controlled handheld games for Marvin Glass &amp; Associates in Chicago [toy &amp; game design group]," Baer said.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔说：“在许多发明中，我为MGA（玩具和游戏设计集团）发明和制造了单芯片、微处理器控制的手控游戏。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Perhaps his most famous invention came in 1978 when he and partner Howard J. Morrison created Simon, an electronic game based on memory skill, named after Simon Says. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>或许他最著名的发明是在1978年他和同事霍华德·J·莫里森根据记忆原理发明的电子游戏西蒙，后来被命名为“西蒙命令”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A symbol of 1980s pop culture, Simon is best known for its four colored panels, each producing a distinct tone. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为20世纪80年代流行文化的一种象征，西蒙因其四色圆盘最为著名，每种颜色的区域发出不同的色彩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The panels list up in a random order, which the player had to try to remember and then reproduce.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>圆盘以随机方式出现，这时游戏者游戏者必须记住且被要求重复发出色彩圆盘区域的顺序。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Baer has 150 U.S. and foreign patents -- a significant amount of them resulting in toys and games that eventually went into production.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拜尔拥有150项美国和国外专利，它们中的大部分最终都投入生产成为了玩具和游戏。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 2006, President George W. Bush presented Baer with the National Medal of Technology, and four years later Baer was inducted into the National Inventors Hall of Fame.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2006年，乔治·布什总统授予拜尔国家科学技术奖，四年后他入选全国发明家名人堂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When asked if he was amazed by the all of the advancements in technology in the last 50 years, Baer replied, "Who could have predicted it?" </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当被问及他是否对过去半个世纪技术领域的进步感到惊奇时，拜尔答道：“谁能够预测到呢？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But after all, the doubling speed of the semiconductor and producing a bigger size every two years was a prediction that came true. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但毕竟，双倍速度的半导体以及其每两年产生一种更大的容量的预测已成为现实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But even when you knew there were geometric changes coming along in technology, you just couldn't realize how fast everything would develop in the semiconductor industry, which is what drove everything. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是即使那时你知道技术会以几何倍数进步，你也无法意识到半导体工业中的一切将会发展的如此迅速，这种进步又推动了所有东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the graphics weren't good enough, you had to build better semiconductors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果图像未能足够好，你不得不制作更好的半导体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What's going on now with games, the iPad and iPhone is complete and absolute magic. But what is magical to you won't be magical to your kids.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现在的游戏如何？ipod和iphone简直就是不可思议，但是对你而言不可思议的东西未必对你的孩子也是如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ralph Baer may be slowing down physically, but his mind is as agile as it ever was and he's currently at work on an autobiography.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可能拜尔的身体正在衰老，但是他的思维却敏锐如常，而且正在撰写一部自传。</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,14 @@
+According to a new report (PDF) from uptime monitoring service Pingdom, Facebook and MySpace, the two largest players in the social networking market, had very little downtime in 2008. 
+Twitter, whose iconic Fail Whale adorned the service far too often at the beginning of the year, got its act together and was only down for 12 minutes in December. 
+LinkedIn, on the other hand, saw an increased rate of outages in the course of the year.
+Out of the 15 major social networks in Pingdom's study, only five achieved an uptime of 99.9% or better: Facebook (99.92%), MySpace (99.94%), Classmates.com (99.95%), Xanga (99.95%), and Imeem (99.95%).
+Twitter and LinkedIn
+Twitter saw 84% of its downtime in the first half of 2008 and suffered no major outages in the second half of the year. 
+Even though Twitter continues its rapid growth, it has clearly managed to gets its infrastructure under control.
+The reliability of LinkedIn, however, is slipping. 
+With every new quarter, LinkedIn's downtime increased. 
+Clearly, LinkedIn's continuous growth is responsible for some of these outages. 
+In terms of total hours of downtime , LinkedIn's 45.8 hours were only trumped by Twitter's 84 hours, though Friendster (43.8 hours) and Reunion.com (41.9 hours) were only marginally better off in 2008.
+Other Stats
+According to Pingdom, Reunion.com suffered the longest continuous outage, with close to 10 hours on March 29. 
+Facebook's longest continuous outage only lasted for less than half an hour.

@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T152822Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Second Lives</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别处的生活</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many parents, with admirable foresight, had their first child while they were on fellowships in the United States. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我颇有先见之明的父母在美国靠奖学金生活的时候有了他们的第一个小孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother was in public health, and my father in a library-science program. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我妈妈在读公共健康，我爸爸在读图书馆学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having an American baby was, my mother once said, like putting money in the bank. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈曾经说，生一个美国的宝宝就像是把钱存在银行一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They lived near downtown Baltimore, by the hospital where my mother was studying, in a neighborhood of dilapidated row houses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们当时住在巴尔的摩市中心附近，和妈妈上学的医院很近，旁边还有几幢荒废的住宅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Baltimore was abject, ugly, my mother said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈说，巴尔的摩又可悲又丑陋，冬天很冷，夏天像蒸桑拿一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cold in winter, a sauna in summer, a violently segregated city, full of fearful whites and angry blacks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个城市种族隔离严重，到处都是可怕的白人和愤怒的黑人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>America, in those days, had all its dirty laundry available for inspection - the world's most powerful nation making war with itself in the streets, in universities, in the South, in Vietnam, in the capital just down the road. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候，美国这个世界上最强大的国家在各个地方都深陷与自己的战争：在街道上，在大学里，在南方，在越南，在首都的马路上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet my parents set about trying to make babies: on spring nights, when they made the room smell of earth, summer nights, when the city felt like a swamp, autumn nights, falling asleep on top of the covers, winter nights, when the room boiled with sex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我父母还是想要个小孩：春夜，他们让房间布满泥土的气息；夏夜，整个城市都像沼泽一样；秋夜，他们伏在书桌上入睡；冬夜，屋里满是性爱的味道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were not newlyweds, strictly speaking, but Baltimore reenergized them, made of their pairing something indispensable, something chemical.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>严格地来说，他们不是新婚夫妇，但是巴尔的摩让他们再度迸发出活力，产生某种化学物质，让他们两个彼此无法分离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For their efforts, they were rewarded with a son, whom they named Francisco. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们的努力下，终于迎来了一个男孩，他们叫他弗朗西斯科。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The district they lived in was one of the poorest in the country at the time, and once the birth was registered my parents were entitled to free baby formula, delivered to their doorstep every Monday morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们住的地方那时是美国最穷地方，做好出生登记后，我父母就能领到免费的婴儿配方奶粉，每周一早上会放在家门口的台阶上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They found this astonishing, and later learned that many of the foreign doctors at the hospital were receiving this benefit, too, even a few who didn't yet have children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父母觉得这太令人吃惊了，后来他们发现医院其他的外国医生也有这样的福利，他们中甚至有些还没有小孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a gigantic bribe, my father said, the government pleading with its poverty-stricken residents: Please, please don't riot! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸说，这是巨额贿赂，政府在恳求那些保受贫困折磨的居民：求求你们了，不要暴动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Baltimore was adorned with reminders of the last civil disturbance: a burned-out block of storefronts, a boarded-up and untended house whose roof had collapsed after a snowstorm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>巴尔的摩有条街全部的店面都被烧毁，还有被围起来的没人管的房子，暴风雪后房顶已经塌了。这些地方点缀在城市之间就像是上次骚动的纪念品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every morning, the sidewalks were littered with shattered car windows, tiny bits of glass glinting like diamonds in the limpid sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天早上，人行道上都会有汽车碎玻璃，一小块一小块躺在地上，在清澈的阳光下闪闪发光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one used money in the neighborhood stores, only coupons; and, in lieu of birds, the skies featured plastic bags held aloft on a breeze. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>街区的商店里大家都不用现金，只用交换券；天空中也没有鸟，只有塑料袋在迎风飘扬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But none of this mattered, because my parents were happy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这些都不重要，我的父母很快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were in love and they had a beautiful boy, his photo affixed to a blue First World passport.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们很相爱还有一个漂亮的宝宝，他的照片已经盖上了代表第一世界公民身份的印章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their American moment didn't last long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的美国时光没有持续太久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They would have had another child - they would have had me - if their visas hadn't run out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不是因为签证过期，他们将迎来第二个孩子,也就是我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time my mother was done nursing Francisco, a coup had taken place back home, and the military junta that came to power was not entirely friendly with the Johnson Administration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈在家照顾弗朗西斯科的时候，祖国出现了政变，新上台的军政府对约翰逊政府不是很友好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents were required to renew their papers every eighteen months, and that year, to their great surprise, they were denied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父母需要每十八个月重新签证一次, 没想到的是，那一年他们被拒了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Appeals, they were told, could be filed only from the home country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>签证官说他们需要回国才能申请。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The university hospital wrote a letter on my mother's behalf, but this well-meaning document vanished into some bureaucrat's file cabinet in suburban Virginia, and it soon became clear that there was nothing to be done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大学医院为母亲写了封信求情，但是这封信不知道消失在弗吉尼亚郊区哪个官僚组织成员的文件箱里了。很快我父母就发现他们对此无能为力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than be deported - how undignified! - my parents left of their own accord.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被驱逐出境多丢脸，所以他们选择了自己离开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then their gaze turned, back to their families, their friends, the places they had known, and those they had forgotten they knew. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来他们把目光投向了他们的家人，他们的朋友，他们熟悉的地方，还有他们已经忘记的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They bought a house in a suburb of the capital, where I was raised, an out-of-the-way place that has since been swallowed entirely by the city's growth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在首都的郊区、也就是被城市扩张完全吞噬的的偏僻地带买了栋房子（我就是在那长大的）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess they lost that old Baltimore feeling, because I wasn't born for another seven years, a crying, red-faced bit of flesh, a runt, undersized even then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管那时我还是一个爱哭脸又红的小东西，但我猜他们当时已经失去了在巴尔的摩的感觉，因为过了七年了我才出生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No blue passport for me, but they consoled themselves by giving me an Anglo name, Nelson, which was the fashion at the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有蓝色的护照，但他们给了我一个英国名字“尼尔森”来自我安慰。这个名字在当时正流行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eventually, I got my Third World passport, the color of spilled red wine, but it was just for show. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终，我有了第三世界的护照，护照外壳和漏了的红酒一个颜色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still haven't had a chance to use it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个护照只能拿来看看，我还没有机会用它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Francisco, of course, fled at the first opportunity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，圣弗朗西斯科一有机会就跑掉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was January, 1987, the situation was bleak, and leaving was the most logical thing to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1987年1月局势还不容乐观，离开是最理智的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was ten years old; the idea was that he'd get me a visa and I'd join him as soon as I finished school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我十岁，我们当时的想法是哥哥会帮我弄到签证，我一完成学业就去和他团聚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We went as a family to see him off at the airport, took the obligatory photographs in front of the departures board, and waved as he passed through security. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们像一家人一样去机场为他送别，在航班信息牌前拍了照，安检的时候我们向他挥手道别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He promised to write. He promised to call. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他答应我们会写信回来，他答应我们会给我们打电话，他最后消失在机场大厅里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He disappeared into the terminal, and then we climbed the stairs to the greasy restaurant above the baggage claim, where we sat by the wall of windows, waiting for a plane that looked like it might be my brother's to take off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们上了楼梯，进到领取行李处楼上油腻腻的餐馆，坐在窗边，等着哥哥可能乘坐飞机起飞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father drank coffee, fogged his glasses with his breath and polished the lenses between the folds of his dress shirt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸点的是咖啡，他吐了口气，眼镜蒙上了层雾，然后他又折起衣角把雾擦干净。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother drew a palm tree on a paper napkin, frowning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈皱着眉头，在餐巾纸上画着棕榈树。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I fell asleep with my head on the table, and when I woke up the janitor was mopping the floor beside us, wondering, perhaps, if we ever intended to leave.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我趴在桌子上睡着了。等我醒来的时候门卫正在我们旁边擦地板，他可能很疑惑我们怎么还不打算离开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother went to live with the Villanuevas, old friends of my parents from their Baltimore days, who'd settled in Birmingham, Alabama. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哥哥在美国和维拉努埃瓦一家住在一起，他们是我父母在巴尔的摩时的老朋友，现在在阿拉巴马州的伯明翰定居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His first letter was three handwritten pages and began with a description of winter in the Southern United States. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哥哥的第一封信写了三页，一开始描述了美国南方的冬天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That year, the Alabama rains fell almost without pause until the middle of March, a soggy prelude to an even wetter spring. For Francisco, unaccustomed to this weather, the thunderstorms were impressive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那一年的三月，阿拉巴马的雨几乎没有停过，仿佛是在为更加潮湿的春天演奏序曲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Occasionally, there'd be a downed power line, and sometimes the lights would go out as a result. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电线有时会掉落，电灯有时会因此熄灭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was in this familiar darkness, Francisco wrote, that he'd first felt homesick.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种熟悉的黑暗中，弗朗西斯科写到，他第一次体会到思乡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second half of the letter dealt more specifically with the routines of family life at the Villanuevas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>信的后半段更详细地描绘了维拉努埃瓦一家的日常生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where they lived wasn't a neighborhood so much as a collection of houses that happened to face the same street. Kids were permitted to play in the back yard or in the driveway, but never in the front yard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们住的街区甚至还称不上是一排面对着同一条马路的房子，孩子们可以在后院或者车道上玩，但是不允许去前院玩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one could explain why, but it simply wasn't done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人解释为什么，但这是不是随便规定的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People moved about only in cars; walking was frowned upon, socially acceptable for children, perhaps, if they happened to be accompanied by a dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们出行只开车，步行是不好的，如果小孩出门带着狗还可以接受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Villanuevas did not have pets. Nor was there anywhere to walk to, really. A two-pump gas station sat about a mile away on Highway 31; its attractions included a pay phone and a magazine rack.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>维拉努埃瓦一家没有养宠物，事实上也没什么地方好去，三十一号公路外有个有两个泵的加气站，那吸引人的地方在于有付费电话和期刊架。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Villanueva children, Marisa and Jack, ages fifteen and ten, respectively, made it clear from the outset that they spoke no Spanish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>维拉努埃瓦家的小孩一个叫玛丽莎一个叫杰克，一个十五岁一个十岁，他们一开始就清楚地表明自己不说西班牙语，对西班牙语也不感兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The language didn't interest them much, and their father, who insisted that my brother call him Julio and not Mr. Villanueva, considered this his greatest failing as a parent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坚持让我哥哥叫他胡里奥而不是维拉努埃瓦先生的爸爸认为这是他作为家长最大的失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was his fault, he confessed to Francisco, for marrying an American woman. In general terms, though, things were good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对弗朗西斯科承认说，和美国女人结婚是个错误，尽管总的来说事情都还不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Speaking English with the Villanueva kids, while challenging at first, helped my brother learn the language faster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用英语和维拉努埃瓦家的小孩讲话尽管一开始是个挑战,但是能帮助我哥快点学会英文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At school, not a soul spoke Spanish, not even Se?ora Rickerts, the friendly, well-intentioned Spanish teacher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学校，没有一个人说西班牙语，连好心的西班牙语老师里克思夫人也不说西班牙语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Francisco was not enrolled with Marisa, as had originally been planned. She went to an expensive private school, which would not permit Francisco to audit classes, so instead the Villanuevas sent him to Berry, the local public high school, with the hicks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和一开始计划的一样，弗朗西斯科没有和玛丽莎一起登记入学，玛丽莎上的是昂贵的私立学校，不允许弗朗西斯科旁听，因此维拉努埃瓦把他送进了当地的一所公立高中贝理，和乡巴佬做同学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This last word, Francisco explained, was the rough English equivalent of campesino or cholo, only it referred to rural white people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗朗西斯科解释说“乡巴佬”这个词和“庄稼汉”是一个意思，是英语中一种粗俗的说法，不过它只指农村的白人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd learned it from Marisa, and had been advised by Mr. Villanueva never to use it if he wished to make friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说他从玛丽莎那学的这个词。维拉努埃瓦先生告诉他如果想和谁做朋友千万别用这个词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father found this part of the letter very amusing. How remarkable, he said, that Villanueva's daughter spoke no Spanish but had somehow imported her father's classism to North America! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸爸觉得信的这部分很有意思，他说，这多反常啊，维拉努埃瓦的女儿不说西班牙语，但是从他爸爸那学会了歧视南美人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How ironic, my father noted, that his own son should learn proletarian solidarity in the belly of the empire!
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己的儿子应该学习无产阶级在国王面前团结起来，这多讽刺啊，爸爸说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents read and reread the letter at the dinner table, alternately laughing and falling into worried silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸妈在餐桌上把这封信念了一遍又一遍，有时候哈哈大笑有时候又陷入闷闷不乐的沉默之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the early months, I recall them wondering aloud if they'd made a mistake by sending him away like this. Whose idea had it been? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在最初的几个月里我记得他们还会唠叨就这样把弗朗西斯科送走会不会是个错误，这到底是谁的主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And where was Birmingham, anyway? Was it a city or a town? What kind of school was this place called Berry?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有，伯明翰到底在那？它是个城市还是个小镇？这个叫贝理的地方又是什么样的学校？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They wrote back, urging Francisco to send photos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们写了回信，让弗朗西斯科寄照片回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A month passed, and the next letter arrived with a single picture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个月之后，第二张信连同一张照片寄了回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We saw Francisco with an umbrella and a yellow raincoat, standing next to the mailbox in front of the Villanuevas' house, a dense knot of purple clouds above. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照片上弗朗西斯科打着伞穿着黄色的雨衣站维拉努埃瓦门前的邮箱旁，而天空上飘着浓浓的紫色云彩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The front yard sloped dramatically, and Francisco stood at an odd slant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前院地势很陡，弗朗西斯科站着的角度很奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd put on a little weight - you could see it in his cheeks - and his hair had grown out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他长胖了一点——从他脸颊可以看出来——头发也长长了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His face was changing, my mother said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈说，他的脸在变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was growing up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还在长大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By his third letter, the winter rains had become spring rains, which were the same, only warmer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他寄回第三封信的时候，冬雨已经变成了春雨。这两个没什么区别，就是春雨更暖和点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Storms spread like inkblots across the sky. On sunny days after a rain, the woods behind the Villanuevas' subdivision looked as if they'd been dipped in light. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>风暴像墨迹般散布在天空中，维拉努埃瓦家后面的树林仿佛沐浴在阳光之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone said that it was an unusually wet year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都知道这是异常潮湿的一年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Francisco didn't mind - he was fascinated by the weather. It was everything else that bored him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗朗西斯科对此并不介意，他被这种天气深深吸引，其他的一切都让他心烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His great disappointment that spring was that he'd tried out for the Berry High soccer team, and spent three games on the bench, watching the action unfold without him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>春天里最让他沮丧的就是他参加了三次校足球队的选拔，三次比赛都是坐在板凳上看着其他队员在场上奔跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd quit in protest, and, to his surprise, no one had begged him to come back. They hadn't even noticed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他退出球队以示抗议，但是出乎他意料的是没有人求他回来，他们甚至都没注意到他走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Americans, he wrote, have no understanding of the game. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他写道，美国人对足球一窍不通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The issue was not mentioned again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个事情之后再也没有提过了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the fourth letter, the weather had turned; breezy, pleasant stretches were punctuated now and then by days of blasting heat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他第四封信寄到的时候天气又变了：微风徐徐的好天气时不时被热浪打断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>School would be over soon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这学期很快就要结束了，他不再抱怨学校和那些口音完全没法懂的同学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He no longer complained about Berry or his classmates, whose dialect he could barely understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，他有点融入其中了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he seemed to have settled in. Each week, Francisco went to the Spanish class and led conversation exercises with his American peers, and several of them had sought him out for further instruction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个星期他都会去上西班牙语课领导与美国同学的谈话练习，还有几个同学找到他要求进一步的指导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An exchange student from Mexico City had spent time at Berry the previous year, seducing Alabama girls and confounding deeply held stereotypes - he didn't wear a poncho, for instance, and was apparently sincere in his love of punk music. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去年贝理有个从墨西哥城来的交换生引诱了一个阿拉巴马女孩，完全打乱了人们对墨西哥人的固有印象：比如，他没有穿南美披风，极度喜欢庞克音乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd also left behind a folkloric legacy of curse words: panocha, no manches, and pinche guey. Francisco wrote that he considered it his responsibility to teach these poor gringos to curse with dignity, and this was, as far as he could tell, the only linguistic knowledge they truly thirsted for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还留下了一条民间流传的咒语：panocha, no manches, and pinche guey（咒语为西班牙语，意思是“软糖，我的屁股，他妈的猪头。”）弗朗西斯科写到，他觉得自己有责任教会这些可怜的外国人如何有尊严的念咒语。就他看来，这些是他们唯一真正渴望了解的语言知识了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He introduced them to important words, words like mierda, culo, and pendejo, while offering the more advanced students a primer on the nearly infinite uses of huevo (huevon, hasta las huevas, hueveo, huevear, se hueveo la huevada). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他教他们了一些重要的词，例如mierda（狗屎），culo（屁股）、pendejo（笨），还为水平更高的学生提供了huevo（鸡蛋）这个词语无数种使用方法（都是骂人的）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents were proud: "Our son the educator," they said. Photos included with this letter were of nearby Lake Logan Martin, where the Villanuevas had a weekend house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父母对此很骄傲，他们说“我们的儿子是教育家啊。”和这封信一起寄来的照片是在马田卢根湖附近拍的，维拉努埃瓦家在那有个度假别墅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sun glinting off the water, bathing suits hanging on a line, barefoot games of Frisbee in the freshly mowed grass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照片里，阳光投在湖面上让水面闪闪发亮，泳衣晾在一条绳子上，孩子们在刚修剪好的草坪上光着脚玩飞盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In summer, Francisco might learn to water-ski.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夏天弗朗西斯科可能会学滑水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was the first letter in which he forgot to ask us how we were.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是第一次在他信里忘了问我们好不好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That year - the only year he consistently wrote to us - the photos were mostly of Francisco by himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也只在这一年里一直给我们写信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Occasionally, he'd pose with the Villanuevas: Julio, his wife, Heather, and their two dark-haired, olive-skinned children, who really looked as though they should speak some Spanish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一年的照片大多是弗朗西斯科一个人的，有时候他也会和维拉努埃瓦一家——胡里奥、她的妻子海瑟、和他们两个深色头发橄榄色皮肤的孩子一起拍照。这两个孩子看起来多像是会说西班牙语的啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, Francisco sent a photo of the Berry High gymnasium, which was notable only for its size. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一次，弗朗西斯科给我们寄来背贝理高中体育馆的照片，只从大小上看就很可观了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The entire high school, he wrote, would soon be razed and replaced by an even bigger complex farther out in the suburbs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在信里说，郊区要修更大规模的综合设施，整个学校会被移为平地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone was excited about this, but he wouldn't be around to see it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都因此感到兴奋，但是他没法亲自见证这个了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

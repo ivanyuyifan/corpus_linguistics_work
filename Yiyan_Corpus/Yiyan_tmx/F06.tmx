@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T050005Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THIS OLD MAN: Life in the nineties</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耄耋老人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Check me out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看看照片里的我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The top two knuckles of my left hand look as if I'd been worked over by the K.G.B. No, it's more as if I'd been a catcher for the Hall of Fame pitcher Candy Cummings, the inventor of the curveball, who retired from the game in 1877. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我左手上面的两个关节看上去就像是曾被克格勃的特工殴打过一样。不，那更像是我曾为名人堂的投手坎迪·卡明斯做过捕手一样，那个家伙是曲线球的发明者，在1877年的比赛后就退役了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To put this another way, if I pointed that hand at you like a pistol and fired at your nose, the bullet would nail you in the left knee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换句话说，如果我用这只手像手枪一样的指着你，然后朝你的鼻子开火，那么子弹只会打中你的左膝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arthritis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，我患有关节炎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, still facing you, if I cover my left, or better, eye with one hand, what I see is a blurry encircling version of the ceiling and floor and walls or windows to our right and left but no sign of your face or head: nothing in the middle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如现在我仍然面对着你，如果我用手蒙起左眼，我左眼的情况会稍好点，那么我就会看到在我们的四周都是模糊不清的天花板，地板，墙壁或是窗户的影像，而且我还看不到你的脸或是脑袋：中间的部分什么也看不到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But cheer up: if I reverse things and cover my right eye, there you are, back again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是没关系：如果反过来，蒙住我的右眼，那么我就能看见你了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I take my hand away and look at you with both eyes, the empty hole disappears and you're in 3-D, and actually looking pretty terrific today. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我拿开我的手用两只眼睛看你，那么空洞的画面就消失了，你的形象是3D立体的了，而且不得不说，你今天看上去光彩照人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Macular degeneration.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，我患有黄斑变性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm ninety-three, and I'm feeling great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我九十三岁了，而且感觉不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, pretty great, unless I've forgotten to take a couple of Tylenols in the past four or five hours, in which case I've begun to feel some jagged little pains shooting down my left forearm and into the base of the thumb. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，我感觉非常好，除非在过去的四到五个小时之内我忘记了吃两片泰诺（Tylenol），若真是如此，那么现在我就会开始感到有针刺一般的疼痛从我的前臂一直蔓延到拇指根部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shingles, in 1996, with resultant nerve damage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，1996年我被确诊患有带状疱疹，还伴有神精性损伤的病发症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like many men and women my age, I get around with a couple of arterial stents that keep my heart chunking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像许多我这个年纪的人们一样，我要让自己的身体不排斥那些使我的心脏还能笨拙地跳动的动脉支架。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also sport a minute plastic seashell that clamps shut a congenital hole in my heart, discovered in my early eighties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且，即便是在八十年前确诊了我患有先天性卵圆孔未闭情况下，我平常也会用贝壳机锻炼一分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surgeon at Mass General who fixed up this PFO (a patent foramen ovale - I love to say it) was a Mexican-born character actor in beads and clogs, and a fervent admirer of Derek Jeter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那位出生在墨西哥的麻省总医院的外科医生为我做了手术，修复了我的PFO（未闭卵圆孔——我喜欢那么说），他是个疱疹及血栓梗塞类疾病方面的专家。他也是美国职棒大联盟德瑞克·山德森·基特的超级粉丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Counting this procedure and the stents, plus a passing balloon angioplasty and two or three false alarms, I've become sort of a table potato, unalarmed by the X-ray cameras swooping eerily about just above my naked body in a darkened and icy operating room; there's also a little TV screen up there that presents my heart as a pendant ragbag attached to tacky ribbons of veins and arteries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>算上这个手术和这些支架，加上气囊血管成形术和两三次虚惊一场病危通知，我已然成了“餐桌上的小土豆”了，在黑暗冰冷的放射室里，X光从我赤裸裸的身体上一照而过，毫无征兆。由于粘在我静脉和动脉上的软管连接到一个下垂式的袋子里，所以在我的上方的显示屏上能显示我的心跳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But never mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是没关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowadays, I pop a pink beta-blocker and a white statin at breakfast, along with several lesser pills, and head off to my human-wreckage gym, and it's been a couple of years since the last showing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今我每天早上都会为早餐准备好粉红色的β-受体阻滞剂和一片白色的斯达汀（statin）还有几片其他的药丸。并且去我这个“人体残骸”报过名的健身房，距离我上一次去那里已经有好些个年头了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My left knee is thicker but shakier than my right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比起我的右膝，我的左膝更加粗壮但是抖得也更加厉害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I messed it up playing football, eons ago, but can't remember what went wrong there more recently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是因为我曾今踢过球的缘故，感觉就像是几个世纪以前的事了，而且最近越来越记不起来当时到底是怎样落下了这个病根。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a date to have the joint replaced by a famous knee man (he's listed in the Metropolitan Opera program as a major supporter) but changed course at the last moment, opting elsewhere for injections of synthetic frog hair or rooster combs or something, which magically took away the pain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只记得那天一位著名的治疗膝关节的大夫要为我做关节置换手术（他是大都会歌剧团的忠实支持者之一）但是最后时刻我改变了主意，赛前去场边的某个地方注射一些青蛙头发（frog hair）或是金鸡尾（rooster combs）的止疼封闭剂，那些东西可以极大地缓解疼痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walk around with a cane now when outdoors - "Stop brandishing!" I hear my wife, Carol, admonishing - which gives me a nice little edge when hailing cabs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而现在我每次外出的时候都必须拐杖——“别再吹嘘了！”我听到了我妻子卡罗尔的爱怜地责备声——这让我每次搭出租车的时候都会受到额外的关照。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lower-middle sector of my spine twists and jogs like a Connecticut county road, thanks to a herniated disk seven or eight years ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我脊椎的中下段弯曲变形的就像是康涅狄格州的乡间小路一样，这都是拜七八年前的腰椎间盘突出所赐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This has cost me two or three inches of height, transforming me from Gary Cooper to Geppetto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这让我矮了两三英寸，一下子从贾利·库珀变成了盖比特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After days spent groaning on the floor, I received a blessed epidural, ending the ordeal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>躺在床上痛苦地呻吟了几天以后，我终于接受了令我脱离苦海的硬膜外麻醉了，它让我如释重负。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can sit up now," the doctor said, whisking off his shower cap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在你可以坐起来了”医生说到，一边还在整理着他的手术帽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Listen, do you know who Dominic Chianese is?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听着，你知道多米尼克·查尼斯吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Isn't that Uncle Junior?" I said, confused. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是不是那个年轻的叔叔克拉多-瑟普拉诺？”我问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know - from 'The Sopranos'?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，就是《黑道家族》里的那个？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的”他回答道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He and I play in a mandolin quartet every Wednesday night at the Hotel Edison. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“每个星期三的晚上我和他都会在酒店演奏曼陀铃四重奏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you think you could help us get a listing in the front of The New Yorker?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能不能把这件事登上纽约时报的头条呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've endured a few knocks but missed worse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我虽然已经承受了一些打击，但庆幸的是我并没有经历过那些更糟的磨难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know how lucky I am, and secretly tap wood, greet the day, and grab a sneaky pleasure from my survival at long odds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道自己是何其幸运，我还能有空闲敲敲我的老式打字机，我还能感恩现在的生活，也还能享受我为数不多的日子里的点点滴滴的快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pains and insults are bearable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>痛苦和折磨是能忍受的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My conversation may be full of holes and pauses, but I've learned to dispatch a private Apache scout ahead into the next sentence, the one coming up, to see if there are any vacant names or verbs in the landscape up there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的话语可能很是空洞而且时常会有停顿，但是我已经学会了使用Apache服务器来检查我写的下一句话，来看看句子里是否有一些与语境不协调的名字或是动词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he sends back a warning, I'll pause meaningfully, duh, until something else comes to mind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果它像我发出警报，那么我就会若有所思地停下来直到我想到能代替它们的词语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the other hand, I've not yet forgotten Keats or Dick Cheney or what's waiting for me at the dry cleaner's today. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一方面，我并没有忘记济慈，迪克·切尼也并没有忘记今天要去干洗店取什么衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As of right now, I'm not Christopher Hitchens or Tony Judt or Nora Ephron; I'm not dead and not yet mindless in a reliable upstate facility. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是现在，我不是克里斯托弗·希金斯，东尼·贾德或是诺拉·依弗朗；我还没死也不会不暇思索的就隐居到远离城市的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decline and disaster impend, but my thoughts don't linger there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以后我会越来越虚弱，最后的日子也将会到来，但是我的心思并不在这上面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It shouldn't surprise me if at this time next week I'm surrounded by family, gathered on short notice - they're sad and shocked but also a little pissed off to be here - to help decide, after what's happened, what's to be done with me now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果下周我的家人们将我包围，制定一份短的通告——他们会伤心震惊但是还有点小生气——来决定，在我死后，该如何安排后事，那么我一点也不会惊讶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It must be this hovering knowledge, that two-ton safe swaying on a frayed rope just over my head, that makes everyone so glad to see me again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不得不承认的是，在我头顶上方的那个两吨重的除颤器在帮我进行心肺复苏，这让每个人都觉得能再次见到我很高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How great you're looking! Wow, tell me your secret!" they kindly cry when they happen upon me crossing the street or exiting a dinghy or departing an X-ray room, while the little balloon over their heads reads, "Holy shit - he's still vertical!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你看起来好极了！哇，告诉我你保养的秘方！”当他们在过马路，划船或是离开放射室碰见我的时候都会这么说，而现在他们的脑海里只浮现出一句话，“天哪——他还活着！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let's move on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>继续我们的话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A smooth fox terrier of ours named Harry was full of surprises. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们养的一只名叫哈利的温顺的猎狐犬总是带给我们很多惊喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wildly sociable, like others of his breed, he grew a fraction more reserved in maturity, and learned to cultivate a separate wagging acquaintance with each fresh visitor or old pal he came upon in the living room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如猎狐犬的天性一样，它是个十足的人来疯，永远长不大。每次有生人或是老朋友来，它都会跑到人家的卧室里去摇摇尾巴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If friends had come for dinner, he'd arise from an evening nap and leisurely tour the table in imitation of a three-star headwaiter: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果有朋友来吃晚饭，它会立马不再小睡了，煞有介事地走到饭桌旁然后就像一位三星级领班服务生那样示意到：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything O.K. here? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天的菜色还和您的胃口吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is there anything we could bring you? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有什么我能为您效劳的呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How was the creme brulee? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这道法式焦糖布丁味道怎么样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terriers aren't water dogs, but Harry enjoyed kayaking in Maine, sitting like a figurehead between my knees for an hour or more and scoping out the passing cormorant or yachtsman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常来说猎狐犬是不识水性的，但是哈利却非常的享受在缅因州划皮艇的时光，那时它像船头的塑像一样坐在我的膝盖上至少一个小时，打量着天空飞过的鸬鹚或是划船的桨手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Back in the city, he established his personality and dashing good looks on the neighborhood to the extent that a local artist executed a striking head-on portrait in pointillist oils, based on a snapshot of him she'd sneaked in Central Park. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到市区以后，它立马变得个性十足，在邻里之间都摆出一副时髦的样子以至于一个当地的艺术家为它画了一幅正脸的点彩肖像画。画中的场景就是那个女艺术家偷偷溜进中央公园偷拍它的一张照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harry took his leave (another surprise) on a June afternoon three years ago, a few days after his eighth birthday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈利在三年前的六月的一个下午死去了（这是它带来的另一个惊喜），就在它过完八岁生日后的几天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alone in our fifth- floor apartment, as was usual during working hours, he became unhinged by a noisy thunderstorm and went out a front window left a quarter open on a muggy day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像往常我工作的时候一样，它独自呆在我们位于五楼的公寓里，那天吵杂的雷声让它变得不安，抓狂，在闷热焦躁下，它从一个开了四分之一的前窗中跳了出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew him well and could summon up his feelings during the brief moments of that leap: the welcome coolness of rain on his muzzle and shoulders, the excitement of air and space around his outstretched body.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我非常了解它所以我能感受到它跳出窗外的一瞬间的感觉：冰冷的雨水打在它的嘴巴和四肢上，刺冷的气流将它的奔跑中的身体包围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here in my tenth decade, I can testify that the downside of great age is the room it provides for rotten news. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我来到了生命中的第十个十年，我真切地感受到生命的衰落就是因为岁月在流逝中不断地带给我们噩耗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Living long means enough already. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>活的长久只是意味着你对这些噩耗早已做好了准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Harry died, Carol and I couldn't stop weeping; we sat in the bathroom with his retrieved body on a mat between us, the light-brown patches on his back and the near-black of his ears still darkened by the rain, and passed a Kleenex box back and forth between us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当哈利死后，我和卡罗尔以泪洗面，我们坐在浴室里看着被找回的它的尸体静静地躺在我们之间的一条小席子上，它背上略带棕色的斑点和近乎黑色的眼睛即便是沾上了雨水也仍然是暗暗的。我们相互递着纸巾盒，眼泪始终止不住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not all the tears were for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不单单只是因为哈利的死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two months earlier, a beautiful daughter of mine, my oldest child, had ended her life, and the oceanic force and mystery of that event had not left full space for tears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个月前，我的漂亮的大女儿终结了自己的生命，因为她的死而激起的巨大的打击和无数的不解完完全全汇聚成了眼泪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now we could cry without reserve, weep together for Harry and Callie and ourselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我们不用再掩饰，可以尽情地哭泣尽情地发泄了，因为哈利，因为我们的女儿卡莉，也因为我们自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Harry cut us loose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是哈利让我们得到了解脱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few notes about age is my aim here, but a little more about loss is inevitable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我写这篇文章的目的是分享一些关于岁月的启示，这样我就不得不提及失去这个话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Most of the people my age is dead. You could look it up" was the way Casey Stengel put it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用凯西·史坦格的话说就是“大多数我这个年纪的人都已经去世了。这会让你开始审视死亡。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was seventy-five at the time, and contemporary social scientists might prefer Casey's line delivered at eighty-five now, for accuracy, but the point remains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说这话的时候七十五岁，但是那个时代的社会学家们觉得这句话来形容八十五的他更为合适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We geezers carry about a bulging directory of dead husbands or wives, children, parents, lovers, brothers and sisters, dentists and shrinks, office sidekicks, summer neighbors, classmates, and bosses, all once entirely familiar to us and seen as part of the safe landscape of the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像我们这样的糟老头子都会有一本日渐膨胀的死神名册，上面有我们已故的丈夫，妻子，孩子，父母，情人，兄弟姐妹，甚至私人牙医，心理医生，同事们，夏日度假时的邻居好友，同学还有我们的上司，所有那些我们曾今的家人们和出现在我们生命中的常客们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's no wonder we're a bit bent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也难怪我们心里会有一点扭曲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The surprise, for me, is that the accruing weight of these departures doesn't bury us, and that even the pain of an almost unbearable loss gives way quite quickly to something more distant but still stubbornly gleaming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，惊喜的是这些生离死别并没有把我压得喘不过气来，而且即便是那些几乎无法接受的失去也会马上被那些更遥远但是仍然闪着光亮的希望所取代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dead have departed, but gestures and glances and tones of voice of theirs, even scraps of clothing - that pale-yellow Saks scarf - reappear unexpectedly, along with accompanying touches of sweetness or irritation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>逝者已逝，但是他们的音容笑貌甚至是平常的穿衣打扮——那条淡黄色的萨克斯（Sakes）的围巾——时不时地又会在我脑海里浮现，还伴随着他们喜怒哀乐的情愫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our dead are almost beyond counting and we want to herd them along, pen them up somewhere in order to keep them straight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们身边逝去的人们似乎数都数不过来，我们希望能牢记他们，将他们葬在我们心底的某个地方让他们安息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I like to think of mine as fellow-voyagers crowded aboard the ?le de France (the idea is swiped from "Outward Bound"). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把我已故的亲朋好友们取名叫做“朋党巡游者”，他们都挤在?le de France （这个主意来自于“去往远方的游船旅人们”）的甲板上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's my father, still handsome in his tuxedo, lighting a Lucky Strike. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里我的父亲穿着他的无尾礼服仍然很英俊，点燃一支好彩牌（Lucky Strike）香烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's Ted Smith, about to name-drop his Gloucester home town again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看，泰迪·史密斯又在滔滔不绝地赞美他的家乡格洛斯特（Gloucester）了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here comes Slim Aarons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯林姆·亚伦斯也过来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's Esther Mae Counts, from fourth grade: hi, Esther Mae. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我四年级的同学埃斯特·梅·康茨：你好，埃斯特·梅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's Gardner - with Cecille Shawn, for some reason. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不知为什么，加德纳和赛西尔·肖恩一起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's Ted Yates. Anna Hamburger. Colba F. Gucker, better known as Chief. Bob Ascheim. Victor Pritchett - and Dorothy. Henry Allen. Bart Giamatti. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有泰迪·耶茨，安娜·汉伯格，科尔巴F·加克，他的外号是“鲍勃·阿莎姆厨师”，维克多·普里切特——和多萝西，亨利·艾伦，巴特·加马提。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My elder old-maid cousin Jean Webster and her unexpected, late-arriving Brit husband, Capel Hanbury. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的老姑娘表亲简·文伯斯特和他姗姗来迟的丈夫卡佩尔·汉伯利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kitty Stableford. Dan Quisenberry. Nancy Field. Freddy Alexandre. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯蒂·斯坦布福德，丹·奎森伯利，南希·菲尔德，弗拉德·亚历山大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I look around for others and at times can almost produce someone at will. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我拼命地搜寻其他人的踪影，每次我总能如愿以偿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Callie returns, via a phone call. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡莉给我回了通电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Dad?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“爸爸？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's her, all right, her voice affectionately rising at the end - "Da-ad?" - but sounding a bit impatient this time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是她，没错，她的声音温婉柔情——“爸爸，是你吗？”——但是这次有点不耐烦了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's in a hurry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听上去她正赶时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And now Harold Eads. Toni Robin. Dick Salmon, his face bright red with laughter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我脑海里搜索到了伊兹·哈罗德，托尼·罗宾，狄克·歇尔蒙，狄克面色红润带着笑容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Edith Oliver. Sue Dawson. Herb Mitgang. Coop. Tudie. Elwood Carter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有伊迪丝·奥利弗，苏·道森，赫伯·米特冈，库普·图迪和埃尔伍德·卡特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These names are best kept in mind rather than boxed and put away somewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祭奠他们的最好方式是记住这些名字而不是将他们封存在心底的某个地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Old letters are engrossing but feel historic in numbers, photo albums delightful but with a glum after-kick like a chocolate caramel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以前的信件很吸引人但也有种沧桑的代入感，老照片的画面很美好但是也会像巧克力焦糖嚼过之后那般粘稠惹人烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Home movies are killers: Zeke, a long-gone Lab, alive again, rushing from right to left with a tennis ball in his mouth; my sister Nancy, stunning at seventeen, smoking a lipstick-stained cigarette aboard Astrid, with the breeze stirring her tied-up brown hair; my mother laughing and ducking out of the picture again, waving her hands in front of her face in embarrassment - she's about thirty-five. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以前的家庭录影带简直就是个刽子手：齐克，一个很久没在我脑海里出现过的人了，如今我又看到他了。那时他用嘴含住网球左右的来回奔跑；我的妹妹南希，叛逆的十七岁，抽着女士香烟就像活脱脱一个异国的阿斯特丽德·伯格斯·弗瑞斯贝的模样，微风拂过她盘起头发而露出的棕色发梢；我的母亲一边笑着一边一脸尴尬地挥着手遮住自己的脸不愿拍照——她那时大概35岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Me sitting cross-legged under a Ping-Pong table, at eleven. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有我盘着腿坐在乒乓球桌上，那年我十一岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take us away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>岁月把回忆中的我们带向远方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My list of names is banal but astounding, and it's barely a fraction, the ones that slip into view in the first minute or two. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我列的人名有些空洞乏味但令人惊讶的是，这仅仅只是一小部分而已，只是一瞬间窜进我脑海里的人而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyone over sixty knows this; my list is only longer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个年过六十的人都知道这回事；我要列的名单只会越来越长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't go there often, but, once I start, the battalion of the dead is on duty, alertly waiting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我通常不会去搜索记忆，但是一旦我开始回忆了，那些曾今活灵活现的人们都会紧急待命随时等待着我的召唤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why do they sustain me so, cheer me up, remind me of life? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么每次他们能听从我的召唤，为什么他们能让我振作，为什么他们能让我唤起对生活的希望？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't understand this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道答案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why am I not endlessly grieving?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么我不会陷入无尽的悲伤？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I've come to count on is the white-coated attendant of memory, silently here again to deliver dabs from the laboratory dish of me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所能知道的是参加过的葬礼的记忆和沉寂之后又要吞下的各种药片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the days before Carol died, twenty months ago, she lay semiconscious in bed at home, alternating periods of faint or imperceptible breathing with deep, shuddering catch-up breaths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十个月以前卡罗尔过世了，在过世前的几天里她一直意识模糊地躺在家中的床上，她的呼吸时而虚弱无力，时而颤栗的上气不接下气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, in a delicate gesture, she would run the pointed tip of her tongue lightly around the upper curve of her teeth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后她做了一个细微的动作，她将她的舌尖轻轻地抵了抵上排的牙齿。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

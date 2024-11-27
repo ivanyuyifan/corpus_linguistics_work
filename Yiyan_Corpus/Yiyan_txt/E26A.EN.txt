@@ -1,0 +1,39 @@
+How to Protect Your Privacy on Public WiFi Networks 
+So you're at your favorite coffee shop and have hopped on to the free WiFi with your tablet to check your social networks, read the latest news, and maybe take a quick peek at your bank balance while you're enjoying your latte. 
+We're so used to having Internet access whenever and wherever we need it that we don't often stop to consider whether logging into a public network is safe.
+To find out just what the risks were, we consulted Con Mallon, a mobility expert with Symantec. 
+"For lot of people, the first thing they do when they wander into a coffee shop or hotel lobby or the airport is to flip on their WiFi and try to find a free hotspot rather than use your own data plan or buying time from a hotspot," Mallon says.
+There are three major ways these free, open hotspots could get you into trouble, he explains.
+The risks of free WiFi 
+Using public WiFi isn't unlike having a conversation in a public place: Others can overhear you. 
+If you don't take precautions, information your devices send over a public WiFi network goes out in clear text -- and anyone else on the network could easily take a look at what you're doing with just a few simple software tools.
+Someone spying could easily pick up your passwords or other private information. 
+If you use the same password on multiple sites, that could be a big problem. 
+Mallon reports that this is the biggest concern with public hotspots.
+The next potential problem is what Mallon calls a honeypot. 
+Thieves might set up their own WiFi hotspot with an unassuming name like "Public WiFi" to tempt you to connect so they can grab up any data you send. 
+These are easy to set up without any kind of special equipment -- it could be done just using a laptop or smartphone -- so you could run into them anywhere. 
+Mallon couldn't say just how common these honeypots are, but news reports about honeypots pop up once or twice a year.
+Finally, using public WiFi puts you at risk for session hijacking, in which a hacker who's monitoring your WiFi traffic attempts to take over an open session you have with an online service (like a social media site or an email client) by stealing the browser cookies the service uses to recognize who you are. 
+Once hackers have that cookie, they can pretend to be you on these sites or even find your login and password information stored inside the cookie.
+How to stay safe on public WiFi 
+Before you connect, be sure you know whose network you're connecting to so you don't fall prey to WiFi honeypots. 
+If you're not sure what the public network at a business is called, ask an employee before connecting.
+Check to make sure your computer or smartphone is not set up to automatically connect to unknown WiFi networks -- or set it to ask you before connecting -- so you're sure you know what you're connecting to when you connect.
+Make sure to connect to websites via HTTPS, which encrypts anything you send and receive from the website. 
+While a VPN service encrypts everything you send, HTTPS ensures that communication to and from a particular website is secure. 
+To verify if you're connected via HTTPS, look at the address bar of your browser window; you should see "HTTPS" at the beginning of the web address (or, on some web browsers, a lock icon).
+To encrypt all of the data you send, use a VPN service. 
+Anyone trying to steal your data will see only encrypted data that they can't get into. 
+There are many services that can do this, including Witopia.net,StrongVPN.com and Norton's Hotspot Privacy. 
+VPN services charge a fee for their use, with pay packages ranging from day passes to year-round protection.
+Whenever you can, use two-factor authentication, which requires both a password and a secondary code that changes regularly, for websites. 
+This makes it very difficult for hackers to get at your accounts because even if they can get your password, they won't have the secondary code. 
+Though not all services support it, many popular sites offer this level of security including Google, [Twitter](https://www.facebook.com/note.php?note_>Facebook, <a href=), LinkedIn, Apple andMicrosoft.
+Make sure your computer isn't configured to share access to files. 
+When you're at home, it may be convenient to keep things in a folder you share with other members of the household, but that's less safe when you're connecting to public WiFi.
+Disable sharing in: 
+Windows 8: Go to Control Panel > Network and Internet > View network status and Tasks > Change advanced sharing settings > Turn off file and printer sharing > Save changes.
+Windows 7: Go to Control Panel > Network and Sharing Center > Change advanced sharing settings > Home or Work > Turn off file and printer sharing > Save changes.
+Mac OS X: Go to System Preferences > Sharing and be sure that File Sharing doesn't have a check mark by it.
+Good luck, and safe browsing!

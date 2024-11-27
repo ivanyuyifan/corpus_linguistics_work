@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200211T142403Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As shown in Figure 3, in aggregate developing countries have more than double the hydropower potential of industrialized countries (Aqua-Media, 1997). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发展中国家比工业化国家的水电资源总量要多一倍以上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But whereas about 70% of that potential has been tapped in industrialized countries, less than 20% of that potential has been tapped in the developing world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，工业化国家的水电资源已开发约70%，而发展中国家开发的水电资源却不到20%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the demand for electricity in developing countries is expected to triple over the next 30 years, the outlook for hydropower would appear to be rosy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预计在今后30年中，发展中国家电力需求将增加2倍，所以水电的前途一片光明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most estimates agree that by 2020, installed hydro capacity will also triple, from about the current 10% of technical usable potential to some 30% (Besant Jones, 1995). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数评估认为，到2020年水电装机容量将增加2倍，从目前已开发技术上可利用水电资源的约10%增至30%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A closer look at the industry, however, unearths deep problems, and many challenges.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，对水电行业的更仔细观察，发现了许多深层次的问题和挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Historically, hydroelectricity in the developing world has been financed predominantly from public or guaranteed funding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在历史上，发展中国家水电工程主要从公共基金和保证基金中筹资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the last three decades, the World Bank has financed about 110 hydroelectric power projects in 50 developing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去30年中，世界银行已为50个国家的约110项水电工程筹资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These projects range from 6.6 MW to 2460 MW , with a combined generating capacity of about 35 000 MW. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些工程的规模为6.6～2460 MW，总计发电容量约为35000 MW。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between 1990 and 1995 the Bank approved 12 hydropower projects, accounting for about $600 million a year of the total estimated investment in hydropower in developing countries of about $15 billion a year (Besant Jones, 1995).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1990～1995年，世界银行批准了12项水电工程，在每年约150亿美元的水电总投资中，发展中国家约占6亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reliable global data on trends in hydro financing are not available. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于国际水电筹资的趋势，缺乏可靠的全面统计数据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, World Bank data provide some pointers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，世界银行的数据提供了某些线索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There has been a marked decline in World Bank lending for hydro - over the course of the 1990s, hydro has fallen by about 25% as a share of Bank lending - from 3.4% to 2.5% of the approximately $20 billion lent annually. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在90年代，世界银行水电贷款已明显下降，从约占每年200亿美元的3.4%，降至2.5%，即份额下降约25%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no doubt that environmental pressures on the Bank (and other multilateral agencies) account for some of this decline; accordingly, it is not clear whether this decline mirrors a parallel shift in spending on hydro by developing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下降的原因之一是对世界银行（和其他多边机构）有环境压力，这是毫无疑问的。然而，还不清楚这种下降是否反映了发展中国家水电经费也同样在下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>W hat seems more likely (and for which there is ample anecdotal evidence) is that, since money is fungible, developing countries have simply taken 'the path of least resistance', using their own resources for these controversial investments, and submitting projects to the World Bank (and other external support agencies) which are more politically palatable to the western countries who dominate the Boards of these agencies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为钱是可以挪用的，发展中国家简单地走“阻力最小的路”，将自已的钱用于有争议的项目，把无争议的项目提交给世界银行（和其他国外援助机构）。这些机构在政治上更符合西方国家的意愿，而西方国家在这些机构的董事会中占统治地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whatever the actual numbers on current (mostly public) spending on hydro, it is obvious that capacity expansion will require the mobilization of both public and private finance and the forging of new partnerships between the two.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论目前（主要为国营）水电经费的实际数字是多少，显然，装机容量的扩充将要求动用国营和私营部门的财力，以及新组建的公私合营公司的财力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The private sector has shown some interest in funding hydroelectricity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>私营部门已表明对投资水电有兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The International Finance Corporation (the private sector arm of the World Bank) approved financing for seven private hydroelectric power projects, between 1990 and early 1995; six of these were relatively small (10 MW to 73 MW), and one was a large (450 MW) run-of-river project (Besant Jones, 1995). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际财团（世行私营部门分支）在1990～1995年初批准了对7个私营水电工程的投资，其中6个是小型工程（10～73 MW），1个是大型（450 MW）径流式水电站。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This profile is broadly consistent with overall private sector involvement in hydro - 68% of private hydro projects are small projects (less than 100 MW). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种情况与整个水电行业中私营部门的比例大致相同，私营水电工程的68%是小工程（小于100 MW）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(But the aggregate private investment in small plants is only 16% of the total.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在所有小水电项目中，私营投资只占总投资的16%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides development of new capacity, the private sector has also shown considerable interest in buying, retrofitting, rehabilitating and operating existing hydroelectric plant (Churchill, 1997a, 1997b), with this process particularly active in Brazil and other Latin American countries (see Figure 4). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了开发新电站外，私营部门也对现有水电站的购买、更新、改造和运行表现出浓厚的兴趣，这个过程在巴西和其他拉美国家尤为活跃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between 1990 and 1995, about $25 billion a year was invested by the private sector in infrastructure in developing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1990～1995年，发展中国家基础设施中的私营部门投资每年约为250亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About 35% of this (or about $9 billion a year) was in the power sector, and about 12% of this (about $1 billion a year) in hydro. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中，约35%（或每年90亿美元）投资于电力部门，其中约12%（约10亿美元）为水电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This implies that the private sector has financed only about 7% of the $15 billion invested in hydro in developing countries each year.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是说在发展中国家，私营部门的投资只占每年水电投资150亿美元的约7%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>World Bank data show that power generation projects have not always performed well (Besant Jones, 1995): schedule slippage has averaged about 38% for thermal projects and 35% for hydroelectric projects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界银行数据表明，电力工程建设并不总是一帆风顺，火电工程工期的延长平均约38%，水电为35%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cost overruns have averaged about 11% for therm al plants but 30% for hydroelectric projects.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>投资超过预计值火电约11%，而水电为30%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of this poor performance can be attributed to the generic 'public works hazard', in which there is little sanction for high costs and poor performance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电力工程成本高、施工效率差的部分原因可归结到国营工程几乎没有惩罚措施的通病上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as the difference between public thermal and hydro plants suggests, there are also a much larger variety of risk factors - hydrologic, geologic and environmental- associated with hydro plants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，如同国营火电和水电厂有区别那样，水电站的风险要大得多，包括水文、地质和环境风险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The allocation and assignment of risk is a central topic to which we return later; here it is only pertinent to note that it is possible to structure private sector projects to specifically address the problem s of cost overruns and delays. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由私营部门来建设这些工程，有可能解决投资超额和工期延长的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In recent independent hydropower projects in Colombia, India and Guatemala, for example, a major portion of the project developers’ return on equity comes from delivering the project on time and within budget (Churchill, 1997a).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，在哥伦比亚、印度和危地马拉一些自主经营的水电工程中，工程开发商回报的主要部分来自于工程按期和在预算内投产。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hydropower advocates (reasonably) portray hydropower as an indigenous, renewable, non-polluting and long-lived peak energy resource more deserving of foreign investment than many thermal projects which (Ulfsby, 1997) "when based on imported equipment and fuel...are no more than a long-term contract for the import of electricity".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>提倡开发水电的人认为，水电是天生可再生无污染的长寿命高峰负荷能源，更值得国外进行投资，而火电如果要进口设备和燃料还不如签订长期的进口电力合同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reality, however, is that hydro, in the words of an influential energy analyst (Churchill, 1997a): stands at a crossroads? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，一位有影响的能源分析家指出，现实情况是水电正处在十字路口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the one hand, project owners face increasing economic, environmental and financial challenges. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工程业主正面临日益增加的经济、环境和金融挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are the vocal and visible attacks by environmental interest groups on hydro projects, particularly those with large dams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>环保团体对水电工程，尤其对大坝工程进行攻击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is competition from alternative energy sources. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有来自替代能源的竞争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In only a few years, the natural gas-fueled combustion engine has become a dominant technology for producing electricity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在仅仅数年的时间内，用天然气作燃料的内燃机已经成为发电的流行技术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its physical and economic characteristics are almost the opposite of those of hydro- project capital costs are relatively low and predictable with a high degree of accuracy; construction times are short; and fuel/operating costs are high. And there is the drying up of inexpensive public financing for energy projects.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实际物质情况与经济特性几乎与水电的恰好相反，工程投资较低，预测精度较高，工期短，但其燃料和运行费高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no doubt that private financing will play a major role in the future of the power sector- one leading energ y thinker suggests that in the future 90% of power financing will come from the private sector (Barnevik, 1997).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无疑，从私营部门筹资在电力部门中将发挥重要作用。一位能源专家预言，将来90%的电力筹资来自私营部门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How does the private sector view investments in hydro? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>私营部门怎样考虑在水电工程建设中投资呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The short answer is 'warily', because of a number of substantial risks, many of which are inherent in the degree to which each and every hydro project has (unlike thermal projects) to be tailored to specific hydrological, geographical and geological conditions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一句话是“要谨慎”，因为有许多大的风险，其中许多是水电工程所固有的（不像火电工程），必须满足特定的水文、地理和地质条件的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When a private financier looks at hydro (Trembath, 1997), he sees the following:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当一位私营投资者考察水电时，他看到的有：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>substantial market growth, in contrast with the situation in industrialized countries; but</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·与工业化国家的情况不大相同，市场发展快；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>a wide variety of legal and regulatory environments, with some markets better structured and less risky than others; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·各种各样的法律和管理的环境变化大，但有些市场比较规范，风险比其他市场小；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>there is a lot of work (and associated high costs) in preparing a project to the stage where it can be costed by a prospective developer within a reasonable degree of certainty; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·一项工程从准备到一个预期的开发商以合理的肯定程度进行投资的阶段，有许多工作要做（并需花很高的费用）；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>a necessity (see Figure 5) for a complex set of partnerships (Ulfsby, 1997), even in relatively simple projects; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·即使对较简单的工程，也有必要进行复杂的合营；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>even at the bid stage there is typically considerable cost estimate risk from geological and hydrological uncertainties, as well as uncertainties (and often shifting goalposts) due to costs of environmental mitigation and resettlement;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·即使在招标阶段，仍有典型的成本估算高风险，这些风险来源于地质和水文的不确定性，以及由环保和移民引起的不确定性；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>costs are recovered from these capital-intensive projects over a design life typically two or three times longer than that of a thermal plant, with consequent exposure to greater uncertainty (not least due to political changes);</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·资金回收期比火电工程长2～3倍，因此存在较多的不确定性（不仅由于政治变化的原因）；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>a dearth of the long-maturity financial instruments which are necessary for hydro; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·缺乏水电所必须的长期筹资手段；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>little ability to attract export credits, the major source of financing for thermal plants, which have about four times more dollars of equipment than a hydro plant per megawatt of capacity and, therefore, greater dependence on multilateral agencies sources, who are subject to a variety of political pressures and have become less than reliable partners, for financing or guarantees;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·吸引出口信贷的能力较差，而出口信贷是火电工程筹资的主要来源，因为火电厂每MW容量设备费用约为水电的4倍多，水电更多依靠多边机构投资，而这些机构受到各种政治压力，对于筹资或担保的可靠性较低；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>the considerable hydro resources located in poorer countries or regions are often far in excess of their needs. While there is often demand in adjacent countries or regions, there is considerable friction in cross-border marketing due to both lack of infrastructure and lack of well-established purchase rules.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>·位于贫穷国家或地区的水电资源丰富，常常远远超过其需求，而相邻国家或地区又常常缺电，由于基础设施缺乏和市场不规范，在跨国市场中有很大的摩擦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The net effect is that the private sector correctly sees hydro projects, relative to thermal power projects, as fraught with risks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果是，私营部门已得知水电充满了风险（相应于火电工程而言）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With countries and utilities increasingly turning to the private sector to fund and build such projects, that perceived high financial risk will discourage investment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当国家和公用公司纷纷转向私营部门投资和兴建水电时，发觉有高金融风险而使投资受挫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An important reality is that these risks are typically quite different in smaller and larger projects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重要的事实是，通常这些风险对较大的工程和较小的工程完全不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is relatively easy to involve the private sector in smaller projects, specifically chosen to have minimal geological, hydrological and environmental risks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>私营部门对较小的工程，尤其选择地质、水文和环境风险最小的工程进行投资，是比较容易的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consequently, the typical private sector hydropower plant is an environmentally benign, high head, run-of-river plant between 40 and 400 MW located on the tributaries to the big rivers (Ulfsby, 1997). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，典型的私营水电站为位于大河支流上的高水头径流电站，环境影响小，容量在40～400MW。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For larger projects there has been, and will be, little private sector financing unless there is substantial involvement of governments and bilateral and multilateral agencies in co-financing such projects and in assuming some of the risks (by, for instance, funding upstream sector planning and project preparation activities, and by providing partial risk guarantees) (Trem bath, 1997). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于较大的工程，以前很少有私营部门投资，将来也是如此，除非政府、双边和多边机构参与，共同为这样的工程筹资，并分担风险（例如，通过为前期规划和工程准备工作提供资金，和通过提供部分风险担保）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It should be noted that traditional financing by governments and through bilateral and multilateral banks addressed most of these difficulties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>值得注意的是，传统上由政府、双边和多边银行筹资的大多数克服了这些困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Development costs were financed through technical assistance loans and credits and through project preparation facilities (Trembath, 1997). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开发费用通过技术援助贷款和信贷以及通过工程准备设施来筹资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Construction uncertainties were addressed by the 'schedule of rates' form of contract and price variation clauses which passed as much as possible of the risk of unknown conditions to the project owner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>施工的不确定性通过合同的施工进度表和价格变化条款来解决。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Owners, usually with the backing of their governments, shouldered the responsibility for cost overruns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>业主通常得到政府支持，负责投资不超过计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While there were certainly moral hazards abounding in such arrangements, in many cases this made sense since the risks were borne by the party best able to diversify the risk, which in the case of hydro development was the (usually public) owner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很多情况下，水电开发的风险由业主（通常是国营的）承担。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Grace periods and maturities accommodated the longer construction period and payback periods (Trembath, 1997).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宽限期和到期日与较长的施工期和偿还期相适应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What, then, needs to be done to harness the immense potential for hydro power as a source of socially sensitive and environmentally benign electricity generation in developing countries? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在发展中国家开发社会敏感、环境影响小的巨大水电资源时，需要做些什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The development of hydropower will, to be sure, require much greater participation of the private sector in project development, management and operation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，水电开发需要更多的私营部门参与工程的开发、管理和运行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it will also require substantial, continued involvement of official development assistance- in helping set internationally accepted standards on when dams are appropriate investments and how to plan, design, build and operate them (the mandate of the World Commission on Dams, chaired by the Minister of Water Affairs and Forestry from South Africa, and including commissioners representing the full range of views on the appropriateness of large dams (World Commission on Dams, 1998)); in financing construction-intensive plants; in providing private investors with comfort with regard to political risk through partial-risk guarantees; in facilitating cross-border power sharing and sale agreements. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，也需要官方的大量不间断介入开发援助，帮助制定国际上承认的大坝投资的合适标准，以及规划、设计、施工和运行的标准。需做的工作还有为电站建设筹资，为私营投资者提供部分风险担保，化解政治风险，促成跨国电力共享和售电协议的签订等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although official development assistance still provides substantial financing to the power sector, the prognosis is not good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然官方的开发援助仍为电力部门提供大量投资，但是效果并不好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The World Bank’s lending- often a 'leading indicator' in the development business- shows hydropower’s share declining by 25% over the past five years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界银行贷款（是开发业务“一流的指示器”）表明，在过去5年多时间里，水电的份额已下降25%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And agencies such as the UK’s Department for International Development have a policy of 'avoiding large capital projects' (Department for International Development, 1997). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像英国“国际开发部”这样的机构，有“避免投资大工程”的政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a general perception that official development assistance for power generation is a 'sunset sector', and that responsibility can be handed over to the private sector. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般认为电力工业是“夕阳工业”，官方的开发援助应由私营部门接替。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The realities of global environmental politics (to which development agencies are highly susceptible) also play an important role. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球环境政策的现实（开发机构对其高度重视）也发挥了重要作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For this combination of reasons there is an implicit belief that a 'phased withdrawal' of official development assistance from the hydropower sector has started. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基于这些理由，可以肯定，官方的开发援助已从水电部门开始“分阶段撤出”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this trend is sustained, then the private sector of its own volition will confine its activities primarily to the small, low-risk niche of the hydro spectrum and w ill concentrate on 'private-sector-friendly' thermal power instead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这种趋势继续下去的话，则私营部门将自愿主要从事低风险的小水电开发而不是集中于“对私营部门友好的”火电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This will mean that the overall low level of development of hydro potential will persist in many developing countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这说明在许多发展中国家，总体低水平的水电资源开发将继续存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conclusions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6结语</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first glance, the hydropower industry would appear to face a rosy future in developing countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>初看起来，发展中国家水电行业前程似锦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Potential in developing countries is huge and only a small fraction (less than 10% in Asia, Latin America and Africa, versus about 70% in Europe and North America) has been tapped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水电资源巨大，只开发了很小一部分（在亚洲、拉丁美洲和非洲，少于10%，而欧洲和北美，约为70%）。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

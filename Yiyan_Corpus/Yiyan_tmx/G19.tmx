@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>William Shakespeare</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>威廉·莎士比亚</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>William Shakespeare (baptised 26 April 1564; died 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>威廉·莎士比亞 William Shakespeare（1564年4月26日－1616年4月23日)，英国诗人和剧作家，也是世界文学史上最杰出的作家和戏剧家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He is often called England's national poet and the "Bard of Avon". </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他被誉为英国的民族诗人和“吟游诗人”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His surviving works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and several other poems. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他流传下来的作品包括38部剧本、154首十四行诗、两首长叙事诗和其他诗作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His plays have been translated into every major living language and are performed more often than those of any other playwright.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的剧本被翻译成世界上多种主要语言，并且表演次数远远超过其他任何剧作家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare was born and raised in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna, and twins Hamnet and Judith. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚在雅芳河畔斯特拉特福出生长大，18岁时与安妮·哈瑟维结婚，两人共生育了三个孩子：苏珊娜、双胞胎哈姆内特和朱迪思。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Between 1585 and 1592, he began a successful career in London as an actor, writer, and part owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1585年到1592年期间莎士比亚在伦敦开始了成功的职业生涯，他不仅是演员、剧作家，还是宫内大臣剧团的合伙人之一，后来改名为国王剧团。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He appears to have retired to Stratford around 1613, where he died three years later. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1613年左右，莎士比亚退休回到雅芳河畔斯特拉特福，3年后逝世。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Few records of Shakespeare's private life survive, and there has been considerable speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written by others.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有关莎士比亚私人生活的记录流传下来的很少，关于他的性取向、宗教信仰、以及他的著作是否出自他人之手都依然是个谜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare produced most of his known work between 1589 and 1613. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1589年到1613年是莎士比亚的创作高峰期。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His early plays were mainly comedies and histories, genres he raised to the peak of sophistication and artistry by the end of the 16th century. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的早期剧本主要是喜剧和历史剧，在16世纪末期达不论是深度和还是艺术性都到达了顶峰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He then wrote mainly tragedies until about 1608, including Hamlet, King Lear, Othello, and Macbeth, considered some of the finest works in the English language. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来到1608年他主要创作悲剧，包括《哈姆雷特》、《李尔王》和《麦克白》，被认为是英语文学的最佳范例。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In his last phase, he wrote tragicomedies, also known as romances, and collaborated with other playwrights.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在他人生最后阶段，他开始创作悲喜剧，又称为传奇剧，并与其他剧作家合作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many of his plays were published in editions of varying quality and accuracy during his lifetime. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在他有生之年，他的很多作品就有多种版本，质量和准确性参差不齐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1623, two of his former theatrical colleagues published the First Folio, a collected edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1623年，他所在剧团两位同事出版了《第一对开本》，除两部作品外，目前已经被认可的莎士比亚作品均收录其中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare was a respected poet and playwright in his own day, but his reputation did not rise to its present heights until the 19th century. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚在世时被尊为诗人和剧作家，但直到19世纪他的声望才达到今日的高度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Romantics, in particular, acclaimed Shakespeare's genius, and the Victorians worshipped Shakespeare with a reverence that George Bernard Shaw called "bardolatry".</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>浪漫主义时期人们赞颂莎士比亚的才华，维多利亚时代人们尊他为英雄，还被萧伯纳称之为“莎士比亚崇拜”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the 20th century, his work was repeatedly adopted and rediscovered by new movements in scholarship and performance. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>20世纪，他的作品常常被新学术运动改编并重新发现其学术和表演价值。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His plays remain highly popular today and are constantly studied, performed and reinterpreted in diverse cultural and political contexts throughout the world. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的作品至今依旧广受欢迎，在全球以不同文化和政治形式学习、演出和诠释。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Early life</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>早期生活</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>William Shakespeare was the son of John Shakespeare, an alderman and a successful glover originally from Snitterfield, and Mary Arden, the daughter of an affluent landowning farmer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>威廉·莎士比亚的父親叫約翰·莎士比亞（John Shakespeare），是一個殷實的手套商人和市参议员，祖籍斯尼特菲尔德，母亲玛丽·阿登（Mary Arden）是一个地主的女儿。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was born in Stratford-upon-Avon and baptised there on 26 April 1564. His actual birthdate remains unknown, but is traditionally observed on 23 April, St George's Day. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亞在英国沃里克郡雅芳河畔斯特拉特福出生。根據記錄，莎士比亞于1564年4月26日受洗禮，但是一般認為他的生日是4月23日---圣乔治日。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This date, which can be traced back to an 18th-century scholar's mistake, has proved appealing to biographers, since Shakespeare died 23 April 1616. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一位18世纪学者的失误，被证明只是为了吸引传记作家对其的好奇心，因为莎士比亚于1616年的4月23日去世。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was the third child of eight and the eldest surviving son.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他在家里的八个孩子中排行第三，也是存活下来德儿子中最年长的一个。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although no attendance records for the period survive, most biographers agree that Shakespeare was probably educated at the King's New School in Stratford, a free school chartered in 1553, about a quarter-mile from his home. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管没有保存下来的记录，大部分传记作家认同莎士比亚在雅芳河畔斯特拉特福的国王学校接受了教育，这是一所成立于1553年的免费学校，距离他家有四分之一英里。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Grammar schools varied in quality during the Elizabethan era, but the curriculum was dictated by law throughout England, and the school would have provided an intensive education in Latin grammar and the classics.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>伊丽莎白时代的初中质量参差不齐，但是课程设置由法律规定，并且学校提供拉丁语和古典文学的强化教育。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At the age of 18, Shakespeare married the 26-year-old Anne Hathaway. The consistory court of the Diocese of Worcester issued a marriage licence 27 November 1582. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>18岁的时候，莎士比亞與26岁的安妮·哈瑟維（Anne Hathaway）結婚，伍斯特主教教区的宗教法院于1582年11月27日签发了结婚证书。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The next day two of Hathaway's neighbours posted bonds guaranteeing that no lawful claims impeded the marriage. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>次日两位哈瑟維的邻居担保婚姻没有任何法律障碍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The ceremony may have been arranged in some haste, since the Worcester chancellor allowed the marriage banns to be read once instead of the usual three times, and six months after the marriage Anne gave birth to a daughter, Susanna, baptised 26 May 1583. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这对新人可能很匆忙地安排了仪式，因为伍斯特法官允许结婚预告只宣告一次，而通常是三次。结婚6个月后，女儿苏珊娜（Susanna）降生，於1583年5月26日接受洗禮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Twins, son Hamnet and daughter Judith, followed almost two years later and were baptised 2 February 1585. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两年后，他的雙胞胎兒子哈姆内特（Hamnet）和女兒朱迪思（Judith）出生并于1585年2月2日接受洗禮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hamnet died of unknown causes at the age of 11 and was buried 11 August 1596.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1596年8月11日，哈姆内特因不明原因死亡，年仅11岁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After the birth of the twins, Shakespeare left few historical traces until he is mentioned as part of the London theatre scene in 1592, and scholars refer to the years between 1585 and 1592 as Shakespeare's "lost years". </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在双胞胎出生后，关于莎士比亚的历史记录非常少，直到1592年他在倫敦劇團的时期才被提到。由于这段时间的缺失，一些学者把1585年到1592年称作莎士比亚“迷失的岁月”（lost years）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Biographers attempting to account for this period have reported many apocryphal stories. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>传记作家试图说明他这段时期的经历，描述了很多虚构的故事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nicholas Rowe, Shakespeare's first biographer, recounted a Stratford legend that Shakespeare fled the town for London to escape prosecution for deer poaching in the estate of local squire Thomas Lucy. Shakespeare is also supposed to have taken his revenge on Lucy by writing a scurrilous ballad about him. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一位莎士比亚传记作家——尼古拉斯·罗叙述了一个在雅芳河畔斯特拉特福的传说，指莎士比亚因为在汤玛斯 露西的地盘非法猎鹿被起诉，为了逃避起诉从家乡来到伦敦，莎士比亚为了报复露西还写了一首关于他的讽刺诗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Another 18th-century story has Shakespeare starting his theatrical career minding the horses of theatre patrons in London. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一个18世纪的故事版本为莎士比亚成为伦敦的剧院合伙人从而开始他的戏剧生涯。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>John Aubrey reported that Shakespeare had been a country schoolmaster. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>约翰·奥布里则将莎士比亚描述为一个乡村校长。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some 20th-century scholars have suggested that Shakespeare may have been employed as a schoolmaster by Alexander Hoghton of Lancashire, a Catholic landowner who named a certain "William Shakeshafte" in his will. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些20世纪的学者提出莎士比亚可能被兰开夏郡的亚历山大·霍顿雇佣为校长，霍顿是一位信仰天主教的地主，在他的遗嘱中提到了某一位“威廉·莎士比亚”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No evidence substantiates such stories other than hearsay collected after his death, and Shakeshafte was a common name in the Lancashire area.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>没有证据证实这些故事与他逝世后的一些谣传有什么不同，并且莎士比亚这个名字在兰开夏郡是个很普遍的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>London and theatrical career</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>伦敦和剧团生涯</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is not known exactly when Shakespeare began writing, but contemporary allusions and records of performances show that several of his plays were on the London stage by 1592. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关于莎士比亚开始创作的具体时间依旧是一个谜，但是同一时期演出的线索和记录显示到1592年为止伦敦舞台已经表演了他的几部剧作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was well enough known in London by then to be attacked in print by the playwright Robert Greene in his Groats-Worth of Wit:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那时他在伦敦已享有很高声誉，剧作家罗伯特·格林于是写文章攻击他：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>...there is an upstart Crow, beautified with our feathers, that with his Tiger's heart wrapped in a Player's hide, supposes he is as well able to bombast out a blank verse as the best of you: and being an absolute Johannes factotum, is in his own conceit the only Shake-scene in a country.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>那裡有一只用我们的羽毛美化了的傲慢自负的乌鸦，在他那“表演者的外表里面裹着一颗老虎的心”，自以为有足够的能力像你们中间最优秀的人一样善于作出一行无韵诗；而且还是个什么都干的打杂工，自负地认为是全国唯一的“舞台震撼者”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scholars differ on the exact meaning of these words, but most agree that Greene is accusing Shakespeare of reaching above his rank in trying to match university-educated writers such as Christopher Marlowe, Thomas Nashe and Greene himself (the "university wits"). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>学者对这些评论的实际意思有不同意见，不过大部分同意格林在取笑莎士比亚取得高于自己应有的地位并努力与接受过大学教育的作家如克里斯托夫·马洛、托马斯·纳什和格林自己相提并论。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The italicised phrase parodying the line "Oh, tiger's heart wrapped in a woman's hide" from Shakespeare's Henry VI, Part 3, along with the pun "Shake-scene", identifies Shakespeare as Greene's target. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“表演者的外表里面裹着一颗老虎的心”（Tiger's heart wrapped in a Player's hide）模仿了莎士比亚《亨利六世第三部》的台词“女人的外表里面裹着一颗老虎的心”（Oh, tiger's heart wrapped in a woman's hide）。而双关语“舞台震撼者”（Shake-scene）影射格林抨击的对象——莎士比亚的名字——“摇动长矛的人”（Shakespeare）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Greene's attack is the earliest surviving mention of Shakespeare's career in the theatre. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>格林的抨击是关于莎士比亚剧院生涯的最早记录。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Biographers suggest that his career may have begun any time from the mid-1580s to just before Greene's remarks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>传记作家认为他的生涯可能开始于1580年代中期到格林评论之前的任何时候。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From 1594, Shakespeare's plays were performed only by the Lord Chamberlain's Men, a company owned by a group of players, including Shakespeare, that soon became the leading playing company in London. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1594年开始，莎士比亚的戏剧只在宫内大臣剧团演出，这是一家由剧作家组建的剧团，莎士比亚也是合作者之一，后来成为伦敦最主要的剧团。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After the death of Queen Elizabeth in 1603, the company was awarded a royal patent by the new king, James I, and changed its name to the King's Men.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1603年伊丽莎白一世逝世后，新国王詹姆士一世授予剧团皇家标志，并改名为国王剧团。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1599, a partnership of company members built their own theatre on the south bank of the River Thames, which they called the Globe. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1599年，剧团的一个合伙人在泰晤士河南岸建造了他们自己的剧院——环球剧场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1608, the partnership also took over the Blackfriars indoor theatre. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1608年，黑衣修士剧院也被他们接管。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Records of Shakespeare's property purchases and investments indicate that the company made him a wealthy man. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚的财产购买和投资记录表明剧团使他变成有钱人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1597, he bought the second-largest house in Stratford, New Place, and in 1605, he invested in a share of the parish tithes in Stratford.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1597年，他购买了雅芳河畔斯特拉特福第二大房子；1605年，他在雅芳河畔斯特拉特福投资了一部分教区什一税。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some of Shakespeare's plays were published in quarto editions from 1594. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1594年开始，莎士比亚的一些剧本以四开本出版。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By 1598, his name had become a selling point and began to appear on the title pages. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>到1598年，他的名字已经成为卖点并出现在扉页。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare continued to act in his own and other plays after his success as a playwright. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚成为一个成功的剧作家后继续在他自己和别人的剧作里表演。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The 1616 edition of Ben Jonson's Works names him on the cast lists for Every Man in His Humour (1598) and Sejanus His Fall (1603). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1616年出版的本·琼森剧作集中的演员表里就有莎士比亚的名字，如1598年的《个性互异（英语：Every Man in His Humour）》和1603年的《西姜努斯（英语：Sejanus）》。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The absence of his name from the 1605 cast list for Jonson's Volpone is taken by some scholars as a sign that his acting career was nearing its end. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是他的名字没有出现在琼森1605年《福尔蓬奈（英语：Volpone）》的演员表中，一些学者认为这是他演员生涯接近尽头的迹象。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The First Folio of 1623, however, lists Shakespeare as one of "the Principal Actors in all these Plays", some of which were first staged after Volpone, although we cannot know for certain which roles he played. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，1623年出版的莎士比亚剧作合集《第一对开本》中将莎士比亚列为所有剧作的主要演员之一，其中部分剧作在《福尔蓬奈》后第一次上演，尽管我们无法确认他具体扮演了那些角色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1610, John Davies of Hereford wrote that "good Will" played "kingly" roles. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1610年，赫里福德的约翰·戴维斯写到他扮演了君主类角色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1709, Rowe passed down a tradition that Shakespeare played the ghost of Hamlet's father. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1709年，罗延续了传统观点，认为莎士比亚扮演了哈姆雷特父亲的灵魂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Later traditions maintain that he also played Adam in As You Like It and the Chorus in Henry V, though scholars doubt the sources of the information.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>后来的传统观点认为他还饰演了《皆大欢喜》里的亚当（Adam）和《亨利五世》里的肖吕斯（Chorus），然而很多学者怀疑这些资料的来源是否可靠。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare divided his time between London and Stratford during his career. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚把一半时间花在伦敦，另一半花在雅芳河畔斯特拉特福。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1596, the year before he bought New Place as his family home in Stratford, Shakespeare was living in the parish of St. Helen's, Bishopsgate, north of the River Thames. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1596年，在购买了新房子的前一年，莎士比亚住在泰晤士河的北岸圣海伦郊区。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He moved across the river to Southwark by 1599, the year his company constructed the Globe Theatre there. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1599年，他搬到了河的南岸，同年剧团在那裡建造了环球剧场。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By 1604, he had moved north of the river again, to an area north of St Paul's Cathedral with many fine houses. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1604年，他再度搬到了河北岸圣保罗座堂北面一个高档区域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There he rented rooms from a French Huguenot called Christopher Mountjoy, a maker of ladies' wigs and other headgear.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他从一个名叫克里斯托夫·芒乔伊（Christopher Mountjoy）的人那裡租房子住，芒乔伊是法国雨格诺派，制作女士假发和其他头饰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Later years and death</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>晚年和逝世</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Rowe was the first biographer to pass down the tradition that Shakespeare retired to Stratford some years before his death; but retirement from all work was uncommon at that time, and Shakespeare continued to visit London. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>罗是第一个根据传统认为莎士比亚在他逝世前几年退休回到雅芳河畔斯特拉特福的传记作家，但是停止所有的工作在那个时代并不多见，并且莎士比亚之后继续往返于伦敦。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 1612 he was called as a witness in a court case concerning the marriage settlement of Mountjoy's daughter, Mary. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1612年，他被法庭传唤，作为芒乔伊女儿玛丽婚姻财产契约官司的证人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In March 1613 he bought a gatehouse in the former Blackfriars priory; and from November 1614 he was in London for several weeks with his son-in-law, John Hall.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1613年3月，他购入了黑衣修士修道院的一个司阁室，从1614年11月开始，他在伦敦和女婿约翰·霍尔（John Hall）一起呆了几个星期。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After 1606-1607, Shakespeare wrote fewer plays, and none are attributed to him after 1613. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1606年到07年以后，莎士比亚创作的剧本较少，1613年之后没有新的作品问世。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His last three plays were collaborations, probably with John Fletcher, who succeeded him as the house playwright for the King's Men.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的最后三部剧作很有可能是与约翰·弗莱彻合作完成，弗莱彻在莎士比亚之后成为国王剧团的主剧作家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare died on 23 April 1616 and was survived by his wife and two daughters. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1616年4月23日，莎士比亚逝世，留下了妻子和两个女儿。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Susanna had married a physician, John Hall, in 1607, and Judith had married Thomas Quiney, a vintner, two months before Shakespeare's death.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大女儿苏珊娜和内科医生约翰·霍尔于1607年结婚，二女儿朱迪思在莎士比亚逝世前两个月嫁给了酒商托马斯·基内尔（Thomas Quiney）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In his will, Shakespeare left the bulk of his large estate to his elder daughter Susanna. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在遗嘱中，莎士比亚将他大量地产的大部分留给了大女儿苏珊娜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The terms instructed that she pass it down intact to "the first son of her body".</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>条款指定她将财产原封不动地传给“她的第一个儿子”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Quineys had three children, all of whom died without marrying. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>基内尔一家有三个孩子，都在没有结婚前就去世了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Halls had one child, Elizabeth, who married twice but died without children in 1670, ending Shakespeare's direct line. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>霍尔一家有一个孩子——伊莉莎白，她嫁了两次，但是在1670年去世的时候没有留下一个孩子，莎士比亚的直系后代到此为止就结束了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare's will scarcely mentions his wife, Anne, who was probably entitled to one third of his estate automatically. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莎士比亚的遗嘱中提到他妻子安妮的地方很少，她很可能自动继承了他三分之一的财产。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He did make a point, however, of leaving her "my second best bed", a bequest that has led to much speculation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而他特意提及一点，将“我第二好的床”留给她，这个遗赠物导致了很多猜想。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some scholars see the bequest as an insult to Anne, whereas others believe that the second-best bed would have been the matrimonial bed and therefore rich in significance.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些学者认为这个遗物是对安妮的一种侮辱，而另一些则相信这个第二好的床曾经是婚床，因此纪念意义重大。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shakespeare was buried in the chancel of the Holy Trinity Church two days after his death. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>逝世两天后，莎士比亚被埋葬在雅芳河畔斯特拉特福圣特里尼蒂教堂的高坛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sometime before 1623, a funerary monument was erected in his memory on the north wall, with a half-effigy of him in the act of writing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1623年之前的某天，一座纪念墓碑和他的半身肖像被竖立在北墙上，肖像雕刻了莎士比亚正在创作的样子。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Its plaque compares him to Nestor, Socrates, and Virgil. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>碑文中将他与希腊神话中的内斯特、古希腊哲学家苏格拉底和古罗马诗人维吉尔相提并论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Plays</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>剧作</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most playwrights of the period typically collaborated with others at some point, and critics agree that Shakespeare did the same, mostly early and late in his career. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在伊利莎白时期，很多剧作家通常都与其他人合作，于是批判家认为莎士比亚在早期和后期的创作生涯中也是这样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some attributions, such as Titus Andronicus and the early history plays, remain controversial, while The Two Noble Kinsmen and the lost Cardenio have well-attested contemporary documentation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些名作，像《泰特斯·安特洛尼克斯》和一些早期历史剧都留有争议。但是《维洛那二绅士》确备受赞誉。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Textual evidence also supports the view that several of the plays were revised by other writers after their original composition.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>文字记载也同样认为他的一些戏剧在原作基础上被其他作家修改过。</seg></tuv>
+</tu>
+</body>
+</tmx>

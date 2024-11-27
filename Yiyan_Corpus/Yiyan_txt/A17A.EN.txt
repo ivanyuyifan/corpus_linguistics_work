@@ -1,0 +1,28 @@
+Genetic Changes May Dictate Course of Acute Myeloid Leukemia
+Findings could help determine which therapies will benefit certain patients 
+WEDNESDAY, April 30 -- Breakthroughs in understanding the extremely fine genetic underpinnings of acute myeloid leukemia may allow doctors to quickly decide which existing therapies will most benefit individual patients.
+"This can now help the bedside physician pick a course of action" using existing drugs, said Dr. Barton Kamen, chief medical officer of the Leukemia & Lymphoma Society. 
+"It's telling us, with the tools we have at hand, who needs more [therapy] and where the risk is worth it."
+Eventually, added Kamen, pharmaceutical companies may be able to produce drugs to specifically target the genetic mutations.
+Acute myeloid leukemia, or AML, is a cancer of the bone marrow that is diagnosed in about 13,000 people in the United States each year. 
+The incidence of the disease increases with age, while the survival rate decreases. 
+Only 10 percent of people with AML over the age of 60 will survive two years, according to Kamen.
+Scientists used to see eight kinds of AML under the microscope, but with advances in genetic knowledge, they now realize there are many more forms of the disease.
+In about half of AML patients, chromosomal changes help guide doctors to select specific therapies. 
+Deciding which treatments are best for the remaining half of patients whose cancers don't have chromosomal abnormalities remains a challenge.
+"We don't know whether they will do well or not with current treatment," said Dr. Guido Marcucci, lead author of one of the studies and associate professor of medicine at Ohio State University's Comprehensive Cancer Center. "That is why we and other groups are looking at genetic mutations or changes in [gene] expression to predict the outcome of patients with no chromosomal abnormalities."
+Marcucci and his team analyzed bone marrow and blood samples of 64 patients with AML who were younger than 60 and had leukemia cells with normal-looking chromosome structure. 
+The goal: To see if microRNA profiles might help determine which treatments were best suited for which patients, and which patients were most prone to relapse.
+MicroRNAs are RNAs that do not translate into proteins (unlike encoding RNAs), but instead bind to coding RNAs and shut off their ability to regulate protein production, Marcucci explained.
+"We hypothesized that microRNA contributes to damage in the functioning of hematopoietic cells (stem cells that give rise to different blood cell types) by being too low or too highly expressed," he said.
+And, in fact, the Ohio State team identified seven "families" (or clusters) of microRNA whose expression was associated with better (in the case of one family) or worse (six families) outcomes.
+The findings were then validated in a separate group of patients.
+The researchers were also able to ascertain that the microRNAs in question are involved in regulating genes that play a role in the immune system. 
+"These microRNAs may affect native immunity function," Marcucci said.
+That raises the very interesting and pertinent question that some drugs that target the immune system might have an effect on AML cells.
+The second study, conducted by the German-Austrian Acute Myeloid Leukemia Study Group, was a large one, involving 872 adults under the age of 60 with AML with different genetic profiles.
+Participants were enrolled in one of four different trials, each of which involved a stem-cell transplantation. 
+The overall remission rate was 77 percent, but this rate differed depending on the genetic make-up of the cancer.
+Two different subtypes had four-year survival rates of 60 percent and 62 percent; in these groups, stem cell transplantation conferred no added benefit.
+Patients with two other genotypes, on the other hand, had much poorer prognoses, with four-year relapse-free survival rates of 24 percent or 25 percent and overall survival rates of 24 and 33 percent, respectively. 
+Stem cell transplantation did help some of these patients.

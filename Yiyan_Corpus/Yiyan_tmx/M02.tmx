@@ -1,0 +1,983 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T153703Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Clean War</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无血之战</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"AMI, have you found any nearby friendly structures that are still operational?" Sarah Bennett whispered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“阿米，你附近有没有还在工作的我方机器人？”萨拉·班尼特小声说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She swallowed hard, trying to hold down the mounting panic that threatened to jump out of her throat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她艰难地吞了口气，试图将不断涌上来的恐慌也咽下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not a soldier. I'm just a woman who programs computers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我并不是战士，我只是一个给计算机编程的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know what I'm doing. This was a mistake!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道自己在干什么，肯定是哪搞错了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Autonomous Military Intelligence's voice, calm and androgynous, spoke in her ear. "There is a repair depot about one kilometer to the north. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时，她的耳边响起了自主军用智能机器人阿米那中性而平稳的声音：“往北一公里有一处修理仓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It appears intact, but it is highly unlikely that it has not been compromised. I urge caution in approach."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它似乎完整无损，但很可能已经沦陷，我强烈建议在行进中保持警惕。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Silently, AMI overlaid a map of the surrounding region onto Sarah's helmet's HUD. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿米无声地在萨拉头盔的平视显示器上展开一张附近区域的地图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bright lines of the map provided some relief against the dark, dense jungle lit only by dim starlight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图上的亮线在黑暗中为萨拉带来了一丝慰藉，四周茂密的灌木林只能在昏暗的星光下照见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her location was marked by a blinking dot in the midst of the neon shapes that represented the hills around her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个点在彩线中不断闪烁，标识出萨拉的位置。而那些彩线则标示她周围的山脉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The repair depot appeared as a green square at the other end of the valley.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显示在山谷另一端的绿色方框，就是修理仓的所在之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Thank you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谢谢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess that's the best we can do," Sarah said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想我们也只能这么做了。”萨拉说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a moment, she was surprised by the calmness in AMI's voice, but then she mentally laughed at herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一时间，她对阿米平静的声音感到惊讶，不过她随即又在心里笑话起自己来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course an artificial intelligence cannot feel fear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自然，人工智能是不会感受到恐惧的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was an engineer, and she knew better than anyone not to confuse the illusion of sentience for the real thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是程序工程师，她比任何人都知道不要把这种交谈的表象当成真正的交流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her temporary lapse was a reflection of how much stress she was under.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她这一时的失察反映出她正经受着巨大的压力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She glanced at the alien sky behind her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她瞟了一眼身后异世界的天空。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dying embers of the space battle from a few hours ago shimmered like the aurora borealis back on Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几小时前的一场太空战的残骸，像地球上的极光那般闪烁着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fifty of the best robotic ships human engineering could deliver had been annihilated within ten minutes by the enemy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五十艘人类技术最先进的自动飞船，出击还不到十分钟，就被敌人全灭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she had expected that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但萨拉对此已有预期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The entire purpose of the drones had been to provide a distraction so as to allow Sarah's tiny stealth ship to slip in through the gap in the defense and land on Alara, so that the real mission could begin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些飞船的唯一目的就是吸引炮火，从而让她的小型潜入飞船得以穿过敌人防线，在阿拉拉星上着陆，以保证真正的任务开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have not detected any surface enemy activity near here," AMI continued, smooth as ever. "But there is a lot of radio chatter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“附近没有探测到任何活动中的地表敌人，” 阿米的声音依旧平稳如前，它继续说道，“但有很多无线电通讯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I cannot decipher any of it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无法对其中任何一条进行解析。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The air was humid and hot. Sarah was already sweating in her light camouflage suit and body armor, which also contained the housing for AMI. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>空气又湿又热，萨拉穿着轻便迷彩和随身装甲，已经汗流浃背。阿米的外壳也在装甲里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Above her, stars twinkled in unfamiliar constellations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她头顶，星星在陌生的天空中闪耀着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wondered briefly which was the Sun and thought of Tobias's warm lips and Tara's soapy, milky smell, hundreds of light-years away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她突然想知道哪一颗是太阳，然后想到几百光年外托比亚斯温暖的双唇和塔拉香皂牛奶般的气味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes went blurry for a moment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>眼前一下变得模糊起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She shook her head, took a deep breath, and unexpectedly, felt the panic subside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她摇了摇头，做了个深呼吸，先前的惶恐意外地减轻了一些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thinking of Tobias and Tara reminded her of why she had been sent on this mission.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对托比亚斯和塔拉的思念让她回想起了自己为什么会过来执行这个任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Billions are counting on me. Especially those two.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几十亿人在期待我凯旋，尤其是那两个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Sarah began to move, following AMI's glowing map.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是萨拉照着阿米地图的指示启程了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Alara, evolution never developed wood or any other similar kind of compression-resistant organic composite that would make tall trees possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在阿拉拉，灌木或其它类似的抗压有机化合物还未能进化成高大的树木。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, the plants struggled near the ground, piling on top of each other, choking each other from sunlight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>植物都在地表苦苦挣扎，相互压制，阻挡对方接受阳光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tallest plants, swirls of great sword-shaped leaves that shot straight out of the ground, did not exceed three meters in height. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最高的植物，有着螺旋排列的剑形树叶、从地面直挺挺地生长出来，也不超过三米。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hiking through this dense jungle was akin to bushwhacking through the wild cane fields of Sarah's childhood home in Java.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>徒步穿过这片灌木林和萨拉小时候穿越野荆棘丛的经历很相似，那时她住在爪哇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you have a plan of attack that I should prepare for?" AMI asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是否需要我准备一个攻击预案？”阿米问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll have to improvise," Sarah said, her breath heavy with exertion. "But I must figure out what happened to our machines."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这得随机应变，”萨拉说。经过一般跋涉，她的呼吸沉重起来：“我必须先搞清楚我们的机器发生了什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sixty years ago, when the first robotic exploratory probe, the Columbia, jumped through a wormhole and arrived at Alara, the planet had appeared to be paradise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六十年前，当第一架自动探测器哥伦比亚号穿过一个虫洞到达阿拉拉时，这颗星球简直宛若天堂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taking advantage of the wormhole, a ship that never exceeded the speed of light could go from Earth to Alara in a little more than ten years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>借助虫洞之便，一艘飞船不用超光速就可以花十年多一点的时间从地球到达阿拉拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had the right gravity, magnetic field, and atmosphere to support human habitation, and there did not appear to be any intelligent life that would stand in the way of colonization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿拉拉的重力、磁场和大气都适宜人类定居，而且上面似乎也没有其它智慧生命会妨碍我们移民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But before the first colony ship could be prepared, the Columbia went silent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但人们都还没来得及开始准备第一艘移民飞船，哥伦比亚号就音信全无。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its final transmissions through the wormhole showed menacing, metallic shapes approaching through the fog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们从它自虫洞传来的最后影像中看到，一些充满威胁性的金属制物体从一片星际尘埃中穿了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The probe fired warning shots at them and then, darkness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>探测器向它们发射了警告弹，而随即，便是一片黑暗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These last transmissions were scrutinized to extract every last bit of information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们对这段最后的影像进行了反复检查，每一比特的信息都不放过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The final conclusion was that the Columbia's attackers were alien machines.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终的结论是：袭击哥伦比亚号的是外星机器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No other evidence of advanced technological civilization was found on Alara, which meant that the machines had come from elsewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿拉拉星上没有先进技术文明存在的迹象，这意味着那些机器来自别处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The machines did not contain organic pilots, and there was no reason to believe that aliens had discovered how to break the laws of physics to remotely operate the machines through faster-than-light transmission of signals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些机器里没有有机生命驾驶员，我们也没有理由相信外星人发现了打破物理定律、用超光速信号传送技术远程控制机器的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The improbable yet logical conclusion was that we had encountered the robotic probes of another starfaring civilization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管不太可能，但仍符合逻辑的结论，只能是我们遭遇了其它遥远星球的文明发射的自动探测器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someone else also wanted Alara and was willing to fight us for it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们也想占据阿拉拉，并且不惜为之与我们开战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But popular opinion on Earth made the loss of human life in a war of colonial conquest unacceptable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在殖民争夺战中让人丧命是地球主流意见不能接受的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war had to be fought with no loss of human life, a Clean War. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要打一场不牺牲人命的战争，打一场无血之战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We are too civilized to die," as the president put it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像总统说的那样：“我们已经高度开化，不值得为野蛮去死。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A new robotic transport ship was thus prepared, and it carried to Alara the best military drones that Earth had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此人们开始着手准备一艘新的自动运输船，让它把地球上所有的最先进的军用无人飞艇送到阿拉拉星球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adapted from the smart drones that had allowed Earth's advanced nations to win wars for decades with zero casualties, the drones in this Second Assault were programmed to attack any alien robots they encountered with overwhelming force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整编入这次世称“第二次袭击”的智能飞艇都来自地球上最先进的国家，数十年来它们依靠这些飞艇赢得了各种战争的胜利，并且无人伤亡。它们的程序设置为一旦遇到外星飞船就要进行全力攻击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were fast, adaptable, and could modify their own routines in response to new conditions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们行动迅速、适应性强，并且可以对应新环境修正自己的行进路线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the enemy- the unseen alien masters of the hostile robots- proved to be superior technologists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但结果是，敌人——即那些敌对智能飞船背后的不明外星人——拥有更高级的技术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The robots of the Second Assault found an Alara filled with alien war machines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参与第二次袭击的飞船发现阿拉拉上充满了外星军用机器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Footage from the Second Assault showed Earth machines being outwitted and outgunned, defeated by the coordinated and flexible tactics of the alien robots.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传回的影像显示，地球的飞船中了圈套，然后被压制住，最终在外星智能飞船协调灵活的战术中败北。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fear that the enemy would eventually discover the path through the wormhole and attack Earth itself gripped the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>敌人终将发现穿越虫洞的路线而袭击地球的恐慌席卷全球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Roboticists, AI researchers, weapons experts, and military strategists worked feverishly to design Earth's next response, the Third Assault.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人工智能研究者、武器专家和战略家开始紧张地制定地球下一步的回应，即第三次袭击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah Bennett, one of the most brilliant roboticists of her generation, analyzed the data from the Second Assault and discovered a critical weakness in the enemy: the alien robots were overly conservative in their tactics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉·班尼特是她这一代人中最杰出的机器人学家之一。她通过分析第二次袭击传回的数据，发现了敌人的一个致命弱点：外星智能飞船在它们的战术中显得过于保守。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The alien robots preferred ambushes to direct engagement and appeared to favor disabling Earth machines to destroying them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们更喜欢伏击而不是阵地战，而且似乎更愿意只让地球飞船丧失机能而不是摧毁它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, some footage showed the alien robots attempting to repair disabled Earth machines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，一些影像显示出外星飞船在试着修理无法运作的地球飞船。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps the enemy programmed the robots this way so that they could study our technology and discover our weaknesses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许，敌人设计这样的程序，是为了让他们可以从中学到我们的技术，并发现我们的弱点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The programming of our military AIs has been limited by the blind spots of an older generation whose instincts date from when wars were still fought by people," Sarah wrote in her report. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们军用人工智能的程序被老一代人的狭隘观念所限制了，他们的认识来自战争还由人类自身进行的时代。”萨拉在她的报告中写道，“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Robots are not human soldiers, and the ethical considerations against suicide tactics do not apply. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>机器人不是人类士兵，并不需要遵从反对自杀性攻击的伦理考虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tactics may be dirty, but this will still be the Clean War."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个战术也许令人不齿，但我们打的依旧是无血战争。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The machines of the Third Assault were the smartest, most clever war machines ever designed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参与第三次袭击的机器人，是有史以来人们设计出的最巧妙、最聪明的军用机器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They incorporated Sarah's new programming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们加入了萨拉的新程序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After securing initial bases on Alara's surface, autonomous factories churned out drones which engaged enemy robots, allowed themselves to be disabled, only to self-destruct once they had been transported to enemy bases, causing maximal damage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在阿拉拉表面上安全地建立了基地之后，无人工厂开始制造大量的飞船吸引敌人，再让这些飞船自动丧失功能，并在被送到敌方基地时自毁，从而造成最大的杀伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Earth's celebration of these victories was short-lived. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但地球庆祝这些胜利的好景不长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as the Third Assault seemed close to eliminating all enemy presence on Alara, all of the Earth robots suddenly stopped transmitting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在第三次袭击几乎要消灭阿拉拉上出现的所有敌人时，地球飞船突然全体停止了信号传送。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had the enemy finally discovered a way to interfere with the code in our war machines? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道敌人在最后时刻发现了一种干扰我们军用机器代码的方法？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A real, flesh-and-blood roboticist, a creative intelligence unbound by programmed limitations, had to be sent to investigate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果是，那我们就必须要派一个真正的、拥有血肉之躯的机器人学家，一个不受程序限制、具有创造性思维的人前往调查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The generals evaluated millions of candidates with the help of strategic AIs, and they always arrived at the same conclusion: as the chief designer of the military AIs, Sarah was the most logical and efficient choice for the mission.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>军官们借助数台战略人工智能机对几百万候选者进行评估，而它们总是得到相同的结论：作为军用人工智能的首席设计师，萨拉是这次任务最合理且最佳的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Even one life lost might be one life too many," the president said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哪怕是失去一个人，也太多了。”总统如是说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shuddered at the thought of his poll numbers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想到自己的选票数，不禁打了个寒战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The escort drones will be able to buy the researcher only a very brief period of time to investigate how our machines were disabled," Sarah said. "We must send someone who has the expertise to figure out the answer as quickly as possible before. . .being overcome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“护卫舰队只能争取一段很短的时间，让研究者调查我们的机器为什么失灵，”萨拉说，“我们必须派某个具有专业知识，从而能够最快地在...溃败之前找到答案的人过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That means me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而这个人，就是我是吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The president nodded sagely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总统若有所思地点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had just realized that it would take more than a decade before anyone on Earth would learn of Sarah's fate. The poll numbers that would be affected wouldn't be his.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刚刚意识到，地球上的人需要十多年才能知道萨拉的命运如何，靠她拉到的选票不可能是自己的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If we don't defeat them, eventually they'll come to us, to our home," Sarah said to Tobias. She avoided looking at his face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果我们打败不了他们，那么他们迟早会找上门来，到我们家里。”萨拉对托比亚斯说，她没敢看着他的脸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tobias said nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托比亚斯什么也没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his body shook with the effort of not moving, of holding back his angry words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他的身体却因强忍着愤怒而颤抖着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tiny figure of Tara was asleep in his arms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小塔拉在他的怀里安睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have to go so that our daughter will have a future among the stars," Sarah said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我必须走，这样我们的女儿在这片星空下才有未来。”萨拉说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She turned away and rushed out of the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她转身跑出家门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She did not start to cry until she was halfway to the launch pad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在去发射台的路上，她终于哭了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The irony that the Clean War's fiercest advocate might end up as its first casualty did not escape her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无血之战最强硬的支持者也许会成为这个主张的第一个牺牲者，这种讽刺感一直在她心头挥之不去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah was glad to finally emerge from the dense jungle and step onto the clear, flat ground around the repair depot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>终于走出灌木林，踏上了修理仓周围平整的土地，萨拉心情不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact that the clearing had been maintained free of vegetation was promising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>清除植被的工作没有荒废，萨拉似乎看到了希望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps against the odds, the Earth drones had managed to stave off enemy robots within this depot and had only been prevented from contacting home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许虽然局势很惨，但地球的飞船一直在这里阻击来袭的敌人，只是没法联系本部而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cautiously, she made her way towards the building through the mist that made everything more than a few meters away invisible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉小心翼翼地走向仓库。雾很浓，几米开外都看不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AMI updated Sarah's HUD to outline the locations of doors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿米更新了萨拉显示器的信息，标出了门的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A hundred paces or so later, they arrived at one of the entrances. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大概一百多步之后，她们走到了一座大门外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plugging in a hardwire link to avoid any radio leakage, Sarah had AMI transmit the right encryption codes, and the door wooshed open. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为防止泄露无线电波，萨拉采用了硬件连接，然后让阿米输入加密代码，门随即便“呼”地一声打开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As soon as she stepped through, the door closed behind her, and she was plunged into complete darkness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她才刚走进去，身后的大门就关上了，她融入到完全的黑暗中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I do not know if any of the machines are operational," AMI said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道这里的机器还能不能工作。”阿米说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taking a deep breath, Sarah turned on the floodlights over her helmet, revealing eight hulking war machines scattered randomly over the depot floor, their motionless seven-foot carbon steel bodies like mini tanks with guns pointing in all directions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉做了一个深呼吸，然后打开了头盔上的探照灯。地上散落着八台笨重的军用机器，它们迷你坦克般的七英尺碳钢机身已经没法运动，机枪则指向各个方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She walked up to the nearest one and plugged her com-link in.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉走向最近的一台，连上了她的计算机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Override achieved," AMI said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“命令已启动。”阿米说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cascading diagnostic information flooded her HUD. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诊断信息瀑布般涌进萨拉的显示器里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"AMI, copy the memory image into a sandbox and begin disassembly."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“阿米，把记忆影像复制到沙盒里，开始反汇编。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Should I transmit a copy of the memory image to Earth?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要我给地球发一份副本吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not yet." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“先不要。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It still wasn't safe to break radio silence and reveal their presence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在打破无线电幽寂而暴露自己的存在对她们很危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah watched the lines and lines of disassembled code scroll before her on the HUD. She had to wait until it was complete to run her analysis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉看着显示器上翻滚而过的一行行反汇编代码，她得等它结束了才能开始分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"AMI, what time is it in Washington, D.C.?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“阿米，华盛顿特区现在几点了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a second, AMI replied, "I am unable to supply that information."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一秒过后，阿米回答：“我无法提供这类信息。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah sighed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉叹了口气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AMI couldn't make the calculations because all the drones and AIs sent on this mission had been scrubbed of all information concerning the location of Earth in order to prevent it from falling into enemy hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿米不能做这类运算，是因为执行这次任务的全部飞船和人工智能机都必须消除所有有关地球位置的信息，以防它们落入敌人手中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll just pretend it's nighttime.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那我就假设它现在是晚上好了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah imagined Tobias now setting Tara down in her crib, tucking the blanket over their daughter and singing her to sleep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉想象着托比亚斯把塔拉放到婴儿床上，然后给他们的女儿盖上毯子，在她身旁唱着歌直到她睡着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had a wonderful voice, no matter what he sang.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>托比亚斯有着美妙的嗓音，不论唱什么都很好听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she knew the image was wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但萨拉知道这些都是不可能的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More than ten years had passed on Earth as she traveled here, asleep in a bubble of time inside the wormhole. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她沉睡于虫洞里的一个时间泡沫到达这里时，地球上已经过去了十多年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tara was now almost a teenager, and Sarah had missed the entirety of her childhood.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塔拉现在已经是一个少女了，而萨拉错过了她的整个童年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Disassembly complete." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“反汇编完成。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AMI's voice recalled her to the task at hand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿米的声音把她唤回到眼前的任务上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sarah set to work, running the code through heuristic filters, generating call-graphs, tracking the history of self-modifications. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨拉开始了工作，应用启发式过滤器运行代码，创建调用关系图，查看自我修正的历史记录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had tweaked these AI routines for many sleepless nights and knew them as intimately as any of her tattoos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她曾在数个不眠之夜里调试这些人工智能程序，对它们的了解就像自己身上的纹身那么清楚。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

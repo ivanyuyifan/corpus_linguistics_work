@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160814T153221Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I.D.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鉴定</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"For an eiii-dee," they were saying. "We need to see Lisette Mulvey."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为了做一个机伊安-的应定，”他们说，“我们要见丽赛特·穆为。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was unexpected.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这真令人意想不到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In second-period class, at 9:40 A.M., on some damn Monday in some damn winter month she'd lost track of, when even the year - a "new" year - seemed weird to her, like a movie set in a faraway galaxy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第二节课上，上午九点四十分，在某个该死的冬月的某个该死的星期一，她已经不计月份了，甚至连那年的年份 —— “新的”一年 —— 对她来说都是个奇异的事情，就像是电影设定在某个遥远星球上的时代一般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was one of those school mornings - some older guys had got her high on beer, for a joke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又是一个不得不去学校的早上 —— 刚才她因为一个玩笑，和某些比她年级大点儿的家伙喝多了啤酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, it was funny, not just the guys laughing at her but Lisette laughing at herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗯哪，那是挺搞笑的，不光那帮家伙笑她，连丽赛特自己都笑自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not mean-laughing - she didn't think so - but like they liked her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的笑不像是出于恶意——她不这么认为—— 而更像是出于他们的喜爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Liz-zette" - "Liz-zette" - was their name for her, high-pitched piping like bats, and they'd run their fingers fast along her arms, her back, like she was scalding hot to the touch.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“利兹-兹兹”——“利兹-兹兹”——这是他们给她起的名字，听起来像蝙蝠发出的高分贝叫声，他们说的时候会用手指快速地划过她的胳膊，她的后背，就好像她的身子会烫到他们的手指似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They picked her up on their way to school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在上学的路上接上了她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The middle school was close to the high school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的初中离他们的高中不远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most times, she was with a girlfriend - Keisha or Tanya. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数时候，她都会和自己的一个女伴一起去 —— 凯赛或者坦雅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were mature girls for their age - Keisha, especially - and not shy like the other middle-school girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对于自己的同龄人，她们都显得更成熟 —— 特别是凯赛 —— 不像其他的初中女生那么腼腆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They knew how to talk to guys, and guys knew how to talk to them, but it was just talk mostly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们知道怎么和男的搭话，男的也知道怎么和她们搭话，但大多数时候也就止于搭话了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now this was - math? - damn math class that Lisette hated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在这是 —— 数学课？—— 丽赛特讨厌的该死的数学课。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made her feel so stupid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那让她觉得自己很笨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that she was stupid. It was just that sometimes her thoughts were as snarled as her hair, her eyes leaking tears behind her dark-purple-tinted glasses - pres-ciption lenses - so that she couldn't see what the hell the teacher was scribbling on the board, not even the shape of it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是说她真的笨，而只是有时候她的思维和她的头发一样纠结，她的眼睛在那双深紫色的墨镜 —— 治疗眼镜 —— 下流着眼泪，因此她看不清老师究竟在板子上划拉些什么鬼东西，连那些东西的形状都看不清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ms. Nowicki would say in her bright hopeful voice, "Who can help me here? Who can tell us what the next step is?" and most of the kids would just sit on their asses, staring. Smirking. Not wanting to be called on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诺维奇小姐会用她那欢快的、充满希望的嗓音说：“谁能上来帮帮我？谁能告诉我们下一步怎么做？”几乎全班孩子都会坐在椅子上上，盯着她，冲她傻笑，祈祷自己别被叫到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then Lisette was rarely called on in math class - sometimes she shut her eyes, pretending that she was thinking really hard, and when she opened them there was one of the three or four smart kids in the class at the board, taking the chalk from Nowicki. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是丽赛特很少在数学课上被叫到 —— 有时她会闭上眼睛，假装自己在努力思考，接着当她睁开眼睛的时候，班里那三四个聪明孩子中的一个就已经被叫到讲台上，从诺维奇手里接过了粉笔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tried to watch, and she tried to comprehend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她试图去看，试图去理解上面的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there was something about the sound of the chalk clicking on the board - not a black board, it was green - and the numerals that she was expected to make sense of: she'd begin to feel dizzy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可传到她脑子里的只是粉笔敲击板子 —— 不是黑板，板子是绿的 —— 的声音，和一堆她希望能弄明白的数字：她开始犯困了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mother, Yvette, had no trouble with numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的妈妈，伊维奇，摆弄数字一点儿问题都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a blackjack dealer at the Casino Royale. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是皇家赌场二十一点牌的发牌手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You had to be smart, and you had to think fast - you had to know what the hell you were doing - to be a blackjack dealer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你脑子得好使，还得转得快 —— 你得知道你到底在做什么 —— 如果你要做一个二十一点牌的发牌手的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Counting cards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>算牌术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was forbidden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是被禁止的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you caught somebody counting cards you signalled for help. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你逮到某人在算牌，你可以直接报警。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yvette liked to say that one day soon she would change her name, her hair color, and all that she could about herself, and drive out to Vegas, or to some lesser place, like Reno, and play blackjack in such a way that they'd never catch on - counting cards like no amateur could do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊维奇总说不久将来的一天她会更名改姓，换了发色以及自己身上所有能换的东西，然后开车去拉斯维加斯，或者某些小点儿的地方，比如里诺，用某种别人永远抓不到的算牌法玩二十一点 —— 那种算牌术可不是一般人能学得会的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if Lisette said, "You're going to take me with you, Momma, O.K.?" her mother would frown as if Lisette had said something really dumb, and laugh. "Sweetie, I'm just joking. Obviously you don't fuck with these casino guys."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特有时会说，“带我一起去吧，老妈，好不好？”听到这，她妈妈便会皱起眉头，敷衍几句，然后大笑道：“宝贝儿，我开玩笑呢，我怎么会让你和赌场的这些家伙混在一起呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vegas or Reno wasn't where she'd gone this time. Lisette was certain of that. She hadn't taken enough clothes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拉斯维加斯和里诺不是她妈妈这次去的地方，丽赛特能肯定这一点 —— 她没带够衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In seventh grade, Lisette had had no trouble with math. She'd had no trouble with any of her school subjects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>七年级的时候，丽赛特的数学还没有问题，她学的别的学科也都没问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd got mostly Bs and her mother had stuck her report card, open like a greeting card, to the refrigerator. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数时候，她都能拿到B，那时她妈妈会把她的成绩单像贺卡一样贴在冰箱上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All that seemed long ago now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些似乎都已经是很久以前的事了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was having a hard time sitting still. It was like red ants were crawling inside her clothes, in her armpits and between her legs. Stinging and tickling. Making her itch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她觉得坐久了很难受，就像有许多红蚂蚁她的在衣服里、腋窝下，大腿间爬来爬去，蜇她，挠她，令她发痒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except that she couldn't scratch the way she wanted to - really hard with her fingernails, to draw blood - and there was no point in just touching where her skin itched. That would only make it worse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不能按自己的想法去抓痒，就是用指甲狠狠地抓，抓到出血为止。但如果不这样，只是用手碰碰皮肤上痒的地方根本没用 —— 除了让情况更糟以外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ridge of her nose, where the cartilage and bone had been "rebuilt" - a numb sensation there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她鼻梁什么感觉也没有，那里的软骨和骨头都已经被“重建”了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And her eye - her left eye, with its tears dripping out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外她的眼睛 —— 左眼，正滴着眼泪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Liz-zette's crying! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>利兹-兹正在哭！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hey - Liz-zette's crying! Why're you crying, Liz-zz-zette?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗨 —— 利兹-兹正在哭！你为什么那么哭，我的利兹 – 兹兹 – 兹？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They liked her, the older guys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们喜欢她，那些大点儿的家伙们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was why they teased her. Like she was some kind of cute little animal, like - a mascot?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是为什么他们嘲弄她——他们当她是某种可爱的小动物，就像 —— 就像吉祥物那样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First time she'd seen J.C. (Jimmy Chang - he'd transferred into her class in sixth grade), she'd nudged Keisha, saying, "Ohhhh," like in some MTV video, a moan to signal sex-pain, though she didn't know what that was, exactly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她第一次见到J.C的时候（吉米·陈 —— 六年级转到她们班上的学生），她用胳膊肘推了推凯赛，发出了一声“哦......”。这声音听上去就像某些MTV里的人在性高潮时发出的呻吟那样，尽管她不知道那究竟代表了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mother's favorite music videos were soft rock, retro rock, country and Western, disco. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她妈妈最喜欢的音乐视频是慢摇滚、复古摇滚、乡村和西部音乐以及迪斯科。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette had heard her in the shower, singing-moaning in a way she couldn't decipher - was it angry or happy?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特听她在洗澡的时候哼过，用某种她无法破译的方法哼唱 —— 那是代表了愤怒还是代表了喜悦呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, she hated math class! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，她恨数学课！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hated this place!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恨这个地方！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sitting at her desk in the row by the windows, at the front of the classroom, made Lisette feel like she was at the edge of a bright-lit room looking in - like she wasn't a part of the class. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的桌子在靠窗的一排，在教室前边，这让丽赛特觉得自己是在一个明亮房间的边缘向内张望 —— 就好像自己不是教室的一部分似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowicki said, "It's to keep you involved, up close like this," so Lisette wouldn't daydream or lose her way, but it had just the opposite effect. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诺维奇小姐说：“让你坐这么近，是为了让你能融进来，”这样丽赛特就不会做白日梦或者走神了。但那恰恰起了反作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most days Lisette felt like she wasn't there at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天的大部分时间里丽赛特都觉得自己根本不在教室里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She swiped at her eyes. Shifted her buttocks hoping to alleviate the stinging red ants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她使劲揉自己的眼睛，左右挪动屁股，试图缓解红蚂蚁带来的的刺痒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nearly fifteen damn minutes she'd been waiting for the teacher to turn her fat back so that she could flip a folded-over note across the aisle to Keisha, for Keisha to flip over to J.C., in the next row. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几乎有该死的十五分钟，她都在等着老师转过那肥胖的身躯，这样她就可以把一个叠好的小条掷给过道那边的凯萨，再由凯萨丢给下一排的J.C.。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This note wasn't paper but a Kleenex, and on the Kleenex a lipstick kiss - a luscious grape-colored lipstick kiss - for J.C. from Lisette.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个小条不是一般的纸，而是一张面巾纸，上面印着一个唇印 —— 一个诱人的葡萄色的唇印 —— 一个来自丽赛特的、给J.C.的吻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd felt so dreamy blotting her lips on the Kleenex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把唇印印在面巾纸上让她觉得自己像在做梦似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A brand-new lipstick, Deep Purple, which her mother knew nothing about, because Lisette, like her girlfriends, wore lipstick only away from home, and it was startling how different they all looked within seconds - how mature and how sexy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用的是一款新上市的口红，紫色诱惑。她妈妈对此全然不知，因为丽赛特和她的朋友一样，只有不在家的时候才涂口红。口红让她们在瞬间发生了令人惊诧的变化 —— 变得那样成熟而性感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out of the corner of her eye she was watching J.C. - J.C., stretching his long legs in the aisle, silky black hair falling across his forehead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从眼角里撇着J.C. —— J.C.把他两条腿伸到过道里，顺滑的黑发从他的前额上垂下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C. wasn't a guy you trifled with. Not J.C. or his "posse." She'd been told. She'd been warned. These were older guys by a year or maybe two. They'd been kept back in school, or had started school later than their classmates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>J.C.不是那种你能和他闹着玩的家伙， J.C.或者他的“那伙人”都不是 —— 有人告诉过她，有人警告过她：“那是一伙比你大一岁或者两岁的家伙，他们或者留过级，或者比同龄人晚上了一两年学。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the beer buzz at the back of Lisette's head made her careless, reckless.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是现在，趁着酒劲，丽赛特什么都不在乎了，什么都无所谓了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C.'s father worked at the Trump Taj Mahal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>J.C.的爸爸在新泽西大西洋城的印度皇宫赌场工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where he'd come from, somewhere called Bay-jing, in China, he'd driven a car for some high government official. Or he'd been a bodyguard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他爸爸是从一个叫什么贝-鲸的地方来的，在中国。在那儿他爸爸给某个政府高官当过司机，或者当过保镖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C. boasted that his father carried a gun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>J.C.向别人吹嘘说他爸爸是能持枪的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C. had held it in his hand. Man, he'd fired it!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>J.C.拿过那把枪，靠，他还开过！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A girl had asked J.C. if he'd ever shot anybody and J.C. had shrugged and laughed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个女孩问过J.C.他是不是开枪打过人，J.C.耸了耸肩，放声大笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette's mother had moved Lisette and herself to Atlantic City from Edison, New Jersey, when Lisette was nine years old. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特九岁的时候，她妈妈把她们家从新泽西的埃迪逊区搬到了大西洋城，她和丽赛特的爸爸分居了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd been separated from Lisette's father, but later Daddy had come to stay with them when he was on leave from the Army. Then they were separated again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是后来她爸爸在部队休假的时候曾和她们住到一起，之后又分开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now they were divorced.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在她的父母已经离婚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette liked to name the places where her mother had worked. They had such special names: Trump Taj Mahal, Bally's, Harrah's, the Casino Royale. Except she wasn't certain if Yvette still worked at the Casino Royale - if she was still a blackjack dealer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特喜欢她妈妈工作过的那些地方的名字，它们是那样特别 —— 印度皇宫赌场、百利赌场、哈拉斯赌场，还有皇家赌场：除了她不确定伊维奇是不是还在在皇家赌场做 —— 是不是还做二十一点牌的发牌手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Could be, Yvette was back to being a cocktail waitress.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也有可能的是，伊维奇已经做回一个送酒小姐了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made Lisette so damn - fucking - angry! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这让丽赛特真觉得他妈的 —— 混蛋的 —— 气人！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You could ask her mother the most direct question, like "Exactly where the hell are you working now, Momma?" and her mother would find a way to give an answer that made some kind of sense at the time, but melted away afterward, like a tissue dipped in water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她可以最直接的问她妈妈：“你现在究竟在哪儿工作，老妈？”妈妈则会想法设法找个当时听来还算合情合理的答案，但之后就不攻自破了，就像一张浸到水里的纸巾那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C.'s father was a security guard at the Taj. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>J.C.的爸爸是印度宫赌场的保镖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was a fact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是个事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>J.C. and his friends never approached the Taj but hung out instead at the south end of the Strip, where there were cheap motels, fast-food restaurants, pawnshops, bail-bond shops, and storefront churches, with sprawling parking lots, not parking garages, so they could cruise the lots and side streets after dark and break into parked vehicles if no one was watching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以J.C.和他的朋友们从不接近印度宫，而总是在赌城大道的南部转悠，那儿有便宜的汽车旅馆、快餐、典当行、保释代理商、沿街教堂，有乱七八糟向外延伸的停车场，却没有车库，因而天黑之后他们就可以在停车场和街边巡视，如果附近没人，他们便会去撬车锁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The guys laughed at how easy it was to force open a locked door or a trunk, where people left things like, for instance, a woman's heavy handbag that she didn't want to carry while walking on the boardwalk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些家伙总嘲笑车门锁和后备箱锁是如此不堪一击，而人们却仍习惯把东西留在那里，比如沉甸甸的女士手提包 —— 她们在步行街上散步的时候懒得提着它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Assholes! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>废物！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of them were so dumb you almost felt sorry for them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们中的某些人真是傻到家了，你几乎都不必为他们的损失感到遗憾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette was still waiting for Nowicki to be distracted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特还在等着诺维奇的注意力被分散开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was beginning to lose her nerve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她开始失去勇气了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passing a lipstick kiss to J.C. was like saying, "All right, if you want to screw me, fuck me - whatever - hey, here I am."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传一个唇印给J.C.就像和他说，“好，要是你想上我，和我做 —— 不管干什么 —— 嗨，我在这儿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except maybe it was just a joke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了那可能就是一个玩笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So many things were jokes - you had to negotiate the more precise meaning later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么多事都是玩笑 —— 你不得不随后再商讨更确切的含义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there was a later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果有随后的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette wasn't into thinking too seriously about later.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特没太认真想随后会怎么样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wiped her eyes with her fingertips, like she wasn't supposed to do since the surgery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用指尖擦了擦眼睛，手术后，她本不该这样做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your fingers are dirty, Lisette. You must not touch your eyes with your dirty fingers. There is the risk of infection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的手指头太脏了，丽赛特，你不可以用你的脏手碰你的眼睛，当心感染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, God, she hated how both her eyes filled with tears in the cold months and in bright light, like the damn fluorescent light in all the schoolrooms and corridors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，上帝啊，她讨厌自己的眼睛在寒冬里和强光（比如学校所有房间和走廊的日光灯）下充满泪水的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So her mother had got permission for Lisette to wear her dark-purple-tinted glasses to school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正因为如此，她妈妈已经得到批准让丽赛特带着她那双深紫色的墨镜去上学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They made her look cool - like she was in high school, not middle school, sixteen or seventeen, not thirteen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这双墨镜让她看起来很酷 —— 就好像她已经是高中生了，而不再是初中生；就好像她已经十六七岁了，而不再只是十三岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hell, you're not thirteen - are you? You?" one of her mother's man friends would say, eying her suspiciously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“神啊，你不是十三岁吧？你是吗？你？”她妈妈的一个男性朋友说，用怀疑的目光看着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But, like, why would she want to play some trick about her age? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，她为什么要在自己的年龄上耍花招呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd been mostly an asshole, this friend of her mother's. Chester - Chet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个人基本就是个废物，她妈妈的这个朋友，切斯特 —— 切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he'd lent Momma some part of the money she'd needed for Lisette's eye doctor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是丽赛特治眼睛的时候，他曾借过她老妈一些钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This morning Lisette had had to get up by herself. Get her own breakfast - Frosted Wheaties - in front of the TV, and she hated morning TV, cartoons and crap, or, worse yet, "news." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天早上丽萨特不得不自己起床，然后自己弄点儿早饭（沾着糖霜的维特谷物早餐），端到电视机前吃。她讨厌早上的电视：卡通、粗制滥造的综艺节目，或者更糟糕的，“新闻”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd slept in her clothes for the third night in a row - black T-shirt, underwear, wool socks - dragged on her jeans, a scuzzy black sweater of her mother's with "TAJ" embossed on the back in turquoise satin. And her boots. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她已经连续三个晚上穿着衣服睡觉了 —— 黑T恤，内裤，羊毛袜子 —— 她拽上自己的牛仔裤，套上一件她妈妈的肮脏的黑色毛衣 —— 毛衣背面带着松绿色的“TAJ（皇家赌场的缩写 —— 译者注）”字样，再穿上她的靴子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Checked the phone messages but there were none.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她查了电话留言，但是什么消息也没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Friday night at nine her mother had called. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>星期五晚上九点她妈妈给她打过电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lisette had seen the caller I.D. and hadn't picked up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丽赛特看了来电显示，但没有接。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fuck you, going away. Why the fuck should I talk to you? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你他妈滚，我他妈为什么要和你说话？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, feeling kind of scared, hearing loud voices out in the street, she'd tried to call her mother's cell phone. But the call hadn't gone through. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，听着外面街上吵闹的声音，她觉得有点儿害怕，于是试着给她妈妈的手机拨电话，但是没打通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fuck you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你他妈的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hate you anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我恨你！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hate hate hate you!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恨你恨你恨你！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless Momma brought her back something nice, like when she and Lisette's father went to Fort Lauderdale for their "second honeymoon" and Momma brought back a pink-coral-colored outfit - tunic top, pants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非老妈给她带点儿什么回来。上次她和丽赛特的爸爸到佛罗里达的劳德代尔堡度“第二次蜜月”时，就给丽赛特带回了一身珊瑚粉色的衣服 —— 一件束腰上衣，一条裤子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even with all that had gone wrong in Fort Lauderdale, Momma had remembered to bring Lisette a gift.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管他们在劳德代尔堡的事情搞砸了，老妈还是记得给丽赛特带回了一件礼物来。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

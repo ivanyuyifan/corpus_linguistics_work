@@ -1,0 +1,959 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T033649Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Damned Spring</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该死的春天</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Vanessa, I had other girlfriends, but none of them was memorable or worthy of appearing in my scrapbook. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在瓦妮莎之前，我有过其他的女朋友，不过，她们中间没有一个是叫人难忘的，也不值得在我的剪贴簿里显摆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Actually, I never needed a confidante because I had an imaginary one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，我从来都不需要什么知心女友，因为我已有一个假想中的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes I talked to Tatum O'Neal, a redheaded actress I admired for her role as a precocious adolescent capable of falling in love with Richard Burton, who was old enough to be her grandfather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有时向塔特姆·奥尼尔（Tatum O'Neal）献献殷勤，她是一个有着红头发的电影演员，我喜欢她扮演的角色——一个竟能爱上理查德·伯顿（Richard Burton）的早熟的少女，那家伙老得足可以作她的爷爷了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vanessa was the first girl, and possibly the last, who earned the right to be a part of my world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瓦妮莎是有权进入我的生活的第一个女孩，也可能是最后一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She began to accompany me to the Witches' games and frequent parties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她开始陪我玩魔女游戏（Witches' games ），一起频繁地参加聚会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I was too old to be the team mascot, and I didn't play softball, but I got excited watching my surrogate aunts in action. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我长大了，不能再扮演球队的吉祥物了。我虽然不打垒球，但看着我的代阿姨们（surrogate aunts）战斗，我还是很兴奋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon Vanessa became a fan like me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瓦妮莎很快就成了像我一样的粉丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fortunately, Eli didn't want to come with us because she was allergic to men's deodorant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸好，伊莱不想和我们在一起，因为她对男士除臭剂过敏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The team welcomed Vanessa with open arms and soon got used to seeing us cuddling on the steps, slobbering over each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>球队热情地欢迎了瓦妮莎，他们很快就习惯看我们在台阶上搂搂抱抱、彼此亲热了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody was surprised, because some Witches did the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没人大惊小怪，因为有些“魔女”不也是这样吗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I figured out who was with whom, like Lu and Yola, for example. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我盘算着谁和谁是一对，例如像娽和约拉那样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yola was a reserve player. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约拉是一个预备队员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes she didn't even take the field, but she was always there, rooting loudly for the winning team. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时她甚至连场都不下，但她总是像生了根似地呆在那里，为获胜的队高声呐喊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I found those couples funny because they weren't "girlfriends" like those well-dressed, perfectly manicured ladies who often visited Mama to play dominoes, read fashion magazines, and try Avon products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉着这一对一对的很有趣，因为他们不是那种穿着考究、修整得体，成天邀着妈妈玩多米诺骨牌、看时装杂志、尝试雅芳产品那样的“女朋友”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, Mama's friends, with invisible husbands like hers, deep down envied her and hated her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，妈妈的朋友，都有一个不起眼的丈夫，和她的一样，她们从心底里又羡慕妈妈又恨她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama, for her part, made fun of their unhappy marriages, of their desperate attempts to stay beautiful through cosmetic surgeries and stupid creams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就妈妈而言，妈妈嘲笑她们不幸的婚姻，嘲笑她们不顾一切地妄图留住美丽，又是整容，又是抹恼人的面霜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't a real friendship, but a cruel competition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是真正的友谊，而是一场残酷的竞争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lu and Yola's friendship was something else, like the friendship between Lupita Ch¨¢irez and Dunia, the beautiful cheerleader, or Puppy Fraga and Edelmira Cueto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>娽和约拉的友谊就是另外一回事了，就同吕佩妲·谢瑞兹（Lupita Cháirez ）和那个漂亮的拉拉队长杜妮娅（Dunia）或者普裴·弗拉加（Puppy Fraga ）和埃德尔米拉·奎托（Edelmira Cueto）之间的友谊一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were true friends, who showered affection on each other, dedicated songs to each other, looked each other in the eye, and held hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们都是真正的朋友，彼此沐浴着情感、互送着歌声、含情脉脉相望、手牵着手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let's just say, before Vanessa, I had only friends like Mama's, who fought for the best doll and the best dress.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样说吧，在认识瓦妮莎之前，我只有像妈妈的朋友那样的朋友，为了最好的玩偶、最好的衣服而争得头破血流的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Mama didn't want me to kiss Vanessa; she said it wasn't right, it was vulgar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是妈妈不让我吻瓦妮莎；她说那样不对，是低俗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lu and the Witches had no problem with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>娽和那些魔女对此就没有异议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody judged us for snuggling together in a chair, or for eating off each other's plates like puppies. For the Witches, a sincere friendship between women wasn't a bad thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人会因为我们一起依偎在一张椅子上、或者因为像小狗那样舔干净彼此的盘子而指责我们，在那些魔女们看来，女人之间真诚的友谊并不是一件坏事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the contrary, they celebrated it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，她们为这友谊庆幸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a rough time when I met Gabriel Garmendia, this intruder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从我遇上加布里埃尔·加门迪亚（Gabriel Garmendia）这个入侵者，我的日子就不好过了。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My hope of having Marianela as an ally was rather quickly dashed, as the boy turned out to be very responsible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要瓦妮莎的妈妈玛丽内拉（Marianela ）做我的同盟军的愿望很快就破灭了，因为这个男孩原来是一个非常有责任感的人。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had no intention of dragging her daughter down the dark back alley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他绝没有要把她的女儿拽到黑暗的穷街陋巷里去的意图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No. He was serious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，他是认真的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Eli, Gabriel Garmendia showed up at their telenovela house with a large bouquet of roses, cut and arranged by his own hand, not for Vanessa, but for Do?a Marianela. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据伊莱说：加布里埃尔·加门蒂亚曾在他们拍电视连续剧的房子里露过面，手里拿着一大把玫瑰花，是他亲手摘来并捆扎好的，不是献给瓦妮莎，而是献给多娜·玛丽内拉（Do?a Marianela）的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He needed to talk to his future mother-in-law and convince her that his intentions were honorable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他需要和他这个未来的岳母谈谈，让她相信他的意图是高尚的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To top it all, the boy, who had recently turned fifteen, was tall, well built, handsome, blond, green-eyed, gallant, and pristine as a tablecloth in Restaurant Pedregal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更糟糕的是，这个最近刚满15岁的男孩，个子高高、身材健美、英俊潇洒、金发碧眼、骑士风度，而且质朴得就像佩德雷加尔大饭店的桌布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wealthy, in a word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总之一句话：阔气！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eli mocked the look on her mother's face when she saw the young man with slicked-back hair in front of her, holding out the bouquet. With her mouth wide open, she sighed ridiculously, received the flowers, and smelled them, tears welling up in her eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊莱模仿着她妈妈当时脸上的表情说：当时她打量着面前这位头发顺滑地向后梳着、手里举着把花的少年，大张着嘴，发出一声叫人发笑的唏嘘，接过了花，嗅着，泪水夺眶而出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She has always been pathetically sentimental.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她总是这样感情冲动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Senora," the starchy boy began solemnly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“Senora（西班牙语：“夫人”——译者）”，这位腼腆的男孩郑重其事地开始了他的谈话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm Gabriel Garmendia, the son of Don Roque, the owner of Garmendia Auto Parts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我叫加布里埃尔·加门迪亚，“加门迪亚汽车配件”店主，唐·罗克（Don Roque）的儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have seen me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>您见过我的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're a national chain, and I go to the Liceo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是全国连锁，正要上里士奥（Liceo）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have a personal bank account and a special driver's license, and I'm an only child, therefore the only heir. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有一个个人银行帐户、一个特殊驾照，我是独生子，所以是唯一的继承人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tell you all this because I'm very much interested in forming a deep friendship with your eldest daughter with a view to a serious commitment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和您说这一切，是因为我非常倾心和您的大女儿建立深厚的友谊，我是认真的、我保证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can tell she'll be in good hands because my parents have taught me to act like a gentleman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>您放心，她会得到很好的照顾的，因为我的父母教导我行为举止要像个绅士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me tell you that Vanessa is surely her mother's daughter because you're elegant as well as beautiful."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我这么说吧：瓦妮莎不愧是她妈妈的女儿，还不是因为您既高雅、又漂亮。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moved to scream, Marianela poured the little gentleman sweet anisette, which she kept under her pillow for extremely special occasions, and before long, he was dazed and stammering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玛丽内拉感动得大笑起来，她给这个小绅士灌了通甜型茴香酒，这酒是她压在她的枕头底下预备在极特殊的场合用的，不一会儿，他就晕晕乎乎的了，说话也不连理了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needless to say, Marianela gave the suitor a pass and her blessing, going over to the enemy's camp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不用说，玛丽内拉给了这位求婚者一张通往婚礼路上的“通行证”，还有她的祝福，一下子就跑到“敌人”的营垒里去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now only Eli and I raised objections, Eli because she couldn't stand to see her sister happy; I, because I couldn't stand to see Vanessa happy without me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在只有我和伊莱表示反对，伊莱是因为她看着姐姐幸福无法忍受，我则是不能忍受瓦妮莎没有我居然也能那么开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gabriel Garmendia wanted to use the same tactics on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加布里埃尔·加门迪亚想对我也使用同样的策略。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vanessa made him realize that it was important to win over her best friend as well, because my blessing on their relationship was as important as her mother's. He just planted himself in front of my door and rang the bell with his immaculate finger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是瓦妮莎提醒他：把她最好的朋友争取过来也同样重要，因为，我对他们俩关系的祝福和她妈妈的一样重要。于是他就径直戳在我的房门前，用他那一尘不染的手指按了门铃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是独自一人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was watching The Smurfs lying on my stomach on the living-room rug while Mama was taking her nap, wearing an aloe facial mask. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我正趴在客厅的地毯上看《蓝精灵》，而妈妈在小憩，脸上还拓着一张芦荟美容面膜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I answered the door, the blond boy held an enormous box of imported Scandinavian marshmallows to my face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去应门时，这个金发碧眼的男孩端着一大盒进口的斯堪的纳维亚棉花糖堵在我的面前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hello," he said, smiling like a young heartthrob from a Disney movie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哈罗”他说，笑得就像迪斯尼动画片里的小万人迷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm Gabriel Garmendia, Vanessa's boyfriend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我是加布里埃尔·加门迪亚，瓦妮莎的男朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father, Don Roque, owns a national auto parts chain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲，唐·罗克，拥有一家汽车配件全国连锁店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I wanted to meet you because Vanessa has told me you're like her sister."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想见见你，因为瓦妮莎告诉我你就像是她的姐姐一样。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tried to put myself into Gabriel Garmendia's Nike shoes and Lacoste shirt; to see my own timid, chubby face sticking out, with the chain on the door still in place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我使劲儿探着身子，加布里埃尔·加门迪亚的耐克牌皮鞋和法国鳄鱼牌衬衫分外扎眼；我那羞红的、胖乎乎的脸也在门口显得很突出，门上的锁链仍然那样挂着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My angry eyes traveled from his angelic face to the luxurious red box with its droll-faced cow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我愠怒地瞪着眼睛，从他那天使般的脸一直扫视到那只红底儿上画着一个滑稽可笑的牛脸的包装很奢华盒子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why marshmallows, darn it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真讨厌，怎么是棉花糖？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe Vanessa told him her best friend was a pimply-faced fat girl addicted to sweets?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许是瓦妮莎告诉他：她最好的朋友是一个痴迷甜食、脸上有粉刺的胖姑娘？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm on a diet!" I said, slamming the door against his turned-up nose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我在节食呢！”我说，说着就冲着他的那只朝天鼻把门砰地摔上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a miracle that Vanessa didn't get upset over my slighting her boyfriend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奇怪的是：瓦妮莎竟没有在乎我对她男朋友的轻慢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, she acted magnanimously like a goddess of beauty who understands and forgives her followers' jealousy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，她宽容大度得就像个美丽女神一样，理解和宽恕了她的追随者的嫉妒心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, you silly girl!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“唉...你个傻姑娘！” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She hugged me, passionately effusive as always. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她紧紧地拥抱了我，还是像往常一样热情四溢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Don't you see? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不知道吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, don't you see you mean the world to me? Gabriel is another thing, and it has nothing to do with us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗨，难道你不知道你就是我的世界吗？加布里埃尔是另外一回事，根本就不会影响我们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You'll be spending all your time with him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你会把你所有的时间都花在他身上的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're completely wrong." She kissed and pinched my cheek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你完全错了！” 她吻着、捏着我的面颊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll still be with you all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我还是一直都会和你在一起的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm just asking you to share me with him a little."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只是要你让我和他分享一点点。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What are you talking about?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你在说什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've laid out conditions for Gabriel, and he's willing to comply with them, every single one of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我已经和加布里埃尔约法三章了，他愿意遵守，每一条都愿意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd do anything to please me, no matter how ridiculous my wishes are. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他愿意做任何事情，只要我高兴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And one of them has been to have you come with us everywhere."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不知道我的要求有多么地荒唐可笑，其中有一条就是：不管我们在任何地方，都得带上你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're crazy!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你疯了！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wouldn't be able to stand watching him kiss her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看着他吻她，我可忍受不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Listen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听我说嘛！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm dying to have a boyfriend, but I don't want to lose you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我渴望有个男朋友，但我不想失去你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you understand? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听懂吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm absolutely sure you'll do the same when a boy..." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我绝对可以肯定：只要男孩子能...你都可以做”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That won't happen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那样的事不会发生的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only man I've ever loved, ever will love, is out of reach."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾经爱过的，今后也永远爱下去的唯一的男人，远在天边呢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you mean Mr. Noriega? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是说诺列加先生（Noriega）？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she held me tightly, I had to resist the urge to lick the blue vein pulsing in her neck like a violin string. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她紧紧地抱着我的时候，我不得不用舌头轻添她脖子上那像小提琴琴弦般搏动着的青筋，来抵御那种强烈的欲望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If you'd only take my advice, try to lose some weight, and get a stylish haircut! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“只要你肯听我劝，试着减减肥，弄一个时髦的发型！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't have to make sacrifices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不必做什么牺牲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll show you how to make yourself vomit if you want. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就教你怎么让自己热力袭人，只要你想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I bet a thousand Mr. Noriegas would go nuts over you! Come on, you silly girl, stop crying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我敢打一千个赌，诺列加先生定会发疯似地喜欢上你！别这样，你个傻丫头，别哭了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The largest slice of my heart is yours."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的心最大的那一瓣属于你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh my God, my idea of sex was disgustingly scandalous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>噢，天啊！性在我看来是那么令人作呕和丑陋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sixth-grade biology book shows how to make a baby, with illustrations and everything, but the image that came to my mind as I imagined what it was like was the image of men and women fornicating like dogs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六年级的生物书上就讲过如何生小孩，上面还有插图什么的，应有尽有，可是，那映入我脑海的图像就和我曾经猜想过的一样：像狗一样交合的男男女女。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I refused to believe Papa and Mama did it like that, and moreover, I doubted they did it because they were always too discreet to let escape a moan that could ruin my innocence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不愿相信爸爸妈妈也像那样干过，再说，我之所以有此怀疑，是因为他们总是那么小心翼翼，生怕有一个呻吟“出走”而毁了我的清纯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I suppose they had real sex, with shouts and grunts, somewhere else, when they made those mysterious escapes to Delmonico's restaurant, leaving me with Lu, with whom I had a great time: we went out into the street to flirt with girls, she took me to poker games with her girlfriends, and we sang songs by Lola Beltran and Chabela Vargas, and she made me delicious spicy dinners.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，他们一定是带着呼喊、带着哼哼叽叽，逃到别的什么地方过真正的性生活去了，当他们那些神秘“出走”制造到黛尔莫妮克（Delmonico's）公司的饭店的时候，就把我留下来和娽在一起，我和娽玩儿得很开心：我们跑到大街上和那些女孩子们打情骂俏，她带着我和她的女朋友们一起打扑克，我们唱着罗拉·贝尔特兰（Lola Beltrán）和查维拉·瓦加斯（Chabela Vargas）的歌，他还给我做辛辣可口的晚餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew Vanessa had been kissed on the mouth many times, but I dismissed Marianela's fears about her daughter's imminent deflowering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道瓦妮莎已经被吻过好多次嘴巴了，可我解除了玛丽内拉对她女儿即将失去少女童贞的担心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For my part, I had been kissed only once- a kiss stolen by a friend in elementary school, a passionate French boy named Philippe Vanier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我呢？我只被吻过一次——是被小学时的一个小伙伴儿偷吻的，那是一个名叫菲利普·瓦尼埃的性情暴躁的法国男孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The experience was not pleasant, especially because I think I became sick as a result of that only kiss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那次经历并不愉快，主要是因为：正是由于那个唯一的吻，搞得我心里很不舒服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first thing I did was go to the restroom and check my panties because something had happened deep inside me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当即就跑到厕所验看我的短内裤，因为我觉着身体深处已经发生了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was completely soaked, wet enough to wring out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我完全湿透了，湿得可以拧出水来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's pee," I told myself, "I've wet myself, filthy girl." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那是尿，”我告诉自己，“我尿裤子了，腌臜死了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peeing in your pants at the age of ten was a symptom of madness or imbecility. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十岁还尿裤子那就是傻子或低能的表症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had to get used to that anomaly that kept happening (even though it was more controlled) when Mr. Noriega pinched my cheek.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当诺列加先生揪我的脸蛋的时候，我不得不就合着那种持续不断的重力异常（即使诺列加先生竭力控制着他的手劲儿。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But going back to Gabriel Garmendia: the poor thing had to go into his virgin bank account because going out with his Vanessa meant taking Eli and me with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在回过头来说说加布里埃尔·加门迪亚吧：这个可怜的家伙不得不启用他那个尚未启用过的个人银行账户了，因为他要和他的瓦妮莎出去约会，就意味着得带上伊莱和我。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll never forget the look on his face when his girlfriend showed up for their first date chaperoned by a fatty and a midget- only the bearded lady was missing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我永远都忘不了：当他的女友在一个胖子、一个小个子（就差那个有点男人气概的太太没来）陪同下来赴他们的第一次约会时他脸上的那种表情了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boy had no choice but to force a smile to his lips, fastened as if by thumbtacks at the corners of his mouth, and pretended to be glad to pick up the restaurant tab for these bulimic girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时他别无选择，只好嘴唇一咧，咧出一个干笑，就仿佛被几个图钉按在了他嘴巴的拐角处一般，佯装着乐于为这些食欲过旺的姑娘们买单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eli and I conspired to ruin their date in every possible way, not just smearing snot all over the seat covers of his elegant Mustang. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和伊莱合谋想搅黄了他们的这场约会，只要能搅黄无所不用其极，不只是在他那考究的“野马（Mustang）”车的座套上到处乱抹鼻涕脓袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We transformed the idyllic scene into a pigpen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们把那个田园诗般的观瞻弄得像个猪圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eli had four milk shakes in a row, and I only three, but I also suggested a family-size pizza was not enough, and Gabriel Garmendia had to pay for a combo with four extra ingredients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊莱要了四个一排的奶昔，我只要了三个，可我还说：一个家庭装的皮萨饼恐怕不够，于是，加布里埃尔·加门迪亚不得不又去买了一个四份一组的拼盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sweated as he watched us gobble down the food. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他看着我们大快朵颐时都冒汗了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I bet he was adding up the bill on his fingers under the table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我敢打赌：他一定是在桌子底下搬着手指在那儿合计账单呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once outside, Eli and I jumped around him like Indians around a bonfire, pleading him to take us to the movies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一出来，我和伊莱就像印第安人围着篝火那样在他的周围跳跃着，央求他带我们去看电影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Little Darlings was premiering, starring Tatum and Kristy McNichol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正在放映中的是《小可爱》（Little Darlings），由塔特姆（Tatum）和克莉斯蒂．麦妮可（Kristy McNichol）领衔主演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was long before I'd discovered I'd prefer a hairdresser to Christopher Atkins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前很久，我就发现自己更喜欢克里斯托弗斯·阿特金斯（Christopher Atkins）那样的发型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Esc¨¢ndalo magazine, both girls compete to lose their virginity at summer camp, and the main target is, hold on, girls, Matt Dillon! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据《丑闻（Escándalo））》杂志说，影片中，两位少女比赛在夏令营中看谁先失去她的处女贞操，而且主要对象就是，抓住，姑娘们，马特·狄龙（Matt Dillon）！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who would want to miss it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谁会想错过呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gabriel Garmendia not only had to pay for the tickets, but also our pillaging of the candy store.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加布里埃尔·加门迪亚不仅不得不买票，而且还买单让我们在糖果店“洗劫”了一番。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every time I searched for Vanessa's hand under the table, I found someone else's smooth hand- Gabriel Garmendia's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当我在桌子底下摸索瓦尼莎的手的时候，就觉得还有另外一只光滑的手——加布里埃尔·加门迪亚的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vanessa and I touched each other all the time, even in front of her mother or mine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瓦尼莎和我总是彼此肌肤相亲，即使是在她母亲或者我母亲的面前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While we were apparently eating, they never found out how our legs and hands met, pressing our knees together, touching each other's soles, or linking our ankles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最明显的就是吃饭的时候，我们膝盖压着膝盖，鞋底挨着鞋底、脚踝连着脚踝，他们怎么也想不出我们的腿和手是怎么搅在一起的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Smelling of Motitas fruit gum, we absorbed each other's sweat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们吸收着彼此的汗水，沐浴在莫迪塔斯（Motitas）水果口香糖的馨香里。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

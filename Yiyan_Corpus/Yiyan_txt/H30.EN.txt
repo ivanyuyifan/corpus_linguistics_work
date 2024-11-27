@@ -1,0 +1,86 @@
+High prices for gasoline and home heating oil are here to stay. 
+The U.S. is at war in the Middle East at least in part to protect its foreign oil interests. 
+And as China, India and other nations rapidly increase their demand for fossil fuels, future fighting over energy looms large. 
+In the meantime, power plants that burn coal, oil and natural gas, as well as vehicles everywhere, continue to pour millions of tons of pollutants and greenhouse gases into the atmosphere annually, threatening the planet.
+Well-meaning scientists, engineers, economists and politicians have proposed various steps that could slightly reduce fossil-fuel use and emissions. These steps are not enough. 
+The U.S. needs a bold plan to free itself from fossil fuels. 
+Our analysis convinces us that a massive switch to solar power is the logical answer.
+Solar energy¡¯s potential is off the chart. 
+The energy in sunlight striking the earth for 40 minutes is equivalent to global energy consumption for a year. 
+The U.S. is lucky to be endowed with a vast resource; at least 250,000 square miles of land in the Southwest alone are suitable for constructing solar power plants, and that land receives more than 4,500 quadrillion British thermal units (Btu) of solar radiation a year. Converting only 2.5 percent of that radiation into electricity would match the nation¡¯s total energy consumption in 2006.
+To convert the country to solar power, huge tracts of land would have to be covered with photovoltaic panels and solar heating troughs. A direct-current (DC) transmission backbone would also have to be erected to send that energy efficiently across the nation.
+The technology is ready. 
+On the following pages we present a grand plan that could provide 69 percent of the U.S.¡¯s electricity and 35 percent of its total energy (which includes transportation) with solar power by 2050. 
+We project that this energy could be sold to consumers at rates equivalent to today¡¯s rates for conventional power sources, about five cents per kilowatt-hour (kWh). 
+If wind, biomass and geothermal sources were also developed, renewable energy could provide 100 percent of the nation¡¯s electricity and 90 percent of its energy by 2100.
+The federal government would have to invest more than $400 billion over the next 40 years to complete the 2050 plan. 
+That investment is substantial, but the payoff is greater. 
+Solar plants consume little or no fuel, saving billions of dollars year after year. 
+The infrastructure would displace 300 large coal-fired power plants and 300 more large natural gas plants and all the fuels they consume. 
+The plan would effectively eliminate all imported oil, fundamentally cutting U.S. trade deficits and easing political tension in the Middle East and elsewhere. 
+Because solar technologies are almost pollution-free, the plan would also reduce greenhouse gas emissions from power plants by 1.7 billion tons a year, and another 1.9 billion tons from gasoline vehicles would be displaced by plug-in hybrids refueled by the solar power grid. 
+In 2050 U.S. carbon dioxide emissions would be 62 percent below 2005 levels, putting a major brake on global warming.
+In the past few years the cost to produce photovoltaic cells and modules has dropped significantly, opening the way for large-scale deployment. 
+Various cell types exist, but the least expen sive modules today are thin films made of cadmium telluride. 
+To provide electricity at six cents per kWh by 2020, cadmium telluride modules would have to convert electricity with 14 percent efficiency, and systems would have to be installed at $1.20 per watt of capacity. 
+Current modules have 10 percent efficiency and an installed system cost of about $4 per watt. 
+Progress is clearly needed, but the technology is advancing quickly; commercial efficiencies have risen from 9 to 10 percent in the past 12 months. 
+It is worth noting, too, that as modules improve, rooftop photovoltaics will become more cost-competitive for homeowners, reducing daytime electricity demand.
+In our plan, by 2050 photovoltaic technology would provide almost 3,000 gigawatts (GW), or billions of watts, of power. 
+Some 30,000 square miles of photovoltaic arrays would have to be erected. Although this area may sound enormous, installations already in place indicate that the land required for each gigawatt-hour of solar energy produced in the Southwest is less than that needed for a coal-powered plant when factoring in land for coal mining. 
+Studies by the National Renewable Energy Laboratory in Golden, Colo., show that more than enough land in the Southwest is available without requiring use of environmentally sensitive areas, population centers or difficult terrain. 
+Jack Lavelle, a spokesperson for Arizona¡¯s Department of Water Conservation, has noted that more than 80 percent of his state¡¯s land is not privately owned and that Arizona is very interested in developing its solar potential. 
+The benign nature of photovoltaic plants (including no water consumption) should keep environmental concerns to a minimum.
+The main progress required, then, is to raise module efficiency to 14 percent. 
+Although the efficiencies of commercial modules will never reach those of solar cells in the laboratory, cadmium telluride cells at the National Renewable Energy Laboratory are now up to 16.5 percent and rising. 
+At least one manufacturer, First Solar in Perrysburg, Ohio, increased module efficiency from 6 to 10 percent from 2005 to 2007 and is reaching for 11.5 percent by 2010.
+The great limiting factor of solar power, of course, is that it generates little electricity when skies are cloudy and none at night. 
+Excess power must therefore be produced during sunny hours and stored for use during dark hours. 
+Most energy storage systems such as batteries are expensive or inefficient.
+Compressed-air energy storage has emerged as a successful alternative. Electricity from photovoltaic plants compresses air and pumps it into vacant underground caverns, abandoned mines, aquifers and depleted natural gas wells. 
+The pressurized air is released on demand to turn a turbine that generates electricity, aided by burning small amounts of natural gas. 
+Compressed-air energy storage plants have been operating reliably in Huntorf, Germany, since 1978 and in McIntosh, Ala., since 1991. 
+The turbines burn only 40 percent of the natural gas they would if they were fueled by natural gas alone, and better heat recovery technology would lower that figure to 30 percent.
+Studies by the Electric Power Research Institute in Palo Alto, Calif., indicate that the cost of compressed-air energy storage today is about half that of lead-acid batteries. 
+The research indicates that these facilities would add three or four cents per kWh to photovoltaic generation, bringing the total 2020 cost to eight or nine cents per kWh.
+Electricity from photovoltaic farms in the Southwest would be sent over high-voltage DC transmission lines to compressed-air storage facilities throughout the country, where turbines would generate electricity year-round. 
+The key is to find adequate sites. 
+Mapping by the natural gas industry and the Electric Power Research Institute shows that suitable geologic formations exist in 75 percent of the country, often close to metropolitan areas. 
+Indeed, a compressed-air energy storage system would look similar to the U.S. natural gas storage system. 
+The industry stores eight trillion cubic feet of gas in 400 underground reservoirs. By 2050 our plan would require 535 billion cubic feet of storage, with air pressurized at 1,100 pounds per square inch. 
+Although development will be a challenge, plenty of reservoirs are available, and it would be reasonable for the natural gas industry to invest in such a network.
+Another technology that would supply perhaps one fifth of the solar energy in our vision is known as concentrated solar power. 
+In this design, long, metallic mirrors focus sunlight onto a pipe filled with fluid, heating the fluid like a huge magnifying glass might. The hot fluid runs through a heat exchanger, producing steam that turns a turbine.
+For energy storage, the pipes run into a large, insulated tank filled with molten salt, which retains heat efficiently. 
+Heat is extracted at night, creating steam. 
+The molten salt does slowly cool, however, so the energy stored must be tapped within a day.
+Nine concentrated solar power plants with a total capacity of 354 megawatts (MW) have been generating electricity reliably for years in the U.S. 
+A new 64-MW plant in Nevada came online in March 2007. These plants, however, do not have heat storage. 
+The first commercial installation to incorporate it¡ªa 50-MW plant with seven hours of molten salt storage¡ªis being constructed in Spain, and others are being designed around the world. 
+For our plan, 16 hours of storage would be needed so that electricity could be generated 24 hours a day.
+Existing plants prove that concentrated solar power is practical, but costs must decrease. 
+Economies of scale and continued research would help. 
+In 2006 a report by the Solar Task Force of the Western Governors¡¯ Association concluded that concentrated solar power could provide electricity at 10 cents per kWh or less by 2015 if 4 GW of plants were constructed. 
+Finding ways to boost the temperature of heat exchanger fluids would raise operating efficiency, too. 
+Engineers are also investigating how to use molten salt itself as the heat-transfer fluid, reducing heat losses as well as capital costs. 
+Salt is corrosive, however, so more resilient piping systems are needed.
+Concentrated solar power and photovoltaics represent two different technology paths. 
+Neither is fully developed, so our plan brings them both to large-scale deployment by 2020, giving them time to mature. 
+Various combinations of solar technologies might also evolve to meet demand economically. 
+As installations expand, engineers and accountants can evaluate the pros and cons, and investors may decide to support one technology more than another.
+The geography of solar power is obviously different from the nation¡¯s current supply scheme. 
+Today coal, oil, natural gas and nuclear power plants dot the landscape, built relatively close to where power is needed. 
+Most of the country¡¯s solar generation would stand in the Southwest. The existing system of alternating-current (AC) power lines is not robust enough to carry power from these centers to consumers everywhere and would lose too much energy over long hauls. A new high-voltage, direct-current (HVDC) power transmission backbone would have to be built.
+Studies by Oak Ridge National Laboratory indicate that long-distance HVDC lines lose far less energy than AC lines do over equivalent spans. 
+The backbone would radiate from the Southwest toward the nation¡¯s borders. The lines would terminate at converter stations where the power would be switched to AC and sent along existing regional transmission lines that supply customers.
+The AC system is also simply out of capacity, leading to noted shortages in California and other regions; DC lines are cheaper to build and require less land area than equivalent AC lines. About 500 miles of HVDC lines operate in the U.S. today and have proved reliable and efficient. 
+No major technical advances seem to be needed, but more experience would help refine operations. 
+The Southwest Power Pool of Texas is designing an integrated system of DC and AC transmission to enable development of 10 GW of wind power in western Texas. 
+And TransCanada, Inc., is proposing 2,200 miles of HVDC lines to carry wind energy from Montana and Wyoming south to Las Vegas and beyond.
+Stage One: Present to 2020
+We have given considerable thought to how the solar grand plan can be deployed. We foresee two distinct stages. 
+The first, from now until 2020, must make solar competitive at the mass-production level. 
+This stage will require the government to guarantee 30-year loans, agree to purchase power and provide price-support subsidies. 
+The annual aid package would rise steadily from 2011 to 2020. At that time, the solar technologies would compete on their own merits. The cumulative subsidy would total $420 billion (we will explain later how to pay this bill).
+About 84 GW of photovoltaics and concentrated solar power plants would be built by 2020. In parallel, the DC transmission system would be laid. 
+It would expand via existing rights-of-way along interstate highway corridors, minimizing land-acquisition and regulatory hurdles. 

@@ -1,0 +1,1161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160906T052047Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where the Red Fern Grows (by Wilson Rawls) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>红蕨生长在哪里（威尔逊·罗尔斯 著）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I SUPPOSE THERE'S A TIME IN PRACTICALLY EVERY YOUNG boy's life when he's affected by that wonderful disease of puppy love. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，几乎每个小男孩生命里都有过那样一段时光——病得不轻，深深沉迷于“小狗狗的爱”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't mean the kind a boy has for the pretty little girl that lives down the road. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说的不是男孩子对住在路那头的小女孩那种小狗狗式的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean the real kind, the kind that has four small feet and a wig-gly tail, and sharp little teeth that can gnaw on a boy's finger; the kind a boy can romp and play with, even eat and sleep with.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说的是真的那种，是长着四只小脚丫、一条扭动的尾巴和一口能咬住男孩手指的小尖牙的那种，是男孩子能和它一起玩耍打闹、甚至一起吃饭睡觉的那种。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was ten years old when I first became infected with this terrible disease. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十岁那年，我头一次患上了这种病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm sure no boy in the world had it worse than I did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我敢说世上没有哪个男孩像我病得那么厉害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not easy for a young boy to want a dog and not be able to have one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想要只狗却没法得到，这对一个小男孩来说并非易事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It starts gnawing on his heart, and gets all mixed up in his dreams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>渴望开始噬咬他的心，在他的梦里纠缠不休。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It gets worse and worse, until finally it becomes almost unbearable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>渴望越来越厉害，直到最终变得简直难以承受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If my dog-wanting had been that of an ordinary boy, I'm sure my mother and father would have gotten me a puppy, but my wants were different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如我的恋狗症和普通男孩一样的话，那我相信我的父母会给我一只小狗的，但我的渴望却不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't want just one dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不想要单单一只狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted two, and not just any kind of a dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要两只，而且不是任何品种的狗都行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had to be a special kind and a special breed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们必须是一个特别的品种。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had to have some dogs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我必须有几只狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went to my father and had a talk with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去找父亲谈话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He scratched his head and thought it over.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他挠着头细细考虑了一番。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, Billy," he said, "I heard that Old Man Hatfield's collie is going to have pups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，比利，”他说，“我听说‘老头帽’农场的牧羊犬要生小崽了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm sure I can get one of them for you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我肯定能给你弄一只过来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He may as well have poured cold water on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的话就像给我泼了一盆冷水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Papa," I said, "I don't want an old collie dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“爸爸，”我说，“我不想要一只老牧羊犬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want hounds-coon hounds-and I want two of them." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想要猎犬——浣熊猎犬——而且我想要两只。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could tell by the look on his face that he wanted to help me, but couldn't.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从他脸上的表情我能看得出，他想帮我，但无能为力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said, "Billy, those kind of dogs cost money, and that's something we don't have right now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“比利，那样的狗要花钱，而我们现在正缺钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe some day when we can afford it, you can have them, but not right now." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许有一天我们能付得起价钱的时候，你就可以拥有它们，但现在不行。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't give up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有放弃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After my talk with Papa, I went to Mama. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和爸爸谈过之后，我又找了妈妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I fared no better there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没在她那里讨到好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Right off she said I was too young to be hunting with hounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她马上说我还太小，不能带猎犬去打猎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, a hunter needed a gun, and that was one thing I couldn't have, not until I was twenty-one anyway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，一名猎手需要一杆枪，而那是我还不能持有的东西，要到我二十一岁才行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't understand it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我难以理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There I was sitting right in the middle of the finest hunting country in the world and I didn't even have a dog.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我身处世界上最好的狩猎之乡，却连一只狗都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our home was in a beautiful valley far back in the rugged Ozarks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们家在地势崎岖的奥扎克高地一个美丽的山谷里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The country was new and sparsely settled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个小村是新近建立的，人口稀少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The land we lived on was Cherokee land, allotted to my mother because of the Cherokee blood that flowed in her veins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们居住的土地原属切罗基人领地，分配给我们是因为母亲血管里流淌着切罗基族的血液。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It lay in a strip from the foothills of the mountains to the banks of the Illinois Biver in northeastern Oklahoma.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是俄克拉荷马州东北部从山脉丘陵到伊利诺伊河畔的一条狭长土地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The land was rich, black, and fertile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这块土地黝黑肥沃，产量很高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Papa said it would grow hair on a crosscut saw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸说，它能让木锯子上都抽出芽来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was the first man to stick the cold steel point of a turning plow into the virgin soil.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是头一个把冰冷刚硬的犁尖耕进这块处女地的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama had picked the spot for our log house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的木屋建在妈妈挑选的地点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It nestled at the edge of the foothills in the mouth of a small canyon, and was surrounded by a grove of huge red oaks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那在一个小溪谷谷口的丘陵边缘，被一小片红橡木环绕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Behind our house one could see miles and miles of the mighty Ozarks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋后可以望见绵延的奥扎克高地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the spring the aromatic scent of wild flowers, redbuds, papaws, and dogwoods,drifting on the wind currents, spread over the valley and around our home.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一到春天，野花、紫荆、番木瓜和山茱萸的芬芳随风而动，飘满整个溪谷和我的家园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Below our fields, twisting and winding, ran the clear blue waters of the Illinois River. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们的农场下方，伊利诺伊河清澈碧蓝的河水蜿蜒流过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The banks were cool and shady. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>河岸旁树木成荫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rich bottom land near the river was studded with tall sycamores, birches, and box elders.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肥沃的河滩地上散布着高大的美国梧桐、白桦树和白蜡槭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To a ten-year-old country boy it was the most beautiful place in the whole wide world, and I took advantage of it all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对一个十岁的乡下男孩来说，这算得上全世界最美的地方了，我没有浪费这个优势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I roamed the hills and the river bottoms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我常在山野间河岸旁漫游。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew every game trail in the thick cane-brakes, and every animal track that was pressed in the mud along the riverbanks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道浓密丛林里的每一条兽道，认识河岸边的泥地里每一种动物的足迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ones that fascinated me the most were the baby-like tracks of a river coon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中最吸引我的是一种河浣熊留下的婴儿似的脚印。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd lie for hours examining them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会趴在地上对它们研究上几个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before leaving, I'd take a switch and sweep them all away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>离开前，我会折一根软树枝，扫净地上的足印。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These I called my "trail looks." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把这称为我的“兽道观察”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day I'd hurry back, and sure enough, nine times out of ten, there in the clean-swept ground I would again find the tracks of a ringtail coon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔天我赶回来，十之八九会在扫干净的地面上再次发现浣熊的足迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew he had passed over the trail during the night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道它在夜里曾走过兽道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could close my eyes and almost see him, humped up and waddling along, fishing under the banks with his delicate little paws for crawfish, frogs, and minnows.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我几乎闭上眼睛就能看见它的模样，奔窜着，身体摇摆，在下面的河滩上用它灵活的小爪子抓螯虾、青蛙和小鱼吃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was a hunter from the time I could walk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我自打会走路起，就是个猎人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I caught lizards on the rail fences, rats in the corncrib, and frogs in the little creek that ran through the fields. I was a young Daniel Boone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在栅栏上捉蜥蜴，在玉米囤里抓老鼠，还在流过田地的小溪里捕青蛙。我是个小丹尼尔·布恩。（Daniel Boone：传奇人物，开拓肯州的先锋）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the days passed, the dog-wanting disease grew worse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着时间流逝，我的恋狗症愈演愈烈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to see dogs in my sleep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始在梦里看见狗儿们的身影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went back to my father and mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我又去找了父亲和母亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the same old story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>情况依然如故。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good hounds cost money, and they just didn't have it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好猎犬要花钱，而他们没钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My dog-wanting became so bad I began to lose weight and my food didn't taste good any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的恋狗症变得如此强烈，以致于体重都开始下降，也吃不下饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama noticed this and she had a talk with Papa.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈注意到了，她和爸爸谈了一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're going to have to do something," she said. "I never saw a boy grieve like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你该做点什么，”她说，“我从没见过一个男孩难过成那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not right, not right at all."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不对劲，非常不对劲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know," said Papa, "and I feel just as badly as you do, but what can I do? You know we don't have that kind of money." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道，”爸爸说，“我和你一样着急，可我能做什么呢？你知道我们没有派那种用途的钱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't care," said Mama. "You've got to do something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不管。”妈妈说，“你得做点什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can't stand to see him cry like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不能眼睁睁看着他哭成那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides he's getting to be a problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，他开始成问题了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can't get my work done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都没法干活了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He follows me around all day long begging for hounds."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他整天跟着我，巴巴地就想要几只猎犬。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I offered to get him a dog," said Papa, "but he doesn't want just any kind of dog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我提议过给他弄只狗，”爸爸说，“可他不只是想要随便什么狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wants hounds, and they cost money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想要猎犬，猎犬要花钱的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you know what the Parker boys paid for those two hounds they bought? Seventy-five dollars! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道帕克家的男孩们买那两只猎犬花了多少钱吗？七十五美元！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I had that much money, I'd buy another mule. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是我有那么多钱，我早就另买一头骡子了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sure do need one."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我肯定我们需要一头。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had overheard this conversation from another room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在隔壁房间无意中听到了这次对话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first it made me feel pretty good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开头这让我感觉非常好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At least I was getting to be a problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少我开始是个问题了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I didn't feel so good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我就不觉得那么好了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew my mother and father were poor and didn't have any money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道母亲和父亲很穷，没有钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to feel sorry for them and myself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始为他们也为我自己难过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After thinking it over, I figured out a way to help. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重新考虑以后，我想了个办法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even though it was a great sacrifice, I told Papa I had decided I didn't want two hounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然这是一个很大的牺牲。我告诉爸爸，我决定不要两只猎犬了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One would be enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一只就够了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw the hurt in his eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在他眼中看见了痛苦的神色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made me feel like someone was squeezing water out of my heart.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这叫我觉得仿佛有人掏空了我的心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Papa set me on his lap and we had a good talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸把我抱到膝头上，我们好好聊了一回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told me how hard times were, and that it looked like a man couldn't get a fair price for anything he raised. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉我现在是多么艰难的时期，种出的庄稼很难卖到好价钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the farmers had quit farming and were cutting railroad ties so they could feed their families. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些农民放弃了耕作，靠砍伐铺铁路的枕木养家糊口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If things didn't get better, that's what he'd have to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是情况再没有好转，他也只好去做那样的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said he'd give anything if he could get some good hounds for me, but there didn't seem to be any way he could right then.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说要是能办到他也想给我弄几只好猎犬，但现在他显然无能为力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went off to bed with my heart all torn up in little pieces, and cried myself to sleep.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我带着一颗破碎的心爬上床，哭着睡着了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day Papa had to go to the store. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天爸爸去商店采购。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Late that evening I saw him coming back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上我看见他回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As fast as I could, I ran to meet him, expecting a sack of candy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用我最快的速度奔向他，期望能得到一袋糖果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead he handed me three small steel traps.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他递给我的是三个小号捕兽夹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Santa Claus himself had come down out of the mountains, reindeer and all, I would not have been more pleased. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是圣诞老人本人从大山里、驯鹿上或别的什么地方走过来，我也不会更高兴了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I jumped up and down, and cried a whole bucketful of tears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我又蹦又跳，喜极而泣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hugged him and told him what a wonderful papa he was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我搂着他对他说他是一个多棒的老爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He showed me how to set them by mashing the spring down with my foot, and how to work the trigger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他向我演示如何用脚踩住弹簧安置捕兽夹，扳机又是如何被触发的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took them to bed with me that night.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天夜里，我上床都抱着它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next morning I started trapping around the barn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天早晨，我就开始在谷仓附近下套子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first thing I caught was Samie, our house cat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>逮住的第一只猎物竟是萨米，我们的猫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this didn't cause a commotion! I didn't intend to catch him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那真是好一场骚乱！我没打算抓它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was trying to catch a rat, but somehow he came nosing around and got in my trap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想逮的是耗子，可它不知怎么跑到附近，踩进了我下的夹子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My sisters started bawling and yelling for Mama. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的妹妹们大喊着叫妈妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She came running, wanting to know what in the world was going on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她跑过来，想知道到底出了什么事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None of us had to tell her, Samie told her with his spitting and squalling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都不必向她解释什么了。萨米的挣扎嚎叫说明了一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was mad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它发了疯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He couldn't understand what that thing was that was biting his foot, and he was making an awful fuss about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它闹不明白是什么东西在咬它的脚，被吓得不轻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His tail was as big as a wet corncob and every hair on his small body was sticking straight up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的尾巴蓬得像个玉米穗，瘦小的身体上每一根毛都炸了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He spit and yowled and dared anyone to get close to him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它又是喷唾沫又是嚎叫，不让人靠近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My sisters yelled their fool heads off, all the time saying, "Poor Samie! Poor Samie!"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的妹妹们摇晃着蠢脑袋，齐声叫着：“可怜的萨米！可怜的萨米！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama shushed them up and told me to go get the forked stick from under the clothesline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈让她们闭嘴，叫我去拿晾衣绳下面的晾衣杆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ran and got it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我赶紧跑去取了来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama was the best helper a boy ever had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈是一个男孩此刻能找到的最好帮手了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She put the forked end over Samie's neck and pinned him to the ground.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用晾衣杆叉住萨米的脖子，把它摁在地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was bad enough for the trap to be biting his foot, but to have his neck pinned down that way was too much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脚被夹子咬住就已经够惨了，如今脖子又被叉住，萨米气疯了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He threw a fit. I never heard such a racket in all my life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它大为发作，我这辈子都没听过那么吓人的嚎叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't long until everything on the place was all spooked up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不一会儿，农场上的所有动物都被吓着了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chickens started cackling and flew way up on the hillside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鸡开始咯咯叫，纷纷飞上山坡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Daisy, our milk cow, all but tore the barn lot up and refused to give any milk that night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奶牛黛西差点把谷仓给掀了，那天晚上一滴奶都没出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sloppy Ann, our hog, started running in circles, squealing and grunting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肥猪胖安妮绕着圈子猛跑，呼噜呼噜地哼唧个不停。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Samie wiggled and twisted. He yowled and spit, but it didn't do him any good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨米又挣又扭，嘶叫不已，却无济于事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama was good and stout. She held him down, tight to the ground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈很有劲，牢牢将它叉在地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ran in and put my foot on the trap spring, mashed it down, and released his foot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跑上去踩下弹簧，松开它的脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With one loud squall, he scooted under the barn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它大叫一声，一溜烟逃走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After it was all over, Mama said, "I don't think you'll have any more trouble with that cat. I think he has learned his lesson."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一场骚乱结束后，妈妈说：“我想那只猫不会再找你麻烦了，它今天已经尝到苦头了。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How wrong Mama was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈猜错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Samie was one of those nosy kind of cats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨米可不是那种安分的猫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would lie up on the red oak limbs and watch every move I made.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它还是会趴在红橡树上，监视我的一举一动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I found some slick little trails out in our garden down under some tall hollyhocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在花园里几株高高的蜀葵下面，我发现了细小的足迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thinking they were game trails, and not knowing they were Samie's favorite hunting trails, I set my traps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我以为那是兽道，设下了夹子，却不想那竟是萨米最爱走的狩猎路线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Samie couldn't understand what I was doing out there, messing around his hunting territory. He went to investigate.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它不明白我在它的狩猎区里动了什么手脚，于是上前一探究竟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't long until I had him limping with all four feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沒多久，萨米四条腿都跛了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every time Papa saw Samie lying around in the warm sun with his feet wrapped up in turpentine rags, he would laugh until big tears rolled down his cheeks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸每次看到萨米脚上包着破布躺在农场里晒太阳，就忍不住笑得眼泪都出来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mama had another talk with Papa. She said he was going to have to say something to me, because if I caught that cat one more time, it would drive her out of her mind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈又去找了爸爸，让他告诉我，要是我再夹住猫的话，她就要疯了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Papa told me to be a little more careful where I set my traps.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸嘱咐我下夹子时小心点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Papa," I said, "I don't want to catch Samie, but he's the craziest cat I ever saw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“爸爸，”我说，“我也不想抓住萨米，可它是我见过的最不安分的猫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sees everything I do, and just has to go sniffing around."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我下夹子的时候它看得清清楚楚，还偏要跑过来闻。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Papa looked over at Samie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸朝萨米望了一眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was lying all sprawled out in the sunshine with all four paws bandaged and sticking straight up. His long tail was swishing this way and that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它四个爪子上都扎着绷带，四脚朝天晒着太阳，长尾巴扫来扫去的。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

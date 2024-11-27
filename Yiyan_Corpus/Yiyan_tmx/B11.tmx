@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T114712Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Israel's Rocket-Hunting Ace Got His Start Playing Warcraft </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以色列的火箭弹狩猎专家开始了他的魔兽争霸游戏
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>War has once again erupted between Hamas and the Israel Defense Forces, with the Gaza-based militant group launching hundreds of rockets and missiles at Israeli towns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在哈马斯和以色列国防军之间再次爆发了战争，加沙军事武装向以色列城镇发射了上百枚火箭弹和导弹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But many of these projectiles never made it to their targets, thanks to the new Iron Dome missile defense system that's arguably become this conflict's most important technological difference-maker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这些射弹中有许多没有击中目标，多亏了新型“铁穹”导弹防御系统，这种可以说是成为了本次冲突最重要的技术区分者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This article, first published in April, tracks the story of Iron Dome's most prolific "gunner." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首次于四月发表的这篇文章，追踪了“铁穹”最多产“枪手”的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While his record for shooting down missiles and rockets has by now undoubtedly fallen, the tale still gives insight into the battle now gripping Israel and Gaza.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管目前他击落导弹与火箭弹的数目记录已无疑下滑，但这些故事依然能使人深入了解目前影响以色列和加沙的这场战争。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>KFAR GVIROL, Israel --- While many of the boys in Idan Yahya's high school class were buffing up and preparing themselves for selection into elite combat units, this gawky teenager was spending "a lot of time" playing Warcraft --- the real-time strategy computer game where opposing players command virtual armies in a battle to dominate the fictional world of Azeroth.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>KFAR GVIROL，于以色列报道――在Idan Yahya 就读的高中里，当许多男孩在提高自身表现并为精锐部队的选拔做准备时，这位看似笨拙的年轻人正花费“大量的时间”玩魔兽争霸――・ 一部双方玩家命令一场战争中的虚拟军队控制虚构的艾泽拉斯世界（即魔兽世界中魔兽争霸之地）的实时战略游戏。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four years later, the high school jocks who sweated it out in pre-military academies so they could make the cut into the Israel Defense Force's Special Operations units are now crawling through the sand dunes on the outskirts of the Gaza Strip and watching while Idan knocks rockets out of the sky hundreds of meters above their heads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四年之后，在预备军事学院努力以期望进入以色列国防军特别行动组的高中运动员们如今正在爬行穿过加沙地带郊外的山丘并侦察周围的情况，而此刻Idan正将位于他们头顶数百米高的火箭弹击落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Idan Yahya, 22, an Iron Dome "gunner" in the Active Air Defense Wing 167, currently holds the record for the number of rockets intercepted: eight.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Idan Yahya ，22岁，一位在主动防空翼167中的铁穹“枪手”，目前保持了拦截火箭弹数目的记录：八枚。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People in the army describe him variously as a geek and an ace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>军队中的人对他有着的不同评价，如极客和专家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the geek who grew up playingWarcraft is now a highly prized soldier on the cutting edge of real war craft. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这位从小玩魔兽游戏的极客现在成为了在战争前沿受推崇的士兵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's the Israeli army's top rocket interceptor.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是以色列军队的顶尖火箭弹拦截者。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Iron Dome is a mobile anti-rocket interception system that Israel moves around the country to shoot down the rockets fired at its civilian population centers by armed groups in Gaza and southern Lebanon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铁穹是一种移动式反火箭弹拦截系统，在以色列国境内不断移动，用来击落加沙和黎巴嫩南部武装组织针对其人口密集区发射的火箭弹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its radar picks up launches and fires interceptor missiles at them if they're calculated to be heading towards populated centers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中的雷达系统捕捉到来自这些火箭弹的信号并计算出它们的目标，若是人口密集区，就向其发射拦截导弹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The system has become increasingly important as Hamas, Hezbollah and other groups amass surface-to-surface missiles to hit the Israeli home front with, thus bypassing the Israel Defense Force's overwhelming advantage of concentrated firepower and fighter aircraft. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当哈马斯，（黎巴嫩）真主党以及其他组织聚集建立地对地导弹以正面打击以色列时，这种反火箭弹系统日趋重要了。事实上，这些火箭弹在以色列国防军所拥有的密集火力和战斗飞行器的绝对军事优势下只能绕道而行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Should Israel attack Iran's nuclear installations, the expected rocket reprisals from the armed groups on its borders will keep Iron Dome very, very busy.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦以色列攻击了伊朗的核设施，在边境军队报复性行动中发射的火箭弹会使铁穹相当地忙碌。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the war between Israelis and Arabs enters its sixth decade (or its 500th depending on who you ask), it is increasingly becoming a hi-tech rocket war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当以色列与阿拉伯国家之间的战争进入第六十年（或是第五千年，这取决于你问的人），它逐渐演变为一种高科技火箭弹的战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The IDF's Director of Military Intelligence Maj. Gen. Aviv Kochavi in February said there were 200,000 rockets aimed at Israel from the south, north and east. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以色列国防军的情报主管，上校，上将Aviv Kochavi 于二月讲到，从南部，北部和东部针对以色列的火箭弹有二十万枚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in this increasingly technological battlefield of rockets, anti-rocket interceptors, radars, control rooms, drones and drone hacking, it is soldiers like Idan Yahya (and whoever his counterparts on the Arab side are) who are making the most impact.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且在这个充满火箭弹，反火箭弹拦截导弹，雷达，控制室，无人机和无人机黑客的日趋高科技战场，正是像Idan Yahya （不论他在阿拉伯国家的对手是谁）这样的士兵发挥着最大的作用。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Computer geek, keyboard combatant, soldier, call him what you will, Idan and others like him man the controls of the latest rock star in advanced military technology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>计算机极客，键盘战士，士兵，无论你如何称呼他，Idan 和其他类似的人运用先进的军事技术使操控最新的火箭卫星成为可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There are a lot of flashing blips, signs, symbols, colors and pictures on the screen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“屏幕上有许多闪光点，信号，标记，色彩和图案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You look at your tactical map; see where the threat is coming from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看着战略地图；看这个威胁来自何处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have to make sure you're locked onto the right target. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你必须确保锁定了正确的目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a lot of information and there is very little time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获得的信息太多但操作的时间太短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It definitely reminds me of Warcraft and other online strategy games," Idan says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这确实使我联想到魔兽争霸和其他网络策略类游戏。”Idan 说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The young soldier has at his console a machine of vast computing power and aerial TNT. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位年轻的士兵在他的控制台中有一台具备巨大运算能力和空中炸药的机器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Iron Dome battery is manned by a crew of 100 soldiers, including perimeter guards, working in shifts, and the entire system is connected to the larger Israeli multi-tiered air defense order of battle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一节铁穹系统的炮组均由一组一百名的士兵操控，包括周边守卫，轮流工作，整个铁穹系统与规模更大的以色列多层次防空战场指挥部联系起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unit is a mobile battlefield installation that meshes radar information from a mini multi-mission and fire control radar, powerful networks and processors, launchers, GPS-guided rockets, and human operators pushing the buttons and making the decisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个部队是一个移动的战场设备，它将从小型多功能和发射控制雷达获得的信息，有效的网络和处理器，发射器，GPS-导航火箭弹，以及控制按钮，作出决定的人为操作紧密结合起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is the first system of its kind that is designed specifically to detect the launch and trajectory of short-range rockets, and intercept them in flight if they're deemed to be headed for a populated area.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一种经过特别设计的新型系统，能够侦察短程火箭弹的发射与轨迹，并在确认其目标为人口稠密区后，对其进行空中拦截。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Based on information from the Iron Dome's radar about the incoming rocket's current and projected trajectory, the processors at the BMC (Better Management Command) calculate its Ground Impact Point whether it's going to fall into an open field or an apartment building ЁC and based on that decides whether to shoot it down or leave it alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基于来自铁穹雷达的关于来袭火箭弹当前和预期轨迹的信息，BMC（优先管理命令）的处理器计算出它的地面影响点即将落到开阔场地或是一幢公寓大楼――基于这个计算结果决定是否将其击落或将其忽略。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The incoming missile is not a static object that's being fired at, so the interceptor missile is constantly provided with updated trajectory information.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来袭的导弹不是等待被击落的静物，因此必须不断地向拦截导弹提供最新的目标物轨道信息。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Iron Dome's Ў®brain' then, and what makes it such a successful system is its powerful 'trajectory prediction mechanism,' which assesses where along the trajectory the intercept point is going to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铁穹的“大脑”，以及使它成为一个成功系统的原因是有效的“轨道预测机制”，这种机制能够估算出沿着来袭导弹轨道的拦截点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When I shoot one down, I feel happy, satisfied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“当我击落一枚后，我感到高兴，满意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I try disconnect from my feelings when I'm at the controls though," Idan says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管在控制之中，但我仍试着避开自己的感觉，”Idan说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Iron Dome is different from the anti-ballistic systems out there for the simple reason that it's specifically designed for rockets between the 5km to 40km range, and for the other simple reason that is battle-proven and very, very successful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铁穹与其它的反导弹系统不同，简单的一点是它被特别设计为针对射程在5-40公里的火箭弹，其次是经过了实战检验，其结果非常非常的成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For short-range mortar interception there is the Phalanx [a rapid-fire cannon for close-in protection], and for the longer-range missiles there are the Patriot andArrow interceptor systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于短程迫击炮的拦截，有密集阵（针对近战保护的速射大炮），针对长程导弹的拦截，有爱国者与箭式拦截系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there has been nothing for the shorter-range rockets in the arsenals of a variety of terror groups, militias and even some states. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在各种恐怖组织，民兵组织甚至一些国家的武器中并没有针对短程火箭弹的武器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And nothing that has shot them out of the sky with such success.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且没有和铁穹一样有如此高的成功率。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Following the barrage of over 4,000 Grad Katyusha rockets from southern Lebanon into northern Israel in the Second Lebanon War in the summer of 2006, Israel harried through the Iron Dome from development to deployment in five years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2006年夏黎巴嫩南部战争中从南黎巴嫩进入北以色列四千多枚喀秋莎火箭弹的连续炮击之后，以色列在五年内匆忙完成了将铁穹从开发至应用的步骤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The system's developers had to provide a solution to a challenging problem: design a rocket system that can identify a rocket launch, classify its type, calculate its trajectory, decide the level of the threat it poses, launch an interceptor missile at it, keep the interceptor locked onto the incoming rocket, and blow it out of the sky --- and all within a minimum of 15 seconds and a maximum time of 40 seconds, depending on the distance from the launch source.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个系统的开发者必须提供一个解决挑战的方法：设计一个能够确定火箭弹发射，分辨出型号，计算出轨道，确定其构成威胁的等级，向其发射拦截导弹，保持导弹对其的锁定状态，然后将其击落――所有的动作在十五至四十秒内完成，时间的长短取决于来袭火箭弹与拦截导弹发射地的距离。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A long-range rocket launched from Iran, for instance, takes around 11 minutes to reach Israel; plenty of time for a Patriot or Arrow interceptor to lock onto it and shoot it down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，来自伊朗的长程火箭弹需要大约十一秒到达以色列；有足够的时间让一枚爱国者或箭式拦截导弹锁定并将其击落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A rocket launched from Gaza takes 15 seconds to hit Ashkelon, a city in southern Israel with a population of about 120,000 people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自加沙的火箭弹需要十五秒到达阿什克伦，一座拥有十二万人口的以色列南部城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So the issue of speed to decision-to-interception was critical.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此快速完成“决定并拦截”任务非常重要。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Iron Dome fits snugly into the IDF's multi-tiered missile defense system and may even soon provide cover fire to some of the bigger systems that tackle rockets of the100km ЁC 200km range, like the ones in the arsenals of Hezbollah and Syria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铁穹系统很好地适应以色列国防军的多任务导弹防御系统，甚至可以快速向一些更大的的系统提供援助火力，用以拦截一百至两百公里火箭弹，比如黎巴嫩真主党和叙利亚武器库中的部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an interview at the Hatzor air force base near Ashdod, Colonel Zvika Haimovich, commander of the Israel Air Force's Active Defense Wing, tells Danger Room that all of the air defense systems in Israel's arsenal "talk to each other" through a network in order to provide the best possible answer to incoming rocket fire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一次在位于阿什杜德附近的哈佐尔空军基地与以色列空军主动防空翼的指挥官，Colonel Zvika Haimovich的谈话中，他向危险斗室告知在以色列军火库中的所有防空系统通过网络“互相交流”，用以提供关于来袭火箭弹最佳的可能的答案。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The systems share data on the ballistic picture, about which targets are in the line of fire, and about which system is to be set into motion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个系统共享卫星图片上的数据，即关于哪一个目标位于发射线上，哪一个系统将会待命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Our battles are going to be more multi-arena and multi-dimensional. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们的战斗会变得更多地点，多维度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the past, if you wanted to protect Tel-Aviv from rocket attack, you only had to look east. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去，如果你想保护特拉维夫免于遭受火箭弹的袭击，你只需朝东看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now you need to look to Syria, Lebanon, and Gaza also," Haimovich says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你也需要朝叙利亚，黎巴嫩和加沙看，” Haimovich说。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Iron Dome has been so successful in its last round of deployment --- interceptors shot down over 60 rockets headed for populated areas, at a success rate of 80 percent --- that the Israeli government has asked the U.S. administration for money to fund additional batteries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铁穹在它最后一轮的部署中是如此成功――拦截导弹以百分之八十的成功率击落超过六十枚火箭弹，这些火箭弹的目的地为人口密集区。以色列政府已经向美国政府提出有关建立更多炮组的借款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to reports here, the Israelis are asking for 700 million shekels (about $ 206 million), in addition to the $200 million the Obama administration has already provided for Iron Dome development. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据报道，除奥巴马政府已提供的两亿美元用于开发铁穹系统外，以色列正需要七亿谢克尔（大约两亿六百万美元）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It costs $45 million to produce an Iron Dome battery and every Tamir interceptor missile fired at a Grad or Kassam rocket costs 40,000 dollars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制造一个铁穹炮组需要四千五百万美元制造一枚用以拦截格拉德和喀秋莎火箭弹的塔米尔导弹需要四万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are 20 Tamir interceptors per battery (the Grads and Kassams they shoot down cost about $ 1,000 each; you do the math). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一个铁穹炮组装有二十枚塔米尔导弹（每一枚击落的格拉德和喀秋莎火箭弹价值一千美元；你可以做一下计算）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are currently four operational Iron Dome batteries deployed in Israel, with the last one coming online on Thursday, April 5, in the presence of U.S. Ambassador Dan Shapiro, whose boss provided much of the funding for the Iron Dome project as a whole.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前在以色列投入使用的有四个铁穹炮组，最后一个在四月五日，周四在线上投入使用，美国大使丹?夏皮罗（他的上司总的来说为铁穹项目的建立提供了许多财力）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shapiro, making a visit to the newly operational battery on Thursday, tells Danger Room that the Pentagon and the Israeli Ministry of Defense were in talks about finding the money to help Israel build more of the machines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夏皮罗，在周四参观了新近投入运行的炮组，告诉本报五角大楼和以色列国防部在商讨关于帮助以色列建立更多作战机器的资金问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Israeli officials say they'll need about 14 Iron Domes to provide countrywide security against short-range rockets ЁC that's another 10 systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以色列官员说他们需要大约十四座铁穹系统来避免短程火箭弹的袭击以确保全国范围内的安全――仍需要十座铁穹系统。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Obama administration is keen to secure the funds, for several reasons, chiefly because, as Shapiro says, "the U.S. is committed to Israel's security," but also, as some analysts in Israel put it, because Obama wants to use funding for the Iron Dome as a carrot to entice Israel not to attack Iran's nuclear installations.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出于若干原因，奥巴马政府渴望争取到资金，这主要是因为，如夏皮罗所说 "美国政府对以色列的安全问题做出了承诺，”但同时，如以色列的一些分析者所说，因为奥巴马政府需要将这笔为铁穹系统投入的资金作为诱使以色列放弃攻打伊朗核武器的诱饵。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shapiro also did not rule out that funding the Iron Dome for the Israelis would be less of a donation and more of an investment in the possible future use of the system "in other theaters." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夏皮罗也不排除一种可能性，即为以色列资助铁穹系统不会成为一种捐赠而会成为一种在提前使用“其它手术室”系统上的投资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But funding another 10 more Iron Dome batteries, at a base cost of some $450 million might be beyond even a President who swears he's "got Israel's back." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是建立另外十个铁穹系统炮组，以至少约四亿五千万美元的花费可能超出了声明“回报以色列”的总统的能力范围.
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In lieu of finding that kind of money, the Israelis are now working on increasing the Iron Dome's range from its current 70km maximum to 250km --- that way it can cover more of the small country without having to necessarily buy and build a lot more of the interceptor batteries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了寻求这笔资金，以色列方面正致力于将铁穹的防御范围从目前的七十公里提高到二百五十公里――那样的话它的覆盖面积超过了该国的总面积，从而不必购买并建造更多的拦截炮组。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Officers involved in the project say increasing Iron Dome's range is possible, but it remains to be seen how quickly and effectively this can be done.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>参与这个项目的官员说提高铁穹的防御面积是可能实现的，但这一改进的速度和成效有待观察。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The Iron Dome saves lives, pure and simple," says the U.S. ambassador, adding that he believes there will be "very strong support in Congress" for Israel's funding request. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“铁穹系统拯救了生命，这一过程纯洁并简单，”美国大使评论道，并补充说他相信国会对于以色列的资金需求会有“非常坚定的支持”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're very proud to support this technology, which is an Israeli-developed technology, because of the acute threat of missiles fired by terrorist organizations against civilian populations here in Israel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们对于支持这一项技术感到非常自豪，这是一项以色列研发的技术，出于应对与以色列民众敌对的恐怖组织发出的严重的导弹威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's proven itself as an effective technology that's reached 80 percent success rate in its most recent round. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一种有效的技术，铁穹已凭借最新一轮拦截中百分之八十的成功率证明了自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is certainly the possibility that this technology could have other uses in other theaters, but I think that's something for military professionals in Israel, the United States and many other countries who may have an interest to discuss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自然有被用于应对其他威胁的可能性，但是我认为这是以色列的军事专家，美国及其他国家对此感兴趣的人讨论的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our focus right now is on supporting the acceleration of the deployment of this system because it's part of our commitment to Israel's security," Shapiro says.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们目前的关注点是如何为这个系统的加速使用提供必要的支持，因为这是我们对以色列国家安全做出的承诺中的一部分。”夏皮罗说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You need fighters; people who know how to use the technology, and even take decisions that go against the system's recommendations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>"你需要战士；知道如何运用这项技术的人，以及所做出的决定优于系统建议的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My Iron Dome operators are all fighters, and sure, many of them probably played PlayStation and computer games in their teens before they got to my unit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我手下的铁穹系统操作员都是战士，当然，他们中有许多在他们未进入部队前的青少年时期玩过游戏机和计算机游戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But now we train them to look at a very complex ballistic picture, with a lot of information about targets and threats, a lot in the air, to decide which target is more threatened and which is less, to know how to communicate with other systems online, and to take decisions in a matter of seconds under conditions of extreme stress and with a lot of unknowns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是现在我们训练他们通过获取的来自目标物和威胁物(有许多在空中)的大量信息，看懂复杂的弹道图，决定哪一个目标物更具威胁性，知道如何在网络上与其他系统交流，以及在极端压力和众多未知的条件下，在大约几秒内作出决定。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

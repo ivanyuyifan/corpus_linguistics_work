@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T080515Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biography of Neil Armstrong</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼尔·阿姆斯特朗生平</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Neil A. Armstrong, the first man to walk on the moon, was born in Wapakoneta, Ohio, on August 5, 1930. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼尔·奥尔登·阿姆斯特朗于1930年8月5日出生于美国俄亥俄州的沃帕科内塔，是世界上首位登陆月球的宇航员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He began his NASA career in Ohio.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在俄亥俄州美国航空航天局开始其作为宇航员的职业生涯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After serving as a naval aviator from 1949 to 1952, Armstrong joined the National Advisory Committee for Aeronautics (NACA) in 1955. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1949至1952年期间，阿姆斯特朗担任海军飞行员，并于1955年加入国家航空咨询委员会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His first assignment was with the NACA Lewis Research Center (now NASA Glenn) in Cleveland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他首先在克利夫兰NACA刘易斯研究中心（现在的NASA局格伦研究中心）工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the next 17 years, he was an engineer, test pilot, astronaut and administrator for NACA and its successor agency, the National Aeronautics and Space Administration (NASA).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后的17年，他曾经任职工程师、试飞员、宇航员、国家航空咨询委员会行政官员，以及后来的美国国家航空航天局（NASA）高级行政管理官员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a research pilot at NASA's Flight Research Center, Edwards, Calif., he was a project pilot on many pioneering high speed aircraft, including the well known, 4000-mph X-15. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在加利福尼亚州爱德华兹NASA飞行研究中心担任试飞员期间，阿姆斯特朗曾试飞了许多开创性的高速飞机，其中包括著名的4000-mph X-15。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has flown over 200 different models of aircraft, including jets, rockets, helicopters and gliders.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他试飞过超过200种不同型号的飞机，包括飞机、火箭、直升机和滑翔机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armstrong transferred to astronaut status in 1962. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1962年阿姆斯特朗成为一名宇航员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was assigned as command pilot for the Gemini 8 mission. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的首次任务是担任双子座8号首席飞行员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gemini 8 was launched on March 16, 1966, and Armstrong performed the first successful docking of two vehicles in space.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双子座于1966年3月16日发射，成功完成了历史上第一次轨道对接。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As spacecraft commander for Apollo 11, the first manned lunar landing mission, Armstrong gained the distinction of being the first man to land a craft on the moon and first to step on its surface.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为首次载人登月飞船阿波罗11号的指令长，阿姆斯特朗成为首次登陆月球表面的宇航员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armstrong subsequently held the position of Deputy Associate Administrator for Aeronautics, NASA Headquarters, Washington, D.C. In this position, he was responsible for the coordination and management of overall NASA research and technology work related to aeronautics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后阿姆斯特朗进入华盛顿特区美国航空航天局总部担任副助理署长，全面负责协调和管理NASA航空研究和技术工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was Professor of Aerospace Engineering at the University of Cincinnati between 1971-1979. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1971-1979期间，阿姆斯特朗担任辛辛那提大学航空航天工程学教授。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the years 1982-1992, Armstrong was chairman of Computing Technologies for Aviation, Inc., Charlottesville, Va.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1982年至1992年期间曾担任弗吉尼亚州夏洛茨维尔航空计算技术有限公司董事长一职。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He received a Bachelor of Science Degree in Aeronautical Engineering from Purdue University and a Master of Science in Aerospace Engineering from the University of Southern California. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿姆斯特朗在普渡大学获得航空工程学士学位，在美国南加州大学获得航空航天工程硕士学位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He holds honorary doctorates from a number of universities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他拥有多所大学的荣誉博士学位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Armstrong was a Fellow of the Society of Experimental Test Pilots and the Royal Aeronautical Society; Honorary Fellow of the American Institute of Aeronautics and Astronautics, and the International Astronautics Federation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿姆斯特朗是社会实验测试飞行员和英国皇家航空学会成员，美国航空航天研究协会和国际宇航联合会名誉院士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a member of the National Academy of Engineering and the Academy of the Kingdom of Morocco. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是美国国家科学院工程院院士和摩洛哥国王学院成员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He served as a member of the National Commission on Space (1985-1986), as Vice-Chairman of the Presidential Commission on the Space Shuttle Challenger Accident (1986), and as Chairman of the Presidential Advisory Committee for the Peace Corps (1971-1973).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾是国家空间委员会（1985-1986年）成员，挑战者号航天飞机事故调查（1986年）总统委员会副主席，美国和平部队（1971 - 1973年）总统顾问委员会主席。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,91 @@
+Why the Global Warming Skeptics Are Wrong
+The threat of climate change is an increasingly important environmental issue for the globe. 
+Because the economic questions involved have received relatively little attention, I have been writing a nontechnical book for people who would like to see how market-based approaches could be used to formulate policy on climate change. 
+When I showed an early draft to colleagues, their response was that I had left out the arguments of skeptics about climate change, and I accordingly addressed this at length.
+But one of the difficulties I found in examining the views of climate skeptics is that they are scattered widely in blogs, talks, and pamphlets. 
+Then, I saw an opinion piece in The Wall Street Journal of January 27, 2012, by a group of sixteen scientists, entitled ¡°No Need to Panic About Global Warming.¡± 
+This is useful because it contains many of the standard criticisms in a succinct statement. 
+The basic message of the article is that the globe is not warming, that dissident voices are being suppressed, and that delaying policies to slow climate change for fifty years will have no serious economic or environment consequences.
+My response is primarily designed to correct their misleading description of my own research; but it also is directed more broadly at their attempt to discredit scientists and scientific research on climate change.
+I have identified six key issues that are raised in the article, and I provide commentary about their substance and accuracy. They are:
+Is the planet in fact warming?
+Are human influences an important contributor to warming?
+Is carbon dioxide a pollutant?
+Are we seeing a regime of fear for skeptical climate scientists?
+Are the views of mainstream climate scientists driven primarily by the desire for financial gain?
+Is it true that more carbon dioxide and additional warming will be beneficial?
+As I will indicate below, on each of these questions, the sixteen scientists provide incorrect or misleading answers. 
+At a time when we need to clarify public confusions about the science and economics of climate change, they have muddied the waters. 
+I will describe their mistakes and explain the findings of current climate science and economics.
+The first claim is that the planet is not warming. 
+More precisely, ¡°Perhaps the most inconvenient fact is the lack of global warming for well over 10 years now.¡±
+It is easy to get lost in the tiniest details here. 
+Most people will benefit from stepping back and looking at the record of actual temperature measurements. 
+The figure below shows data from 1880 to 2011 on global mean temperature averaged from three different sources. 
+We do not need any complicated statistical analysis to see that temperatures are rising, and furthermore that they are higher in the last decade than they were in earlier decades.
+One of the reasons that drawing conclusions on temperature trends is tricky is that the historical temperature series is highly volatile, as can be seen in the figure. 
+A useful analogy is the stock market. Suppose an analyst says that because real stock prices have declined over the last decade (which is true), it follows that there is no upward trend. 
+Here again, an examination of the long-term data would quickly show this to be incorrect. 
+The finding that global temperatures are rising over the last century-plus is one of the most robust findings of climate science and statistics.
+A second argument is that warming is smaller than predicted by the models:
+The lack of warming for more than a decade¡ªindeed, the smaller-than-predicted warming over the 22 years since the UN¡¯s Intergovernmental Panel on Climate Change (IPCC) began issuing projections¡ªsuggests that computer models have greatly exaggerated how much warming additional CO2 can cause.
+What is the evidence on the performance of climate models? 
+Do they predict the historical trend accurately? 
+Statisticians routinely address this kind of question. 
+The standard approach is to perform an experiment in which (case 1) modelers put the changes in CO2 concentrations and other climate influences in a climate model and estimate the resulting temperature path, and then (case 2) modelers calculate what would happen in the counterfactual situation where the only changes were due to natural sources, for example, the sun and volcanoes, with no human-induced changes. 
+They then compare the actual temperature increases of the model predictions for all sources (case 1) with the predictions for natural sources alone (case 2).
+This experiment has been performed many times using climate models. 
+A good example is the analysis described in the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (for the actual figure, see the accompanying online material 4). 
+Several modelers ran both cases 1 and 2 described above¡ªone including human-induced changes and one with only natural sources. 
+This experiment showed that the projections of climate models are consistent with recorded temperature trends over recent decades only if human impacts are included. 
+The divergent trend is especially pronounced after 1980. 
+By 2005, calculations using natural sources alone underpredict the actual temperature increases by about 0.7 degrees Centigrade, while the calculations including human sources track the actual temperature trend very closely.
+In reviewing the results, the IPCC report concluded: ¡°No climate model using natural forcings [i.e., natural warming factors] alone has reproduced the observed global warming trend in the second half of the twentieth century.¡±
+The sixteen scientists next attack the idea of CO2 as a pollutant. 
+They write: ¡°The fact is that CO2 is not a pollutant.¡± 
+By this they presumably mean that CO2 is not by itself toxic to humans or other organisms within the range of concentrations that we are likely to encounter, and indeed higher CO2 concentrations may be beneficial.
+However, this is not the meaning of pollution under US law or in standard economics. 
+The US Clean Air Act defined an air pollutant as ¡°any air pollution agent or combination of such agents, including any physical, chemical, biological, radioactive¡­substance or matter which is emitted into or otherwise enters the ambient air.¡± 
+In a 2007 decision on this question, the Supreme Court ruled clearly on the question: ¡°Carbon dioxide, methane, nitrous oxide, and hydrofluorocarbons are without a doubt ¡®physical [and] chemical¡­substance[s] which [are] emitted into¡­the ambient air.¡¯ ¡­Greenhouse gases fit well within the Clean Air Act¡¯s capacious definition of ¡®air pollutant.¡¯¡±6
+In economics, a pollutant is a form of negative externality¡ªthat is, a byproduct of economic activity that causes damages to innocent bystanders. 
+The question here is whether emissions of CO2 and other greenhouse gases will cause net damages, now and in the future. 
+This question has been studied extensively. 
+The most recent thorough survey by the leading scholar in this field, Richard Tol, finds a wide range of damages, particularly if warming is greater than 2 degrees Centigrade.
+Major areas of concern are sea-level rise, more intense hurricanes, losses of species and ecosystems, acidification of the oceans, as well as threats to the natural and cultural heritage of the planet.
+In short, the contention that CO2 is not a pollutant is a rhetorical device and is not supported by US law or by economic theory or studies.
+The fourth contention by the sixteen scientists is that skeptical climate scientists are living under a reign of terror about their professional and personal livelihoods. 
+They write:
+Although the number of publicly dissenting scientists is growing, many young scientists furtively say that while they also have serious doubts about the global-warming message, they are afraid to speak up for fear of not being promoted¡ªor worse¡­.
+This is not the way science is supposed to work, but we have seen it before¡ªfor example, in the frightening period when Trofim Lysenko hijacked biology in the Soviet Union. 
+Soviet biologists who revealed that they believed in genes, which Lysenko maintained were a bourgeois fiction, were fired from their jobs. 
+Many were sent to the gulag and some were condemned to death.
+While we must always be attentive to a herd instinct, this lurid tale is misleading in the extreme. 
+Some background on Lysenko will be useful. 
+He was the leader of a group that rejected standard genetics and held that the acquired characteristics of an organism could be inherited by that organism¡¯s descendants. 
+He exploited the Soviet ideology about heredity, the need for agricultural production, and the favor of a powerful dictator¡ªStalin¡ªto attract adherents to his theories. 
+Under his influence, genetics was officially condemned as unscientific. 
+Once he gained control of Russian biology, genetics research was prohibited, and thousands of geneticists were fired. 
+Many leading geneticists were exiled to labor camps in Siberia, poisoned, or shot. 
+His influence began to wane after Stalin¡¯s death, but it took many years for Soviet biology to overcome the disastrous consequences of the Lysenko affair.
+The idea that skeptical climate scientists are being treated like Soviet geneticists in the Stalinist period has no basis in fact. 
+There are no political or scientific dictators in the US. No climate scientist has been expelled from the US National Academy of Sciences. No skeptics have been arrested or banished to gulags or the modern equivalents of Siberia. Indeed, the dissenting authors are at the world¡¯s greatest universities, including Princeton, MIT, Rockefeller, the University of Cambridge, and the University of Paris.
+I can speak personally for the lively debate about climate change policy. 
+There are controversies about many details of climate science and economics. While some claim that skeptics cannot get their papers published, working papers and the Internet are open to all. 
+I believe the opposite of what the sixteen claim to be true: dissident voices and new theories are encouraged because they are critical to sharpening our analysis. 
+The idea that climate science and economics are being suppressed by a modern Lysenkoism is pure fiction.
+A fifth argument is that mainstream climate scientists are benefiting from the clamor about climate change:
+Why is there so much passion about global warming¡­? 
+There are several reasons, but a good place to start is the old question ¡°cui bono?¡± Or the modern update, ¡°Follow the money.¡±
+Alarmism over climate is of great benefit to many, providing government funding for academic research and a reason for government bureaucracies to grow. 
+Alarmism also offers an excuse for governments to raise taxes, taxpayer-funded subsidies for businesses that understand how to work the political system, and a lure for big donations to charitable foundations promising to save the planet.
+This argument is inaccurate as scientific history and unsupported by any evidence. 
+There is a suggestion that standard theories about global warming have been put together by the scientific equivalent of Madison Avenue to raise funds from government agencies like the National Science Foundation (NSF). 
+The fact is that the first precise calculations about the impact of increased CO2 concentrations on the earth¡¯s surface temperature were made by Svante Arrhenius in 1896, more than five decades before the NSF was founded.
+The skeptics¡¯ account also misunderstands the incentives in academic research. 
+IPCC authors are not paid. 
+Scientists who serve on panels of the National Academy of Science do so without monetary compensation for their time and are subject to close scrutiny for conflicts of interest. 
+Academic advancement occurs primarily from publication of original research and contributions to the advancement of knowledge, not from supporting ¡°popular¡± views. 
+Indeed, academics have often been subject to harsh political attacks when their views clashed with current political or religious teachings. 
+This is the case in economics today, where Keynesian economists are attacked for their advocacy of ¡°fiscal stimulus¡± to promote recovery from a deep recession; and in biology, where evolutionary biologists are attacked as atheists because they are steadfast in their findings that the earth is billions rather than thousands of years old.
+In fact, the argument about the venality of the academy is largely a diversion. 
+The big money in climate change involves firms, industries, and individuals who worry that their economic interests will be harmed by policies to slow climate change. 

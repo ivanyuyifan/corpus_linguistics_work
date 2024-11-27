@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 8 Headache </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第8章 头痛</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache is among the most common reasons patients seek medical attention. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛是患者寻医就诊最常见的原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Diagnosis and management are based on a careful clinical approach augmented by an understanding of the anatomy, physiology, and pharmacology of the nervous system pathways that mediate the various headache syndromes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>诊断和治疗都是基于大量严谨的临床实践基础上的，并且要对调节各种头痛症状的神经传导通路的解剖学、生理学、药理学有深刻的了解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>GENERAL PRINCIPLES</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>总论</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A classification system developed by the International Headache Society characterizes headache as primary or secondary (Table 8-1). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>国际头痛协会的分类系统将头痛分为原发性和继发性(表8-1)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Primary headaches are those in which headache and its associated features are the disorder in itself, whereas secondary headaches are those caused by exogenous disorders. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原发性头痛是由内源性因素引起的，然而继发性头痛是由外源性因素引起的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Primary headache often results in considerable disability and a decrease in the patient's quality of life. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原发性头痛常会导致严重的残疾及病人生活质量的下降。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mild secondary headache, such as that seen in association with upper respiratory tract infections, is common but rarely worrisome. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>轻度继发性头痛，由上呼吸道感染引起很常见，但后果不严重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Life-threatening headache is relatively uncommon, but vigilance is required in order to recognize and appropriately treat such patients.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>致命性的头痛相对少见，但应该对他们提高警惕以更好地认识并合理治疗这些患者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>ANATOMY AND PHYSIOLOGY OF HEADACHE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛的解剖生理学</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pain usually occurs when peripheral nociceptors are stimulated in response to tissue injury, visceral distension, or other factors (Chap. 7). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当组织损伤、内脏膨胀或其他因素刺激外周痛觉感受器，则可发生疼痛(参见第７章)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In such situations, pain perception is a normal physiologic response mediated by a healthy nervous system. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这样的情况下，疼痛觉是受到健康的神经系统调节而产生的正常生理反应。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pain can also result when pain-producing pathways of the peripheral or central nervous system (CNS) are damaged or activated inappropriately. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当外周或中枢神经系统损害或不慎被激活，也可产生疼痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache may originate from either or both mechanisms. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>疼痛可能会来源于一个或两个机制。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Relatively few cranial structures are pain-producing; these include the scalp, middle meningeal artery, dural sinuses, falx cerebri, and proximal segments of the large pial arteries. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很少一部分颅内结构无法产生痛觉，包括头皮、脑膜中动脉、硬脑膜窦、大脑镰及最接近软脑膜大动脉的部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The ventricular ependyma, choroid plexus, pial veins, and much of the brain parenchyma are not pain-producing.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑室室管膜、脉络丛、软脑膜静脉和一些脑实质也不会产生痛觉。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The key structures involved in primary headache appear to be:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>参与原发性头痛的主要结构有:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>the large intracranial vessels and dura mater and the peripheral terminals of the trigeminal nerve that innervate these structures;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>①大量颅内血管、硬脑膜、支配相应结构的三叉神经末梢;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>the caudal portion of the trigeminal nucleus, which extends into the dorsal horns of the upper cervical spinal cord and receives input from the first and second cervical nerve roots (the trigeminocervical complex);</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>②三叉神经核末端伸入上颈髓的脊髓灰质后角，并且能接受第１、第２颈神经根的传入信号(三叉颈复合体);</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>rostral pain-processing regions, such as the ventro-posteromedial thalamus and the cortex;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>③传导痛觉的神经核有丘脑腹后内侧核和大脑皮质;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>the pain-modulatory systems in the brain that modulate input from trigeminal nociceptors at all levels of the pain-processing pathways.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>④大脑的痛觉调节系统接受各种三叉神经痛觉感受器的传入信号。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The innervation of the large intracranial vessels and dura mater by the trigeminal nerve is known as the trigeminovascular system. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>受三叉神经支配的颅内大血管和硬脑膜被称为三叉神经血管系统。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cranial autonomic symptoms, such as lacrimation and nasal congestion, are prominent in the trigeminal autonomic cephalalgias, including cluster headache and paroxysmal hemicrania, and may also be seen in migraine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑自主神经症状有流泪和鼻塞，是三叉神经自主头痛的主要症状，包括丛集性头痛和阵发性偏头痛，也可以在偏头痛中见到。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These autonomic symptoms reflect activation of cranial parasympathetic pathways, and functional imaging studies indicate that vascular changes in migraine and cluster headache, when present, are similarly driven by these cranial autonomic systems. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些自主症状反映了颅内副交感神经的激活途径，并且功能影像学研究可以反映偏头痛和丛集性头痛的血管变化，同时也同样受这些颅内自主神经系统的调控。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Migraine and other primary headache types are not “vascular headaches”; these disorders do not reliably manifest vascular changes, and treatment outcomes cannot be predicted by vascular effects. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛和其他主要的头痛类型不是“血管性头痛”，这些功能性紊乱不能很好地反映血流变化，并且也不能通过对血管的影响来预测治疗效果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Migraine is a brain disorder, and best understood and managed as such.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛是一种大脑功能性失调，是目前了解和治疗得最多的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>CLINICAL EVALUATION OF ACUTE, NEW-ONSET HEADACHE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性、初发性头痛的临床评估</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The patient who presents with a new, severe headache has a differential diagnosis that is quite different from the patient with recurrent headaches over many years. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性初发性头痛患者的诊断和头痛复发过很多年的患者的诊断不同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In new-onset and severe headache, the probability of finding a potentially serious cause is considerably greater than in recurrent headache. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性初发性头痛潜在的严重原因要远远大于复发性头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Patients with recent onset of pain require prompt evaluation and appropriate treatment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>患者近期发生的头痛需要快速地评估和合适的治疗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Serious causes to be considered include meningitis, subarachnoid hemorrhage, epidural or subdural hematoma, glaucoma, tumor, and purulent sinusitis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>需要考虑的严重原因有脑膜炎、蛛网膜下腔出血、硬脑膜外或硬脑膜下血肿、青光眼、肿瘤和化脓性鼻窦炎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When worrisome symptoms and signs are present (Table 8-2), rapid diagnosis and management are critical.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当出现严重的症状和体征时(表8-2)，快速诊断和治疗至关重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A complete neurologic examination is an essential first step in the evaluation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个完整的神经检查是进行评估必要的第一步。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In most cases, patients with an abnormal examination or a history of recent-onset headache should be evaluated by a CT or MRI study. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在大多数病例中，当病人检查结果异常或近期有头痛史，则应该再做CT或MRI来评估。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As an initial screening procedure for intracranial pathology in this setting, CT and MRI methods appear to be equally sensitive. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在颅内病变初始筛选的过程中，CT和MRI的敏感度一样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In some circumstances, a lumbar puncture (LP) is also required, unless a benign etiology can be otherwise established. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在某些情况下也需要做腰椎穿刺，除非有其他合适的方法能够证实其病原学依据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A general evaluation of acute headache might include the investigation of cardiovascular and renal status by blood pressure monitoring and urine examination; eyes by funduscopy, intraocular pressure measurement, and refraction; cranial arteries by palpation; and cervical spine by the effect of passive movement of the head and by imaging.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性头痛的一般检查可能包括由血压和尿检来反映心血管和肾功能，眼底镜检查、眼内压检查和调节反射，触诊颅内动脉，头部被动运动和影像学检查颈椎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The psychological state of the patient should also be evaluated since a relationship exists between head pain and depression. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于头痛和抑郁之间存在一定关系，病人的心理状态也应该评估。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many patients in chronic daily pain cycles become depressed, although depression itself is rarely a cause of headache. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>许多病人每天受慢性头痛的影响逐渐变得抑郁，尽管抑郁本身很少会导致头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Drugs with antidepressant actions are also effective in the prophylactic treatment of both tension-type headache and migraine.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>抗抑郁药在紧张性头痛和偏头痛的预防性治疗中也有效果。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Underlying recurrent headache disorders may be activated by pain that follows otologic or endodontic surgical procedures. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>耳部或牙髓手术后的疼痛可能会引起复发性头痛紊乱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, pain about the head as the result of diseased tissue or trauma may reawaken an otherwise quiescent migrainous syndrome. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，由病变组织或创伤引起的头部疼痛可能会导致其他的静止性偏头痛综合征。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Treatment of the headache is largely ineffective until the cause of the primary problem is addressed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种头痛的治疗在很大程度上是无效的，除非引起原发病的原因能得到解决。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Serious underlying conditions that are associated with headache are described next. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>下面介绍与头痛有关的严重的基础疾病。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Brain tumor is a rare cause of headache and even less commonly a cause of severe pain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑部肿瘤是头痛的一种罕见原因并且很少引起严重头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The vast majority of patients presenting with severe headache have a benign cause.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>绝大多数患者严重头痛的原因都是良性的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>SECONDARY HEADACHE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>继发性头痛</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The management of secondary headache focuses on diagnosis and treatment of the underlying condition.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>管理继发性头痛需要注意诊断和治疗如下疾病。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>MENINGITIS</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑膜炎</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acute, severe headache with stiff neck and fever suggests meningitis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性严重头痛、颈部僵硬和发热提示脑膜炎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lumbar puncture is mandatory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>腰椎穿刺是必要的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Often there is striking accentuation of pain with eye movement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通常有眼球运动后显著增强的疼痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Meningitis can be easily mistaken for migraine in that the cardinal symptoms of pounding headache, photophobia, nausea, and vomiting are frequently present, perhaps reflecting the underlying biology of some of the patients.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于主要症状有头部闷痛感、畏光、恶心和频繁出现的呕吐，脑膜炎很容易被误认为是偏头痛，或许也反映了一些患者潜在的生理状态。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Meningitis is discussed in Chaps. 40 and 41.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑膜炎详见第40章和第41章的介绍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>INTRACRANIAL HEMORRHAGE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>颅内出血</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acute, severe headache with stiff neck but without fever suggests subarachnoid hemorrhage. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>急性严重头痛、颈部僵硬，但没有发热提示有蛛网膜下腔出血。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A ruptured aneurysm, arteriovenous malformation, or intraparenchymal hemorrhage may also present with headache alone. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>破裂动脉瘤、动静脉畸形或实质内出血也可仅表现为头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Rarely, if the hemorrhage is small or below the foramen magnum, the head CT scan can be normal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>少数情况下，如果出血很少或在枕骨大孔下，头部CT扫描可以正常。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>BRAIN TUMOR</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑部肿瘤</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Approximately 30% of patients with brain tumors consider headache to be their chief complaint. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大约30％脑肿瘤患者的主诉认为是头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The head pain is usually nondescript—an intermittent deep, dull aching of moderate intensity, which may worsen with exertion or change in position and may be associated with nausea and vomiting. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛性质通常也难以描述——间歇性闷痛、中强度钝痛、用力或改变位置可能会加重甚至导致恶心、呕吐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This pattern of symptoms results from migraine far more often than from brain tumor. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛较脑肿瘤更容易导致这种症状。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The headache of brain tumor disturbs sleep in about 10% of patients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑肿瘤导致的头痛会影响10％患者的睡眠质量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Vomiting that precedes the appearance of headache by weeks is highly characteristic of posterior fossa brain tumors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>呕吐几周后出现头痛应高度怀疑颅后窝肿瘤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A history of amenorrhea or galactorrhea should lead one to question whether a prolactin-secreting pituitary adenoma (or the polycystic ovary syndrome) is the source of headache. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有闭经或溢乳史应该怀疑是否由催乳素垂体瘤(或者多囊卵巢综合征)引起的头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache arising de novo in a patient with known malignancy suggests either cerebral metastases or carcinomatous meningitis, or both. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>已知恶性肿瘤患者中出现头痛应怀疑是脑转移瘤或者是癌性脑膜炎，或者两者都有。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Head pain appearing abruptly after bending, lifting, or coughing can be due to a posterior fossa mass, a Chiari malformation, or low CSF volume.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在突然弯腰，抬举或者咳嗽时引起的头痛原因有颅后窝肿瘤，小脑扁桃体下疝畸形，或者低颅压。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Brain tumors are discussed in Chap. 37.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>脑肿瘤详见第37章内容。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>TEMPORAL ARTERITIS(See also Chap. 21)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>颞动脉炎(详见第21章)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Temporal (giant cell) arteritis is an inflammatory disorder of arteries that frequently involves the extracranial carotid circulation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>颞动脉炎(巨细胞)是一种时常侵犯颅外颈动脉循环的炎性疾病。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is a common disorder of the elderly; its annual incidence is 77 per 100,000 individuals age 50 and older. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一种老年人常见疾病;其年发病率是77/100000(年龄≥50岁)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The average age of onset is 70 years, and women account for 65% of cases. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>平均发病年龄是70岁，女性占65％。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>About half of patients with untreated temporal arteritis develop blindness due to involvement of the ophthalmic artery and its branches; indeed, the ischemic optic neuropathy induced by giant cell arteritis is the major cause of rapidly developing bilateral blindness in patients &gt;60 years. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大约50％未经治疗的颞动脉炎患者眼动脉及其分支受累导致失明;事实上，由巨细胞动脉炎引起的缺血性视神经病是导致患者(＞60岁)双目失明的主要原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because treatment with glucocorticoids is effective in preventing this complication, prompt recognition of the disorder is important.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为糖皮质激素在预防并发症上很有效，快速诊断非常重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Typical presenting symptoms include headache, polymyalgia rheumatica, jaw claudication, fever, and weight loss. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>典型的主要症状包括头痛、风湿性多肌痛、颌跛行、发热和体重减轻。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache is the dominant symptom and often appears in association with malaise and muscle aches. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛是主要症状，并且经常出现精神萎靡和肌肉疼痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Head pain may be unilateral or bilateral and is located temporally in 50% of patients but may involve any and all aspects of the cranium. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛可能会发生在单边或双边并且暂时出现在50%患者身上并且累及整个颅骨。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pain usually appears gradually over a few hours before peak intensity is reached; occasionally, it is explosive in onset. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在峰值强度达到前头痛经常会持续几个小时。偶尔会出现爆炸样头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The quality of pain is only seldom throbbing; it is almost invariably described as dull and boring, with superimposed episodic stabbing pains similar to the sharp pains that appear in migraine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很少出现搏动性跳痛;总是被描述为一种乏力的钝痛。很像偏头痛时出现的连续性刺痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most patients can recognize that the origin of their head pain is superficial, external to the skull, rather than originating deep within the cranium (the pain site for migraineurs). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大多数病人可以认识到头痛的原因与颅骨表面有关，而不是来自颅骨深部(偏头痛患者的疼痛部位)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scalp tenderness is present, often to a marked degree; brushing the hair or resting the head on a pillow may be impossible because of pain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头皮的软硬通常会达到一定程度，头痛导致洗头发或者在枕头上睡觉是不可能的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache is usually worse at night and often aggravated by exposure to cold. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>晚上头痛会更加严重并且着凉后会更加严重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Additional findings may include reddened, tender nodules or red streaking of the skin overlying the temporal arteries, and tenderness of the temporal or, less commonly, the occipital arteries.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外可能会发现颞动脉或者较柔软的枕部动脉表面的皮肤发红，有软结节或红纹。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The erythrocyte sedimentation rate (ESR) is often, though not always, elevated; a normal ESR does not exclude giant cell arteritis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>红细胞沉降率(ESR)偶尔但不会总是升高，正常血沉不会排除巨细胞动脉炎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A temporal artery biopsy followed by immediate treatment with prednisone 80 mg daily for the first 4–6 weeks should be initiated when clinical suspicion is high. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若临床高度怀疑此病时应考虑最初4~6周每日及时用泼尼松(80mg)治疗，然后行颞动脉活检。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The prevalence of migraine among the elderly is substantial, considerably higher than that of giant cell arteritis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>老年人中偏头痛的发病率要显著高于巨细胞动脉炎。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Migraineurs often report amelioration of their headaches with prednisone; thus, caution must be used when interpreting the therapeutic response.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛患者经常用泼尼松改善头痛症状;因此，更需要注意激素使用后的治疗反应了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>GLAUCOMA</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>青光眼</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Glaucoma may present with a prostrating headache associated with nausea and vomiting. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>青光眼的可能表现为虚弱的头痛伴有恶心和呕吐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The headache often starts with severe eye pain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛通常开始于眼睛严重疼痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On physical examination, the eye is often red with a fixed, moderately dilated pupil.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>体格检查会发现眼睛变红，瞳孔适度散大。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Glaucoma is discussed in Chap. 21.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>青光眼详见第21章内容。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PRIMARY HEADACHE SYNDROMES</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原发性头痛</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Primary headaches are disorders in which headache and associated features occur in the absence of any exogenous cause (Table 8-1). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>原发性头痛是指没有任何相关的外源性原因引起的头痛(表8-1)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most common are migraine, tension-type headache, and cluster headache.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最常见的是偏头痛、紧张性头痛、丛集性头痛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>MIGRAINE</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Migraine, the second most common cause of headache, afflicts approximately 15% of women and 6% of men over a 1-year period. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛是头痛第二个最常见的原因，每年都会影响着大约15％的女性和6％的男性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is usually an episodic headache associated with certain features such as sensitivity to light, sound, or movement; nausea and vomiting often accompany the headache. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>连续性头痛的诱因通常有畏光、畏声或者运动，还会伴随恶心、呕吐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A useful description of migraine is a benign and recurring syndrome of headache associated with other symptoms of neurologic dysfunction in varying admixtures (Table 8-3). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛是一种良性的、反复发作性头痛，伴随有其他神经功能障碍(表8-3)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Migraine can often be recognized by its activators, referred to as triggers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛的发生通常是有诱因的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The brain of the migraineur is particularly sensitive to environmental and sensory stimuli; migraine-prone patients do not habituate easily to sensory stimuli. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>偏头痛患者的大脑对环境和感官刺激尤其敏感;偏头痛患者容易受到感官刺激。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This sensitivity is amplified in females during the menstrual cycle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种敏感性在女性月经周期会增加。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Headache can be initiated or amplified by various triggers, including glare, bright lights, sounds, or other afferent stimulation; hunger; excess stress; physical exertion; stormy weather or barometric pressure changes; hormonal fluctuations during menses; lack of or excess sleep; and alcohol or other chemical stimulation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>头痛可以由不同的原因引起或者放大，包括眩光、强光、声音或者其他传入刺激及饥饿、过度压力、过度用力、暴风雨天气或者气压变化、月经期荷尔蒙变化、睡眠不足或过多、酒精或者其他化学刺激。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Knowledge of a patient's susceptibility to specific triggers can be useful in management strategies involving lifestyle adjustments.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>患者对这些特殊诱因有一定的了解则可有助于他们预防疾病的发生包括调整生活方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pathogenesis </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>发病机制</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The sensory sensitivity that is characteristic of migraine is probably due to dysfunction of monoaminergic sensory control systems located in the brainstem and thalamus (Fig. 8-1).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>感觉灵敏是偏头痛的特点，可能是由于位于脑干和丘脑的单胺能感觉控制系统出现功能障碍(图8-1)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Activation of cells in the trigeminal nucleus results in the release of vasoactive neuropeptides, particularly calcitonin gene–related peptide (CGRP), at vascular terminations of the trigeminal nerve and within the trigeminal nucleus. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在三叉神经和三叉神经核的血管终末，血管神经肽的释放激活了三叉神经核的细胞，尤其是基因有关的降钙素多肽(CGRP)。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>CGRP receptor antagonists have now been shown to be effective in the acute treatment of migraine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>CGRP受体拮抗药在治疗急性偏头痛中有效。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Centrally, the second-order trigeminal neurons cross the midline and project to ventrobasal and posterior nuclei of the thalamus for further processing. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>重要的是，二阶三叉神经元越过中线，由丘脑腹侧基底和腹后核进一步处理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Additionally, there are projections to the periaqueductal gray and hypothalamus, from which reciprocal descending systems have established antinociceptive effects. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然后再投射到导水管周围和下丘脑，倒过来这些系统也具有镇痛作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Other brainstem regions likely to be involved in descending modulation of trigeminal pain include the nucleus locus coeruleus in the pons and the rostroventromedial medulla.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他脑干区域可能参与下调三叉神经痛包括蓝斑脑桥核和腹内侧核。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pharmacologic and other data point to the involvement of the neurotransmitter 5-hydroxytryptamine (5-HT; also known as serotonin) in migraine. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>神经递质5-羟色胺(5-HT;也称为血清素)在偏头痛中具有药理作用和其他数据点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Approximately 60 years ago, methysergide was found to antagonize certain peripheral actions of 5-HT and was introduced as the first drug capable of preventing migraine attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>约在60年前，二甲麦角新碱用来对抗5-HT某种外部的作用并且被用作预防偏头痛的一线药。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The triptans are designed to selectively stimulate subpopulations of 5-HT receptors; at least 14 different 5-HT receptors exist in humans. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>曲谱坦可选择性的刺激5-HT受体亚群;至少是人体中的14种不同的5-HT受体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The triptans are potent agonists of 5-HT1B, 5-HT1D, and 5-HT1F receptors and are less potent at the 5-HT1A receptor. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>曲谱坦类是5-HT1B、5-HT1D、5-HT1F有效的受体激动药并且对5-HT1A受体激动较差。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A growing body of data indicates that the antimigraine efficacy of the triptans relates to their ability to stimulate 5-HT1B/1D receptors, which are located on both blood vessels and nerve terminals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>越来越多的数据表明曲谱坦抗偏头痛的作用与它们刺激血管和神经末梢上5ＧHT1B/1D受体的作用有关。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Separately, it has now been shown that selective 5-HT1F receptor activation, which has a purely neural effect, can terminate acute migraine.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>个别的，选择性5-HT1F受体激动药对神经末梢的作用可以终止急性偏头痛。</seg></tuv>
+</tu>
+</body>
+</tmx>

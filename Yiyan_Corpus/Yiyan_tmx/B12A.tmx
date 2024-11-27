@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T135948Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apollo 13 at 40: Houston, We Have a Miracle 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿波罗13号40周年纪：休斯顿，我们创造了奇迹
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Say this about the flight of Apollo 13: The spashdown, which occurred 40 years ago today, was perfect. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于40年前的今天阿波罗13号的那次航行：它的降落可谓完美。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's not just because the crew actually managed a splashdown, as opposed to bouncing off the atmosphere or burning up on reentry. It's because the maneuver was executed so deftly. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那不仅仅是因为宇航员们难以置信地完成了降落，而没有从大气层反弹出去或者重返地球时被烧毁；而是因为航行完成得如此娴熟。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The conical Apollo command modules were deliberately hung crookedly from their parachutes so that the ship wouldn't slap into on the water on its blunt bottom, but would instead knife into it. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>圆锥形的阿波罗号命令舱小心地斜挂在降落伞下，以防止飞船粗钝的尾部直接拍击水面，并像刀一样切入水面。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That didn't always happen, since the craft could still catch a nasty wave as it hit. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那种事并非总会发生，因为当飞船撞击水面的时候会激起巨浪。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Apollo 13 caught no wave and slipped into the ocean with almost balletic ease—— the only thing about the mission that went just right.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但阿波罗13号没有，它以跳芭蕾舞似的从容滑入了大海，那是整个任务中唯一运转正常的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four decades later, it's easy to forget just how improbable that safe return was, following an oxygen tank explosion that forced the crew to take refuge in the lunar module. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>40年后，人们很容易就忘记，在氧气舱发生爆炸而且宇航员被迫躲避到登月舱的时候，能安全返航是多么得不易。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a reason that during training the astronauts never simulated that kind of emergency—— because everyone knew that if an explosion wrecked your ship and all your power and oxygen vanished, you'd surely wind up dead. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是因为在训练期间宇航员从未模拟过那种紧急情况：大家都知道一旦爆炸毁坏了飞船，所有的动力和氧气都耗尽了，你就必死无疑了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a little like taking a driving course and practicing what to do if your car hurtles off a cliff. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有点像参加驾驶课程，并练习如果你的车从悬崖冲下时该怎么做。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's the point? 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那意味着什么？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Apollo 13's astronauts did survive. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但阿波罗13号的宇航员们幸存下来了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part of that ——a great deal of that ——was due to the extraordinary technological and navigational improvisations the people on the ground and in the spacecraft dreamed up along the way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那部分——很大一部分——要归结于地面上和飞船里的人们的超凡技术和沿途设计的航行方案的即兴发挥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the rest was due to the surreal cool of two men: commander Jim Lovell and flight director Gene Kranz.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而剩下的要归功于两个人，即指挥官吉姆·罗威尔和飞行指引金尔·克朗兹，他们做到了“泰山崩于前而不惊”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the more poignant moments in the Apollo 13 film, which was based on the book of the same name Jim and I wrote, occurs when lunar module pilot Fred Haise is suffering from fever and chills and Jim gives him a bear hug to share his body heat. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《阿波罗13号》（改编自吉姆和我写的同名著作）令人感动的镜头之一是，当登月舱驾驶弗雷德·海斯正由于发高烧而打颤时，吉姆给了他一个熊抱，用自己的身体温暖他。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was deep in the midst of writing the book, during one of the many, many interview sessions we had, that Jim at last offered up that detail. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这本书的写作过程中，也是在我们接受的无数次中的一次采访时，吉姆终于说出了那个细节，该场景令人印象深刻。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Now?" I wanted to ask. "It took you till now to recall that exquisite bit?" I did not say that, of course, because I actually wasn't surprised that he never made mention of it before. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在？”我想问，“你直到现在才想起那件重要的小事吗？”当然我没有那样做，因为对他以前从未提及到它我丝毫不感到惊奇。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Test pilots don't hug, they fly things. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>试飞员不会拥抱，他们只是驾驶飞船。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And if necessary, they die in the process. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且必要的话，他们会在试飞过程中献出自己的生命。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The moment in the mission Jim much prefers to recall ——and the only one about which I have ever seen him yield to unalloyed pride —— was when he first tried to maneuver the intact lunar module (LEM), which was attached to the carcass of the command module and was now serving as a sort of lifeboat. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于那次任务，吉姆更愿意回忆的时刻，是他第一次尝试操作未经触碰的登月舱，当时它连接在指令舱上并充当救生船之用。这是我唯一一次亲眼目睹他没有那么意得志满。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The LEM was meant to be piloted only after the two spacecraft were separated, and the dramatic shift in center of gravity when the ships were linked made the control stick work in precisely the opposite way it was supposed to: try to yaw left and you go right; try to pitch up and you pitch down. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按道理，登月舱应当在两个舱体分离之后才能驾驶。舱体相连时引力的急剧变化使得控制杆以预期完全相反的方式工作：你想往右偏的话你得往左偏，想向上拉的话得往下拉。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine driving down a highway at 5,000 miles per hour and all of a sudden your steering wheel switches its left-and-right capabilities.
+ </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象一下这样的场景：当你以5000英里/小时的速度沿着公路行驶，突然方向盘对调了它的左右功能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I had to learn to fly all over again," Lovell says, in what passes for boasting when boasting is not something you do. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不得不重新学习驾驶，”罗威尔说，那常常被当作吹牛但事实正是如此。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kranz, a buzz-cut ex-fighter pilot who would crank himself up for a challenging day at work by playing "Stars and Stripes Forever" in his head, was the unchallenged field general in Mission Control, rarely questioned even by his superiors. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克朗兹，一位留着板寸的前战斗机飞行员，为了做好准备迎接当天充满挑战性的工作，一直在脑海中播放《星条旗永不落》。他是指挥中心的指挥官的最合适人选，就算是他的上司也极少质疑他的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During our first meeting I asked him how he —— who knew the odds Apollo 13 was facing better than the crew themselves —— dealt with the near statistical certainty that the men weren't coming home. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们第一次见面时，我问他是如何应对宇航员几乎确定无法回家这件事（他知道阿波罗13号比宇航员们所面临的逆境要小得多）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His answer was that he didn't need to deal with it. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的回答是他无须应对。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I couldn't say when the astronauts would get back or how much spacecraft we'd have left when they did," he said. "But I never questioned that they'd survive." 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我无法回答宇航员何时能够回家，也无法回答当他们返航时飞船还能留下多少，”他说，“但我从未怀疑过他们一定能够生还”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To me, that never seemed like denial that a bad thing was going to happen, but an exertion of pure, clean will to ensure that it didn't.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我而言，那不像是拒绝承认将要发生一件很糟糕的事情，而完完全全是在决心的驱使下努力确保那件事不会发生。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kranz and Lovell and the rest of the Apollo vets are, of course, also plainly, fallibly mortal ЎЄ a fact betrayed not least by the fact that they're also now old. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，克朗兹、罗威尔还有其他执行阿波罗飞行任务的“老人”们总有一天会死去，而且他们现在已经老了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lovell spent the millennium new year as part of a group camping out on the ice at the South Pole, fighting a wind storm that was threatening to blow his tent away.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>千禧新年罗威尔是在南极度过的，他当时正在冰上集体野外宿营，需要和能把帐篷吹走的风暴搏斗。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I had a beard that made me look like Hemingway," he told me later, "and I was thinking, 'What am I doing here? I'm 72 years old." 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我蓄了须，那让我看起来像海明威，”他后来告诉我，“我在想，我在这儿做什么？我已经72岁了。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now he's 82.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他82岁了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kranz will be 77 this year, and still has the crewcut, the snapping speech cadences and the aggressive optimism he had when he was sending men to the moon. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年克朗兹也即将年满77岁，但仍然留着平头，说话速度依然很快，而且保持积极乐观的态度，就像当年他把宇航员送上月球时一样。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet now and then, he too allows a glimpse of something else. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但偶尔他也会换换其他的装扮。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the mid-1990s, when the 25th anniversary of Apollo 13 was approaching, PBS aired what was perhaps the finest documentary ever produced about the mission. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上世纪90年代中期，正值阿波罗13号返航25周年纪念日，美国公共电视台放映了或许是有史以来最棒的关于那次飞行任务的纪录片。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of the veterans were rounded up and interviewed, but it was Kranz whose on-camera reminiscences ended the show. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多执行过当年任务的“老人”都被聚集起来并接受了采访，但节目的结尾是以克朗兹出镜回忆结束。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was seated in the very control room from which the moon landings were run, recalling the moment Apollo 13 spashed down ЎЄ the cheering, the backslaps, the cigars, the small American flags being waved at the consoles. 
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他坐在控制室里（当年正是从那里操控登月行动的），回忆阿波罗13号降落的那一刻：控制室里爆发出了欢呼声，人们相互拍击后背，有人抽起了雪茄，还有控制台上挥舞着的小小美国国旗。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, improbably, he choked up and couldn't go on.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，他突然哽咽了，无法再继续讲下去。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It was...neat," he finally managed.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“降落很......出色”，他最后憋出一句。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Neat" is what passes for gushing when gushing is not something you do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“出色”通常会被认为是过誉，但事实也的确如此。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072315Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peter Hessler</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>何伟</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peter Hessler is a Beijing correspondent for the New Yorker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Peter Hessler是《纽约客》驻北京的通讯记者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A native of Columbia, Missouri, he studied English literature at Princeton and Oxford before going to China as a Peace Corps volunteer in 1996. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他出生于密苏里州的哥伦比亚市，先后在普林斯顿大学和牛津大学修习英语文学，1996年加入美国志愿者组织和平队来到中国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His two year experience of teaching English in Fuling, a town on the Yangtze, inspired River Town, his critically acclaimed first book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国两年的教书生涯孕育出他的第一本著作《江城》，书里讲述了他在长江沿岸小城涪陵作英文教师的故事，该书出版后备受好评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After finishing his Peace Corps stint, Hessler wrote freelance pieces for Atlantic Monthly and the New York Times before returning to China in 1999 as a Beijing-based freelance writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和平队的工作结束后，Hessler作为自由撰稿人为《大西洋月刊》和《纽约时报》写作，直到1999年重新回到中国，定居北京，继续自由撰稿人的生涯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There he wrote for newspapers like the Asian Wall Street Journal, the Boston Globe and the South China Morning Post before moving on to magazine work for National Geographic and the New Yorker.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的东家最初包括《亚洲华尔街日报》、《波士顿环球》和《南华早报》等报社，随后转向杂志：《国家地理》和《纽约客》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How did you get started traveling?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>旅行生活的开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family always traveled a fair amount when I was growing up - long driving trips to different parts of America, the sort of travel that is familiar to many Midwestern childhoods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>童年时期我们家经常旅行——长途驾车去到美国的不同地方，这种旅行对许多中西部的孩子来说是很熟悉的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I spent part of my second grade year in Sweden, where my father was on sabbatical as a professor of sociology.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为我父亲休假的缘故，我的小学二年级有一段时间是在瑞典上的，那个时候他是一名社会学教授。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But apart from that experience I saw little of the world outside of America, until 1992, when I received a scholarship to attend graduate school at Oxford. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过除此之外，对于美国以外的世界我知之甚少，直到1992年这种情况开始发生改变，这一年我申请到一笔奖学金，去了牛津大学读研。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was really the start of my international experiences - I lived cheaply at Oxford and picked up odd jobs and the occasional freelance writing gig, and this allowed me to travel extensively in Europe and Asia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这要算是我的海外经历的真正起点——在牛津我的生活很节俭，时不时能找到一些古怪的工作，偶尔还有些约稿，这些工作使我有机会在欧亚大陆做广泛的旅行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During those two years I visited something like 30 countries - Oxford was very generous with its vacation time, and I traveled cheaply, using rail-passes and camping a lot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牛津大学在假期方面非常慷慨，因此读研的两年间我差不多去了30个国家，我用省钱的方式上路，买火车通票，经常露宿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I finished in '94 and decided to go home around the world - an unplanned trip that started in Prague and continued by land and boat all the way to Thailand, via Russia and China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1994年毕业时，我决定先环游世界再回美国。这趟行程没有什么计划，从布拉格开始，经由陆路和水路，取道俄罗斯和中国，最终到了泰国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After returning from that trip, I freelanced and took other trips, including a long hike across Switzerland - in the summer of '95 I received a grant to hike across the country, and I spent two months camping and hiking in the mountains, from the French border to the Italian border.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回国后，我过了一段自由职业的生活，继续旅行。1995年的夏天，我得到了一笔钱，资助我徒步穿越瑞士的计划。那两个月里，我在山区徒步和宿营，从法国边界走到了意大利边界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But during that period I found myself always thinking about returning to Asia, but I decided that I wanted to live somewhere, work a regular job, and learn the language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这段时间里，我意识到自己一直在考虑回到亚洲。我决定在那儿找个地方定去，有一份固定工作，学习当地的语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Peace Corps had always appealed to me and I joined in '96, when I was sent to a small city in southwestern China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1996年，我加入了和平队，在此之前这个组织就一直吸引着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I taught English and American literature at a teachers college that trained future teachers of English.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我被和平队排到了中国西南的一个小城，在一所培训英语教师的师范学校教英美文学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How did you get started writing?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>写作的开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since I was a sophomore in high school I knew that I wanted to be a writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高二那年，我觉得自己想当一名作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not sure where this interest came from; I didn't come from a family of writers, but nevertheless I always knew that was what I wanted to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不太清楚兴趣从何而来；家里从没有出过作家，可我却一直觉得那是我想做的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think much of it had to do with the encouragement of my high school English teachers, who recognized my interest in literature and writing and encouraged me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想大部分动力应该来自我的高中英文老师，他发现了我对文学和写作的兴趣并鼓励我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At college I majored in creative writing; I specialized in fiction and originally had no interest in nonfiction writing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在大学里，我的专业是创意写作，专攻虚构作品，最初对非虚构作品毫无兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never wrote for a college newspaper or magazine; I saw myself as a future novelist and professor of English. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从未给校报校刊写过稿，我对未来的设想是成为小说作家和英文教授。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But during my junior year I took a course in nonfiction creative writing, taught by John McPhee, and for the first time I realized that nonfiction interested me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是大学三年级时，我选了一门课，John McPhee教授的非虚构创意写作。那是我第一次意识到自己对非虚构作品发生兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And soon it became pragmatic: I found myself in parts of the world where I could find interesting stories, and it was an easy way to make spending money. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快，这种兴趣变得相当有用武之地：旅行途中，总能发现有趣的故事，通过写作把它们变现也很容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time I finished grad school I realized that I wanted to try and write nonfiction for my career.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了研究生毕业的时候，我发现自己试图成为一名职业的非虚构作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What do you consider your first "break" as a travel writer?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为旅行作家的第一次“突破”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, some of these teachers I had in high school and college were probably 'breaks' of a sort - in that they helped me realize possibilities in writing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的几个高中和大学老师可能得算是某种“突破”，是他们帮助我意识到写作的可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But from a publishing point of view, my first serious story was published in '95, when I wrote an essay about taking the trans-Siberian train from Moscow to Beijing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从出版的角度而言，第一次正式发稿是95年，那年我搭乘跨西伯利亚火车从莫斯科到北京，把旅途所见写成一篇文章寄给了《纽约时报》，然后就见报了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sent it to the New York Times and they published it; I was surprised because I knew nobody there and just sent it to a name on the masthead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时我挺惊讶，因为那地方我谁都不认识，只是在报纸的版权页上找了个名字作收件人。在那之后的四年左右时间里，我又给《纽约时报》写了五六篇文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After that, I did another half-dozen or so stories for them, over a period of four years or so. It wasn't a lot of writing, but in a sense it was important to me because during those years I was often in very remote areas, especially during the Peace Corps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我写得并不多，但这些文章对我而言很重要，因为那些年里，我经常待在一些偏远的地方，特别是为和平队工作的那两年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Publishing those travel pieces in the Times was a way of reminding me that there was a writing world out there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《纽约时报》上发表这些旅行见闻对我是一种提醒，它提醒我写作的世界还存在着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I was fortunate because the Times was very patient with the logistical difficulties - I had no Internet access and had to take a bus into town to get a fax. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸运的是，《纽约时报》在为作者提供支持方面非常耐心。我无法上网收邮件，他们就发传真过来，而我不得不坐长途车进城去收传真。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In retrospect I'm surprised they were patient enough to work with me, even sporadically; we never met in person during that time and it was always a struggle to edit stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在回想起来，真的挺惊讶他们居然有耐心跟我合作，哪怕是偶尔。我从来没有和编辑见过面，编辑修改稿子时，我们之间总有一场较量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't think they knew how much those pieces meant to me as links to the writing world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得他们一定不知道这些稿子对我有多重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apart from that, my first break was writing my book about my experience in the Peace Corps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不算这些，我的第一个突破应该是写书，那本关于和平队经历的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Books are critical to freelancers - I had always heard this from my teachers in college, and now I know why they always emphasized it so much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>写书对自由作家来说很重要——以前我的大学老师总是这么说，现在我终于明白他们为什么如此强调这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, it's a way of having complete control over your writing - magazine and newspaper pieces are always being edited and cut down, whereas a writer always has the final say over what goes in his book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，它让你对自己的写作有完全的控制权；杂志和报纸总是删改你的稿子，而作家则对自己的书有最终发言权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And a book also makes a huge difference in your future writing projects; it gives you more legitimacy if you're trying to live the freelance life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，出版一本书对你的未来的写作生涯会有重大影响；它让你的自由作家生活显得更为正当。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My experience writing the book was pretty simple - at the end of my two years in the Peace Corps, I decided to try and write a book, and I spent four months writing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>写书的经历本身挺简单——在和平队的两年工作结束时，我有了写书的打算，然后花了四个月一气写成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wrote the thing in its entirety and sent it off to agents, most of whom weren't interested. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>完成之后，我把书稿寄给了几个书商，他们大多不感兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But two were, and I went to New York and chose one, William Clark, who sold it to HarperCollins within a week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>感兴趣的有两个，我去了趟纽约，选了其中一个——William Clark，他在一周之内把书稿卖给了出版社HarperCollins。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Up until that point, I had been looking for full-time journalism jobs, but getting the advance convinced me to try freelance instead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在此之前，我一直在寻找全职的记者工作，拿到书稿定金让我改变了主意，转而尝试自由作家的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's what I'm still doing today.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那开始，我一直这么过来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a traveler and fact/story-gatherer, what is your biggest challenge on the road?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在路上最大的挑战</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowadays I write mostly about China, where I live, and I'm quite comfortable traveling there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数时候，我写的是关于中国的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've been in the country for almost five years now, speak decent Chinese, and I travel by about every means imaginable - I've done stories about boat and train rides, and I also have a Chinese drivers license and am currently working on some road trip stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我住在那儿已经快五年了，汉语讲得不坏，已经十分适应在中国旅行。我极尽可能地尝试各种旅行方式，写过乘舟航行和搭乘火车的故事，也有中国驾照，现在正在做一些自驾旅行的稿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So things like language and culture aren't major problems. Instead, the biggest hassles are political. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以语言文化之类对我而言并不成问题，最大的麻烦是政治上的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In China, to be a full-time resident writer you need to have a journalist accreditation and visa; this means that you are the official representative of a foreign magazine or newspaper or news agency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国，要成为一名合法的外籍常驻作者，你必须持有媒体的授权和签证；这意味着你是某国外杂志、报纸或通讯社的合法代表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It takes an enormous amount of paperwork but you're at risk if you stay long-term in the country without it - the government can throw you out if you write something that makes them unhappy (and a lot of stories do, of course). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获得这一身份需要耗费大量精力在文牍工作上，但如果没有这层身份，长期居留会有风险——如果你写了让政府不高兴的文章（显然，有太多文章都会让它不高兴），它会让你滚蛋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once you have the journalist license, though, you have more security - you might get criticized by the foreign ministry, but it's rare for them to toss you out, because it becomes a diplomatic event - bad PR for the People's Republic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是一旦你有了这层身份，风险就会小得多——外交部会批评你，但不太会把你赶走，因为驱逐外国记者就成了外交事件，对中国政府的公关形象不利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm currently registered as the New Yorker's Beijing correspondent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在注册的身份是《纽约客》的北京通讯记者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the drawback is that the j-visa goes in your passport, which means that every time you register at a Chinese hotel they know a journalist is in town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是记者签证也有不利的一面：无论什么时候你住进一家旅馆，当局就会立刻知道：城里来了个外国记者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Generally they will report to the local police, who may or may not check you out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般情况下，旅馆会通知当地警察，他们有可能会来查你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often it means that you can't stay in a town for very long; as a result, journalists tend to pop out for quick trips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种情况下你通常无法在一个地方待很久；所以许多外国记者倾向于突击式的快速旅行采访。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I've always preferred long, unstructured research trips, which can be hard when I'm carrying the j-visa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我个人总是更热爱那种漫长的、没有过多计划的探索式旅行，而记者签证对这种旅行非常不利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recently I drove solo across the north for two weeks, and my trip was cut short when a local police department caught me through the registration system. They kicked me out - but they phoned ahead to the next town, and the next day the exact same thing happened to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久之前我一个人驾车在北方走了两个星期，有一天，警察在旅馆登记系统里发现了我，他们把我赶了出来，而且给沿途的下一个城市通风报信，于是第二天同样的事情又发生了一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ended up getting run out of the province, and it was frustrating and exhausting; finally I just went back to Beijing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个过程令人沮丧和疲倦，最终我只好提前结束了行程，离开了那个省，回到北京。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In those situations it's particularly frustrating because my research wasn't in any sense critical or unfair; in general I try to write about everyday life in China and I'm less concerned with politics than most journalists.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最有挫折感的地方在于，我的探索在任何意义上都不是批评性的或带有偏见；整体而言我比大多数外国记者更少关心政治，我想写的是中国的日常生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is your biggest challenge in the writing process?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>写作过程中最大的挑战</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd say my biggest writing challenge involves juggling projects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能最大的挑战在于不同写作计划之间的周旋方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm generally working on several stories at once, and I prefer to do long features that are loose and uncertain - often I have no idea how long I'll research them; I prefer to see stories develop organically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常我都会同时操作若干个题目，并且更愿意写结构松散和不确定的长篇特写，我经常不知道自己要花多长时间准备，我愿意看到故事自然地发展出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think it's good from a research point of view but logistically it can get complicated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种方式从研究的角度来说甚好，但在管理上会变得很麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year I was also flooded with work, because I've been changing my work routines, and it's been a bit wearing sorting that out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年我的计划又排得很满，主要是因为我正在尝试改变工作方式，把一切都安排好很不容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to do quite a bit of newspaper and shorter magazine features, but now I'm shifting to writing long features for primarily two magazines - the New Yorker and National Geographic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去写的多是报纸文章和杂志的短篇特写，现在我想转到长篇特写的方向上来，主要为两本杂志写作——《纽约客》和《国家地理》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm shifting to a routine where I write maybe 6 to 8 features a year, which will give me time to do other books. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，我一年大概需6到8篇特写，剩下的时间用来写书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the right routine for me, but it's taken time to clear out some of the other commitments, and that's made for a busy year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的工作方式更适合我，不过转型期间需要很多时间清理过去遗留的任务，所以今年就变得很忙了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think that any time you're making a change in your freelance projects you're going to find yourself quite busy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，只要你试图改变既有的写作计划，都会把自己搞得很忙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is your biggest challenge from a business standpoint?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>财务上的最大挑战</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is probably the least problematic part of my career as a freelancer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这可能是我自由职业生涯中最不成问题的部分了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the real benefits of working in China is that living expenses are very low, so I've never felt financial pressure since I returned in '99. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国工作真正的好处之一是生活成本非常之低，所以99年我回到中国后还从来没感觉到财务上的压力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often I wasn't making much money, but it didn't matter because my daily routines are so simple and inexpensive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多时候其实挣不到太多钱，但是我的日常开销太便宜了所以根本无所谓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a tradeoff - China is more complicated from a political point of view, but financially it's simple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也算失之东隅收之桑榆：政治上约束太多，但财务上却很简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Personally, I'd prefer the political complications to the financial hassles - regardless of how annoying they may be, they are always a window into how this place works. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>个人而言，我情愿接受政治上的复杂约束，也不愿意在财务上遇到麻烦。不管政治限制如何讨厌，它都是中国现实的反映。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it's interesting material as a writer - often in my stories I've included details about how the Chinese respond to a journalist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且对于作者来说，它也是有趣的素材，我经常会把中国人对待一个外国记者的态度写进我的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm not married and have no children, so that makes things a bit easier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没结婚，也没生儿育女，所以财务上的事情也比较简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My agent handles my book contracts and some of the magazine financial arrangements, which also helps.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的经纪人打理我的出版合同和一些与杂志有关的财务安排，这也帮了我不少忙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far as editors go, I work with one editor at the New Yorker and one at National Geographic, and over the years we've gotten to know each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《纽约客》和《国家地理》各有一名编辑跟我合作，多年以来，我们都已彼此了解，关系良好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those are comfortable relationships and I'm glad that it's not a source of stress - it often is in these circles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很庆幸编辑们没有成为我压力的来源，在这个行业这很常见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What travel authors or books might you recommend and/or have influenced you?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>推荐作家和书</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recently enjoyed "Red Dust," a travel book by a Chinese poet named Ma Jian - he started traveling because he got into political trouble in the late '80's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近读了一本《红尘》，一个中国诗人马建写的旅行传记。他开始旅行的原因是在1980年代后期卷入了政治麻烦。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

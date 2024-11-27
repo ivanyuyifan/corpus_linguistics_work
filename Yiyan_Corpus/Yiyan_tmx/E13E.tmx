@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151227T123852Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomato &amp; basil granita</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>番茄罗勒意大利粗冰糕</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ingredients</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原料</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Serves 8 as a starter</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8人份开胃菜</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>900 g very ripe tomatoes </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>900克熟透的番茄</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>salt</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>盐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>sugar</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 garlic clove , finely chopped </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1颗蒜瓣，剁细</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ground black pepper </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑胡椒粉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>red wine vinegar</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>红酒醋</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>bunch basil leaves , removed from stalk</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一簇罗勒叶子，从茎上摘取下来</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>方法</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chop the tomatoes and place in a bowl with all the other ingredients except the basil leaves.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.将番茄切碎，放入碗中，加入除罗勒叶子之外的所有的原料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you have time, leave them to macerate at room temperature overnight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果时间充裕，将混合物在常温下过夜浸渍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Blitz in a blender - in batches, then strain through a fine sieve.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分批将混合的原料在搅拌机中强力打翻，然后用细筛子过滤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shred the basil leaves and stir through.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加入撕碎的罗勒，充分搅拌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clear a shelf in the freezer and place a sided metal tray in to chill.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.冰箱冷冻室中腾出一块地方，然后放入金属托盘进行冷却。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make up your mix and leave to cool, then pour into the tray and cover with cling film.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把混合好的原料冷却之后放入托盘，并盖上保鲜膜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Freeze the liquid until frozen around the edges and slushy in the middle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷冻至托盘边缘完全冻结而中心仍然松软为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use a fork to break up the ice into smaller crystals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用叉子将冰块弄碎成细小的晶体状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Return the tray to the freezer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后把托盘放回冰冻室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Repeat the breaking up process every half hour (at least three times) until it's completely frozen and the texture of snow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每半小时拿出托盘弄碎冰块，重复至少三次直到最后一次完全冻结后呈现出雪花状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a quicker method: freeze the mixture in an ice tray, then blitz the cubes in a food processor just before serving.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另附快速方法：将原料混合物放入冰块托盘中完全冻结。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The texture will be slightly slushier, but just as delicious.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在食用之前将混合物冰块放入搅拌机中强力打碎即可。这种方法制作成品质感会有些松软，但一样美味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition per serving </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养成分</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>30 kcalories, protein 1.0g, carbohydrate 6.0g, fat 0.0g, saturated fat 0.0g, fibre 1.0g, salt 0.65g.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>30克卡路里，1.0克蛋白质，6.0克碳水化合物，0.0克脂肪，0.0克饱和脂肪，1.0克植物纤维，0.65克盐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T153210Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fatal and Vital Foods - Popular Nutrition Myths Exposed</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>致病的食品——流行营养传说的背后</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sugars</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Avoid all sugars, including alternative sweeteners, such as raw cane sugar, glucose, dextrose, molasses, caramel, fructose, corn syrup, date syrup, rice syrup, wheat syrup, etc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>避免一切糖类，包括替代甜味剂，如原材料蔗糖，葡萄糖，葡萄糖，糖蜜，焦糖，果糖，玉米糖浆，枣椰子糖浆，大米糖浆，小麦糖浆等糖类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sugars will raise your blood sugar causing your pancreas to produce a hormone called insulin to bring it back down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖类会使你的血糖升高，从而使你的胰腺分泌出一种称为胰岛素的激素来使血糖降下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too much insulin is also sickening and your body will develop insulin resistance as a result. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太多的胰岛素会引起疾病，你的身体因此也会对胰岛素产生抗性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although in this way, you're creating a panic inside your body on a daily basis, a kind of balance is created and for the longest time you will hardly notice this internal battle taking place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管，你每天都以此方式使你的身体内的消化糖分的功能出于紧张状态，但一种平衡会建立起来，而且在一段很长的时间内，你几乎不会察觉到这种内部斗争的发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only at middle age do you get presented the check for this exhaustion of your system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有到了中年的时候，你才会去检查你的身体系统的消耗状况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You will develop all sorts of prediabetic conditions, such as candida, hypoglycemia, poor circulation, excessive thirst, excessive hunger, excessive urination, constipation, windiness, allergies, skin problems, high blood pressure, irregular heart rhythm, bad cholesterol, obesity, etc. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会出现各种糖尿病前期症状，如水肿，低血糖，血液循环不良，过度口渴，过度饥饿，过度利尿，便秘，入风，过敏，皮肤问题，血压升高，心律不齐，坏胆固醇，肥胖等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most people will still not relate their symptoms to their foods and the doctor's cures will only cause side effects which, in turn, will cause more problems and worsen the original ones.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数人仍然不认为他们的症状与他们的食物有关，而医生的治疗只会产生副作用，这又会反过来造成更多的问题和使原来的症状恶化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too much sugar intake causes your glucose and insulin levels to go up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖摄入量过多会造成的血糖和胰岛素水平上升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To make matters worse, insulin resistance creates a vicious circle in which the insulin will increasingly be less effective. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更糟的是，抗胰岛素会造成恶性循环，在此循环中的胰岛素将越来越失去效力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A pancreas which has to produce too much insulin for too long will eventually get used up and give out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>胰脏被迫长年地超量制造胰岛素，终于过劳而失去功能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Insulin will then have to be injected into the blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>胰岛素就必须注入血液。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is called sugar diabetes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是所谓的血糖糖尿病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sugar sickens much more so than you might think; viruses, yeast fungi and cancer cells love sugar and feed on it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖可以使人病得比你想象中重很多，病毒，酵母，霉菌和癌细胞喜爱糖并以此为生，故糖还有许多你意想不到的致病途径。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I often come across the 'sugar-is-good-for-your-muscles' myth popularized by the sugar industry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我经常遇到制糖业推广‘糖对你的肌肉有好处’的神话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a clever half truth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个只说一半真相的聪明说法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any food is basically foreign to the body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何食物对身体而言都是外来物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your body has to convert food into glucose to use it as energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的身体要把食物转化成葡萄糖，来作为能源利用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Glucose is essential for muscle development. 'Thus sugar is good for you,' say the sugar manufacturers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>葡萄糖对肌肉的发展是很重要的。糖类制造者说‘因此，糖是对你有好处的’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They don't distinguish between the indirect sugars made internally by your body, which are slowly released into the bloodstream, and the very harmful external, 'fast sugars' which directly drive up your blood glucose and actually attack your muscles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不区分由你的身体内部产生的间接糖类和由外部带来的非常有害的‘快糖’，前者是慢慢释放到血液中的，而后者则直接使你血液中的葡萄糖升高，实际上，攻击你的肌肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our body does indeed need sugar, but only the kind the body makes itself based on whole foods.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的身体确实需要糖，但只有一种由我们身体以全食为基础自己产生的糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In alternative circles, there's the persistent myth that raw cane sugar and molasses are healthy because they contain minerals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在替代界中，有一个持续的神话说是原材料蔗糖和糖蜜是很健康的，因为他们含有矿物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though this is not entirely untrue, the negative effects raw cane sugar and molasses have on your blood sugar far outweigh the benefits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然这不完全是假的，原材料蔗糖和糖蜜对你血糖产生的消极影响远远大于好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just look at the amount of people shopping and working at health food stores that are overweight. Do they look that healthy to you? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只是看一下在健康食品商店工作和购物的超重的人，对你来说，他们算健康吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They too fall prey to their sugar addiction, which largely undoes the effects of many of the useful products sold in those stores.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们已经成为嗜糖成瘾的牺牲品，他们的糖瘾在很大程度上抵消了在这些商店里出售的许多有用的产品的功效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bread, pasta, potatoes and rice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>面包，面条，土豆和大米</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sugar is not just the white stuff people put in their coffee or tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>糖不仅是人们放到咖啡或茶里的白色的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It includes all refined products such as white bread, white pasta, white flour, white rice, in short any grain with the bran removed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它包括所有精制的产品，如白面包，白面条，白面粉，白米饭，总之是任何去掉麸皮的谷物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The starch which is left is no longer slowed down by the fiber in the bran, making it a fast sugar which also causes a rise in blood sugar and a subsequent insulin response.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去麸皮后，不能再让麸皮中的纤维放慢剩下的淀粉的释放的速度，剩下的淀粉成为一种快糖，它也可以引起血糖升高和一系列的胰岛素反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good alternative is whole-grain products such as brown bread, brown pasta, brown flour, brown rice, etc. Eat sourdough bread particularly because the sugars in the starch have been eaten by the milk bacteria in the bread as a result of natural fermentation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一种很好的替代方式是全麦产品，如黑面包，黑面条，黑面粉，糙米等，尤其是吃发酵面包，因为淀粉中的糖已经被牛奶细菌以自然发酵的方式分解了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All naturally fermented products are good: live yogurt, sauerkraut, natural vinegar, etc.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有自然发酵的产品都是好的：生活酸奶，酸菜，天然醋等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This doesn't mean you can keep stuffing yourself with bread, however! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，这并不意味着你可以始终用面包填饱自己！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We humans were not made to consume that many sugars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们人类不是为消耗这么多的糖而生的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People on a low-fat diet who eat many carbohydrates in the form of bread, pasta, and other starchy products, even if they're whole-grain and sourdough, will only gain weight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保持低脂肪饮食的人们以面包，面条和其他淀粉产品的形式摄入许多碳水化合物，即使他们吃的是全麦和发酵面包，他们只会增加体重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus you shouldn't eat more than two slices of bread a day and have pasta, rice, or potatoes only twice a week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，你一天不应该吃多于两片面包，一个星期只吃两次面条，大米或土豆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The best bread is sprouted grain bread, which can be bought in health food stores.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最好的面包是用开始发芽的谷粒做的面包，这可以在健康食品商店买到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caffeine and alcohol</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咖啡因和酒精</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caffeine and alcohol are also part of the sugar family as they too will raise your glucose level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咖啡因和酒精也是糖类大家庭的一部分，因为它们也会使你的血糖水平上升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't drink more than two cups of black coffee a day, if you know what's good for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你知道什么是对你好的话，一天不要喝多于两杯黑咖啡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may want to put raw, unpasteurized milk in your coffee, but sugar is out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能想将未加工的，未经高温消毒的牛奶加入到你的咖啡中，但咖啡还是无糖的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sugars in raw milk are slow, the ones in pasteurized milk (known as beta glucose) are fast. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在未加工的牛奶中的糖是消耗的慢的，而经高温消毒的牛奶（巴氏消毒奶）中的糖是消耗得快的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A so-called milk allergy or lactose intolerance is really an intolerance or allergy to pasteurization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一种称为牛奶过敏症或乳糖不耐受症其实是对高温消毒后的牛奶的不耐受症或过敏症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Green tea also contains caffeine but this is released slowly into the blood, giving you all the advantages of caffeine and not the disadvantages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绿茶也含有咖啡因，但这是缓慢地释放到血液中的，绿茶中的咖啡因只会对你有好处，没有坏处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caffeine is not the bad guy here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咖啡因在这里不是坏人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is known to positively stimulate your immune system and can be good for the heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众所周知，它会积极地刺激你的免疫系统，而且对你的心脏有好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of the speed with which it is released into the blood, the caffeine in coffee needs to be regarded as a fast sugar, however. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是由于它释放到血液中的速度，但是咖啡中的咖啡因被视为一种快糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is of course the reason why we love that cup of coffee in the morning to kick-start the brain. It's better to drink green tea, though. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这当然是为什么我们喜欢在早晨用一杯咖啡来启动我们的大脑的原因，虽然最好是喝绿茶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may feel the effect a little later but you can drink it all day without any problems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能迟一点才感觉到有点效果，但是你喝一整天都没有问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try doing that on coffee without shaking!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尝试以绿茶代替咖啡，不要动摇哦~~</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alcohol works in a similar way as caffeine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酒精的作用方式与咖啡因相似。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is, however, no product with alcohol which releases the alcohol slowly into the blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，没有一个酒精产品中的酒精是缓慢地释放到血液中的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of its direct influence on blood sugar, alcohol should therefore be seen as a fast sugar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为它直接影响血糖，因此酒精应被视为一种快糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Limit yourself to two glasses if you're going to drink alcohol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你要喝酒，限制自己只喝两杯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In small quantities, alcohol can have an equally positive effect on the immune system as caffeine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喝小量酒，酒精在免疫系统方面与咖啡因有同等的积极效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go over that limit, however, and it turns into poison. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，超过那个限度，它会变成毒药。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sudden rise in blood sugar will bring about an irresistible feeling of hunger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>血糖的突然上升会带来不可抗拒的饥饿感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your body is in survival mode and needs food to replenish its energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的身体是在生存模式和需要食物来补充能量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The food choices you make under the influence of alcohol are generally not very good.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在酒精影响下你所做的食物选择一般情况下都是不是很好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fruit juices</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>果汁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fruit juices are often seen as healthy and certainly not a type of sugar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>果汁往往被视为健康食品，当然不被视为一种糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet fructose (fruit sugar) is also a sugar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而果糖（水果糖）也是糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As with grains, the problem is not the sugars themselves, but the refinement of the fruit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于谷物，问题不在于糖本身，而是水果的精制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Commercial fruit juice does not come from the whole fruit, but from the fruit stripped of its skin and pulp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商业果汁并非来自整个果实，而是来自出去果皮和果肉的水果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The skin and pulp once again slow down the release of sugars into the bloodstream because they're fibers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为他们是纤维，果皮和果肉再次减缓糖释放到血液中的速度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your best bet is to buy a decent blender and make your own fruit juice fresh from the whole fruit, including the seeds, pulp and the skin in whole or in part.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你最好的选择是购买一个合适的搅拌器，自己用整个果实做果汁，包括种子，果皮和果肉的全部或者部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It also goes without saying that sweet fruits contain more sugars than bitter and sour fruits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不用说，甜的水果比苦的和酸的水果含有更多的糖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go for lemon, lime, grapefruit, pomegranate, berries and sour apples. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃柠檬、莱姆果、葡萄柚、石榴、草莓和酸苹果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Healthy sweeter fruits are, among others, all other citrus fruits, cherries, papaya, coconut and pineapple.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在其他水果中，健康的甜一点的水果包括所有其他柑橘类水果，樱桃，木瓜，椰子，菠萝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Honey, agave nectar and maple syrup</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蜂蜜，龙舌兰酒和枫树糖浆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though honey, agave nectar and maple syrup are fast sugars, they nevertheless contain very healthy substances such as large amounts of vitamin C. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然蜂蜜，龙舌兰酒和枫树糖浆的快速糖，但也包含了非常健康的物质，如大量的维生素C。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taken in moderation, they are not necessarily bad for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有节制地摄入，它们不一定有害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nature has provided her own limit by making the stuff really sweet so you don't overdo it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自然通过使东西真的呈甜味来对其进行限制，所以你不会过多地食用它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Artificial sweeteners</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人工甜味剂</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chemical sweeteners are to be avoided at all cost! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要避免不惜一切代价地使用化学甜味剂！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They cause cancer, damage your liver and nervous system, and are not easily removed from your body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会导致癌症，损害你的肝脏和神经系统，而且不容易离开你的身体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They prefer to live in the back of your brain which they will literally eat away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们更愿意生活在你的大脑，并蚕食你的大脑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just like sugar, the damage is slow and cumulative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像糖，损害是缓慢的和累积性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if I had to make a choice between sugar and artificial sweeteners, I'd choose sugar in a heartbeat! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是如果我不得不在糖和人工甜味剂之间做出选择，我会选择糖！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure the products you buy do not contain aspartame, sucralose, saccharine, cyclamate, acesulfame-k and other sweeteners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请确保您购买的产品不包含阿斯巴甜，三氯蔗糖，糖精，甜蜜素，安赛蜜- K和其他甜味剂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll most likely find them in so-called 'light' or 'diet' products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你最有可能在所谓的'轻'或'节食'食品中找到他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That sugar-free gum you've been chewing on probably contains aspartame or some other sweetener.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你咀嚼过的无糖口香糖就可能包含阿斯巴甜或其他甜味剂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saturated fats</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>饱和脂肪</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many thousands of years, mankind has been using saturated fats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数千年来，人类一直在使用饱和脂肪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the early 1950's we were told that these fats are bad for us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自50年代初，我们被告知，这些脂肪是对我们有害的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The scientific backup for this came from only one single study carried out by Ancel Keys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于这个理论的科学支持只来自于一个由Ancel Keys完成的简单研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keys selectively used the data he collected in six countries to prove the foregone conclusion that saturated fats are unhealthy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Keys运用精选的从六个国家搜集来的资料来证明饱和脂肪是不健康的这个已知结论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The saturated-fat myth was then picked up by the western food industry and governments and are adhered to to this day, despite many studies which demonstrate the opposite effect. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有许多证明相反效果的研究，饱和脂肪的神话还是被西方食品工业界和各国政府提起，并坚持到今天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Generations of doctors and dietitians have been taught this myth and unwittingly convey it to their clients. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医生和营养师的几代人都接受这个神话的教育并不自觉地把它转达给他们的客户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An entire industry has been based on the avoidance of saturated fats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个行业一直是以避免饱和脂肪为基础的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oddly enough, nobody seems to see the connection between the low-fat we have been eating and the many health problems which have arisen since the 1950's.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奇怪的是，似乎没有人看到我们一直在吃的低脂肪和从1950年代以来出现的许多健康问题的关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which products contain saturated fats? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哪一种产品含有饱和脂肪？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All animal products, like meat and dairy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有动物产品，如肉类和奶制品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are also some saturated vegetable fats, like coconut and palm oil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也有一些饱和植物油，如椰子和棕榈油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once again, man has eaten saturated fats for ages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再者，人类已经吃了很长时间的饱和脂肪了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, fat-soluble vitamins such as vitamins A, D, E, K, and B12 are best absorbed by the body in the form of saturated fats. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，脂溶性维生素如维生素A ， D和E ，K，和维生素B12被身体吸收的最佳方式是以饱和脂肪的形式被吸收。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Saturated fats are essential and your body screams for them if it doesn't get them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>饱和脂肪是必不可少的，如果没有得到它们，你的身体会为它们尖叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are so many of us overweight? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么我们中的许多人会超重？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because we're literally fat from the sugars in carbohydrates through excessive grain consumption. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为我们实在地胖来自于碳水化合物中的糖，而碳水化合物来自于我们对粮食的过多消耗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did you know your body actually has the intelligence to make its own saturated fats from all that dry food and store them as fat reserves? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道你自己的身体有这个智能来处理所有来自于干粮的饱和脂肪，并把它们储存起来作为脂肪储备吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's no fooling your body and your bread belly is proof positive of this!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人没法欺骗自己的身体，你的肚子是最好的证明！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feel free to consume saturated fats in the form of whole, unpasteurized dairy and you will lose weight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随意食用完全的，未经高温消毒的奶制品形式的饱和脂肪，你的体重会减轻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These saturated fats are converted by the body into energy almost straight away and are not stored as fat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些饱和脂肪在身体内几乎是直接转化为能量，不会以脂肪的形式储存起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can consume these fats hot or cold, since an added benefit of saturated fats is that they're able to withstand high temperatures and can be used for frying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以以热的形式或冷的形式食用这些脂肪，因为饱和脂肪的另一个好处是，他们能够经受住高温，可用于煎炸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are also an excellent source of protein, so that nutrient area is covered too.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>们还一个极好的蛋白质来源，因此，它是很有营养的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seems like a contradiction, doesn't it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这似乎是一个矛盾，不是吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An egg fried in butter or a sandwich with a thick layer of raw-milk cheese or a large helping of full-fat yogurt actually causes you to lose weight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个用黄油煎的蛋，或一份有一层厚厚的鲜奶奶酪的三文治，又或者一大份全脂酸奶实际上可以让你减肥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try telling generations of heavily propagandized women and men that butter isn't fattening and partially hydrogenated, unsaturated margarine is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尝试告诉重视宣传的男女，黄油不会使人肥胖，而会使人发胖是部分氢化的不饱和人造奶油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But ask yourself why these diets don't work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，问一下你自己，为什么这些饮食不起作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A low-fat diet makes you fat, so don't fall for any of those low-fat gurus who will often promote the use of cancer-causing, aspartame-laden 'diet' products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>低脂肪的饮食会使人发胖，因此，不要相信任何鼓吹低脂肪的大师，他们经常会提倡食用致癌的，含有阿斯巴甜的饮食产品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Weighing calories and checking the labels for caloric information is a waste of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>称量卡路里和检查热量信息标签是很费时间的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather, check the label for such ingredients as sugar, salt, flavor enhancers, artificial colorants and sweeteners, GMO's and other chemical junk.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反而应该检查成分标签，如糖，盐，调味剂，人工色素和甜味剂，转基因生物的和其他化学垃圾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cholesterol</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>胆固醇</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Being afraid of high cholesterol is totally unnecessary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>害怕的高胆固醇是完全不必要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Japan, high cholesterol is seen as a sign of health! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在日本，高胆固醇被视为健康的标志！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you seen the health of these people? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你见过他们的健康吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why is cholesterol okay in their book but not ours? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么在他们的书中胆固醇是好的，而在我们的书中确不是呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once again we need to turn to that single one-sided study done by Ancel Keys in the early 1950's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再次，我们需要看看Ancel Keys在50年代初做的单方面研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We learned to measure cholesterol and divided it up into 'good' cholesterol (HDL) and 'bad' cholesterol (LDL). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们懂得衡量胆固醇，将它分为好胆固醇（HDL）和坏胆固醇（LDL）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again an entire industry has been based on this, not just the food industry but also the pharmaceutical industry which tells us that their highly dangerous statins (cholesterol-lowering drugs) lower the 'bad' LDL cholesterol and up the 'good' HDL cholesterol.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再者，整个行业都一直以此为基础，，不仅仅是食品行业还有制药行业，其中，制药行业中的高危的他汀类药物（降胆固醇药物）降低'坏'胆固醇和升高低密度脂蛋白的'好'胆固醇HDL。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another myth based on outdated and selective research. There is no 'good' or 'bad' cholesterol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个说法是以过时的和选择性的研究为依据的，认为没有'好'或'坏'胆固醇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's only one type of cholesterol and that's cholesterol. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有一种类型的胆固醇，就是胆固醇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What makes cholesterol good or bad in the eyes of scientists? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是什么使胆固醇在科学家的眼中有好与坏之分呢？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>2010 DIETARYGUIDELINES FOR AMERICANS BACKGROUNDER:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010美国居民膳食指南背景</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I. Introduction</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一、续言</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Purpose</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目的</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The 2010 Dietary Guidelines for Americans (DGA) establish the scientific and policy basis for all Federal nutrition programs, including research, education, nutrition assistance, labeling, and nutrition promotion.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010美国居民膳食指南（DGA）为联邦政府国民营养规划制定了科学的政策理论基础，营养规划含盖研究、教育、营养援助、标签和营养推广。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The DGA offer advice for healthy Americans ages 2 years and over about making food choices that promote health and reduce disease risk. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>DGA建言2岁以上的健康美国人选择促进健康、减少疾病风险的食物。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The DGA provides a consistent, science-based foundation for nutrition efforts by the various government agencies.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>DGA为政府各职能部门执行营养规划工作时提供统一的、有科学依据的基本原则。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All federally-issued dietary guidance for the general public is required by law to be consistent with the Dietary Guidelines for Americans.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律要求联邦政府发行的一切饮食指导必须符合美国居民膳食指南。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>History</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>历史</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first edition of the Dietary Guidelines for Americans was released in 1980. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一版《美国居民膳食指南》于1980年颁发。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beginning with the 1985 edition, the Departments of Agriculture (USDA) and Health and Human Services (HHS) appointed a Dietary Guidelines Advisory Committee (DGAC) of prominent experts in nutrition and health to review current scientific and medical knowledge and recommend revisions to the Secretaries.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自1985年版开始，美国农业部（USDA）和卫生与公共服务部（HHS）指派由著名营养学和卫生专家组成的膳食指南咨询委员会（DGAC）评估当时的科学和医学知识，向两位部长提出修订意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (Public Law 101-445, Title III, 7U.S.C. 5301), requires the Departments of Agriculture (USDA) and Health and Human Services (HHS) to jointly publish the Dietary Guidelines for Americans at least every 5 years.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1990年全国营养监测及相关研究法案第301款（公法101-445，第三篇，7 U.S.C. 5301），要求农业部（USDA）和卫生与公共服务部（HHS）联合出版《美国居民膳食指南》，每5年至少再版一次。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since 1980, the Dietary Guidelines have been not ably consistent in their recommendations on the components of a healthful diet, but they also have changed in significant ways to reflect the emerging science.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1980年以来，膳食指南所推荐的特别是健康饮食的食物构成部分一直没有改变，但也存在着一些显著的反映科学进展的变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Federal Advisory Committee Act and Quality of Information Act set major requirements for open, systematic, and transparent federal advisory committee operations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>联邦顾问委员会法和信息质量法明确要求联邦咨询委员会的工作程序必须公开、系统、透明。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These requirements have informed the current processes used in reviewing the literature, for encouraging public participation and for making information transparent and easily available to everyone.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些要求已在指南修订过程中形成的档案体现出来：鼓励公众参与、信息透明、方便提供给每一个人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Changes made to proactively meet these requirements for the 2010 Dietary Guidelines for Americans included:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为积极满足上述要求，2010美国居民膳食指南所做的修订如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Implementation of USDA’s Nutrition EvidenceLibrary which used rigorous, systematic,and transparent methodology, designed to minimize bias, and ensure the quality, objectivity, utility, and integrity of the information used to develop Federal guidance.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实施美国农业部的营养证据数据库程序，使用严格、系统和透明的方法，最大限度地减少偏差，保证优质、客观、实用，加强联邦政府指导意见的完整性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Initiation of the www.NutritionEvidenceLibrary.gov (or www.NEL.gov )Web site to serve as a publicly available store house for all research protocols, literature selection decisions, evidence summary materials, and graded conclusion statements</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>创建营养证据数据库网站（www.NutritionEvidenceLibrary.gov或www.NEL.gov），为公众提供研究协议、文档选择、证据总结资料和分类总结报告。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Initiation of the easily retrievable and searchable Dietary Guidelines Web site,www.dietaryguidelines.gov, to centrally house all Dietary Guidelines related content and information</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>初次启用易于检索和搜索的膳食指南网站（www.dietaryguidelines.gov），综合所有与膳食指南相关的资料信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Development of a public comments database for simple comment submissions during the comment period, and viewing by any one at any time</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>开发公众意见数据库，方便人们在讨论期间随时查看、提交简单的膳食意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Use of webinars to broadcast meetings that were viewed across the globe with attendance doubling from previous in-person only meetings </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用网络在全球范围播送研讨会，把视为出席会议的人数比以前的会议模式翻了一番。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ability to archive public meeting documents and audio recordings online for continued public access, beyond the initial meeting date.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>研讨会结束后继续对公众在线公开会议文件档案和录音资料。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Process for Developing the 2010 Dietary Guidelines for Americans</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010美国居民膳食指南修订程序</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For the 2010 edition of the Guidelines, the departments appointed a DGAC of 13 nationally recognized experts in nutrition and health to review the sixth edition of the Dietary Guidelines(released in January of 2005) to determine whether revisions were warranted and provide suggestions for these revisions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于2010年版膳食指南，美国农业部和卫生与公共服务部指定组成一个膳食指南咨询委员会（DGAC），DGAC由13位公认的营养学和卫生专家组成，负责审查第六版膳食指南（2005年1月颁布），确定有无必要修改和提出修订意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Committee members were:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>咨询委员会名单如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chair</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>主席</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linda Van Horn,PhD, RD, LD</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>琳达·凡·霍恩哲学博士，注册营养师，特许营养师</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Northwestern University, Chicago, Ill.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>伊利诺州芝加哥西北大学</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Vice Chair</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>副主席</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Naomi K. Fukagawa,MD, PhD</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>拿俄米·K·福卡嘎娃后，医学博士，哲学博士</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>University of Vermont, Burlington, Vt.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>佛蒙特州伯灵顿佛蒙特大学</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Members</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>成员</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cheryl Achterberg,PhD</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>晒尔阿·车特博格，哲学博士</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Ohio State University, Columbus, Ohio</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国俄亥俄州哥伦布市俄亥俄州立大学</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lawrence J. Appel, MD, MPH</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>劳伦斯·J·阿佩尔医学博士，公共卫生硕士</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Johns HopkinsMedical Institutions, Baltimore, Md.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>马里兰州巴尔的摩约翰霍普金斯医学研究所</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Over the period of a year and a half, the DGAC conducted an extensive evidence-based review of scientific and medical literature regarding the role of diet and nutrition in health promotion and disease prevention, and submitted a report summarizing their findings. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在过去的一年半期间内，DGAC就膳食与营养对促进健康和预防疾病的作用，进行了广泛的以证据为基础的科学和医学文献评审，做出总结并提交了一份报告。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The DGAC held six public meetings between October 2008 and May 2010 and submitted their Advisory Report to the Secretaries of USDA and HHS in June 2010.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2008年10月至2010年5月DGAC举行了六次公开会议，并呈送了咨询报告给USDA和HHS的部长。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The report included two chapters new to the 2010 edition, which set the stage for the rest of the report: “The Total Diet: Combining Nutrients, Consuming Food” and “Translating and Integrating the Evidence: A Call to Action.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为增加咨询报告的说服力，2010年版报告增加了两章：“膳食总论：混合营养，食物消费”和“阐释与综合证据：呼吁采取行动”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It also included eight chapters that reviewed and summarized the science and provided conclusions for specific topic areas: Energy Balance &amp; Weight Management; Nutrient Adequacy; Fatty Acids and Cholesterol; Protein; Carbohydrates; Sodium, Potassium &amp; Water; Alcohol; and Food Safety &amp; Technology.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新版报告共八章，审查总结了科学事实，为特殊领域提供结论：能量平衡及体重管控；适度营养；脂肪酸和胆固醇；蛋白质；糖类；钠、钾及水；酒精；食物安全与技术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Report highlighted an urgent need to address overweight and obesity, especially in children. Strategies to prevent childhood obesity were included.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>报告强调，必须尽快解决尤其是儿童超重和肥胖问题，把预防儿童肥胖症纳入国家战略要务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Report also gave focus to changes needed in the overall food environment.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该报告还重点指出需要改变的食品环境。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A Federal Register notice announcing the availability of the Advisory Report and a 30-day public comment period was published on June 15, 2010.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>联邦注册公告于2010年6月15日发布了可实用的咨询报告，公众可在30天内给予评价建议。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A public meeting with opportunity to provide oral testimony on the Advisory Report was held on July 8, 2010.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为咨询报告提供口头证词的机会，2010年7月8日举行一次公开会议。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Agencies in each department were also invited to provide comments on the Advisory Report regarding any program-specific polic implications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，邀请每个职能部门就咨询报告任一特殊环节的政策影响提出意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>USDA-CNPP and HHS-ODPHP staff compiled public and Agency comments submitted.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国农业部营养宣传与促进中心（USDA-CNPP）和卫生与公共服务部预防疾病与促进健康办公室（HHS –ODPHP）的职员编写公众和机构提交的意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The joint working group of USDA-CNPP and HHS-ODPHP nutritionists translated the Advisory Report into a draft of the 2010 Dietary Guidelines policy document; public and agency comments on the DGAC Report were considered at that time.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国农业部营养宣传与促进中心（USDA-CNPP）、卫生与公共服务部预防疾病促进健康办公室（HHS-ODPHP）联合工作组的营养学专家们，阐释咨询报告并起草2010年膳食指南政策文件草案，起草文件时还参考公众和某些机构针对DGAC报告提出的意见。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The draft policy document was peer-reviewed according to the requirements of the Quality of Information Act specified by OMB’s “Final Information Quality Bulletin for Peer Review,” published inJanuary 14, 2005 FR Notice (Vol. 70, No. 10).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据信息质量法关于行政管理和预算局“同行审查最后结论性信息质量公报”的规定，政策文件草案先行同行评议。该规定可在2005年1月14日出版的联邦注册公告（第70卷第10号）内查阅。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Review was for clarity, technical accuracy, and consistency with the Advisory Report.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>审查的目的是为了信息清晰、技术精确并与咨询报告一致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Dietary Guidelines policy document was finalized and cleared through the departments in December 2010.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010年12月膳食指南政策文件定稿，并通过有关部门的正式批准。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Secretaries Vilsack and Sebelius jointly released the seventh edition of the 2010 Dietary Guidelines for Americans in January 2011.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>维尔萨克和西贝柳斯两位部长于2011年1月联合发布第七版2010美国居民膳食指南。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The policy document is available on line at www.Dietary Guidelines.gov. Consumer materials and tools to implement the Guidelines will be released throughout the five-year lifespan of the Guidelines.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>政府膳食指南网站（www.DietaryGuidelines.gov）在线提供膳食指南政策文件，同时公布实施指南所用的资料和工具有效期为五年。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>II. 2010 Dietary Guidelines Policy Document</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>二、2010年膳食指南政策文件</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Dietary Guidelines for Americans Policy document is intended for an audience of professionals in nutrition, health, and education to help them in developing educational materials and for policymakers to help them in designing and carrying out nutrition-related programs.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国居民膳食指南政策文件的宗旨是营养、健康和教育专业人士为受众的利益修订教育资料，为决策者设计和执行有关营养项目计划。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The 2010 DGA includes 23 Key Recommendations for all Americans, and six additional recommendations for specific population groups.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010年DGA为全体美国人民提出23条重点推荐意见，外加6条针对特殊群体的建议。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is comprised of six chapters that summarize and synthesize knowledge about individual nutrients and food components into an interrelated set of recommendations for healthy eating that can be adopted by the public.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>全文共六章，总结、综合了个体营养和食物成份，并结合推荐公民应该采纳的饮食方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The chapters are:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>全文六章如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter1: Introduction.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一章：绪论</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter introduces the document and provides information and background and purposes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg> 本章概述指南、提供指南信息、背景和目的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 2:Balancing Calories to Manage Weight.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第2章：平衡热量，管控体重 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter explains the concept of calorie balance, describes some of the environmental forces that have contributed to the current epidemic of overweight and obesity, and discusses diet and physical activity principles that can be used to help Americans achieve calorie balance.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章介绍平衡热量的概念，描述促成当前流行超重和肥胖的环境因素，讨论可帮助美国人实现热量平衡的膳食与身体活动原则。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 3:Foods and Food Components to Reduce.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第三章：食物与减少食物成分</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter focuses on several dietary components that Americans generally consume in excess compared to recommendations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章重点介绍几种美国人普遍食用的且超过推荐量的食物成分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These include sodium, solid fats (major sources of saturated fats and trans fats), cholesterol, added sugars, refined grains, and for someAmericans, alcohol.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些成分包括钠、固体脂肪（饱和脂肪和反式脂肪的主要来源）、胆固醇、添加糖、精制谷物食品，还有部分美国人喜好的酒精。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The chapter explains that reducing foods and beverages that contain relatively high amounts of these dietary components and replacing them with foods and beverages that provide substantial amounts of nutrients and relatively few calories would improve the health of Americans.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章阐释减少摄入高含上述成分的食物和饮料，用高营养低热量的食物和饮料替代需减少的食物和饮料，将提高美国人的健康。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 4:Foods and Nutrients to Increase. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第四章：食物与增加营养</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter focuses on the nutritious foods that are recommended for nutrient adequacy, disease prevention, and overall good health.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章强调推荐的营养适当、预防疾病、利于总体健康的营养食物。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These include vegetables; fruits; whole grains; fat-free or low-fat milk and milk products (dairy products); protein foods, including seafood, lean meat and poultry, eggs, beans and peas, soy products, nuts, and seeds; and oils.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>营养食物包括蔬菜、水果、全谷类、脱脂或低脂牛奶和奶制品、高蛋白质食物，包括海鲜、瘦肉和家禽、蛋类、豆类、豌豆、大豆制品、坚果、种子和油类。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Additionally, nutrients of public health concern, including potassium, dietary fiber, calcium, and vitamin D are discussed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，还讨论了有关公共健康的其它营养素包括钾、膳食纤维、钙和维生素D。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 5: Building Healthy Eating Patterns. This chapter shows how the recommendations and principles described in earlier chapters can be combined into a healthy overall eating pattern.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第五章：培养健康的饮食模式 本章介绍如何结合前几章的推荐与原则，养成有利于整体健康的饮食模式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The USDA Food Patterns and DASH Eating Plan are healthy eating patterns that provide flexible templates, allowing all Americans to stay within calorie limits, meet their nutrient needs, and reduce chronic disease risk.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国农业部饮食模式和DASH饮食计划（美国心、肺、血管病研究所和心脏协会共同制定的饮食计划——译者注）是健康的饮食模式，可提供灵活的样板，适合所有美国人维持热量限制，且能满足营养需要，降低慢性疾病风险。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 6: Helping Americans Make Healthy Choices. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第六章：帮助美国人做出健康的选择</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter discusses two critically important facts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章讨论了两个紧迫重要的事实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first is that the current food and physical activity environment is influential in the nutrition and activity choices that people make—for better and for worse.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一是日常食物和身体活动环境影响人们的营养与身体活动选择——是好或是不好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second is that all elements of society, including individuals and families, communities, business and industry, and various levels of government, have a positive and productive role to play in the movement to make America healthy.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>二是所有的社会因素，包括个人和家庭、社区、工商企业、各级政府，在促进美国人健康方面都会发挥积极和富有成效的作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The chapter suggests a number of ways that these players can work together to improve the Nation’s nutrition and physical activity.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章提出了许多措施，个人社区团体政府协同努力，提高全民族的营养和体力活动水平。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>III. Nutrition Education and Consumer Materials </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三、营养教育和消费者资料</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consumer research is being conducted to evaluate consumer understanding, attitudes and beliefs about food and nutrition, in order to better encourage the public to make healthier food choices.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了更好地鼓励市民选择更健康的食物，已经启动关于消费者对食物和营养的认知、态度和信念的研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>CNPP and ODPHP will develop simple, direct, actionable messages, tools, and information as part of the Dietary Guidelines nutrition education and communication efforts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>营养宣传与促进中心（CNPP）和预防疾病与促进健康办公室（ODPHP）将开发简单明了可操作的提示说明信息和工具，作为扩大膳食指南营养教育和宣传的一部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Communication information on the DietaryGuidelines will be available for professionals at: www.dietaryguidelines.govand www.health.gov/dietaryguidelines.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>政府膳食指南网站（www.dietaryguidelines.gov）和卫生网站膳食指南栏目（www.health.gov / dietaryguidelines）为专业人士提供有关指南信息交流平台。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consumer information will be available at: www.mypyramid.gov and at: www.healthfinder.gov/prevention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>消费者信息在政府我的膳食金字塔网站（www.mypyramid.gov）和寻找健康网站预防栏目（www.healthfinder.gov /prevention）。</seg></tuv>
+</tu>
+</body>
+</tmx>

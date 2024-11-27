@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200417T142021Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ITEM 1. BUSINESS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.业务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Overview</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>概览</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Google is a global technology leader focused on improving the ways people connect with information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谷歌是致力于改进人们与信息联接方式的全球化的技术领导者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our innovations in web search and advertising have made our web site a top internet property and our brand one of the most recognized in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在网络搜索和广告的创新，已使我们的网站成为全世界的顶级网站，使我们的品牌成全世界最获认可的品牌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We maintain a large index of web sites and other online content, which we make freely available via our search engine to anyone with an internet connection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们维护着网站和其他网上内容的庞大索引，接入互联网的任何人都可以通过我们的搜索引擎自由地使用它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our automated search technology helps people obtain nearly instant access to relevant information from our vast online index.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的自动搜索技术可以帮助人们即时地从我们庞大的在线索引获等有关信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We generate revenue primarily by delivering relevant, cost-effective online advertising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们产生的收入，主要通过提供相关的，具有成本效益的网络广告。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Businesses use our AdWords program to promote their products and services with targeted advertising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>企业使用我们的AdWords计划有针对性地推广他们的产品和服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, the thousands of third-party web sites that comprise the Google Network use our AdSense program to deliver relevant ads that generate revenue and enhance the user experience.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，成千上万的第三方网站组成的网络使用谷歌的AdSense程序，提供具有相关性的广告从而产生收入并提供更好的用户体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were incorporated in California in September 1998 and reincorporated in Delaware in August 2003. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们于1998年9月在加利福尼亚州注册成立 2003年8月在美国特拉华州重新注册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our headquarters are located at 1600 Amphitheatre Parkway, Mountain View, California 94043, and our telephone number is (650) 253-0000.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的总部设在加州山景城94043 1600 Amphitheatre Parkway，我们的电话号码是（650）253-0000。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our Mission</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的使命</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our mission is to organize the world’s information and make it universally accessible and useful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的使命是组织全世界的信息，使人人皆可访问并从中受益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We believe that the most effective, and ultimately the most profitable, way to accomplish our mission is to put the needs of our users first. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们认为，把我们的用户需求放在第一位是完成我们使命的最有效且最有利可图的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have found that offering a high-quality user experience leads to increased traffic and strong word-of-mouth promotion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们发现，提供高质量的用户体验会带来流量的增加和强有力的口碑营销。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our dedication to putting users first is reflected in three key commitments:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们致力于用户至上体现在以下三个关键承诺：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We will do our best to provide the most relevant and useful search results possible, independent of financial incentives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们将尽最大努力提供尽可能最相关和最有用的搜索结果，不受财政资助的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our search results will be objective and we do not accept payment for search result ranking or inclusion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的搜索结果是客观的，我们不接受有关搜索结果排名或内容嵌入的付款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We will do our best to provide the most relevant and useful advertising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们将尽最大努力提供最相关和最有用的广告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Advertisements should not be an annoying interruption. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告不应该是一个恼人的干扰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If any element on a search result page is influenced by payment to us, we will make it clear to our users.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果任何在搜索结果页面的元素是由受付款所影响，我们会很清楚地告诉我们的用户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We will never stop working to improve our user experience, our search technology and other important areas of information organization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们绝不会停止致力于改善用户体验、改善我们的搜索技术和信息组织的其他重要领域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We believe that our user focus is the foundation of our success to date. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们相信，我们的用户的关注是我们迄今取得的成功的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We also believe that this focus is critical for the creation of long-term value. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们还认为，这个关注是长期价值创造的关键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We do not intend to compromise our user focus for short-term economic gain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不会为短期经济利益而牺牲我们的用户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How We Provide Value to Our Users</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们如何为用户带来价值</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We serve our users by developing products that quickly and easily find, create, organize and share information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们开发能够快速、轻松地查找、创建、组织和共享信息的产品用户。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We place a premium on products that matter to many people and have the potential to improve their lives.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们重视那些对大部分人有意义并有可能改善他们生活的产品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the key benefits we offer include:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们具备的主要优势包括：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Comprehensiveness and Relevance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全面性和实用性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our search technologies sort through a vast and growing amount of information to deliver relevant and useful search results in response to user queries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的搜索技术对大量日益增长信息进行排序，从而针对用户查询提供相关的和有用的搜索结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is an area of continual development for us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我们不断发展的领域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we started the company in 1998, our web index contained approximately 30 million documents. We now index billions of web pages and strive to provide the most comprehensive search experience possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们于1998年创立公司时我们的网页索引中包含大约30万个文档，现在增长至数十亿，而我们歇尽所能地提供最全面的搜索体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our team continually improves our relevance algorithms to objectively determine the best answers to our users’ queries and to place these answers at the top of our search results. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的团队不断改进我们的相关性算法，为的是客观地确定与用户查询相匹配的最佳答案，并置之于搜索结果的顶部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are also constantly developing new functionality and enhancing our offerings to allow our users to more quickly and easily find information.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们还不断开发新的功能和提高我们的服务让我们的用户更快速，方便地查找信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Objectivity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客观性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We believe it is very important that the results users get from Google are produced with only their interests in mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们认为这是非常重要的:用户从谷歌搜索到的结果完全从其关注点出发考虑问题而产生的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We do not accept payment for search result ranking or inclusion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不接受关于搜索结果排名或内容嵌入的付款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We do accept fees for advertising, but the advertising is clearly marked and separated and does not influence how we generate our search results. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不接受广告费用，但广告是明显标志和分立的，不影响我们如何生成搜索结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is similar to a newspaper, where the articles are independent of the advertising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这类似于报纸，其中的文章是独立于广告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inclusion and frequent updating in our index are open to all sites free of charge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于所有公开的站点，其内容纳入我们的索引并频繁地修改是完全免费的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We believe it is important for users to have access to the best available information, not just the information that someone pays for them to see.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们认为，重要的是用户能够获得最好的信息，而不是那些有人为之付费的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Global Access. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球访问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We strive to provide our services to everyone in the world and the Google interface is available in 120 languages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们致力于向全世界所有人提供服务，谷歌的界面有120种语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through Google News, we offer an automated collection of frequently updated news stories in 24 languages in 61 editions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过谷歌新闻，我们在61个版面提供24种语言的自动采集并频繁更新的新闻报道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We also offer automatic translation of content between various languages and provide localized versions of Google in many developing countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也提供各种语言间的自动翻译，在众多发展中国家提供谷歌内容的本地化版本。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

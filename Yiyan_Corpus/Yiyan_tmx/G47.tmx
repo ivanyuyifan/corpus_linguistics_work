@@ -1,0 +1,1199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T080009Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs: Reflections on His Legacy</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>史蒂夫·乔布斯：传奇的一生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stay Hungry. Stay Foolish." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不断渴望。不断愚蠢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last Whole Earth Catalog came out in 1971, but in the fall of 1974 I published the Whole Earth Epilog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然上一次《地球总汇名录》发行还是在1971年，但我在1974年秋天发布了《地球总汇结语》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The back cover had an image of Earth from space, just a crescent with a bright sun on the horizon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在书的底面是一副从宇宙中看地球的图片，在太阳光的照射下变成了一幅月牙形的画面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was also a big photo of a random road with a random railroad track, and above it were the words "Stay hungry. Stay foolish." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在下面有一幅公路的大照片，上面写着“不断渴望。不断愚蠢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs later described it as being a scene that a hitchhiker might encounter, and it's interesting that he would pick that up, because that's exactly what it was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来乔布斯又说这是一个搭顺风车的人可能遇到的情况，乔布斯能从中领会这个意图还是挺有意思的，因为这就是那幅图片想表达的含义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1990, Steve and I did an event for the Library of Congress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1990年，我和乔布斯为美国国会图书馆做了件大事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterward I sent him a signed copy of the Epilog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我把我的书签上名送给了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's when I found out he was taking "Stay hungry. Stay foolish" as a mantra, this thing that I'd kind of tossed off back in the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我发现乔布斯把“继续渴望。继续愚蠢。”当作颂歌，这种东西我在白天可以轻而易举的把它写下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We never talked about it, but I think Steve was trying to keep some continuity with his youthful self and his youthful ideals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们从没讨论过这个，但我觉得他一直在保持着他那种年轻的自我和年轻的想法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He may have taken it as a kind of core statement of hippiedom, a way to deal first with fame, then power, and then quite a lot of fortune.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也许把这句当做一种对于嬉皮世界的核心的陈述，这玩意儿首先和名声有关，然后是权力，然后才是很多钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve was too young to have been a hippie, of course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，作为嬉皮士他也太年轻了点儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He almost missed the parade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他几乎没有游行过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But clearly he followed that track anyway-dropping out of school, wandering off to India barefoot in blue jeans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但它延续了那种做事的方法——退学，穿着牛仔裤去印度光脚闲逛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time of the Homebrew Computer Club in the 1970s, Whole Earth had moved on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1970年代，家酿计算机俱乐部成立之时，我的书也在继续写着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ken Kesey's Merry Pranksters had moved on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肯·凯西的《快乐的恶作剧者》也在进行中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Silicon Valley kind of throbbed with expectations, with permission to be original and creative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但硅谷在原创和创新的支持下，有节奏的前进着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stanford Research Institute was there, and so was the Stanford AI Lab and Xerox PARC. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>包括斯坦福研究院，斯坦福人工智能研究院和施乐研究中心在内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve was in the thick of the transition from druggy hippiedom to countercultural, sophisticated hackerdom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯正陷入于吸毒，反文化，干黑客这些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That part he did not miss.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些他可没错过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ADVERTISING</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯的广告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 1984 Super Bowl Ad</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1984年超级杯的广告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alex Bogusky</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿历克斯·博古斯基</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Founding partner of ad firm Crispin Porter + Bogusky</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Crispin Porter的创始人之一</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Apple's 1984 Macintosh ad, companies were happy to run commercials during the Super Bowl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在苹果公司1984年的Macintosh 广告之前，广告公司很愿意接受在“超级碗”进行中的广告策划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterward, they had to run "Super Bowl commercials." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来。广告公司不得不实施“超级碗商业模式”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That legendary spot ushered in the notion that a company could alter its fortunes in just 60 seconds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种传奇式的改变引领了一种观念——公司在一分钟内能改变它的财富。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is widely considered the greatest commercial ever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这被认为是最伟大的商业广告之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The year helped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时事造人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Advertising was still largely a conventional, Madison Avenue affair in 1984. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告在当时还是很传统的，以麦迪逊大道事件为例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the conventional thinking was that no agency would go near the dark, Orwellian overtones of 1984. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传统思维认为没有企业会走向落寞，就像奥威尔在《1984》中暗示的一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wrong emotions for an ad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对一个广告有错误的感情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Chiat/Day was no conventional agency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是Chiat/Day不是传统的广告商。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Based in Los Angeles and led by creative director Lee Clow, the firm was helping to establish the West Coast style of advertising, marked by a new wave of filmmakers and rock music. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总部在洛杉矶，由创新导演Lee Clow带领下，这个企业建立了西海岸广告模式，以一大批的电影制作人和摇滚乐的出现为例。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Steve Jobs, Clow had a fellow California upstart ready to take on the establishment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯和CLow这些有钱人们准备在加州大展手脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a then-unheard-of budget of $900,000, Clow hired Ridley Scott, who was fresh off of Blade Runner, to direct.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据传说，Clow花了900万来雇佣Scott指导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spot opened with a cinematic vision darker than anything we had been trained to expect from a commercial-sullen worker drones marching in lockstep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告以电影的方式开场，比我们能够想象的场景还要黑暗——工人们踏着整齐，低沉的步伐游行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was, well, Orwellian. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是，奥威尔主义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then there was a flash of color, a runner, gone almost too quickly for the mind to register. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后又一道光闪过，一个跑步的人，太快了都无法辨认。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she reappeared, pursued and outnumbered but running with purpose-the empowered individual leading the rebellion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后她又出现了，从中脱颖而出，成为大家的领袖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We didn't know who she was or what the ad was about; we just knew that we wanted her to prevail. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不知道她是谁，也不知道广告要干嘛；我们只知道人们想让她成为领袖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she released that hammer, we were hooked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她放下锤子那一刻，我们上钩了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why did the ad work so well? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么这个广告这么起作用？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because it wasn't about the features of a Macintosh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为这不是介绍Mac的特性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, we never even saw a computer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，我们在广告中没看到电脑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, it was about emotions, about how the Mac could change our relationship with computers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们看到的是情绪，就是Mac如何改变人与人之间的关系的情绪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was the only message that mattered, so that was all the ad was concerned with.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是唯一的信息，也是广告的全部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple parted ways with Chiat around the same time the company forced Jobs out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果和Chinat分道扬镳之时，乔布斯也被解雇了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when he returned in 1997, Jobs rehired the firm, and Clow helped reinvigorate the Apple brand with the "Think different" and "I'm a Mac" campaigns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在1997年重回苹果之时，乔布斯再次和Chinat合作，而且Clow通过“think different”和“I'm a Mac”这两个概念，为苹果重振雄风。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they had in 1984, Jobs and Clow homed in on the one sentiment that mattered for this brand and left the rest out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如他们在1984年设计的广告一样，他们两个人再次用同一个创意，抛开其他创意，为苹果设计广告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One ad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个广告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One idea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个创意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again and again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次又一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>LIFE STORY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生命故事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs and the Hero's Journey</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯：英雄之旅</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>George Lucas</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔治·卢卡斯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filmmaker</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs had a vision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯有想象力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He believed in something that no one could see, and he followed that path wherever it led him, against all odds and against all doubters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他相信那些位置的东西，一直接受这些东西的指引，不论把他引到何处，反对所有偶然和怀疑他的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Along the way he had real hurdles to overcome and real drama. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一路上，他需要克服许多真实的困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took his vision and built it into a company, but the people running the company couldn't see it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把这种想象力带入到了工作中，但是公司的同事看不到这些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His own board didn't understand what he was doing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的伙伴不知道他在干什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's when the evil emperor thwarted him, you might say, and threw him into the dungeon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就当阎王爷在阻碍他之时，你也许会说，把他扔进地牢吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At NeXT, Steve was in a sort of purgatory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在next的时候，乔布斯像是在经历炼狱的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't think NeXT was his primary vision-it was just what he could do at the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得next不是他的首要想法——只是那时他能做到这些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He bought Pixar from me around then, too, but I think Pixar was just something that fascinated him-not something that drove him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候，从我那买了皮克斯公司，但我觉得皮克斯可以使他着迷，却不是可以驱动他的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eventually the drought and famine and locusts descended upon Apple and they called him back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贫困和贪婪的人使苹果不堪重负，最终还是把乔布斯找了回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's when his story really became the hero's journey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就在那时，他成了传奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He returned and reinstituted his vision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他回来后，重新树立自己的想法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People were still confused and amazed and didn't really understand what he wanted to do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们依然是很困惑，很惊讶，实在不知道他想干什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But a lot of the doubters were gone, and he created an army-one that was loyal to him, that believed in him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但很多怀疑他的人走了，他亲手培养了一批终于他的人，信仰他的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the people who actually did the amazing work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是这些人，创造了奇迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve was taking people where they had never gone before, and all he could say was "Trust me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯把员工们带到了从未到达的高度，而且每次的理由都是“相信我”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That kind of leadership-leadership with a vision that is bigger than any organization or any individual-doesn't happen all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种建立在想象基础之上的领导力高于任何组织和个人，而且不常发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But heroes and the stories about heroes center on this, a person with a vision of a different life, of other possibilities, of boldly going where no one has gone before, to quote another franchise.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传奇总是聚焦在这些东西上——一个会幻想不同生活的人，会幻想不同可能性的人，会幻想到达前所未有的高度，去创造独一无二</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>DESIGN</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设计</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The First Mouse</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一款鼠标</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>David Kelley</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大卫·凯利</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Founder, IDEO</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IDEO，创始人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve cared about everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯在意每一件事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had this vigilance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有自己的警示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted to delight the user.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想让用户方便。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My team and I had the privilege of designing the first commercial mouse with Steve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和我的团队从乔布斯那里，得到了设计第一款商业鼠标的权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember that our original prototype used a steel ball, and when you rolled it on the table it could be fairly loud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得最初我们的设计是用一个钢制的球，当你在桌面滑动它时，会很明显地看到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve said that was unacceptable, so we had to coat the ball in rubber, which was a project in itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但乔布斯说这不行，所以我们给钢球外面加了一个塑胶套，这本身也是个工程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that kind of feedback is a dream for designers-that somebody cares that much.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设计师反映说这就是个梦——有人想的太多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Picture the normal situation, where we are designing something for a company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想想这个情景，我们正在为一个公司设计东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The CEO cares about the product, but not in the way that I and the other designers do-about all the tiny little details that make up the experience. They're not concerned with the coatings on the screws or how something feels in your hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>CEO很关心产品，但并不是和我们设计师的关心方式一样，设计师会照顾到每一个从经验中得到的细节，而CEO从不关心螺丝外面的保护罩或者是产品在手中的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但乔布斯是各个例外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways that was his biggest influence: He showed how important it is to pay attention to every aspect of every product. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从很多方面可以看到他巨大的影响：他告诉了我们，关心产品的每一部分是多么的重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in doing so, he set the bar for what great design can and should be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这么做的结果是，他为伟大的设计应该是么样的，能是什么样的立下了标准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody else has had to step up, and they've had to keep on stepping up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人不得不前进，不停的前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve demonstrated that design can lead a company to greatness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯证明了，设计可以使公司走上伟大之路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>PRESENTATION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>展示</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Master of the Stage</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>舞台大师</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs is famous for his keynotes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯因他的核心理论而著名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And of course he was wonderful when he unveiled the iCloud and the iPad 2 earlier this year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，在让icloud技术和ipad 2问世后，他真的很棒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But by then, he was already "Steve Jobs." At some point, when the Rolling Stones walk onstage, people cheer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在那之后，他已经是“史蒂夫·乔布斯”。从某种程度讲，当滚石乐队走上舞台，人会欢呼雀跃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in 1984, he still had to earn it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1984年，他还需要努力才能达到让人们欢呼的程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he did it with pure showbiz.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他通过纯粹的作秀做到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even then, in that first keynote when he introduced the Mac, Steve Jobs knew the importance of keeping secrets and the element of surprise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使这样，在第一次介绍Mac的时候，乔布斯知道保持秘密和使人们惊讶的重要性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody thinks they outgrow that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都认为他夸大了Mac。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The film industry has decided that surprise doesn't matter at all-they'll show you the "Luke, I'm your father" moment in the trailer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影业也许会告诉你，惊喜一点都不重要，他们也许会给你在宣传片中展示“luke，我是你父亲”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as a magician, I think about the use of secrets and surprise all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但作为魔术师，我一直在利用秘密和惊奇的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's astonishing how well they work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们真的很起作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I find so fascinating is that, while Jobs was sophisticated and the ideas he was selling were deeply intellectual, he was using tactics that play right into our monkey brains.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使我很着迷的是，乔布斯很老练而且他的想法都很深刻，但是他用一些技巧，正好可以把那些深刻的道理输入到我们脑子中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He structured this announcement so well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把要说的话，做了一个很好的排列。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's got something in a bag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他包里有东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the word bag is funny, it's humble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个“包”很好玩，是谦虚的说法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is also not a clich¨¨. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是陈词滥调。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Box would have been a clich¨¨. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“盒子”可以说是陈词滥调。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Holding it in my hand would have been a clich¨¨. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“尽在掌控”可以是陈词滥调。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But bag makes it so personal and honest and childlike. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是“包”这个词很私人，很诚恳，很有童心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then he takes the computer out of the bag and it speaks-and it refers to Jobs as its father, which anthropomorphizes it and makes it cute and gentle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从包里拿出电脑，电脑认乔布斯为父亲，这就把电脑拟人化了，这样就很可爱，很绅士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you gave that routine to any other CEO, they would say, "I need 30 more jokes in there." But Jobs had the confidence not to do that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你把这一套东西给其他CEO，他们会说：“我需要30多个冷笑话。”乔布斯有信心不这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Teller and I first played off-Broadway, it was wonderful to go onstage and start our show kind of slowly and easily, knowing that in 50 minutes the audience was going to like us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我和Teller第一次表演“离开百老汇”，上台的感觉很好，循序渐进开展我们的节目，我们知道在50分钟内，观众会喜欢我们的节目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Jobs was the same way that day in 1984. He didn't come in clapping his hands and going, "Whoa whoa whoa, have we got something for you!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1984年的乔布斯也用了同样的方法，他没有鼓掌，而是说“哇～哇～哇～，我给你们看个好东西！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew that the way to do it is nice and easy and slow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道这么做很好，可以循序渐进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dai Vernon, who revolutionized magic in the 20th century, said that onstage, movements should be natural. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DAI，在20世纪改变了魔术的历程，在舞台上说魔术应该是自然的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's something that very few people in magic understand and very few public speakers understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>魔术界和观众很难理解这句话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Jobs follows that completely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但乔布斯完全理解了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's nothing about the way he moves that you wouldn't do in a living room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是他移动的方法，这方法你也不会在卧室里这么做的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Watch the way he pulls the disk out of his pocket and slides it into the front of the Mac. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把光盘从口袋里拿出来，从前面插入了Mac。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not too slick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也不是很圆滑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He slides it in like bread into a toaster.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像面包滑入了烤箱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So: He didn't do too much buildup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以：乔布斯没有太多铺垫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He let the surprise sell itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他让惊喜自然而然的流露出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did just a few jokes and he did them very well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他就说了几个笑话，而且做得很棒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then he got the fuck off the stage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后就下台了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You could structure a 15-minute magic show exactly the same way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也可以用一样的方法，构造一个15分钟的魔术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>FONTS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泉</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Typographer's Dream</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>摄影师的梦</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rick Valicenti</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>里克·沃利森缇</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Founder, Thirst</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Thirst，创始人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the late '80s, we moved into a new loft studio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在上世纪80年代后期，我们搬到了一个阁楼工作室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On day two I showed up to discover a body-sized, body-shaped hole in the drywall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天我在墙上发现了一个人的形状的，和人差不多大小的洞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someone had broken in and stolen the massive IBM computers we used for accounting and administrative tasks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人闯了进来偷走了我们用来计算账目和管理的IBM电脑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As replacements, we purchased the little Mac SE. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们为了补上电脑，就购买了小型Mac SE。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We referred to it as R2-D2.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们把它视作R2-D2.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first project we did was a poster for the Chicago Museum of Contemporary Art, promoting a T-shirt contest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们第一个项目是为芝加哥当代艺术馆而作，关于促销T恤的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, I was looking closely at the design work of April Greiman, an early adopter of Apple technology, and wondering, where did she get that type? I learned quickly, as soon as I turned on the Mac, that the font was called Geneva, and I immediately used it for the museum poster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候，我紧盯着April Greiman的设计作品，他是早期苹果科技的“养父”，而且一直想知道，他是怎么得到那种类型的东西？我一打开Mac，就什么都明白了，那个泉叫做“Geneva”，我就用它做了博物馆的海报。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was my first Mac typesetting job.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我第一个根据Mac设定的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt liberated and could do just about anything with that machine and the models that followed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感到自由，可以用那台机器做我想要的东西和类似的模型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To this day, it's just mind-blowing, the revolution that Steve Jobs set off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到今天，乔布斯的革命还是很迷幻的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obviously, the seminal experience he had in that calligraphy class at Reed College opened his eyes to the nuances of typography-and that led him to transform and refine the way we communicate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很明显，他在里德学院所学的创意书法，让他变得眼界开阔，升级了我们今天交流的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The typesetting development software that is now available for use on Apple's platform is so precise that today's typographers can make adjustments within fractions of a point. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着软件发展，苹果平台很准确，很容易被人们利用，因而摄影人们可以对图片做出精细的调整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This precision has encouraged the highest level of typographic craft in history.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在历史上，这种精确定位促进了更高级的图片修理技术的发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The intuitive operating systems Jobs created have democratized font design. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯创造性地系统，使得图片设计平民化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Right now there's an avalanche of incredibly beautiful typefaces from all over the world that could only be designed on a Mac. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，全世界有些图片只能在Mac上才能被设计出来。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

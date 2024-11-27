@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T140644Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Search for Mrs. Bach</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>探秘真实的“巴赫夫人”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2006, Martin Jarvis, a Welsh-born musician who teaches at Charles Darwin University, in Australia, aired a startling theory about Johann Sebastian Bach, the undisputed arch-magus of the Western classical tradition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2006年，任教于澳大利亚查理斯达尔文大学的马丁贾维斯，一位出生于威尔士的音乐家，针对约翰塞巴斯蒂安巴赫—这一无可争议的西方古典音乐之父，公开发表了一项令人震惊的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jarvis proposed that Bach's six suites for solo cello-of which Pablo Casals once said, "They are the very essence of Bach, and Bach is the essence of music"-are, in fact, the work of Anna Magdalena Bach, the composer's second wife.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贾维斯声称，巴赫的《六组大提琴独奏曲》实际上出自这位作曲家的第二任妻子——安娜玛格达莱娜巴赫之手。而帕布罗卡萨尔斯曾经称 “《大提琴独奏曲》是巴赫的巅峰之作，而巴赫则是音乐史上的一座丰碑”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2011, Jarvis elaborated his ideas in a book entitled "Written by Mrs Bach"; he is now presenting them in the form of a documentary film, also titled "Written by Mrs Bach."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2011年，贾维斯在一本名为《夫妻不分家，音乐家巴赫名作为老婆代笔》的书中详细阐述了他的这一观点。该书现在以同名纪录片的形式呈现在公众面前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Various publications, including the Washington Post, U.S.A Today, and the Web site Jezebel, have propagated Jarvis's views.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时各种各样的出版物，包括《华盛顿邮报》、《今日美国》和网站Jezebel均报道刊登了这一新闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Obviously, Bach is not a complete fraud," Isha Aran wrote on Jezebel, conceding that Bach's r¨¦sum¨¦ remains an impressive one even without the cello suites.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“显而易见，巴赫算不上一个十足的骗子”，伊莎阿然在Jezebel上写道，他承认即使没有《大提琴独奏曲》，巴赫的人生仍然算得上是波澜壮阔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is not the first time that doubts have surfaced about famous works in the Bach catalogue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这已经不是第一次人们对巴赫目录中的名作提出质疑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the attribution of the Toccata and Fugue in D Minor, which will reverberate in many a haunted house this Halloween, has been repeatedly questioned, with many scholars detecting features that are atypical of Bach's style.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即将在今年的万圣节响彻鬼屋的《D小调托卡塔与赋格》便是一个典型的例子，很多研究巴赫风格非典型特色的学者屡次困惑于它的归属者到底是何方神圣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowhere else in his organ music does Bach make prominent use of octave doubling, as in the opening measures of the Toccata. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《托卡塔》的开始小节中出现了八度重奏，而巴赫并没有在《管风琴曲》的其他地方中明显地运用这一重奏。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

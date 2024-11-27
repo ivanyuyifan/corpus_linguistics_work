@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>7 Important Email Security Tips You Should Know About</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>七个电子邮件安全小窍门</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Internet security is a topic that we all know to be important, but it often sits way back in the recesses of our minds, fooling ourselves into believing that "it won't happen to me". </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们都知道互联网安全很重要，但又常常放任自己相信“那些事儿可不会发生在我身上”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whether it's the destructive force of the newest virus or just the hacking attempts of a newbie scriptkiddy, we're always only one click away from dealing with a security mess that we'd rather not confront. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其实不管是破坏力强大的病毒还是把攻击软件当作游戏的少年，对我们的威胁都近在咫尺，我们只不过懒于面对这个事实罢了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nowhere is this truer than in our emails.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而我们最易忽略的莫过于电邮安全了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mat Honan wrote a fascinating article over at Wired about Internet security and about how he became a victim of various online security flaws. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>迈特洪南在WIRED（一份科技杂志）上发表一篇有趣的文章，描述他自己成为互联网安全缺陷的受害者的几次经历。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In it, he wrote, "[The] security lapses are my fault, and I deeply, deeply regret them". </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他写道，“我对我的大意追悔莫及。"</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He hits home on a very serious truth: in most of the cases where we face hiccups in security, we can trace the issue back to our own ignorance and negligence.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他讲出了一个事实：多数遇到互联网安全问题的情况中，追根溯源问题在于我们自己的无知和大意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Safe online practices are important to keeping your online identity unadulterated and free from viruses, hackers, and all sorts of Internet-based shenanigans. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>良好的使用习惯使我们网上身份免于病毒，黑客以及各种其它互联网诡计的侵害。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And the best place to start? Your inbox.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最好的起点是你的收件箱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here are some simple yet important security tips you should know in order to keep your email account as secure as possible.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>下面几个小窍门简单有效，帮你保护电子邮箱的安全。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Use Separate Email Accounts </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1、使用不同的电邮帐户。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're like most people, your email account is probably the centralized hub of your personal activity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你像大多数人一样，邮箱可是你个人信息的集中地。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All of your Facebook notifications, website registrations, newsletters, messages, etc. get sent to your email box, right? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有的社交网站通知、 网站注册、 新闻快递、 邮件等等都在那儿，对吧？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That means you're putting all of your eggs in one basket - if that basket happens to fall, you'll lose all your eggs with it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你把所有的鸡蛋放在一个篮子里，如果那只篮子碰巧落地，你所有的鸡蛋可都完了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In other words, if you bring all of your activity into a single email account, what happens when someone breaks into it? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>换句话说，如果什么人侵入了你唯一的电邮帐户怎么办？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I'd say it's plausible that they would gain access to everything else. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他能从那儿盗取你所有的信息和相关网络帐户。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is why you should use multiple email accounts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以，你应该使用多个电邮帐号。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Having separate email accounts will not only help boost your security, but also your productivity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用不同的电邮帐户不仅能提高安全性，还能增进工作效率。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Imagine if you could consolidate all of your work emails into a single work account; all of your friends and family communicate with your personal account; you have a recreational account for various websites; and a throwaway account for potential spam links. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>试想你使用一个电邮地址处理工作事务，一个用来联络亲朋好友，一个用来登记休闲相关的网站，在留一个处理潜在的垃圾邮件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This way, if someone hacks your work account, all of your personal emails are still safe.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样如果工作用帐户被侵入，你的私人邮件还是安全的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Create A Unique Password </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2、使用不同密码</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Going along with the multiple account idea, you should also have an entirely unique password for each of your email accounts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>配合使用不同电邮帐户，你也需要使用完全不同的密码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if you decide to keep one "master" email account, make sure that its password is 100% unique.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即使你决定只用单一电邮帐户，也要确保它的密码是100%专用的独特密码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Using one password for all of your accounts is a rookie-level mistake. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有帐户使用相同密码可是菜鸟级的错误。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Suppose someone did hack into your personal email and they see all of your incoming Facebook notifications, eBay reminders, and more. Any half-wit hacker will test those accounts with the same password as your email account-and in your case, they would succeed.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果黑客入侵了你的一个电邮帐户，看到里面有饭否的提醒，淘宝的通知等等，再笨的黑客也会拿同样的密码去试试那些网站吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is common advice, I know, but so many people still neglect it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我知道这是谁都听过的建议，但是很多人还是无视它。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Admittedly, for the longest time, I too used the same password for literally every account that I had. When one of my friends figured out my password (without messing with anything, thankfully), I knew it was time to wise up.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>老实讲，有好长时间我自己也是在哪里都用同一个密码，直到有一天有个朋友弄到了我的密码（还好他没打算干什么坏事），我才知道时候停止干蠢事了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beware Of Phishing Scams</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3、谨防网络钓鱼诈骗</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When dealing with a particular company or product that requires account information, have you ever seen the following message: "Never give away your personal information. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>处理各种公司或产品相关的网上帐户信息时，你有没有注意到他们都有这样的申明？“我们不会泄露您的个人信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will never ask you for your password." When someone sends you an email asking you for your personal information, you know right away that it's a trick.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们不会向您询问你的密码。”如果有人要你在邮件中披露个人信息，你就知道遇上骗子啦。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But there's another level to this scam and it's called "phishing." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有一种更高级一点的骗术，叫做“网络钓鱼”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Basically, malicious users will imitate and impersonate high-profile websites (e.g., eBay, Amazon, Facebook, etc.) and say that they're experiencing trouble with your account; all you have to do to fix it is to send them your username and password to verify your authenticity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>骗子会假装来自某个知名网站，跟你说你的帐户有些问题，你只要把用户名和密码发过去确认一下身份他们就能立刻解决问题了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sometimes they'll even link you to a false website that looks exactly like the real thing.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有时他们会让你去一个网页登陆界面输入帐号密码，那个界面和他们冒充的网站看起来一模一样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Be wary. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这你可小心了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, whenever your personal information is ever brought up in a non-face-to-face capacity, your scam detector should go off loud and clear.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>事实上，任何人在非面对面的情况下要求你提供个人信息，欺诈的可能性都很高，你都最好谨慎对待。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Never Click Links In Emails email security </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4、永远别点邮件里的链接</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Phishing brings me to my next point. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“网络钓鱼”正好带我们进入下一个话题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Whenever you see a link in an email, 99% of the time you should not click on it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>看到电邮中有网页链接时，99%的情况你的鼠标都不应该点下去。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You never know where they'll lead you. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你可不知道那会打开些什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sometimes they might be safe; other times they'll bring you straight to the doors of hell and swarm you with malware and viruses.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有时可能没事，有时可能就是扑面而来的一大堆恶意软件和病毒呢。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you get an email from your bank or any other service (e.g., bill payments), always visit the website manually. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有时你电邮中会收到银行对帐单，其它帐单之类的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No copy and paste. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不要点链接，不要直接复制和黏贴链接。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>No direct clicking. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>直接上相应网站首页，从那儿进入你的帐户。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You'll thank yourself later.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你以后会感谢自己这么做的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Do Not Open Unsolicited Attachments </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>5、不要打开来历不明的附件</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Attachments are a tricky thing when it comes to email. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>附件是件棘手的事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're expecting something from a buddy or an uncle, then sure, go ahead and open the attachment. Have a laugh at the funny photo they sent you. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你已经在等着叔叔或朋友发文件给你，那没问题，打开附件来看看他们发的搞笑照片吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's all good when you know the person sending the attachment.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>基本上来说，如果你知道对方要发附件给你，那就没啥问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But if the email is unsolicited, never open any attachments. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果附件来历不明，那千万别开。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even if the file looks innocent, you could be in for a world of hurt. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有些文件看起来很无辜，打开来可是后患无穷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Filenames can be spoofed. JPEGs could be EXEs in disguise and those EXEs will run as soon as they're downloaded. And then you'll have a virus on your hands.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>文件后缀是可以改的，你收到的“jpeg”（图像文件后缀)文件可能是“exe”（可执行文件后缀）文件伪装成的，一旦下载完成就自动运行，那你就等着慢慢清理病毒吧。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scan For Viruses &amp; Malware </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>6、病毒和恶意软件扫描</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you open an email and it seems suspicious in any way, go ahead and run a malware and virus scanner. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你不小心打开了一封看来可疑的邮件，请即刻打开病毒和恶意软件扫描软件扫描电脑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Not every spam email will infect you with a virus and it may seem like overkill to run a malware scanner every time you open a fishy email, but it's better to be safe than sorry. The one time that you decide to let it go could be the time your computer loads a keylogger.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>并不是所有垃圾邮件都带有病毒,但是小心使得万年船,如果为偷那么一回懒让键盘记录软件(盗取密码的工具)钻进了电脑,可是得不偿失啊。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Avoid Public Wi-Fi </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>7、小心公共无线网络</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And lastly, avoid checking your email when you're on public Internet. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最后一点，避免使用公共无线网络做查看电邮之类的事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yes, I know that when you're waiting for an airplane to reach your gate, it can be tempting to whip out your smartphone or laptop and check for new messages. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>等飞机的时候你自然想拿出你的智能手机或笔记本电脑看看邮件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unfortunately, public Wi-Fi can be extremely insecure.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是公共无线网络可能会非常的不安全。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are programs out there called "network sniffers" that run passively in the background of some hacker's device. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有一种叫做抓包工具的软件，可以监测到一定范围内所有走无线网络的数据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The sniffer monitors all of the wireless data flowing through a particular network - and that data can be analyzed for important information. Like your username and password.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>黑客可以把这些数据都记录下来，回家分析解码，提取出用户名和密码之类有价值的信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's strange that as the years go by, security grows tighter in some ways and we remain just as vulnerable as we've always been in other ways. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>近年来网络安全技术发展迅速，但是从有些方面来说我们还是一样的易受攻击。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Email security comes down to common sense and careful decisions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>保护电子邮件安全还要靠你自己的安全常识和谨慎使用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Don't let laziness and convenience overshadow your desire for protection and peace.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不要因为懒散和图方便而忘记了保护个人信息有多重要。</seg></tuv>
+</tu>
+</body>
+</tmx>

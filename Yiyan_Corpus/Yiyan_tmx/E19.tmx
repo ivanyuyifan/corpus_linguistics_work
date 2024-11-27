@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151227T124311Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yoga Shouldn't Hurt: Prevent + Heal 3 Common Injuries </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安全瑜伽</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you practice yoga, no doubt you're aware of its health benefits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既然你在练习瑜伽，瑜伽的好处自无需多言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But like any physical activity, it's not completely risk free. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但就像其他任何运动门类一样，瑜伽练习也是伴随着危险的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you've been practicing for long, you or someone you know has probably pulled a hamstring, tweaked a sacrum, or experienced some injury while on the mat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>练习久了，总会对诸如肌肉拉伤、骶骨扭伤或者其它瑜伽损伤有所耳闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Close to 9,000 Americans received medical treatment for yoga-related injuries in 2004 and 2005, according to the U.S. Consumer Product Safety Commission. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国消费者产品安全委员会发布的数据显示，在2004-2005年，全美有近9000人因瑜伽运动伤害接受治疗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, there are only two yoga injuries reported for every 10,000 times it is practiced, according to American Sports Data.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，“美国运动数据”指出，平均每10000例瑜伽损伤中只有2例得到报告并纳入统计。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Injuries can be great teachers. They invite you to uncover your yoga demons-misalignments or overzealous attempts to force your way into poses-and make corrections. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伤痛有时是个好老师，它带你赶走瑜伽练习中的恶习--不端正体位和过度练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it's smart to learn proper technique, especially when it comes to your inner knees, hamstring tendons, and sacroiliac joints. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，提前学习一些保护自己的技巧还是明智之选，特别是关于膝盖，大腿肌腱和骶髂关节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These parts are vulnerable to damage and take time to mend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些部位都十分脆弱，一旦受伤，恢复起来颇费时日。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if you understand what causes trauma to these areas, it's easy to adjust your practice to avoid or help heal injuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你理解了损伤是如何造成的，那么通过调整当下的练习来预防或恢复已有损伤都不在话下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inner Knee</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>膝盖内侧韧带</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Road to Injury </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受伤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you always found it difficult to get into Padmasana (Lotus Pose) and felt tempted to force your legs into the position to join your serene-looking classmates for meditation? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有没有为了看起来像课堂上安详地双莲花坐冥想的同学们那样，对自己的双腿毫不留情？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you are thinking of traveling down this road, please reconsider. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你觉得这没有什么问题。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may have discovered that rather than leading you to the blissful land of the Lotus, pushing yourself in this way dead-ends with a sickening "pop" in the knee, followed by years of pain and limited mobility.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生掰硬拽上去的双莲花坐结果只能是膝盖那里冒出个难看的鼓包，接下来几年挥之不去的疼痛和行动不便，并且丝毫得不到盘坐应有的好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you hurt your inner knee doing yoga, it's usually because you've tried to force a leg into Padmasana or one of its variations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑜伽弄伤膝盖，多半是在盘坐中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes the injury occurs after one or both legs are already in Lotus position and you attempt a pose that adds a back-bending movement, such as Matsyasana (Fish Pose), or a forward-bending movement, such as Ardha Baddha Padma Paschimottanasana (Half-Bound Lotus Seated Forward Bend).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也包括在半莲花或双莲花基础上的后屈，如鱼式(Matsyasana (Fish Pose))，或前屈，如半莲花背部伸展式 (Ardha Baddha Padma Paschimottanasana (Half-Bound Lotus Seated Forward Bend))。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To understand how Lotus can hurt your knee, visualize lifting your right foot up and placing it atop your left thigh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了了解莲花坐是如何让膝盖受伤的，让我们设想一下，将你的起右脚，放到左大腿上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To get into this pose safely, your thigh will have to rotate outward about 115 degrees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>右大腿此时需要外旋115度才能达到这个要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many of us, though, the thigh cannot turn out that much, either because of its bone structure or because tight muscles and ligaments inhibit its movement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是对大部分人来说，受骨骼结构和肌肉韧带牵制的影响，我们的大腿旋转不了那么多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If your thigh stops rotating but you keep lifting the shin and foot, you'll bend the knee jointsideways, which will pinch the inner-knee bones together-the upper inner end of the shin-bone pressing against the lower inner end of the thighbone. Between these bones lies the medial meniscus, which is a protective rim of cartilage that pads the knee joint and guides its movement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果大腿旋转幅度不够，而你又非要把脚抬那么高，无疑，膝关节就会挺身而出承担这个压力，膝盖内侧面，即胫骨内侧顶端和大腿骨内侧底端相互挤压，夹在他们中间的是内侧半月板(一种配合膝关节活动的保护性软骨)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you lift your foot, you are using your same-side shinbone as a long lever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你的脚被拉高时，胫骨就变成了一个长长的杠杆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the thighbone doesn't rotate enough, you'll apply tremendous pinching pressure to the meniscus-as if your shinbone and thighbone were a giant pair of pliers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果大腿旋转不够充分，巨大的压力就这样转移到半月板上--胫骨和大腿骨就像一把巨大的钳子，死命夹住半月板。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forcing this lift even moderately can do serious damage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样强制性的拉高，哪怕轻量级，也是有害的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, if you are in Lotus and your top knee is not on the floor, pushing that knee downward can apply enormous damaging force to the meniscus.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样，如果你双莲花坐时，因为膝盖不能落到地板上，而用力下压膝盖的话，也会对半月板造成莫大伤害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prevent and Prepare </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预防</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To prevent this injury, the first rule is to never force your legs into any Lotus variations-either by pulling the foot strongly upward, pushing the knee downward, or thrusting your body forward or backward. Don't let your yoga teacher push or pull you into any of these poses either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预防这一损伤，首要原则是，不要勉强自己去盘双莲花坐或者它的变体--既不要抬脚压膝盖，也不要用俯身或后仰来配合；更不能让你的瑜伽老师帮你掰上去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Janu Sirsasana (Head-of-the-Knee Pose) and Baddha Konasana (Bound Angle Pose) can cause similar (though usually less severe) pinching of the inner knee, so practice them cautiously, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>头碰膝前屈伸展式 (Janu Sirsasana (Head-of-the-Knee Pose)) 或者束角式 (Baddha Konasana(Bound Angle Pose)) 也会给膝盖内侧带来相似的威胁，只是程度稍轻，因此也要小心练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stop going deeper and back off if you feel pressure or pain in the knee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，练习时只要膝盖感觉到压力或疼痛，就要立刻停下并返回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The structures that need to loosen up in these poses are all located around the hip area, so that's where you should feel stretching or releasing sensations as you go deeper.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里真正需要增加延展性的部位都集中在臀部周围，因此如何打开臀部才是你深入练习所需要解决的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The safest way to practice Padmasana and related poses is to strongly rotate your thigh outward at the hip and not go deeper into the pose when you reach the limit of your outward rotation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>练习莲花类体式的安全之道是，从大腿根开始将大腿外旋至(但不要超越)自己的极限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This means that you'll have to stop lifting your foot when your thigh stops rotating, so you may not get your foot on the opposite thigh. (Remember the upside: happy, functional, pain-free knees.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着，大腿充分外旋之后就不要再试图拉高脚的位置，即便脚还放不到对侧大腿上。时刻牢记什么是更重要的：我们需要一个和谐、灵活、无痛的膝盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can use your hands or a strap to help rotate your thighbone outward. Whether using your hands, a strap, or a cloth, if your knee ends up dangling in midair, support it with a folded blanket so you do not inadvertently force it downward as you turn the thigh outward.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以用双手或者辅助带来帮助大腿外旋--无论用什么，如果这时的膝盖是悬空的，就在膝盖下面垫上个毯子之类的，这样就能保护膝盖不会遭受无意识的挤压。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Path to Healing </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康复</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you have the misfortune of hurting your inner knee in Padmasana or a related pose, the first thing to do is leave it alone. You need to rest, ice, elevate, and compress it for a few days to reduce swelling and inflammation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果不幸你在莲花坐上载了跟头，弄伤了膝盖，首先要做的就是让它休息，并且冷敷、垫高、打绷带几日来消除肿胀和炎症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the injury seems serious, seek medical attention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果看起来很严重，一定要去看医生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a good idea to reintroduce knee range of motion as early as you can by gently flexing and extending the knee to the extent possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽早通过轻柔的弯曲和伸展，来恢复膝盖的活动范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A yoga program for recovery needs to be individualized to your needs and supervised by a qualified instructor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瑜伽治疗计划需要有经验的老师根据你的具体情况来指导和看护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the general pattern is to promote alignment and strength with basic standing poses, such as Trikonasana (Triangle Pose) and Virabhadrasana II (Warrior Pose II). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般的模式是利用基础的站立体式来加强顺位感和力量，如三角式 (Trikonasana (Triangle Pose)) 和战士第二式 (Virabhadrasana II (Warrior Pose II))。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If necessary, support your body with a chair to take weight off the knee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果必要，可以借助椅子的辅助来减轻膝盖的负重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, increase range of motion by doing Virasana (Hero Pose) with the pelvis supported on a prop, and eventually reintroduce outward rotating movements like Baddha Konasana (and perhaps Padmasana) using a rolled cloth behind the inner knee.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，通过臀下垫高的英雄式 (Virasana (Hero Pose ))来增加膝盖的活动半径，最终恢复适应大腿外旋动作，膝盖垫高的束脚式 (或者双莲花)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Padmasana (Lotus Pose), preparation </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莲花坐，预备式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set up blankets to support your pelvis and right knee. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>利用的毯子来辅助骨盆和膝盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sit in Dandasana (Staff Pose) with both legs extended. Bend one knee and place a washcloth behind it. Keeping the knee firmly bent, grip the end of the cloth in one hand and pull toward your body and out to the side to open the inner knee and rotate the thighbone outward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长坐，弯曲一侧膝盖，将一条毛巾或辅助带从下方绕过膝盖，用同侧的手抓住毛巾或辅助带的两端，向上向外轻拉，目的是令大腿外旋并打开膝盖内侧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continue this rotation as you lift your heel with your other hand and place your foot high atop the opposite thigh, near the hip if possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>继续做这个动作，直到弯曲侧的脚可以在另一只手的帮助下抬高并放到对侧大腿上，并接近腹部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note: Discontinue if you experience knee discomfort.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过程中如果膝盖有任何不适务必即刻停止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Virasana (Hero Pose), modification </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英雄坐，简易式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Avoid pain in your knees by elevating your pelvis as high as is necessary with folded blankets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽量的垫高臀部，可以避免弄疼你的膝盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Align your heels directly under your outer hips (this is less stressful for the knees than the standard alignment of having your heels outside of your hips). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让你的脚跟正好在同侧臀部正下方(这比让脚跟在臀部外侧要要容易的多)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep your knees slightly apart, with your thighbones parallel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>双膝微微分开，大腿骨相互平行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Place your feet in line with your shins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脚尖的方向和小腿在一条直线上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sit for several minutes daily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天就这样坐几分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gradually lower the props over a period of weeks or months.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几周或几个月后逐渐降低臀部下毯子的高度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upper-Hamstring Tendons</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上腘绳肌肌腱</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Road to Injury</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受伤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Say that you're a flexible yoga teacher. Each day you wake up and practice hamstring stretches, then demonstrate deep forward bends in your classes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假设你是一位身体柔软的瑜伽老师，某天清晨，你正在舒展下肢，为待会要在课堂上示范的深度前屈做准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you notice a pain just below one of your sitting bones, you stretch it more, thinking that will promote healing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>感觉到一侧的坐骨下方有点疼痛，你想着活动一会就没事了，便加大了拉伸的幅度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when the pain increases, you decide to rest it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是疼痛却随之加剧，迫使你停下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the pain diminishes, you stretch again and reinjure the area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等到不疼了，拉伸的功课还在继续，刚才受损伤的部位再次受到刺激。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pain comes back, and the cycle repeats. This process can go on for years.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>疼痛开始日积月累，周而复始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hamstrings are three long muscles that cover the back of the thighs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>腘绳肌是覆盖大腿后侧的三条长条形肌肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the top of them, tendons attach all three to the sitting bones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们的顶端，靠肌腱连接到坐骨上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A nagging sensation just below the sitting bone is caused by a tear in the upper-hamstring tendon, near where it connects to the bone (called the attachment). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如前所述坐骨下方的疼痛，正是源于腘绳肌上方肌腱靠近坐骨一端的过度拉伸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To stretch hamstrings in forward-bending poses like Uttanasana (Standing Forward Bend), you straighten your knees while lifting your sitting bones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像站立前屈式 (Uttanasana(Standing Forward Bend) 这样的拉伸腘绳肌的体式，你会在提升坐骨的同时绷直膝盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any time you stretch a muscle, it pulls on its tendons, creating microscopic tears in them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何时候，你拉伸一块肌肉，肌肉都牵动着周围肌腱，造成极轻微的撕裂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you wait 24 to 48 hours between practice sessions, these tiny tears heal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常24-48小时之内，这些轻微的撕裂就会自行愈合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the upper-hamstring tendons can take longer to heal because they are poorly supplied with blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，上腘绳肌肌腱有些特别，它需要更长的时间来“愈合”，因为他们供血相对不足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you don't give your hamstrings time to rest, you set up a scenario for injury. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果得不到充足的时间来恢复，那么形成实质的损伤就在所难免。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alignment can also be an issue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>追求直线性(alignment) 也可能是原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Teachers often tell beginners to lift their sitting bones in forward bends because beginners tend to round their backs in such poses, which can lead to disk compression and lower-back injuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老师通常告诉初学者在前屈中尽量抬高他们的坐骨，以免弓着腰，因为那样的话可能会伤害到下背部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But people with loose hamstrings can lift their sitting bones so high that the tendon starts to wrap around the bone. This can weaken the tendon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是对于腘绳肌较松弛的人来说，他们可以把坐骨抬的很高，以至于上腘绳肌肌腱包裹住坐骨，最终也会使肌腱受损。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To recap: If you produce new tears in your upper-hamstring tendons faster than your body can repair the old ones, you'll end up with an injury. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>概括的说，撕裂上腘绳肌肌腱的速度超过其自我修复的速度，就意味着受伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you rest and start to heal, the partially healed tissue may still be too weak to withstand the pose and you'll tear it again, ending up with more pain than before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你休息一段时间来恢复，那部分刚刚修复的组织也十分脆弱，再次严重撕裂的话会变得更加糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you repeat this cycle often enough, scar tissue will eventually develop in the torn area-and rehabilitating scar tissue is typically a slow, difficult process. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如此重复几个回合，撕裂的部位将会生长出疤痕组织--其修复就更加遥遥无期了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often hamstring injuries that seem to occur suddenly are set up by a gradual weakening of the tendon over time, caused by overstretching and insufficient rest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常，腘绳肌貌似意外的受伤，其根源都是长期的过度拉伸和休息不足导致的腘绳肌肌腱慢性劳损。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The weakening can culminate in one powerful stretch that leads to injury.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>累积的劳损将在一次强有力的拉伸后达到顶峰，形成实质性的损伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prevent and Prepare </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预防</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To prevent an upper-hamstring injury, you need to approach straight-leg forward bends gradually and with awareness, taking any pain near the sitting bone seriously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预防上腘绳肌肌腱损伤，你需要渐进式地练习伸直膝盖的前屈，并且对一切坐骨区域的疼痛保持高度警惕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never force a forward bend (or any pose), and if you feel discomfort at or near the sitting bone while bending forward, stop stretching that hamstring immediately. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>永远不要勉强去做前屈 (其实是一切体位)，前屈时坐骨区域有任何不舒服的感觉，都要立刻停止拉伸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the discomfort recurs in a future practice, avoid any action that causes it for at least several days. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果以后再次出现同样的感觉，那么在几天之内都要避免相同的动作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This usually means you should avoid practicing forward bends over that leg or you can bend the injured-side knee in all forward bends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就是说，不要做有疼痛那一侧腿的前屈，或者在前屈时弯曲那一侧腿的膝盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bending the knee protects the hamstring tendons by taking some of the stretch off of them and giving them time to repair themselves before a significant injury develops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弯曲膝盖便是保护了腘绳肌肌腱，减轻腘绳肌肌腱的压力，从而使之得以恢复，或者避免进一步的伤害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reintroduce straight-leg forward bends on the affected side only when the discomfort is completely gone for at least a few days, and then do so gradually.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在前述坐骨区域不适感完全消除至少几日之后，才能开始逐渐地恢复那一侧膝盖伸直的前屈练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another important preventive measure is to include plenty of hamstring-strengthening poses, such as Salabhasana (Locust Pose), Purvottanasana (Upward Plank Pose), and Virabhadrasana III (Warrior Pose III), in your asana practice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个重要的预防方法是在你的序列里加入更多的腘绳肌强化体式，比如全蝗虫式(Salabhasana (Locust Pose))，前伸展式(Purvottanasana (Upward Plank Pose)，和战士第三式 (Virabhadrasana III (Warrior Pose III))。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Building muscle strength also strengthens the tendons of these muscles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肌肉力量加强的同时，肌腱也同样得到了增强。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, if you have an existing hamstring injury, be sure to introduce these poses gradually.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你已经有腘绳肌损伤，一定要循序渐进地进行这些练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Path to Healing </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康复</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If your injury is new, especially if you experience a dramatic injury such as a sudden tearing sensation during a hamstring stretch, rest and ice the area immediately. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你的伤还比较新，特别是急性的腘绳肌拉伤，立刻休息并冷敷患处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be sure to avoid stressing it in any way for several days before introducing any recovery exercises at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在开始康复练习之前，务必要休息数日并避免该部位的再次受到任何压力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recovering from an upper-hamstring tendon injury typically takes at least a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上腘绳肌肌腱拉伤完全恢复，至少需要一年的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are different schools of thought on how to recuperate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于怎样做康复训练，则有不同的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some people suggest that you avoid all stretching for about six weeks while slowly reintroducing very mild strengthening exercises such as tiny preparatory movements for Salabhasana and Dhanurasana (Bow Pose). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些人建议六周内都不可以做任何拉伸，之后从温和的强化力量练习开始，像全蝗虫式 (Salabhasana )和船式 (Dhanurasana (Bow Pose))的预备练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You systematically build up strength over the next several months, eventually adding powerful strengtheners like Purvottanasana and exercises that combine strengthening and stretching, such as Supta Padangusthasana (Reclining Hand-to-Big-Toe Pose), against resistance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来的几个月是系统的力量恢复训练，最终，升级到像前伸展式(Purvottanasana (Upward Plank Pose))这样的高强度体位， 或者仰卧手抓大脚趾伸展式(Supta Padangusthasana(Reclining Hand-to-Big-Toe Pose)) 这样力量与柔韧兼顾的体位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The key is to avoid any stretching that causes pain to the injured tendon while systematically introducing stronger hamstring-strengthening exercises, including those that strengthen the muscle in the stretched position, for several months. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原则是：拉伸的幅度不可引起患部疼痛，同时在几个月内有计划地加强腘绳肌以及周围肌腱力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You shouldn't reintroduce any maximum-power hamstring stretches, such as Paschimottanasana (Seated Forward Bend), for at least a year after your injury.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少一年时间以后，才能过度到高强度的腘绳肌伸展，比如坐立前屈式(Paschimottanasana (Seated Forward Bend))。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Uttanasana (Standing Forward Bend), modification </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>站立前屈式，简易式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If bending forward with straight legs causes pain below one sitting bone, you may have injured your hamstring tendon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果双腿伸直的前屈会引起坐骨下方疼痛，你可能已经拉伤了上层腘绳肌肌腱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To protect an injured hamstring, fold forward into Uttanasana while bending the knee on the injured side enough to eliminate any discomfort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了保护受伤的腘绳肌，做站立前屈伸展式时，弯曲疼痛一侧腿的膝盖来消除不适感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This will give the tendon a chance to heal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这让受伤的肌腱得到休息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continue to stretch the hamstrings of the other leg normally.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正常的一侧腿照常练习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Supta Padangusthasana (Reclining Hand-to-Big-Toe Pose), against resistance </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仰卧手抓大脚趾伸展式，抗阻式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the later stages of recovery from a hamstring injury, you can build strength while stretching the hamstring muscles mildly in Supta Padangusthasana. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康复练习的最后阶段，你可以借助适度的仰卧手抓大脚趾伸展式来加强腘绳肌的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

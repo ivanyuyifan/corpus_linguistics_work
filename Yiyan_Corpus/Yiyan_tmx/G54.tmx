@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T080608Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The life of Amelia Earhart</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿米莉亚·埃尔哈特传奇的一生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For my tenth birthday, I got the present of my dreams: a piece of Amelia Earhart luggage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我十岁生日的时候，收到了梦寐以求的礼物：一个“埃尔哈特”行李箱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a small overnight case made of aluminum, with rounded corners, and covered in blue vinyl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个旅行用的铝制小箱子，圆角，套有蓝色乙烯基薄膜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between the latches was a little plaque with an ersatz, feminine signature. (Earhart's actual signature was loopy and uneven, with a runic-looking "A.") </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弹簧锁之间有一个小小的牌匾，上面印着一个合成的女性签名。（事实上，埃尔哈特的字迹很潦草而且不规则，看起来很像古北欧的 “A”。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had nowhere to go, so I kept the case under my bed and filled it with dolls' clothes-a use, I suspect, of which Earhart would have disapproved. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有要去旅行的地方，所以用娃娃的衣服装满了箱子，然后把它置于床底下。我想，“埃尔哈特”是不会赞成我如此这般对待它的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Play that prepared a young girl for domesticity was anathema to her ideals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让一个年轻女孩整天在家里玩，对她的理想来说，是极其糟糕的一件事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she lectured at colleges-as she did frequently, to promote careers for women, especially in aviation-she urged the coeds to focus on majors dominated by men, like engineering, and to postpone marriage until they had got a degree. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她经常在高校演讲。演讲的时候，她会激励妇女将自己的事业上升一个新的台阶。她激励男女生都关注以男性为主的专业，例如工程，并且等取得一定的学位后再结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Earhart's own wedding day, in 1931, the thirty-three-year-old bride handed her forty-three-year-old groom, George Palmer Putnam, a remarkable letter, which read:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1931年，在她的婚礼当天，这位31岁的新娘递给她43岁的新郎乔治?帕尔默?普特南（George Palmer Putnam）一封很别具一格的信件，上面写着：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You must know again my reluctance to marry, my feeling that I shatter thereby chances in work which means so much to me. . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你必须再次知道我有多么不情愿结婚，我内心对失去工作的机会感到多么痛苦，工作机会对我来说太重要了......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In our life together I shall not hold you to any medieval code of faithfulness to me, nor shall I consider myself bound to you similarly. . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在今后的生活中，我希望你理解，我不想将你束缚在任何中世纪的信任诺言里，我自己也不想被这样地束缚......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I may have to keep some place where I can go to be myself now and then, for I cannot guarantee to endure at all the confinements of even an attractive cage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要保留一些自己时而不时去的地方。即使婚姻这个牢笼如此有吸引力，我不也能保证可以忍受这牢笼般的约束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The place where Earhart went to be herself was the cockpit of a plane, and that may have been the place where she died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃尔哈特想自己去的地方是飞机驾驶舱，而且很可能她就是在驾驶舱里去世的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On July 2, 1937, she became the world's most famous missing person when her twin-engine Lockheed Electra disappeared in the vicinity of Howland Island, a speck in the Pacific about midway between Australia and Hawaii, where the Department of the Interior had built her a landing strip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1937年7月2日，当她的双引擎“洛克希德?伊莱克特拉”号（Lockheed Electra）在豪兰岛附近消失时，她成为世界上最有名的失踪人员。豪兰岛是太平洋地区一个位于澳大利亚和夏威夷之间的小岛，内政部曾在那里为她修建了起落跑道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She and her navigator, Fred Noonan, were attempting to circumnavigate the equator, a feat for the record books, although pilots before them (all male) had rounded the globe at least six times by shorter routes, and commercial transpacific air service had recently been inaugurated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她和领航员弗雷德?努南（Fred Noonan）试图进行环绕赤道的飞行。虽然此前有飞行员（全部为男性）已经进行过至少六次环绕赤道飞行，而且都是按较短的航线飞行。而且，跨太平洋航空商业服务公司最近揭牌了。她此次的飞行依然是一个标榜史册的壮举。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Critics accused Earhart posthumously of embarking on a capricious joyride that ultimately cost taxpayers millions of dollars, the estimated tab for a huge rescue mission authorized by President Roosevelt, Earhart's fan and friend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃尔哈特死后，一些批评者指责她进行的是反复无常的耍酷飞行，最终花费了纳税人数百万美元。这一数字是对罗斯福总统授权的巨大救援任务耗资的估量。罗斯福总统是她的粉丝，也是她的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even some of her staunchest admirers disapproved of the last flight. Earhart's biographer Susan Butler quotes one of them, Captain Hilton Railey, who had helped to launch her career. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就连她最忠实的粉丝也不赞成她进行的最后一次飞行，希尔顿雷利（Hilton Railey）上尉也不例外。在她的职业生涯中，希尔顿雷利曾经给予过很大的帮助。埃尔哈特的传记作家苏珊巴特勒（Susan Butler）引述了他的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was, he wrote, "caught up in the hero racket."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他写道，“她陷入了球拍英雄的陷阱中，不能自拔。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earhart, however, was a heroic figure to millions of her contemporaries, and she still counts as one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，和她同时代的芸芸众生相比，埃尔哈特是位当之无愧的英雄人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She achieved fame dramatically, in 1928, as the first woman to cross the Atlantic in a plane, the Friendship, albeit only as a passenger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1928年，作为第一位在飞机“友谊号”上跨越大西洋的女性，她戏剧性地名声鹊起。更有甚者，飞机上仅她一人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Railey had recruited her on behalf of Mrs. Frederick E. Guest, n¨¦e Amy Phipps, a steel heiress and sportswoman who was underwriting the expedition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雷利曾代表弗雷德里克E. 盖思特夫人（Frederick E. Guest）（娘家姓艾米?菲普斯（Amy Phipps））聘请她。盖思特夫人是一位钢铁公司的继承人，同时也是一位女运动员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had planned to play the starring role herself, until her husband, a former British Cabinet minister, expressed his alarm (three women fliers, including a princess, had recently perished in crashes). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她曾计划自己亲自进行此次飞行，直到她的丈夫，英国一位前内阁大臣，表示了自己强烈的担忧后，于是，她改变了计划（当时，三位女飞行员在一次空难中丧生，其中有一位还是公主）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Railey was commissioned to find a substitute, and Guest stipulated that, ideally, she should be an aviator but, more important, "the right sort of girl." (The wrong sort of girl was her rival in the race to Europe, Mabel Boll, a flamboyant former actress who was known as the Queen of Diamonds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她委托雷利寻找一个能替代自己的飞行员，对此，盖思特规定，最理想的是，首先要找一名飞行员，但更为重要的是，一个“有良好名声的姑娘”。（那个不好的是梅布尔波尔，她是盖思特夫人在欧洲比赛时的对手。梅布尔波尔曾经是一个光芒四射的演员，后来以“钻石女王”著称。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Guest later put it to her daughter, "It just wouldn't do.")</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来，盖思特选中了梅布尔波尔的女儿，但是最后还是不行。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wilmer (Bill) Stultz, the pilot of the Friendship, who had defected from the Boll party, and Louis (Slim) Gordon, the mechanic, had done the actual flying, and Earhart tried to remind a besotted press and ecstatic crowds hailing her as "Lady Lindy" that she had really been just "a sack of potatoes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“友谊”号的飞行员威尔默（比尔）斯特尔茨(Wilmer (Bill) Stultz)，曾脱离了波尔党。机械师路易斯（斯利姆）戈登(Louis (Slim) Gordon)曾进行过实际飞行。这两个人与埃尔哈特都试图提醒如痴如醉的媒体和欣喜若狂的大众，他们所尊称的“林迪夫人”，其实只是“一袋马铃薯那样的行李”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1932, however, she legitimatized the title by flying the Atlantic on her own, becoming the first woman and the second person, five years after Charles Lindbergh, to do so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，1932年，她独自完成了跨越大西洋的飞行，成为世界上第一位飞越大西洋的女性，也是继查尔斯林德伯格之后的第二人，查尔斯?林德伯格于五年前完成了这一飞越。就这样，她成了名副其实的“林迪夫人”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Congress awarded her honorary Major Wings that she wore with her pearls.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（美国议会授予她十字飞行荣誉勋章。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> In 1935, she was the first pilot to solo across the Pacific-from Honolulu to Oakland-and to solo non-stop from Los Angeles to Mexico.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1935年，她从檀香山飞抵奥克兰，成为第一位独自飞越太平洋的飞行员，又成为第一位独自完成了洛杉矶直飞到墨西哥的飞行员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earhart also made or broke a slew of other records, and few Americans would not have recognized her in the street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃尔哈特也创造或者打破了很多其他记录。在大街小巷，普特南出版集团对她的形象进行大量的宣传。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her image was managed aggressively by Putnam, a scion of the publishing house G. P. Putnam's Sons, and one of the first ¨¹ber-agents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普特南出版集团由普特南的爷爷创立的，是家一流的超级代理公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He specialized in celebrity true-life adventure stories, and he had signed up Lindbergh to chronicle his flight to Paris for the Times (which paid him sixty thousand dollars), then turned the articles into a book that sold some six hundred thousand copies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普特南擅长于名人的真实生活中的冒险故事，他已与林德伯格签约，将他到巴黎的飞行刊登在《纽约时报》上。为此，《纽约时报》支付了他六万美金。然后，他将这个文章以书的形式出版，销量约六十万册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even before Putnam met Earhart, he had caught wind of the Guest project-and his next best-seller. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至在遇见埃尔哈特之前，普特南已经知道盖思特即将启动的项目，并且得到他下一本畅销书的消息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time the Friendship took off, he had a ten-thousand-dollar deal for Earhart's firsthand story, and a file of publicity shots that played up her resemblance to Lindbergh. (They were both lean, fair Midwesterners with winning smiles.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“友谊”号起飞前，他用一万美金买下了埃尔哈特的第一手故事版权，并为她拍摄了一系列渲染她与林德伯格相像的宣传图片。（他们俩都是削瘦的、皮肤白皙的中西部人，面带着胜利的微笑。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her legend, to a large degree, was Putnam's creation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很大程度上，是普特南造就了埃尔哈特的传奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He brokered her lecture tours, book contracts, columns, product endorsements, and media exposure, and he was so proprietary that a rival of Earhart's described him as her Svengali. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他为她组织了一系列巡回演讲，签订售书合同，开设宣传专栏，进行产品代言以及联系媒体报道。他如此这般地拥有埃尔哈特的“专利权”，以至于埃尔哈特的一个对手将他说成她的Svengali（意为“催眠师”。译者注。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She, however, was the real mesmerist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，她才是真正的催眠师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Amelia Earhart: Image and Icon," a handsomely designed album of their teamwork as self-promoters-portraits, press clippings, ads, and illustrations-was published two years ago, with notes and commentary by the editors, Kristen Lubben and Erin Barnett, and essays by Butler and Susan Ware.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年前，《阿米莉亚埃尔哈特：声誉和偶像》（ Amelia Earhart: Image and Icon）出版了，这是为他们自我推销的合作而精美制作的专辑。该专辑收集了很多画像、剪报、广告以及插图，里面还有编辑克里斯汀鲁本和埃林巴尼特加（Erin Barnett）的注释和评论，以及巴特勒和苏珊韦尔写的短评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ware regards Earhart's pose of Lindberghian diffidence with critical amusement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韦尔用了一些非常娱乐的话，评论了埃尔哈特模仿林德伯格摆出的羞怯姿势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She quotes the great aviator Elinor Smith, who was still flying in 2001, at eighty-nine: "Amelia was about as shy as Muhammad Ali." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她借用了伟大的飞行员埃莉诺史密斯（Elinor Smith）的话说，“阿米莉亚简直和穆罕默德?阿里（Muhammad Ali）一样害羞。2001年，89岁的埃莉诺史密斯还进行了飞行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The abuse of the term "icon" incites iconoclasm, or ought to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于“偶像”这个词的滥用，所谓的偶像就不会再成为偶像，或者说理应不会再成为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earhart was saintlike only as a martyr to her own ambition, who became an object of veneration and is periodically resurrected-her unvarnished glamour, like a holy man's body, still miraculously fresh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埃尔哈特宛如圣徒一般，为了自己的抱负而不幸殉难，她成为公众崇拜的对象，并且周期性地“复活”，大家时而不时地把她的事迹再拿出来说一说。她那质朴的魅力，就像一个圣人的身体依然奇迹般地鲜活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Embraced by feminists, she was featured on a 1976 cover of Ms., which promised a story "BETTER THAN THE MYTH." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她极受女权主义者的的爱戴，1976年，她亮相于Ms.杂志的封面，该杂志许诺要登篇关于她的“超越神话”的文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Read closely, however, Earhart's life is, in part, the story of a charismatic dilettante who lectured college girls about ambition yet never bothered to earn a degree. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，细细读来，在别的领域，她是一个魅力十足的“外行”，这也是埃尔哈特的生活很大的一部分。她曾经就志向抱负给女大学生做过演讲，她自己却没有完成自己的学业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the nineteen-nineties, Apple and the Gap both featured her in ad campaigns-the Gap to sell khaki trousers, Apple to promote its corporate image of nonconformity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20世纪90年代，她活跃在苹果公司和Gap公司的广告活动上。她为Gap公司代言卡其裤，为苹果公司提升开拓创新的公司形象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The slogan that appeared with a gauzy, doe-eyed photograph of Earhart in a white helmet was "Think Different." (She thought of herself not only as different but as a special case to whom most ground rules didn't apply.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广告口号“不同凡想” 出现在埃尔哈特一张朦胧的照片上，她头戴白色头盔，眼睛又大又黑。（她自认为不仅与众不同，而且很多基本规则都不适用的特例。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Three Hollywood movies, starring Rosalind Russell, Diane Keaton, and Amy Adams, have told a version of her story, and a new one, "Amelia," directed by Mira Nair, with Hilary Swank in the title role and Richard Gere as Putnam, will open in October. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有三部好莱坞电影讲的都是她的故事，主演分别是罗莎琳德拉塞尔（Rosalind Russell）、黛安基顿（Diane Keaton）以及艾米亚当斯（Amy Adams），而且每个电影讲述的故事也不尽相同。最新拍摄的《阿米莉亚》由米拉?奈尔Mira Nair执导，希拉里斯旺克（Hilary Swank）饰演主角埃尔哈特，理查德基尔（Richard Gere）饰演普特南，将于十月上映。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The script is based on two biographies, "The Sound of Wings," by Mary Lovell (1989), and Butler's definitive "East to the Dawn" (1997); and on "Amelia Earhart: The Mystery Solved" (1999), by Elgen M. Long, a veteran pilot, and his wife, Marie K. Long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该片以三本关于埃尔哈特的书为脚本。其中两本为传记，一本是玛丽?洛弗尔（Mary Lovell）执笔的《翅膀的声音》（The Sound of Wings）（1989年）。另一本是巴特勒（Butler）著作的《东到黎明》（East to the Dawn），这本更近似真实的埃尔哈特。还有一本是《阿米莉亚埃尔哈特：揭开尘封的秘密》（Amelia Earhart: The Mystery Solved）（1999年），该书由资深飞行员Elgen M. Long和他的妻子Marie K. Long完成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(All three books are being reissued this fall.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（今年秋天，所有这三本书都再版着。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were, in fact, other famous female aces in the early decades of aviation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，前几十年，飞行领域出现过其他女性佼佼者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All of them were daring-some were said to be better pilots than Earhart-and many of them were killed and forgotten. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们都非常勇敢，在公众眼里，甚至有些是比埃尔哈特更好的飞行员。然而，她们中的许多都遭遇了杀身之祸或者已被世人遗忘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Earhart became an "icon," it was, in part, because women who aspired to excel in any sphere, at a high altitude, looked upon her as their champion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果埃尔哈特成为“偶像”，部分是因为女性在任何领域都能游刃有余，作为冠军站居胜峰之巅，供世人瞻仰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was also because the unburied come back to haunt us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但也因为这些有着死亡之谜的，对我们来说，吸引力确实很强。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earhart had already tried to circle the globe once in 1937, flying westward from Oakland, but she had crashed taking off in Honolulu. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1937年，埃尔哈特就已经尝试过一次环绕地球的飞行，从奥克兰出发，向西飞去。但她在檀香山起飞时，飞机坠毁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Determined to try again, she coaxed additional funds from her sponsors, and "more or less mortgaged the future," she wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她决心再试一次，她说服赞助商，继续为自己提供资金支持，而且她“多多少少抵押了自己的未来”，她如是写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The plane, hyped as a "flying laboratory" (it wasn't clear what she planned to test, beyond her own mettle and earning power), was shipped back to California for repairs, and, once Putnam had renegotiated the necessary landing clearances and technical support, she and Noonan set off again, on June 1st, this time flying eastward-weather patterns had changed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被炒作为“飞行实验室”的飞机，被运回加州维修。（她要测试什么？这一点不为人知，这一点超出了她自己的勇气和挣钱的能力。）如果普特南的重新谈判获得了必要的着陆许可和技术支持，她和努南（Noonan）就会再次起飞。6月1日，由于天气情况发生了变化，这次是向东飞行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A month and more than twenty-two thousand miles later, they had reached Lae, New Guinea, the jumping-off place for the longest and most dangerous lap of the journey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个月后，他们的飞行里程已经超过了二十二个万英里后，到达了新几内亚的莱城（Lae，New Guinea）。对于这个里程最远也最危险的环形飞行来说，这是个非常偏远的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Electra's fuel tanks could keep them aloft for, at most, twenty-four hours, so they had almost no margin of error in pinpointing Howland, about twenty-five hundred miles away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伊拉克特拉”号的油箱至多能让他们再飞二十四小时，所以，他们对霍兰德定位不允许出现丝毫的误差。霍兰德距莱城约二十五几百英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Noonan was using a combination of celestial navigation and dead reckoning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>努南将天文导航和航位推算相结合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had a radio, but its range was limited.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有一部收音机，但其能收到的频段很有限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early on July 2nd, on a slightly overcast morning, about eighteen hours into the flight, Earhart told radiomen on the Itasca, a Coast Guard cutter stationed off Howland to help guide her down, that she was flying at a thousand feet and should soon be "on" them, but that her fuel was low. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7月2日，天气略阴。一大早，大约飞行了18个小时之后，埃尔哈特联系上了在伊塔斯克湖的无线电人员。他们驻扎在豪兰岛的海岸警卫队快艇上，来帮助她成功降落。当时，她在距地面一千英尺的高度飞行，很快就会飞到这些人的“上空”了，但是飞机燃料太少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the Itasca had been broadcasting its position, so that Noonan could take his bearings and, if necessary, correct the course, they apparently couldn't receive the transmissions, nor apparently could they see the billows of black smoke that the cutter was pumping out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管伊塔斯克湖的工作人员在广播里说了他们的位置，以便努南判断方向，如果必要的话，努南应该拨正航向，但是，努南他们似乎并没有收到这一信息，也似乎没有看见从快艇冒出的滚滚黑烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earhart's last message was logged at 8:43 A.M. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有记录表明，埃尔哈特最后的信息是于上午8:43发出的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No authenticated trace of the Electra, or of its crew, has ever been found.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伊莱克特拉”号或者说机务人员的踪迹，实属未解之谜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After twenty-five years of research, the Longs concluded that "a tragic sequence of events"-human error, faulty equipment, miscommunication-"doomed her flight from the beginning," and that Earhart and Noonan were forced to ditch in shark-infested waters close to Howland, where the plane sank or broke up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经过二十五年的研究，朗氏夫妇得出结论，此次飞行纯属“一连串事件的顺序造成的悲剧”，人为失误、设备故障、信息误传，所有这一切“从一开始就注定了她的这次飞行”。此外，埃尔哈特和努南在豪兰岛附近的的水域迫降，这一带经常有鲨鱼出没，而飞机也恰恰就是沉没或者爆炸于此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is, however, an alternative scenario-a chapter from Robinson Crusoe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，还有一种情况，就是像《鲁宾逊漂流记》（Robinson Crusoe）中的某章节那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is supported with methodical, if controversial, research by Ric Gillespie, the author of "Finding Amelia" (2006), which has just been republished.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这样说是有争议的，这一点得到了里克吉莱斯皮（Ric Gillespie）研究的有力证实。《寻找阿米莉亚》（Finding Amelia）（2006年）的作者就是里克?吉莱斯皮，这本书刚刚再版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gillespie is a former airline crash investigator who is notably unimpressed with his subject. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉莱斯皮曾经是一名飞机坠毁事故调查员，他是个很理性的调查员，对自己的研究课题一般无动于衷，这一点是显而易见的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(He describes Earhart as an "average" pilot and has little interest in her life or achievements.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（他将埃尔哈特描述为一个“一般”的飞行员，而且，对她的生活和成就没有多大兴趣。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has distanced himself from the kooks and the conspiracy theorists who have suggested, at different times, that Earhart was on a hushed-up mission to spy on the Japanese, who interned her; that she became Tokyo Rose; or that she returned secretly to America and lived out her days as a housewife in New Jersey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在不同的时间，有些人说过埃尔哈特肩负着在日本作间谍的秘密使命，后来日方拘禁了她，她成了一朵东京玫瑰。还有的人说她偷偷返回美国，嫁了人，成了家庭主妇，余生都在新泽西度过。他觉得这些人都是怪人或者阴谋理论家，他让自己远离这些人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1988, he launched the Earhart Project, which is devoted to solving what he calls the "Holy Grail of aviation mysteries." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1988年，他推出了“埃尔哈特”项目，致力于解决他所说的“圣杯飞行奥秘”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gillespie recently announced that next May he will lead his ninth expedition to the Pacific island where he believes that Earhart landed, and, for a while, survived as a castaway.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近，吉莱斯皮宣布，明年他将带领他的团队到太平洋岛屿，进行第九次探险调查。他认为埃尔哈特着陆了，曾经一度作为漂流者活着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nikumaroro, formerly Gardner Island, is an atoll about four hundred miles southeast of Howland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼库马罗罗岛（Nikumaroro），原为加德纳岛（Gardner Island），是个环礁岛，距霍兰德东南约四百公里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At low tide, it is surrounded by a broad, flat apron of coral where a plane could safely touch down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>退潮时，这个岛四周是宽阔平坦的珊瑚礁，可以容纳一架飞机安全地降落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The interior is covered with dense tropical vegetation bordering a lagoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>内部覆盖着茂密的热带植被，一直连绵至一个濒海湖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1929, a steamer went aground on the reef, and when its crew was rescued it left behind a cache of provisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1929年，一艘轮船搁浅于这个珊瑚礁上。船员被救出时，该船留在预备缓存处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The atoll was deserted until 1938, when it became one of the last outposts of the British Empire to be colonized, and was settled by natives of the Gilbert Islands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1938年前，此环礁一直都荒无人烟。1938年，它成为大英帝国殖民统治的最后几个哨所之一，从此，吉尔伯特群岛上的土著人定居于此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(A prolonged drought forced the inhabitants to abandon Nikumaroro in the nineteen-sixties.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（20世纪60年代，迫于长期的干旱，居民不得不离弃尼库马罗罗岛。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1940, a colonial administrator and his work party found a liqueur bottle and some corks, a human skull and some bones, the partial sole of a woman's shoe, parts of a man's shoe, and a sextant box. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1940年，一位殖民地军官和他的工作班子发现了一个利口酒瓶、一些瓶塞，一个颅骨和一些尸骨，一只女性鞋子鞋底的碎片、一只男性鞋子的残片，还有一个六分仪盒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Noonan had a mariner's sextant on board.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（在飞机上，努南有个六分仪）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A year later, the skull and the bones were examined by a British doctor on Fiji. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一年后，一名英国医生在斐济对这个颅骨和这些尸骨进行了检查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The relics subsequently vanished, but when the doctor's notes came to light, in the nineteen-nineties, they were reviewed by forensic anthropologists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后，这些遗骨消失了，但是，20世纪90年代，当那名医生当时做的笔记公布于世的时候，人们发现，已经有人类学法医专家研究过那些遗骨。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

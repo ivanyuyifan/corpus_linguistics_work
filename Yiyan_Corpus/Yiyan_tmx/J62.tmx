@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200217T135718Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before proceeding further it is necessary to give some general indication of the kind of economic life that is led by Kachins and their Shan neighbours.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在进一步论述之前，有必要先对克钦人及其邻族搏人的经济生活作一概括性的介绍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Map 1, which shows the general location of the Kachin Hills Area, shows also the geographical position of the other major categories among the Hill Tribes of Burma, namely the Karens, the Chins, the Nagas, the Palaungs, the Wa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地图1展示的是克钦山区的大致位置，同时也展示了缅甸其他几个主要山地部落的地理分布，即克伦族（Karens）、钦族（Chins）、那加族（Nagas）、崩龙族（Palaungs）、佤族（Wa）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In essence Burma comprises the drainage area of the Irrawaddy and the Lower Salween. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缅甸基本上包含了伊洛瓦底江流域和萨尔温江下游流域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The immediate neighbourhood of these great rivers and of their principal tributaries is low lying, flat and fertile; away from the rivers the country is generally mountainous, often precipitous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些大河及其支流的邻近地区有平坦而肥沃的低地；远离河流之处基本上是山地，而且往往很陡峭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the areas of heavy rain fall the normal vegetation cover is a dense semi-tropical monsoon forest; in the drier zones we find scrub, grassland and pine forest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>降雨量大的地区所覆盖的植被通常是茂密的亚热带季风雨林；在较为干旱地区，我们可看到灌木、草地和松林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An important distinction here is that in the rainbelts a dense secondary growth of jungle quickly replaces any abandoned clearings. In the drier zones on the other hand virgin forest, once cleared, tends to revert to grass or coarse scrub. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里有一个重要的差别：在多雨地带，被弃的开垦地上会迅速地长出茂密的次生林；而在较干旱的地区，原生林一旦被开垦，往往会变成草地和芜杂的灌木丛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the absence of stock animals or systematic manuring, the continuing fertility of the land is thus much higher in the rainbelts than in the dry zones.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于没有放牧或系统的施肥，多雨地带土地的持久肥力要比干旱地区高得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Along the river valleys irrigated rice cultivation is easy and cart tracks are readily constructed, but in the mountains which separate the valleys the construction of either roads or rice terraces is a feat of major engineering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在河谷地带种植水稻较便利，而且田埂车道也易于修建，但在把河谷隔开的山区，无论修路还是建梯田都属于需要高超技艺的大工程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is hardly surprising, therefore, that the technical and economic organisation of the hill-dwelling peoples is very different from that of the peoples of the valleys, nor is it very surprising that the hill peoples in different parts of Burma all resort to much the same kind of technical device to overcome the difficulties of their environment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此不难理解，山民的技术和经济组织与河谷的人群大相径庭，同样不难理解的是，在缅甸不同地区的山民都釆用大致相同的技术来克服环境给他们带来的困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The contrast between the highlanders and the lowlanders is thus in the first place ecological. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>山地人和平地人之间的差异首先在于生态上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if the two categories of population spoke the same language one might well expect to find marked cultural differences between the two groups and, on analogy with countries such as Scotland and Northern Italy, one might also anticipate a jealous and mutual contempt between the rival parties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使两个族群说同样的语言，在他们之间也很可能发现明显的文化差异，类似于苏格兰和意大利北部地区，可以想见在两个对抗的群体之间也可能相互嫉妒和相互轻视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And such is the case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里的情况就是如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only peculiarity about Burma is that the cultural contrast between the highlanders and the lowlanders is so very marked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缅甸唯一的特殊性在于山地人与平地人之间的文化的差异相当显著。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two groups do not share a common language and they share few traits of material culture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个族群不说同种语言，他们也很少有共享的物质文化特质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In matters of household and technical equipment, almost the only objects which are common to both groups in the Kachin Hills Area are such things as iron cooking-pans and tripods which both parties purchase from the Chinese. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在家庭用具和技术设备方面，克钦山区两类人群之间唯一共同的物品几乎就只有铁锅和三脚架，这都是从汉人那里购买来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet this is understandable enough, for technological equipment is necessarily adjusted to the conditions of life, and the highland and lowland mode of living is sharply contrasted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过也容易理解，因为技术器具必然与生活方式相适应，而高地人和低地人的生活模式截然相对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When one comes to the aspects of culture which are of “ritual, rather than "technical' significance matters are rather different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们考虑到文化的“仪式”层面，而非“技术”上重要的事项时，情况就相当不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dress of the highland males for example, is nearly everywhere a scruffy imitation of that of the local lowlander males, but women's dress is sharply contrasted as between highlanders and lowlanders and shows many regional variations among both groups. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，山地男子的服装，几乎在各地都是当地平地人男装褴褛的翻版，但山地和平地女子的服饰则截然不同，展现了他们之间的许多地区多样性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This sex difference is not without its sociological significance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一性别上的差异并非没有社会学上的重要意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is one aspect of a theme that recurs throughout this book, namely that the highlander Kachins are constantly subject to contra dictory pressures both to imitate and to oppose their valley dwelling neighbours. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在贯穿本书的论题中这是其中一个层面，即山地克钦人受制于双重的、相互矛盾的压力，即同时模仿和反对他们的河谷近邻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Incidentally much of the ethnography of Burma has been written by people who have assumed that differences of dress denotes differences of ‘race’! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而许多作者容易在其研究缅甸的民族志中把服饰的差异看作“种族”差异的表现！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this basis members of more than a dozen ‘races’ turn up at Namhkam market in the Northern Shan States every five days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照这样的话，每隔五天北部掸邦的南坎（Namhkam）集市上就会岀现一打以上的“种族”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in this chapter we are concerned with ecology, not with politics or race. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但本章我们关注的是生态环境，而非政治或种族问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Briefly the technological situation can be summarised as follows: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>技术状况可简要概括如下：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The valley-dwelling peoples, that is the 'Burmese' and the 'Shans', mostly practise wet rice cultivation with moderate though adequate efficiency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>河谷住民，即“缅人”和“掸人”，大多数是种植水稻，生产能力虽属中等但也足够所需。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This permits a system of continuous cultivation and continuous settlement even in areas where the annual rainfall is relatively slight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就使得他们甚至在年降雨量相对少的地区也可以连续耕种并长期定居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nearly all these valley peoples make use of animals for cultivation and trans port. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几乎所有这些河谷住民都在耕作和运输中使用牲畜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except in the central ‘Dry Zone’ of Burma, the mean density of population is nearly everywhere so low that land resources are ample. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了在缅甸中部的“干旱地带”，几乎其他所有地区的平均人口密度都很低，因而土地资源充足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under normal conditions—that is in the absence of war and epidemics and similar disasters—the valley peoples can always easily raise more rice than is immediately required for the consumption of the actual cultivators. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在通常情况下一一没有战争、疫疾流行和类似灾害的时期——河谷住民往往可以轻易地获得多于实际耕作者自己所需消费的粮食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This secure economic basis permits the development of trade and small scale urbanisation and a moderate degree of general cultural sophistication. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种经济基础上的保障促成了贸易、小规模的城市化以及中等水平的总体文化发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a broad generalisation it may be said that the valley peoples constituent a semi-literate peasantry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果进行宽泛的概括，可以说河谷住民构成了一个半识字的农民阶层。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an economic sense they live at a considerably ‘higher’ level of organisation than their neighbours in the surrounding mountains.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在经济学意义上而言，他们生活的组织水平要颇“高于”他们周围山区的邻人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In contrast, the normal shifting cultivation techniques practised by the hill peoples can only be expected to yield a surplus under exceptional conditions of low population density and specially favourable terrain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此相对，山地人所采用的游耕轮歇（shifting cultivation）技术，只有在低人口密度以及特别有利的地形等特殊条件下，才可能带来收成的盈余。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wherever this technique proves inadequate, the hill peoples are forced into expedients of various kinds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些单靠此耕作技术不足以谋生的山民就不得不采用各种不同的权宜之计。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some groups, such as the Central Chins, have developed quite elaborate schemes of crop rotation; others, notably the Angami Nagas and certain Kachin groups, have gone in for the construction of irrigated rice terraces cut out of the mountainside; others again have found a solution to their difficulties by achieving some form of political and economic alliance with their more prosperous neighbours of the plains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些族群，例如钦族人，发展了相当精致的轮作制（schemes of crop ro tation）；有些族群，特别是昂噶密的那加人和某些克钦部落，沿山开辟了灌溉梯田种植水稻；另一些族群，通过与那些比他们富裕的平原地带邻人建立某种形式的政治和经济联盟，也解决了其难题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This latter kind of symbiosis has assumed a variety of forms at different times in different places. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这后一种共生关系在不同地区和不同时期采用了多种不同的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the mountaineers are sometimes regarded as the political over- lords of the valley, so that the valley people pay a feudal rent to the hill chieftains; sometimes the hill peoples merely exploit the fact that they control the cross-country communications between the valleys and levy a toll on passing caravans; some times the valley peoples have been willing to pay 'blackmail' provided the hillmen agreed not to raid the valley crops; sometimes the valley chieftains have engaged the hillmen as mercenaries on a large scale.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，有时山民被认为是河谷的政治领主，因而河谷住民应向山区的首领上交封建赋税；有时山民利用其占据河谷之间的山区要道，向过路商队收取买路钱；有时则是河谷居民愿意支付山民“勒索”的费用，只要后者保证不来掠夺河谷的庄稼；有时是河谷首领大规模地招募山民去充当雇佣兵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All such transactions are related to the fact that as a general rule the valley peoples are producers of rice surplus; to their own requirements, while equally, as a general rule; the hill peoples suffer from a rice deficiency which must somehow be made good from outside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有这样的交易都与这一事实有关：通常河谷人所生产的粮食除自己食用外还有剩余，而通常山民的粮食不足以自给，需要以某种方式靠外部来解决。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This crucial economic fact, is of the utmost importance for the understanding of all long term social developments throughout the Burma area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一关键的经济事实对于理解整个缅甸地区长期以来的社会发展极为重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It applies with particular force to the zone I am calling the Kachin Hills Area.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一点在我称之为克钦山区的地带特别适用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this zone we have already seen that, at first approxima tion, the linguistic and territorial category Shan corresponds to ‘valley dwellers and wet rice cultivators’, while the vague category Kachin denotes the highlanders.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们已经在开头的概述中了解到，这一地区的掸人在语言和地域范畴上相当干“河谷人和水稻种植者”，而克钦这个模糊的范畴相当于山地人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mountain dwelling Kachins, however, do not all support themselves in the same way and we need to consider the different techniques employed and the different kinds of economy that result.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>居住在山地的克钦人，并不以相同的方式维持主计，我们需要考察他们所使用的不同技术及其决定的经济类型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I propose to distinguish three types of hill agriculture which I shall call (a) monsoon taungya, grassland taungya, (c) irrigated hill terraces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我将区分三种山地农业，分别被称为：（a）季风通垭（taungya）；（b）草地通垭；（c）灌溉梯田。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The merits and limitations of these different techniques are very relevant to our discussion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这三种不同技术各自的优缺点与我们所讨论的问题密切相关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The term taungya (hill field) is a Burmese term which des cribes a technique resembling that described as jhum in the literature of Assam and as ladang in the literature of Malaya. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通垭（山中的田地）一词是缅甸语，所代表的技术类似于关于阿萨姆邦文献中的朱亩，以及关于马来亚的文献中的腊垱（ladang）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has been the subject of much learned abuse but not much careful observation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个问题一直以来在学术上多有误用而少有细致的观察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A geographer has recently described the procedure as follows:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一位地理学家最近如此描述通垭的程序：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In taungya cultivation the larger trees are felled and the jungle burnt over. The resultant clearing is cultivated with such crops as dry hill rice, maize, millets, buckwheat and opium poppy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在通垭垦殖过程中，先要砍伐大树并焚烧灌木，然后在清理出来的空地上栽种诸如旱山稻、玉米、黍米、养麦和罄粟之类的作物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the original fertility and that contributed by the wood ash are ex hausted (say in one to four years) the clearing is abandoned and reverts to tangled scrub and bracken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦土壤原有的肥力以及草木灰追加的肥力用尽（大约一到四年），开垦地便被废弃，还原为芜杂的灌木和蕨类植物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As it is easier to clear fresh forest than the regrowth long abandoned taungya is rarely returned to and villages often shift bodily when the suitable land in their neighbourhood is exhausted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于原始林要比次生林木容易清理，所以很少有人重新利用长久被弃的通垭，附近合适的土地肥力耗尽后，整座村寨就全部搬迁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Naturally these practices are attended with serious deforestation and soil erosion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些做法自然会造成严重的毁林和土壤侵蚀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This decidedly prejudiced account distorts the reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一明显带有偏见的记述歪曲了事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Map 2 shows the Kachin Hills Area subdivided on a climatic basis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地图2显示克钦山区根据气候可划分为三个区域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zone A is typical monsoon forest country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>A地带是典型的季风雨林地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here the temperatures and rainfall are such that abandoned forest clearings, unless grossly abused, will very rapidly become covered with a strong growth of secondary jungle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里的气温和年降雨量非常适宜，所以只要未被粗暴滥用，被废弃的开垦地会很快长出茂密的次主林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Throughout this area the Kachins have a clearly formulated theory of how taung- ya ought to be cultivated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个这一地区克钦人有一套明确的理论说明该如何进行垦植通埋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I call this procedure monsoon taungya. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把这一方法称为季风通垭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first requirement is that it should be cleared for one year only and then abandoned; the second that a piece of land which has been cleared once should not be cleared again for about 12 or 15 years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要求之一是耕作只能持续一年，然后休耕；要求之二是一块土地初次开垦之后的12或15年之内不应再次使用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If this procedure is followed, then there is no deforestation and negligible soil loss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果能遵循这样的程序，那么森林就不会遭到滥伐，土壤流失微乎其微。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In such conditions dry hill rice can be made to produce regular yields approaching those obtained from irrigated wet rice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这样的条件下，旱山稻的产量可接近灌溉水稻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such a procedure implies that every piece of land as it goes out of cultivation is fallowed for at least 12 years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种耕作方式意味着任何一块土地垦殖之后至少要休耕12年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each unit of population therefore requires a formidably large total area of farmland, and anything in the way of a large permanent closely packed village community will find itself many miles from some of its outlying property. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以每单位人群所要求的耕植总面积大得惊人，对于人口密集的永久定居型大村落社区，其边远田产会在方圆几英里之外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To avoid this, Kachin com munities very frequently consist of a cluster of small villages or hamlets widely scattered over the total community property.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了避免这种情况，克钦社区通常由一大群小村寨或小村庄组成，散布在整个社区的领地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a conflict here between the interests of military security, which call for large settlements enclosed within some kind of fortification, and the interests of economic convenience which call for small fragmented settlements situated close to the land used for cultivation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就存在着军事安全问题和经济便利问题上的冲突，考虑到前者，就会提倡有某种防御工事围绕的大规模定居点，考虑到后者则会提倡靠近各自耕作地的分散小定居点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>British Administrators fre quently complained at the Kachins fondness for splitting up their settlements into smaller and smaller villages, and it is probably the case that the establishment of an enforced Pax Britannica did encourage the further fragmentation of Kachin settlement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国殖民官员经常抱怨克钦人喜欢把他们的定居点分散为越来越小的村寨，这可能是因为英国强权下的和平促成了克钦居民点的进一步分散。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Groups, which formerly would have lived together for mutual protection within a common stockade, preferred, under the British, to hive off and live on their own lands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以前居住在一起使用共有围栏相互保护的群体，在英国人的统治下更愿意相互分离，居住在自己的土地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the few records we have concerning the size of pre-British stockaded Kachin villages do not suggest that the settlement pattern then was very different from what it is now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，少量关于英国统治之前克钦人带围栏村落规模的记载，并没有说明那时的聚落模式与现在有很大的差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, this is the point. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，这正是要点所在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the average density of the population over the whole region is very low, and although there would be quite enough land to go round if this population were evenly distributed, the population is not in fact evenly distributed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然整个地区的人口密度很低，而且如果人口均匀分布的话，土地供应也还充足，但实际上人口分布并不均匀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are local concentrations of population living at relatively high density. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>存在着一些地区性的聚落中心，人口密度相对较高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These concentrations are the result of past political events, such as local wars or external administrative interference; but, whatever their origin, they have the present-day consequence that there are a great many localities, even within the potentially fertile Zone A, where taungya is practised on a rotation cycle of substaintially less than 12 years and in which crops are grown on the same land for more than one season at a time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些聚落中心因以往的政治事件而形成，例如地区间的战争或外部的行政干预；但是，不论这其中的原由是什么，反正其后果是今天有许多地方，甚至在土壤潜在肥力高的A地带，通垭的休耕期实际上是少于12年的，而且在同一块土地上每次种植不止一季的作物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In such circumstances, taungya methods do definitely lead in the long run to erosion and declining fertility. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种情况下，通垭方式的确最终导致了土壤侵蚀和土壤肥力下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kachins them selves are well aware of this; they do not misuse their land by choice, they only reduce the fallow period of their cultivation cycle when local land scarcity makes it inevitable that they should do so.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克钦人自己很清楚这一点；他们并非有意滥用土地，只有在当地的土地匮乏所造成的不得已状况下，他们才缩短游耕轮歇中的休耕期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, the prosperity of certain parts of Zone A has been greatly affected in the past by the vicissitudes of the trade in special local products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，过去A地带中某些地区的兴衰在很大程度上收到当地土特产贸易情况变迁的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus amber and salt and india- rubber were, even within recent times, of major importance for the Hukawng Valley, though they signify little at the present time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>琥珀、食盐和天然橡胶对于胡康河谷曾经（甚至前一段时期还）非常重要，虽然现在已不然。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, the jade trade has been outstandingly erratic, while the iron and silver deposits of the Hkamti Long area, which were once of major local significance, are no longer considered worth exploiting at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此相似，玉石贸易也极其不稳定，而坎底弄“地区盛产的铁和银，曾经在当地贸易中有着重要的地位，现在也被认为根本没有开采价值。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

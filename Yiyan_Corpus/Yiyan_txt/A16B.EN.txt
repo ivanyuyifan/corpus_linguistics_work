@@ -1,0 +1,44 @@
+Why Windows 8 Tablets Will Surprise Everyone 
+Windows-based tablets haven¡¯t been treated kindly by the test of time. 
+Those released in the Windows XP era relied on wonky, stylus-based data entry, and even modern, touch-based tablets running Windows 7 are poor performers.
+Indeed, Microsoft has a troubled tablet history that the public isn¡¯t soon to forget. 
+This November, Forrester released a study that showed consumer interest in a Windows-based tablet dropped significantly this year. 
+At the start of 2011, 46 percent of potential tablet owners wanted a Windows device. 
+By Q3, that number slipped to 25 percent.
+Forrester¡¯s report stated, ¡°Windows 8 hasn¡¯t entered the consciousness of tablet buyers yet.¡± 
+That¡¯s a shame because Gadget Lab has seen a Windows 8 tablet in action, and the experience opened our eyes to just how useful ¡ª and, yes, even fun ¡ª a Windows 8 tablet might be. 
+Sure, Microsoft was demoing a mere reference design, but what we saw was so intriguing, we¡¯re legitimately excited to see final, shipping products.
+Windows 8 is being developed from the ground up to elegantly run on both traditional computers (desktops and notebooks) as well as touch-based tablets. 
+The OS can run on either ARM or x86 processors, though apps written specifically for the x86 desktop environment won¡¯t be able to run on ARM-based mobile devices.
+Is this a terrible handicap? No, not based on what we¡¯ve seen. 
+Windows 8 tablets will run an updated version of the Metro UI found on Windows Phones, and the UI appears to transfer remarkably well to larger touch screens. 
+You¡¯ll get that same fun, friendly and animated ¡°Live Tile¡± home screen found on Windows Phones, but with (theoretically) much more processing power to drive more powerful apps.
+Windows 8 will go beta in February, which would peg a full software release around June 2012. 
+Everything we¡¯ve seen thus far suggests that Microsoft has really taken the time to develop a platform that will succeed on tablets, without abandoning the company¡¯s PC roots.
+Still a skeptic? You should be. 
+Windows tablet wanna-haves have been burnt before. 
+But please consider these four reasons why Microsoft¡¯s upcoming push into the tablet space may surprise everyone by ultimately proving successful.
+Microsoft Has a Chance to ¡®Think Different¡¯ 
+¡°If Windows is to have any hope, its product strategists must not only bring new features to the platform but also must fundamentally reinvent the experience,¡± analysts J.P. Gownder and Sarah Rotman Epps say in the Forrester report.
+Many current upstart tablets are just iPad copycats. 
+They share essentially the same UI (multiple pages of identically sized home screen icons), they operate with nearly identical touch gestures, and they basically look the same. 
+But by being such a relative latecomer to the modern tablet party, Microsoft has a great opportunity to look at what¡¯s not being done, what can be done better, and what can be done differently.
+And all this observation can inform a better Windows 8 tablet. 
+Take, for example, Windows 8¡äs ability to switch from a tablet UI to a desktop UI. This could be a winning innovation.
+¡°We are reaching a point where ARM platforms can deliver us desktop experiences in mobile form factors,¡± mobile developer Kelly Sommers told Wired.com. 
+If this is true, and if Windows 8 tablets in desktop mode can overcome the performance issues that plagued Windows 7-based tablets, Microsoft might strike gold by delivering two operational environments for the price of one.
+¡°In my opinion, the ideal user experience allows both [a desktop UI and touch-based UI], but not at the same time,¡± Sommers told Wired.com. 
+¡°What if you dock your tablet, and it becomes a desktop experience on your monitor, with keyboard and mouse, for non-power uses? 
+Undock your tablet, and it transitions to a tablet experience.¡±
+Indeed, who wouldn¡¯t want a dual-OS device that can serve as both a casual tablet and as a no-excuses productivity computer? Neither Apple nor the Android contingent have answered this very real consumer problem.
+Windows Phone Mango Shows Microsoft Can Do Mobile Well 
+Microsoft had a rocky start entering the mobile space, but has finally found its footing with Windows Phone 7 (and in Mango, Windows Phone 7.5, in particular). 
+Consumers aren¡¯t flocking to Windows¡¯ new mobile OS like they are to iOS or Android, but if you haven¡¯t gotten a chance to try it out, you should ¡ª it¡¯s very well done. 
+For a first-hand look, open up http://aka.ms/wpdemo in your mobile browser to give it a whirl.
+¡°I think that what Microsoft learned with Windows Phone will carry over and influence Windows 8,¡± Display Search analyst Richard Shim says.
+Microsoft is working hard to reach out to developers and provide support, marketing guidance, and app visibility through programs like BizSpark and Mobile Acceleration Week to fill out its still meager app offerings. 
+These programs are by all accounts successful, so we can expect that Microsoft will continue them for Windows 8.
+Indeed, if Windows 8 is as well-executed as Windows Phone Mango, it will be a positive experience for users. 
+That¡¯s something most Android tablets can¡¯t claim.
+And therein lies a very powerful strong point for Microsoft: The Windows Phone platform may not have a copious catalog of apps, or even that many adoptees, but most everyone who actually uses a Windows Phone enjoys the essential OS experience. 
+So, if Windows 8 tablets can somehow get a foothold among vocal opinion leaders, consumer adoption could self-perpetuate as users evangelize the tablets on Microsoft¡¯s behalf.

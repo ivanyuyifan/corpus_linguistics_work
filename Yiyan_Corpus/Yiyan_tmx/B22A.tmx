@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn, Mozart, Beethoven, similarities &amp; differences  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿，莫扎特，贝多芬，共性与差异
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The three composers, Haydn, Mozart, and Beethoven, are considered the triumvirate of composers of music in the classical style. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿、莫扎特、贝多芬，被认为是古典主义时期作曲家的“三巨头”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, these three men gave us what is by far, the greatest music of their time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>的确，今天的我们仍然需要从他们那里寻找精神慰藉。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Schubert is sometimes added to these three names, though I won't discuss him here for the following reasons. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>舒伯特有时候会被排在他们的后面，但这里笔者不对他展开讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Schubert composed mostly in the new Romantic style, rather than the classical style, until the last few years of his very short life. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在他短暂的生命的最后几年，他的作品更代表了新的浪漫主义的风格。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He left us with some great large-scale masterpieces, though not nearly as many as the other three composers named above.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管他也留下了大量恢弘庞大的杰作，但数目还是远不及上述三人。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I want to focus mainly on the differences between the three composers, but first I should briefly discuss the similarities.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在重点指出这“三巨头”之间的差异之前，笔者先简要讨论他们之间的共同点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> The classical style is a style in which form plays a more important part than earlier or later styles. The use of sonata form is almost the defining characteristic of the style .(See my blog on sonata form). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>古典主义能够作为一个承上启下的历史阶段，奏鸣曲式的应用起到了首当其冲的作用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sonata form was so pervasive that it invaded every genre of music of the time, even opera and church music. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>且对其他音乐体裁的影响也是几乎无孔不入，甚至包括歌剧和宗教音乐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The three composers under discussion here each created works that are a hybrid of other forms and sonata form. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这三位作曲家的创作则综合了奏鸣曲式与其他音乐形式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Rondo form and variation form were often blended with sonata form.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>回旋曲式和变奏曲式也是奏鸣曲式延伸发展的产物。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To put it simply, sonata form begins with simplicity and tonal stability, builds in tension towards a middle section, and reduces the complexity and tension in the last section. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>简而言之，奏鸣曲从一个简单和稳定的主调开始，进而在中段发展为紧张的冲突，在结尾时这种冲突又回归和谐。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The climax is always in the middle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>高潮也往往存在于中段部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That is where the most complex textures are usually found, as well as the most far-ranging key changes, and the most agitated rhythmic patterns.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个段落有寻常意义上最为复杂的细节、深远而广泛的关键转折，还有最为激越的节奏模式。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn did not create sonata form, but he was a master of it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿并非是奏鸣曲的创始人、但却是其中的行家里手。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His grasp of form was excellent, and at the same time, he took a few liberties with his conception of it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他对其内涵完美精准的把握可以让他进行自由的发挥。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn was fond of the false recapitulation. A false recapitulation is a device that can be used near the end of the development section of a sonata form movement. It is a way of fooling the listener into thinking the recapitulation has begun, when it in fact has not begun, and the music is still in the harmonically unstable area of the development section. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿热衷于写一些在可用于展开部结尾时使用的假再现部，捉弄听众，让他们觉得音乐已进入再现部，可是事实上却没有，那呈现出来的是一个不稳定的和声。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course such a thing as a false recapitulation must be brief in order to be effective. Very soon after fooling the listener, the music will be in the actual recapitulation.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然假再现部只是为了拿来开玩笑的把戏，之后很快音乐便会进入真正的再现部。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aside from a false recapitulation, Haydn was fond of surprising the listener with many unexpected turns and twists. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除了假再现部，海顿也乐于利用一些出人意料的急转为听众们制造惊喜。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sudden key changes, unexpected shifts of rhythm or harmony, a phrase that leads into something totally different than what is expected; these are a few items in the bag of tricks that Haydn had up his sleeve. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比如突如其来的关键转换、毫无预兆的节奏或和声变化、还有把音乐引向预期之外的走向的乐句；这些小把戏对海顿而言可谓信手拈来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was a genius at surprising the listener with unexpected things, yet still adhering to sonata form. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他是一个肯为听众制造惊喜的天才，当然他仍肯一如既往地坚持使用奏鸣曲。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His music is full of idiosyncrasies and eccentric ideas. He experimented constantly with new ways of surprising listeners. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的音乐充满了古怪的特质和想法，而且还在不断地尝试捉弄听众的新点子。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He liked to startle the listener with a sudden and unexpected rest, or a fermata that unexpectedly breaks the action. He liked to closely juxtapose remote keys, suddenly changing from one key to a distant one, with no preparation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他喜欢在一些意外的停顿处给听众一个突然的惊愕，一个戛然而止的长音，对关键主题的掌控，以及毫无准备地将一个主题转换到另一处。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart was more apt to prepare the listener for the intrusion of a remote key by gradually introducing it.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而莫扎特则是对音乐做了循序渐进的规划而引导听众更容易接受。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn was fond of taking a simple motif or germ in one of the themes of a movement and using it as sort of a springboard from which emerges many different musical ideas throughout the movement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿喜欢拿一个简单的主题或一个乐章中一个主题的小元素作为发展出不同音乐灵感的跳板。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many of his movements are monothematic. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的很多乐章是单主题的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact one French critic wrote that Haydn only needs one theme to create a symphonic movement while lesser composers needed several. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个法国评论家提到海顿及那些不重要的作曲家只需要一个主题就可以写出一个交响乐章。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart was certainly not a "lesser composer," yet he was fond of using more than one or two themes in a movement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而莫扎特显然不是这种“不重要的作曲家”，他喜欢在一个乐章里使用一两个或更多的主题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart had a knack of using several themes in one movement, yet at the same time, creating a movement that in no way lacks in unity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莫扎特有在一个乐章里使用多个主题而不会让音乐听起来如一盘散沙的窍门。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first movement of his so-called Paris Symphony (no.32) has a wealth of themes, yet never sounds diffuse or lacking in unity.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他在巴黎时期的交响曲（第32号）的第一乐章则充满了大量的主题，但听起来却毫不令人觉得奇怪和缺乏整体感。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It has been pointed out in many books that Beethoven liked to combine Haydn's monothematic technique with Mozart's use of multiple themes, and that he achieved this by way of creating a second theme that sounds like a variation or outgrowth of the first theme. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很多书里都讲到贝多芬喜欢综合海顿的单主题与莫扎特的多主题，于是成功提取出听起来如第一主题经过变奏而生的第二主题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is some truth in this statement, though like all sweeping generalities, it is an inadequate statement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管这只是笼统的泛泛而谈但多少有些道理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some of Beethoven's movements can be analyzed in that manner, such as the opening movement of Symphony no 5, but Beethoven's methods were quite varied and diverse.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些贝多芬的作品的乐章是可以按这个说法分析的，比如在第五交响曲的开头，但他所使用的技法则更多而且广泛。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart is a contradiction in that he was more conservative and followed the "rules" much more than Haydn, yet his music is incomparable. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莫扎特在保守地遵循“教条”和追随海顿方面是非常矛盾的，但他的音乐却是无人可比的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn was very much given to surprising, and even shocking the listener, yet Mozart rarely did this. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿喜欢制造令听众惊愕的效果，莫扎特却不。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His music is more regular and well behaved. Yet within the confines of the boundaries he seemingly imposed on himself, Mozart left us many incomparable masterpieces.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的音乐规则而工整，在这样充满规则的界限内他极大地强化了自己，并赠与了我们最为无与伦比的杰作。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn was apt to present his themes in the recapitulation in a different order than they were presented in the exposition, and sometimes did not present his themes verbatim in the recapitulation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿倾向于令主题在再现部中以不同的顺序或者非完整地呈现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart rarely reordered his themes, and almost always repeated them verbatim. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而莫扎特却不会为他的主题重新排序，而是不断完整地再现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mozart could afford a more unaltered repetition of his themes because his themes tended to be full-blown lyrical melodies.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>莫扎特可以不断重复他的主题因为他的音乐总是有强烈的旋律性和抒情性。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When it comes to piano trios, string quartets, and symphonies, Haydn left us more great masterpieces than Mozart, though the last three symphonies by Mozart are exquisite masterpieces, equal to or surpassing any symphony of Haydn.. Of course it isn't fair to compare the oeuvre of a man who died just before his 36th birthday with that of a man who lived to be 77.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管莫扎特最后的“三大交响曲”足以与海顿的任何一部交响曲平起平坐甚至有过之而无不及，但谈到钢琴三重奏、弦乐四重奏以及其他的交响曲，海顿比莫扎特留下了更多的经典，当然拿一个活了不到36岁的人和一个活到了77岁的人相比，这是不公平的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In opera Mozart was unsurpassed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>歌剧方面莫扎特则无人能比。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn openly admitted that Mozart's operas were far greater than his own. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿也公开承认莫扎特的歌剧要比自己的更好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The classical concerto being so close in style to the classical opera, composers who were successful in one were usually successful in the other. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而古典歌剧的风格与古典协奏曲类似，作曲家们在这个方面的成功在另一个方面也往往表现不俗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This goes a long way toward explaining why Mozart was a composer of such great concertos, while Haydn's concertos, for the most part, are mediocre works like his operas. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这也许就可以解释为什么莫扎特同样也可以写出伟大的协奏曲，而海顿的协奏曲、连同他的歌剧，都不过是泛泛的平庸之作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The one concerto by Haydn, by the way, that I find to be a great masterpiece is his trumpet concerto. Though more, conservative than the usual work of Haydn, his trumpet concerto is a wonderful piece and can easily take its place beside the great trumpet concerto by Hummel.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>顺便一提，海顿最伟大的协奏曲当属他的小号协奏曲（降E大调），虽然比起他的以往作品更为保守，但这仍然是一首无与伦比的作品，可与胡梅尔的小号协奏曲相提并论。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In church music Mozart was far greater than Joseph Haydn. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>宗教音乐方面，莫扎特仍然超越了海顿。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Haydn once said that his brother Michael was a better composer of church music than he himself was. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>海顿曾说自己的兄弟迈克尔（米歇尔）是比自己更为出色的宗教音乐作曲家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you listen to Haydn's masses for the Catholic Church you will see that they are really symphonies with choir. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你听海顿为天主教堂而作的弥撒曲，你会发现它们不过是合唱交响曲。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are no stylistic differences between his masses and his symphonies. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的弥撒曲和交响曲之间没有什么风格上的差异。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He did not have a thorough grasp of the baroque ecclesiastic style, though Mozart had a deep understanding of Bach, Handel, and other masters of baroque church music. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他也没有掌握巴洛克风格的精髓，但莫扎特则对巴赫、亨德尔及其他巴洛克宗教音乐大师的创作有非常深入的理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During his two trips to London after his retirement from Esterhazy, Haydn became familiar with the great oratorios of Handel. Out of this new understanding of Handel, Haydn gave us his two great oratorios, "Creation" and "Seasons," both of which, in my opinion, far surpass the greatness of his masses, though in his very last mass, he finally achieved a satisfactory unification of symphonic and choral styles.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在海顿离开埃斯特哈奇两次游历伦敦的途中，开始认识亨德尔的清唱剧，并留下了《创世纪》和《四季》两部杰作，在笔者看来，它们远远超出了他的弥撒曲的成就，尽管他在最后的弥撒里，他最终让交响曲风格与合唱曲风格达到了还算尽如人意的统一。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beethoven was influenced a great deal by both Haydn and Mozart. He took a touch of this and a touch of that from both of them, and infused his own unique personality into his music. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>贝多芬深受海顿和莫扎特的影响，他集二人之大成并注入了他自己的风格。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To my ear, it seems that Beethoven was influenced much more by Haydn than Mozart, though a few of his early works are obviously modeled after works by Mozart. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>据笔者所听，虽然贝多芬早期的作品明显的以莫扎特为范本，但他想必在海顿那里得到了比莫扎特更多的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From Haydn, Beethoven got his love of the false recapitulation. Also from Haydn, comes Beethoven's love of the sudden and unexpected pause and the unexpected fermata. Beethoven was even more fond of sudden surprises than was Haydn. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>跟随海顿，贝多芬喜欢上了假再现部，以及毫无预兆的停顿和长音，甚至比海顿更热衷于制造突然的惊愕。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Haydn's high-spirited wit was certainly not lost on him. Musical humor in the style of Haydn is found in almost every genre of music that Beethoven composed in, from piano sonatas, to string quartets and symphonies, he is sometimes deadly serious, and sometimes overtly comic. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样他饱满的智慧也为贝多芬继承，而幽默的风格也可以在贝多芬的钢琴奏鸣曲、弦乐四重奏、交响曲等各种音乐体裁中体现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His symphony no 4 and symphony no. 8 are replete with Haydnesque humor and wit.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他偶尔极其严肃，有时又诙谐有趣，他的第四号和第八号交响曲则融入了海顿式的幽默与智慧。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The idea of using a small germ or motif to generate the musical energy of an entire movement is something that Beethoven learned from Haydn. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>利用一个小动机来推动音乐的发展是贝多芬从海顿那里得到的真传。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The opening movement of Symphony no. 5 is a good example, but many examples of such a thing can be found in his late works.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第五号交响曲的开头就是个很好的例证，但此风格在他的晚期作品里却又更好的体现。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Essentially Beethoven used the forms that he inherited from Haydn and Mozart, ie sonata form, rondo, variation form, and expanded these forms. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本质来说，贝多芬对这些曲式的使用来自对海顿和莫扎特的继承，奏鸣曲式、回旋曲式、变奏曲式，还有其他延伸出来的结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He increased the length and intensity of the development section. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他增加了展开部的长度和紧张度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Beethoven had a tremendous variety of ways of creating a sonata-form movement. He would sometimes be rather terse, going quickly from his first theme to his second theme, and then closing the exposition soon after presenting the second theme. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>贝多芬有很多创作奏鸣曲的技法手段，他有时会非常简洁地、快速地从第一主题跳至第二主题，并在第二主题结尾时迅速结束呈示部。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sometimes, like Mozart, he would use a group of first themes in the tonic key, and then present a group of themes in another key, usually the dominant. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有时候，像莫扎特那样，贝多芬会在主调上用上一系列的主题，然后再在通常主导的调上再展现一系列主题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sometimes his sonata-form movements are very tightly argued. Other times they are somewhat looser in conception. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的一些奏鸣曲作品极具争议，不拘一格、离经叛道。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The variety Beethoven created within the context of sonata form is astounding!
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的奏鸣曲作品的多样性是惊世骇俗的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Late in his life Beethoven became much more interested in counterpoint. He especially became much more interested in fugues. He also became more interested in variation form, using it sometimes in movements to piano sonatas and string quartets. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>晚年的贝多芬迷恋上了对位法，而又对赋格音乐情有独钟，并会在钢琴奏鸣曲和弦乐四重奏里尝试这种变奏。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed the finale of his Symphony no. 9 can be thought of as a sort of combination of sonata form and theme and variations.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而他的第九交响曲的末乐章便可以明确地定位为一个奏鸣曲、主题与变奏的结合体。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is hard to describe the music of Beethoven. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>贝多芬的作品是很难去描述的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For me, I would say he had essentially three main modes of expression. There is his playful and humorous side. There is his dramatic side. His music could sometimes be so dramatic and powerful that is makes your skin crawl. And there is his dreamy, introspective side. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>于笔者而言，对于贝多芬的表达模式可以归纳为三种：幽默、娱乐的一面；戏剧性的一面，而这种戏剧性和力量感让人不寒而栗；另外还有梦幻、内省的一面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I realize that breaking down Beethoven's variety of expression into three categories is rather facile, even faulty, yet I can't help but do it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我想，把贝多芬的风格简单分门别类的做法是幼稚而且肤浅的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sorry about that.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而我姑且如此，深表歉意。</seg></tuv>
+</tu>
+</body>
+</tmx>

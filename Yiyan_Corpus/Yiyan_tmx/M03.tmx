@@ -1,0 +1,1471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T153958Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Escape from Spiderhead</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>逃出“蜘蛛头”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" Abnesti said over the P.A.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”艾博通过对讲机问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's in it?" I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这次里面是什么？”我问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hilarious," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“让你开心的东西。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abnesti used his remote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾博拿起了遥控器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My MobiPak whirred. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的“随身滴”嗡嗡轻响了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon the Interior Garden looked really nice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没过多久，室内花园看上去漂亮了不少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything seemed super-clear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切似乎都变得清晰无比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>said out loud, as I was supposed to, what I was feeling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我按老规矩大声说出了自己的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Garden looks nice," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“花园看上去很漂亮，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Super-clear."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“特别清楚。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abnesti said, "Jeff, how about we pep up those language centers?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾博说：“杰夫，咱们把语言中枢调高一点怎么样？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sure," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没问题。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He added some Verbaluce to the drip, and soon I was feeling the same things but saying them better. The garden still looked nice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他往点滴里加了一些“利言剂”，于是很快我就能用优美的表达方式说出同样的感受了：花园看上去依然很漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was like the bushes were so tight-seeming and the sun made everything stand out? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一丛丛的灌木丛如此葱郁，阳光似乎令万物气象一新，与众不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was like any moment you expected some Victorians to wander in with their cups of tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恍惚间似乎随时会有维多利亚时代的人物端着茶杯从花园里优雅地翩然而至。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as if the garden had become a sort of embodiment of the domestic dreams forever intrinsic to human consciousness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整座花园仿佛就是人类意识里的梦中庭院变成了现实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as if I could suddenly discern, in this contemporary vignette, the ancient corollary through which Plato and some of his contemporaries might have strolled; to wit, I was sensing the eternal in the ephemeral.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>透过这个当代小品，我顿悟到了柏拉图和他的同代人曾徜徉过的远古境界。也可以说，那一刻我体会到了瞬间的永恒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sat, pleasantly engaged in these thoughts, until the Verbaluce began to wane. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我坐在那里，脑子里满是这些飘飘然的想法，直到“利言剂”的药效开始退去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At which point the garden just looked nice again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样一来，花园又变成了只是看着漂亮而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was something about the bushes and whatnot? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许是那些灌木和其他类似的东西搞的鬼？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made you just want to lay out there and catch rays and think your happy thoughts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让你只想躺在那儿，晒晒太阳，想想开心事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you get what I mean.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你明白我的意思吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then whatever else was in the drip wore off, and I didn't feel much about the garden one way or the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着点滴里的其他药劲儿也都过去了。于是那个花园在我眼里再也没什么感觉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mouth was dry, though, and my gut had that post-Verbaluce feel to it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嘴巴有点干。我心里知道这是“利言剂”过去后的那种感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's going to be cool about that one?" Abnesti said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道这种新药能有什么用吗？”艾博说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is, say a guy has to stay up late guarding a perimeter. Or is at school waiting for his kid and gets bored. But there's some nature nearby? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你可以想象一下，比如说有人需要熬夜在野外放哨，或者有人在学校等着接孩子等烦了，而附近正好有些野生的环境，就用得上它了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or say a park ranger has to work a double shift?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再比如说，当公园护林员不得不加班工作连轴转的时候，也可以用它。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That will be cool," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，的确挺有用。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's ED763," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这药的编号是ED763，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're thinking of calling it NatuGlide.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们琢磨着给它起名叫‘悦景剂’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or maybe ErthAdmire."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者叫‘返璞剂’。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Those are both good," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这俩名字都挺好，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Thanks for your help, Jeff," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“杰夫，谢谢你的配合，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which was what he always said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次他都会这么说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Only a million years to go," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“日子还长着呢，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which was what I always said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次我都是这么回答他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he said, "Exit the Interior Garden now, Jeff, head over to Small Workroom 2."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来他说：“杰夫，现在请离开室内花园，去二号小工作室。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Into Small Workroom 2 they sent this pale tall girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们派了个肤色苍白的高个儿姑娘来到二号小工作室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you think?" Abnesti said over the P.A.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你觉得怎么样？”艾博通过对讲机问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Me?" I said. "Or her?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是问我还是问她？”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Both," Abnesti said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“都问。”艾博说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Pretty good," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“挺好的。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fine, you know," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还行吧，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Normal."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一般。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abnesti asked us to rate each other more quantifiably, as per pretty, as per sexy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾博让我和那个姑娘更具体地给对方打个分，从美丽度和性感度两方面评分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It appeared we liked each other about average, i.e., no big attraction or revulsion either way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看起来我们俩彼此感觉都是一般般，都认为对方没有太大吸引力。但也不讨厌就是了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abnesti said, "Jeff, drip on?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾博说：“杰夫，开始点滴吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Heather, drip on?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“茜丝，开始点滴吗？”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," Heather said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧，”茜丝说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we looked at each other like, What happens next?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，我们面面相觑，都在琢磨接下来会发生什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What happened next was, Heather soon looked super-good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果，接下来我很快就发现茜丝变得动人极了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I could tell she thought the same of me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且我肯定她眼里看到的我也是一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It came on so sudden we were like laughing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然一下子就成了这样，我们都笑了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could we not have seen it, how cute the other one was? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么我俩刚才就没看出来对方是这么可爱啊？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Luckily there was a couch in the Workroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸运的是，工作室里有一张沙发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It felt like our drip had, in addition to whatever they were testing, some ED556 in it, which lowers your shame level to like nil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得我们打的点滴里，除了有他们正在试验的药物之外，肯定还有ED556——这种药几乎能把你的羞耻心给降到零点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because soon, there on the couch, off we went. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为没过多久，我们就在沙发上大干了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was super-hot between us. And not merely in a horndog way. Hot, yes, but also just right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可虽然我们俩之间干得热火朝天，但这种亲热并不只是象发情的狗狗那样，而是激烈但又恰到好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like if you'd dreamed of a certain girl all your life and all of a sudden there she was, in your Domain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就好象你一辈子都在梦想着的姑娘，突然就出现在了你的面前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jeff," Abnesti said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“杰夫，”艾博说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'd like your permission to pep up your language centers."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我希望你能允许我把你的语言中枢调高一点。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Go for it," I said, under her now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没问题。”我说道，那时我正在她的身子下面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Me, too?" Heather said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“能给我也来点儿吗？”茜丝问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You got it," Abnesti said, with a laugh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没问题，”艾博笑着说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," she said, all breathless.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧，”她上气不接下气地说</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon, experiencing the benefits of the flowing Verbaluce in our drips, we were not only fucking really well but also talking pretty great. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久，点滴里的利言剂开始在我们身上产生了效果，这下子我们不仅干得很痛快，而且嘴里说出来的话也变得相当动人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like, instead of just saying the sex-type things we had been saying (such as "wow" and "oh God" and "hell yes" and so forth), we now began freestyling re our sensations and thoughts, in elevated diction, with eighty-per-cent increased vocab, our well-articulated thoughts being recorded for later analysis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不再象刚才那样只会说些跟做爱有关的词（比如“哦耶”和“哦，上帝啊”和“太棒了”等等），而是开始尽情表达着我们的感受和想法。由于词汇量增加了80%，我们简直是口灿莲花。那些妙语连珠的思绪都被记录了下来供日后分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For me, the feeling was, approximately: Astonishment at the dawning realization that this woman was being created in real time, directly from my own mind, per my deepest longings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时的感觉基本就是分外惊喜。因为我逐渐意识到这个女人简直就是按照我心灵最深处的渴望，正在我的眼前活生生被创造出来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, after all these years (was my thought), I had found the precise arrangement of body/face/mind that personified all that was desirable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我心想，经过了这么多年的苦苦等待，最后我总算找到了一个姑娘能在身体、容貌、心灵等等一切方面百分之百体现了我所有追求的组合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The taste of her mouth, the look of that halo of blondish hair spread out around her cherubic yet naughty-looking face (she was beneath me now, legs way up), even (not to be crude or dishonor the exalted feelings I was experiencing) the sensations her vagina was producing along the length of my thrusting penis were precisely those I had always hungered for, though I had never, before this instant, realized that I so ardently hungered for them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她那美妙的双唇，那头闪亮的金发，还有她那天真无邪而又俏皮的脸庞（她现在就在我的身下，双腿高高翘起），甚至（我这么说丝毫没有下流或不敬的意思，恰恰相反，我正经历着最崇高的感受）连她的阴道对我那不停冲刺的小弟弟所产生的美妙压迫，都恰好正是我长久以来一直所渴望的感受——虽然我在这一刻之前从未意识到自己如此热切地渴望过这种感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is to say: a desire would arise and, concurrently, the satisfaction of that desire would also arise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换句话说：就在出现了某种渴望的同时，它就会得到满足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as if (a) I longed for a certain (heretofore untasted) taste until (b) said longing became nearly unbearable, at which time (c) I found a morsel of food with that exact taste already in my mouth, perfectly satisfying my longing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就好象（a）我一直渴望品尝某种（迄今为止从未尝过的）滋味，而且（b）这种渴望越来越强烈，几乎变得令人无法忍受，而恰在此时（c）我发现我的嘴里刚好吃进一口正是这种滋味的食物，完全满足了我的愿望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every utterance, every adjustment of posture bespoke the same thing: we had known each other forever, were soul mates, had met and loved in numerous preceding lifetimes, and would meet and love in many subsequent lifetimes, always with the same transcendently stupefying results.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们说的每一句话，做的每一个姿势，都在倾诉着同一件事情：我们彼此已经相知到了永远。我们是心灵上的知音，前世已经相遇并相爱了许多回。而且今后还会世世代代相遇并相爱下去。每次都爱到同样的无穷无尽，地老天荒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then there came a hard-to-describe but very real drifting-off into a number of sequential reveries that might best be described as a type of nonnarrative mind scenery, i.e., a series of vague mental images of places I had never been (a certain pine-packed valley in high white mountains, a chalet-type house in a cul-de-sac, the yard of which was overgrown with wide, stunted Seussian trees), each of which triggered a deep sentimental longing, longings that coalesced into, and were soon reduced to, one central longing, i.e., an intense longing for Heather and Heather alone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着，我的意识出现了一种难以描述而又非常真实的流动，进入了一连串虚无缥缈的境界。可能最恰当的说法是某种“叙事性的心灵风景”，即脑海里的一系列模糊画面——都是些我从未去过的地方（夹在高高的白色山峦之间的松林密布的山谷、在一条小路尽头的小木屋式的房子、长满苏斯博士笔下的奇怪树木的院子）。每一个画面都引发了我感情上的深深向往。这些向往凝聚成、并很快减少为一个唯一的渴望，即：对茜丝——只对茜丝—个人——的强烈渴望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This mind-scenery phenomenon was strongest during our third (!) bout of lovemaking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种心灵风景的现象在我们第三轮（！）做爱时感觉最强烈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Apparently, Abnesti had included some Vivistif in my drip.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（显然，艾博在给我的点滴里加了些“速勃剂”。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterward, our protestations of love poured forth simultaneously, linguistically complex and metaphorically rich: I daresay we had become poets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>完事之后，我们开始彼此互诉衷肠。那些情话既天花乱坠又滔滔不绝：我敢说我们已化身成为了诗人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were allowed to lie there, limbs intermingled, for nearly an hour. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在得到艾博批准之后，我们四肢交缠地躺了将近一个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was bliss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真是太幸福了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was perfection. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>完美无缺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was that impossible thing: happiness that does not wilt to reveal the thin shoots of some new desire rising from within it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这正是那种可望而不可及的境界：这种幸福永不枯萎，而且再不会有新的欲望得陇望蜀般地从其中滋生出细芽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We cuddled with a fierceness/focus that rivalled the fierceness/focus with which we had fucked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们一心一意地热烈拥抱着，就像刚才我们彼此一心一意地交欢那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was nothing less about cuddling vis-a-vis fucking, is what I mean to say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是说，我们的拥抱跟交欢比起来，丝毫也不逊色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were all over each other in the super-friendly way of puppies, or spouses meeting for the first time after one of them has undergone a close brush with death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们缠绵不休，就象是一对儿特别亲昵的小狗，或是一对儿大难不死之后初次相见的夫妻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything seemed moist, permeable, sayable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都湿漉漉的，都水灵灵的，什么话都说的出口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then something in the drip began to wane. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，点滴里的药劲儿开始过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think Abnesti had shut off the Verbaluce</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜艾博已经卡断了“利言剂”？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also the shame reducer? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能也停了降低羞耻心的那种？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Basically, everything began to dwindle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基本上一切都开始褪色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly we felt shy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然之间我们感到害臊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But still loving. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我们仍然相爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We began the process of trying to talk apres Verbaluce: always awkward.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们进入了“利言剂”刚失效后的那种状态：无论张口说什么话都言不达意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet I could see in her eyes that she was still feeling love for me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，我可以从她的眼神里看出来，她仍还爱着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I was definitely still feeling love for her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且我也绝对仍然能感到自己对她的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, why not? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么会不爱呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had just fucked three times! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们刚刚连着干了三次呢！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why do you think they call it "making love"? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不然他们怎么会管那个叫“做爱”呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was what we had just made three times: love.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们刚刚做的那三次就是“爱”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then Abnesti said, "Drip on?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着，艾博又说，“开始点滴吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had kind of forgotten he was even there, behind his one-way mirror.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都有点把他给忘了，忘了他就在那面单向镜的背后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I said, "Do we have to? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我问：“还有必要吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are really liking this right now."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们觉得现在这样就挺好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're just going to try to get you guys back to baseline," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们只是想让你们恢复原态，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We've got more to do today."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“今天还有很多的事情要做。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Shit," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈的。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Rats," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“倒霉。”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," we said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧，”我们俩说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon something began to change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快就开始有了变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, she was fine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是说，她挺不错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A handsome pale girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个俊俏苍白的女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But nothing special. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但也没有什么特别之处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I could see that she felt the same re me, i.e., what had all that fuss been about just now?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且我看得出她对我也是同样的感觉。刚才是怎么了，至于为对方这么个人大惊小怪吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why weren't we dressed? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咦，我们俩怎么都没穿衣服？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We real quick got dressed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们飞快地穿起了衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kind of embarrassing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>气氛有点尴尬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did I love her? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道我爱过她吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did she love me?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她爱过我吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ha.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哈！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>才没呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then it was time for her to go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，她该走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We shook hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们握了握手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out she went.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她就这么去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lunch came in. On a tray. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午餐被放在一个托盘上送了进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Spaghetti with chicken chunks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意大利面条加鸡块。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Man, was I hungry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老天，我是真饿了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I spent all lunchtime thinking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在整个午餐期间都在琢磨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was weird. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这很奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had the memory of fucking Heather, the memory of having felt the things I'd felt for her, the memory of having said the things I'd said to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能记得跟茜丝亲热过，能记得我对她的感觉，能记得我对她说过的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My throat was like raw from how much I'd said and how fast I'd felt compelled to say it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为刚才说的话太多，而且说的又快，我的喉咙现在还感觉生疼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in terms of feelings?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是在感情方面呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I basically had nada left.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我基本上已经毫无感觉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just a hot face and some shame re having fucked three times in front of Abnesti.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有的只是因为当着艾博的面干了三次而感到脸红和害臊而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After lunch in came another girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午饭后，另一个女孩走了进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About equally so-so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样还算过得去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dark hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑头发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Average build. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身材一般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing special, just like, upon first entry, Heather had been nothing special.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没什么特别的，就像上次茜丝刚进来时也没什么特别之处一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is Rachel," Abnesti said on the P.A. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这位是蕾切尔，”艾博通过对讲机说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is Jeff." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这位是杰夫。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hi, Rachel," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗨，蕾切尔。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hi, Jeff," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗨，杰夫。”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" Abnesti said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”艾博问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We Acknowledged.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们同意开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Something seemed very familiar about the way I now began feeling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的感觉开始有种似曾相识的味道了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly Rachel looked super-good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然一下子，蕾切尔变得超好看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abnesti requested permission to pep up our language centers via Verbaluce. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾博请我们允许他用“利言剂”调高我们的语言中枢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We Acknowledged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们同意了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon we, too, were fucking like bunnies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快我们就像兔子似的大干特干起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon we, too, were talking like articulate maniacs re our love. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且不久之后，我们又象语言狂人一样喋喋不休地倾诉起爱意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once again certain sensations were arising to meet my concurrently arising desperate hunger for just those sensations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的心头再次涌起对某些快感的无比渴望，而恰在此时我又感受到了那些快感，它们正好满足了我的渴望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon my memory of the perfect taste of Heather's mouth was being overwritten by the current taste of Rachel's mouth, so much more the taste I now desired. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久，蕾切尔的甜蜜双唇便取代了我对茜丝的美妙小嘴的记忆。此刻我对蕾切尔的渴望远胜当初对茜丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was feeling unprecedented emotions, even though those unprecedented emotions were (I discerned somewhere in my consciousness) exactly the same emotions I had felt earlier, for that now unworthy-seeming vessel Heather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感觉到了一种前所未有的激情。（其实在我的意识深处，我也明白这些前所未有的激情，正是我早些时候对茜丝也同样有过的感受。只不过现在看来那个姑娘根本不值得我这样。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rachel was, I mean to say, it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的意思是说，蕾切尔才是最完美的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her lithe waist, her voice, her hungry mouth/hands/loins- they were all it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轻盈的腰肢、她的声音、她那饥渴的嘴唇、手臂、胴体，无不完美无暇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just loved Rachel so much.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我简直爱死蕾切尔了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then came the sequential geographic reveries (see above): same pine-packed valley, same chalet-looking house, accompanied by that same longing-for-place transmuting into a longing for (this time) Rachel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来又是一系列的心灵风景（详情可以参见前文）：同样长满青松的山谷、同样象小木屋似的房屋、对这些地方的向往同样转化成对（这一次是）与蕾切尔在一起的渴望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While continuing to enact a level of sexual strenuousness that caused what I would describe as a gradually tightening, chest-located, sweetness rubber band to both connect us and compel us onward, we whispered feverishly (precisely, poetically) about how long we felt we had known each other, i.e., forever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一方面我们在继续如饥似渴地做爱——耳鬓厮磨、翻云覆雨、不停冲刺，另一方面我们狂热地（准确地，诗意地）低声诉说着彼此如何一见钟情，仿佛已认识了几辈子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again the total number of times we made love was three.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这回，我们也是一共做了三次爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, like before, came the dwindling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后像上次一样，一切又慢慢消失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our talking became less excellent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的交谈变得不那么逸兴湍飞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Words were fewer, our sentences shorter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>话越来越少，句子也越来越短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, I loved her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，我仍然爱着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Loved Rachel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我确实爱蕾切尔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything about her just seemed perfect: her cheek mole, her black hair, the little butt-squirm she did now and then, as if to say, Mmm-mmm, was that ever good.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的一切似乎仍是很完美：她面颊上的痣，她的黑头发，她那小屁股偶尔的蠕动，就仿佛在说，嗯，嗯，这多棒啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Drip on?" Abnesti said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始点滴吗？”艾博说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We are going to try to get you both back to baseline."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们想让你俩都恢复原态。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“开始吧，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, hold on," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“呃，等一下，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jeff," Abnesti said, irritated, as if trying to remind me that I was here not by choice but because I had done my crime and was in the process of doing my time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“杰夫——”艾博有点不耐烦地说道。他仿佛是在提醒我，我并不是出于自愿选择到这里来的——因为犯了罪，我来这里算是代替服刑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Acknowledge," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，开始吧，”我说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And gave Rachel one last look of love, knowing (as she did not yet know) that this would be the last look of love I would be giving her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我满含爱意地最后看了蕾切尔一眼，心里明白（而她还不知道）这就将是我带着爱意看她的最后一眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon she was merely fine to me, and I merely fine to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久，她在我眼里就变得只是还行了，正如我在她的眼里也只是还行一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looked, as had Heather, embarrassed, as in, What was up with that just now? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看起来有点尴尬，跟茜丝上次一样，好像在说，刚才这是怎么了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why did I just go so overboard with Mr. Average here?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么我会跟这么一个平常的家伙搞得如胶似漆的？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

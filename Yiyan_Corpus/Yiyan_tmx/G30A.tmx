@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T073747Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bertrand Russell (1872-1970)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伯特兰罗素（1872－1970）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bertrand Russell, third Earl Russell, was born on 18th May 1872 at Cleddon Hall, Monmouthshire, into one of the great political families of Britain His grandfather, Lord John Russell, the Whig politician and first Earl, who twice became Prime Minister, steered the 1832 Reform Act through Parliament John Stuart Mill was Bertrand's godfather, and young Bertie was introduced to Queen Victoria when he was two years old Russell became a great and innovative philosopher, but he had politics in his genes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三代罗素伯爵伯特兰罗素1872年5月18日出生在蒙茅斯郡克莱顿宅第――英国最伟大政治家族之一的家庭中。他的祖父约翰罗素勋爵是一位辉格党政治家和第一代罗素伯爵，曾两度出任首相，在议会中指导了1832年改革法案。约翰.斯图尔特.穆勒是他的教父，伯蒂两岁时被引见给维多利亚女王。罗素成为有创见的伟大哲学家，但他的基因中有政治的成分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell's mother died when he was two years old, his father when he was three. There were two older siblings, a brother Frank, and a sister Rachel, who died young Russell and his brother were brought up by their grandparents in Pembroke House, in the middle of Regent's Park in London (The house was the gift of Queen Victoria, and had been given in gratitude for Lord Russell's political services This was fitting, since, without the Reform Act, Victoria might not have had a throne to sit on ) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素两岁丧母，三岁丧父，有一个哥哥法兰克和一个年纪轻轻就夭折的姐姐雷切尔。罗素和他的哥哥在伦敦摄政公园中央的彭布罗克邸园由他的祖父母带大（该邸园是维多利亚女王为感谢罗素勋爵的政治功绩赏给勋爵的。这是恰如其分的，因为若无改革法案，维多利亚未必能坐上王位。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here the friendless boy grew up, looked after by a succession of Swiss and German nurses and governesses, and taught at home by a succession of English tutors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里，没有玩伴的罗素在一些瑞士和德国的保姆和家庭女教师的照顾和一些英国家庭教师的教导下长大成人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was lonely, unhappy and highly precocious.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他孤单、郁郁寡欢、早熟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the age of eleven he discovered Euclid, although he was severely disappointed to find that the sublime logical edifice of geometry rested on unprovable, assumed axioms - a hint of things to come.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>11岁时他读到了欧几里得几何学，但对几何学的雄伟逻辑大厦建筑在未经证明、假定的公理之上极度失望――这预示着他的一生将受此影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By his own efforts he rediscovered Cartesian geometry, seeing in principle how planetary orbits could be calculated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>靠自己的努力他重新发现了笛卡尔几何学，理解了行星轨道的计算原理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He read widely, but without overall direction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他博览群书，但漫无目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although he disagreed with his godfather's logic, the political ideas in Mill's On Liberty affected him profoundly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管他不赞同他教父的逻辑学，但穆勒在《论自由》中的政治思想对他有深刻影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Russell went up to Cambridge at the age of eighteen, in his own words, he "entered a new world of infinite delight " ('My Mental Development' in Volume 5 of The Library of Living Philosophers, 1944 ) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>18岁时他来到剑桥大学，用他的话说，他“进入一个无尽快乐的新世界”（见1944年《在世哲学家文库》第五卷‘我的思想历程’）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly he was amongst people who spoke the sort of language natural to him, and when he said what he really thought, "they neither stared at me as if I were a lunatic nor denounced me as if I were a criminal" - unlike his family or tutors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然之间，他处身于对他说话非常随和的人们之中，他说出他的真正感受：“与我的家庭和家庭教师不同，他们不会把我看作疯子那样看着我，也不把我当作罪犯那样谴责我”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Trinity College he made lasting friends, and the environment "fitted like a glove " (Later quotes from 'Adaptation: An Autobiographical Epitome' in Bertrand Russell, Portraits from Memory and Other Essays, 1956 ) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在三一学院，他结交了一些终生朋友，这里的环境“像手套一样合手”（引自1956年《伯特兰 罗素《来自记忆里的肖像：罗素的回忆》中的‘适应：自传摘要’)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oppressive and morbid atmosphere in which he had been brought up had paralysed his social development, but he soon became confident, optimistic and self-reliant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他压抑、病态的成长环境毁坏了他的社交能力，但他不久就变得自信、乐观和独立。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His first three years were devoted to mathematics, and the fourth to philosophy He had found his feet, and never looked back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>头三年他致力于数学，第四年致力于哲学。他站稳了脚跟，再也不回头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On graduating, he had to decide whether to devote himself to philosophy or politics, the latter having been the habitual pursuit of his family since the sixteenth century.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕业时他必须决定从事哲学还是政治――自16世纪以来他的家族一贯从事的事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> In 1894 he married Alys Pearsall Smith, an American Quaker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1894年他与美国教友派信徒爱丽丝皮尔索尔史密斯结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The family pressures on him remained intense, and it seemed to the young man that not to pursue politics would be an act of treachery.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家族的政治传统对他仍有压力，在这个年轻人看来，不从事政治似乎是一种背叛行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Everything was done to smooth a way for him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一帆风顺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The British Ambassador in Paris gave him a job at the embassy But after a short time the lure of philosophy proved irresistible, and he returned to Cambridge in 1895.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国在巴黎的使馆给了他一份使馆的工作。但过不多久，哲学的吸引力证明是无法抗拒的，1895年他回到剑桥大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For his Fellowship election to Trinity, Russell submitted a dissertation on the foundations of geometry; and the logical foundations of mathematics absorbed him totally for the next decade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为竞选三一学院研究员职位，罗素提交了一篇论几何学基础的论文；接下来的十年，他把全付精力放在数学的逻辑基础上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Principles of Mathematics (1903) he argued that mathematics was simply logic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《数学原理》（1903年）一书中，他提出，数学只是逻辑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, together with Alfred North Whitehead, a senior fellow [see Brief Lives in Issue 86], he sought to establish this idea conclusively.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后与高级研究员阿尔弗雷德诺斯怀特海一起，他试图令人信服地确立这一思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As an undergraduate Russell had become increasingly disenchanted with the way in which his lecturers and tutors had presented mathematics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一名大学生，罗素对他的讲师和导师讲授数学的方法越来越不抱幻想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their lack of logical rigour seemed to reduce it to no more than a bag of tricks designed for the puzzle-solving requirements of the Mathematical Tripos [exams].</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在逻辑严密性上的不足似乎把数学只是归结为用来应付数学学位考试的一些解谜把戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His interests shifted to the need to put mathematics on a secure logical basis, and so from maths to philosophy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的兴趣转向如何把数学建筑在牢固的逻辑基础上，从而从数学转向哲学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> But the need for a foundation for mathematics was more than a philosophical challenge.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是为数学确立基础光靠哲学是不够的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Russell craved an absolute certainty which he felt he could only find in this way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他追求绝对确定性，觉得为数学确立起基础就能找到绝对确定性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> For over a decade he laboured mightily with Whitehead on the monumental undertaking to provide mathematics with a secure logical basis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在十多年的时间里，他与怀特海一起艰苦卓绝地从事为数学提供牢固逻辑基础的里程碑式的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their work transformed mathematical logic, but it foundered on what has become known as 'Russell's Set Paradox'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的工作改变了数理逻辑，但这项工作倒在了所谓的‘罗素’的集合悖论脚下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell and Whitehead's fundamental logical entity was the set.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素和怀特海的基本逻辑实体是集合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most sets are not members of themselves, but some are, such as the set of all non-men (because a set is not a man). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数集合不是它们自身的元素，但有些集合是它们自身的元素，例如所有非人的集合（因为一个集合不是一个人）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The logical iceberg which their philosophical Titanic struck was the question: Is the set of all sets which are not members of themselves a member of itself? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面这个问题使得他们的这艘哲学泰坦尼克号被逻辑这座冰山撞个粉碎：由不是它们自身的元素的所有集合构成的集合是否是它自身的一个元素？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is neither true nor false [see Principia Mathematica]. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案不管是肯定还是否定都导致矛盾（见《数学原理》）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus Russell's dream of certainty became a nightmare of paradox.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此罗素的确定性梦想变成一场悖论噩梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After nearly two years, a way was found to patch things up, by defining a suitably restricted class of sets.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年后，通过定义一类有一定限制的集合，找到了一种修修补补的办法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But irreparable damage had been done, both to the attempt to provide mathematics with an incontrovertible foundation in logic, and to the attempt to satisfy Russell's craving for certainty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，为数学提供无可争议的逻辑基础的努力和满足罗素对确定性追求的努力都遭受重创，无法补救了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nevertheless the final result of Russell and Whitehead's prodigious efforts, Principia Mathematica (1910-1913), was a towering intellectual achievement. Denied the absolute certainty which he had sought - a rock on which to establish his thinking - Russell's interests now moved decisively towards realism and semantics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他追求的绝对确定性――确立他的思想的牢靠基础――遭到否定后，罗素毅然把兴趣转向实在论和语义学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having found that logic could not be used to spin a web fine enough to ensnare mathematics, he did not abandon logic, but developed an analytical approach that led to what is now called 'philosophical logic'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发现无法使用逻辑织造细密得足以捕获数学的网后，他并未放弃逻辑，而是发展出一种当今称之为‘哲学逻辑’的分析方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell thus led a revolt against Idealism, a doctrine fashionable in philosophy at the turn of the twentieth century, and the techniques which he developed established the basis of 20th century analytical philosophy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素因此领导了一场对20世纪初流行的哲学学说――唯心论的反叛，他发展出的技术确立了20世纪分析哲学的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite an increasingly hectic and complex life, Russell continued to publish extensively, ranging widely over philosophy, sociology and politics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管生活日益忙忙碌碌、纷繁复杂，罗素还是出版了一大批著作，内容广泛涉及哲学、社会学和政治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His major philosophical works include: On Denotation (1905), The Problems of Philosophy (1912), Mind and Matter (1925), The Analysis of Matter (1927), and Human Knowledge (1948).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的主要哲学著作包括：《论指称》（1905）、《哲学问题》（1912）、《心与物》（1925）、《物之分析》（1927）和《人类知识》（1948）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wrote an acclaimed History of Western Philosophy (1945), which gave him a valuable incom1e for the rest of his life, and was awarded the Nobel Prize for Literature in 1950.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他写了备受赞赏的《西方哲学史》（1945），这给他带来丰厚的收入而不用再为以后的生活担忧，而且在1950年因此获得诺贝尔文学奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell also spent much time in encouraging the young Wittgenstein [Brief Lives in Issue 87], despite the consequent drain on his emotional resources, and he strongly supported the work which led to Wittgenstein's acclaimed Tractatus Logico-Philosophicus.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素还化了大量时间鼓励年轻的维特根斯坦，尽管随后在处理与维特根斯坦的关系上他已无能为力；他还极力支持维特根斯坦写作备受赞赏的《逻辑哲学论》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell developed his own version of the ideas Wittgenstein presented in that book, giving a series of lectures on Logical Positivism in 1918, while Wittgenstein was still in a prisoner of war camp.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于维特根斯坦在该书中表达的思想，罗素也发展出他自己的版本，1918年关于逻辑实证主义他作了一系列演讲，此时维特根斯坦还被关在战俘营中呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wittgenstein claimed that his ideas had been misunderstood and therefore misrepresented, and the relationship between them never recovered.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>维特根斯坦声言，他的思想受到误解并因而受到错误的表达，以后他们再也没有握手言和。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell's Autobiography, published in three volumes (1967-69), is remarkable for its frankness and objectivity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素的三卷本《自传》（1967－69）的异乎寻常之处在于其诚实和客观。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In it he recounts how, when out riding his bicycle in 1901, he realised that he no longer loved Alys.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在书中写道，1911年骑自行车出行时，他意识到他不再爱爱丽丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Telling her this effectively wrecked the marriage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他毫不犹豫地将这告诉爱丽丝，导致婚姻破裂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Subsequently he had many passionate relationships, often simultaneously, and most famously with Lady Ottoline Morrell and the free spirit Dora Black.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其后他常常是同时与许多女子亲密交往，最著名的是与奥特林莫瑞尔夫人和无拘无束的朵拉布莱克的交往。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finding that Dora was pregnant in 1921, he hastily divorced Alys and married Dora six days later.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1921年发现朵拉怀孕，他匆匆与爱丽丝离婚，六天后与朵拉结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was, by agreement, an open marriage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据协议，这是一场开放的婚姻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dora had several children by other men, and two children by Russell.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朵拉与其它男子生有几个孩子，与罗素生有两个孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Together Dora and Bertrand founded the experimental Beacon Hill School in Sussex in 1927.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1927年罗素与朵拉一起在苏塞克斯郡创建了比肯山实验学校。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They divorced in 1932, and Russell immediately married the children's governess, Patricia Spence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在1932年离婚，罗素随即与孩子们的家庭女教师派屈西亚斯彭斯结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had a son who became a prominent historian and a leading Liberal Democrat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有一个儿子，这个儿子后来成为杰出的历史学家和自由民主党头面人物之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This marriage lasted until 1952, and soon afterwards he married Edith Finch, whom he had known since 1925.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这段婚姻持续到1952年，不久罗素与1925年以来就相识的依迪丝芬奇结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the First World War, Russell was a determined and outspoken advocate of pacifism.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次世界大战期间，罗素是一个坚定的反战主义者，他毫不隐瞒他的反战立场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> An anti-war article he wrote landed him in prison for six months, and he was deprived of his Fellowship at Trinity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因写了一篇反战文章，他被判入狱半年，并被剥夺了三一学院的研究员职位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, he regarded the Second World War as a just war, considering totalitarianism a great evil.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，他认为，第二次世界大战是一场正义的战争，极权主义是一股极其邪恶的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the rest of his life he became increasingly involved in political protest and anti-authoritarian and anti-war demonstrations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他以后的生活中，他日益卷入政治抗议和反独裁和反战的示威活动中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A passionate opponent of nuclear weapons, he telegraphed both the Kremlin and the White House during the Cuban Missile Crisis: Khrushchev replied, but the telegram to Kennedy was returned unopened.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他坚定地反对核战争，古巴导弹危机期间他发电报给克里姆林宫和白宫：赫鲁晓夫发了回电，但给肯尼迪的电报原封不动地被退回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell's work has had a lasting significance for logic, mathematics, set theory, computational science (theory of types), the philosophy of language, epistemology, and metaphysics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素的著作对逻辑、数学、集合论、计算科学（类型论）、语言哲学、认识论和形而上学有着持久的重大意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Very few philosophers have had such a lasting effect over so many fields.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很少有哲学家能在如此多的领域上有如此持久的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> He gave the inaugural series of Reith Lectures in 1948, was awarded the Order of Merit in 1949 (a high honour in Britain), and continued to be politically active to the end of his long life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1948年他作了里斯系列讲座的就职演说，1949年获得功绩勋章（英国一项很高的荣誉），继续积极参加政治活动直到他这一漫长一生的终点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of his last public acts was to issue a condemnation of Israeli aggression in the Middle East</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最后公开活动之一是对以色列在中东的侵略发出谴责。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell died of influenza on 2 February 1970 in Penrhyndeudraeth, Wales - the land of his birth, with which his family had been politically associated since the time of the Tudors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素1970年2月2日年在威尔士彭林代德赖斯死于感冒，这是他的出生地，他的家族自都铎王朝时代以来在政治上就一直与此地有关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His ashes were scattered in the nearby Snowdonia mountains.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的骨灰撒在附近斯诺登尼亚山脉中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No other great philosopher has been so long and so effectively involved in the public domain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有一个伟大哲学家如此长久、如此有力地影响到公共事务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sir Alistair MacFarlane 2012</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>版权属于阿利斯泰尔麦克法伦爵士，2012</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sir Alistair MacFarlane is a former Vice-President of the Royal Society and a retired university Vice-Chancellor</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿利斯泰尔 麦克法伦爵士是英国皇家学会前副会长和退休的大学副校长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Principia Mathematica</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《数学原理》</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The goal of Principia Mathematica was to provide a logically secure foundation for mathematics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《数学原理》的目的是为数学提供牢固的逻辑基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The basis of Russell and Whitehead's theory of numbers was Set Theory.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素和怀特海的数论的基础是集合论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The number four, for instance, means the set of all sets with four elements.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，数字4指有四个元素的所有集合的集合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But part-way through this massive project, Russell discovered a fundamental paradox in set theory which shook the foundations of their edifice before they had even finished building it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这一艰巨工作进行到一半，罗素就发现集合论中的一个悖论，他们的大厦还未建成，这个悖论就动摇了这一大厦的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell's Paradox is the question: 'Is the set consisting of {all sets which are not members of themselves} a member of itself?' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素的悖论是下面这个问题：‘由不是它们自身的元素的所有集合构成的集合是否是它自身的一个元素？’。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a paradox because if this set is not a member of itself, then it is, and if it is a member of itself, then it's not­ Russell worked for two years to find a way around the problem and eventually the project was completed, but the foundations never looked as secure as once hoped.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个悖论，因为如这个集合不是它自身的一个元素，则它是它自身的一个元素；如这个集合是它自身的一个元素，则它不是它自身的一个元素。为找到解决这一问题的方法，罗素化了两年的时间，最终解决了这个问题，但基础远不如一度希望的那样牢固。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell also pioneered the field of philosophical logic.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素还是哲学逻辑领域的先锋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the beginning of the Twentieth Century, philosophers aspired to represent the propositions of ordinary language in a logically rigorous way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20世纪初，哲学家追求用严密的逻辑方式表示日常语言的命题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russell was one of a number of philosophers involved in formulating a symbolism for this purpose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗素是为此创立符号论的若干哲学家中的一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was hoped that this would enable ordinary-language propositions to be expressed in a form that would allow them to be manipulated in the sort of way that mathematicians manipulate equations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们希望，这将使得日常语言命题可表达成这样的形式，这种形式使得我们可如数学操作方程式那样操作日常语言命题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowadays, however, it is recognised that ordinary language use is too flexible, nuanced and equivocal to be easily reducible to logical symbols, and manipulated in a straightforward logical/mathematical way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是现在人们认识到，日常语言的使用太灵活、太微妙，太模棱两可，因此不容易归结为逻辑符号和直接用逻辑/数学方式操作。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

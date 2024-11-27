@@ -1,0 +1,43 @@
+Bill Gates is retiring, sort of
+He is still only 52, and he is going off to spend more time guiding the world's richest philanthropy, the Bill and Melinda Gates Foundation. 
+He will still be Microsoft's chairman and largest shareholder, but Friday is his last day as a full-time worker at the software giant, marking the unofficial end of his career as a business leader.
+And what a career it has been. Mr. Gates has been an animating force behind the personal computer revolution, helping to build a huge global industry and engineer blockbuster products like Windows and Office, used every day in offices and homes around the world.
+The Harvard dropout was the wealthiest person on the planet for years！！ worth more than $100 billion in 1999 ！！though his fortune is now about half that because of the decline of Microsoft's shares and his continued donations to his foundation, which is focused on global health and education.
+Despite his success, Mr. Gates is moving on as the company he co-founded in 1975 is struggling to find its way. 
+The center of gravity in technology has shifted from PCs to the Internet, altering the old rules of competition that were so lucratively mastered by Microsoft.
+For millions of users, mobile devices like cellphones are beginning to edge out PCs as the tool of choice for many computing tasks. 
+And Google, the front-runner in the current wave of Internet computing, has wrested the mantle of high-tech leadership from Microsoft.
+Although Mr. Gates will spend one day a week at the company, it will be up to his successors, led by Steven A. Ballmer, the chief executive, to master the challenges of the Internet or watch Microsoft's wealth and stature in the industry steadily erode. 
+"Bill's legacy is Windows and Office, and that will be a rich franchise for years to come, but it??s not the future," said David B. Yoffie, a professor at the Harvard Business School.
+Still, the Gates legacy is impressive. 
+In addition to the software itself, Mr. Gates and his company have fundamentally shaped how people think about competition in many industries where technology plays a central role. 
+Today, there are more than one billion copies of the Windows operating system on PCs around the world.
+Industry experts and economists say that Windows is not necessarily the best or most admired software for running the basic operations of a personal computer ?? Apple??s Macintosh can claim the most devout fan club. 
+But Mr. Gates grasped and deployed two related concepts on a scale no one ever had in the past: the power of network effects and the value of establishing a technology platform.
+Put simply, the network effect describes a phenomenon in which the value of a product goes up as more people use it. 
+E-mail messaging and telephones are classic examples.
+A technology platform is a set of tools or services that others can use to build their own products or services. 
+The more people who use the tools, the more popular the platform can become.
+Mr. Gates took advantage of both notions and combined them to build Microsoft's dominance in PCs, spreading its influence with computer makers and software developers.
+Today, there are many thousands of software applications that run on the Windows platform, not just word processing and spreadsheets but also the specialized programs in doctors' offices, factory floors and retail stores！！a very broad network on a nearly ubiquitous technology platform.
+"Gates saw software as a separate market from hardware before anyone else, but his great insight was recognizing the power of the network effects surrounding the software," said Michael A. Cusumano, a professor at the Massachusetts Institute of Technology's Sloan School of Management.
+That, Professor Cusumano added, was the essential difference in the paths of Microsoft and Apple, the early leader in personal computing. 
+Apple, he said, focused on making outstanding products alone, while Microsoft nurtured a growing ecosystem of outside software developers who use, and are dependent on, Microsoft??s technology.
+The result, he added, is that, while Apple continues to make outstanding products, more than 90 percent of personal computers run Microsoft software.
+In the early years, it was unclear how much Mr. Gates was pursuing each opportunity as it came, as opposed to carrying out a grand strategy. 
+He certainly had large ambitions. 
+When he was a Harvard undergraduate, Mr. Gates lamented that so many of his fellow students pursued "a narrow track for success", instead of being willing to take "big risks to do big things,"recalled Michael Katz, a Harvard contemporary who is now a professor at New York University.
+In a Harvard Business School case study, published in 1994, Mr. Gates spoke of Microsoft's strategy in terms of network effects and technology standards that, combined, enabled the company to command markets. 
+"We look for businesses where we can garner large market shares, not just 30 or 35 percent," he said.
+In the past, Microsoft has beaten back challenges and vanquished rivals, even when it came late to markets, as it did in the first wave of Internet technology. 
+Mr. Gates's shrewd 1995 decision to embrace Internet browsing technology and attack the early leader, Netscape Communications, started a pitched antitrust battle with the government. 
+"But he extended Microsoft's hegemony for a decade," said Mitchell Kapor, a longtime rival.
+However, Microsoft is lagging badly in current round of Internet competition and, analysts say, is facing more formidable challengers this time ！！ notably Google.
+Microsoft's share of Internet search in the United States is less than 10 percent, while Google holds more than 60 percent and Yahoo has about 20 percent. 
+And search is only part of the new platform on the Web, which includes social networks like Facebook and MySpace and Internet-based alternatives to traditional desktop software, including e-mail messaging, word processors and spreadsheets.
+Traditional desktop software ！！and the technology standards Microsoft controls there ！！ matter far less when more software is accessed with a Web browser and delivered over the Internet from vast data centers run by Google and others. 
+The new approach is known as "cloud computing,"and the business model behind it is typically to sell online advertising and software services.
+At Microsoft, there is scant sign of panic, despite its trailing position and it's failed bid to buy Yahoo for $47.5 billion as a catch-up strategy. 
+Microsoft sees an evolution in computing, not a disruptive revolution that will imperil the company, said Craig Mundie, Microsoft's chief research and strategy officer.
+Mr. Mundie said Microsoft is preparing for a widening world of both cloud computing and ?＜client?＼ machines, not only personal computers but also cellphones, cars, game consoles and televisions, all running Microsoft software.
+"The next big platform is the union of the clients and the cloud," he said.

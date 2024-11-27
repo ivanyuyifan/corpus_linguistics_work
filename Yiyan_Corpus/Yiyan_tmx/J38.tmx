@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200919T120945Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 1 The New Era in World Politics</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章 世界政治的新时代</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Introduction： Flags and Cultural Identity</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>引论：旗帜与文化认同</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On January 3, 1992, a meeting of Russian and American scholars took place in the auditorium of a government building in Moscow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1992年1月3日，俄罗斯和美国学者在莫斯科政府大楼的演讲厅中举行了一次会议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two weeks earlier the Soviet Union had ceased to exist and the Russian Federation had become an independent country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个星期以前，苏联不复存在，俄罗斯联邦成为一个独立的国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, the statue of Lenin which previously graced the stage of the auditorium had disappeared and instead the flag of the Russian Federation was now displayed on the front wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果，从前装饰在演讲台上的列宁塑像消失了，取而代之的是挂在前墙上的俄罗斯联邦的国旗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only problem, one American observed, was that the flag had been hung upside down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个美国人注意到，唯一的问题是那面国旗挂反了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After this was pointed out to the Russian hosts, they quickly and quietly corrected the error during the first intermission.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当美国人向俄罗斯东道主指出这个问题后，他们在第一次休会期间迅速悄悄地纠正了这个错误。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The years after the Cold War witnessed the beginnings of dramatic changes in peoples' identities and the symbols of those identities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷战结束后的几年中，人们的认同和那些认同的标志开始发生急剧的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Global politics began to be reconfigured along cultural lines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球政治开始沿着文化线被重构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upside-down flags were a sign of the transition, but more and more the flags are flying high and true, and Russians and other peoples are mobilizing and marching behind these and other symbols of their new cultural identities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被反挂的国旗是变化的一个迹象，但是越来越多的国旗正在被正确地高高挂起，俄罗斯人和其他民族正在他们新的文化认同的这样和那样的标志背后动员和前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On April 18, 1994, two thousand people rallied in Sarajevo waving the flags of Saudi Arabia and Turkey. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1994年4月18日，2000人聚集在萨拉热窝市挥舞着沙特阿拉伯和土耳其的国旗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By flying those banners, instead of U.N., NATO, or American flags, these Sarajevans identified themselves with their fellow Muslims and told the world who were their real and not-so-real friends.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些萨拉热窝人通过挥舞这些旗帜而不是联合国、北约或美国的旗帜，认同于他们的穆斯林伙伴，并告诉世界谁是他们真正的朋友，谁不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On October 16, 1994, in Los Angeles 70,000 people marched beneath “a sea of Mexican Hags" protesting Proposition 187, a referendum measure which would deny many state benefits to illegal immigrants and their children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1994年10月16日，在洛杉矶，7万人在“墨西哥国旗的旗海”下游行抗议187号公民提案，该提案是一个提交公民复决的措施，它否定国家给予非法移民及其子女的多项福利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are they "walking down the street with a Mexican flag and demanding that this country give them a free education?" observers asked. “They should be waving the American Hag." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些观察者提出这样的问题：为什么他们“举着墨西哥国旗游行，同时又要求这个国家给予他们免费教育？他们应当挥舞美国国旗”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two weeks later more protestors did march down the street carrying an American flag—upside down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个星期以后，更多的抗议者确实举着美国国旗在街上行进，但却是倒举着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These flag displays ensured victory for Proposition 187, which was approved by 59 percent of California voters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种举旗方式确保了187号公民提案的胜利，它得到了加利福尼亚州59％的选民的赞同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the post-Cold War world flags count and so do other symbols of cultural identity, including crosses, crescents, and even head coverings, because culture counts, and cultural identity is what is most meaningful to most people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在冷战后的世界，旗帜有其考虑的价值，其他文化认同的标志也是如此，包括十字架、新月形、甚至头盖，因为文化有其考虑的价值，文化认同对于大多数人来说是最有意义的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People are discovering new but often old identities and marching under new but often old flags which lead to wars with new but often old enemies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们正在发现新的但常常是旧的认同，在新的但常常是旧的旗帜下行进，这导致了同新的但常常是旧的敌人的战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One grim Wzltanschauung for this new era was well expressed by the Venetian nationalist demagogue in Michael Dibdin's novel, Dead Lagoon： “There can be no true friends without true enemies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>迈克尔·迪布丁的小说《死亡环礁湖》中的威尼斯民族主义煽动者，用一个不祥的世界观为这一新时期作了很好的表述：“如果没有真正的敌人，也就没有真正的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless we hate what we are not, we cannot love what we are. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除非我们憎恨非我族类。我们便不可能爱我族类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These are the old truths we are painfully rediscovering after a century and more of sentimental cant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些是我们在一个世纪之后正在痛苦地重新发现的古老真理和更加充满情感的套语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those who deny them deny their family, their heritage, their culture, their birthright, their very selves! They will not lightly be forgiven." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些否定它们的人也否定他们的家庭、他们的遗产、他们的文化、他们的与生俱来的权利以及他们本身！他们不能轻易地得到原谅。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unfortunate truth in these old truths cannot be ignored by statesmen and scholars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政治家和学者们不能忽视蕴含在这些古老真理中的不幸的真理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For peoples seeking identity and reinventing ethnicity, enemies are essential, and the potentially most dangerous enmities occur across the fault lines between the world's major civilizations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于那些正在寻求认同和重新创造种族性的人们来说，敌人是必不可少的，而潜在的最危险的敌人会出现在世界各主要文明之间的断层线上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The central theme of this book is that culture and cultural identities, which at the broadest level are civilization identities, are shaping the patterns of cohesion, disintegration, and conflict in the post-Cold War world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本书的主题是文化和文化认同（它在最广泛的层面上是文明认同）形成了冷战后世界上的结合、分裂和冲突模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The five parts of this book elaborate corollaries to this main proposition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本书的五个组成部分详细阐述了这一主要命题的推论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part I: For the first time in history global politics is both multipolar and multicivilizational; modernization is distinct from Westernization and is producing neither a universal civilization in any meaningful sense nor the Westernization of non-Western societies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一部分：历史上，全球政治第一次成为多极的和多文明的；现代化有别于西方化，它既未产生任何有意义的普世文明，也未产生非西方社会的西方化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part II: The balance of power among civilizations is shifting： the West is declining in relative influence; Asian civilizations are expanding their economic, military, and political strength; Islam is exploding demographically with destabilizing consequences for Muslim countries and their neighbors; and non-Western civilizations generally are reaffirming the value of their own cultures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二部分：文明之间的力量对比正在发生变化：西方的影响在相对下降；亚洲文明正在扩张其经济、军事和政治实力；伊斯兰世界正在出现人口爆炸，这造成了穆斯林国家及其邻国的不稳定；非西方文明一般都正在重新肯定自己的文化价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part III: A civilization-based world order is emerging： societies sharing cultural affinities cooperate with each other； efforts to shift societies from one civilization to another are unsuccessful; and countries group themselves around the lead or core states of their civilization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三部分：以文明为基础的世界秩序正在出现：文化类同的社会彼此合作；从一个文明转变为另一个文明的努力没有获得成功；各国围绕着它们文明的领导国家或核心国家来划分自己的归属。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part IV: The Wesfs universalist pretensions increasingly bring it into conflict with other civilizations, most seriously with Islam and China; at the local level fault line wars, largely between Muslims and non-Muslims, generate "kin-country rallying," the threat of broader escalation, and hence efforts by core states to halt these wars.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第四部分：西方国家的普世主义日益把它引向同其他文明的冲突，最严重的是同伊斯兰和中国的冲突；在区域层面的断层线上的战争，很大程度上是穆斯林同非穆斯林的战争，产生了“亲缘国家的集结”和更广泛的逐步升级的威胁，并因此引起核心国家努力制止这些战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Part V: The survival of the West depends on Americans reaffirming their Western identity and Westerners accepting their civilization as unique not universal and uniting to renew and preserve it against challenges from nonWestern societies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第五部分：西方的生存依赖于美国人重新肯定他们对西方的认同，以及西方人把自己的文明看作独特的而不是普世的，并且团结起来更新和保护自己的文明，应对来自非西方社会的挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Avoidance of a global war of civilizations depends on world leaders accepting and cooperating to maintain the multicivilizational character of global politics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>避免全球的文明战争要靠世界领导人愿意维持全球政治的多文明特征，并为此进行合作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Multipolar, Multicivilizational World </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个多极和多文明的世界</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the post-Cold War world, for the first time in history, global politics has become multipolar and multicivilizational. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在冷战后的世界中，全球政治在历史上第一次成为多极的和多文明的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During most of human existence, contacts between civilizations were intermittent or nonexistent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在人类生存的大部分时期，文明之间的交往是间断的或根本不存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, with the beginning of the modern era, about A.D. 1500, global politics assumed two dimensions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，随着近代时期的起始，大约在公元1500年，全球政治呈现出两个方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For over four hundred years, the nation states of the West - Britain, France, Spain, Austria, Prussia, Germany, the United States, and others - constituted a multipolar international system within Western civilization and interacted, competed, and fought wars with each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在400多年里，西方的民族国家——英国、法国、西班牙、奥地利、普鲁士、德国和美国以及其他国家在西方文明内构成了一个多极的国际体系，并且彼此相互影响、竞争和开战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, Western nations also expanded, conquered, colonized, or decisively influenced every other civilization (Map 1.1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，西方民族也扩张、征服、殖民，或决定性地影响所有其他文明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the Cold War global politics became bipolar and the world was divided into three parts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷战时期，全球政治成为两极化的，世界被分裂为三个部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A group of mostly wealthy and democratic societies, led by the United States, was engaged in a pervasive ideological, political, economic, and, at times, military competition with a group of somewhat poorer communist societies associated with and led by the Soviet Union. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个由美国领导的最富裕的和民主的社会集团，同一个与苏联联合和受它领导的略贫穷一些的集团展开了竞争，这是一个无所不在的意识形态的、政治的、经济的，有时是军事的竞争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Much of this conflict occurred in the Third World outside these two camps, composed of countries which often were poor, lacked political stability, were recently independent, and claimed to be nonaligned (Map 1.2).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多这样的冲突发生在这两个阵营以外的由下述国家组成的第三世界里：它们常常是贫穷的，缺少政治稳定性的，新近独立的，宣称是不结盟的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the late 1980s the communist world collapsed, and the Cold War international system became history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20世纪80年代末，随着共产主义世界的崩溃，冷战的国际体系成为历史。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the post-Cold War world, the most important distinctions among peoples are not ideological, political, or economic. They are cultural. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在冷战后的世界中，人民之间最重要的区别不是意识形态的、政治的或经济的，而是文化的区别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Peoples and nations are attempting to answer the most basic question humans can face: Who are we? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人民和民族正试图回答人类可能面对的最基本的问题：我们是谁？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And they are answering that question in the traditional way human beings have answered it, by reference to the things that mean most to them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们用人类曾经用来回答这个问题的传统方式来回答它，即提到对于他们来说最有意义的事物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People define themselves in terms of ancestry, religion, language, history, values, customs, and institutions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们用祖先、宗教、语言、历史、价值观、习俗和体制来界定自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They identify with cultural groups: tribes, ethnic groups, religious communities, nations, and, at the broadest level, civilizations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们认同于部落、种族集团、宗教社团、民族，以及在最广泛的层面上认同于文明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People use politics not just to advance their interests but also to define their identity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们不仅使用政治来促进他们的利益，而且还用它来界定自己的认同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We know who we are only when we know who we are not and often only when we know whom we are against.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们只有在了解我们不是谁、并常常只有在了解我们反对谁时，才了解我们是谁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nation states remain the principal actors in world affairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>民族国家仍然是世界事务中的主要因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their behavior is shaped as in the past by the pursuit of power and wealth, but it is also shaped by cultural preferences, commonalities, and differences. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们的行为像过去一样受对权力和财富的追求的影响，但也受文化偏好、文化共性和文化差异的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most important groupings of states are no longer the three blocs of the Cold War but rather the world's seven or eight major civilizations (Map 1.3). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对国家最重要的分类不再是冷战中的三个集团，而是世界上的七八个主要文明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>NonWestern societies, particularly in East Asia, are developing their economic wealth and creating the basis for enhanced military power and political influence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>非西方社会，特别是东亚社会，正在发展自己的经济财富，创造提高军事力量和政治影响力的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As their power and self-confidence increase, non-Western societies increasingly assert their own cultural values and reject those “imposed" on them by the West. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着权力和自信心的增长，非西方社会越来越伸张自己的文化价值，并拒绝那些由西方“强加”给它们的文化价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The "'international system of the twenty-first century," Henry Kissinger has noted, "... will contain at least six major powers - the United States, Europe, China, Japan, Russia, and probably India - as well as a multiplicity of medium-sized and smaller countries.'' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利·基辛格曾注意到：“21世纪的国际体系......将至少包括六个主要的强大力量——美国、欧洲、中国、日本、俄罗斯，也许还有印度——以及大量中等国家和小国。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kissinger's six major powers belong to five very different civilizations, and in addition there are important Islamic states whose strategic locations, large populations, and/or oil resources make them influential in world affairs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（注1）基辛格提到的六个主要强大力量属于五个十分不同的文明，此外，还存在着一些重要的伊斯兰国家，它们的战略位置、庞大的人口和（或）石油资源，使得它们在世界事务中具有影响力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this new world, local politics is the politics of ethnicity; global politics is the politics of civilizations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个新世界中，区域政治是种族的政治，全球政治是文明的政治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rivalry of the superpowers is replaced by the clash of civilizations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>文明的冲突取代了超级大国的竞争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this new world the most pervasive, important, and dangerous conflicts will not be between social classes, rich and poor, or other economically defined groups, but between peoples belonging to different cultural entities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个新的世界里，最普遍的、重要的和危险的冲突不是社会阶级之间、富人和穷人之间，或其他以经济来划分的集团之间的冲突，而是属于不同文化实体的人民之间的冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tribal wars and ethnic conflicts will occur within civilizations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>部落战争和种族冲突将发生在文明之内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Violence between states and groups from different civilizations, however, carries with it the potential for escalation as other states and groups from these civilizations rally to the support of their "kin countries."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，当来自不同文明的其他国家和集团集结起来支持它们的“亲缘国家”时，这些不同文明的国家和集团之间的暴力就带有逐步升级的潜力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bloody clash of clans in Somalia poses no threat of broader conflict. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>索马里部族的流血冲突没有造成更广泛的冲突威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bloody clash of tribes in Rwanda has consequences for Uganda, Zaire, and Burundi but not much further. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卢旺达部落的流血冲突波及了乌干达、扎伊尔、布隆迪，但是没有广泛地蔓延。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bloody clashes of civilizations in Bosnia, the Caucasus, Central Asia, or Kashmir could become bigger wars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波黑、高加索、中亚，或克什米尔境内的文明之间的流血冲突，可能演化为更大的战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Yugoslav conflicts, Russia provided diplomatic support to the Serbs, and Saudi Arabia, Turkey, Iran, and Libya provided funds and arms to the Bosnians, not for reasons of ideology or power politics or economic interest but because of cultural kinship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在南斯拉夫的冲突中，俄罗斯向塞尔维亚人提供外交支持，而沙特阿拉伯、土耳其、伊朗和利比亚向波斯尼亚人提供资金和武器，但它们这样做不是由于意识形态，或者权力政治或经济利益的缘故，而是由于文化亲缘关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"'Cultural conflicts,'' Vaclav Havel has observed, “are increasing and are more dangerous today than at any time in history," and Jacques Delors agreed that "'future conflicts will be sparked by cultural factors rather than economics or ideology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瓦茨拉夫·哈韦尔注意到，“文化的冲突正在增长，而且如今比以往历史上任何时候都更危险”，雅克·德洛尔也认为，“未来的冲突将由文化因素而不是经济或意识形态所引起”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the most dangerous cultural conflicts are those along the fault lines between civilizations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而最危险的文化冲突是沿着文明的断层线发生的那些冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the post-Cold War world, culture is both a divisive and a unifying force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在冷战后的世界，文化既是分裂的力量，又是统一的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People separated by ideology but united by culture come together, as the two Germanys did and as the two Koreas and the several Chinas are beginning to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人民被意识形态所分离，却又被文化统一在一起，如两个德国所经历的那样，也如两个朝鲜和几个中国正开始经历的那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Societies united by ideology or historical circumstance but divided by civilization either come apart, as did the Soviet Union, Yugoslavia, and Bosnia, or are subjected to intense strain, as is the case with Ukraine, Nigeria, Sudan, India, Sri Lanka, and many others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社会被意识形态或历史环境统一在一起，却又被文明所分裂，它们或者像苏联、南斯拉夫和波斯尼亚那样分裂开来，或者像乌克兰、尼日利亚、苏丹、印度、斯里兰卡和许多其他国家的情况那样，陷于激烈的紧张状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Countries with cultural affinities cooperate economically and politically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>具有文化亲缘关系的国家在经济上和政治上相互合作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>International organizations based on states with cultural commonality, such as the European Union, are far more successful than those that attempt to transcend cultures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建立在具有文化共同性的国家基础之上的国际组织，如欧洲联盟，远比那些试图超越文化的国际组织成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For forty-five years the Iron Curtain was the central dividing line in Europe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在45年里，“铁幕”是欧洲的主要分裂线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That line has moved several hundred miles east. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这条线已东移了几百英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is now the line separating the peoples of Western Christianity, on the one hand, from Muslim and Orthodox peoples on the other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，它是一条一方面把西方基督教民族分离于穆斯林，另一方面把它分离于东正教的界线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The philosophical assumptions, underlying values, social relations, customs, and overall outlooks on life differ significantly among civilizations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哲学假定、基本价值、社会关系、习俗以及全面的生活观在各文明之间有重大的差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The revitalization of religion throughout much of the world is reinforcing these cultural differences. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遍及世界大部分地区的宗教复兴正在加强这些文化差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cultures can change, and the nature of their impact on politics and economics can vary from one period to another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>文化可以改变，它们的性质对政治和经济的影响可能随时期的不同而不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet the major differences in political and economic development among civilizations are clearly rooted in their different cultures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，文明之间在政治和经济发展方面的重大差异显然植根于它们不同的文化之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>East Asian economic success has its source in East Asian culture, as do the difficulties East Asian societies have had in achieving stable democratic political systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>东亚经济的成功有其东亚文化的根源，正如在取得稳定的民主政治制度方面东亚社会所遇到的困难有其文化根源一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Islamic culture explains in large part the failure of democracy to emerge in much of the Muslim world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊斯兰文化在很大程度上解释了为什么民主未能在大部分伊斯兰世界中出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Developments in the postcommunist societies of Eastern Europe and the former Soviet Union are shaped by their civilizational identities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后共产主义的东欧社会和苏联的发展受到了其文明认同的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those with Western Christian heritages are making progress toward economic development and democratic politics; the prospects for economic and political development in the Orthodox countries are uncertain; the prospects in the Muslim republics are bleak.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些具有西方基督教遗产的国家正在取得经济发展和民主政治的进步；东正教国家的经济和政治发展前景尚不明朗；而各穆斯林共和国的前景则很暗淡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The West is and will remain for years to come the most powerful civilization. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西方是而且在未来的若干年里仍将是最强大的文明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet its power relative to that of other civilizations is declining. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，它的权力相对于其他文明正在下降。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the West attempts to assert its values and to protect its interests, nonWestern societies confront a choice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当西方试图伸张它的价值并保护它的利益时，非西方社会正面临着一个选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some attempt to emulate the West and to join or to "bandwagon" with the West. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一些试图竭力仿效和加入西方，或者“搭车”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other Confucian and Islamic societies attempt to expand their own economic and military power to resist and to "balance" against the West. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他儒教社会和伊斯兰社会则试图扩大自己的经济和军事力量以抵制和“用均势来平衡”西方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A central axis of post-Cold War world politics is thus the interaction of Western power and culture with the power and culture of non-Western civilizations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，冷战后时代世界政治的一个主轴是西方的力量和文化与非西方的力量和文化的相互作用。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

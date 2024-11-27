@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072123Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lee Kuan Yew: The last farewell to my wife</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>李光耀：与妻子最后一次道别</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>ANCIENT peoples developed and ritualised mourning practices to express the shared grief of family and friends, and together show not fear or distaste for death, but respect for the dead one; and to give comfort to the living who will miss the deceased.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>古人创建并履行哀悼的仪式，让家人和朋友表达共同的悲伤，这并不是对死亡表示畏惧或厌恶，而是表达对死者的尊敬，安慰思念故人的生者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recall the ritual mourning when my maternal grandmother died some 75 years ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想起了约75年前外婆逝世时的哀悼仪式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For five nights the family gathered to sing her praises and wail and mourn at her departure, led by a practised professional mourner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一连五个晚上，家人聚在一起唱起赞歌，并在一个专业送葬人的指挥下，为她的去世嚎啕和哀悼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such rituals are no longer observed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们现在不再举办这样的仪式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My family's sorrow is to be expressed in personal tributes to the matriarch of our family.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们通过私人的致哀向家中的女家长表示悼念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In October 2003 when she had her first stroke, we had a strong intimation of our mortality.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2003年10月她首次中风时，我们便强烈地感受到人总要面对死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My wife and I have been together since 1947 for more than three quarters of our lives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和妻子自1947年在一起，共同走过了我们四分之三的人生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My grief at her passing cannot be expressed in words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对她逝世的悲伤非言词所能表达。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But today (Wednesday), when recounting our lives together, I would like to celebrate her life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但今天，回想起我们共度的日子，我愿意为她的一生欢庆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a young man with an interrupted education at Raffles College, and no steady job or profession, her parents did not look upon me as a desirable son-in-law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时年轻的我在莱佛士学院的教育被中断，没有固定的工作或专长。她的父母并不认为我是如意的女婿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she had faith in me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她对我有信心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had committed ourselves to each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们相互许下了承诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I decided to leave for England in September 1946 to read law, leaving her to return to Raffles College to try to win one of the two Queen's Scholarships awarded yearly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在1946年9月决定到英国修读法律，她则回到莱佛士学院，尝试争取每年只颁发两个名额的女皇奖学金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We knew that only one Singaporean would be awarded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们知道只有一名新加坡人能够获得奖学金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had the resources, and sailed for England, and hoped that she would join me after winning the Queen's Scholarship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我利用人脉资源得以乘船前往英国，希望她在得到奖学金后可以和我会合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If she did not win it, she would have to wait for me for three years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果得不到奖学金，她就要等我三年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In June the next year, 1947, she did win it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而隔年，也就是1947年6月，她真的获得了奖学金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have kept each other company ever since. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们之后便一直相伴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We married privately in December 1947 at Stratford-upon-Avon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在1947年12月于斯特拉福（Stratford-upon-Avon）悄然结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At Cambridge, we both put in our best efforts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在剑桥，我们两人都全力以赴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She took a first in two years in Law Tripos II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用了两年时间，考获法科双重第一荣誉学位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took a double first, and a starred first for the finals, but in three years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也获得双重第一荣誉学位，名列榜首，但用了三年时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Returning to Singapore, we both were taken on as legal assistants in Laycock &amp; Ong, a thriving law firm in Malacca Street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到新加坡后，我们同时在马六甲街生意兴隆的黎觉与王（Laycock &amp; Ong）律师事务所获得法律助理的职位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then we married officially a second time that September 1950 to please our parents and friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，为了让父母和朋友满意，我们在1950年9月再次正式举行婚礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She practised conveyancing and draftsmanship, I did litigation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从事产权转让和法律起草事务，我则从事诉讼。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February 1952, our first son, Hsien Loong, was born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的长子李显龙在1952年2月出生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She took maternity leave for a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她产假休息一年。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That February, I was asked by John Laycock, the Senior Partner, to take up the case of the Postal and Telecommunications Uniformed Staff Union, the postmen's union. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同月，律师馆的高级合伙人黎觉要我处理邮电职工联合会的案子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were negotiating with the government for better terms and conditions of service. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们正同政府谈判更好的雇佣条件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a fortnight, they won concessions from the government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个星期后，邮电职工争取到政府的让步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Choo, who was at home on maternity leave, pencilled through my draft statements, making them simple and clear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因产假留在家中的芝，把我草拟的声明修改得更加简单明了。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the years, she influenced my writing style. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些年来，她影响了我的书写方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I write in short sentences, in the active voice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我写作时会用简短的句式和主动式语气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We gradually influenced each other's ways and habits as we adjusted to and accommodated each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们彼此适应和包容的同时，我们逐渐影响对方的方式和习惯。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We knew that we could not stay starry-eyed lovers all our lives; that life was an on-going challenge with new problems to resolve and manage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们知道我们不能一直停留在不切实际的恋人的阶段，生活是永无休止的挑战，不断有新的问题需要解决和处理。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had two more children, Wei Ling in 1955 and Hsien Yang in 1957. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们又有了两个孩子。玮玲在1955年出生，显扬在1957年出生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She brought them up to be well-behaved, polite, considerate and never to throw their weight around as the prime minister's children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她的教导下，他们行为端正有礼，能够体谅他人，从不因为父亲是总理而仗势欺人。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a lawyer, she earned enough to free me from worries about the future of our children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身为律师，她有足够的收入，让我不用为孩子的将来操心。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She saw the price I paid for not having mastered Mandarin when I was young. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看到我在年轻时因没有掌握汉语所付出的代价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We decided to send all three children to Chinese kindergarten and schools. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们决定把三个孩子都送到华语幼稚园和学校。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She made sure they learned English and Malay well at home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她确保他们在家里学好英文和马来文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her nurturing has equipped them for life in a multi-lingual region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的培养为孩子们在一个多语地区的生活作好准备。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We never argued over the upbringing of our children, nor over financial matters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们从不因为孩子的养育或钱财上的问题争吵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our earnings and assets were jointly held. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的收入和资产共同拥有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were each other's confidant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是彼此的知己。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had simple pleasures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的生活乐趣很简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We would walk around the Istana gardens in the evening, and I would hit golf balls to relax. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在黄昏时在官邸花园漫步，我也打高尔夫球来放松心情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, when we had grandchildren, she would take them to feed the fish and the swans in the Istana ponds. Then we would swim. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有了孙辈后，她会带他们到官邸的池塘喂鱼和天鹅，然后我们游泳。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was interested in her surroundings, for instance, that many bird varieties were pushed out by mynahs and crows eating up the insects and vegetation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她对周遭的环境很感兴趣，比如，多种鸟类被吃昆虫和植物的八哥和乌鸦赶走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She discovered the curator of the gardens had cleared wild grasses and swing fogged for mosquitoes, killing off insects they fed on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她发现花园的管理员清除杂草时也喷洒杀虫剂控制蚊子，因此消灭了鸟儿进食的昆虫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stopped this and the bird varieties returned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她阻止管理员这么做后，各种鸟儿便飞回来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She surrounded the swimming pool with free flowering scented flowers and derived great pleasure smelling them as she swam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把绽放香味的花放在游泳池四周，一边游泳一边闻花香让她开心不已。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew each flower by its popular and botanical names. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她知道每一种花的俗名和学名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had an enormous capacity for words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的词汇量极大。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had majored in English literature at Raffles College and was a voracious reader, reading everything from Jane Austen to J.R.R. Tolkien, from Thucydides' The Peloponnesian Wars to Virgil's Aeneid, to The Oxford Companion to Food, and Seafood of Southeast Asia, to Roadside Trees of Malaya, and Birds of Singapore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在莱佛士学院就读时主修英国文学，读书不倦。她的阅读无所不包，从简·奥斯丁到R·R·托尔金，从修昔底德的《伯罗奔尼撒战争》到维吉尔的《埃涅阿斯纪》，还有《牛津食品指南》、《东南亚的海鲜》、《马来亚路边常见树木》和《新加坡鸟类》等等。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She helped me draft the Constitution of the PAP. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她协助我草拟人民行动党的党章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the inaugural meeting at Victoria Memorial Hall on 4 November 1954, she gathered the wives of the founder members to sew rosettes for those who were going on stage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1954年11月4日于维多利亚纪念堂召开的首次会议前，她召集了创党成员的妻子为要上台的人缝制徽章。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my first election for Tanjong Pagar, our home in Oxley Road became the HQ to assign cars provided by my supporters to ferry voters to the polling booth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我第一次在丹戎巴葛竞选时，我们在欧思礼路的家成为支持者提供车辆载送选民到投票站的调度总部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She warned me that I could not trust my new found associates, the leftwing trade unionists led by Lim Chin Siong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她警告我不可以相信我的新伙伴，也就是由林清祥领导的左派工会人士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was furious that he never sent their high school student helpers to canvass for me in Tanjong Pagar, yet demanded the use of cars provided by my supporters to ferry my Tanjong Pagar voters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对林清祥从未派他们的学生助手到丹戎巴葛为我助选、却要求使用支持者提供来载送丹戎巴葛选民车辆的行为，她感到愤怒。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had an uncanny ability to read the character of a person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她有辨识人性格的特异能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She would sometimes warn me to be careful of certain persons; often, she turned out to be right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，她会警告我提防某些人，结果证明她通常是对的。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we were about to join Malaysia, she told me that we would not succeed because the Umno Malay leaders had such different lifestyles and because their politics were communally-based, on race and religion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们快要加入马来西亚时，她告诉我我们不会成功，因为巫统的马来领导人有全然不同的生活方式，他们的政治也是以种族和宗教为根本的。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I replied that we had to make it work as there was no better choice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我回答说我们必须取得成功，因为我们没有更好的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she was right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，她是对的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were asked to leave Malaysia before two years had passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们还不到两年就被迫脱离马来西亚。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When separation was imminent (in 1965), Eddie Barker, as Law Minister, drew up the draft legislation for the separation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当分离近在眉睫时，律政部长巴克负责草拟相关的法律条文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he did not include an undertaking by the Federation Government to guarantee the observance of the two water agreements between the PUB (Public Utilities Board) and the Johor state government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他没有纳入联邦政府保证遵守公用事业局和柔佛州政府之间两项供水协定的承诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I asked Choo to include this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我请芝把这加进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She drafted the undertaking as part of the constitutional amendment of the Federation of Malaysia Constitution itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她草拟了这项承诺，作为马来西亚联邦修正宪法的一部分。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was precise and meticulous in her choice of words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用词精准、严谨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The amendment statute was annexed to the Separation Agreement, which we then registered with the United Nations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这项修正条文成为报送联合国的分离协议的附录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The then Commonwealth Secretary Arthur Bottomley said that if other federations were to separate, he hoped they would do it as professionally as Singapore and Malaysia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时的联邦事务大臣阿瑟·巴谭里表示，如果其他联邦要分离，他希望他们的作法能够像新加坡和马来西亚一样专业。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a compliment to Eddie and Choo's professional skills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是对巴克和芝的专业水平的赞赏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each time Malaysian leaders threatened to cut off our water supply, I was reassured that this clear and solemn international undertaking by the Malaysian government in its Constitution will get us a ruling by the UNSC (United Nations Security Council). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次马来西亚的马来领导人恫言切断供水，这个收入马来西亚政府宪法中明确、庄严的承诺都会让我感到放心，因为联合国安理会的裁决会站在我们这一边。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After her first stroke, she lost her left field of vision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次中风后，她失去了左侧视力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This slowed down her reading. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这影响了她的阅读速度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She learned to cope, reading with the help of a ruler. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她努力适应着，以一把尺来帮助她阅读。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She swam every evening and kept fit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她每天傍晚都游泳，保持健康。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She continued to travel with me, and stayed active despite the stroke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她继续陪我出国，中风后思维仍维持活跃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stayed in touch with her family and old friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她同家人和老朋友保持着联系。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She listened to her collection of CDs, mostly classical, plus some golden oldies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她听她所收藏的音乐光碟，主要是古典音乐，还有一些经典金曲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She jocularly divided her life into "before stroke" and "after stroke", like BC and AD.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她幽默地把生活分成“中风前”和“中风后”，就像“公元前”和“公元后”。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was friendly and considerate to all associated with her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她对有交往的人都很友好、关切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She would banter with her WSOs (woman security officers) and correct their English grammar and pronunciation in a friendly and cheerful way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她同她的女保安谈笑，并以友善和有趣的方式纠正她们的英文文法和发音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her former WSOs visited her when she was at NNI (National Neuroscience Institute). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在国立脑神经医学院时，这些前保安人员前去探访她（见附录A）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thank them all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在这里感谢她们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her second stroke on 12 May 2008 was more disabling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年5月12日的第二次中风对她的健康影响更大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I encouraged and cheered her on, helped by a magnificent team of doctors, surgeons, therapists and nurses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一组杰出的医生、外科医生、治疗师和护士的帮助下（附录B），我鼓励她,为她打气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her nurses, WSOs and maids all grew fond of her because she was warm and considerate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的护士、保安和女佣，都因她的热心体贴而爱戴她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When she coughed, she would take her small pillow to cover her mouth because she worried for them and did not want to infect them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她咳嗽时会用小枕头掩着嘴巴，她担心她们会受到感染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mind remained clear but her voice became weaker. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的头脑还是清醒的，但声音却变微弱了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I kissed her on her cheek, she told me not to come too close to her in case I caught her pneumonia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我吻她的面颊时，她叫我不要太靠近，以免感染到她的肺炎。我告诉她不用担心，我的身体健康，医生说不太可能受到感染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When given some peaches in hospital, she asked the maid to take one home for my lunch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在医院发给她一些桃子，她吩咐女佣带一个回家让我在午餐时吃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was at the centre of her life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是她的生活的中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On 24 June 2008, a CT scan revealed another bleed again on the right side of her brain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年6月24日的CT扫描显示，她的右脑再次出血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was not much more that medicine or surgery could do except to keep her comfortable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>药物和手术已经没有多大的作用，只能尽量让她感到舒适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I brought her home on 3 July 2008. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在2008年7月3日把她带回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The doctors expected her to last a few weeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医生估计她只能支撑几个星期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She lived till 2nd October, 2 years and 3 months.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她却在两年三个月后的10月2日才逝世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She remained lucid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她保持着清醒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That gave time for me and my children to come to terms with the inevitable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这段时间让我和孩子逐渐接受不可避免的事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the final few months, her faculties declined. She could not speak but her cognition remained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在最后的几个月，她的机体功能衰退，她不能说话但仍然清醒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looked forward to have me talk to her every evening.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她每晚都期待我跟她讲话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her last wish she shared with me was to enjoin our children to have our ashes placed together, as we were in life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她告诉我她的最后愿望，是吩咐孩子把我们的骨灰放在一起，就像我们生前不分开一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The last two years of her life were the most difficult. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她最后两年的生活是最艰难的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was bedridden after small successive strokes; she could not speak but she was still cognisant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在接连的小中风后她卧床不起。她不能说话，但还是清醒的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every night she would wait for me to sit by her to tell her of my day's activities and to read her favourite poems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每晚，她都会等我坐在她身边，告诉她我今天做了些什么，念她最喜欢的诗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she would sleep.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后她才会安睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have precious memories of our 63 years together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我们在一起的63年，我有珍贵的回忆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without her, I would be a different man, with a different life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有她，我会是个不同的人，过着完全不同的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She devoted herself to me and our children.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她为我和我们的孩子奉献一生。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

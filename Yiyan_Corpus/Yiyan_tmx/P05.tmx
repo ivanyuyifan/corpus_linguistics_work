@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T033210Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Homecoming Gift Chapter1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>归来的礼物 第一章</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were three things that a soldier never, ever wanted to hear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有三样事物，是一名士兵永远都不想得知的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first, of course, was word that a comrade had fallen: died on the field, perished during a mission-  sacrificed his or her own life in order to save countless others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一件，当然就是战友已经倒下：战死沙场，或者在执行任务时牺牲——为了拯救他人而抛弃自己的生命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No matter the reason, there was no greater sadness than having to say goodbye to a colleague... a friend.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不论原因若何，再没有其他事物能如同不得不与一名同袍...或者伙伴生死离别时那样令人悲伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second was equally horrible, but in an entirely different (and more terrifying) way: to discover that you, as a combatant, had made some sort of grievous mistake, and as a result had put others at risk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二件也同样可怖，不过却是以完全不同（而且这更加可怕）的方式出现：发现自己作为一名战士却犯下大错，结果是将其他人推向危险的边缘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never mind the verbal abuse that resulted; never mind the punishment from superior officers. Just hearing the words "miscalculation" or "error" or "carelessness" was enough to make one's stomach drop and heart turn to lead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由此而来的咒骂和长官的责罚都是无关紧要的，单单是听到“情况估计错误”或者“出错了”或者“粗心犯错”之类的话语都足以令人心惊肉跳，如坠地狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The third thing, while perhaps less dire from a militaristic standpoint, did a horrendous number to an individual's morale, and could thus inadvertently result in situations one or two: "dear John." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三件，“再见，约翰”绝情书（原文为Dear John，稍曲意译之）。虽然或许站在一个军人的角度来说没那么骇人，对于个人来说却是一件足以影响士气的大事，而且因此会在不经意间导致前两种悲剧发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In writing, in speech... Euphemistically or literally, depending on a soldier's given name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在笔下或口头，绝情绝意委婉而至，如果那名士兵原本即名约翰，可就算是痛心直击了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Sosuke's case, neither format would have made for a very pleasant experience.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，对于相良宗介来说，哪一样都算不上愉快的体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But of all three of these terrible things, the last one troubled him the least. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，在以上三样可畏事物中，后者困扰不多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was to say, the third was the one that he felt he was least likely to encounter in his own life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是说，他不觉得这辈子有幸收到一封绝情信的机会能有好几回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, the first had already happened to him- more times than he cared to think about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，在他的周围，战友间的永别时常发生——数目多得他都来不及有所感怀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had also made mistakes in his career, and recognized that (no matter how hard he might try), he was bound to screw up again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的人生中也犯过错误，宗介也意识到（不论花了多大的气力去避免），他总会再次犯错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if he wasn't consciously aware of his slip-ups, or if a certain reaction didn't seem (in his eyes, anyway) to be an error of judgment, others would undoubtedly point out his blunders to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使他还没有意识到错误的发生，或者在他看来，自己的应对还算不上失误，其他人都会言之凿凿地告诉他“又是你！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Others" like his wife, for instance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>打个比方，这里的“其他人”好比他的妻子。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet, for all of his faults-  and he did have many of them, or so Kaname assured- he never thought that they'd be enough to rip them apart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，尽管他犯下了许多错误——或者说那些小要可以拍胸脯肯定是他犯的错误——他从未想过那些就足以把他俩彼此分开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, if there was one thing that he was sure of, one thing that he was positive would never change, it was that she loved him, and that he loved her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实，如果有一件事是宗介足以确信的，也是他自信永远不会改变的，那就是：她爱他，而且他也爱她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps more than it was healthy to...Which was why Sosuke was fairly certain that he stopped breathing when Kaname shot him that pity-filled, wholly-guilty glance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是为什么小要在投给他一个充满遗憾和歉疚的眼神后，宗介感到自己的呼吸都要停止了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"...Kaname?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“...小要？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hand was still on the door knob, his body half-in and half-out of their little apartment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手还扶在门把上，半个身子刚探入他们小小的公寓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd been gone for six months on active duty- he'd been certain that she'd be happy to see him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗介已经服役离家6个月了——很确信小要见到他时一定很开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd rather expected a hug, if nothing else; hell, she'd been known to attack him with a flying glomp after only having been gone for a few days. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他甚至期待一次拥抱，如果没有其他表示的话——天啊，以前才离开几天她就会用一记飞踢招呼他了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But no-  instead, she watched her husband from the distant kitchen, seated stiffly at the table, content to keep a hallway's worth of space between them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，什么都没有发生——她只是从厨房里望着丈夫，呆板地坐在桌边，两人之间隔着一整个玄关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Kaname, is something the matter?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小要，有什么不对吗？” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No response.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她没有回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sosuke would be lying if he said that he wasn't hurt by her apparent apathy-  they hadn't seen each other for half a year! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果要说宗介一点都没为她显而易见的冷漠感到难过就太不靠谱了——他们已经半年没见面了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was with the cold shoulder?-  but it was his nature to act on suspicions, rather than personal feelings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种冷遇是怎么回事？——但是保持怀疑而不是放任冲动才是宗介的本性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he found the entire situation very, very suspicious... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且他发现整个情形实在、非常值得怀疑...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was a terrorist around the corner? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恐怖分子在附近吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was there a firearm being pointed at her, at that moment? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在她正被枪指着？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Was she being restrained in some way? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还是她被某种方式拘禁了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If that was the case,she didn't seem overly worried... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果是那样，她却显得不那么慌张...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather, she was watching him awkwardly, manicured nails clicking against the porcelain of her coffee cup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，她直直地看着他，修剪整齐的指甲轻敲着手中的瓷制咖啡杯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had set a mug out for him, as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桌上还为他准备好了杯子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"...Sosuke," Kaname cleared her throat, biting down on her bottom lip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“...宗介...”小要清了清嗓子，紧咬着下唇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now she seemed a little anxious... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在她看起来有些焦虑了...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps there was a threat in the vicinity, after all? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许果然威胁就在附近？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He carefully maneuvered his hand around the handle of his Glock, just in case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他小心翼翼地把手移向格洛克（名枪，小说里宗介用的是Glock19，动画版则换为更小巧的G26——译注）的握把，以防万一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sosuke, we need to talk."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“宗介，我们得谈谈。”她说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A pause.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她稍稍停顿片刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"...and get your hand off of that gun, there's no one dangerous around for miles."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“...还有，把手从枪上挪开，周围没有任何危险。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The soldier felt himself relax slightly, reassured by the familiar, steely glint in his charge's gaze. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>士兵感到自己稍稍放松了些，那种凝视着他紧绷目光的熟悉而坚强的眼神释去了他的疑虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the biting irritation brought about by his antics was soon replaced by another embarrassed glitter of ignominy, and she looked down into her drink again as she waited for him to shuffle into the room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过被他的古怪举动而激起的情感波澜很快被另一阵羞惭的尴尬所代替，她再一次低头盯着杯子，等着他一点一点谨慎地挪进房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After double-checking for bombs or gunmen or who-knew-the-hell-what, Sosuke eased himself into the chair opposite his wife, and lightly folded his hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再三检查确认没有炸弹或者枪手或者...天知道他在检查些什么，之后，宗介在妻子对面放松地坐下，轻轻地叠合双手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a pose he often took when awaiting measures of peaceful reconciliation with Kaname, post-argument. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个小动作常常表示他在争吵后期待着与小要和好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when his wife was looking as shamefaced as she currently did, he assumed that he would be apologizing for something, and fairly soon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且当他的妻子就像眼下这样羞涩地看着他时，宗介就明白自己很快就能为什么事情道歉来解决争议了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But oddly, Kaname seemed to be the repentant party, this time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，奇怪的是，看起来小要这次才是改悔的一方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm sorry," she whispered, nibbling nervously on the very tip of her tongue. "I... Looking back, this is definitely not the way that I... that is... I didn't-  don't-  want to hurt you, but I..."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对不起，”她轻声说道，一点一点地吐出字句，“我...回忆了之后，肯定不会是...那是...我从没有——现在也没有——想要伤害你，但我...” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She trailed off feebly, leaving Sosuke more bewildered than ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的声音弱了下去，宗介从来没有这么困惑过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His state of befuddlement was only perpetuated by the fact that her nerves were catching; the more she bashfully avoided his stare, the more her fingers clenched and unclenched, the more she generally looked uncomfortable, the more Sosuke began to feel the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的局促不安延续了他的迷惑，她越是羞涩地想要回避他的目光，手指就越是纠缠不停，越是看起来忐忑不安，宗介就越是感同身受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And his mind started to drift into dangerous waters, remembering the third thing that a soldier never wanted to hear...</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后他警觉起来，想起了那第三样士兵绝对不会想到听到的事情...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Kaname, what's going on?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小要，发生了什么？” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I- " The young woman hesitated, wincing. Screwed her face up. Tried again. "Sosuke, I don't know quite how to put this... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我——”年轻的女子犹疑畏缩着，绷紧了面孔，又开口尝试了一次，“宗介，我真的不知道该怎么说出口...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I really should have said something earlier, but I... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我应该早点说的，但是我...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know what this news would do to you, you know, emotionally, and I didn't want to put you in danger because of it... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道你会有什么反应...情绪上...你知道的，而且我不想让你因此陷入危险...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mean, you needed to keep your wits about you out there, and I knew that a change like this... well..."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是说，你需要在战场上保持机敏，而我明白这种改变就像...就像...”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He waited patiently as she continued to babble, looking close to tears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他耐心的等待着她含糊不清的话语，她看起来几乎要哭出来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Plus, I... I didn't want to say it over the phone, or in a letter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“再加上，我...我不想在电话或者信里说这事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That just seemed... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那样就好像...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I dunno, tacky, and... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道，那有些古怪，而且...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>and- "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且——”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Kaname."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小要。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His voice was quiet, somber. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的声音低沉而阴郁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It caught his wife temporarily off-guard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>令她有些措手不及。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Startled out of her ramblings, she looked up to find that their roles had revered: now he was the one who was averting his gaze, trying to hide the emotions that his metal-gray irises would have reflected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从自己杂乱无章的话语中惊醒过来，她抬起头来发现两人的角色完全对调了：现在是他开始目光闪烁，试图掩藏他铁灰色的瞳孔中反射出的情感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Kaname, it is not necessary for you to say any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小要，你不用多说了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realize that being the spouse of a Mithril agent must put you under a great deal of unbearable stress... it is only natural to wish for a more stable life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我明白当一个秘银（Mithril，宗介服役的雇佣兵部队，主要职责为反恐和维和——译注）特工的妻子会给你带来多少沉重的压力...想要一种安定的生活总是没错的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If... if it is a divorce that you are looking for..."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果...如果你想要离婚...”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He swallowed painfully.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他费力地吞吐着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And she, in return, offered a loud snort. "...what?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而她则回应以疑惑的鼻息，“...什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kaname gawked, nothing but pure, unadulterated puzzlement in her response. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小要呆呆地说，完全被搞糊涂了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, puzzlement and a note of startled laughter-  the sort of uncontrollable amusement that one often found in the aftermath of an atrocious misunderstanding. And what a welcome sound it was... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>片刻之后笑出声来——是那种误会解除后控制不住的笑声。吃吃地笑声钻进宗介的耳朵...这是他多么乐意听到的声音啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The irrepressible giggle perked Sosuke's ear; he found the courage to meet his wife's eyes again, heartened by the small smile forming on her face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现自己又有了勇气直视妻子的双眼，她脸上浮现出的一丝笑容使他振作起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, Sosuke, that's not what I'm saying at all- !"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，宗介，那根本不是我想要说的——！” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the sergeant was no longer paying attention, for his very attentive ears had picked up another noise, as well: and this one was disturbingly out-of-place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这时军士的注意力已经转移，因为他灵敏的双耳同时捕捉到了另一种声音：一种令人不安而又格格不入的声响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two yards down the adjacent hallway- concealed by the darkness that lurked beyond the cracked door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沿着玄关，两码之外——隐蔽在破损门扉外的阴影中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The small guest bedroom, previously assumed to be unoccupied, as there had been no unfamiliar shoes in the well. Nor had he seen a foreign jacket in the closet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是那间狭小的客房，宗介先前认为那里是空置的，因为柜子里没有发现陌生的鞋子，衣柜里也没有其他外套。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, nobody should have been in there... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，那里应该没人在...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet, he had distinctly heard the shifting of cloth, followed by the faint, wooden groan of settling furniture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，他的确听到了衣物摩擦的声音以及木制家具的细微响动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was on his feet in an instant, shielding Kaname from view. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他迅速站起，将小要掩蔽在射界之外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Quiet!" he hissed, his trusty gun in his grip in record time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“别动！”他悄声说道，下一秒已持枪在手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There's someon-  urgh!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那里有人——” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apparently, Sosuke wasn't the only one who had achieved record time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，宗介并不是唯一听到声响的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kaname rested her large paper fan against her shoulder as she glared down at the crumpled form of her husband. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小要把她的大纸扇靠在肩上，狠狠地瞪着她丈夫弯着身子曲成一团的样子（这里要看过动画的才明白了，话说小要还是那么剽悍啊...）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Of course I know there's someone in there!" she snapped, placing her free hand on her hip and gracing Sosuke with a glower. "That's what I was trying to tell you!"...that was somewhat unexpected.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我当然知道那里有人！”她叫道，另一只手叉着腰，对丈夫怒目而视，“这就是我想要告诉你的！”...这多少有些出乎意料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A visitor?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一个客人？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sosuke's head popped up from the linoleum, as nonchalant as if he had never been assaulted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗介的头从地毯下冒出来说，竭力显出一副没被攻击过的平淡样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He straightened his battered body, and (though still wary) grudgingly consented to put his weapon away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他挺直了饱受摧残的身躯，而且（但是看起来还是十分警觉）勉强同意放下手中的武器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is it someone I know?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我认识的人吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The question was innocent enough- or so the soldier thought- but even still, it made his wife blush and stutter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个问题其实很普通——或者只是宗介自己如此想到——但是这还是让他的妻子面红耳赤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How curious. What was so upsetting about company? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太奇怪了，为什么这个访客令人这么心烦意乱？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What did a guest have to do with his emotional state? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个客人和自己的情绪有什么关系？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And where were this person's shoes? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且他的鞋哪儿去了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was all quite mystifying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这都太让人不解了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps further investigation would still be required, despite the so called "safety" of the situation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许还是要进行进一步的侦查，尽管现在看来还算“安全”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"...fine, then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“...好吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shall go look for myself," Sosuke decreed after a fruitless moment of waiting for an answer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要自己去看个究竟。”发现得不到答复，宗介做了这样的决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Kaname didn't want to tell him who their guest was, it could hardly bode well for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果小要不想让他知道客人是谁，对他来说可不算是个好兆头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps an old lover? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许是旧情人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, that was hardly likely... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，看起来不太可能（宗介，乃真是自信，GJ!）...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe one of their friends had fallen on difficult times, and she didn't want to say anything that might hurt their feelings? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能是他们的一个陷入窘境的老朋友，而她什么都没说，以免伤了对方的感情？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That seemed probable, the economy being what it was...</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这很有可能，经济问题总是...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So deep in thought was he, the soldier didn't fully register the pleas of "Um-  no, wait, Sosuke! I should really explain, first! After you le- !" that echoed from behind him, nor the scampering scuffle of slipper-covered feet as Kaname rushed after.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他这么陷入深思，没能听清他身后回响着的小要的恳求，“嗯——不，等等，宗介！先让我解释！在你走——！”也没听到身后拖鞋踢踢踏踏追上来的响动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He pushed into the spare bedroom without a problem- apparently Kaname had disarmed his booby traps while he was away; he'd have to talk to her about that later-  and only paused briefly when he noticed the change in decor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他毫无障碍地推开了门——很显然小要已经拆除了他走之前装好的诡雷，之后可得好好和她说说这事——在注意到房内装饰的变化后他只是稍稍停顿了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was hard to make out through the nighttime shadows, but there was a strange box in the middle of the floor, like a little wooden cage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很难看清夜里黑沉沉的房间，不过在中央有一个古怪的箱子，像是一个小小的木笼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"- ady been for a few mon- " </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“——后的几个月——” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Mithril sergeant squinted, head cocked as he tried to distinguish the strange forms that lurked in the gloom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>秘银的军士歪着头想要看清那些潜伏在阴影中的奇怪物体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could discern a dresser with a fair level of certainty, as well as a spare chair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他能够分辨出一个梳妆台，还有一把备用的椅子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there were other outlines that he could not classify; blobs in the corners of the room- blobs that had definitely not been there before he'd left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是还有些东西的轮廓他没法辨认，那些房间死角的斑点——这些斑点在他离开前肯定不存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he was unsure what the strange contraption dangling from the ceiling was, or what to make of the dangerous-looking silhouettes atop the drawers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且他也没办法确认那些天花板上吊着的奇怪装置，或者柜子上那些看上去十分危险的阴影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That cage, too, caused him some degree of concern. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个笼子也吸引了他的注意力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cautiously, he took three steps towards it, twitching fingers inching over the head of his pistol...</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他谨慎地向内迈出三步，颤动的手指缓缓移向手枪...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"- re you even listening to me?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“——你听到我的话了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sharp click; the room exploded with rosy lamp light.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然间，房间被玫瑰色的灯光点亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Sosuke found himself staring owlishly around a room that he no longer recognized. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗介发现自己正警觉地凝视着一个他不再熟悉的房间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the ceiling hung a mobile of different colors and shapes; atop the dresser were lines of toy ASes, a battle tank, and a miniature submarine; the blobs had transformed into stuffed animals and Bonta-kuns. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天花板上吊着各种颜色和形状的活动小玩意，柜子上摆着一排AS玩具（AS，Armed Slave，FMP中的先进主战兵器，一般译为强袭机兵，译注）、一辆主战坦克和一艘缩小的潜水艇的模型，房间四角的“斑点”变成了绒毛动物和BON太君（FMP中类似吉祥物的存在，外形如同一只胖胖的老鼠，译注）的玩具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the cage that the trained soldier had so carefully approached wasn't a cage at all- it was a crib, filled with pink blankets and a teeny, tiny, brown-haired newborn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而之前训练有素的士兵小心靠近的笼子根本就是不是一个“笼子”——那是一个婴儿床，满是粉色的毛毯，和一个小小的软软的，棕色头发的婴儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a full minute, the mercenary couldn't speak. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整整一分钟，雇佣兵没法开口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Couldn't move. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也没法移动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Couldn't breathe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没法呼吸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spell only broke when the little body in the cradle decided to roll over (again), curling more tightly around the toy gun that she held in her chubby baby arms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到小宝宝（又）翻了一次身，把胖胖的小胳膊中的玩具枪抱得更紧了之后，静默的咒语才被打破。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sosuke turned slowly to face his wife, the pieces rapidly coming together in his mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宗介缓缓地把脸转向他的妻子，无数念头一起涌上他的脑海。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Um... Kaname...?" he choked, tanned cheeks pinking adorably as realization finally set in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“呃...小要...？”他呛了口气，终于弄明白情况之后晒黑的脸颊浮现出红晕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is this child... is she my...?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这孩子...她是我的...？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kaname smiled sheepishly, even as she blushed and nodded.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小要羞怯地笑了，同时红着脸点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Surprise...?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“惊讶吗？”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

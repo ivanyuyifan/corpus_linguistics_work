@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T072427Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Milan Kundera's denunciation </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米兰昆德拉告密记</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Milan Kundera has always carefully covered his tracks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米兰昆德拉总是小心地遮盖他的行踪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has given no interviews for the past quarter of a century. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去的25年里他从来没有接受过采访。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He visits his native country only incognito and stays in hotels under assumed names. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他访问自己的祖国也只是用匿名的方式，并且使用假名入住酒店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has sworn his Czech friends to silence, so not even they are willing to speak to journalists about who Milan Kundera is and was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾经让他的朋友们发誓保持沉默，所以甚至连他们也不愿向记者透露米兰昆德拉是个怎样的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A murky and convoluted story has now accidentally surfaced from the past of the best known Czech writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个关于这个捷克最著名的作家的过往的阴暗又错综复杂的故事现在意外地浮出了水面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It indicates that there may be other reasons for his reclusiveness than we previously imagined.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它表明也许还有其它的超出我们之前想象的理由使他决定隐居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fourteenth of March 1950. Two years have just elapsed since the Communist putsch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1950年3月14日，共产党政变已经过去两年了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For over six months now Milada Horakova has been held in Ruzyn¨§ prison, and subjected to interrogations and torture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米拉达·霍拉科娃已经在监狱里待了超过六个月了，并且遭到了审讯和折磨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her trial is due to take place in a month's time and in three months' time she will be executed together with her co-defendants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的审判将在一个月内进，三个月后她将和她的共同被告们一起被枪决。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In various police stations in Prague the first interrogations of ten world-champion ice-hockey players, arrested yesterday evening for "public incitement against the the Republic" are already under way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在布拉格的多个警局，对昨晚以“公开煽动反对共和国”为由逮捕的10名世界级的冰上曲棍球选手的第一次审问正在进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They will be convicted of high treason and sentenced to lengthy terms of imprisonment, some of it spent in the uranium mines near Jachymov. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们将会被以叛国罪判处漫长的监禁，其中一些刑期是在亚希莫夫附近的铀矿度过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over ten thousand people are already interned in the camps there.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>已经有超过1万人被拘禁在那里的营地里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was on 14 March 1950 that the paths of two young men, Miroslav Dvo?a?ek and Milan Kundera, crossed for the first and last times. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1950年3月14日两个不同道上的年轻人，米罗斯拉夫·德沃拉西科和米兰昆德拉，第一次也是最后一次有了交叉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The former escaped a death sentence only by a whisker and spent many years in prisons and labour camps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前者仅仅因为胡须逃过了死刑，并在监狱和劳改营待了很多年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The latter was soon to become a rising star of "constructive" (i.e. pro-communist) literature, who then gradually emerged as one of the key Czech intellectuals of the 1960s and a world-renowned author.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后者很快成为“建设性”（也就是亲共产党的）文学的后起之秀，并且渐渐成为1960年代捷克最重要的知识分子之一和世界知名的作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For fifty-eight long years Milan Kundera was probably the only actor in the drama of those days who who knew what actually happened at the "Kolonka" student hall of residence in the Letna district of Prague. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在长达48年的时间里，米兰昆德拉可能是那些日子里谁知道在布拉格Letna区“Kolonka”学生宿舍里究竟发生了什么这出戏里唯一的男主角。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not until the spring of this year that a typewritten official document unexpectedly fell out of the archives of the Communist security agencies and shed light on the long-forgotten incident. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到今年春天，一份打印的官方文件意外地从共产党安全机构的档案里流露了出来，使得这件被长期遗忘的事件重见天日。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But let us take things in the proper order.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我们好好的梳理一下这些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The end of a dream </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>梦想的结束</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miroslav Dvo?a?ek was born in 1928 at Kostelec nad Orlici, a small town in Eastern Bohemia, into the family of a civil servant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米罗斯拉夫·德沃拉西科1928年出生在Kostelec nad Orlici，东部波西米亚的一个小镇上的一个公务员家庭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While at gymnasium (secondary school) he made friends with Miroslav Juppa, a boy of his own age, who had transferred to the school in Kostelec when the gymnasium at nearby Rychnov was closed by the occupation authorities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在（中等学校）的体育馆与一个和他年龄相仿的名叫Miroslav Juppa的男孩成为朋友，后者当Rychnov附近的体育馆被占领当局关闭后转学到了Kostelec的学校。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two young men were to share the same ambition - to become airmen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两个年轻人有着同样的野心——成为飞行员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Czechs' wartime humiliation combined with the heroism of Czech pilots flying with the RAF caused their juvenile yearning to become a firm determination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>捷克在战时得到的羞辱加上捷克飞行员与英国皇家空军一起飞行时的英勇导致他们的青少年对飞行的渴望成为坚定的决心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After leaving school they were both gained entrance to the Air Force Academy at Hradec Kralove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕业后他们都进入了位于赫拉德茨克拉洛韦的空军军官学院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The year was 1947.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那一年是1947年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I can remember how happy they were to be accepted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我还能记得他们被接受时是多么的开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had set their hearts on going there," recalls their common friend Iva Militka, who plays a crucial role in the story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们一心想要去到那里“，他们的一个共同朋友Militka回忆说，她在这个故事里扮演着一个重要的角色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miroslav Dvo?a?ek she had known since childhood, Juppa she had fallen in love with when they were both at school and had started to go out together. "Sometimes he'd fly over our house and wave to me with with the plane's wings," the now 79-year-old lady recounts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在童年时就跟米罗斯拉夫·德沃拉西科认识，当她跟Juppa都在学校的时候她爱上了Juppa并且他们开始交往过。”有时他会飞过我们的屋子并用飞机翅膀向我挥手’，这位现年79岁的老太太叙述道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two young men's happiness was to be short-lived, however. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这两个年轻人的幸福是短暂的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the Communist putsch in February 1948 a purge of the armed forces was carried out and the air force was particularly affected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1948年2月共产党政变后一场清洗军队的行动开始了，并且空军是受影响最大的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forty percent of the officers were former members of the British RAF, who hated the new regime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>40%的空军军官是前英国皇家空军成员，他们讨厌新政权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pilots were demoted as unreliable and enemies of socialism, dismissed from the forces and sent to labour camps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>飞行员被认为是不可靠的、是社会主义的敌人因而被降职，他们被开除出军队并被送往劳改营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Students didn't escape the effects of the purges either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学生们也没能逃过清洗行动的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The class that Juppa and Dvo?a?ek attended was disbanded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>juppa和米罗斯拉夫·德沃拉西科所在的班级被解散了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were stripped of their rank, weapons and permission to fly," Iva Militka recalls and the dry officialese of the documents preserved in the archives bear out her statement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们被剥夺了军衔、武器和飞行许可，Iva Militka回忆道，保存在档案里的文件里的干瘪的官方文章证实了她的陈述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The named students of the Air Force Academy must be immediately expelled from Academy not only in view of their negative attitude to the democratic system of our state but also of their open opposition to the state and the Party," reads the HQ memorandum dated 20 January 1949 relating to the purges carried out in Year III of the Academy to which both friends belonged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这些被点名的空军军官学院学生必须马上被学院开除不仅仅因为他们对待我们国家的民主制度的消积态度，更因为他们公开反对国家和党。”在标注日期为1949年1月20日的关于这一对朋友所在的学院在清洗行动的第三年的备忘录中这样写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In February, the young men received orders to transfer to the infantry regiment in Plze¨¾ and they left the barracks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2月，这些年轻人接到了调往驻比尔森的步兵团的命令，然后他们离开了兵营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They did not report to the infantry regiment, however. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而他们并没有到到步兵团报到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Realising there was no way out of their situation and that their future was uncertain, the two had already decided to flee to the West and join the air force there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意识到没有办法解决他们的艰难处境并且他们的未来也是不确定的，这两个人决定逃往西欧并加入那里的空军。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They stopped off at their homes to pick up civilian clothes and then went to Prague where they were hidden for several days by some relatives of Iva Militka's. "I paid them several visits and took them food. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们中途在家中停留拿了一些便服然后去了布拉格，在 Iva Militka的亲戚家中躲藏了几天。“我去看过他们几次并给他们带了食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They told me they were due to be smuggled across the frontier in several days' time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们告诉我他们会花几天的时间偷偷越过边境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We said brief farewells. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们简短地道别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time I was still planning to join them abroad," she recalls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时候我还打算跟他们一起出国。”她回忆道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two men then bought a map and a compass in Prague and crossed unnoticed into the western zone of Germany through the thick Bohemian Forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两个人在布拉格买了地图和指南针然后悄悄地越过了边境并且穿越了浓密的波希米亚森林进入到德国西部。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Communist who didn't parade</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>共产党员不游行</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time and in the same country Milan Kundera's life was taking a totally different course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在同样的时间同样的国家米兰昆德拉的生命正沿着一条完全不同的道路前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He grew up in Brno, the Moravian capital, surrounded by books, in the family of the well-known musicologist, musician and scholar Ludvik Kundera. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在摩拉维亚的首府布尔诺长大，生长在著名的音乐理论家、音乐家和学者Ludvik Kundera的家里，被书籍包围着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time he was attending secondary school, he was already outstripping his peers in terms of erudition, education and outlook. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他上中学的时候，他的学识、教育和前景已经超过了同龄人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shared the prevailing enthusiasm for the idea of socialism and admiration for Stalin's Soviet Union. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对当时盛行的社会主义的想法非常热情并且对斯大林的苏联赞赏有加。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"For the generation that grew up around the time of the war it was very hard not to fall prey to that illusion," Kundera's fellow-writer Ivan Klima explains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“作为战火纷飞的年代成长起来的一代人，很难不成为那种幻觉的受害者”，昆拉德的作家同行伊凡克利马这样解释。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Klima experienced the youthful infatuation with Communism at first hand, but unlike Kundera he is prepared to reflect on it: "We grew up cut off from information. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克利马亲自体验过这种年轻的对共产主义痴迷的感觉，但是不像昆德拉，他已经准备反思：“我们成长在一个信息中断的年代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even in the years from 1945 to 1948 no one dared to write the truth about Stalin although people were already aware of his crimes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至在1945到1948年没有人敢写出关于斯大林的真相虽然人们已经意识到他的罪行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the young left-wing intellectuals of those days, Stalin was the one who ended the war and socialism represented hope of a better world."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于那时的年轻左翼知识分子来说，斯大林是那个结束了战争的人并且社会主义代表了一个更好的世界的希望”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Milan Kundera joined the Communist Party of Czechoslovakia (KS?) and penned poetry and song texts in the spirit of the socialist ardour of those days. "Our friendship arcs across the sky like a rainbow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“米兰昆德拉加入了捷克斯洛伐克共产党，他写了关于那个年代的那种社会主义激情的精神的诗和歌词。”我们友谊的光环像彩虹一样横跨天空。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Soviet Union and our country will be together for ever and ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苏联和我们的国家永远在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our friendship towers over us like a rocky peak above the waves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的友谊高过我们就像岩石的顶点超过海浪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The warmongers will crack their skulls against that rock," run the words of one of the songs for which Kundera supplied the words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好战者会搬起石头砸自己的脚”，这些都是来自于其中的一首由昆德拉提供歌词的歌曲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These days it sounds menacing, but the poet's friends from that period all concur that in left-wing cultural circles of the forties and fifties, the talented Brno intellectual was one of the more critical devotees of Stalinism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在看起来它来势汹汹，但是诗人那时的朋友一致认为在40年代和50年代的左翼文化圈里，这个有才的布尔诺知识分子是最挑剔的斯大林信徒之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The erudite aesthete loathed mass shenanigans and he apparently did not even attend May Day parades. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位博学的唯美主义者讨厌大规模的诡计并且很显然他甚至连五一大游行都没去参加。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tried to provide a rational explanation for his attitude to Communism. "Milan was a totally different type of person from me," the writer Pavel Kohout recalls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他试着为他对共产主义的态度提供一个理性的解释。”米兰跟我是完全不同类型的人，“作家巴韦尔科胡特回忆道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the fifties Kohout was a prominent Stalinist propagandist, although he subsequently became a founder of Charter 77 and a dissident. "He was a very withdrawn and pernickety person, but that doesn't mean he didn't truly believe in the ideas of socialism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在50年代科胡特是一名杰出的斯大林主义宣传者，虽然后来他成为了七七宪章的创始人之一和异见者。”他是一个沉默寡言并且爱挑剔的人，但是那并不意味着他没有真正的相信社会主义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It simply that everyone expressed themselves differently."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很简单，每个人都会用不同的方式表达自己“。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1948 Kundera moved from Brno to Prague and enrolled at the film academy to study direction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1948年昆德拉从布尔诺搬到了布拉格进入电影学院学习导演。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've sat on many admissions boards in my time but only twice in my life did it happen that a candidate walked in and it was immediately obvious that he stood head and shoulders above the rest," recalls the director Antonin Kachlik, then an active member of the Party and head of the student council, who was an intimate friend of Kundera's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我参加过很多招生委员会的面试，但一生中只见过两次这样的事情：当一个面试者走进来，马上就很显明地感觉到他远远超过其他的面试者“，当时的主任Antonin Kachlik说，他是一个党的积极分子和学生会头头，也是昆德拉的知己。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That incredible erudition, breadth of outlook and conceptual thinking - that is something one rarely came across." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那种惊人的博学、开阔的远见和概念性思考——那是很少在其他人身上发现的”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The young Communist intellectual soon made a name for himself in the film faculty and the Prague cafes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位年轻的共产党知识分子很快在电影系和布拉格的咖啡馆出名了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Happy days at "Kolonka" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在Kolonka的快乐日子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that time Iva Militka was also enjoying her carefree student days beneath the red banner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时Iva Militka也正在红旗下享受着她那无忧无虑的学生生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Juppa, her boyfriend from school days, had disappeared abroad with his friend Dvo?a?ek, and she had enrolled at Charles University to study German and Scandinavian languages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她学生时代的男朋友Juppa，已经和他的朋友德沃拉西科一起消失在了国外，她也进入了查尔斯大学学习德语和斯堪的纳维亚语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A new world opened up to me in Prague," she recalls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在布拉格，一个崭新的世界展现在我面前”，她回忆道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I was given accommodation at the "Kolonka" hall of residence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我被安排住在Kolonka学生宿舍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a little single room with a cherry tree outside the window that used to blossom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我住一个单人间，窗外有一棵开过花的樱桃树。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I spent the happiest days of my life there."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在那度过了一生中最快乐的时光”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Militka came to the university after the main wave of Bolshevik purges, during which a quarter of all the students and a thousands of teachers had been expelled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Militka是在布尔什维克大清洗的大浪潮过后进入大学的，在大清洗期间有四分之一的学生和上千的老师被开除。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There chiefly remained loyal Communists, and life at the student residences was like an idyll of "socialist construction". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里留下的多半是忠诚的共产党员，学生宿舍的生活就像“社会主义建设的”田园生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The young student soon fell prey to the infectious ideology too (but she never joined the party). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些年轻的学生很快也成为这种传染性意识形态的受害者（但是她从来没有入过党）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I expect these days no one would understand," she says, in an effort to describe the atmosphere at "Kolonka", "but I can remember, for instance, taking a walk on Pet?in Hill with a fellow student. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想那时没人会明白”，她说，她努力描述着当时Kolonka的气氛，“但是我能记起来，例如，跟同学一起在Pet?in山上散步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We stopped and chatted and he dreamed about how Czechoslovakia would one day become one of the union republics of the USSR".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们停下来聊天，他梦想着怎样才能使捷克斯洛伐克有一天成为苏联加盟共和国之一”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not long after, a student of aesthetics and a fervent young Communist by the name of Miroslav Dlask would become part of her idyll. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久后，一个美学学生和一个名叫Miroslav Dlask的热情的年轻共产党员成为她田园般生活中的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They got to know each other at a student work camp in Ostrava and were soon going out together. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在斯特拉瓦的一个学生工作营中认识了对方并很快开始约会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dlask's father, a social democrat, had survived Auschwitz, and the young student enthusiastically held forth to his new love about how humanism would emerge victorious only through the unity of social democracy and Communism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Dlask的父亲是一个社会民主党党员，是奥斯威辛集中营的幸存者，这个名年轻的学生满腔热情地向他的新恋人介绍说只有通过社会民主主义和共产主义的团结才能使人道主义取得胜利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dlask also introduced his new girlfriend to his like-minded friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Dlask把他的新女朋友也介绍给了与他志趣相投的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of his closest friends was a student at the film academy, the charismatic intellectual Milan Kundera. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他最好的朋友中，有一个是电影学院的学生，他就是魅力超凡的知识分子米兰昆德拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Iva Militka decided at that time that she would no longer be emigrating to join her one-time boyfriend Juppa.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Iva Militka那时决定她将不再出国跟她从前的男友Juppa会和了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mission of General Moravec </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫拉维茨将军的任务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Leopold Barracks refugee camp in Munich was far removed from that Prague student idyll. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>慕尼黑的利奥波德兵营难民营远离布拉格的学生田园生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The international network of refugee camps then used the space of former concentration camps and barracks, into which 150,000 people were crammed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际难民营网络使用以前的集中营和兵营的空间，将15万人塞入其中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The conditions prevailing there were dreadful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那里的状况普遍地很糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Czech emigres who left after the Communist putsch of February 1948 suffered harassment at the hands of the expelled Sudeten Germans, and the intelligence services of the Communist and western countries vied with each other in luring refugees to work as secret agents.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1948年2月共产党政变后离开的捷克流亡者饱受被驱逐的苏台德日耳曼人的骚扰，并且共产党和西方国家的情报部门你争我夺地引诱难民成为特务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miroslav Dvo?a?ek and Miroslav Juppa had no doubts about which side they wanted to work for. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米罗斯拉夫·德沃拉西科和Miroslav Juppa毫无疑问知道他们想为哪方工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They underwent interrogation by the US army Counter-Intelligence Corps (CIC), in the course of which they described the Hradec Kralove barracks, including the number of aircraft and personnel, and their training, and they drew maps of the airfields. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们经历过美国军队反情报队的审问，审问过程中他们供出了赫拉德茨克拉洛韦兵营的情报，包括飞机与人员的数目和他们的训练，他们画出了机场的地图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In mid-November 1949, they were invited to an unassuming villa not far from the refugee camp at Ulm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1949年11月中旬，他们被邀请到乌尔姆一座离难民营不远的低调的别墅里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There they met General Franti?ek Moravec, war hero and legendary head of military intelligence, who offered them work for "the American-supported Czechoslovak intelligence services". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在那里见到了莫拉维茨将军，这位战争英雄和军事情报的传奇头目让他们为“美国支持的捷克斯洛伐克情报部门”工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were to work as couriers and carry out missions in Czechoslovakia that would help restore democracy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们作为情报员，在捷克斯洛伐克执行那些将会帮助恢复民主的任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The young pilots accepted on condition that General Moravec would subsequently see they were reinstated in the air force.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年轻的飞行员们接受了任务，条件是莫拉维茨将军以后要让他们在空军复职。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

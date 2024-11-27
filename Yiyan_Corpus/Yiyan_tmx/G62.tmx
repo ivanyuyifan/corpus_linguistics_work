@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083032Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Twelve Years a Slave</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为奴十二年</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一章</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>INTRODUCTORY-ANCESTRY -THE NORTHUP FAMILY- BIRTH AND PARENTAGE-MINTUS NORTHUP-MARRIAGE WITH ANNE HAMPTON-GOOD RESOLUTIONS-CHAMPLAIN CANAL-RAFTING EXCURSION TO CANADA-FARMING-THE VIOLIN-COOKING-REMOVAL TO SARATOGA-PARKER AND PERRY- SLAVES-AND SLAVERY -THE CHILDREN-THE BEGINNING OF SORROW</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>介绍——血统——诺瑟普家族——出生和家世——麦特斯.诺瑟普——和安娜汉普顿完婚——决心——张伯伦运河——漂流旅行到加拿大——种植——小提琴——厨艺——搬到萨拉托加——帕克和佩里——奴隶——奴隶主——孩子们——悲剧的开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having been born a freeman, and for more than thirty years enjoyed the blessings of liberty in a free State-and having at the end of that time beenkidnapped and sold into Slavery, where I remained, until happily rescued in themonth of January, 1853, after a bondage of twelve years-it has been suggestedthat an account of my life and fortunes would not be uninteresting to the public.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出生时作为自由人，在纽约享受了30多年的自由生活后，我于1841年被绑架并被卖给奴隶主，当了12年奴隶，直到1853年1月幸运的获救——我的这番经历，公众应该会感兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since my return to liberty, I have not failed to perceive the increasing interest throughout the Northern States, in regard to the subject of Slavery.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从我重获自由后，我发现北部各州对奴隶制的兴趣越来越浓厚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Works of fiction, professing to portray its features in their more pleasing as well as more repugnant aspects, have been circulated to an extent unprecedented, and, as I understand, have created a fruitful topic of comment and discussion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公开的描绘奴隶制特点和好坏的小说空前传播，就我个人而言，这创造了一个值得探讨的话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can speak of Slavery only so far as it came under my own observation-only so far as I have known and experienced it in my own person.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对奴隶制的认识基于至今为止我对它的观察——我本人所知道的和经历的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My object is, to give a candid and truthful statement of facts: to repeat the story of my life, without exaggeration, leaving it for others to determine, whether even the pages of fiction present a picture of more cruel wrong or a severer bondage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的目标是给事实一个公正和真实的陈述：讲述我的故事，没有夸大其词，让读者自己感悟和思考，小说里展现的奴隶制的画面是否像现实中的那样残酷严厉，由读者判断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far back as I have been able to ascertain, my ancestors on the paternal side were slaves in Rhode Island. They belonged to a family by the name of Northup, one of whom, removing to the State of New York, settled at Hoosic, in Rensselaer county. He brought with him Mintus Northup, my father. On the death of this gentleman, which must have occurred some fifty years ago, my father became free, having been emancipated by a direction in his will.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能追溯到的最早的我的父系祖先，原是罗德岛州的奴隶，他们服务于一个叫诺瑟普的家族。后来，我祖父的主人移居到了纽约，在伦斯勒乡下的一个叫胡塞克的地方定居了下来，他移居的时候带着我父亲麦特斯诺瑟普，这位先生去世后——大概50年前了——立下遗嘱解放我父亲，于是我父亲成了自由人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry B. Northup, Esq., of Sandy Hill, a distinguished counselor at law,and the man to whom, under Providence, I am indebted for my present liberty,and my return to the society of my wife and children, is a relative of the family in which my forefathers were thus held to service, and from which they took the name I bear. To this fact may be attributed the persevering interest he has taken in my behalf.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桑迪山的亨利.B.诺瑟普先生是一位著名的律师——感恩于他，在普罗维登斯我重获自由并与妻儿团聚，他是我祖父老主人的亲戚，我们的姓得自于他们家族，这可能也是亨利先生坚定不移的为我打官司并让我获得自由的原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometime after my father's liberation, he removed to the town of Minerva,Essex county, N. Y., where I was born, in the month of July, 1808. How long he remained in the latter place I have not the means of definitely ascertaining. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1808年7月，就在获得自由后不久，父亲搬到了位于纽约的密涅瓦的埃塞克斯郡，我就是出生在这里，我们在这个地方住了多久我记得不是很真切了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From thence he removed to Granville, Washington county, near a place known as Slyborough, where, for some years, he labored on the farm of Clark Northup, also a relative of his old master; from thence he removed to the Alden farm, at Moss Street, a short distance north of the village of Sandy Hill; and from thence to the farm now owned by Russel Pratt, situated on the road leading from Fort Edward to Argyle, where he continued to reside until his death, which took place on the22d day of November, 1829. He left a widow and two children -myself, andJoseph, an elder brother. The latter is still living in the county of Oswego, nearthe city of that name; my mother died during the period of my captivity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来，我们搬到了一个靠近华盛顿的格兰维尔一个叫瑟莱伯莱的地方，他在这为他老主人的亲戚克拉克诺瑟普务了几年农。往后，又搬到了慕瑟街的奥尔登农场，离桑迪山的北部城镇很近。过后又去了现在属于拉瑟尔普拉特所有的农场，这个农场位于爱德华堡到阿盖尔的大路傍边，父亲居住和生活在这直到1829年11月22日去世，留下母亲和两个孩子——我和我哥约瑟夫，我哥现在依旧生活在奥斯威戈的乡下；我母亲在我被绑架和奴役在外期间去世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though born a slave, and laboring under the disadvantages to which my unfortunate race is subjected, my father was a man respected for his industry and integrity, as many now living, who well remember him, are ready to testify.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然生而为奴且种族处于社会的不利地位，父亲并没有因此而消沉，相反，父亲却因他的勤勉和正直倍受尊敬，许多在世的老人都清楚的记得他，并愿意为此作证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His whole life was passed in the peaceful pursuits of agriculture, never seeking employment in those more menial positions, which seem to be especially allotted to the children of Africa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一生都在平和的从事农活，从没找过其他似乎专属于非洲来的小黑人的卑微的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides giving us an education surpassing that ordinarily bestowed upon children in our condition, he acquired, by his diligence and economy, a sufficient property qualification to entitle him to the right of suffrage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了给了我们超过普通同龄人的教育，通过勤勉和节俭，获得的充足的经济条件也让他有参政的权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was accustomed to speak to us of his early life; and although at all times cherishing the warmest emotions of kindness, and even of affection towards the family, in whose house he had been a bondsman, he nevertheless comprehended the system of Slavery, and dwelt with sorrow on the degradation of his race. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他喜欢向我们讲述他的早年生活；虽然他总是珍惜善意带来的温暖感情，对家庭也充满了热爱，但在自己的家园里他却是个奴隶，但他还是理解奴隶制这个体系，并始终为自己种族的堕落感到悲哀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He endeavored to imbue our minds with sentiments of morality, and to teach us to place our, trust and confidence inHim who regards the humblest as well as the highest of his creatures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他努力给我们灌输道德感，并教育我们要全身心的追随上帝，上帝在他的造物者中是最谦卑也是最崇高的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How often since that time has the recollection of his paternal counsels occurred to me,while lying in a slave hut in the distant and sickly regions of Louisiana,smarting with the undeserved wounds which an inhuman master had inflicted,and longing only for the grave which had covered him, to shield me also from the lash of the oppressor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那时起，多少次父亲的言语萦绕在我的脑海中。当躺在路易斯安那州那偏远而令人作呕的小屋中，因残忍的奴隶主强加给我的不应有的伤痕而剧痛难耐时，我只渴望着长眠于坟墓中的父亲能保佑我免于压迫者的鞭笞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the church yard at Sandy Hill, an humble stone marks the spot where he reposes, after having worthily performed the duties appertaining to the lowly sphere wherein God had appointed him to walk.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在桑迪山的墓地里，一块谦卑的石碑标记着他长眠的地方。他正当的履行完了他应尽的责任，在这个墓地的这块卑微狭小的空间里，上帝已经引领他走向了天堂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Up to this period I had been principally engaged with my father in the labors of the farm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这段时间，我主要是和父亲一起到农场务农。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The leisure hours allowed me were generally either employed over my books, or playing on the violin-an amusement which was the ruling passion of my youth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>空闲时，我看书或者演奏小提琴——一项支配着我青春和激情的娱乐活动。从那时开始，演奏小提琴成了我获得心灵安慰的源泉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has also been the source of consolation since,affording, pleasure to the simple beings with whom my lot was cast, and beguiling my own thoughts, for many hours, from the painful contemplation of my fate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小提琴给予我安慰和快乐的同时注定了我的命运，当我反思这段路程的时候，我常常自欺欺人的这样想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Christmas day, 1829, I was married to Anne Hampton, a colored girl then living in the vicinity of our residence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1829年的圣诞节，我和安娜汉普顿——一个住在附近地区的有色人种女孩——结婚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ceremony was performed at Fort Edward, by Timothy Eddy, Esq., a magistrateof that town, and still a prominent citizen of the place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚礼在爱德华堡举行，主婚人是提摩西艾迪先生，他是镇上的地方官，也是镇上杰出的公民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had resided a longtime at Sandy Hill, with Mr. Baird, proprietor of the Eagle Tavern, and also inthe family of Rev. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜和贝尔德先生——金鹰旅馆的业主——也是塞仑的雷夫.亚历山大普劳德菲特家族的人—在桑迪山一起居住了很长时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alexander Proudfit, of Salem. This gentleman for many years had presided over the Presbyterian society at the latter place, and was widely distinguished for his learning and piety. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝尔德先生常年主持塞仑的长老会活动，他的博学和虔诚让他得到广泛爱戴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anne still holds in grateful remembrance the exceeding kindness and the excellent counsels of that good man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当想起这位先生的宽厚仁慈和谆谆教诲，安娜都会心存感激。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is not able to determine the exact line of her descent, but the blood of three races mingles in her veins. It is difficult to tell whether the red, white, or black predominates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜没办法的确定自己的血统，她血管里流淌着三个种族的血液，很难去分辨是红色、白色、还是黑色种族的血液在她血管里占主导地位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The union of them all, however, in her origin, has given hera singular but pleasing expression, such as is rarely to be seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些血统的混合，作为她生命的本源，造就了独特而令人愉快的她，令人印象深刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though somewhat resembling, yet she cannot properly be styled a quadroon, a class to which, I have omitted to mention, my mother belonged.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然有点相像，但她不能算是混血儿，我忘了说了，我母亲才是混血儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had just now passed the period of my minority, having reached the age of twenty-one years in the month of July previous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这年的1月，我21岁，脱离了孩子的稚气，成为了成年人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Deprived of the advice and assistance of my father, with a wife dependent upon me for support, I resolved to enter upon a life of industry; and notwithstanding the obstacle of color, and the consciousness of my lowly state, indulged in pleasant dreams of a good time coming, when the possession of some humble habitation, with a few surrounding acres, should reward my labors, and bring me the means of happiness and comfort.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没了父亲的建议和帮助，而多了妻子的依赖，因此我决定开始为生活奋斗，尽管有着种族的羁绊，尽管认识到自己社会地方低下，但我还是梦想着好日子的到来，相信虽只有寒舍几间、田地几亩，但凭自己的勤劳和努力，我们一定会过上快乐而舒适的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the time of my marriage to this day the love I have borne my wife has been sincere and unabated; and only those who have felt the glowingtenderness a father cherishes for his offspring, can appreciate my affection for the beloved children which have since been born to us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结婚至今，我对妻子的爱一直真诚未减退半分。对我挚爱的儿女，从他们降生于这个世界，我就对他们倾注了无限的热爱，只有身为父母的人才能理解我对我的儿女们的炙热柔情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This much I deem appropriate and necessary to day, in order that those who read these pages, may comprehend the poignancy of those sufferings I have been doomed to bear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>提到我的儿女，为的是读者们可以理解我后来要经历的痛苦命运的种种辛酸苦楚，在传记里表达这点我认为是适合的和必要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Immediately upon our marriage we commenced house-keeping, in the old yellow building then standing at the southern extremity of Fort Edward village,and which has since been transformed into a modern mansion, and lately occupied by Captain Lathrop. It is known as the Fort House. In this building the courts were sometime held after the organization of the county. It was also occupied by Burgoyne in 1777, being situated near the old Fort on the left bankof the Hudson.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚后不久，我们就开始为家庭生计做打算。爱德华堡南端有座黄色的老建筑，不久被改造成了一栋现代化大厦，后来被拉斯罗普上尉占领，也就是为人熟知的堡邸，在这不时会举行各郡组织的法庭活动，1777年这里被伯格因占领。这栋建筑位于哈德逊河左岸靠近旧堡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the winter I was employed with others repairing the ChamplainCanal, on that section over which William Van Nortwick was superintendent.David McEachron had the immediate charge of the men in whose company I labored. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冬季，我和其他人受雇修缮尚普兰运河，当时威廉万诺维奇是这个河段的主管，而戴维麦凯克伦是我们的直接主管。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time the canal opened in the spring, I was enabled, from the savings of my wages, to purchase a pair of horses, and other things necessarily required in the business of navigation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>春季，运河开通后，我被允许用工资所得积蓄买了两匹马和其他一些装备，让我可以从事河运生意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having hired several efficient hands to assist me, I entered into contracts for the transportation of large rafts of timber from Lake Champlain to Troy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雇了几个得力助手，我签了个木材运输的合约，开始用大木筏在尚普兰湖到特洛伊之间进行木材运输。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dyer Beckwith and a Mr. Bartemy, of Whitehall, accompanied me on several trips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴尔贝克维斯和来自怀特霍尔的巴特尼先生随我一道进行了几趟运输旅程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the season I became perfectly familiar with the art and mysteries of rafting-a knowledge which afterwards enabled me to render profitable service to a worthy master, and to astonish the simple-witted lumbermen on the banks of the Bayou Boeuf.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个冬季，我熟练的掌握了木筏航行相关的技术—这些技术让我在后来被奴役期间，为一位值得尊敬的主人做了些可以为他节省成本的活，并且让百由伯夫岸边头脑简单的伐木工人大吃一惊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In one of my voyages down Lake Champlain, I was induced to make a visit to Canada. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在来往尚普兰湖的一次航行中，我忍不住去了趟加拿大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Repairing to Montreal, I visited the cathedral and other places of interest in that city, from whence I continued my excursion to Kingston and other towns, obtaining a knowledge of localities, which was also of service tome afterwards, as will appear towards the close of this narrative.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在蒙特利尔进行了休整，我拜访了教堂和其他名胜古迹，还游览了金斯顿和其他城镇，知道了许多这些地方的风土人情，这些知识后来也忙了我很大的忙，这部分内容将在靠近本传记结尾详述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having completed my contracts on the canal satisfactorily to myself and to my employer, and not wishing to remain idle, now that the navigation of the canal was again suspended, I entered into another contract with Medad Gunn, to cut a large quantity of wood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>运输木材的合约圆满完成，我和我的雇主对这次合作都很满意。但我不想闲着，可这时运河又被暂停航运了，所以我就和米达.岗恩签订了一大单伐木合同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this business I was engaged during the winter of1831-32.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1831到1832年的冬季，我都在从事这项工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the return of spring, Anne and myself conceived the project of taking a farm in the neighborhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>春天到来的时候，安娜和我觉得应该在附近找个农场进行种养。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had been accustomed from earliest youth to agricultural labors, and it was an occupation congenial to my tastes. I accordingly entered into arrangements for a part of the old Alden farm, on which my father formerly resided. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我已经从一个幼稚的青年成长为成熟的农村劳力，并且我也很喜欢从事种养，于是我把老奥尔登农场—我父亲生前生活的地方——的一部分进行了开垦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With one cow, one swine, a yoke of fine oxen I had lately purchased of Lewis Brown, inHartford, and other personal property and effects, we proceeded to our new home in Kingsbury. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>靠着最近从哈特福特的路易斯布朗那买来的一头奶牛，一头猪，连带耕具和其他的生活用品，我们在金斯伯里开始了新家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That year I planted twenty-five acres of corn, sowed large fields of oats, and commenced farming upon as large a scale as my utmost means would permit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那年我种了25英亩玉米，并且播种了大片的燕麦，开始了我至今为止最大规模的种养。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anne was diligent about the house affairs, while I toiled laboriously in the field.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安娜勤劳的操持家务，而我则在田间地头辛勤劳作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this place we continued to reside until 1834. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在这里生活到1834年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the winter season I had numerous calls to play on the violin. Wherever the young people assembled to dance, I was almost invariably there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冬天，很多人邀我去演奏小提琴，几乎每个有年轻人跳舞的地方，都会出现我的身影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Throughout the surrounding villages my fiddle was notorious. Anne, also, during her long residence at the Eagle Tavern,had become somewhat famous as a cook. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的小提琴演奏在附近乡镇颇为闻名，而安娜由于在金鹰旅馆生活了很长时间，掌握的上佳厨艺也远近闻名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During court weeks, and on public occasions, she was employed at high wages in the kitchen at Sherrill's Coffee House.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>碰到法庭周和公共活动的时候，她就会被谢里尔咖啡馆高薪请去主厨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We always returned home from the performance of these services with money in our pockets; so that, with fiddling, cooking, and farming, we soon found ourselves in the possession of abundance, and, in fact, leading a happy and prosperous life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回家的时候我们的口袋里总是装着演奏或者主厨赚来的钱。就这样，靠着小提琴演奏、厨艺和种养，很快我们过上了充裕——事实上——快乐而富足的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, indeed, would it have been for us had we remained on the farm at Kingsbury; but the time came when the next step was to be taken towards the cruel destiny that awaited me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，要是我们没离开这里就好了，离开这以后，一段残酷的命运在等待着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In March, 1834, we removed to Saratoga Springs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1834年3月，我们搬到到了斯拉拖加斯普林斯顿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We occupied a house belonging to Daniel O'Brien, on the north side ofWashington street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们住在华盛顿街北边属于丹尼尔奥布莱恩的房子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that time Isaac Taylor kept a large boarding house, known as Washington Hall, at the north end of Broadway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时艾萨克泰勒经营着一座很大的寄宿公寓，位于百老汇最北边，即为人熟知的华盛顿公寓。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He employed me to drive a hack, in which capacity I worked for him two years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他雇我当马车夫，这份工作我做了2年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After this time I was generally employed through the visiting season, as also was Anne, in the UnitedStates Hotel, and other public houses of the place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后，我和阿娜主要在社交季为美国旅馆或者其他公共场提供服务。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

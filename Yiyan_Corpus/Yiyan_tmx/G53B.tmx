@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Kira Radinsky, the Prophet of the Web</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Kira radinsky网络预言家</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Kira Radinsky is a rising star in predictive analytics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Kira Radinsky是预言分析领域迅速崛起的新星。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She combines the use of artificial intelligence and online data mining to predict likely futures for individuals, societies, and businesses. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她结合了人工智能和在线数据挖掘来为个人、协会以及企业来进行大致的未来预测。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Radinsky made headlines two years ago for developing a series of algorithms that dissect words and phrases in traditional and social media, Web activity, and search trends to warn of possible disasters, geopolitical events, and disease outbreaks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>早在两年前，Kira就因自己开发出的一系列算法而上过头条，这套算法对传统和社交媒体，网络活动以及搜索趋势的单字和短语进行分析来对可能发生的灾难、地缘政治事件以及疾病进行预警。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Her system predicted Cuba's first cholera epidemic in decades and early Arab Spring riots.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她的系统预言了古巴几十年内的第一场霍乱蔓延以及近期发生的阿拉伯之春骚乱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The algorithm¡ªwhich grew out of Radinsky's Ph.D. work at Technion-Israel Institute of Technology, in Haifa¡ªlooks for clues and historical patterns inferred from online behavior and news articles. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这套算法，是Kira在海法的以色列理工大学读博士时开发的，它会从人们的在线行为和新闻标题中推测出线索和历史规律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"During an event, people search [for related topics] much more than usual," she says. "The system looks for other times we saw a spike in that same topic and analyzes what was going on in the places that had this same spike."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“在每件事发生的期间，人们会更多的搜索相关话题，”她说，“这套系统会寻找出现同样话题高峰的不同时期，并分析有相同话题高峰的那些地方都发生了什么事情。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With the 2012 Cuba cholera outbreak, for example, the system "learned," by perusing news items, that cholera outbreaks occurred after droughts in Angola in 2006 and large storms in Africa in 2007. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>举个例子，2012年古巴爆发霍乱，通过精确分析新闻标题，包括2006年安哥拉旱情之后，以及2007年非洲暴风之后都爆发了霍乱，我们的系统就“学会”这个事件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The algorithm also noted other factors, such as location, water coverage, population density, and economy. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然这套算法还会关注其他的因素，比如地点，水覆盖率，人口密度以及经济状况。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When Cuba presented similar conditions, the system warned of an outbreak, and a few weeks later, cholera was reported.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当古巴出现类似的情况，系统就预警会出现疫情，几个星期以后，就报道出现霍乱了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Radinsky has parlayed her research into a 3-year-old startup, SalesPredict, with 20 people on staff and offices near Tel Aviv and in San Francisco. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Kira已经成功地把自己的研究转化成一个三年的创业项目：salespredict销售分析平台，公司现有20个员工，坐落于旧金山的特拉维夫。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>SalesPredict focuses on helping businesses, including several Fortune 100 companies, find new opportunities for sales or retain existing customers and clients. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>salespredict致力于帮助企业发现新的销售机会以及保有现有的客户，这其中包括部分福布斯100强企业。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The company has raised US $4 million from venture funding and has been doubling its revenue every quarter¡ªexcept the first quarter of 2015, when it tripled.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该公司已经从风投筹得400万融资，并保持每个季度的盈利翻倍——除了2015年的第一季度，实现了翻两番。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"It's big data meets game theory," Radinsky says. "There was so much data at each company about their historical sales, but very few actions were taken to scientifically analyze it." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“这是大数据和博弈论的结合，”Kira说，“每个公司都有大量的关于过去销售的数据，但还没什么人做出任何行动来对这些数据行进分析。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As a youth, Radinsky wanted to be a scientist. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>年轻时的Kira梦想着当一名科学家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the summer before high school, she botched a research project at a science camp. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但在高中前的那个夏天里，她在一个科学夏令营的研究项目里搞砸了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"It was biology and computers together. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“那是一个生物计算项目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I was in charge of feeding the cells. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我负责培育细胞。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I was not good at that, and I killed those cells by mistake. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我对此一点都不熟悉，还不小心把细胞都弄死了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After that, they had me process the data instead¡ªand it turned out to be something I enjoyed."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>之后，他们就让我处理数据，结果是，我其实很享受和数字打交道。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Radinsky enrolled at Technion in 2002 at just 15, earning extra cash by programming websites on the side. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2002年15岁的Kira就进入了理工大学读书，并兼职网站编程来赚取外快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At 18, she did her mandatory Israel Defense Forces duty as a computer scientist in its intelligence division. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>18岁那年，她履行了以色列国防义务要求去情报处担任计算机科学家。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She completed bachelor's and master's degrees in computer science in 2009, and a Ph.D. in machine learning and artificial intelligence in 2012, at 26.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2009年她完成了计算机科学的本科和硕士学位，2012年取得了机器学习以及人工智能的博士学位，那年她才26岁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since graduating, she's served full-time as SalesPredict's chief technical officer. "Getting into predictive analytics usually requires master's and Ph.D. degrees in data mining and machine learning. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>毕业之后，她就担任了salespredict的全职的首席技术官，“一般进入预测分析行业都需要数据挖掘和机器学习的硕士和博士学位。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Data scientists have strong math and statistical backgrounds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数据科学家都有强大的数学和数据学背景。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's a very academically oriented field," she says. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是一个非常学术性的领域。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"For my company, it helps if you've worked for a company like Google or have strong engineering skills on how to scale machine learning systems."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她说，“对我的公司来说，如果你在google这样的公司或者有不错的关于大规模机器学习系统的工程技术，对你会很有帮助。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Radinsky believes in developing this technology to benefit not only business but also society. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Kira相信继续开发这项技术不但能给商业，同时也会为社会带来利益。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Mining patterns in data can lead humanity to a new era of faster scientific discoveries. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“不同的数据挖掘模式可以把人类带领到一个科学发现更加迅速的新时代。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We are working on several pro bono activities in the medical domain to apply learning machine algorithms to predict cancers and find the driving causes of diseases."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们正在进行几个医疗领域的公益项目，我们希望借助“机器学习算法”来预测癌症和找到各种疾病的真正原因。”</seg></tuv>
+</tu>
+</body>
+</tmx>

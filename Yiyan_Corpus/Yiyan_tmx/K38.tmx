@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160814T154522Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cold Outside</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在外面</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every now and then, I run around the countryside, delivering the warm, dark slop that farmers use to supplement the fodder for their cattle, blending the treacle with barley to make a sweet malty mix that the beasts can't get enough of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不时地跑到乡下去，运送冒着热气的黑黑的糖浆，农民们可以把它掺进草料里，和大麦搅拌在一起，制成甜甜的、醇香的麦芽混合饲料喂牲畜，它们吃的可带劲呢，总也吃不够！我喜欢到农场上去，在中午时分，享受这里的宁静和寂寞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I like going out on the farms, all quiet and lonely in the middle of the day; I like talking to the farmers and listening to their stories - men who have never been anywhere in all their born years save these hundred acres of ground, grown men haunted by their own holdings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喜欢和农民聊天，听他们讲五花八门的故事，——那些一辈子也没有去过任何地方的男人，只积攒下数百亩田地的故事，那些被自己的土地所纠缠、羁绊的大老爷们的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To be honest, I like hauling treacle more than anything else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说实话，我喜欢运送糖浆，这比什么都重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are times when it's so thick and dark and solid you could walk on it, and we have to work hard to get it pumped out and into the big tanks, which are usually so old and creaky that you think they won't hold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些时候，它黏糊糊的，黑黑的，凝固在一起，坚实得上面能行人，我们必须使出浑身解数，把它抽出来，再注入一个个大罐，这些陈旧的大罐通常发出嘎吱吱的响声，让人以为它们快要裂开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes they don't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时则恰恰相反。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On a really warm day, one of the pipes, or maybe the wall of the tank, will give way, and there will be treacle everywhere: treacle and the smell of treacle that makes you dizzy, it's so sweet and strong.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遇到一个暖融融的日子，其中的某根管子，或罐壁，会发生泄漏，糖浆流的到处都是：糖浆和蜜糖的气味让人眩晕，因为实在是太甜了、气味太浓了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was hard work, but it was good being busy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这活又苦又累，但是忙点累点有好处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It gave me less time to dwell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样我就没有多少时间去想那些不痛快的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I knew, when I started out that winter's morning, that I'd feel better coming home with a full day's work under my belt, knowing that I wasn't quite used up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每逢迎着冬日的朝阳启程，我知道经过一整天的忙碌劳累之后，回到家中，我的心情会感到舒畅一些，因为我知道了自己还不完全是个废物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought about that all day, driving round the farms in the frosty light - about how I would keep going till I couldn't go on anymore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在冬日的阳光下，开着车驶向农场，脑子里整天思考着这样一个问题：假如有一天我坚持不下去了，干不了了，那时我该怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All a man has is his work and his sense of himself, all the secret life he holds inside that nobody else can know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个男人全部莫过于他的工作，以及他的自我价值感，这是他看待生命的秘密，深藏于内心深处，他人是无法获知的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was how it had always been, even at home: my real life was separate from the day-to-day business that Sall knew or cared enough about to make decisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使在家里也一直是这样：我的真实生活是和萨勒熟悉的日常琐事格格不入的，即便有些事情她非常在意，急切等着我拿主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't that I didn't love her, at least to begin with; we got on well enough in the first few years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不是说我不爱她，至少一开始我是爱她的，在结婚的最初几年，我们彼此恩爱，和睦美满。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was just that we'd always been private people, in our different ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只不过我们两人性情孤僻、个性独立，各人的处事方式也不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was probably what made it possible for us to stay together after Caroline left. We knew how to keep ourselves to ourselves, a skill we had perfected through the years without even knowing how completely we had mastered it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，我们知道如何彼此保持一定距离，井水不犯河水，有想法不跟对方说，自己闷在心里，多年来这一技巧我们运用娴熟、驾驭自如，甚至自己也不知道是如何练就的。或许这就是在卡罗琳离开之后我们还不至于分手的缘故吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was late in the afternoon, the sun just going down over the fields, the last of the light filtering through the trees and shrubs along the road by the old hospital. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这天下午晚些时候，太阳从田野上空徐徐落下，将最后一抹余晖射入道路两旁的树林和灌木丛，那条路从老医院旁经过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first green of evening, my mother had always called it, sitting on the back step at home, watching the Peruvian lilies and the montbretia fade into the gloaming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“第一个绿色的夜晚”，我的母亲总是这样称呼此时的景致，她常常坐在家里后面的台阶上，定睛凝望着那片秘鲁百合和雄黄兰渐渐消失在茫茫暮色之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was never sure if that was a phrase of her own, or a quote from something, some radio drama, say, or a children's book she'd read to me in the days before memory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种说法是她自己独创的，还从什么地方引用的——譬如说广播剧，抑或是我还不记事时她读给我听的某本儿童读物——我就不得而知了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usually, if I got home early, this was my time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常，如果我回家早一些，这段时间是属于我的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While Sall made herself busy in the kitchen, I would sit in the dining room with the paper spread out on the table, or I would listen to the radio, staring out at the garden and fiddling with the dials to get a better signal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨勒在厨房里忙着做饭，我便坐在餐厅里，在餐桌上摊开报纸，读读报，要么听听收音机，两眼望着窗外的花园，旋转着调谐钮以使信号更好些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That day, though, I had pulled a long run, only just finishing up at Jacob's Well Farm when the dark set in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是那天，我去的地方远，在雅各布威尔农场刚刚收拾停当，天色就暗下来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been a good day, but I knew I wasn't supposed to overdo it, so I was happy enough saying my goodbyes to Ben Walsh, who used to run Jacob's Well with his dad, and keeps it going himself now, his wife gone, no kids, both his parents dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天，天气不错，但我知道我不能工作得太晚，所以我十分愉快地向本沃尔什道了声再见。原先他和他的父亲共同经营雅各布威尔农场，现如今他的父母都不在人世了，农场全靠他一个人打理，他的妻子也过世了，没给他留下一男半女。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had been living alone like that for some years by then, which was maybe why he paid so much attention to the few people he encountered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年来，他一直孑然一身，也不常有人来这里，这或许就是他一碰到什么人便非常热情、殷勤的原因所在吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That day, it was attention I could have done without, but then he wasn't to know what my troubles were. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这天，毫无例外，我也受到了殷勤的款待，但当时他不知道我的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He offered me a cup of tea, but he didn't seem to mind when I told him I'd better get on back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他请我喝茶，但我对他说得回去了，他似乎并也没有介意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gave me a solemn little smile and shook his head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他微微一笑，摇了摇头，而后神情郑重地说道。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How's the missus?" he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你太太怎么样？”他说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Keeping all right?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没事吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He always talked about Sall as if she were an invalid.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说起萨勒时，总好像在谈论一个病人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Can't complain," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没什么，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's good." He gave me an odd, shy look. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那就好。”他看了我一眼，眼神怪怪的，还带有几分羞涩。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Still, if you don't mind me saying, you're looking a bit under the weather yourself." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不过，有句话不知该不该说，你自己看起来有点不舒服。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, no," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，没有，”我说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm fine." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我没事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm a bit tired, I suppose," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想，我是有点累了，”我说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It'll pass."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很快会好的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He nodded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was curious and, I think, genuinely concerned, but he knew not to pursue it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他感到好奇，而且，我认为，也是出于真诚的关切，但他知道把握分寸，不会刨根问底。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, I hope so," he said. "You take care of yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，希望如此，”他说，“要好好照顾自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't want to be coming down with something, right before Christmas."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可千万别生病，圣诞节就快到了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I managed a smile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我勉强微微地笑笑。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You can say that again," I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说的一点都没错！”我说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Anyway, this is the last of it, before the holidays. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“反正，在假期前，这是最后一次了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll get a good rest then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会好好休息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You take care, too." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你也要保重。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shook his hand and got back into the rig. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和他握了握手，钻进了卡车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a moment, I wished I'd said yes to the tea and stopped, not to talk about anything in particular but to keep company with the man for a while. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一阵子，我真希望自己答应留下来喝茶，不一定非要说点什么才行，只是在这个人身边，陪他呆一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't imagine that his Christmas would be that festive, with just him and the animals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无法想象，他的圣诞节将是个什么样的节日——在这么个只有他和那些牲畜地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then again, I couldn't imagine much of a Christmas for myself, now that everything was decided. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再说了，我自己对圣诞节已不抱幻想，现在一切都成定局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't looking forward to the quiet of the holidays, or having to go through the motions with Sall, which she would want to do, because - well, it was Christmas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我并不期待宁静的假期，也不想跟萨勒一起装样子、走过场，她当然愿意这样做，因为，毕竟这是圣诞节嘛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe Caroline would ring, sometime in the middle of the afternoon, making the call first thing, so she could get on with the rest of the day knowing she'd done her duty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许在下午三点左右，卡罗琳会打电话来——她先打电话过来，认为这样就完成了义务，好自己安排以后的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hadn't said anything to her about the cancer, of course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然了，我还没有告诉她我患了癌症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd considered telling her the first time, but it would only have worried her, and then she might have felt duty-bound to come over. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刚一开始，我是考虑过告诉她，但转念一想，那样只会让她担心，然后她可能会不顾一切地赶回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This time, I didn't even give it a second thought, because I knew for sure that I was going to die, and I wanted to do it in my own way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一次，我甚至连想都没想就决定了，因为我知道我肯定会死，我要用我自己的方式走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to let go of life with some kind of grace, or at least with some attention to what was happening, instead of just sitting quietly in the middle of some great drama between Sall and Caroline about what they thought I should do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想走得洒脱一些，或者至少关注着身边发生的事情，而不是仅仅静悄悄地坐着看萨勒和卡罗琳演戏，按照她们想法做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was how it had been through so much of my life: I hadn't missed any of the big events, but, at the same time, I hadn't felt entirely present while they were happening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的一生就是这样过来的：我没有错过任何重大事件，但同时，我又觉得事情发生时我根本没有在场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those last few weeks, though, I noticed everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，在过去的几个星期，我注意到了一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like the way time would catch up with me all of a sudden, and I'd see myself opening a letter, or making a cup of tea: see myself from above, doing these ordinary little things and taking an odd pleasure in them, though I can't say why.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就仿佛时间突如其来地赶上了我（我突如其来地感觉到时间的存在），我会看到自己启开信封看信，或是沏上一杯茶：我站在高处俯瞰自己，做着这些平凡的琐事，体味着其中从未有过的乐趣，虽然我说不出为什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd notice things out on the road, too, things I'd seen a thousand times before and had liked without knowing why. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也开始注意观察路上看到的景致。以前那些景物不止上千遍映入我眼帘，自己也说不上来为什么竟然还那么喜欢看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Little details and imaginings I'd dismissed all my life as plain silliness suddenly became important. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些我以前视而不见景物的每一细节，那些曾被我视作平淡无奇、微不足道的东西突然变得十分重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like that stretch of road on the way back from the Glasgow run, when I would pass the turnoff for Larbert. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>譬如从格拉斯哥回来时驶过的那段公路，常路过通向拉伯特的岔道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to see it all the time: a blue road sign and a row of cherry-cola street lamps running off into the distance - Larbert, A9. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我以前总会见到这条岔道：岔道口那竖着一块蓝色路牌，路旁挺立着一排印有樱桃色可乐广告的路灯一直延伸至远方的拉伯特，A9大街。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was odd how much I liked that sign. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真怪，我竟然非常喜欢那个路牌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd never had reason to go to Larbert. We didn't do any runs in that direction, but maybe that was why I'd always liked the name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从没有去过拉伯特，因为我们不往那边送过货，但也许这就是我一直喜欢这个名字的缘由吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Larbert. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拉伯特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It sounded like a place where the teen-age years went on forever, all gray days by the water and strange-tasting sweets that fizzed in your mouth, making you think of the possibility of sex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听起来像一个永远也不会脱离孩子般稚气的地方，靠近水边，天色总是灰蒙蒙的，那萦绕在齿间的丝丝别样的甜味，使人 奋，很可能产生性的冲动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that I had ever known much about sex as a teen-ager, other than what I saw in films and the oddly pleasurable discomfort I felt when Rita Compton visited my sister. That was the kind of stuff that was running through my head when I came across the boy, a few hundred yards into the woods, in the first of the heavy rain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不是说我少年时对性有多少了解，而不过在许多电影见到过罢了，再就是丽塔康普顿来找我姐姐时，我常有一种奇特异样的感觉，——是那种欣喜愉快而又局促不安的感觉。天忽降大雨，我遇到那个小伙儿，当时满脑子里想的也正是这种事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was thirty miles from home when it started, a thick sleet that might turn to snow later, or might come to nothing; it was already dark enough for headlights, but as I came into the woods, passing under the beech trees, it was like entering a little theatre, the lights flickering across the darkness, the woods black and still, like a backdrop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雨是在卡车驶进那片树林几百码，离我家还有三十英里时下起来的，雨雪交加，可能一会儿会变成雪，也有可能云消雾散。天已经完全黑了下来，我亮着车灯，驶进树林，从一片山毛榉树下经过时，仿佛进入了一个小剧场，只见黑暗中灯光闪烁、忽隐忽现，整片树林黑魆魆的，寂静无声，宛若剧场里的背景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd always liked that about the woods, the way they suddenly closed in on me as if a story were about to be told. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一直以来，我很是喜欢这片树林，喜欢它们向我逼近，而后蓦然将我团团围住的感觉，就像我以前听人讲故事时那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like when I was a boy, and the announcer on "Listen with Mother" would say, "Are you sitting comfortably? Then I'll begin." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像我还是个孩子， 听着《和妈妈一起听故事》的播音员说，“你们坐好了吗？那我就开始了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usually the road was empty, with maybe the odd set of headlamps - not a person, not even a car, just an effect of the light - streaming past in the opposite direction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常，这条路上阒无一人，偶尔可见几道零零星星的光束——不是行人照明用的灯光，也不是车灯的亮光，就是一种光感——在对面游弋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that night the story contained another character, though he wasn't a character from any of the children's books I knew.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是那天晚上，故事中出现了另外一个人物，但他不是任何一本我耳熟能详的儿童读物当中的人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To begin with, I thought he was a woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开始，我以为他是一个女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe I wouldn't have stopped if I'd known otherwise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不然，也许我就不会把车停下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He certainly looked like a woman: a black dress, no coat, fish-net stockings, ankle boots, shoulder-length wavy hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他那身打扮看起来的的确确像一个女人：着一件黑色连衣裙，没有穿外套，渔网袜，短靴，齐肩卷发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was walking slowly, toward the far end of that little avenue of beech trees, and I couldn't make out much, but when my lights picked her out she turned, and I saw that there was something odd about her, something heavy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她走得很慢，缓缓地朝着两旁长着毛榉树林荫道的尽头走去，起初，我看不十分清楚她的模样，但是当车灯照到她时，她转过身来，我发现她有些古怪，有些忧郁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that I guessed right away that she was a boy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她转过身来的一刹那我才看清，她是个男孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was dark and rainy, and then, when I saw her properly, I was distracted by the bruises on her face: the bruises, the mess her hair was in, the dark stain that might have been blood on her right leg, just below the hem of the dress.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天已经黑透了，还下着雨，我仔细打量她一番，不禁怔住了，只见她戴着假发，乱蓬蓬的，脸上伤痕累累，布满瘀伤，裙裾下方，右腿上有块暗斑，很可能是血迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't pick up hitchhikers much. I did in the early days, and I'd enjoyed the chat most of the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很少让人搭车，记得年轻时曾这样做过，大多数时候也喜欢和乘客聊聊天，感觉很开心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not always, but enough to make it worthwhile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时也未必，但如此足矣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More recently, though, I'd preferred being alone in the cab. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，最近一段时间，我更愿意一个人坐在驾驶室里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some nights, coming home in the dark, reeling off the narrow roads that ran to Perth or St. Andrews, remembering the way by my own landmarks - the hedges and drystone dykes and the spaces between them that other people didn't even notice, tight angles of holly or lamplight as I came through a town - I would realize, with a pleasant rush of surprise, that I was fond of myself as I was, fond of my life, and yet, at the same time, not that worried about having to let it go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时，伴着黑黢黢的夜色开车行驶在回家的路上，我随口就能说出哪条小道是通往珀斯的，哪条是通向圣安德鲁斯的，我是根据我自己的路标记住每一条路的，——根据那些篱笆和干砌石坝以及它们之间的间距，这些常人是不会注意的，再有就是根据冬青陡角或我经过城镇时闪烁的灯火，——每逢此时，我不由得一阵惊喜，因为我猛然意识到我喜欢我自己，喜欢自己目前的状态，喜欢自己的生活，但同时，对即将失去这一切也毫无忧怨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had got past the stage when company seemed like a good thing on the road, and I have to admit that I thought about driving on that night, even after I'd noticed the gash on her leg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我早已过了在路上乐于有人陪伴的年龄，我必须承认，我不是没想过从她身边直开过去，即使我注意到了她腿上的伤口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't need complications, and by then everything that wasn't part of the usual schedule had come to seem unnecessarily complicated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没必要自找麻烦，而且那时候，任何往日行程安排之外的事情只会使情况变得更复杂，而我完全没有必要那样做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nevertheless, I made myself stop, and I pulled up alongside her - still thinking of this person on the road as a woman, possibly a woman in real difficulty - just to check, at least, that she was all right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，我决定停下来，并把车停靠在她身旁——心里仍然把路上这个人当做女人，一个可能真正遇到困难的女人——至少，只是为了看看她是否有事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I rolled down the window and leaned across to the passenger side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我摇下车窗，身体挪到驾驶室的另一侧。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You look like you ran into some trouble," I called out, trying to make myself heard above the engine and, at the same time, not to be so loud that I might frighten her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你好像遇到了什么麻烦，”我大声喊道，让自己的声音压过引擎的轰鸣声，使她能够听到，同时，又不至于吓到她。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Cyberattack on Google Said to Hit Password System </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>据称，对谷歌的网络攻击伤在其密码系统</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By JOHN MARKOFF Published: April 19, 2010 Ever since Google disclosed in January that Internet intruders had stolen information from its computers, the exact nature and extent of the theft has been a closely guarded company secret. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2010年4月19日：从一月份谷歌披露有人侵入其电脑系统并窃走信息以来，该起盗窃的真实面目和程度就被作为公司秘密受到严密保护。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But a person with direct knowledge of the investigation now says that the losses included one of Google’s crown jewels, a password system that controls access by millions of users worldwide to almost all of the company’s Web services, including e-mail and business applications. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，一位可以直接获取当下展开的调查信息的人士称失窃内容包括谷歌的顶尖业务，密码系统，而该系统控制着世界各地上百万用户对几乎所有公司的网络服务的使用，包括邮件和商务应用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The program, code named Gaia for the Greek goddess of the earth, was attacked in a lightning raid taking less than two days last December, the person said. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该人士介绍，这一把希腊神话中大地之母盖娅作为其代号的程序系统是在去年12月份的一次不到两天的闪电突击中遭到攻击的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Described publicly only once at a technical conference four years ago, the software is intended to enable users and employees to sign in with their password just once to operate a range of services. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>四年前的一次技术会议上该软件公开亮相，它的应用能使用户和雇员只用密码登录一次就可以使用一系列服务。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The intruders do not appear to have stolen passwords of Gmail users, and the company quickly started making significant changes to the security of its networks after the intrusions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>入侵者看似并未盗走Gmail用户的密码，而在入侵事件发生之后，谷歌公司也迅速启动对其网络安全的重大改进。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the theft leaves open the possibility, however faint, that the intruders may find weaknesses that Google might not even be aware of, independent computer experts said. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，不管多么微不足道，该起盗窃始终还是暴露了一种可能，就是入侵者可能发现甚至谷歌都不知道的漏洞，自持立场的电脑专家认为。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The new details seem likely to increase the debate about the security and privacy of vast computing systems such as Google’s that now centralize the personal information of millions of individuals and businesses. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些新的细节看来有可能使关于安全与庞大电脑系统的争论升级，后者如谷歌，眼下集中管理着数以百万计的个人和企业的信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Because vast amounts of digital information are stored in a cluster of computers, popularly referred to as “cloud” computing, a single breach can lead to disastrous losses. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为海量的数字信息存储在目前普遍称之为“云”计算的一组电脑之内，一次侵入可致损失惨重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The theft began with an instant message sent to a Google employee in China who was using Microsoft’s Messenger program, according to the person with knowledge of the internal inquiry, who spoke on the condition that he not be identified. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一位不愿透露姓名的了解内部调查信息的人士称，这起网络盗窃始于一条向一名谷歌中国雇员发送的即时信息，该雇员使用的是msn工具。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By clicking on a link and connecting to a “poisoned” Web site, the employee inadvertently permitted the intruders to gain access to his (or her) personal computer and then to the computers of a critical group of software developers at Google’s headquarters in Mountain View, Calif. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过点击链接进入“中毒的”网站，该雇员无意中就对侵入者开放了自己的个人电脑，进而使其进入位于加利福尼亚州山景城的谷歌总部一个软件开发重点小组的电脑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ultimately, the intruders were able to gain control of a software repository used by the development team. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最终，入侵者就可以控制该开发团队的软件库了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The details surrounding the theft of the software have been a closely guarded secret by the company. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>围绕这一盗窃案的细节一直被作为公司机密严加保守。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Google first publicly disclosed the theft in a Jan. 12 posting on the company’s Web site, which stated that the company was changing its policy toward China in the wake of the theft of unidentified “intellectual property” and the apparent compromise of the e-mail accounts of two human rights advocates in China. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌首次公开此次事件是在1月12日其公司网站上的一则声明中，该声明指出在无法确定的“知识产权”失窃和很明显受两位中国人权倡导者的电邮帐户问题牵连之后，公司对中国的政策正在发生改变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The accusations became a significant source of tension between the United States and China, leading Secretary of State Hillary Rodham Clinton to urge China to conduct a “transparent” inquiry into the attack. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种指责成为美中两国紧张关系的主要原因，引发国务卿希拉里.罗德汉姆.克林顿敦促中国对该起网络攻击事件展开“透明的”调查。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In March, after difficult discussions with the Chinese government, Google said it would move its mainland Chinese-language Web site and begin rerouting search queries to its Hong Kong-based site. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三月份，在与中国政府进行艰难的讨论之后，谷歌表示会关闭其大陆中文网站，并开始将搜索服务转至其香港站点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Company executives on Monday declined to comment about the new details of the case, saying they had dealt with the security issues raised by the theft of the company’s intellectual property in their initial statement in January. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>公司管理人员没有对该事件的新的进展发表评论，表示他们在一月份最初的那份声明中已经就因其公司的知识产权失窃引发的安全问题做出了处理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Google executives have also said privately that the company had been far more transparent about the intrusions than any of the more than two dozen other companies that were compromised, the vast majority of which have not acknowledged the attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌管理人员还私下表示对于网络入侵，其公司与其他超过两打受此所累的公司相比，透明多了，那些公司绝大部分都不承认受到攻击。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Google continues to use the Gaia system, now known as Single Sign-On. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌仍在使用盖娅系统，现在称作单点登录。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hours after announcing the intrusions, Google said it would activate a new layer of encryption for Gmail service. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在公布被入侵几个小时之后，谷歌称其将会激活对Gmail服务的新一层加密防护。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The company also tightened the security of its data centers and further secured the communications links between its services and the computers of its users. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>公司还加强了其数据中心的安全措施，进一步对其与客户电脑之间进行的服务沟通提供了保护。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Several technical experts said that because Google had quickly learned of the theft of the software, it was unclear what the consequences of the theft had been. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>几位技术专家称，因为谷歌很快知晓了软件失窃，所以后果怎样尚未可知。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One of the most alarming possibilities is that the attackers might have intended to insert a Trojan horse — a secret back door — into the Gaia program and install it in dozens of Google’s global data centers to establish clandestine entry points. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让人担心的可能性之一就是攻击者可能把木马――秘密后门程序――种到盖娅程序里，并植入到很多谷歌全球数据中心以建立秘密入口。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the independent security specialists emphasized that such an undertaking would have been remarkably difficult, particularly because Google’s security specialists had been alerted to the theft of the program. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，这些独立的安全专家强调，此举非常困难，尤其是在谷歌的安全专家因此次程序被盗而警觉的情况下。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, having access to the original programmer’s instructions, or source code, could also provide technically skilled hackers with knowledge about subtle security vulnerabilities in the Gaia code that may have eluded Google’s engineers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，能够接近原始程序员的操作命令，或源代码，也可以使技术熟练的黑客获知盖娅系统细小的而不为谷歌工程师们所知的安全漏洞。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“If you can get to the software repository where the bugs are housed before they are patched, that’s the pot of gold at the end of the rainbow,” said George Kurtz, chief technology officer for McAfee Inc., a software security company that was one of the companies that analyzed the illicit software used in the intrusions at Google and at other companies last year. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“如果在漏洞打上补丁之前，可以进入到软件库，那可真得到无价宝藏了，”乔治.科尔茨说，他是麦咖啡公司的首席技术官，该公司系参与分析去年入侵谷歌以及其他公司的非法软件的软件安全公司之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Rodney Joffe, a vice president at Neustar, a developer of Internet infrastructure services, said, “It’s obviously a real issue if you can understand how the system works.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>罗德尼.乔弗是互联网基础服务开发商Neustar的一位副总，他说，“如果搞清楚了系统运行原理，那么很明显这就真成为一个问题了。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Understanding the algorithms on which the software is based might be of great value to an attacker looking for weak points in the system, he said. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理解软件基于的规则系统对寻找系统漏洞的攻击者而言很有价值，他说。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When Google first announced the thefts, the company said it had evidence that the intrusions had come from China. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>谷歌首次宣布该盗窃事件时，其称有证据表明入侵是由中国境内发起的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The attacks have been traced to computers at two campuses in China, but investigators acknowledge that the true origin may have been concealed, a quintessential problem of cyberattacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调查者追查到攻击源头在中国两所学校内的电脑，但也承认，真正的攻击源可能是隐藏的，这是网络攻击的典型问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Several people involved in the investigation of break-ins at more than two dozen other technology firms said that while there were similarities between the attacks on the companies, there were also significant differences, like the use of different types of software in intrusions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>几位参与对其他有两打以上的技术公司被侵入事件调查的人士指出，对各公司进行的攻击虽然有相似之处，但也有重大区别，比如侵入采用的软件不同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At one high-profile Silicon Valley company, investigators found evidence of intrusions going back more than two years, according to the person involved in Google’s inquiry. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>据参与谷歌调查的一位人士称，在一家高调的硅谷公司，调查者发现证据显示入侵可以追溯到两年以前。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Google’s case, the intruders seemed to have precise intelligence about the names of the Gaia software developers, and they first tried to access their work computers and then used a set of sophisticated techniques to gain access to the repositories where the source code for the program was stored. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在谷歌事件中，入侵者似乎准确掌握了盖娅软件开发人员的名字，他们先尝试进入这些人员的工作电脑，随后通过一系列复杂技术进入了该程序源代码的存放库。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They then transferred the stolen software to computers owned by Rackspace, a Texas company that offers Web-hosting services, which had no knowledge of the transaction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接着，他们将窃取的软件转移到Rackspace所有的电脑上，后者是德克萨斯一家提供网络托管服务的公司，对这一事务毫不知情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is not known where the software was sent from there. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该软件由此再发往何处就不得而知了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The intruders had access to an internal Google corporate directory known as Moma, which holds information about the work activities of each Google employee, and they may have used it to find specific employees. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>入侵者进入到谷歌公司称作Moma的内部通讯录，其中记载了每个谷歌员工的工作情况，他们可以据此找到特定的员工。</seg></tuv>
+</tu>
+</body>
+</tmx>

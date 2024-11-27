@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Nappe pressures on gravity dam spillways</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>重力坝溢洪道下泄水舌的压力</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Abstract</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>摘要</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When concrete gravity spillways are required to pass flood flows in excess of their design discharges, the hydrodynamic forces produced by the overflowing nappe can have a large impact on structural stability. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当混凝土重力坝溢洪道宣泄的洪水流量大于设计洪水流量时，溢流水舌产生的动水压力对坝体结构稳定性有很大影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This paper discusses a technique for approximating the nappe pressures on spillways of arbitrary shape and determining the effect of these pressures on structural stability.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对近似计算任意型式溢洪道水舌压力和确定水舌压力对结构稳定性影响的方法进行了讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1 Introduction</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>0 概述</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The stability of a gravity dam is determined by the applied forces. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>重力坝的稳定性取决于作用在坝体上的作用力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The dam's weight and the hydrostatic forces are easily determined. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大坝重力和静水压力很容易确定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Typically, the force exerted on the dam by the water overflowing it (the nappe force) is usually not large and can be neglected in considering stability. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般来说，溢流作用于坝体的力（水舌压力）不大，考虑大坝稳定性时可以忽略不计。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, when gravity spillways pass flood flows in excess of their design discharges, the hydrodynamic force produced by the overflowing nappe becomes more significant with respect to the other forces applied to the dam, and may have a large impact on the structural stability.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，当混凝土重力坝溢洪道需要宣泄大于设计流量的洪水时，与作用于大坝上的其他力相比，溢流水舌产生的动水压力明显要大，因此可能会对坝体结构的稳定性产生很大的影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This fact is well understood and dam design and regulating entities such as the Corps of Engineers and the Federal Energy Regulatory Commission (FERC) have addressed the phenomenon. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国陆军工程师团和联邦能源条例委员会（FERC）等大坝设计和管理机构，已经对该现象作过详细论述。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These agencies specify that when considering the stability of a gravity dam spillway, the tailwater height should be assumed to be 60% of the actual tailwater height to account for hydrodynamic effects when flow conditions result in a significant hydraulic jump.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当考虑重力坝溢洪道的稳定性时，这些管理机构规定在水流条件产生大的水跃时，应该假定下游尾水位为实际尾水位的60%来计算水动力影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The FERC deals with the evaluation of the stability of existing dams, and since most of these dams were not designed to pass the probable maximum flood (PMF), the FERC has found it necessary to undertake a more rigorous determination of the effects of crest pressures and spillway bucket pressures. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>FERC对现有大坝稳定性的评估进行了研究，因为这些大坝的绝大部分不是按照通过可能最大洪（PMF）的条件设计的，因而认为有必要对溢流堰顶压力和溢洪道消力戽压力的影响进行更严格的确定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The current practice of reducing tailwater to 60% of its height for analysis purposes is rather arbitrary. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了进行分析，实践中将尾水深减少到其水深的60%的做法是相当不适宜的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When the tailwater depth is significant with respect to the height of the dam, errors introduced by the 60% assumption can have large effects on dam stability.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当尾水深相对于大坝高度较大时，60%的假设所产生的误差对大坝稳定性可能有很大影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>2. Determination of Pressures</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1 压力的确定</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Accurate determination of the nappe pressure requires that flow depth and velocity be known at every point on the surface of the spillway. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>准确确定水舌压力时需要了解溢洪道表面每一点的流速和水深。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This problem is very difficult to solve rigorously. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个问题很难得到精确的解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The solution that this paper presents relies on the following simplifying assumptions:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本文介绍的解法取决于下面的几个简化假设：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Streamlines are concentric and parallel to the spillway surface and to each other;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>流线同心，互相平行，并平行于溢洪道表面；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The curvature of the stream lines changes gradually with respect to distance along the streamline;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>沿流线方向，流线的曲率相对于长度逐渐变化；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Flow is irrotational; </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>水流无旋运动；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Energy is not dissipated by friction or aeration.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>利用摩擦或掺气不能消能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As can be seen in Figure 1, every point in the water jet has an associated pressure and velocity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如图1所示，喷射水流每一点都有一个相关的压力和流速。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The pressure is a function of the depth beneath the free surface, S, the radius of curvature of the streamline, Rs and the velocity Vs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力是自由水面以下水深S、流线曲率半径Rs和流速Vs的函数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The pressure at any point S is given by:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任一点S的压力由下式给出：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Where p = mass density of water, g = gravitational acceleration, Pt = pressure at S below the free surface, g = integration variable.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中ρ为水的密度；g为重力加速度；Ps为自由水面以下S点的压力；ζ为积分变量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The pressure can be expressed in terms of head as follows: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>压力用水头表示如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The first term in Equation 1 is the hydrostatic head. The second term is the pressure due to centrifugal force caused as the streamline curves about a radius R. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方程(1)第一项是静水头，第二项是由曲率半径为Rs的流线离心力所产生的压力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second term may be positive or negative depending on the sign of the radius. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二项可正可负，由曲率半径的正负值确定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Figure 1 depicts the positive sign convention of the radius. This is the type of curvature present in a flip bucket. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图1描述了曲率半径为正值的惯例，这是溢洪道挑流鼻坎的曲率形式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For the case of crest pressure, the radius would be negative and the second term would diminish the pressure head with respect to increasing depth.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于堰顶压力，曲率半径应该为负值，第二项水深增加时压力水头会减小。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Energy is assumed to be constant with respect to S; therefore, assuming irrotational flow, we can write the following equation:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>假定对于任一点S能量为常数。因此，在无旋流动的假定下，可以得到下面的方程：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Where E = total energy, Y = the elevation of the spillway surface at the point in question, A = the depth of flow measured perpendicular to the mean streamline direction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中E为总能量；Y为所考虑点处溢洪道表面的高程；A为垂直于平均流线方向的实测水深。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Equation 2 can be differentiated with respect to S, resulting in: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方程(2)对S微分，得：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This differential equation has the following solution: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此微分方程的解如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Where R is now the radius of curvature of the dam surface and (R-A+S) is the radius of curvature of the streamline.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中R为现在大坝表面的曲率半径；（R-A+S）为流线的曲率半径。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The resulting velocity distribution is then:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>则合成流速分布为：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Verification of the assumption of irrotational flow</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>无旋流动假设的验证</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since Equation 2 assumes irrotational flow, it should be shown that the flow field described by Equation 3 is truly irrotational. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于方程(2)假设了无旋流动，所以应该证明由方程(3)描述的流场确实是无旋流的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In other words, the change in the radial component of velocity, VR with respect to distance along the stream line is equal the change in the tangential component of velocity, VT with respect to distance perpendicular to the streamline.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>也就是说，径向流速分量VR沿流线随距离的变化应该等于切向流速分量VT沿垂直于流线随距离的变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since streamlines were assumed to be concentric, Vr is zero. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即：因为假定流线是同心的，所以VR为零。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However there is a radial acceleration equal to the velocity squared divided by the radius of the streamline, which implies that:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是有一个径向加速度，其值为速度的平方除以流线的曲率半径，则：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>VT is equal to VS, therefore:  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>VT等于VS，因此：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>so it can be seen that the velocity field is irrotational.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此可以看出，流场是无旋流的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Constraining the velocity field by the unit discharge</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>受单位流量约束的流场</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since the radius of curvature is the inverse of the curvature k. Equation 3 can be rewritten as follows: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为曲率半径R是曲率k的倒数，方程(3)可以变为：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At any point on the spillway, the total unit discharge q must be constant. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在溢洪道的任一点上，总单位流量q必须为常数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Equation 3 can be integrated with respect to S between 0 and A to yield the following equation for q, the unit discharge:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方程(3)可以对S从O到A进行积分，得到单位流量q的方程如下：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Integrating this equation results in the following: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对该方程积分得：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Equation 4 can be derived using intrinsic co-ordinates and the momentum equations for two dimensional flow, as is done in the US Bureau of Reclamation's Engineering Monograph 42, The author prefers the more intuitive derivation presented above.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方程(4)可以采用内蕴坐标和二维流的动量方程推导，如同美国垦务局的工程专题论文中所进行的推导那样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Equation 4 can be solved for A. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由方程(4)可以求出A。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this manner the depth of flow, velocity, and pressure head can be determined at every point on the spillway as a function of q, the unit discharge, and k, the spillway surface curvature. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用这种方式，确定的溢洪道每一点上的水深、流速和压力水头都是单位流量q和溢洪道表面曲率k的函数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In addition, this equation can be differentiated with respect to A and set equal to 0. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外，方程(4)可以对A进行微分，并令其值为零。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The solution to this equation gives critical depth at the section in question in terms of the energy, elevation and spillway curvature. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据能量、高程和溢洪道曲率求解该方程，可以得到所考虑截面上的临界水深。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus the weir coefficient for the spillway at a given surcharge can be calculated directly.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因此，可以直接计算给定洪水超高的溢洪道的溢流系数。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>3 Limitations</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2 局限性</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Non-parallel stream lines</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>非平行流线</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All equations presented above were derived assuming that the streamlines of the nappe were parallel to the surface of the dam. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上面给出的方程都是在假定水舌的流线与大坝表面平行的条件下推导出来的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is not a bad assumption downstream of the crest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个假设在堰顶下游是适当的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Upstream of the crest, the streamlines are clearly not parallel to the spillway surface, or to each other, therefore a different assumption must be made. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在堰顶上游，流线明显与溢洪道表面不平行，流线之间也不是互相平行的，因此必须作出一个不同的假设。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Figure 4, the variation of assumed streamline direction can be seen. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在图2中可以看到假定流线方向的变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Downstream of the crest, all streamlines are assumed to be parallel to the dam surface. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在堰顶下游，假定所有的流线和大坝表面平行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Upstream of the crest, all streamlines are assumed to be perpendicular to a line that bisects the angle between the outward directed normal to the spillway surface and to the vertical. This assumption can cause some error.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在堰顶上游，假定所有的流线垂直于溢洪道平面外法线和垂线所成夹角的平分线，这个假设可能会产生一些误差。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sudden curvature changes</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>曲率变化急剧</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In order to get meaningful results out of this technique, the curvature change from point to point must be gradual. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了能用这种方法获得有意义的结果，从一点到另一点的曲率变化应该是渐进的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is difficult to accomplish upstream of the crest of most spillway sections because typically, the surface changes from a vertical upstream face, which has an infinite radius of curvature, to an elliptical crest with a small radius of curvature. This transition usually happens instantaneously. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但绝大多数溢洪道的堰顶上游部分不可能做到这样，因为大坝表面从无限大曲率半径的垂直上游面变化到曲率半径很小的椭圆形堰顶，通常是瞬时发生的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since Equation 4 can be solved at any point on the dam without reference to other points, the water surface and pressure profiles can also have sudden changes as a result of sudden curvature changes. Figure 5 illustrates this problem. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于曲率急剧变化，水面线和压力分布也会发生急剧变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The water surface profile calculated with abrupt curvature changes exhibits unrealistic dips and surges. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据曲率急剧变化计算得到的水面曲线存在着不实际的倾角与涌浪。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This problem can be overcome by taking into account the fact that while the curvature of the stream lines close to the dam surface may change very quickly, those further away from the dam surface will tend to smooth these curvature changes over. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>解决这个问题考虑了这样的事实，靠近大坝表面的流线曲率变化非常快时，那些距离大坝表面较远的流线的曲率变化则较平稳。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This smoothing over can be approximated by curvature averaging. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可通过曲率平均来近似解流线的平滑问题（见图3）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The results presented in this article are based on curvature averaged between three points as follows:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本文给出的结果是根据3点的曲率平均确定的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Turbulent flow and air entrainment</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>湍流和掺气</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The solution presented here ignores the fact that as the nappe falls along the surface of the spillway, it becomes air entrained. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本文给出的解忽略了水舌沿溢洪道表面下泄时水流中会掺气这样一个事实。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also some of the energy is converted to turbulence rather than to increasing velocity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而且一部分能量会转化为紊动而不是增加流速。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, the greater the depth of flow, the less air entrainment and turbulent boundary layer considerations matter.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是，水流深度越深，掺气湍流边界层的影响就越小。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>4 Resulting hydrodynamic forces</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>3 合成水动力</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The net horizontal force Fx on a spillway section can be calculated without knowing anything about the nappe profile or spillway pressure distribution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>计算溢洪道截面上的净水平力FX，不需要知道水舌截面或溢洪道压力分布的任何情况。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The net horizontal force is give by Equation 5.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>净水平力由方程(5)给出：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Where y = unit weight of water, DH = depth of headwater a large distance upstream of the dam, DT = depth of tailwater a large distance downstream of the dam </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>式中γ为水的容重；DH为大坝上游距离较远处的上游水深；DT为大坝下游距离较远处的尾水深度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unfortunately, Equation 5 yields no information about the location of the net horizontal force. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>方程(5)并没有给出净水平力作用点的信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both the magnitude and location of Fx and Fy, the net vertical force, can be determined with the help of the values from Table 1 since the pressure distribution is completely defined. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为压力分布已经完全确定，所以可以确定净水平力FX和净垂直力FY的大小及作用点距坝基的距离Y和距堰顶轴线的距离X。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The results of this process are as follows:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>算结果如下： </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Fx = 1423.3 kN/m, at Y = 6.57m from dam base.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>FX = 1 423. 3 kNPm , Y = 6. 57 m。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>FY = 414.0kN/m, at X= 13.28m from dam crest axis.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>FY = 414. 0 kNPm , X = 13. 28 m。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Note that Fx obtained by this method is within 0.3% of the value obtained using Equation 5.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>注意，用这种方法获得的FX和方程(5)获得的结果，误差为0.3%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>5 Effect of nappe pressures on spillway stability</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4 水舌压力对溢洪道稳定性的影响</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To determine the effect of nappe pressures on spillway stability, the section in Figure 2 was analysed for stability using the Corps of Engineers and FERC recommended 60% tailwater reduction, and compared with results of stability analyses including hydrodynamic nappe forces (see Figure 6). The results are shown in Figures 7 and 8.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了确定水舌压力对溢洪道稳定性的影响，应用美国工程师团和联邦能源条例委员会推荐的60%的尾水折减对标准反弧形溢洪道剖面进行了分析，并与包括水舌动水压力的稳定分析结果进行了对比。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hydrostatic analysis was done using standard FERC Engineering Guidelines [2] methodology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>采用联邦能源条例委员会技术指南的标准方法对溢洪道进行了静力分析。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Note that the difference between the two methods increases as the discharge increases. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>值得注意的是，这两种方法计算结果的差别随流量的增大而增加。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When the spillway is passing design discharge at design head, the two methods begin to diverge significantly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当溢洪道在设计水头情况下通过设计洪水时，两种方法计算结果开始有明显的差别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The fact that more friction is required using the standard hydrostatic analysis indicates that the standard hydrostatic method is over-conservative in this case.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>利用标准静力分析需要较大摩擦系数的事实，说明标准静力分析方法在这种情况下过于保守。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There is even more difference in the amount of base cracking predicted by the two methods, as can be seen in Figure 8. Again the hydrostatic method proves to be over-conservative in this example. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两种方法预测的基础裂缝值有更大的差别，再次说明静力方法过于保守。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The hydrostatic method predicts that base cracking will occur at lower reservoir elevations, and will progress faster with respect to increasing head.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>静力学方法预测基础裂缝在较低库水位情况下发生，而且随着水头的增加裂缝扩展较快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Conclusion</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>5 结论</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The standard practice of ignoring crest and bucket pressures and downgrading the tailwater height by a factor of 0.6 can introduce significant error. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>忽略堰顶和挑流鼻坎压力以及通过乘以0.6的折减系数降低尾水水深的标准操作规程可能使计算结果产生很大的误差。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In situations where a spillway section is being surcharged above the design head of the section, hydrodynamic effects should be considered in the stability analysis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当溢洪道下泄超过设计水头的洪水时，稳定分析应考虑水动力影响。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The standard hydrostatic approach which is typically used in current practice, and which is currently in the FERC Engineering Guidelines [2] begins to produce significant errors as the discharge surpasses the design discharge. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实践中通常采用的是静力学方法，以及联邦能源条例委员会技术指南，但当溢洪道泄洪量超过设计流量时，这种方法开始产生较大的误差。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In this example, the error was on the conservative side. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本例中，误差偏于保守。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, this may not be the case in all situations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但并不是说在所有情况下都是这样。</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T112043Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obama outlines vision for space  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥巴马省钱有道 规划太空新蓝图
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>US President rallies support at NASA despite unpopular cuts to the Constellation rocket programme.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国总统重新启动NASA航天计划，“星座计划”资金削减不受好评
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>President Barack Obama touched down in somewhat hostile territory at Florida's John F. Kennedy Space Center in Cape Canaveral yesterday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国总统奥巴马昨抵达佛罗里达州卡纳威尔角市的约翰・肯尼迪航天中心，但似乎并未受到热烈欢迎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His mission: to promote and expand on the widely criticized space-exploration plans he announced in his 2011 budget request in February, and convince the country that his vision is specific, achievable and as inspirational as past space triumphs.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他此次出行的目的，第一是为推进并进一步详述最近饱受争议的太空探索计划（该计划曾被列入二月的2011财年预算开支报告而中止）。其次，使国民相信他的前景规划眼光独到且有望实现，并将会像以往的太空成就一样振奋人心。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The President's plan calls for a $6 billion increase over the next five years in NASA's overall budget, which is currently just under $19 billion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前该总统计划的NASA总预算仅在190亿美元以内，但未来五年还需要增加60亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides expanding Earth observations, key components include ending the Constellation programme initiated by former president George W. Bush, which aimed to develop new rockets and capsules that would put astronauts back on the Moon, but which is behind schedule and over budget.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了扩大地球观测范围，主要的开支还是在终止前总统乔治・布什提出的 为研发新型火箭及能将宇航员送返月球的航天舱的“星座计划”上。但是目前该计划已延期且超出预算。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, Obama wants NASA to enlist private companies to ferry astronauts to and from the International Space Station, whose lifespan the President would extend by 5 years from 2015 to 2020. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与前总统不同的是，奥巴马希望NASA招募私营企业出资运送宇航员往返国际空间站（其使用期将从2015年延长至2020年）。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

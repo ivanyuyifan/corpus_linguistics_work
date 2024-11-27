@@ -1,0 +1,1135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T072819Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nepal: Earthquake 2015 - Office of the Resident Coordinator - Situation Report No. 5</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼泊尔：2015年地震形势报告第五号文件</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Highlights</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要点</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As of 28 April, the Government reports 4,358deaths and 8,174 injured people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>截至4月28日，政府统计死亡人数4358人，受伤8174人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Search and rescue teams have saved 14 people from the rubbles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>搜救队伍从废墟中救出14人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition to continued efforts in the KathmanduValley, the response continues to broaden to include more remote areas, including the most affected districts of Dhading and Gorkha.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了加德满都谷地继续救灾努力外，救援扩展到更远的地区，包括受灾最严重的达丁（Dhading）与廓尔喀（ Gorkha）地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Up to 90 per cent of the health facilities in Ramechapp, Nuwakot, Sindhupalchowk and Gorkha have been severely damaged.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拉梅恰布（Ramechapp）、努瓦科特（Nuwakot）、新图巴尔恰克（Sindhupalchowk） 和廓尔喀（Gorkha）地区90%以上的医疗设施遭到严重破坏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many people are leaving the Kathmandu Valley and joining families in less-affected areas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人离开加德满都谷地，到受灾较轻的地区投亲靠友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is anecdotal evidence of unrest in relation to limited water supplies. Uneven distributions pose a risk of generating animosity amongst the affected people.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未经证实的传闻显示，因水供应紧张而导致不安，分配不均可能在受灾人口中引发不满。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Situation Overview</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总体情况</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four days have passed since the 7.8 magnitude earthquake struck the Central and Western Regions ofNepal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>距7.8级地震袭击尼泊尔中西部地区已经过去四天了，余震持续影响着人们的日常生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aftershocks continue to affect the daily lives of people as they continue to sleep outdoors, in damp and cold conditions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人继续睡在潮湿和寒冷的户外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Government is encouraging people to return home, wherever possible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府鼓励人们在可能的情况下重返家园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the past 24 hours, the Government reported an increase in the number of deaths from 3,351 to4,358 people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去的24小时内，尼泊尔政府的统计死亡人数从3352增加到4358。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, the number of injured has risen from 6,833 to 8,174 people (Source: NEOC - http://neoc.gov.np/en/). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，受伤人数从6833上升到8174。（来源：NEOC - http://neoc.gov.np/en/）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These numbers are expected to increase further as information from remote areas becomes available and more affected areas are searched and assessed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着偏远地区的信息变得可知以及对更多受灾地展开的搜索与灾情评估，估计这些伤亡数字还将进一步增加。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As of today, international search and rescue (SAR) teams have rescued 14 people from the rubble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>截至今天，搜救队伍从废墟中救出14人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the moment, in-country and committed SAR capacity is sufficient to cover all sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到目前为止，已就位和将抵达的搜救力量已足以覆盖所有城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No additional deployment is needed and all SAR teams which have not deployed yet are advised to stand down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建议所有尚未部署的搜救队伍停止行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, theGovernment has requested that any Foreign Medical Team (FMT) that have not yet arrived to Kathmandu also to stand by.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府还建议所有尚未抵达加德满都的外国医疗队伍原地待命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Immediate needs include food, shelter, WASH, as well as medical tents, medication, surgical kits and body bags.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>急需物资包括食物、临时住所、饮用水和卫生清洁用品以及医用帐篷、药品、手术器械和尸袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Kathmandu Valley, public life remains quiet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在加德满都谷，公众生活保持平静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While small grocery shops are open, large businesses and some banks remain closed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些小的杂货铺开始营业，大型商场和银行仍然停业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While automatic banking machines are functional, replenishment is occurring at select areas at a slow pace.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自动取款机的功能正常，在一些指定地区正在缓慢地向其中补充现钞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With fuel reserves running low, cars and trucks are lining up at gas stations in town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于库存燃油紧张，汽车和卡车在市镇中的加油站排起长队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All major roads are open for traffic. However, some side access roads remain blocked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有主要道路已经恢复通行，但一些辅路仍然阻塞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fuel is also needed to pump water from the ground and maintain services at hospitals and other critical facilities facing frequent power outages.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于经常断电，医院和其他关键场所也需要燃料将水从地下泵出以维持运转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mobile networks in Kathmandu remain functional. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加德满都的移动网络仍然可以使用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, network outage and overloads remain common. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但断网和负载过重时有发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Power throughout the city is limited with most households and offices mainly relying on generator power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>城市供电短缺，大部分家庭和办公室使用发电机供电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, many people are leaving Kathmandu Valley and returning to families inareas, which have not been affected by the earthquake.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人离开加德满都谷地，到受地震影响较小的地区投亲靠友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information on affected districts outside the Kathmandu Valley highlights the severity of the impact on communities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加德满都谷地之外受灾地区的信息凸显了对社区影响的严重性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While district specific information continues to filter in, over 8 million people are estimated to be affected in 39 districts, of which over 2 million people live in the 11 most severely hit districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着区域相关的信息持续流入，估计有39个地区的800万人受灾，其中200万人生活在受灾严重的11个地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These figures are based solely on baseline data and models. These are indicative figures which can be used only for preliminary planning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些数字来源于最基础的数据和模型，仅供初期规划使用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kathmandu International Airport is open 24 hours and serves as the main logistics hub. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为主要物流枢纽的加德满都国际机场24小时开放。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However,due to incoming goods and response teams, as well as departing people, including many foreigners, theAirport is congested. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但由于不断抵达的物资和救援队伍以及离港人群，包括许多外国人，机场处于拥堵状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Humanitarian Staging Area (HSA) is set up in the vicinity of the Airport to ease the flow of life-saving commodities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>机场外围设立了人道主义中转站，以加快救生物资的流转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two logistics hubs will be set up at and Pokhara and Birgunj to effectively manage the supply of relief items.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>博卡拉（Pokhara）和伯甘基（Birgunj）将设立两个物流中心以有效管理救援物资的供给。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The focus of the response has shifted outside of Kathmandu to cover the most affected districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>救援工作重点已转移到加德满都以外受灾严重地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meteorologists have predicted rainfalls for the coming ten days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>气象学家预测未来10天会有降雨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Humanitarian Response</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人道主义响应</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Camp Coordination and Camp Management</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营地协调和营地管理</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Government identified 16 camps in Kathmandu Valley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府在加德满都谷地确认了16处营地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Formal camp service delivery mechanisms and providers are still needed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仍然需要正规的营地服务提供机制和提供者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CCCM site profiling will start on 29 April with the 16 camps sites in Kathmandu Valley and later be expanded outward to affected districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营地协调与营地管理的站点登记将于29日从加德满都谷地的16处营地开始，随后扩展到外部受灾地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All 16 camp sites have Government cluster nominated focal points. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16处营地均设有政府多方小组指定的中心点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cluster is currently reaching out to the 30 CCCM trained government officials for management support.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组正在与30个接受营地协调与营地管理训练的政府办公室联络以寻求管理支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clarity is required to identify site/camp set up in Gorkha District where 80 per cent of the infrastructure has been affected.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>廓尔喀地区的营地设置需进一步摸清情况。该地区80%的基础设施受到影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shelter, WASH and protection mechanisms in the 16 camps have not yet been established or are not functioning at optimum capacity due to the Urban Search and Rescue (USAR) phase.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于正处在城市搜救阶段，16处营地的临时住所、饮用水和清洁用品以及防护机制尚未完成或未能充分发挥效用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early Recovery</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早期恢复</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cluster focuses on debris management and emergency livelihood.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组重点关注废墟清理和生存急需。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Education</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>教育</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to EMIS data, there are 3,353 schools in the severely affected districts, 2,903 schools in the most affected districts, and a further 9,762 in the partially affected districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>教育管理信息系统（EMIS）的数据显示，有3353所学校位于受灾严重地区，2903所学校位于受灾较严重地区，还有9762所学校位于受灾较轻地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Affected children need to access safe places to play, receive psychosocial support and lifesaving messages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受灾儿童需要有安全的游戏场所，接受心理辅导和救生知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Initial reports from affected districts indicate that a huge proportion of school facilities have been totally destroyed or severely damaged due to the earthquake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从受灾地区传来的初步报告显示，绝大部分的学校设施完全被摧毁或受损严重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Schools that are still standing are being used as shelters by displaced populations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幸存的学校被无家可归的人们用作临时住所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Procurement has started for tents and shelter materials for Child Friendly Spaces in coordination with theProtection Cluster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>防护多方小组已协调采购用于搭建儿童安全场所的帐篷和临时住所材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>School in a Box, Early Childhood Development Kit (ECD) and Recreation Kits are also in the pipeline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来还将采购一批简易学校用品和早期儿童发展和娱乐工具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Education Cluster is working with the Protection Cluster to orient partners on key messages related to psychosocial support and lifesaving messages to convey to displaced children and communities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>教育多方小组与防护多方小组正在对一些父母展开培训，教给他们有关心理辅导和救生的关键信息，并经由他们传递给流离失所的儿童以及社群。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Partner agencies are deploying to Sindhupalchok, Bhaktapur, Kathmandu, Lalitpur, Gorkha and Nuwakot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>合作机构办事处已经部署到新图巴尔恰克县、巴克塔普尔县、加德满都县、勒利普尔县、廓尔喀县以及努瓦科特县。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government will need significant support from partners to establish temporary learning spaces in the short and medium term to keep children safe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府急需援助国家提供支持，建立临时学习场所供学生安全度过中短期的学习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Food Security</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>食品安全</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Food Security Cluster had a meeting with the Ministry of Agriculture Development (MoAD) on the 27thof April and the Government requested the cluster members to provide food security assistance to earthquake affected areas outside of the Kathmandu Valley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>食品安全多方小组于4月27日联合农业部（MoAD）召开了一次会议，会上政府要求多方小组向加德满都谷底以外的地震波及地区提供食品安全协助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A total of 12 districts have been prioritized for the provision of food assistance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总共12个地区已被优先列入提供食品协助的列表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A formal letter of request has been sent in this regard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府已发出一封正式的申请书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As per a preliminary assessment, around 20,000 MT of food is needed per month to support the affected people in12 affected districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而依据一次初步的评测，每月大约需要2万吨的食物支援这12个受灾地区的人民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Data on needs will be available only after the completion of a rapid needs assessment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>具体数据要在完成快速评估后才能获得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Loss of livestock and a need for veterinary medicines and animal feeding have also been reported.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>损失的牲畜和对兽药与动物饲料的需求也已汇总上来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cluster is dispatching rapid needs assessment teams to the prioritized 12 districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组正派遣紧急需求评估分队前往最主要的12个地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Efforts to coordinate rapid assessments with other partners are under way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有关紧急评估和其他相关组织的协调工作仍在努力进行中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This includes market assessments as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这当中也包括了市场评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Approximately 120 MT of food is currently available in the country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前该国大约有120吨食物可供利用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cluster has dispatched food assistance to Gorkha and Dhading with existing in country food stocks and is also organizing air support(via two helicopters) to get food to the areas unreachable via road transport.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组已利用国内现存食物储备向廓尔喀和达丁派送了食品援助，并同时组织空中支援（2架直升机）将食物送往公路无法抵达的地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around 30 MT of high energy biscuits and some fortified food (rice-soya blend) will be flown in from Dubai. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约30吨高能饼干和一些强化食品（大米和大豆混合）从迪拜空运过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sindhupalchowk and Nuwakot remain the priority districts for the cluster.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新图巴尔恰克（Sindhupalchok ）和努瓦科特（Nuwakot）是滞留人群的重点地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since several agencies are fielding needs assessment teams, a need for better coordination is necessary to avoid overlap and misunderstanding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于几家机构同时派出了需求评估团队，需要通过更好地合作来避免重复工作与误解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Health</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>健康</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Ministry of Health and Population (MoHP) continues to assess the needs in the 11 worst affected identified districts and to manage and deploy the teams on the ground.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卫生与人口部（MoHP）继续对11个已知受灾最严重的地区进行评估，并负责管理和部署地面团队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In terms of health infrastructure, preliminary information indicated that most of the health facilities (60 -90%) outside the district headquarters (DHQ) of Ramechapp, Nuwakot, Sindhupalchowk and Gorkha have been severely damaged and the hospitals in DHQ of Dolakha, Nuwakot are partially damaged.MoHP is making alternative arrangements (tents, camps) to provide medical treatment outside DHQ in the worst affected districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在健康基础设施方面，初步信息显示，拉梅恰普县、努瓦科特县、新图巴尔恰克县和廓尔喀县中心地带外的大部分健康设施（60－90%）损毁严重，多尔卡县和努瓦科特县中心地带的医院部分受损。健康与人口部（MoHP）正另行安排物资（帐篷、营地）以向受灾最严重地区的外部地带提供医疗手段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around the hospitals the water supply is fast deteriorating and sanitation conditions are becoming hazardous.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医院周围的水供给正迅速恶化，卫生条件十分艰苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More than 20 Cluster partners are supporting the response by providing specialized personnel and medical supplies and body bags, water filters and purification materials, setting up and providing basic construction materials for field hospitals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>超过20家合作机构为此提供专业人员和医疗供给、尸袋、滤水器和净化材料，为野外医院提供基建材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Injured from Sindhupalchowk and Dhading were airlifted toDhulikhel hospital and field workers are being deployed to more remote affected areas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新图巴尔恰克县和达丁县的伤者被空运到杜利克尔医院，野外工作人员正在向更边远的受灾地区部署。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foreign Medical Teams have set up temporary hospital facilities in the affected areas (e.g. Pakistani Army is running the temporary hospital in Bhaktapur).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外国医疗队已经在受灾地区建立了临时医院（例如：巴基斯坦军队正在巴克塔普尔运作一个临时医院）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additional medical tents, surgical equipment and accessories and medicines for managing injuries are still needed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用于治疗伤者的医用帐篷、手术设备和药品仍然需要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Post trauma and rehabilitation care for spinal cord injury patients; mobile toilets and messaging on post-earthquake disease outbreak are also required.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脊椎伤者伤后和复原护理以及应对震后疫情爆发的移动厕所和通信设备也仍然需要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MoHP has appealed to foreign governments not to send additional medical teams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>健康与人口部请求外国政府停止派遣更多的医疗队伍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Government ofNepal will assess the situation and advise if the situation evolves.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼泊尔政府会对形势作出评估并随情况发展提出进一步建议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a need for transit camps and rehabilitation care particularly for those released from health facilities who are in need of post-treatment assistance and have no to care for them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>存在对临时营地和康复治疗物资的需求，特别是对于那些出院后无人照顾但仍需后续康复的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Better tracking of health interventions is required.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需要更好地追踪健康物资的使用情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Logistics</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交通/后勤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Limited helicopter capacity is available but additional support is required to transport relief goods.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可动用的直升机力量有限，需要额外支持来运送救援物资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a need to establish staging areas outside Kathmandu Valley to serve areas with no or limited road access.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有必要在加德满都谷地外设立中转站以服务于道路资源有限或缺失的地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Humanitarian Staging Area is functioning well with 32 Mobile Storage Units available for humanitarian organisations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人道主义中转站运作良好，可为人道主义组织提供32个移动仓储单元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Six M18s are currently in the country, with support from foreign military assets, with a maximum capacity of two tonnes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼泊尔境内现有6辆M18坦克，带有最多两吨的外国军队物资支援。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pokhara Airport is functional and can be used for Hercules planes to strengthen relief supply chains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>博卡拉机场仍在运行中并可用于“大力神”运输机的起降来支持救援物资的供应链。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two operational hubs will be set up at Nepalgunj and Birgunj to effectively manage the supply of relief items.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在尼泊尔根杰和比尔根杰设立了两个操作中心以有效管理救援物资的供给。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Due to incoming goods and response teams, as well as outgoing foreigners, the Tribhuvan International airport remains congested. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于进入的物资和应激团队以及离开的外国人络绎不绝，特里布万（Tribhuvan）国际机场依旧拥堵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cluster is working with local authorities to facilitate de-congestion,including taking advantage of DHL's support.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组正与当地部门协调以缓解拥堵，并会借助敦豪（DHL）提供的支持。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kathmandu International Airport can only handle planes with a maximum weight of 190 tonnes,limiting incoming relief supply. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加德满都国际机场只能接收1900吨以下飞机的起降，这使流入的救援物资受到了限制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is further compounded by continued blockages at the airport due to lack of landing and off-loading slots.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而由于机场起降位置短缺造成的持续堵塞进一步加重了情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are concerns regarding the limited availability of jet fuel at the airport.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>机场航空燃油有限也引发了关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition assessment for all 21 most affected districts is still to be planned and initiated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养评估所有21个受影响最严重的地区仍在计划和启动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Cluster has identified 3W information for 21 affected districts and assigned responsibilities for immediate assessment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组确认收到了来自21个受灾地区的信息，并指派了专人立即着手评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An orientation on 29 April 2015 will support partners in carrying out a rapid nutrition assessment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4月29日将对合作机构进行培训，以能够完成快速的营养评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nutrition cluster reviewed the prepositioning of items for nutrition response such as IEC for counseling and information dissemination, management of MAM and SAM as well as prevention and control of micro-nutrient deficiency disorders through Vit A, MNPs and IFAs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养多方小组评估了营养应激的准备情况，例如，应对中度和重度急性营养不良下的咨询、管理和信息传播服务，以及通过维他命A、营养粉和铁叶酸来预防和控制微营养不足造成的机能紊乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Immediately following the rapid nutrition assessment, interventions will be done in all prioritized affected districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在快速营养评估之后将对重点受灾地区进行干预。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is an identified need for supplementary feeding for children under 5 and for pregnant and lactating mothers, as well as treatment of severe acute malnutrition for children living in camp settings and inaffected districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在急需为5岁以下的儿童、孕妇、授乳妇女提供食物补给，以及为逗留在临时营地和受灾地区的严重急性营养不良的儿童提供治疗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Protection</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保护措施</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A matrix for response by the cluster members will be available and a team of social workers will be mobilized and will start identification of separated children by 29 April. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将成立一个由多方小组成员组成的应激团队，并动员社工队伍，在29日前确认失散儿童。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cluster members have already started to collect information using the cluster check list.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多方小组成员已经开始收集信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information on overall protection is limited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尚无更全面的安全信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Information from affected districts is expected to be received shortly through Women and Children Offices in 33 districts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受灾地区的消息预计将在短期内通过在33个地区的妇女和儿童办公室收集上来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shelter</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>避难所</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Needs:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需求：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The initial rapid assessments are being conducted at the district level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>初步的快速评估正在以地区为单位展开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Government of Nepal estimated that some 70,000 houses have been destroyed and another 530,000 damaged during the earthquake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼泊尔政府估测，约有70000间房屋在地震中倒塌，另有530000间房屋受损。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Response:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Agencies have distributed 8.000 tarpaulins and 1.000 shelter kits in various affected districts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相关机构已经在不同的受灾地区分配了8000块防水帆布和1000套避难用品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The distribution is set to increase in the coming days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在未来几天内分配数量将有所增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gaps &amp; Constraints: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺口及局限：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a need to identify suitable shelter arrangements for people displaced and people whose houses are damaged or observed as insecure, including identifying short term and long term solutions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>需要为无家可归者、房屋倒塌者或危房者制定合适的避难方案，包括短期和长期解决方案。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,1103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T050437Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The TV</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电视</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day the man wakes up and finds that he does not feel like going to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天他醒来之后，感觉不想去上班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is not sick, exactly; he just doesn't feel like going to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他倒是没有生病，就是觉得不想去上班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He calls the office and makes an excuse, then he pours himself a bowl of cereal and sits down in front of the television.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是他给办公室打了个电话，编个借口请好假，然后给自己倒了一碗麦片，坐到电视机前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man doesn't usually have time to watch television, so it takes him a while to find a show he's interested in, but when he eventually does find one he sits rapt, his cereal forgotten, for a very, very, very long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他平常没什么时间看电视，因此花了一段时间才找到一个自己感兴趣的节目。等他最终找到想看的节目之后，就全神贯注地坐在那里，麦片也忘了吃，一直坐了很长很长时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The show seems to last much longer than a normal show. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个节目似乎比正常的节目时间长很多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, it lasts all day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，它演了一整天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is five o'clock before the main character finally leaves his job and heads home, prompting the credits to roll.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到五点钟，主角才终于结束工作回家，然后演职员表开始在屏幕上出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man sets his bowl of cereal aside and stares at the floor for a while.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把盛着麦片的碗放到一旁，盯着地板发了一会儿呆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My God, he thinks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我的上帝啊。”他心想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gets up, goes into the bathroom, and takes a shower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他站起身，走进浴室，冲了个淋浴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he washes, he thinks about the show he has just seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一边洗，一边还在想着他刚才看到的节目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is shampooing his hair when suddenly he realizes: the show was about him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到往头发上抹洗发香波时，他才突然意识到：这个节目演的就是他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not kind of about him, not metaphorically about him, but actually about him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是有点像他，也不是影射他，而是实际上就是他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's why the main character looked so familiar, he thinks, dunking his head under the water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“难怪那个主角看起来十分熟悉。”他一边把脑袋伸到水花下面，一边在心里想到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But how could it have taken me so long to recognize my own self? he wonders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可是，我怎么会用了这么这么长时间，才认出那就是我自己呢？”他有点纳闷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And how did they manage to find an actor who looks so exactly like me?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们又是从哪儿找来一个演员，看起来跟我一模一样的呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man stays home from work again the next day, claiming to have the flu. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天他又留在家里没去上班，跟单位说得了流感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The show is on again - his show. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个节目——他的节目——又开演了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yep, there he is, arriving at work. He is wearing the suit he bought last week at Macy's. There he is, waving at the security guard he always waves at in the morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，那就是他，刚到班上，身上穿着上星期从梅西商场买来的西装。看，他对保安挥手打着招呼，就像他每天早上总会做的那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now he's walking down the hallway toward his office, now he's moving inside - there's his desk, his chair, his in-box and his out-box, his stapler and his letter opener. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他正穿过走廊，走向自己的办公室。现在他进了办公室。他的办公桌，他的椅子，他的收发文件筐，他的订书机和他的裁纸刀，全都在那里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's amazing; the man can hardly believe it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这真是令人吃惊，他几乎难以相信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Onscreen, he sits down at his desk, looks at the clock, and begins to work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在屏幕上，他在办公桌前坐下来，看了眼时钟，然后开始工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man does the same thing at work every day; it is not very exciting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他每天在班上都做着同样的事情，没什么特别的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But somehow watching himself do it from inside his apartment, through the TV, is absolutely fascinating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但不知怎么搞得，从他的公寓里，通过电视看着自己做事，却让它变得绝对引人入胜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man is mesmerized by all the little unconscious movements his onscreen self makes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于屏幕上那个自己所做的每个无意识的小动作，他都感到着迷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seems to chew on his lip a lot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看到自己似乎经常咬嘴唇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe that's why my lips are always chapped, he thinks, running a finger over them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许这就是为什么我的嘴唇总爱裂，”他用手指在嘴唇上抹过，在心里这样想着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He will have to watch that in the future.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以后得要留心这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At lunchtime, the man onscreen leaves the building and goes down the block to a little sandwich shop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了午餐时间，屏幕上的他从楼里出来，沿街走到一家小小的三明治店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is Thursday, so the old guy who owns the place is in. He and the man have a conversation about the state of the world while the man eats his sandwich (roast beef, same as always) and drinks his coffee (black, same as always). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天是星期四，所以那个老店主也在店里。店主跟他聊了会儿世界局势，而他一边吃着三明治（烤牛肉，历来如此），一边喝着咖啡饮料（不加奶，历来如此）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the man returns to the office and works for the rest of the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他回到办公室，继续做剩下的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At five o'clock he finishes up and heads out the door, and once again the credits roll.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5点钟的时候，他收拾完，起身往门口走去。于是演职员表再一次在屏幕上开始出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This time the man on the couch studies the credits carefully. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一回，坐在沙发上的他研究了一下这个演职员表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yep, there's his name, listed as both the main character and the actor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没错，他的名字就在那上面，既是主角，也是演员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So it really is me, the man thinks in relief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这么说那确实是我。”他松了口气，心里想到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has been bothering him to think that an actor could so perfectly play him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有个演员能如此完美地扮演他，这念头让他觉得不舒服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made him feel foolish to be so predictable, so reproducible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如自己这么容易被人预料，这么容易被人模仿，会让他觉得很傻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This way is much better. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在这种方式要好得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He feels proud of his role in the whole affair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对自己在整个事情中的作用而感到自豪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day, the man goes to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，他去上班了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He apologizes for having been absent for the past couple of days, but no one seems to care very much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他为自己缺勤了两天表示歉意，但似乎没有人对此在意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This does not surprise him, but still it seems a little sad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管这并不让他感到惊讶，但仍似乎有点伤感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man sits at his desk and does his work. It is not much fun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他坐在办公桌前开始自己的工作。这工作没什么意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has never been much fun, he reflects, but now it seems particularly burdensome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“其实它从来就没什么意思，”他在心里回想着。但现在它似乎显得尤其繁重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He spends most of the time trying not to chew on his lip, with little success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他花了很多时间尽量不去咬自己的嘴唇，但收效甚微。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At lunch, he goes down to the sandwich shop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午餐时，他又去了那家三明治店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is Friday, so the old guy who owns the place is not in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天是星期五，所以那个老店主没在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man sits alone at a table in the corner and remembers the conversation that his onscreen self had with the old guy the day before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他独自坐在角落里的一张桌子边，回忆着屏幕上的自己前一天同那个老人的交谈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiles to himself about some of the witty and observant things the two of them said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一想起他俩说过的那些绘声绘色的俏皮话，他不禁冲自己笑了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Something nice happens in the afternoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下午发生了一件好事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man discovers that, because his onscreen self did his work so well in the past couple of days, he is now done for the week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现，因为电视里的自己在过去这两天把他的工作干得很好，现在他已经把一星期的活儿都处理完了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man can hardly believe it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这有些难以置信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He almost never finishes his full workload. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他几乎从来没有按时干完过他的全部工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usually, he has to stay late on Friday night, or even come in on Saturday or Sunday - or both - to get it all done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常情况下，星期五他得留下来干到挺晚，甚至星期六或星期日还要加班，有时还要连加两天班，才能把一切工作都做完。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sits at his desk, marvelling at the knowledge that he can go home early, and then he does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他坐在办公桌前，为自己可以提前回家而感到惊讶。然后他真的就回家去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He waves goodbye to the security guard on his way out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>离开单位的时候，他冲着保安挥手告别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He drives home, feeling the wind in his hair and the sun on his face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在开车回家的路上，他感受着清风吹进头发，阳光洒在脸上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, the man turns on the TV and is surprised to find that his show is on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到家之后，他打开电视，却惊讶地发现他的节目还在演着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There he is, wearing the same clothes he is wearing right now - but he is still at work. He is sitting behind his desk, hunched over a legal pad, writing something.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瞧，另外那个他穿着自己现在穿的衣服，只不过他仍然在班上，还坐在办公桌后面，埋头在一个笔记本上写着什么东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can this be? the man thinks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怎么会这样呢？”他心里想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the work is finished! He squints at the TV, trying to see what, exactly, his other self is working on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所有的工作都完成了啊！”他眯起眼睛看着电视，想看看另外那个自己究竟正在干什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is hard to tell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是很难看清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seems to be writing up a list of some kind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他似乎正在起草什么清单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man notices that the man behind the desk is no longer chewing on his lip.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他注意到，在桌子后面的那个自己不再咬嘴唇了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night, the program does not end at five. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上，他的节目没在五点的时候结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man in the office keeps right on working until almost nine-thirty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在办公室的那个他一直工作到将近9点半。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, the man has pulled a straight-backed chair up to the TV, and tries to figure out what's happening, what his other self is doing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在家里的他拉过来一把太师椅凑到电视机前，想要搞清楚这到底是怎么回事，那另一个自己到底在干什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He cannot figure it out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他始终没弄明白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the man finally finishes working on his list - or whatever it is - he slides it into his briefcase and leaves work for the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，他终于弄完了那个清单或什么的，把它塞进公文包里，又一次下班离开了办公室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, the man sits with his eyes glued to the front door, waiting for himself to walk in. He has lots of questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在家里的他双眼紧盯着大门，坐在那里等着自己走进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wants to know what this list is all about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有很多的问题要问。他想知道那个清单是怎么回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ten, eleven, eleven-thirty, midnight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十点，十一点，十一点半，半夜十二点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The door does not open.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门一直没有开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly it occurs to the man that he can just open the briefcase and take out the list and read it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他突然醒悟过来：他可以打开自己的公文包，取出那个清单来读一读。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, it is his briefcase. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，那也是他的公文包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gets up and goes into the bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是他起身走进卧室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, where did he put that briefcase? He can't remember. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咿，他把公文包放哪里了？他记不起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where does he usually put it? He can't remember that, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常他会把它放在什么地方呢？他也记不起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, he can't remember ever owning a briefcase at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，他压根不记得自己曾经有过公文包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning, the man awakens confused. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天上午他醒过来时还是有些糊涂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sits on the edge of the bed. He feels as if he were forgetting something, but he can't think what it could possibly be.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在床沿上，他觉得自己好像忘了什么东西，但又想不起来那到底是什么了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man gets to the couch early, so he won't miss anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他早早坐到沙发上，免得错过任何情节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it turns out he's already late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但实际上他还是来晚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There he is, in his office, behind his desk, with his feet up, reading a book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看，他已经在办公室里了，坐在办公桌后面，翘着脚在读一本书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book is lying open in his lap, so the man cannot tell what it is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那本书打开摊在他的腿上，所以他看不出来书名是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is very thick, though. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是那书很厚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are other books stacked neatly on the desk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桌子上还整齐地堆着一摞书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man squints to make out the titles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他眯缝起眼想要辨认出那些书名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of them seem to be about business management, but one is about calculus, and there are others about art and history, and one narrow volume looks like a collection of poetry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中有些似乎是企业管理方面的，但有一本是关于微积分的。还有一些艺术和历史方面的，有一本比较薄的看起来像是诗集。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man smiles when he sees that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他看到这些书时，不由笑了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What on earth is going on?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这到底是怎么回事啊？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When nine o'clock rolls around, the man behind the desk closes the book he's reading (is it the dictionary?) and gets down to work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了大约9点左右，坐在办公桌后面的那个他，合上了正在读的那本书（那不会是字典吧？），然后开始工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He works quickly and with an air of extreme concentration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他干得很快，有一种全神贯注的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, the man on the couch, though filled with admiration for his other, better self, feels a twinge of jealousy, and even, strangely, something like fear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在家里沙发上的那个他，虽然有点钦佩另外那个更好的自己，但也隐隐觉得有些嫉妒的刺痛。奇怪的是，他甚至还有点像害怕似的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At lunch, the man onscreen does not go to the shop on the corner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午餐时，电视里的他没去街角的那家店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he fixes his tie and heads down the corridor in the direction of his boss's office. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反，他整了整领带，沿着走廊朝老板的办公室方向走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man on the couch cannot believe what he's seeing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沙发上的他无法相信自己亲眼目睹的这一幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He watches as he knocks firmly on the boss's door and then goes inside, closing the door behind him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他眼瞅着另外那个他坚定地敲敲老板的门，然后走了进去，关上身后的门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he emerges, fifteen minutes later, he is smiling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>15分钟后，他从那里出来，脸上带着笑容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stops and calls back to the person inside, something in the way of an affirmation, and then heads off down the hall, a spring in his step. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他停下来，回身朝着门里面的人说着什么，好像是在确认什么事，然后脚步轻快地向着大堂走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the remainder of his lunch hour, he eats a sandwich he has brought to work in a brown paper bag, and drinks a bottle of water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在剩下的午餐时间里，他吃了自己带来的装在牛皮纸袋里的三明治，还喝了一瓶水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man at home does not know what's happening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在家里的他，不知道这到底是怎么回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has never purposely gone to speak to his boss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他以前从来没有刻意去找过老板。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, he can't imagine ever wanting to do such a thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，他无法想象自己会想要做这样的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, he admires his onscreen self for doing it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，他还是钦佩电视里的自己能这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps something good will come of it - maybe a raise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许这会带来好结果——比如获得提拔什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man goes into the kitchen and grabs a bag of cookies from the cupboard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走进厨房，从橱柜里摸出一包饼干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But when he returns to the living room he finds that his onscreen self has left for the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是当他回到客厅里之后，却发现电视里的自己已经下班了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His office is clean, his out-box is full, his pile of books has disappeared.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的办公室非常干净，发件筐里装得满满的，那摞书已经不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He begins to get antsy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开始变得坐立不安起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where has he gone? There is no way to know. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他去了哪里？没有办法知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What did he say to his boss? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他跟老板都说了些什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was on the list? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>清单上都有些什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And what are all the books for? The man is beginning to feel nauseated, thinking about it all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么多书又是干什么的？他左思右想地惦记着这一切，到最后都开始觉得有点要吐了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is making himself sick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他眼看就要把自己给搞出病来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has to think about something else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他得想点别的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps there is something else on TV.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许电视上还有别的节目可以看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man changes the channel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他换了频道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a cartoon about a coyote, a commercial for an exercise machine, someone talking about the weather, and, oh, wait, what's this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电视上有个关于土狼的卡通片，有某种运动器械的广告，有人在谈论天气，还有。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's the man again. He's in his car now, driving down a street that the man on the couch finds unfamiliar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，等等，这是什么？那个他又出现了，正在自己的汽车里，行驶在沙发上那个他所不熟悉的一条街道上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stops outside a building, an office building, and goes inside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把车停在一幢办公大楼外面，走了进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He speaks to a receptionist, and is then ushered into a conference room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他跟前台的接待员说了几句话，然后被带进一个会议室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the room are a number of men, all of whom look very serious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会议室里已经有不少人，他们都显得非常严肃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man on the couch is frightened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在沙发上的他感到害怕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his other self looks perfectly at home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但另外那个他却显得从容自得。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He places his briefcase carefully on the table, unlocks it with a pair of decisive clicks, and opens it up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把公文包小心地放在桌子上，随着清脆的两声“咔哒”，打开了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inside is a stack of papers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>里面是一叠文件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He begins to hand them out and, as he does so, begins to speak. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他取出来并分发出去，一边分发一边开始发言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He speaks about things the man on the couch doesn't understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他所说的事情，那个坐在沙发里的他一点都听不懂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stocks and bonds and financial matters, things like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>股票啦，债券啦，金融问题啦，诸如此类的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man on the couch furrows his brow, trying to follow it all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐在沙发里的他蹙起眉头，努力想跟上他的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He can't, but he is relieved to see that the men in the room seem to be following it quite well, and, what's more, seem to be happy with what they're hearing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是他做不到。不过他欣慰地看到，在会议室里的其他人似乎都听得很明白。而且，更重要的是，他们似乎很喜欢他所说的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of the meeting, the men rise, smiling, and congratulate the man on what he has said and done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到会议结束时，那些人站起来，面带微笑地对他的言行表示祝贺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cigars are passed around, and the man takes one and sees himself smoking it with a practiced air, despite the fact that he has never smoked a cigar in his life, and would never want to, since they're disgusting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雪茄烟被传来传去，他也拿起一支，很老练地吸了起来。——要知道，他这辈子还从来没有吸过雪茄，也从来不会想要去吸，因为它们很难闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, he has to admit, it is quite enjoyable.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，他不得不承认，那其实还是很满惬意的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the man leaves the meeting, however, the show does not follow him. It stays in the conference room with the other men, and after a while - despite the fact that these other men are beginning to seem vaguely familiar - the man on the couch starts to tire of their banter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，当他参加完这个会之后，节目并没有跟着他一起离开，而是留在了会议室的其他人那里。过了一会儿之后，尽管坐在沙发上的他已经开始觉得熟悉起那些人来，但他还是对他们之间的闲聊感到有些厌倦了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

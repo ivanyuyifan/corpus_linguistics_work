@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Afghanistan war logs: Story behind biggest leak in intelligence history
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>惊天泄密之后的故事 ― 阿富汗战争日志
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>From US military computers to a cafe in Brussels how thousands of classified papers found their way to online activists
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从美国军方电脑到布鲁塞尔咖啡厅，请看数千份机密文件如何落入网络活动分子的手中 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Julian Assange on the Afghanistan war logs: 'They show the true nature of this war' 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>朱利安·阿桑格对“阿富汗战争日志”评论说：‘这就是战争的真相。’
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>US authorities have known for weeks that they have suffered a haemorrhage of secret information on a scale which makes even the leaking of the Pentagon Papers during the Vietnam war look limited by comparison.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国当局最近数周来大量绝密信息泄露 元气大伤 即使是越战期间五角大楼文件的泄露也相形见绌。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Afghan war logs from which the Guardian reports today consist of 92 201 internal records of actions by the US military in Afghanistan between January 2004 and December 2009 -- threat reports from intelligence agencies plans and accounts of coalition operations descriptions of enemy attacks and roadside bombs records of meetings with local politicians most of them classified secret.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>《卫报》今天的专题报道“阿富汗战争日志”披漏美军从2004年1月到2009年12月在阿富汗的军事行动内部资料92201份。包括情报部门的威胁报告，联合行动计划和记录，敌人攻击和路边炸弹袭击的描述，与当地政治家的会面记录，大多数都是绝密情报。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Guardian's source for these is Wikileaks the website which specialises in publishing untraceable material from whistleblowers which is simultaneously publishing raw material from the logs.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>《卫报》这些信息来源于“维基解密”。该网站专门发布“告密者”提供的资料，并同时发布官方原资料，这些资料都做过处理，追查不到来源。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Washington fears it may have lost even more highly sensitive material including an archive of tens of thousands of cable messages sent by US embassies around the world reflecting arms deals trade talks secret meetings and uncensored opinion of other governments.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>华府担心自己已经泄漏的绝密情报不止这些，其中包括几万份由美国各大使馆发送的电文档案，这些文件内容不一，其中涉及军购，贸易谈判，秘密会晤，以及其他政府未经删减的言论。 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Wikileaks' founder Julian Assange says that in the last two months they have received yet another huge batch of "high-quality material" from military sources and that officers from the Pentagon's criminal investigations department have asked him to meet them on neutral territory to help them plug the sequence of leaks. He has not agreed to do so.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“维基解密”的创始人朱利安?阿桑格（ Julian Assange）说，前两个月他们还从军方收到大批“高度绝密材料”而且来自五角大楼刑侦部门的官员曾经要求与阿桑格在一个中立领地会面，以帮助美国堵住信息泄漏源，但是他并未同意。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Behind today's revelations lie two distinct stories: first of the Pentagon's attempts to trace the leaks with painful results for one young soldier; and second a unique collaboration between the Guardian the New York Times and Der Spiegel magazine in Germany to sift the huge trove of data for material of public interest and to distribute globally this secret record of the world's most powerful nation at war.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今天的揭秘背后有两个不同的情况并行出现：其一，五角大楼费尽周折要找出泄密源头，可是最终只找到个年轻士兵，令他们痛苦不堪；其二，《卫报》，《纽约时报》和德国《明镜周刊》三家媒体联合特别报道，过滤大量绝密数据，找出关乎公众利益的材料，向全球发布当今世界上最强大军事国家的秘密记录。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Pentagon was slow to engage. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>五角大楼反应迟钝。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The evidence they have now collected suggests it was last November that somebody working in a high-security facility inside a US military base in Iraq started to copy secret material. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们现在所收集的证据表明，美国伊拉克某军事基地一个高级别安全部门内，去年11月就有人开始复印秘密材料。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On 18 February Wikileaks posted a single document --- a classified cable from the US embassy in Reykjavik to Washington recording the complaints of Icelandic politicians that they were being bullied by the British and Dutch over the collapse of the Icesave bank; and the tart remark of an Icelandic diplomat who described his own president as "unpredictable". 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“维基解密”2月18日发布一份单文件――美国驻冰岛首都雷克雅未克大使馆发向华府的一份机密电报，记录了在冰岛储蓄银行（Icesave bank）破产期间，冰岛受到英国与荷兰的威吓，冰岛政治家向美国诉苦；一位冰岛外交官的话尖酸刻薄，说自己的总统“变化多端”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some Wikileaks workers in Iceland claimed they saw signs that they were being followed after this disclosure.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些在冰岛的“维基解密”工作人员就说，他们发现披露该文件之后，就受到跟踪。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the Americans evidently were nowhere nearer to discovering the source when on 5 April Assange held a press conference in Washington to reveal US military video of a group of civilians in Baghdad including two Reuters staff being shot down in the street in 2007 by Apache helicopters: their crew could be heard crowing about their "good shooting" before destroying a van which had come to rescue a wounded man and which turned out to be carrying two children on its front seat.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>4月5日，阿桑格在华盛顿举行新闻发布会，公布一段2007年在巴格达街头一群平民遭到美国军方阿帕奇直升机攻击的视频，――死者包括两名路透社记者：视频中可以听到美国军方飞行员对自己的“精准射击”得意洋洋，失声尖叫。之后又把一辆前来营救一名伤员的面包车炸的粉碎，事后证明这辆车前排座位有两名儿童。而美国人这时候明显还没有摸到挖出源头的门道。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was not until late May that the Pentagon finally closed in on a suspect and that was only after a very strange sequence of events. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>直到5月末，五角大楼才最终锁定一名嫌疑犯，而这里面也倍有蹊跷。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On 21 May a Californian computer hacker called Adrian Lamo was contacted by somebody with the online name Bradass87 who started to swap instant messages with him. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>5月21日，一名叫做阿德里安?拉莫（Adrian Lamo）来自加利福尼亚的电脑黑客在网络上收到一位称作“Bradass87”人的信息，要与他进行即时通讯聊天。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was immediately extraordinarily open: "hi... how are you? ...im an army intelligence analyst deployed to eastern bagdad ... if you had unprecedented access to classified networks 14 hours a day 7 days a week for 8+ months what would you do?"
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“Bradass87”特别坦诚，直奔主题：“嗨...你好？..我是一名军事情报分析师，在巴格达东部服役...要是你8个多月里，每周7天，一天14个小时可以不受限制访问机密网络，那你会怎么做？”.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For five days Bradass87 opened his heart to Lamo. He described how his job gave him access to two secret networks: the Secret Internet Protocol Router Network SIPRNET which carries US diplomatic and military intelligence classified "secret"; and the Joint Worldwide Intelligence Communications System which uses a different security system to carry similar material classified up to "top secret". 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们交谈的5天里，拉莫赢得“Bradass87”的信任，“Bradass87”是如何利用职务之便，访问到两个机密网络，一五一十地向拉莫道了出来：秘密因特网协议路由器网（the Secret Internet Protocol Router Network SIPRNET），该网络传送美国“机密“级别外交以及军事情报；和联合全球情报通信系统（Joint Worldwide Intelligence Communications System），该系统传送类似“绝密”级别信息。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He said this had allowed him to see "incredible things awful things ... that belong in the public domain and not on some server stored in a dark room in Washington DC ...­ almost criminal political backdealings ...­ the non-PR version of world events and crises."
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他说自己因此就看到了“令人咋舌、可怕的事情...这些东西就存在于公共领域，而不是存储于华盛顿一间黑屋里的服务器上...几乎都是罪恶行为，鲜为人知的政治黑幕...决不是世界大事，世界危机的公关版本。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bradass87 suggested that "someone I know intimately" had been downloading and compressing and encrypting all this data and uploading it to someone he identified as Julian Assange. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“Bradass87”还提起，“跟我很熟的一个人”早就下载了所有这些数据，而且经过压缩，加密处理后，上传给了一个人。这个人经他确认就是朱利安?阿桑格。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At times he claimed he himself had leaked the material suggesting that he had taken in blank CDs labelled as Lady Gaga's music slotted them into his high-security laptop and lip-synched to nonexistent music to cover his downloading: "i want people to see the truth " he said.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不经意间，他说出是自己泄露了该材料。他拿几个空白CD盘，冒充女神卡卡的专辑，把它们塞进高度安全的笔记本电脑中，然后带着耳机假装哼着音乐，其实是在下载资料。“我想让人们了解真相，”他开诚布公。  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He dwelled on the abundance of the disclosure: "its open diplomacy ... its Climategate with a global scope and breathtaking depth ...its beautiful and horrifying ... It's public data it belongs in the public domain." At one point Bradass87 caught himself and said: "i can't believe what im confessing to you."
+ </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他讲起泄露机密，一发不可收拾：“公开外交...全球范围的气候门和惊爆内幕...漂亮地让人激动...这是公共数据，就在公共领域。”一次，“Bradass87”突然闭嘴，说：“我跟你说了什么，自己都不相信。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It was too late. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但这时候为时已晚。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unknown to him two days into their exchange on 23 May Lamo had contacted the US military. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让“Bradass87”没有想到的是，拉莫在5月23日――也就是他们联系的第二天――就联系了美国军方。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On 25 May he met officers from the Pentagon's criminal investigations department in a Starbucks and gave them a printout of Bradass87's online chat.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>25日与五角大楼刑侦部门的官员在星巴克见面，向这些官员交出了与“Bradass87”的在线聊天记录。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On 26 May at US Forward Operating Base Hammer 25 miles outside Baghdad a 22-year-old intelligence analyst named Bradley Manning was arrested shipped across the border to Kuwait and locked up in a military prison.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>5月26日，巴格达25英里以外的美国前线作战基地（US Forward Operating Base Hammer）拘捕一名22岁的情报分析员，布拉德利?曼宁（Bradley Manning）。之后他就被送到科威特，关进了军事监狱。
+ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>News of the arrest leaked out slowly primarily through Wired News whose senior editor Kevin Poulsen is a friend of Lamo's and who published edited extracts from Bradass87's chatlogs. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他被捕的消息过了很久才通过《有线新闻》传了出来。该杂志的主编凯文?鲍尔森（Kevin Poulsen）是拉莫的一个朋友，发表了了拉莫与“Bradass87”的部分聊天记录。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pressure started to build on Assange: the Pentagon said formally that it would like to find him; Daniel Ellsberg who leaked the Pentagon Papers said he thought Assange could be in some physical danger; 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>阿桑格也逐渐感到压力：五角大楼正式公开要找到他；泄露五角大楼文件的丹尼尔?埃尔斯伯格（Daniel Ellsberg）担心阿桑格可能会有人身危险。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ellsberg and two other former whistleblowers warned that US agencies would "do all possible to make an example" of the Wikileaks founder.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>埃尔斯伯格和其他两位前告密者警告说，美国情报部门会“极尽所能惩罚这位‘维基解密’的创始人，以儆效尤。”
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Assange cancelled a planned trip to Las Vegas and went to ground.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>阿桑格随之取消了拉斯维加斯的旅行计划，躲了起来。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After several days trying to make contact through intermediaries the Guardian finally caught up with Assange in a café in Brussels where he had surfaced to speak at the European parliament.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>经过中间人几天的努力，《卫报》与阿桑格在布鲁塞尔一家咖啡厅会面，最终被阿桑格深深吸引，他也就随之浮出表面，在欧洲议会发表演讲。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Assange volunteered that Wikileaks was in possession of several million files which amounted to an untold history of American government activity around the world disclosing numerous important and controversial activities. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>阿桑格公开，“维基解密”掌握数百万份文件，牵扯到美国政府在世界各地的活动，罄竹难书。揭露大量重要的有争议活动。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They were putting the finishing touches to an accessible version of the data which they were preparing to post immediately on the internet in order to pre-empt any attempt to censor it.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们对这些数据进行润色后，准备避开审查，抢占先机，立刻在网上发布。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But he also feared that the significance of the logs and some of the important stories buried in them might be missed if they were simply dumped raw on to the web. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除此之外，阿桑格还担心要是他们把原始文件一股脑儿发到网上，这些日志的重要性就会隐而不见，还会遮蔽一些重要情况。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Instead he agreed that a small team of specialist reporters from the Guardian could have access to the logs for a few weeks before Wikileaks published to decode them and establish what they revealed about the conduct of the war.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>取而代之，他同意一个《卫报》专业记者小组在“维基解密”发布这些日志之前几周接触到这些日志，对其进行分析，确定所要揭示的这场战争内容。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To reduce the risk of gagging by the authorities the database would also be made available to the New York Times and the German weekly Der Spiegel which along with the Guardian would publish simultaneously in three different jurisdictions. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了减少受到当局钳制的风险，《纽约时报》、德国《明镜周刊》与《卫报》一起获得了这些数据。这三家媒体约定在三个不同的司法下去同时发布。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Under the arrangement Assange would have no influence on the stories we wrote but would have a voice in the timing of publication.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>按照协定，阿桑格不干扰我们所发表的文章，但是出版时可以表达自己的看法。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He would place the first tranche of data in encrypted form on a secret website and the Guardian would access it with a user name and password constructed from the commercial logo on the cafe's napkin.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他有可能会把第一部分数据加密，在一个秘密网站发布，而《卫报》会获得登陆权限，用户名和密码是根据咖啡厅餐巾的商业标识改过来的。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Today's stories are based on that batch of logs. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今天的新闻就是根据那部分日志而出。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Wikileaks has simultaneously published much of the raw data. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“维基解密”也同时发布部分原始数据。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It says it has been careful to weed out material which could jeopardise human sources.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“维基解密”公开其做好每一步工作，剔除掉可能会危害资源提供人的材料。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since the release of the Apache helicopter video there has been some evidence of low-level attempts to smear Wikileaks. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自从公布阿帕奇直升机视频以来，一些人无中生有，用下三滥的手段，意图诽谤“维基解密”。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Online stories accuse Assange of spending Wikileaks money on expensive hotels (at a follow-up meeting in Stockholm he slept on an office floor); of selling data to mainstream media (the subject of money was never mentioned); or charging for media interviews (also never mentioned).
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网上有人指责阿桑格滥用“维基解密”的钱住豪华酒店（在斯德哥尔摩的一个后续会议中，他可是睡在办公室地板上）；把数据卖给了主流媒体（钱，这个字压根儿就没有提）；还有人说他对媒体采访收费（也从没有提到过）。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Earlier this year Wikileaks published a US military document which disclosed a plan to "destroy the centre of gravity" of Wikileaks by attacking its trustworthiness.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今年早些时候，“维基解密”公布一份美国军方文件，揭发一个要通过攻击“维基解密”可靠性来“摧毁其核心”的阴谋。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Meanwhile somewhere in Kuwait Manning has been charged under US miitary law with improperly downloading and releasing information including the Icelandic cable and the video of Apache helicopters shooting civilians in Baghdad. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而与此同时，曼宁在科威特受到美方军事审判，罪名是玩忽职守，下载并发布秘密信息，其中就包括冰岛的电报和阿帕奇直升机射击巴格达贫民的视频。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He faces trial by court martial with the promise of a heavy jail sentence.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他面临军事法庭重判。  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ellsberg has described Manning as "a new hero of mine". 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>埃尔斯伯格夸曼宁为“我们的一位英雄”。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In his online chat Bradass87 looked into the future: "god knows what happens now...hopefully worldwide discussion debates and reforms. 
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在他的网络聊天中，“Bradass87”展望了未来：“只有上帝知道现在发生着什么...多么希望全世界都来参与讨论、辩论，投入到变革之中。...
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>if not ... we're doomed."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果不这样的话...我们注定将万劫不复。”</seg></tuv>
+</tu>
+</body>
+</tmx>

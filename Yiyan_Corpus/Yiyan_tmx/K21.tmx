@@ -1,0 +1,808 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T045541Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Winter dreams </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冬天的梦</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the caddies were poor as sin and lived in one-room houses with a neurasthenic cow in the front yard, but Dexter Green's father owned the second best grocery-store in Black Bear--the best one was "The Hub," patronized by the wealthy people from Sherry Island--and Dexter caddied only for pocket-money.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有的高尔夫球童家里一贫如洗，住在只有一个房间的屋子里，前院里有一头可怜的奶牛，但是德克斯特·格林的父亲拥有黑熊村一带第二好的杂货店。最好的杂货店叫做“中心”，谢利岛的有钱人经常光顾。德克斯特做球童只为了赚零花钱。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the fall when the days became crisp and gray, and the long Minnesota winter shut down like the white lid of a box, Dexter's skis moved over the snow that hid the fairways of the golf course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进入秋季天气变得干冷，天空转而灰暗。明尼苏达漫长的冬天瞬间降临，像白色的盖子顺势扣下。高尔夫球场平坦球路被积雪覆盖，德克斯特的滑雪板从上面滑过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At these times the country gave him a feeling of profound melancholy--it offended him that the links should lie in enforced fallowness, haunted by ragged sparrows for the long season. It was dreary, too, that on the tees where the gay colors fluttered in summer there were now only the desolate sand-boxes knee-deep in crusted ice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当这时候，乡间使他感到深深的忧郁——让他不快的是高尔夫球场被强制处于休闲状态，在这漫长的季节里被羽毛蓬乱的麻雀们盘踞，同样沉闷异常的是夏天高尔夫球座上翻飞着欢乐的色彩，而现在只剩被埋在结实的冰面里的寂寞的沙箱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he crossed the hills the wind blew cold as misery, and if the sun was out he tramped with his eyes squinted up against the hard dimensionless glare.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在雪上迈着沉重的步子前进，穿过山丘时刺骨的冷风刮个不停；如果遇上晴天，他只得眯起眼睛来抵抗无处不在的刺眼的强光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In April the winter ceased abruptly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四月里冬季戛然而止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The snow ran down into Black Bear Lake scarcely tarrying for the early golfers to brave the season with red and black balls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>消融的积雪流入黑熊湖，不为那些早早用红球和黑球挑战这个季节的打高尔夫球的人做分秒停留。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without elation, without an interval of moist glory, the cold was gone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有得意与喜悦，没有间隙湿润的景致，寒冷便悄然退去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dexter knew that there was something dismal about this Northern spring, just as he knew there was something gorgeous about the fall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克斯特知道这北地的春天有些许凄凉，就像他知道秋天有一些非同寻常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fall made him clinch his hands and tremble and repeat idiotic sentences to himself, and make brisk abrupt gestures of command to imaginary audiences and armies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>秋天使得他握紧双手，激动地颤抖，对自己重复着些傻话，忽然用敏捷的动作指挥想象的观众和军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>October filled him with hope which November raised to a sort of ecstatic triumph, and in this mood the fleeting brilliant impressions of the summer at Sherry Island were ready grist to his mill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十月给他注满希望，十一月里这种希望演化为一种成功的狂喜。在这样的心情下，谢利岛夏季转瞬即逝的光景对他助益颇多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He became a golf champion and defeated Mr. T. A. Hedrick in a marvellous match played a hundred times over the fairways of his imagination, a match each detail of which he changed about untiringly--sometimes he won with almost laughable ease, sometimes he came up magnificently from behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想象着自己成为了高尔夫冠军，在一场精彩的比赛中打败了T. A.赫德里克先生。这场比赛在他想象的平坦球道上演了数百次，他不知疲倦地反复修改着每一个细节——有时候他赢得轻而易举，不费吹灰之力；有时候他奋起直追，精彩地反败为胜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, stepping from a Pierce-Arrow automobile, like Mr. Mortimer Jones, he strolled frigidly into the lounge of the Sherry Island Golf Club-- or perhaps, surrounded by an admiring crowd, he gave an exhibition of fancy diving from the spring-board of the club raft. . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想象自己像蒙蒂莫·琼斯先生一样，再一次踏出“皮尔斯-银箭”轿车，冷淡而悠闲地走进谢利岛高尔夫俱乐部的休息室，又或者在仰慕的人群的注目之下,从俱乐部船上的跳板起跳，完成一次精彩的跳水......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among those who watched him in open-mouthed wonder was Mr. Mortimer Jones.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而蒙蒂莫·琼斯先生也在那群惊讶得合不拢嘴的人之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And one day it came to pass that Mr. Jones--himself and not his ghost-- came up to Dexter with tears in his eyes and said that Dexter was the----best caddy in the club, and wouldn't he decide not to quit if Mr. Jones made it worth his while, because every other caddy in the club lost one ball a hole for him-- regularly----</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天琼斯先生——他本人而不是他的幻影——含泪找到德克斯特，说他是俱乐部里最好的球童，如果支付足够多的钱他能不能决定继续干下去呢？因为俱乐部里的其他球童通常每洞都丢过一个球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, sir," said Dexter decisively, "I don't want to caddy any more." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，先生”德克斯特果断地回答，“我不想再做球童了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, after a pause: "I'm too old." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>短暂的沉默之后他说：“我太老了。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're not more than fourteen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你还不到十四岁!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why the devil did you decide just this morning that you wanted to quit? You promised that next week you'd go over to the State tournament with me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你怎么今早就忽然决定不干了呢？你还答应了下周要过来跟我一起参加全州锦标赛。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I decided I was too old." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得我太老了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dexter handed in his "A Class" badge, collected what money was due him from the caddy master, and walked home to Black Bear Village.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克斯特交回他的A等奖章，带着从球童主管那儿领来的自己应得的报酬，一路走回在黑熊村的家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The best----caddy I ever saw," shouted Mr. Mortimer Jones over a drink that afternoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我见过的最好的球童” 那个下午蒙蒂莫·琼斯喝完一杯酒之后叫道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Never lost a ball! Willing! Intelligent! Quiet! Honest! Grateful!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“从来没丢过一个球！积极、聪明、不多嘴、诚实，懂得感恩。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The little girl who had done this was eleven--beautifully ugly as little girls are apt to be who are destined after a few years to be inexpressibly lovely and bring no end of misery to a great number of men. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使这一切发生的小女孩11岁，现在的模样尽管可爱但还有点丑，她像那些注定几年后出落得明艳可爱，美丽得不可方物的小女孩一样，将来会给许多男人带来无尽的痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spark, however, was perceptible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而现在，她美貌的已经初见端倪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a general ungodliness in the way her lips twisted ,down at the corners when she smiled, and in the--Heaven help us!--in the almost passionate quality of her eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她笑起来的时候嘴角略微朝下弯，给人以邪恶的感觉，她眼里洋溢着近乎热情的活力，好像在说“老天快帮帮我们”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vitality is born early in such women. It was utterly in evidence now, shining through her thin frame in a sort of glow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的女人很早就被赋予了活力，如今这份活力已经显而易见，从她纤细的身体由内而外焕发着迷人的光彩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had come eagerly out on to the course at nine o'clock with a white linen nurse and five small new golf-clubs in a white canvas bag which the nurse was carrying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她早早地出来，九点钟就跟穿白亚麻衣服的保姆到了高尔夫球场。 保姆拿着一个白色的帆布袋，里面装着五支崭新的高尔夫球杆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Dexter first saw her she was standing by the caddy house, rather ill at ease and trying to conceal the fact by engaging her nurse in an obviously unnatural conversation graced by startling and irrelevant grimaces from herself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克斯特第一次见到她的时候她站在球童房旁边，十分局促，用吃惊和苦着脸的表情竭力掩饰着与保姆明显不自然的对话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, it's certainly a nice day, Hilda," Dexter heard her say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“今天天气真好呢，希尔达。”德克斯特听见了她说的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She drew down the corners of her mouth, smiled, and glanced furtively around, her eyes in transit falling for an instant on Dexter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她嘴角浅浅朝下一牵，露出一个微笑。她暗自打量四周，双眼在特克斯特身上停留了一瞬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then to the nurse: "Well, I guess there aren't very many people out here this morning, are there?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后转向保姆说：“那么，我猜今早这儿不会有太多人来打球，是吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The smile again--radiant, blatantly artificial--convincing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她又露出了一模一样的微笑——光彩照人，刻意精雕细琢的笑——却令人信服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know what we're supposed to do now," said the nurse, looking nowhere in particular.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道我们接下来该做什么，”保姆说着，眼神漫无目的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, that's all right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“噢，没关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll fix it up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会解决的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dexter stood perfectly still, his mouth slightly ajar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克斯特嘴微张着，站得纹丝不动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew that if he moved forward a step his stare would be in her line of vision--if he moved backward he would lose his full view of her face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道如果上前一步，他直直的眼神便会落进她的视线里——如果退后，就无法看到她的脸了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a moment he had not realized how young she was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有那么一瞬间，他没意识到她才多小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now he remembered having seen her several times the year before in bloomers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他记起来去年见过她好几次——那时候她穿着灯笼裤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly, involuntarily, he laughed, a short abrupt laugh-- then, startled by himself, he turned and began to walk quickly away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忽然间他不由自主地笑了，短暂、突然地笑了。随之他被自己吓了一跳，他转过身，迅速地迈着步子走开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Boy!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“球童！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dexter stopped.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克斯特止步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Boy----"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“球童......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beyond question he was addressed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问，她跟他说话了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not only that, but he was treated to that absurd smile, that preposterous smile--the memory of which at least a dozen men were to carry into middle age.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不只是那样，他被那个奇怪的微笑所俘获——那个荒谬之极的微笑，至少数十个男人会把那个笑容的短暂的回忆带至他们的中年时代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Boy, do you know where the golf teacher is?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“球童，你知道高尔夫教练在哪儿吗？“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's giving a lesson." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他在上课。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, do you know where the caddy-master is?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你知道球童主管在哪儿吗？“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He isn't here yet this morning." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“今早他还没出现。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh." For a moment this baffled her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“喔。”这个答案让她迟疑了一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stood alternately on her right and left foot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轮流倚着左右腿站着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We'd like to get a caddy," said the nurse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们想找一个球童，”保姆说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mrs. Mortimer Jones sent us out to play golf, and we don't know how without we get a caddy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“琼斯夫人让我们出来打高尔夫球，可是没有球童的话恐怕我们不知道该怎么办。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here she was stopped by an ominous glance from Miss Jones, followed immediately by the smile.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保姆停住了，因为琼斯小姐撇来不善的目光，虽然紧接着她露出了微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There aren't any caddies here except me," said Dexter to the nurse, "and I got to stay here in charge until the caddy-master gets here." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“除了我这儿没有其他球童，”德克斯特对保姆说，“我负责这里，直到球童主管来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Jones and her retinue now withdrew, and at a proper distance from Dexter became involved in a heated conversation, which was concluded by Miss Jones taking one of the clubs and hitting it on the ground with violence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此时琼斯小姐和她的陪同退下了，距离德克斯特有一定的距离，爆发了一场激烈的争吵。琼斯小姐拿起一根球杆，猛地敲向地面，结束了他们的对话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For further emphasis she raised it again and was about to bring it down smartly upon the nurse's bosom, when the nurse seized the club and twisted it from her hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了进一步强调，她又再次举起球杆。保姆伸手抓住球杆扭在手里的时候，琼斯小姐的球杆正要朝保姆的胸前落下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You damn little mean old thing!" cried Miss Jones wildly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你这个该死的可恶的老东西！”琼斯小姐大声叫到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another argument ensued. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>紧接着又发生了一场争吵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Realizing that the elements of the comedy were implied in the scene, Dexter several times began to laugh, but each time restrained the laugh before it reached audibility. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>觉察到眼前这一幕的喜剧成分之后，德克斯特好几次要发笑，但每次都在笑出声之前忍住了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could not resist the monstrous conviction that the little girl was justified in beating the nurse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他竟然产生了难以置信的认同，觉得这个小女孩打保姆有着充分的理由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The situation was resolved by the fortuitous appearance of the caddymaster, who was appealed to immediately by the nurse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这局面被碰巧出现的球童主管化解了，保姆马上注意到了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Miss Jones is to have a little caddy, and this one says he can't go." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“琼斯小姐需要一个球童，但是眼前这个说他不能去。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mr. McKenna said I was to wait here till you came," said Dexter quickly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“麦肯纳先生让我在这儿等你来”， 德克斯特迅速回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, he's here now." Miss Jones smiled cheerfully at the caddy-master. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好了，他现在已经来了。”琼斯小姐朝球童主管开心地笑到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she dropped her bag and set off at a haughty mince toward the first tee.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着她扔下她的球杆袋，傲慢地朝着第一个球座走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well?" The caddy-master turned to Dexter. "What you standing there like a dummy for? Go pick up the young lady's clubs." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“唷？”球童领队转向德克斯特，“你还像个傻瓜一样站在这儿干嘛？还不去把那位年轻女士的球杆捡起来？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't think I'll go out to-day," said Dexter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不认为我今天要去球场。”德克斯特说。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You don't----</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不去......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>" "I think I'll quit." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不干了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The enormity of his decision frightened him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个重大的决定吓到了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a favorite caddy, and the thirty dollars a month he earned through the summer were not to be made elsewhere around the lake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是最受欢迎的球童，夏天湖区一带没有其他任何地方能挣到三十美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he had received a strong emotional shock, and his perturbation required a violent and immediate outlet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他受到了巨大的情感的惊吓，他混乱不宁的情绪需要立刻猛烈地宣泄出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not so simple as that, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这绝非那么简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As so frequently would be the case in the future, Dexter was unconsciously dictated to by his winter dreams.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正像将来会无数次发生的那样，德克斯特无意识地被他的冬天的梦支配着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>NOW, OF COURSE, the quality and the seasonability of these winter dreams varied, but the stuff of them remained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，当然这些冬天的梦的细节和季节都不同了，但是他们的内容并没有变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They persuaded Dexter several years later to pass up a business course at the State university--his father, prospering now, would have paid his way--for the precarious advantage of attending an older and more famous university in the East, where he was bothered by his scanty funds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们说服德克斯特在几年后拒绝州立大学的商业课程——他的父亲现在变得富裕了，能够维持他的生活开销——为了那并不确定的优势选择东部更具历史更有名的学校，在那儿他因为囊中羞涩而烦恼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But do not get the impression, because his winter dreams happened to be concerned at first with musings on the rich, that there was anything merely snobbish in the boy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是别形成那种印象，因为他的冬天的梦最初碰巧与他关于富人的思考有关，那仅仅是男孩的势利眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted not association with glittering things and glittering people--he wanted the glittering things themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他并不想与那些闪闪发光的事物和人们熟识，他想要的只是那些闪闪发光的东西本身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often he reached out for the best without knowing why he wanted it--and sometimes he ran up against the mysterious denials and prohibitions in which life indulges. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常他只追求最好的事物，却不知道他想要他们的原因，并且有时候他遭遇命运纵容下令人费解的拒绝和禁止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is with one of those denials and not with his career as a whole that this story deals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总体上，这个故事讲述的正是这些拒绝的其中之一，而不是他的事业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He made money. It was rather amazing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>非常出人意料，他赚到了钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After college he went to the city from which Black Bear Lake draws its wealthy patrons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕业之后他来到了被黑熊湖吸引的富有的赞助者们所在的城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was only twenty-three and had been there not quite two years, there were already people who liked to say: "Now there's a boy--" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他仅仅23岁，到那儿还不到两年的时候已经有人常说：“现在这儿有一个年轻人......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All about him rich men's sons were peddling bonds precariously, or investing patrimonies precariously, or plodding through the two dozen volumes of the "George Washington Commercial Course," but Dexter borrowed a thousand dollars on his college degree and his confident mouth, and bought a partnership in a laundry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他周围有钱人的儿子们有的瞄准机会买卖股票，有的投资祖产，有的埋头于二十四卷“乔治华盛顿商业课程”，但是德克斯特凭借他的学位和自信的口才借到了一千美元，买下了一家洗衣店的股权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a small laundry when he went into it but Dexter made a specialty of learning how the English washed fine woollen golf-stockings without shrinking them, and within a year he was catering to the trade that wore knickerbockers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他接手的时候那不过是一家小型洗衣店，但德克斯特从英国人那儿学到了防止细羊毛高尔夫球袜缩水的洗涤方法，使其这成为自己洗衣店的特色，并且在一年内得到了为高尔夫运动提供洗衣服务的生意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Men were insisting that their Shetland hose and sweaters go to his laundry just as they had insisted on a caddy who could find golfballs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>男人们坚持把他们的设得兰长袜和毛衣送到德克斯特的洗衣店，就像过去人们坚持只要能找到高尔夫球的球童一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A little later he was doing their wives' lingerie as well--and running five branches in different parts of the city. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久，德克斯特也接手了这些男人的妻子们的内衣洗衣生意。德克斯特在城里不同地方同时经营着五家洗衣店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before he was twenty-seven he owned the largest string of laundries in his section of the country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还不到二十七岁他就拥有了全国最大的连锁洗衣店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was then that he sold out and went to New York. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时他卖掉洗衣店，然后去了纽约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the part of his story that concerns us goes back to the days when he was making his first big success.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我们关注的他的那部分故事发生在他取得第一次巨大的成功之前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he was twenty-three Mr. Hart--one of the gray-haired men who like to say "Now there's a boy"--gave him a guest card to the Sherry Island Golf Club for a week-end. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他23岁时，哈特先生——那些爱说“现在，这儿有个年轻人”的白发老人们的其中一个——给了他一张谢利岛高尔夫球俱乐部的周末贵宾卡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So he signed his name one day on the register, and that afternoon played golf in a foursome with Mr. Hart and Mr. Sandwood and Mr. T. A. Hedrick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是一天他在登记薄上签上自己的名字，那天下午他、哈特先生、桑德伍德先生还有T. A. 赫德里克先生一行四人去打高尔夫球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did not consider it necessary to remark that he had once carried Mr. Hart's bag over this same links, and that he knew every trap and gully with his eyes shut--but he found himself glancing at the four caddies who trailed them, trying to catch a gleam or gesture that would remind him of himself, that would lessen the gap which lay between his present and his past.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不认为有必要说出他曾在同样的球场上为哈特先生背过球杆包，他闭着眼睛都清楚地知道每个陷阱和水沟的位置，但是他发觉自己在看着跟在他们身后的四个球童，试图从他们身上捕捉到一些瞬间或者动作，让他想起自己，填平些许过去与现在的鸿沟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a curious day, slashed abruptly with fleeting, familiar impressions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是耐人寻味的一天，似曾相识的印象突如其来地闪过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One minute he had the sense of being a trespasser--in the next he was impressed by the tremendous superiority he felt toward Mr. T. A. Hedrick, who was a bore and not even a good golfer any more.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一瞬间他有一种作为入侵者的感觉，下一秒又被对T. A. 赫德里克先生产生的巨大的优越感所触动——他是个无聊的人，甚至再也算不上一个打高尔夫的好手。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, because of a ball Mr. Hart lost near the fifteenth green, an enormous thing happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来，由于哈特先生丢失在第十五轻击区的一个球，一件大事发生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While they were searching the stiff grasses of the rough there was a clear call of "Fore!" from behind a hill in their rear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们在深草区的草茎间寻找球的时候，一声清楚的“前面注意”的叫声从他们身后的山坡传来。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

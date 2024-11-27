@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T115328Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did American conservationists in Africa go too far?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国生态环境保护主义者在非洲做得太过分了吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the early nineteen-seventies Mark and Delia Owens two graduate students in biology at the University of Georgia were seized by the idea of resettling in remotest Africa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 在上世纪70年代初，两名佐治亚大学生物学专业研究生马克和迪丽娅?欧文斯突然产生了在遥远的非洲重新安家的冲动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They organized an auction sold their possessions and used the modest proceeds to buy camping equipment and a pair of one-way air tickets to Johannesburg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们搞了一次拍卖，卖掉了自己的财物，并花掉了部分拍卖所得购买了宿营装备和两张飞往南非约翰内斯堡的单程机票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they arrived in January 1974 Delia the daughter of a Georgia trucking executive was twenty-four years old. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们于1974年1月抵达了约翰内斯堡。那年迪丽娅24岁，她的父亲是佐治亚州一家货运公司的主管。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mark who grew up on a farm west of Toledo Ohio was twenty-nine the divorced father of a four-year-old boy named Christopher.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克在俄亥俄州的托莱多市西部一处农场长大，29岁，离过一次婚，有一个叫克里斯托弗的4岁男孩。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mark and Delia had scoured the map of Africa searching for a site so isolated that its wildlife would have no knowledge and no fear of humans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克和迪丽娅翻遍了非洲地图，寻找一块与世隔绝的荒蛮之地，那里的野生动物不了解人类也不会害怕人类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They eventually found their way to a place called Deception Valley in the Kalahari Desert of Botswana. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们最终找到了这块位于博茨瓦纳卡拉哈里沙漠一个称做欺骗谷（Deception Valley）的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a perfect spot for the Owenses to make camp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一处适合欧文斯夫妇安营扎寨的理想地盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wildlife there had not been depleted by poaching as it had been in other parts of Africa and though the valley was in many ways an unforgiving place --- temperatures can climb above a hundred and twenty degrees in summer--- it was distant enough from the capital Gaborone to insure that they would be left alone to do their work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里的野生动物还未被已经在非洲其它地区出现的偷猎行为扫荡过。尽管这座谷地在很多方面让人难以忍受，比如在夏天的时候，气温会攀升到华氏120°（48°C）以上，但是它距离首都哈博罗内非常遥远，可以确保他们不受干扰地从事自己的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kalahari is virtually empty of people:
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡拉哈里基本上杳无人烟：
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>the Owenses later wrote of living with only "a few bands of Stone Age Bushmen in an area larger than Ireland."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斯夫妇后来写到自己的生活，“在比爱尔兰还要大的一片区域内，只有少数几支石器时代的布须曼人与他们为邻。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In their book "Cry of the Kalahari " which was published in 1984 the Owenses described their dreadful living conditions: "We rationed ourselves to seven gallons of water each per week for bathing cooking and drinking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1984年出版的《卡拉哈里的呼喊》一书中，欧文斯夫妇描述了他们令人畏惧的生活条件：“我们每周限量供应自己7加仑（大约26升）水用来洗浴、做饭和饮用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water from the drums tasted like hot metallic tea and to cool it for drinking we filled tin dinner plates and set them in the shade of the acacia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水罐里的水有一股金属腥味，要冷却了才能喝。我们在锡餐盘里注满水后放在合欢树的树荫下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if we didn't watch it closely the water would quickly evaporate or collect bees twigs and soil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是如果我们盯得不紧，水会很快蒸发掉或者招来蜜蜂、细树枝和泥土。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After washing the dishes we took sponge baths in the dishwater then strained the coffee-colored liquid through a cloth into the truck's radiator."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洗过盘子后，我们会用刷碗水洗海绵浴，然后使用一块布过滤一下这些咖啡色的液体并加入到货车的引擎冷却器里。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite penury loneliness and drought they established a viable research station and over several years they gained the trust of several prides of lions and clans of brown hyenas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管他们面对的是清贫、孤独和干旱，但他们还是建立了一处切实可行的研究点，而且经过几年的磨合，他们还赢得了几群狮子和一群棕鬣狗的信任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the manner of Jane Goodall Dian Fossey and Joy and George Adamson the Owenses spent thousands of hours recording the smallest details of their subjects' behavior. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和简·古多尔、戴安·福西、和乔伊与乔治?亚当森夫妇等人采取的方式一样，欧文斯夫妇花了数千小时的时间记录其观察对象行为的最微小细节的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early on Mark Owens went to South Africa to learn how to pilot small airplanes and the Frankfurt Zoological Society which became the Owenses' most important sponsor gave him money for a single-engine Cessna. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早期，马克·欧文斯去南非学过如何驾驶小型飞机，法兰克福动物园协会（后来成为欧文斯夫妇最重要的资助方）为他们提供资金购买了一架单引擎塞斯纳飞机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He used the plane to make aerial surveys of the Kalahari's wildlife and he and Delia conducted close observation of the social life of hyenas learning about their surprisingly communal behavior. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他驾驶这架飞机对卡拉哈里的野生动物进行空中飞行调查，同时他和迪丽娅还对鬣狗的群体生活进行了近距离观察以便了解它们令人惊奇的集群行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By writing about the exploits of these predators in vivid and accessible prose they attracted popular attention and funding for their work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斯夫妇通过生动、通俗易懂的散文形式描写这些食肉动物的生活习性，受到了人们的广泛关注并得到了工作资助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They cultivated reporters who came to Deception Valley and told their story not as one simply of carnivore research but as a tale of young love in a hard land.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们将自己培养成为深入欺骗谷的记录人，他们讲述自己的故事，不是简单地介绍对食肉动物的研究，而是倾注了爱在荒原的传奇。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In "Kalahari Romance " an article Mark Owens published in International Wildlife he described his ideal day: "We land in the grass most likely in a place never visited by modern man and sleep in the open under the wing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克·欧文斯在《国际野生动物》杂志发表的一篇文章《卡拉哈里浪漫曲》中描述了他理想的一天：“我们降落在一片草地上，这很可能是一块现代人从未涉足的地方。我们就在机翼下的空地上休息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now and then we wake to watch the gentle sweep of the Southern Cross through the sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们间或醒来凝视星空中南十字星的曼妙身形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Knowing that no one on Earth knows where we are or could ever find us we feel special as if we are the only two people in the universe."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知道球上没人我们在哪儿，也没人能找到我们，我们觉得自己与众不同，好像茫茫宇宙我们，别无他人。”  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But eventually the complexities of the human world would intrude. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最终纷杂的人类社会会侵入这里的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day while flying over the central Kalahari Mark Owens came across an enormous migration of wildebeest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天，马克·欧文斯在卡拉哈里中心地带的上空飞行时，偶然看到一大群野生羚羊的迁徙行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He followed the path of the migration until to his bewilderment the animals suddenly stopped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他循着羚羊迁徙的路线飞行，令他感到困惑的是羊群突然停了下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stretched before them was a steel-wire fence more than a hundred miles long erected by the government of Botswana to prevent the spread of foot-and-mouth disease to the country's cattle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>横亘在它们面前的是一道蔓延上百英里的铁丝网，这是博茨瓦纳政府为了防止手足口病传播到他们国家的畜群而采取的应对措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many animals had died of dehydration and carcasses were strewn on the ground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多动物已经脱水死去，尸体遍布荒野。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the surviving wildebeest funnelled along the fence in search of water they entered a hunting area where poachers lay in wait. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当幸存的野羚羊呈漏斗状队形沿着铁丝网寻找水源的时候，它们进入了一处狩猎区。在那里，偷猎者正在坐等鱼儿上钩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Owens looked on the poachers killed animals en masse.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在欧文斯观察之际，这些偷猎者开始集体起身屠杀野羚羊。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We watched through binoculars as the slaughter continued along the shore " Owens wrote in "Cry of the Kalahari." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斯在《卡拉哈里浪漫曲》中写道，“我们使用双筒望远镜观察到大屠杀沿着湖岸展开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Trembling with rage I pushed the control wheel forward and we plunged toward the lakeshore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我气得浑身发抖，我向前推动操纵轮驾机向湖滨俯冲过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poachers were preoccupied with their butchery and did not see the aircraft until it was at ground level roaring across the plain toward them at 160 miles an hour."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>偷猎者正专注于屠杀，没有注意到飞机。直到我们贴近地面并以每小时160英里的速度呼啸着掠过原野朝他们冲去的时候。他们才大惊失色。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mark and Delia urged government ministers and game-management officials to protect the animals but their pleas were rejected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克和迪丽娅敦促政府部长们和狩猎管理官员保护野生动物，但是他们的呼吁遭到拒绝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Almost everyone we knew told us to forget it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“几乎每个我们认识的人都告诉我们不要再过问这件事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“ ‘Cattle is too big an industry; you'll never get them to take down the fences ' " they wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>‘畜牧业是一个太大的产业；你永远也不要指望说服他们拆除篱笆，’”他们写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Since no one within the country would listen to our recommendations we decided to try to publicize the issue worldwide to enlist the support of prominent people outside the country who perhaps could encourage the Botswana government to review the problem."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“由于这个国家没有人会听从我们的建议，我们便决定在全世界宣传这个野生动物保护问题，以求获得这个国家之外知名人士的支持，他们也许能够促使博茨瓦纳政府检讨这个事情。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day government officials in Gaborone summoned Mark and Delia to a meeting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天，哈博罗内的政府官员召集马克和迪丽娅开会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they arrived they were told that they were being expelled from the country. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当赶到时，他们被告知他们将被驱逐出境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Botswana was a major exporter of beef to Europe and the government was embarrassed by the Owenses' campaign. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>博茨瓦纳的牛肉主要出口到欧洲，该国政府因欧文斯夫妇的宣传活动感到很窘迫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Jonathan S. Adams and Thomas O. McShane's book "The Myth of Wild Africa " Quett Masire the President of Botswana at the time said of the Owenses "If you cannot operate within the bounds of government whom you are a guest of in this country to work these issues out then work elsewhere."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据乔纳森·S．亚当斯和托马斯·O．麦克沙恩等人合著的《狂野非洲的神话》一书记载，时任博茨瓦纳总统马西雷对欧文斯夫妇说，“如果你们在政府的管辖范围之内运作这件事，那么你们就是这个国家的客人，帮助我们解决这个问题；如果想游离于政府之外，那么就请离开这里！”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Owenses felt roughly handled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斯夫妇感觉受到了粗暴地对待。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mark Owens later told People "They fingerprinted us threatened us treated us like criminals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧文斯后来对人说，“他们强迫我们按手印、威胁我们、像罪犯一样对待我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We weren't allowed to call the Embassy or get a lawyer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不让我们给大使馆打电话或请律师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We lost everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们处于孤立无援的境地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took a lot of healing to get over it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们花了很长时间进行康复治疗。”彼时，欧文斯夫妇已经完成了研究生课程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By then the Owenses had finished their graduate studies (Mark earned an M.Ed. and Delia a Ph.D.) and gained some renown for their work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克获得了哲学博士学位；迪丽娅获得了教育学硕士学位，他们因所从事的工作也获得了一些知名度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After they returned to the U.S. they enlisted a number of politicians --- several congressmen; Andrew Young then the mayor of Atlanta; and Vice-President George H. W. Bush --- to lobby the government of Botswana to reverse its decision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>返回美国后，他们获得了许多政治家的支持，其中包括几位国会议员、时任亚特兰大市长的安德鲁?杨和副总统乔治?H?W?布什。几个月后，在这些政治家的游说下，博茨瓦纳政府终于收回了此前的决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Months passed before Botswana did so and in the meantime the Owenses searched for another game park in which they could continue their research on large mammals.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，欧文斯夫妇也在寻找另外的野生动物保护区以继续进行针对大型哺乳类动物的研究工作。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Northern Province of Zambia they discovered a place that seemed to fit their needs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在赞比亚北方省，他们找到了一块满足他们需要的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The North Luangwa National Park named for the river that forms its eastern boundary is twenty-four hundred square miles of mopane forests grasslands leadwood and sausage trees and lagoons filled with hippos and crocodiles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北卢安瓜国家公园的名称取自形成其东部界河的一条河流。这座公园占地2400平方英里，区域内有mopane树林、草场、铅木和香肠树，以及生活着大量河马和鳄鱼的泻湖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside its borders is more wilderness thousands of square miles of forests and plains inhabited like the park by a great range of Africa's most extraordinary mammals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在公园边界之外是更加荒凉的地区，就像这座国家公园一样，在数千平方英里的森林和平原上，生活着一系列非洲最不同寻常的哺乳动物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The profusion of wildlife has made the Luangwa Valley a dangerous place for humans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丰富的野生动物使得卢安瓜河谷成为人类难以涉足的危险地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each year crocodiles elephants and lions kill dozens of people who live in the mud-hut villages that are scattered across the region.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年，分散在该区域内的泥屋村落中都会有几十位村民被鳄鱼、大象和狮子杀死。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time the Owenses arrived in 1986 North Luangwa was in their telling a national park in name only undeveloped unvisited unguarded and inaccessible by vehicle for much of the year because of flooding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在欧文斯夫妇1986年到达这里之前，用他们的话说，北卢安瓜只是有名无实的国家公园。由于洪水泛滥，这里一直处于尚未开发、人迹罕至、无人守护的状态，在一年的大部分时间里，交通工具都无法深入其中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mark Owens said of the park "Here's where civilization ends." In a lecture at the National Geographic Society in Washington D.C. in 2006 he described the challenge of settling in North Luangwa. "We had to first survey a way in from the air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克·欧文斯是这样谈到这座国家公园的，“这里是人类文明终结之地。”2006年，在华盛顿特区国家地理学会举办的一次讲座中，他描述了在北卢安瓜安顿下来时遇到的挑战，“我们不得不从天上观察园区以求寻找一条进入园区的道路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And we found an old poachers' route that snaked its way down the three-thousand-foot Muchinga Escarpment " he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们发现了一条古老的偷猎者小路，它如蛇形般延伸到3000英尺高的穆钦加悬崖之下。”他说。“我们就沿着这条路前进......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So we set about doing that . . . encountering creeks and rivers and streams of course that had to be crossed. And no way to cross except these footbridges."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其间遇到了小溪与河流，当然要想办法穿过它们，我们只能搭建其人行桥。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In "The Eye of the Elephant " the book the Owenses published in 1992 about their experience in Zambia they described the moment they realized that they could find contentment in North Luangwa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1992年出版的《象眼看世界》一书中，欧文斯夫妇介绍了他们在赞比亚的经历。他们描述了他们认识到北卢安瓜可以满足心愿的那一刻的感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were visiting the confluence of the Mwaleshi and Luangwa Rivers for the first time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们当时正在姆瓦莱希河和卢安瓜河两条河流的交汇处进行首次考察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The floodplains near and far are spotted with wild animals: six hundred buffalo grazing across a grassy plain; fifty zebras ambling toward the river to drink; a herd of waterbuck lying on a sandbar downstream " Mark wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“远远近近的洪泛平原上星星点点地生活着各种野生动物：600头的野牛在草原上游荡；50只斑马漫步到河边饮水；一群非洲大羚羊躺在河谷下游的沙洲上休憩，”马克写到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where the two rivers join is a large pool crowded with a hundred hippos their piggy eyes on us their nostrils blowing plumes of water in the setting sun as they twiddle their ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在两条河流汇集之处是一个大型的水塘，数百头河马聚集在这里，它们的小圆眼睛盯着我们并若无其事地摇动着耳朵，它们的鼻孔在落日余晖中吹起水柱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After our tangle with the bramble and the broken woodland Africa has won us back."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们踏遍荆棘并从林地钻出之后，非洲大地终于赢得了我们的回归！”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But within days of making the torturously slow descent from the escarpment down to the river basin they found evidence of rampant poaching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在随后几天从悬崖处开始如蜗牛爬行般地下行到河滩地时，他们发现了猖獗偷猎的证据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In "The Eye of the Elephant " in which Delia and Mark write alternating chapters Mark Owens told of a terrible discovery:
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《象眼看世界》这本由迪丽娅和马克章节穿插写就的书中，马克?欧文斯告诉我们一个令人震惊的发现：
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mark look over there!" I stop the truck and we walk to a thin grove of trees near the edge of the dead woodland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“马克，快看那边！”我停下车，我们一起走到一处枯死林地边缘稀疏的小树丛旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Five elephant skulls bone white and half the size of bathtubs are scattered about the area with pelvises leg bones ribs shoulder blades and other remains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五头大象的头颅，白骨嶙峋、每颗头颅都有半只浴缸那么大，散落在这片林地，同时还可以看到骨盆、腿骨、肋骨、肩胛骨和其它遗留物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Horrified we notice skeletons lying everywhere: one here five over there six there.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>眼前这一切让我们惊骇万分，我们注意到骨架到处都是：这儿一架！那里有五架！！那里还有六架！！！  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The bastards!" I kick the dust. . . .
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这帮狗娘养的！”一簌尘土从我脚尖腾起......
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now we understand why we have not seen a single living elephant or a sign of one in the eight days since we entered the park. We are standing in the midst of a killing field. . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我们才明白为什么我们一路走来就没有看到过一头活生生的大象，连一处痕迹都没有，要知道我们进入园区都已经8天了！我们茫然地站在这块屠宰场的中央......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although we have not yet run into poachers it must be only a matter of time until we do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然还没有撞见偷猎者，但撞见他们，那是早晚的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There will be no ignoring them running from them pretending they do not exist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不能忽视他们、躲避他们甚至天真地假装他们根本不存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we stay here to work we will have to do something about them.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我们要在这里坚持下去，我们必须要有所作为。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they finally did see a small family of elephants by a river they noticed their skittishness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们终于在一条河边找到一个小象群时，他们注意到了象群的胆怯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The elephants are so frightened by humans that they will not drink " Mark wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“大象被人吓到了，它们不敢放心大胆地喝水，”马克写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"At this moment in August of 1986 we pledge to each other: no matter what it takes or how long we will stay in North Luangwa until the elephants come to drink at the river in peace."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“此时此刻，1986年8月，我们彼此发誓：不管发生什么事，不管持续多长时间，我们都会坚守在北卢安瓜，直到大象可以安静地到河边喝水。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the late nineteen-seventies and early eighties there was a spike in the killing of Africa's savanna elephants caused largely by increased demand in Asia for ivory carvings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在上世纪70年代末和80年代初，对非洲稀树大草原大象的杀戮呈现激增态势，很重要的原因来自于亚洲对象牙雕刻品的不断增加的需求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1979 there were about a million three hundred thousand elephants in Africa; ten years later the population had fallen by half. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1979年，非洲有130万头大象；10年后，大象数量下降了一半。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the late eighties some countries including Kenya had found the problem serious enough to institute a shoot-to-kill policy allowing poachers to be shot on sight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了80年代后期，包括肯尼亚在内的一些国家已经发现了问题的严重性，遂采取了严厉的格杀勿论政策，允许公开枪毙偷猎者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zambia which had no such official policy was heavily afflicted by poaching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有此类官方政策的赞比亚则深受盗猎行为的折磨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its central government was corrupt in places and ineffective at policing the country's distant corners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该国的中央政府贪污腐化横行，政令也无法到达这个国家偏远的角落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For poachers North Luangwa's isolation made it a favored hunting ground.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对偷猎者而言，北卢安瓜因其与世隔绝状态而成为偷猎天堂。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hunters had always taken game in North Luangwa but they mainly "shot for the pot " killing animals to feed their families. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在北卢安瓜，猎人们传统的狩猎目的主要是为了满足家庭的生活需要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until the arrival of the British in the early nineteen-hundreds there were several villages of the Bisa and Bemba tribes in the North Luangwa wilderness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在20世纪初英国人来到这里之前，在北卢安瓜荒原上坐落着几个比萨人和本巴人的部族村落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The animals that lived among them --- wildebeest warthogs impala elephants and buffalo --- were their only source of protein; livestock could not coexist with the tsetse flies that are endemic to the area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与他们共同生活在这片区域的动物有野羚羊、疣猪、黑斑羚、大象和野牛，这些野生动物是他们唯一的蛋白质来源；而牲畜却无法与本地特有的采采蝇和平共处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The British expelled the villagers from the valley in order to create the game reserve but the Bisa and Bemba who were relocated to the Muchinga Escarpment continued to visit the park to hold religious ceremonies at tribal burial sites and to hunt on ancestral lands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国人为了建立狩猎保护区将村民从谷地驱逐出去，让他们迁移到穆钦加悬崖地区，但是比萨人和本巴人继续到保护区内活动，在部落的墓地举行宗教仪式并在祖先的土地上狩猎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These hunters like many in Zambia did not consider what they did poaching and they resented the imposition of Western notions of animal welfare and animal rights on their societies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些猎人和许多赞比亚的猎人一样，并不认为他们的行为算偷猎，而且他们对西方国家将有关动物福利和动物权利的思想强加给他们的社会感到愤怒。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,1303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T051737Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I'm Gone</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我若离去</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Death is always a surprise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>死亡总在意料之外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one expects it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有人能够预感到它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not even terminal patients think they are going to die in a day or two. In a week, maybe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使濒临死亡的病人认为他们将在一两天之内死去，或许，在一周内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But only when this particular week is the next week.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这个特殊的一周将会是下一个一周。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are never ready. It is never the right time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们从没有做好准备在对的时间去面对死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time it comes, you will not have done all the things that we wanted to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到它到来，我们或许也未做完我们想要做的所有的事情，这个结局总是出乎意料的到来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The end always comes as a surprise, and it's a tearful moment for widows and a bore for the children who don't really understand what a funeral is (thank God).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于寡妇来说，它是个催泪的悲伤时刻；对于还不理解葬礼孩子来说，它是一个使人讨厌的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was no different with my father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我父亲而言也是这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, his death was even more unexpected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实则，他的死亡更加的出乎意料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was gone at age 27. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他27岁时就离开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same age that claimed the lives of several famous musicians. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样的年龄，死亡索取了那些著名的音乐家的生命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was young. Way too young. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他英年早逝，太过年轻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was not a musician and neither a famous person. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲既不是音乐家也不是一个有名的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cancer doesn't pick its victims. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>癌症不会挑选他作为牺牲者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was gone when I was young, and I learned what a funeral was because of him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在我很小的时候就去世了，因为他，我知道了什么是葬礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was 8 and half, old enough to miss him for a lifetime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，我八岁半，太过早的一生思念他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had he died before, I wouldn't have memories. I would feel no pain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我没有他去世之前的记忆，我将不会感到痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I wouldn't have a father in my life. And I had a father.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有一个父亲，但是他去世之后我的生活中将没有父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a father who was both firm and fun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我有一个坚强有趣的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someone who would tell a joke before grounding me. That way, I wouldn't feel so bad. Someone who kissed me on the forehead before I went to sleep. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在我还没学会走路之前就给我讲笑话，那个方式，使我不会感到太糟糕；他趁我睡着后偷偷的亲吻我的额头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A habit which I passed on to my children. Someone who forced me to support the same football team he supported, and who explained things better than my mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他会强迫我和他支持相同的足球队，这个习惯我把它传给了我的孩子，他解释事情比我妈妈清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you know what I mean? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你明白我所说的吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A father like that is someone to be missed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲就像我所思念的这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He never told me he was going to die. Even when he was lying on a hospital bed with tubes all over him, he didn't say a word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从没告诉我他会离开我，即使他在医院的病床上插着管子躺着的时候，他一个字也没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father made plans for the next year even though he knew he wouldn't be around in the next month. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲安排好了明年的计划即使他知道他不能活到下个月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next year, we would go fishing, we would travel, we would visit places we've never been. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明年，我们将去尝试一些我们以前从未做过的钓鱼，旅行，和参观一些地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next year would be an amazing year. We lived the same dream.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明年将是一个令人惊异的一年，我们做着相同的梦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe - actually I'm sure - he thought this should bring luck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，我坚信，他认为这样做可以带来好运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a superstitious man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是个迷信的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thinking about the future was the way he found to keep hope alive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>带着活着的希望认为未来总有出路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bastard made me laugh until the very end. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种假的希冀让我发笑直到最后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew about it. He didn't tell me. He didn't see me crying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道我不相信，他从没有告诉我，他从未看见我在哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And suddenly, the next year was over before it even started.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忽然间，明年在他还未开始之前就结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother picked me up at school and we went to the hospital. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲在学校接我去医院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The doctor told the news with all the sensitivity that doctors lose over the years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医生带着愧疚的情绪告诉了这个消息我们已经尽力了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother cried. She did have a tiny bit of hope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲哭了，她仅存的一点点希望也破灭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I said before, everyone does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我说之前，所有人都这样说了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt the blow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我受到了打击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What does it mean? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它意味着什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wasn't it just a regular disease, the kind of disease doctors heal with a shot? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它不仅仅是一个寻常的疾病，这种疾病医生能够通过治疗使他恢复健康吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hated you, dad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我恨你，爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt betrayed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得自己被骗了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I screamed with anger in the hospital, until I realized my father was not around to ground me. I cried.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我愤怒的大喊着，直到我意识到我的父亲已经不再我身边了，我哭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, my father was once again a father to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，我的父亲再次对我来说是一个遥不可及的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a shoebox under her arm, a nurse came by to comfort me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个护士走过来安慰我，她的胳膊夹着一个鞋盒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The box was full of sealed envelopes, with sentences where the address should be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个盒子里装满了密封的信件，这些信件上写着地址。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't understand exactly what was going on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道那上面究竟写着什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nurse then handed me a letter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，这个护士交给我一封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only letter that was out of the box.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是唯一一封没有放在盒子里的信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your dad asked me to give you this letter. He spent the whole week writing these, and he wants you read it. Be strong." the nurse said, holding me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>护士握着我的手说；“你父亲让我把这个交给你，他用了整整一周时间写的，他要你看完它后，变得坚强。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The envelope read WHEN I'M GONE. I opened it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个信封上面写着当我离去，我拆开了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Son,</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>儿子，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you're reading this, I'm dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你看到这封信时，我已经去世了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm sorry. I knew I was going to die.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很抱歉，我知道我将要死去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't want to tell you what was going to happen, I didn't want to see you crying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不想要告诉你将发生的事，是因为我不想看到你哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, it looks like I've made it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，这看起来像我故意隐瞒你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think that a man who's about to die has the right to act a little bit selfish.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想一个人面对死亡时，应该有权利去做一点点自私的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, as you can see, I still have a lot to teach you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，正如你所想的那样，我还有好多东西要交给你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, you don't know crap about anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别忘了，你不要抱怨事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I wrote these letters for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此我写下这些信给你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You must not open them before the right moment, OK? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你要在正确的时候拆开它们。好吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is our deal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我们的约定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love you. Take care of your mom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爱你，照顾好你的妈妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're the man of the house now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你现在是一家之主。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Love, dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱你的父亲</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>PS: I didn't write letters to your mom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>P.S ：我没有给你母亲写信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's got my car.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她得到了我的车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He made me stop crying with his bad handwriting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他用他潦草的字迹使我哭个不停。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Printing was not easy back then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用印刷体写在当时是困难的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His ugly writing, which I barely understood, made me feel calm. It made me smile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他潦草的字迹令我勉强才能看懂，让我保持镇定，让我微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's how my father did things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是我父亲做的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like the joke before the grounding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像还未落地的笑话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That box became the most important thing in the world for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个盒子成为这个世界上对我来说最重要的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I told my mother not to open it. Those letters were mine and no one else could read them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我让我母亲不要拆它，那些信是我的，我不允许任何人看它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew all the life moments written on the envelopes by heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道他写在信上的一生都是用心写的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it took a while for these moments to happen. And I forgot about it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他花费了很长时间写的信，不久我就会忘记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seven years later, after we moved to a new place, I had no idea where I put the box. I couldn't remember it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>七年后，我们搬到一个新的地方，我不知道我把盒子放到了什么地方，我忘记了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when we don't remember something, we usually don't care about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不记得某事，通常是不在乎它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If something goes lost in your memory, it doesn't mean you lost it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果某事在你的记忆里找不到了，那并不意味着你丢了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It simply doesn't exist anymore. It's like change in the pockets of your trousers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它不过不存在了，就像是改变了你裤子上的口袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And so it happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此它发生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My teenage years and my mother's new boyfriend triggered what my father had anticipated a long time before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的青少年时期，我母亲的新男朋友引发了我爸爸很长一段时间的观察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother had several boyfriends, and I always understood it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲有很多男朋友，我能理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She never married again. I don't know why, but I like to believe that my father had been the love of her life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从未再此结婚，我不知道原因。但是我相信我的父亲一直爱着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This boyfriend, however, was worthless. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而这个男朋友，是卑微的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought she was humiliating herself by dating him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想和他约会，我的母亲感到丢脸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had no respect for her. She deserved something a lot better than a guy she met at a bar.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不尊重我的母亲，她应该做的事都比她在酒吧里遇见那个男的要好的多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still remember the slap she gave me after I pronounced the word "bar". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仍然记得刚我说出酒吧那个字后，她打了我一巴掌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll admit that I deserved it. I learned that over the years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我承认这是我应得的惩罚，过了很长时间，我明白了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, when my skin was still burning from the slap, I remembered the box and the letters. I remembered a specific letter, which read "WHEN YOU HAVE THE WORST FIGHT EVER WITH YOUR MOM".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那时，当那一巴掌打的我的皮肤很滚烫时，我想起了盒子和信，想起了那个特别的信，上面写着“这可能使你和你的母亲有最坏的斗争。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ransacked my bedroom looking for it, which earned me another slap in the face. I found the box inside a suitcase lying on top of the wardrobe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我彻底搜查我的床找那使我的脸挨了一巴掌的盒子，我发现这个盒子放在衣柜的最顶层的衣箱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked through the letters, and realized that I had forgotten to open WHEN YOU HAVE YOUR FIRST KISS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>带着不安的状态，我浏览了信件，意识到我忘记了在我获得我的第一个吻时打开它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hated myself for doing that, and I decided that would be the next letter I'd open. WHEN YOU LOSE YOUR VIRGINITY came right next in the pack, a letter I was hoping to open really soon. Eventually I found what I was looking for.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我恨我自己忘记了。我决定打开接下来的那封信，接下来盒子里的是“当你失去你的贞洁时"这封信。这封我一直都希望很快打开的信，最终我发现我想要寻找的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now apologize to her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在向她道歉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know why you're fighting and I don't know who's right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道你为何吵架，我也不知道谁对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I know your mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我了解你的母亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So a humble apology is the best way to get over this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以一个谦逊的道歉是解决这件事最好的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm talking about a down-on-your-knees apology.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所说的就是一个谦逊的道歉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's your mother, kid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是你的母亲，孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She loves you more than anything in this world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她爱你胜过这个世界上的一切事物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you know that she went through natural birth because someone told her that it would be the best for you? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道她为什么要经受顺产的痛苦生你吗、那是因为有人告诉她，那是对你最好的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have you ever seen a woman giving birth? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有见过一个女人分娩吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you need a bigger proof of love than that?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你需要一个很大的证据来证明吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apologize. She'll forgive you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原谅她，她也会原谅你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Love, dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱你的，父亲</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was not a great writer, he was just a bank clerk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲并不是一个很伟大的作家，他仅是一个银行工作人员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But his words had a great impact on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他的字对我有很大的影响力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were words that carried more wisdom than all of my 15 years of age at the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些字上面承载着比我十五岁年龄所收获的更多的智慧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(That wasn't very hard to achieve, though).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（尽管它很难实现。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I rushed to my mother's room and opened the door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我奔向我母亲的房子，打开门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was crying when she turned her head to look me in the eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她转过她的头用眼睛看我时，我泣不成声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was also crying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她也哭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't remember what she yelled at me. Probably something like "What do you want?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不记得她对我喊叫，也许一些像“你想要什么？”的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What I do remember is that I walked towards her holding the letter my father wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所记得是我拿着我父亲写的信走向她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I held her in my arms, while my hands crumpled the old paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用胳膊拉着她，我手心里的旧信都变皱了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She hugged me, and we both stood in silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她抱住我，我们都安静的站在那里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father's letter made her laugh a few minutes later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲的信使我母亲笑了几分钟后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We made peace and talked a little about him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们友好的聊了一会我的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She told me about some of his most eccentric habits, such as eating salami with strawberries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她告诉我一些我父亲的古怪的习惯，例如用草莓吃萨拉米。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Somehow, I felt he was sitting right next to us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不知怎么地，我感到父亲正坐在我们的右边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Me, my mother and a piece of my father, a piece he left for us, on a piece of paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我，母亲，和我父亲的几封信，那些他留给我们的，只是一张纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It felt good.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它让我们觉得他一直陪伴在我们身边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It didn't take long before I read WHEN YOU LOSE YOUR VIRGINITY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我开始读当你失去你的贞洁这封信时并没有用很长时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Congratulations, son.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恭喜你，儿子：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't worry, it gets better with time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要担心，贞洁随着时间变珍贵了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mine happened with an ugly woman ­who was also a prostitute.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的给了一个丑陋的妓女。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My biggest fear is that you'd ask your mother what virginity is after reading what's on the letter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我最大的恐慌是你读完这封信后不要去问你母亲什么是贞洁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or even worse, reading what I just wrote without knowing what jerking off is (you know what it is, right?). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更糟糕的是，读我刚写的这个竟不知道什么是手淫。（你知道它，对吗？）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that's none of my business.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这与我无关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Love, dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱你的，父亲</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father followed me through my entire life. He was with me, even though he was not near me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲一直存在于我整个人生中，尽管离我很远，他和我在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His words did what no one else could: they gave me strength to overcome countless challenging moments in my life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他所说的话是无人可比的。那些话给了我力量来克服生命中出现的无数的挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would always find a way to put a smile on my face when things looked grim, or clear my mind during those angry moments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他总是在事情变得糟糕的时候，找一种方法让我脸上充满微笑。或者在我生气的时刻 让我脑子清晰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>WHEN YOU GET MARRIED made me feel very emotional. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>‘ 当你结婚时’这封信使我很感动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But not so much as WHEN YOU BECOME A FATHER.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但没有像”当你成为一个父亲“这封信使我感动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now you'll understand what real love is, son. You'll realize how much you love her, but real love is something you'll feel for this little thing over there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你将明白什么是真正的爱，你能够意识到你有多么的爱她。但是真爱是你所感受到的小事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know if it's a boy or a girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道是否是一个男孩或者一个女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm just a corpse, I'm not a fortune teller.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只是一具死尸，我不是一个算命者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have fun. It's a great thing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过得开心，它是最棒的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Time is gonna fly now, so make sure you'll be around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>光阴如梭，所以要确保你跟着它走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never miss a moment, they never come back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要错过任何一刻，它们永远不再回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Change diapers, bathe the baby, be a role model to this child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>换尿布，给小孩洗澡，成为孩子的榜样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think you have what it takes to be an amazing father, just like me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想你能够做到这些，你就能成为一个成功的父亲，就像我一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most painful letter I read in my entire life was also the shortest letter my father wrote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我的一生中我所读过最痛苦的一封信也是我父亲写的最短的一封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While he wrote those four words, I believe he suffered just as much as I did living through that moment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他写下这四个字的时候，我相信，他刚所承受的比我那时候经历的痛苦还要多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took a while, but eventually I had to open WHEN YOUR MOTHER IS GONE.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，但最终，我还是拆开了那封名叫当你妈妈离去的信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She is mine now.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她现在就是我</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A joke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个玩笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sad clown hiding his sadness with a smile on his makeup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个悲伤的小丑把他的痛苦隐藏在妆容后面的微笑中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the only letter that didn't make me smile, but I could see the reason.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是唯一一封没有使我笑的信，但是我可以明白原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I always kept the deal I had made with my father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直在遵从我对父亲的承诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never read letters before their time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来没有在那时读过那封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With the exception of WHEN YOU REALIZE YOU'RE GAY. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了那封当你认为你是同性恋者的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since I never thought I'd have to open this one, I decided to read it. It was one of the funniest letters, by the way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管我从来没有想过我会拆开这一封，我决定赌他，顺便说一下那是最有趣的一封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What can I say? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还能再说些什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm glad I'm dead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都已经死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, all joking aside, being half-dead made me realize that we care too much about things that don't matter much. Do you think that changes anything, son?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，让我们把所有的玩笑放在一边，作为一个将死的人，我意识到，我们不要太在意一些重要的事情，你认为这能改变一切吗？亲爱的儿子？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't be silly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不能犯傻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be happy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would always wait for the next moment, the next letter. The next lesson my father would teach me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我总是在等待下一个时刻，下一封信，我父亲所教我的下一节课。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now that I am lying on a hospital bed, with tubes in my nose and my throat thanks to this damn cancer, I run my fingers on the faded paper of the only letter I didn't open. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我的鼻子和喉咙由于这该死的癌症插满管子的时候，我把我的手指放在那封我唯一没有打开的泛黄的信上。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

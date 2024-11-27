@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160901T131134Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hokkaido Green</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北海道绿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After his brother died, Hitoshi Watanabe quit his job and decided to walk to the hot spring waterfall at the end of the world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他兄弟去世后，渡边仁（Hitoshi Watanabe）就辞了职，决定步行到世界尽头的温泉瀑布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His friends told him he was crazy. "You're fifty-three years old. You're not going to get another job." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的朋友们说他疯了，“你五十三岁了，你不会再得到另一份工作了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My brother died of overwork," Hitoshi answered. "I don't want that to happen to me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我兄弟是过劳死的，”仁回答说，“我不希望这样的事发生在我身上。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He packed a bag with a few clothes, a sleeping bag, his camera equipment, and his father's photo album and set out on foot from Osaka. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将几件衣服、一个睡袋、他的照相器材和他父亲的相册装进一个包，然后从大阪步行出发了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The journey would have taken a few hours in a plane, but a pilgrimage demanded a journey on foot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这趟旅程坐飞机要用几个小时，但朝圣者追求的是用脚走的旅程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After two months he reached the edge of Honshu and took a ferry to Hokkaido. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个月后他到达了本州岛（Honshū）的边上，然后乘坐渡船到北海道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He continued walking towards Shiretoko, the peninsula in the island's northeast. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他继续走向知床（Shiretoko），这个岛东北的半岛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was summer, and he filled his camera's memory cards with photos of green meadows and fields of lavender.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在是夏天了，他在照相机的内存卡上存满了绿色草地和熏衣草田的照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shiretoko's original inhabitants, the Ainu, had referred to the peninsula as the end of the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知床的原住民阿伊努人把这个半岛看作是世界的尽头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi's father had told him it was where secrets went to hide. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁的父亲告诉过他，秘密就是藏到这里来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi had always wanted to visit, but the demands of work meant he had never managed to find the time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁一直想来看看，但工作的需要使他从未抽出过时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he finally reached the national park, he waited until dark and then walked down the path leading through the woods to the hot spring waterfall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他最终到达国家公园时，他等到天黑，然后沿着那条穿过树林的小路走向温泉瀑布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The park was closed for the day, but it was easy to bypass the gate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公园这一天已经关了，但绕过大门还是很容易的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His flashlight illuminated a sign hanging from a rope stretched across the trail: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手电筒照亮了横拉过小径的一条绳子上挂着的一个标牌：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Closed due to bear sightings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有熊出没，此处关闭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did bears come out at night? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊在晚上出来吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, he had come this far. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，他已经走了这么远了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He slipped under the rope and continued down the path.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从绳子下面溜了过去，继续沿着那条路走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sound of running water came from ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奔流的水声从前面传来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The trail emerged from the woods and he looked up at the side of a rocky hill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小径从树林中钻了出去，他抬头看向一座石山的侧面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A narrow waterfall trickled down the side of the rock, splashing into a pool of water.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一道窄窄的瀑布从石头的边缘流淌而下，溅入一个水池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His father claimed the water here was the most amazing color he'd ever seen- a vivid blue-green he'd dubbed Hokkaido green.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他父亲声称这里的水是他见过的最令人惊异的颜色——一种他称之为北海道绿的鲜艳的蓝绿色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water looked inviting, but since it was dark, it was hard to judge the color. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这水看起来很诱人，但因为天黑了，难以判断颜色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He undressed and stepped into the pool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他脱下衣服，迈入池中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water was warm and he let its soothing touch wash over his body.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水是暖的，他让它舒缓的触摸泼洒在他身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He caught a glimpse of his reflection in the moonlight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他瞥见自己在月光下的倒影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He hardly recognized the gray-haired salaryman who peered back at him, a cubicle samurai who had devoted his life to doing the bidding of his corporate overlords.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他几乎认不出那个回望他的花白头发的工薪族，一个终其一生遵照公司领导的吩咐做事的格子间武士。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A cluster of specks of light appeared near the edge of the woods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一簇星星点点的光亮出现在离树林边缘不远的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had the park rangers noticed his presence?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公园巡逻员发现他了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A brown bear entered the clearing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一头棕熊走进了这块空地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It walked upright and carried an old-fashioned miner's lantern filled with fireflies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它直立行走，提着一个装有萤火虫的老式矿工灯笼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It waddled towards the pool, looking less like a predator than like an elderly sumo wrestler tottering uncertainly towards a bout with a reigning champion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它摇摇摆摆地走向水池，看起来不像是一个食肉动物，而更像是一个年老的相扑选手蹒跚地走向和卫冕冠军的一场较量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It stopped near the edge of the pool and bowed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它在水池边附近停下，然后弯腰鞠躬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would have been impolite not to return the gesture, so Hitoshi stood up and bowed as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不回礼是不礼貌的，所以仁站起来，也鞠了一躬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear stooped down and put the lantern on the ground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊弯下身来，把灯笼放在地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It fumbled with the straps on Hitoshi's pack and started rummaging through the contents.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它笨手笨脚地摸索仁背包上的带子，然后开始翻找里面的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have some tinned tuna," Hitoshi said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我有一些罐装金枪鱼，”仁说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear ignored him and continued to search through the pack. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊不理他，继续在背包里搜寻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took out his cell phone and tapped awkwardly on the screen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它拿出他的手机，笨拙地在屏幕上轻轻敲击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It walked to the edge of the pool and held out the phone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它走到水池边上，把手机伸过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi leaned closer to see the screen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁倾身靠近些看屏幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear had written a message in hiragana. Hello.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊用平假名写了一条信息：你好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hello," he said uncertainly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你好，”他迟疑地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sorry I use hiragana. I never study kanji.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抱歉我用平假名，我从没学过日文汉字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's okay. Can you talk?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没关系，你会说话吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bears cant talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊不会说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear put the phone to the side and eased itself into the hot spring.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊将手机放到一边，然后悠闲地泡进温泉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear had dark eyes, and its scraggly brown fur was dotted with patches of gray. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这头熊有黑色的眼睛，它蓬乱的棕色皮毛上点缀着灰色斑点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two of them sat in silence for a couple of minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们两个静静地坐了几分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the bear leaned over the edge of the hot spring and grasped the phone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后熊俯身越过温泉边沿，抓住手机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can I help? it wrote.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能帮什么忙吗？它写道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you mean?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你什么意思？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You look for secret?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在寻找秘密？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How do you know that?" Hitoshi asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你怎么知道的？”仁问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear tapped its nose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊点点自己的鼻子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You smell like man looking for secret.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你闻起来像是寻找秘密的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi took a moment to compose his thoughts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁用了一会儿时间组织自己的思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When I was a boy I used to listen to my parents talk with customers in their ramen restaurant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在我还是一个男孩时，我常常听我父母在他们的拉面馆里跟顾客谈话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We lived in a small town and most of my friends were expected to take over their family businesses."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们住在一个小镇上，我的大部分朋友们都被期望接手他们的家族生意。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi's father had been a giant of a man with bushy eyebrows and shaggy hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁的父亲是个身材高大的人，长着浓密的眉毛和粗乱的头发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'll be happy if you work in the restaurant after you graduate from high school," he had said to Hitoshi and his brother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果你们高中毕业后到餐馆工作我会很高兴的，”他曾对仁和他兄弟说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But I don't expect it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但我并不要求你们这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're both smart boys. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们两个都是聪明的男孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you want to get a job in the city, that will make me proud too."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你们想在城里找份工作，那也让我很自豪。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi glanced across at the bear. It seemed to be listening intently.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁匆匆看了一眼熊，它好像在专心地听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My brother and I moved to Osaka for university. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我兄弟和我到大阪上大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We both got jobs with big companies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们两个都在大公司找到了工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I developed image processing software for a camera manufacturer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我为一家照相机生产商开发图像处理软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two years ago my father called me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两年前我父亲打电话给我。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi's mother had died a year earlier and his father had sounded old and tired. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁的母亲在前一年去世了，他父亲听上去苍老而疲惫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'd like you to come and visit, Hitoshi. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我希望你来看看，仁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to teach you how to cook tonkotsu ramen. It's my best dish." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想教你做豚骨拉面，那是我最拿手的饭菜。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm sorry, but things are really busy at work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对不起，但是工作上的事情实在很忙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have a new camera due to start production next month."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们有一款新的照相机预计下个月开始生产。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's good to work hard, Hitoshi. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“努力工作是很好，仁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother and I always worked hard at the restaurant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲和我总是在餐馆努力工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But every once in a while if the weather was nice, we'd close the restaurant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但每隔一段时间，如果天气不错，我们会关掉餐馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother would go for a bicycle ride and I would go fishing."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲会去骑自行车，而我则会去钓鱼。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have an important job, Father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我有一份很重要的工作，父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My colleagues depend on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的同事们都指望我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll be home next month for New Year's."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我下个月会回家过新年。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi was going to say goodbye, but his father cleared his throat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁正要说再见，可是他父亲清了清嗓子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Have you started making black and white cameras yet?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你们开始制作黑白照相机了吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi sighed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁叹了口气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His father had been a talented photographer but refused to use anything except black and white film. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他父亲是个有才华的摄影师，但除了黑白胶卷外拒绝使用其他任何东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've told you before," Hitoshi said. "Cameras are digital now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我以前跟你说过，”仁说，“照相机现在是数码的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can change the settings so the photos are color or black and white."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以更改设置，把照片设成彩色或者黑白。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Colors are like dreams," his father replied. "If you try and reproduce them, you'll only be disappointed." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“色彩像梦，”他父亲回答说，“如果你试着复制它们，你只会失望。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi looked across at the bear. "My father died a week later."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁看向熊，“我父亲一周后去世了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sorry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很遗憾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My brother died this year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我兄弟今年去世了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't have any family left now." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在没有什么家人了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He scooped up some of the water and let it run through his fingers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他掬起一些水，让它流过他的手指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I want to know my parents' recipe for tonkotsu ramen," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我想知道我父母做豚骨拉面的食谱，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Restaurant is hard work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开餐馆很辛苦的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know, but I'll be the boss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道，但我将是老板。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I want to close the restaurant for a day, I can." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我想把餐馆关上一天，我就可以关。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good for customers?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>顾客这方面行吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My parents' tonkotsu ramen was the best. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我父母的豚骨拉面是最好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People used to come from other towns just to eat it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们以前常常从其他城镇过来就是为了吃这个面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you find the secret of how to make it?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能找到如何制作的秘密吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can sniff out secret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能闻出秘密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But you give me something.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但你要给我些东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear didn't answer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊没有回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The tuna?"Hitoshi asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“金枪鱼？”仁问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear shook its head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊摇摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Photos.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My father's photo album?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我父亲的相册？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not just album. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不仅仅是相册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All photos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有的照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You won't be able to take any more photos.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不能够再拍照了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you mean?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你什么意思？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cameras no longer work for you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照相机不再为你工作了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Photos and memories were all he had left of his family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照片和回忆是他仅留的与家人有关的一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why do you want my photos?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你为什么想要我的照片？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every action creates opportunities. Every action limits your choices.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一个行动都创造机会，每一个行动都限制你的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hitoshi waited for the bear to explain more, but it had stopped writing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仁等着熊再解释多一些，但它停下不写了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is there anything else I can give you?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我可以给你其他东西吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bear shook its head.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熊摇摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't mean to be rude, but I hope you're not going to tell me that to find the secret I have to look within myself or something like that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不是有意冒犯，但我希望你不要告诉我，要找到这个秘密我必须得审视自我或类似那样的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd prefer something more practical. Like the exact recipe."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我更喜欢比较实际的东西，比如确切的食谱。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

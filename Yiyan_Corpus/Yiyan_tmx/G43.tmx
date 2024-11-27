@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T074639Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Navigating Stuckness: Jonathan Harris</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在困滞中航行（乔纳森·哈里斯自传）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Getting Stuck</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>陷入困滞</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A few weeks ago, I was having dinner with my mom in Manhattan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几星期前，我和母亲在曼哈顿用晚餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was telling me her plans for this year's Christmas card. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她正对我唠叨今年写圣诞卡的打算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This year," she said, "instead of writing my usual newsy card, I think I'll just say, 'Amanda's about to have a baby, and Jonathan moved from California back to New York.'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“今年，”她说道，“我不打算像以前一样写些闲话了，我觉得只需要写，‘阿曼达要有个孩子了，乔纳森从纽约搬回加利福利亚了。’”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sounds good to me," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听起来不错。”我回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well," she said, "it seems like you used to do so much in a year, and I always wanted to include all your news. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“话说回来，”她接着说道，“以前每年你好像总会做很多事，我也总想把你所有的新鲜事儿写进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this year, it just seems like you haven't been doing very much, so I figured a shorter note was in order."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但今年，你貌似一直没做什么，所以我琢磨着该给你个短点的记录。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I squirmed in my chair and readjusted my napkin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我难为情地在椅中挪了挪，摆弄着餐巾纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mom - maybe like all moms - has a special way of saying just the thing that'll hit your most vulnerable spot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的母亲——也许和所有的母亲一样——有种戳人死穴的特别说话方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's right - this year, I haven't been doing very much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说的没错——这一年，我一直没做什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've spent a lot of time wandering into churches, reading old journals, watching YouTube videos, and staring out of windows, but very little time making any work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我花了许多时间闲逛教堂，读旧杂志，看YouTube视频，还有看着窗外发呆，却很少去做任何工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've been feeling really stuck, unsure about what to do next, and struggling with a lot of self-doubt and confusion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我总觉得自己困滞万分，不知要做什么，只在自疑与迷惑中挣扎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After dinner, I walked across the street to the Lincoln Center fountain, and I sat on the granite slab next to the water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚餐后，我穿过街道来到林肯中心喷泉，靠着水在花岗石围板上坐下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The night was dark and cold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜晚暗沉而清冷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Operagoers in tuxedos rushed to get taxis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身着晚礼服的观剧者往赴打车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could feel the black stone below my body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感到身下黑石的冷硬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked at the city sky but I couldn't see stars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仰脸凝望城市的天空，却不见一丝星光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I turned my head to look at the water. The columns of water were moving up and down in some kind of pattern, but I couldn't tell what it was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转过头注视流水，那水柱以我无法明知的节奏上下涌流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes the columns of water were tall, and moving up and down within their tallness. Other times, the columns of water were low, and moving up and down within their lowness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水柱时而高涌，在高处上下浮游；时而低流，于低处微微起伏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The columns of water were never not moving.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那水流从未停歇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought about stuckness, and about where I lost the flow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想起停滞，思索着我是在何处停流。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remembered other times in my life I'd been stuck, and how the stuckness always eventually passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想起此生几度困滞之时，那些困滞最终是如何流去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought how life is a lot like that fountain, with its columns of water moving up and down, and how the low points are actually thrilling because the high points are about to come back, and how the high points are actually terrifying, because the low points always come next.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想着人生竟会与那簇喷泉如此相似。它如水柱高低起伏，低处其实惊心动魄，只因又将到达高峰；高处其实使人惊惧，只因低谷总随后而来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought of my life as a series of chapters, and I realized that each time I'd been majorly stuck, it meant that a life chapter was ending, and that a new one needed to start - like the stuckness was always a signal indicating imminent change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我认为此生由一系列时段组成。我意识到每当我极度困滞，那便代表一个旧时期正要完结，而新时期需要被启封——困滞仿佛总在充当暗示内在变化的信号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My life has had a bunch of different chapters, each one beginning with the fresh-faced idealism of a new approach to living, and each one ending with a period of stuckness and a moment of crisis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我生活中已有一连串相异的时段，每一段都以对新生活方式的稚气理想开始，并以一阵困滞与片刻危机结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd like to tell you about those chapters, in case they contain something useful for you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假使它们中包含对你有用之物，我便想为你讲述一下那些人生时段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I should say up front that I'm lucky to make a living mainly by giving talks about my work at conferences, companies, and universities, which affords me a lot of time each year to make new work (and to obsess endlessly about what that work should be). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这之前，我想我应说，能在会议、公司与大学中以宣讲作品为生，我感到很幸运。每年，这给了我大量时间去创作新的作品（以及无尽地困惑于怎样创作）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Zen philosophy, they say that anything pushed to its extreme becomes its opposite. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>禅宗哲学言，物极必反。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes I wonder whether too much freedom produces a weird kind of psychological paralysis, which is almost like prison. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我怀疑过多的自由是否会变成一种几乎与坐牢相似的古怪心理麻痹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, obviously I'm grateful to be grappling with too much freedom instead of too little.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但显然我还是感激着自己能有过多的自由，而非缺少自由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 1: Paint (1995-2003)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一时期：绘画（1995-2003）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paint - a foggy field in Deerfield, Massachusetts, with pages from my travel journals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绘画—马萨诸塞州德尔菲尔德的一片朦胧荒野（附有我旅行日志的摘页）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In high school, I was a total romantic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在高中，我是个彻头彻尾的浪漫者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a field easel, and I'd stand around in meadows doing oil paintings while wearing a little beret. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于有个野外画架，我便常常头戴一只小贝雷帽，懒散地呆在草地里涂抹油画。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In college, inspired by the travel journals of Peter Beard, I kept elaborate sketchbooks filled with dead insects, pasted plants, ticket stubs, watercolor paintings, photographs, and writing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进了大学，我被彼得·贝尔德的旅行日志所鼓舞，不停地扩充着我的写生簿。那里面收满了昆虫尸体，贴满了植物，还有各种票根，水彩画，相片和随笔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I made these books by hand and kept them for several years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我亲手制作了这些写生簿，并保存多年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, I was studying computer science in the early days of the Internet, and I felt a growing rift between the sober art of painting and the dizzying potential of the web. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，那时是互联网早期时代，我还学习了计算机。但我渐渐感到，在绘画的严肃艺术和互联网的眩目潜能之间存在着渐增的裂缝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't find a way to bridge these two worlds, and I started to feel torn - partly pulled into the future, and partly stuck in the past. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我难以找到连通这两个世界的方法，于是我觉得自己被慢慢撕裂——一部分被拽向未来，一部分则困滞于过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd graduated from Princeton but was still living in town, doing odd jobs and generally feeling bad about myself and unsure about what to do next. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我毕业于普林斯顿大学，现在却仍在城镇打临时工。我觉得自己整个糟透了，不知道下面要做什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took a trip to Central America and ended up getting robbed by five guys who put a gun to my head, beat me up pretty badly, and stole my bag, which contained a sketchbook with nine months of work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去了趟中美洲，最后被五个家伙打劫。他们用枪指着我的脑袋，重重地打了我，还抢走了我的包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was one of those odd moments in life that's really traumatic, but which ends up being a doorway into something new. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那包里有我精心制作了九个月的写生簿。那是我人生中一个怪异而伤痛的时刻，但它最终成了通向新事物的入口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the robbery, I gave up painting, stopped keeping sketchbooks, and resolved to use computer code as my new artistic medium. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那次被劫后，我放弃了绘画与写生簿创作，决心要让计算机编码成为我新的艺术媒介。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to make things that guys with guns couldn't steal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要创作出那些持枪的家伙抢不走的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around this time, I received a one-year fellowship at Fabrica, a communications research center in northern Italy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约这时，我得到了贝纳通研究中心研究员的一年职位。贝纳通研究中心是北意大利的一个通信研究中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I moved to Italy, and I started writing code.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我搬去了意大利，并开始编写代码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 2: Data (2003-2008) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二时期：数据（2003-2008）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Data - coding I Want You To Want Me in my old apartment in Brooklyn, New York.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数据——我在纽约布鲁克林的旧公寓编译“我想要你需要我”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I became obsessed with the potential of data to tell me everything I'd ever need to know about life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾需要了解的关于生活的一切，数据都有潜力告诉我。而我正沉迷于这种潜力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could sit safely at my desk and write computer programs to gather vast amounts of Internet data, which I thought could finally answer timeless questions like "what is love?" and "what is faith?" with precision and clarity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能够安安稳稳地坐在桌前，编写电脑程序来收集大量的网络数据。我想，这最终能清晰准确地解答那些永恒的问题，例如“什么是爱？”和“什么是信仰？”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With manic self-confidence, I pumped out project after project visualizing different data sets, pairing each project with a bombastic artist statement about how the work revealed insights about humanity that had previously been hidden.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>带着狂躁的自信，我审视不同的数据集，将每个程序都配上言过其实的艺术见解。那些见解是关于工作如何能反映出先前被潜藏的人性的洞察力的。就这样，我完成了一个又一个项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was We Feel Fine (a search engine for human emotions), Universe (a system for deducing new constellations for the night sky), I Want You To Want Me (a study of online dating), Lovelines (a portrait of love and hate), 10¡Á10 (a distillation of global media coverage), Phylotaxis (a visualization of science news), and Wordcount (an exploration of language).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些程序有“我们很好（We Feel Fine）”（针对人类情绪的搜索引擎），“宇宙（Universe）”（推测夜空新星座的系统），“我想要你需要我（I Want You To Want Me）”（网络约会研究），“魅力（Lovelines）”（爱恨肖像），“_10×10 _”（全球媒体摘要），“想到做到（Phylotaxis）”（科学新闻的形象化）和“字数统计”（Wordcount）（对于语言的探索）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My data visualization work coincided nicely with society's increasing obsession with data-based reasoning, which was infiltrating nearly every aspect of our lives - from news, to sports, to finance, to education, to politics, to healthcare, to dating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的数据可视化工作恰好符合当时社会对基于数据的论证的渐增困惑。那时，这种论证渗透着我们生活的每个方面——新闻，体育，财政，政治，卫生保健甚至约会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of this, I got lucky, and had some early success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于这种幸运的巧合，我取得了早期的成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got to speak at TED, got a commission from the Museum of Modern Art (MoMA) in New York City, showed my work at Sundance, appeared on CNN and NPR, and companies started paying me to give one-hour lectures about working with data. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我应邀在TED演讲(http://www.ted.com/talks/jonathan_harri s_tells_the_web_s_secret_stories.html)，又得到了纽约现代艺术博物馆（MoMA）的委任，还在圣丹斯电影节展示作品，在美国有线电视新闻网（CNN）(http://www.cnn .com/video/#/video/bestoftv/2008/07/21/ntm.whale.hunt.cnn?iref=videosearch) 和美国国家公共电台（NPR）(http://www.npr.org/blogs/pictureshow/2011/11/10/142212998/measuring- bhutans-gross-national-happiness-with-balloons)做嘉宾。而且，许多企业邀请我就数据使用作一小时的有偿讲座。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I quit my job, and spent all my time giving talks and making work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我辞了职，将所有时间用在演讲与新工作上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I burned through projects and people, devouring a series of relationships that never seemed as interesting as my work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我风风火火地应付项目，结交朋友，吞下了一大串人际关系。但我从没觉得结交那些关系比我的工作更有趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was full of pithy insights about human emotion to spout at cocktail parties, but I started to notice that my data-based insights did very little to help my actual relationships. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我心中充满了对人类情感的深明见解，这足以让我在鸡尾酒聚会上口若悬河。但我很快发现，基于数据的深刻见解很少有益于我实际的人际关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to grow suspicious of data. My insights felt increasingly superficial, and though they made me sound clever and witty, they didn't do much to help me be kind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我逐渐对数据产生了怀疑，并感到自己的见解沦于肤浅。尽管那些见解能使我听起来聪慧，却很难使我趋于宽容与善良。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world's love affair with data was just heating up, but mine was cooling down.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界对数据的强烈爱好才刚升温，我对数据的情感却已然冷却。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MoMA commissioned the last data-based work I made: a project about online dating, called I Want You To Want Me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我最后做的基于数据的工作是纽约现代艺术博物馆委任的关于网络约会的项目——我想要你需要我（I Want You To Want Me）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've never worked harder on anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我以前做任何事都从未像这样努力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For three months, I spent eighteen hours a day in front of a five-foot-wide touchscreen, poring over hundreds of thousands of dating profiles, and writing over 50,000 lines of code. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三个月里，我每天十八小时都坐在五英尺宽的触摸屏前，聚精会神地解读无数约会档案，并编译出五万多行代码。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd go for walks in the evening around my neighborhood in Brooklyn, and I'd look into restaurants at actual couples on actual dates, unable to imagine what they could possibly be saying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上我会在布鲁克林的附近街区散步。我向餐厅中张望，看到现实世界中约会的情侣，却无法想象他们可能在说些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mind was completely inside the machine, and I'd never felt more alienated from other human beings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把心思全放在数据机器里，与其他人感到前所未有的疏远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess I thought the MoMA commission would somehow change my life, catapulting me into even higher echelons of fame and attention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜自己当时觉得博物馆的委任将会莫名其妙地改变我的人生，让我迅速捧回更多的名誉，登上更高的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that didn't really happen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但事情并不是我所想的那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The show went up, there was a big party, and then people basically went back to their lives.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>发布会开张了，大派对举办了，在那之后人们依旧回到日常中去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't know what to do next. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道接下来该做些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went on some Internet dates, but it was hard to connect with anyone, and I just ended up feeling worse about myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我试了几场网络约会，但发现和任何人都难以交流，最后只觉得自己更糟了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started to get really depressed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我变得十分沮丧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went down to Texas. I drove out to Marfa and saw the Marfa lights. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我驱车前往德克萨斯州，又去了玛法看“鬼光”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I drove to the Mexico border and waded across the Rio Grande into a desolate Mexican town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开到墨西哥边境，涉过格兰德河，抵达荒寂的墨西哥村庄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I slept out in the desert under the stars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还在沙漠里露营，在星幕下入睡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Being away from computer screens, I started to feel better. A sense of adventure and possibility crept back into my life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>远离了电脑屏幕，我觉得自己好多了，一种充满冒险与可能性的感觉重新在生命里悄然滋生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd meet strangers in diners, and it would feel good to talk to them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在路边小餐馆里遇见陌生人，和他们聊天也让我心情愉悦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started to feel human again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我重又觉得自己是真正的人类了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I liked the feeling of rambling around, getting into strange situations, and actually living life in the physical world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爱上了四处漫游的感觉，爱上了来到陌生环境的感觉，爱上了那种真正在现实世界中活着的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I decided to start making projects about the real world - where instead of using a computer, I'd do the "data collection" myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我决定开始为现实世界做“课题”，自己做“数据收集”而非依赖计算机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd take photos. I'd shoot videos. I'd record sound. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要自己拍取相片，自己摄制录像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went back to New York to get started.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是我回到纽约做开始的准备。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 3: Documentary (2008-2010) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三时期：记录（2008-2010）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Documentary - characters from The Whale Hunt, Balloons of Bhutan, and I Love Your Work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记录——图中人物来自《捕鲸记》，《不丹的气球》与《我喜欢你的作品》</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead of trying to be the smartest person in the room, now I wanted to be the most interesting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今我想成为屋子里最有趣的人，而非最聪慧的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many people make choices to try to be better people - they take up yoga, they become vegetarian, they resolve to spend more time with their parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人作出选择来让自己变得更完美——他们练习瑜伽，成为素食者，决心和父母多呆在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often, I use my work as a way to steer my life in a particular direction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我常常把工作当成一种将生活驱向特定方向的途径。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll identify something I want to change about myself, and then I'll design a project to help me do it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在工作中，我会辨别出自己身上想要改变的方面，并制定计划来助自己一臂之力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this case, I felt like I'd never really become a man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种情况下，我觉得自己从未真正成为过一个男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My childhood friends in Vermont were hunting deer, building houses, running farms, and being dads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我佛蒙特州的童年玩伴们如今都在猎鹿，建房，开农场，养育孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was just typing into computers, writing clever programs, and looking for praise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我却仅在摆弄电脑，用小聪明编译程序来寻求赞赏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to change that. I wanted to live a bolder life, and I designed a series of projects to force me to try. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想改变现状，我想要更大胆的生活，于是我构思了一串计划来强迫自己尝试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went whale hunting in Alaska. I traveled to Bhutan to learn about spirituality and happiness. I filmed the everyday lives of lesbian porn stars in New York. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去阿拉斯加捕鲸，到不丹寻求灵性与幸福的定义，还在纽约记录女同性恋色情明星的每日生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For each of my deficiencies (masculinity, wisdom, sexuality), I designed a project to help me confront it, which I hoped would help me transcend it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于我身上每一处缺陷（男子气，学识，性欲），我都构思了计划来帮助自己面对，希望自己能作出超越。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a way, this worked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在某种程度上，它起了作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My life suddenly got interesting. People were curious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的生活一下变得有趣起来，人们开始对我感到好奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I always had outrageous stories to tell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我这里总有骇人听闻的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd present these stories in intricate interactive frameworks of my own design, and I'd release them on the web. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我利用自己设计的复杂交互型框架将它们呈现出来，并发布到网站去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, I got lucky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我再一次成为了幸运儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My work with interactive storytelling coincided with society's increasing obsession with "storytelling" in all of its forms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我交互式的故事创作与社会对各种形式“讲故事”的渐增兴趣不谋而合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Storytelling, which used to be a reasonably small niche populated by organizations like This American Life, The Moth, and StoryCorps, was suddenly everywhere. Every advertising agency was now a "storytelling agency," every ad campaign was now a "storytelling campaign," and every app was now a "storytelling tool." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“讲故事”是曾被“美国生活”、“飞蛾”及“故事集团”这样的团体占据的相当小的壁龛，当时却一夜间遍地开花——每个广告公司都成了“讲故事公司”，每个广告活动都成了“讲故事活动”，每个应用软件都成了“讲故事工具”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Storytelling had gone mainstream and become one of those words - like "sustainability" and "innovation"- that's so ubiquitous as to be basically meaningless. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>讲故事已经融入主流，演化成了“永续”，“革新”这些词——它们太过普遍，基本可以认定为毫无意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet through all this, I was riding the wave.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，我依然身处这潮流前端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The World Economic Forum named me a "Young Global Leader," citing my storytelling work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基于我的故事作品，世界经济论坛给予我“全球年轻领导者”的名号。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

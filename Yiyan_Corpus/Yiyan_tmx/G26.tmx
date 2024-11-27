@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T073358Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About Elizabeth Bishop</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊丽莎白·毕肖普生平介绍</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elizabeth Bishop (1911-1979), poet, was born on 8 February 1911 in Worcester, Massachusetts. Her father died before her first birthday, and her mother suffered a series of nervous collapses and was committed to a mental hospital when Bishop was five, thus being permanently removed from the life of her only child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人伊丽莎白·毕肖普（1911-1979）1911年2月8日出生于马萨诸塞州伍斯特市，未满周岁时父亲亡故，5岁时罹患神经失常的母亲被送入精神病院，从自己唯一一个孩子的生活中永远消失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From ages three to six, Bishop lived in Great Village, Nova Scotia, with her mother's parents, and was then taken in by her father's family in Worcester and Boston. She attended Walnut Hill School near Boston during her high-school years, followed by four years at Vassar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3岁到6岁期间，毕肖普与加拿大东南部新斯科舍省大村的外祖父母一起生活，之后被带到了伍斯特和波士顿的祖父母家，她在波士顿附近的胡桃山中学读完高中后，在瓦萨学院学习了4年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By way of the Vassar librarian, in New York Bishop met the poet Marianne Moore, twenty-four years her senior, and their friendship quickly flourished. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过瓦萨图书管理员，毕肖普在纽约结识了比她年长24岁的诗人玛丽安·穆尔，两人的友谊迅速升温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her earliest work, which was influenced by George Herbert, Gerard Manley Hopkins, and Moore, appeared in the Vassar undergraduate magazine she had helped to found. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的早期作品深受乔治·赫伯特、杰拉德·曼利·霍普金斯和穆尔的影响，登载在她本人参与创办的瓦萨大学生杂志上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having briefly considered a career in medicine, she turned to poetry with the encouragement of Moore, who published a handful of her poems in an anthology called Trial Balances in 1935. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一度考虑投职医药行业后，毕肖普在穆尔的鼓励下转向了诗歌，后者在1935年出版了诗歌汇编选集《试炼平衡》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In residence in New York for a year, she wrote her first mature poems, including "The Map" and "The Man-Moth." She then lived intermittently in Europe for three years before purchasing a house in Key West, Florida, in 1938. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在纽约生活的一年里，她首次写下了自己的成熟诗歌，包括《地图》和《人蛾》，之后她在欧洲短暂居住了3年，直到1938年在佛罗里达的基韦斯特购买了一套房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After being rejected by several New York publishers, the first of her four volumes of poetry, North and South, was finally published in 1946. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的首部四册诗集《北与南》曾被数家纽约出版社拒绝，最终于1946年付梓出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next year she was introduced by Randall Jarrell to Robert Lowell, who became a lifelong friend.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二年兰德尔·贾雷尔介绍她认识了罗伯特·洛厄尔，两人从此成为终身好友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1951, the geographical displacement in her life continued when she took ill on a trip to South America; left behind by a freighter in Brazil, she made that country her home for the next eighteen years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1951年，她继续生命中的辗转搬迁，在一次前往南美的旅行途中，生病的她被货船留在了巴西，从此后的18年她把这个国家当成了家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her lesbian relationship with Lota de Macedo Soares gave her life stability and love, and she established residences in Rio de Janeiro, nearby Petropolis, and, later, Ouro Preto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她与索瑞兹（Lota de Macedo Soares）的同性恋关系给她带来了安定的生活和爱，她在彼得罗波利斯附近的里约热内卢和稍后的Ouro Prêto都建造了住房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Cold Spring, her second volume of poetry, appeared in 1955. Brazil became the setting for many of the poems that were collected a decade later in Questions of Travel (1965).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1955年，她的第二部诗集《春寒》出版，在十年后的诗集《旅行的疑问》中，巴西成为许多诗的创作背景。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the suicide of Lota de Macedo Soares, Bishop increasingly began to live in the United States, and became poet-in-residence at Harvard University in 1969. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>索瑞兹自杀后，毕肖普回到美国居住的时间越来越长，于1969年成为哈佛大学的常驻诗人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A close friendship with Alice Methfessel began in 1971 and continued until the time of Bishop's death in 1979. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1971年她与爱丽丝·梅斯菲瑟尔结成了亲密的友谊，这段友谊一直持续到毕肖普1979年逝世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her final poetry volume, Geography III, was published in 1976.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的最后一部诗集《地理III》于1976年出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop often spent many years writing a single poem, working toward an effect of handedness and spontaneity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普经常会花数年的时间写一首诗，力求其浑然天成的风格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Committed to a "passion for accuracy," she re-created her worlds of Canada, America, Europe, and Brazil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她饱含“把握语言准确性”的激情，再创了一个自己的多国世界：加拿大、美国、欧洲和巴西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shunning self-pity, the poems thinly conceal her estrangements as a woman, a lesbian, an orphan, a geographically rootless traveler, a frequently hospitalized asthmatic, and a sufferer of depression and alcoholism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗中避开自哀自怜，淡淡的掩饰着自己的疏离，作为一个女人，一个同性恋、一个孤儿、一个漂泊无根的旅人、一个经常住院的哮喘病人，一个抑郁症患者和一个酗酒的酒鬼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm not interested in big-scale work as such," she once told Lowell. "Something needn't be large to be good."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“本质上来说，我对大型的东西不感兴趣，”有一次她对洛厄尔说，“有些东西不必靠大来体现自己有多好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Manuscript holdings are at the Houghton Library, Harvard University; the Rosenbach Museum and Library, Philadelphia, Pennsylvania; the Vassar College Library; and the Washington University Libraries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保存其手稿的地方有：哈佛大学的霍顿图书馆、宾夕法尼亚州费城的罗森巴赫博物馆和图书馆、瓦萨学院图书馆和华盛顿大学图书馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anne Agnes Colwell </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安妮·艾格尼丝·科尔韦尔（Anne Agnes Colwell）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop, Elizabeth (8 Feb. 1911-6 Oct. 1979), poet, was born in Worcester, Massachusetts, the daughter of Gertrude Bulmer and William Thomas Bishop, owners of the J. W. Bishop contracting firm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人伊丽莎白·毕肖普（Bishop, Elizabeth）（1911年2月8日——1979年10月6日）出生于马萨诸塞州伍斯特市，是J.W.毕肖普承包公司老板——格特鲁德·布尔默（Gertrude Bulmer ）和威廉·托马斯·毕肖普（William Thomas Bishop）夫妇的女儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop's childhood was filled with a sense of loss that pervades her poetry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普的童年尝尽了被遗弃的滋味，这种情感在诗中无处不在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her father died from Bright's disease when she was eight months old. Her mother, psychologically distraught, spent the next five years in and out of psychiatric hospitals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的父亲在其八个月大时死于白莱特氏病（肾脏炎），她的母亲精神错乱，在随后的五年中不断出入精神病院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With William's death, Gertrude lost her U.S. citizenship and, when she experienced the decisive breakdown in her family home in Nova Scotia, was hospitalized in a public sanatorium in Dartmouth, Nova Scotia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>威廉去世后，格特鲁德迅即丧失了美国公民身份，她回到娘家（加拿大东南部）新斯科舍省，在一次彻底的精神崩溃后，被送进了当地达特默斯镇的一家公共疗养院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elizabeth Bishop was five when this breakdown occurred; she later recounted it in her prose masterpiece "In the Village." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊丽莎白·毕肖普当时5岁，它后来在散文《在村庄》里详细叙述过此事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mother, diagnosed as permanently insane, never saw Elizabeth again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的母亲被诊断为永久性精神失常，从此再也没见过伊丽莎白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After her mother's hospitalization, Bishop lived in Great Village, Nova Scotia, with her mother's family, in a loving, comforting atmosphere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲住院后，毕肖普与外父母一起住在新斯科舍的大村，日子过得友爱舒适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the equilibrium that she had gained was upset by her paternal grandparents' decision to raise the child with them in Worcester. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这种宁静的生活很快就被打乱了，他的祖父母决定把孩子带到伍斯特抚养。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her prose memoir "The Country Mouse," Bishop writes,"I had been brought back unconsulted and against my wishes to the house my father had been born in, to be saved from a life of poverty and provincialism." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她的回忆散记《乡村老鼠》中，毕肖普写道：“没有人征求我的意见，他们违背我的意愿，把我带回了父亲出生的地方，把我从贫穷和地方主义里‘被拯救’出来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, in isolated wealth, Bishop keenly felt her lack of relations. She wrote, "I felt myself aging, even dying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里，在孤独的富豪阶层里，毕肖普敏锐的感觉到亲情的匮乏，她写道：“我感觉自己在老去，迈向死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was bored and lonely with Grandma, my silent grandpa, the dinners alone. . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我孤独而无聊的伴随着祖母、沉默的祖父、孤单的晚餐......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At night I lay blinking my flashlight off and on, and crying."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上，我躺着，开开关关闪着手电筒，然后哭泣。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When her mother's sister, Maud Bulmer Shepherdson, rescued Bishop in May 1918, even her paternal grandparents saw that their "experiment" had failed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年5月，当她母亲的妹妹莫德·布尔默·谢泼德森（Maud Bulmer Shepherdson）将毕肖普营救出来时，连她的祖父母也亲眼目睹了“实验”的失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never a strong child, Bishop now suffered from eczema, asthma, St. Vitus's dance, and nervous ailments that made her nearly too weak to walk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生来就不是个健壮孩子的毕肖普当时已多病缠身，湿疹、哮喘、舞蹈病，神经不安导致她虚弱得几乎无法行走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maud Shepherdson lived in an apartment in a South Boston tenement. An unpublished manuscript, "Mrs. Sullivan Downstairs," recounts Bishop's love for this neighborhood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫德住在南波士顿一处租借的公寓里，在一部未出版的手稿《楼下的苏利文太太》中，毕肖普重叙了自己对这位邻居的爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, Bishop later recalled, she began to write poetry, influenced by Aunt Maud's love of literature.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她后来回忆说，由于受莫德阿姨喜欢文学的影响，她在那里开始了写诗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As she grew stronger, Bishop spent her summers in Nova Scotia and attended Camp Chequesset on Cape Cod. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等她稍微强壮一些后，毕肖普在新斯科舍度过了夏天，并参加了科德角的Chequesset露营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her unusual circumstances and poor health limited her formal schooling before age fourteen. However, she was an excellent student, and following her time at the Walnut Hill School for Girls, Bishop entered the Vassar College class of 1934.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不寻常的境遇和虚弱的健康状况导致她在14岁前都没能正常入学，但她是一个优秀的好学生，在读完核桃山女校后，毕肖普进入了瓦萨学院1934年班。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At Vassar, Bishop, with novelist Mary McCarthy and others, began an underground literary magazine, Con Spirito, publishing a more socially conscious and avant-garde selection than the legitimate Vassar Review. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在瓦萨学院，毕肖普与小说家玛丽·麦卡锡（Mary McCarthy）、和其他一些人创办了地下文学杂志——《精神抖擞》，与合法的《瓦萨评论》相比，它刊登社会意识更强、更先锋派的文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the spring of 1934, the year her mother died and the year of her graduation, Bishop met and became friends with poet Marianne Moore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1934年是她母亲去世和自己从瓦萨毕业的一年，这年春天，她遇见了诗人玛丽安·穆尔并与之成为朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through Moore's influence, Bishop came to see poetry as an available, viable vocation for a woman. Moore recommended Bishop for the Houghton Mifflin Prize, and Bishop's manuscript North and South was chosen for publication in August 1946 from over 800 entries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>受穆尔的影响，毕肖普认识到诗歌可以作为女性的一个切实可行的职业，穆尔向霍顿·米福林奖推荐了毕肖普，她的手稿《北与南》从800多名选手中脱颖而出，于1946年8月出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>North and South introduces the themes central to Bishop's poetry: geography and landscape, human connection with the natural world, questions of knowledge and perception, and the ability or inability of form to control chaos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《北与南》表达了毕肖普诗歌的核心主题：地理风光、人与大自然的联系、对知识和观念的质疑、控制紊乱的形式能力与不可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Robert Lowell reviewed North and South, he met Bishop at a dinner party, a meeting that marked the beginning of a crucial, if complicated, friendship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在罗伯特·洛厄尔评论《北与南》之前，他 在一个晚餐会上遇见了毕肖普，这次会面为一段关键性、或者说是复杂的友谊划下了起始符。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lowell, like Moore, showed Bishop possibilities--practically, in the form of grants, fellowships, and awards, and artistically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像穆尔一样，洛厄尔为毕肖普提供了可能性——以实际性的授予、学术奖金和奖项的形式，以及艺术性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1950 Lowell helped Bishop secure the post of poetry consultant for the Library of Congress while she worked on her second book.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1950年洛厄尔帮助毕肖普获得了国会图书馆诗歌顾问的职位，当时她正在写第二本书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop won the Lucy Martin Donnelly Fellowship from Bryn Mawr College in 1950 and an award from the American Academy of Arts and Letters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1950年毕肖普获得了布林茅尔学院的露西·马汀·唐纳利奖学金，和美国艺术文学院的奖章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1951 she traveled to South America to see the Amazon. However, before she could leave for the dreamed-of voyage, Bishop ate a cashew fruit to which she had a violent allergic reaction that kept her bedridden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1951年，她去南美旅行，想看亚马逊河，然而就在她动身前往梦想的航行前，毕肖普吃了一个腰果，导致她严重过敏以至于卧床不起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Bishop recovered her health, she fell in love, both with Lota de Macedo Soares, her friend and nurse, and with the landscape and culture of Brazil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当毕肖普恢复健康时，她深深爱上了她的朋友兼护士——索瑞兹（Lota de Macedo Soares）和巴西的风光、文化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For fifteen years Bishop lived with Soares, in the mountain town of Petropolis and in Rio de Janeiro. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普与索瑞兹一起在佩特罗波利斯和里约热内卢的的山区小镇上生活了15年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This new love and home offered Bishop happiness she had known only briefly in Great Village. She wrote to Lowell that she was "extremely happy for the first time in my life" (28 July 1953).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这份新的爱情和家给毕肖普带来了之前只在大村短暂领略过的快乐，她给洛厄尔写信说：“在我生命中第一次感觉无比幸福。”（1953年7月28日）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In April 1954 Bishop made an agreement with Houghton Mifflin to publish her second book, A Cold Spring, in a volume that included the poems from her first book, under the title Poems: North and South--A Cold Spring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1954年4月，毕肖普与霍顿·米福林达成协议出版她的第二本书《春寒》，这部诗集包括她在第一本书中的诗歌，题为：北与南——春寒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This book won the 1956 Pulitzer Prize. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这部诗集获得了1956年普利策奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the book appeared in August 1955, the reviews were laudatory: Donald Hall called Bishop "one of the best poets alive."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗集于1955年8月一出版，好评如潮，唐纳德·豪尔称毕肖普是“在世的最佳诗人之一”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After publishing A Cold Spring, Bishop spent the next three years translating a popular Brazilian work, the diary of "Helena Morely" (Dona Alice Brant) called Minha Vida de Menina. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《春寒》出版后，毕肖普在接下来的三年中翻译了一部巴西人的作品，“海伦娜·茉莉”（爱丽丝·布莱特小姐）的日记——Minha Vida de Menina。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story of Helena's life in the small town of Diamantina in 1893 reminded Bishop of her 1916 Great Village, and translating this work while reflecting on and writing about her own childhood helped Bishop explore her past as artistic material. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海伦娜1893年在小镇迪亚马蒂纳的生活唤醒了毕肖普1916年在大村生活的记忆，边翻译边撰写童年回忆录有助于毕肖普把过去当成艺术元素去探索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The translation was published under the title The Diary of Helena Morely by Farrar, Straus, and Cudahy in 1957.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>译作于1957年由法勒·斯特劳斯和卡达希出版社（Farrar, Straus, and Cudahy）出版，题为《海伦 娜·茉莉日记》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop's third book, Questions of Travel (1965), includes both reflections on her childhood experiences and poems about her new home in Brazil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普的第三部诗集《旅行的疑问》（1965年）折射了她的童年经历，也有关于巴西新家的诗作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book is divided into two sections, Brazil and Elsewhere, with the prose piece "In the Village" placed between the divisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书被分成两部分：巴西和其他地方，两者之间放了一篇散文“在村撞”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop returns to themes of geography, form, and landscape, but here she allows more intimacy, both between viewer and landscape and between reader and poet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普又回归到了地理、形式和风光的主题，但在游客和风光之间、读者和诗人之间，她表达了更多的亲昵感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Questions of Travel garnered positive reviews. Robert Mazzocco in the New York Review of Books (Oct. 1967) called Bishop "one of the shining, central talents of our day." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《旅行的疑问》获得了肯定的评价，罗伯特·马佐科在《纽约书评》（1967年10月）中称赞毕肖普是“闪亮的当代核心人才之一”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book is filled with the description for which Bishop received so much praise, but it is also filled with an unmistakable sense of what Wyatt Prunty calls "the askew," moments in which the senses fail to report reality, slide off into the mysterious, terrifying, or ecstatic.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书中充满了描绘的色彩，这也正是毕肖普获得如此众多称赞的地方，但书中无疑也充满了一种感觉，怀亚特·普拉蒂称之为“歪斜”，感情在未能成功表达现实的片刻滑入了神秘、恐怖或狂喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Throughout the mid-1960s, life in Brazil grew difficult for Bishop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十世纪六十年代中期，毕肖普在巴西的生活陷入了困境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lota de Macedo Soares, involved in the politics of Rio, had taken charge of a public parks project that absorbed her time and attention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>岁瑞兹参与里约的政治，其负责的公园项目占据了她的时间和注意力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the political situation worsened, Bishop felt more uncomfortable in her Brazilian home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着政治形势恶化，毕肖普在巴西的家里感觉越来越不舒服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1966 Bishop spent two semesters as poet in residence at the University of Washington but returned to Rio in the hope of reestablishing her life there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1966年毕肖普以常驻诗人的身份在华盛顿大学呆了两个学期，然后回到里约，希冀能重建在那里的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both Bishop and Soares suffered physical and psychological distress and were hospitalized in Brazil. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普和索瑞兹都深受生理和心理痛苦的折磨，双双住院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Bishop grew stronger, she left for New York with the expectation that Soares, as soon as she was well enough, would join her. Soares arrived in New York on the afternoon of 19 September 1967 and later that evening took an overdose of tranquilizers and died at age fifty-seven.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等毕肖普稍稍恢复后，她离开巴西，回到纽约，期待着索瑞兹一恢复好就也能过来，索瑞兹于1967年9月19日下午到达纽约，当晚服用了过量镇静剂去世，享年57岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This loss proved terribly difficult for Bishop personally, although she continued to write and publish. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失去索瑞兹对毕肖普个人造成了极大的打击，虽然她仍坚持写作和出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1969 Bishop published Complete Poems, a volume that included all of her previously published poems and several new pieces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1969年毕肖普出版了《诗歌全集》，收录了所有她之前出版过的诗歌和几首新作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This book won the National Book Award for 1970. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这部诗集赢得了1970年全国图书奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the ceremony took place, Bishop was once again trying to reestablish a Brazilian life. However, the politics, along with Bishop's inability to negotiate the culture without Soares's help, finally convinced her that a Brazilian life was impossible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在授奖典礼上，毕肖普再一次试图重建巴西的生活，但是，没有索瑞兹的帮助，她没有能力在政治和文化之间谈判做出让步，毕肖普最终确信自己在巴西的生活已经是不可能了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the fall of 1970 she returned to the United States to teach at Harvard. There Bishop met the woman who became a source of strength and love for the rest of her life, Alice Methfessel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1970年秋天他回到美国在哈佛任教，在那里她遇到了爱丽丝·梅斯菲瑟尔——一个在她的余生给她力量和爱的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bishop eventually signed a four-year contract with Harvard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕肖普最后与哈佛签订了四年合同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although she never felt completely comfortable as a teacher, her students report learning much from her precision, from the quiet conversation that constituted her class. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然她从未彻底喜欢自己教师的身份，但她的学生们认为从她的用词精准、从她冷静的谈话中学到了很多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1976 Bishop became the first American and the first woman to be awarded the Books Abroad/Neustadt International Prize for Literature. In that year she also published her last collection of poetry, Geography III, which won the Book Critics' Circle Award for 1977. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1976年毕肖普以第一个美国人和第一个女性身份获得了诺伊施塔特国际文学奖的海外图书奖，同年她还出版了最后一部诗集《地理III》，该书获得了1977年书评圈奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This volume of nine beautifully crafted poems returns to themes of North and South but with greater intimacy and immediacy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>九首文笔精湛的诗歌回归了《北与南》的主题，但更亲昵、更直白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alfred Corn, writing in the 1977 Georgia Review, gives a clear and insightful reading of Geography III that could apply to all Bishop's work. He praises</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿尔弗雷德·考恩全面而富有洞察力的阅读了《地理III》，他在1977年佐治亚评论中称赞道：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>a perfected transparence of expression, warmth of tone, and a singular blend of sadness and good humor, of pain and acceptance--a radiant patience few people ever achieve and few writers ever successfully render. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表达直白，笔调诚恳，把苦难和喜悦、痛苦和忍耐非凡的结合在一起——这种容光焕发的坚韧，只有少数人能做到，只有少数作家能成功表达。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poems are works of philosophic beauty and calm, illuminated by that "laughter in the soul" that belongs to the best part of the comic genius.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗歌体现出了哲学美和平静，被“灵魂深处的笑声”照亮，那是喜剧天才的最佳部分。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

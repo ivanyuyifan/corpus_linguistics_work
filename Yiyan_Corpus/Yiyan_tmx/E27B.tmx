@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151227T125923Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything with Pictures in PowerPoint - Part 3</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>玩转PPT图片 - 3</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How to Ensure Quality Images in PowerPoint </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何保证PPT中的图片质量</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apply Animations the Smart Way.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>动画效果要恰到好处</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Image quality, animations and layouts are the subject of our third blog post in the series of everything about pictures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这篇博客是我们PPT图片系列的第三篇博客，图片的质量、动画效果和布局是本篇博客的主题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You will certainly have encountered the problems described here as image quality and image layouts are matters you can't get around and are among the most popular issues when it comes to image processing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里提到的有关图片质量和图片布局的问题您肯定遇到过，同时还没办法绕过它们。这些问题也是图片处理中最高发的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The secret here lies not in understanding the fundamentals, but rather in helping yourself to useful tricks that can help solve arising problems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里面的玄机不在于是否了解基本操作原理，而在于有哪些有用的小技巧，可以帮助自己解决出现的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bigger Photos Without Quality Loss</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大图才能保证细节</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Description of the Technique </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>技术说明</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the progress of digital photography, presentations have an increasing amount of pictures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得益于数码摄影的发展，可供展示的图片大大增加。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most of the time, these pictures or graphics have a high pixel size that can be manually adjusted on the template by zooming in and out or altering the size. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多数情况下，这些图片或照片的像素都较大，既能保证在模板上放大和缩小，也可以自由调整尺寸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, even with a high megapixel, the picture may be blurry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，即使有高像素，画面仍可能会模糊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may easily change this to achieve the optimal quality with a simple trick.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以通过一个简单的小技巧就得到最好的画质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Basic Concept: Don't reduce the size of your picture, but rather let PowerPoint do the resizing for you by calculating the megapixels internally.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基本概念：不要降低图片的尺寸，而是让PPT根据程序计算图片像素，进而来调整大小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Observe the difference of this technique in an example of a zoomed-in figure of a saint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们以一张圣人的放大图作例子来观察这种技术的差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The head figure here is cut-out from a large original photograph and then duplicated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有头像的图片截取自一张大的原图，然后复制过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The left image was reduced with the mouse, while the right image was also changed with the mouse, but to the final desired size.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>左、右两图虽然都是用鼠标操作进行调整的，但是只有右图是想要的尺寸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, the right image is changed with the effect &gt;Grow/ Shrink, &gt;25%.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，更改右图的效果：点击“放大/缩小”，输入“25%”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This step is repeated again to the right image, with the effect &gt;Grow/ Shrink, &gt;25%. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保存好后，重复上述步骤更改右图：点击“放大/缩小”，输入“25%”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After this, both images are the same size.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经过一番折腾，两张图片大小相同了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, BOTH images are selected and the option &gt;Grow/ Shrink, &gt;1500% is applied.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，同时选中两张图片，在选项中点击“放大/缩小”，输入“1500%”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The difference in quality is astounding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>质量上的差异是惊人的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the beginning, this method may seem a bit out of your way, however, the process gets much faster after a few rounds and the result is worth the few extra clicks! After all, no one wants bad quality.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最初，你可能看不上这种方式，不过，几个回合之后就能看出效果了，而最后的结果往往令人非常吃惊！毕竟，质量差并不招人喜欢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The example shows two identical photos, but edited differently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个例子选用了两张相同的照片，不过编辑方式不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both are first made smaller; one manually with the mouse and the other with the help of the animation options. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两者都是先将图片变小，区别是一个通过手动方式用鼠标将图片变小，而另一个则在动画选项的帮助下将图片变小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are then both zoomed-in by 250%. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，再将两张图片放大至250%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although these pictures are identical, the quality of the details is clearly very different.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然它俩看起来没有差别，不过从细节可以看出图片之间质量的差别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Experiment with your own pictures and see the difference yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自己亲自动手操作，会对它们之间的差距有直观的感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here is a step by step process how these pictures were edited:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面是不同图片编辑方式的具体过程：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Left picture:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>左图：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Insert from the desktop to the template with &gt;Insert, &gt; Picture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.从桌面向模版中插入图片，点击“插入”，再点击“图片”；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reduce the size of the image with the use of your mouse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.用鼠标来缩小图片尺寸；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Resize the image by going to &gt;Animations and &gt;Grow/ Shrink. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.点击“动画”选项，再点击“放大/缩小”效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Enlarge the image by clicking on Animation Pane, &gt;Picture 1, then choose &gt;Effect Options and increase the image to your desired size.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要放大图片，选中“动画窗格”按钮，点击“图片1”下拉项，选中“效果选项”，然后调整到你想要的尺寸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Right picture:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>右图：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Insert from the desktop to the template with &gt;Insert, &gt; Picture.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.从桌面向模版中插入图片，点击“插入”，再点击“图片”；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Resize the image by going to &gt;Animations and &gt;Grow/ Shrink.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.点击“动画”选项，再点击“放大/缩小”效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Click on Animation Pane and a box should appear on the right side of your screen. Find the drop down arrow of &gt;Picture 1, then choose &gt;Effect Options and reduce the image size (try 40% or something comparable). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.点击“动画窗格”按钮会再屏幕右侧出现一个弹窗，点击“图片1”下拉项，然后选中“效果选项”来缩小图片尺寸（尝试下40%或其他尺寸）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can enter a custom size, but make sure you hit the &gt;enter key (not OK) after typing your percentage, or the size will not be registered.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在输入自定义大小后，要记得敲“回车”，不然将不会执行该比例。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adjust the time lapse to 0.01 seconds by going to &gt;Animation Pane, &gt;Timing and &gt;Duration.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4.点击“动画窗格”按钮，在“图片1”下拉项下选中“计时”，然后在“延迟”处将延迟时间调整至0.01秒。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

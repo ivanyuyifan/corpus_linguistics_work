@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200906T141503Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 3 Statistical Description of Systems of Particles </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第3章 多粒子体系的统计描述</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The preceding review of basic probability concepts has prepared us to turn the qualitative considerations of the first chapter into a systematic quantitative theory of systems consisting of very many particles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上一章我们复习了基本的概率概念，现在就有条件从第1章中的定性讨论，转到用系统的定量理论来讨论大量粒子组成的体系了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our aim will be to combine statistical considerations with our knowledge of the laws of mechanics applicable to the particles constituting a macroscopic system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的目的是把统计描述与关于粒子的力学知识结合起来，正是这些粒子组成了宏观体系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The resulting theory, therefore, is called statistical mechanics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，所得出的理论就称为统计力学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reasoning that leads to this theory is very simple and uses only the most primitive ideas of mechanics and probability. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个理论的推理都很简单，只用到了一些力学与概率的基本概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The beauty of the subject lies precisely in the fact that arguments of great simplicity and apparent innocence are capable of yielding results of impressive generality and predictive power.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一课题的好处正是在于：它的极其简单而显见的论证，能得出一些结果，这些结果具有深刻的普遍性与预测能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, the arguments used to discuss a macroscopic system are completely analogous to those used to discuss the familiar experiment of tossing a set of coins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，讨论宏观体系所用的论证，完全类似于讨论有关投掷硬币的熟知实验中所用的论证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The essential ingredients for an analysis of this experiment are the following:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该实验的基本要点如下：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(i) Specification of the state of the system</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>(i)指定体系状态</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> We must have available a method for specifying any of the possible outcomes of an experiment involving the system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们必须有一个方法，用来指明体系每一次实验的任意可能的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the state of the set of coins after any toss can be described by specifying which particular face of each coin is uppermost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，一组硬币的状态可以用指定每个硬币哪一面朝上的办法来加以描述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(ii) Statistical ensemble</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>(ii)统计系综</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> We have far too little information about the precise manner in which the coins are tossed to be able to use the laws of mechanics to make a unique prediction about the outcome of any particular experiment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们对投掷硬币的精确方式了解得太少，远不能用力学定律对任意一次特定实验的结果做出唯一的预测。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence we resort to a statistical description of the situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此我们对这种情况要采用统计描述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead of considering the particular set of coins of interest, we thus focus attention on an ensemble consisting of a very large number of similar sets of coins subjected to the same experiment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不是要考察某一有关的特定硬币组，而是集中注意极大量类似的硬币组构成的系综，这些硬币组经受着同样的实验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We can then ask for the probability of occurrence of any experimental outcome. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，我们就可以去寻求任意一个实验结果出现的概率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This probability can be measured by observing the ensemble and determining the fraction of systems exhibiting the particular outcome. Our theoretical aim is the prediction of any such probability.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个概率是能测量的，办法是观察这一系综，并测定出现这个特定结果的体系在系综中占多大比例，我们理论的目的就是预测所有这样的概率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(iii) Statistical postulates</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>(iii)统计假设</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To make theoretical progress, it is necessary to introduce some postulates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了推进理论，必须引入某些假设。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the case of ordinary coins of uniform density, there is nothing intrinsic in the laws of mechanics which implies that one face of a coin should land uppermost more frequently than the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常硬币密度是均匀的，在这种情况下，力学定律中没有任何内在的规律能推出硬币着地时有一个面比另一个面朝上的机会更多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence we are led to introduce the postulate that “a priori” (i.e., based on our prior notions as yet unverified by actual observations) a coin has equal probability of landing on each of its two faces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，我们引进一个“先验的”假设(其根据是我们的先验见解，而尚未为观察结果证实的)：认定硬币的两个面着地的概率是相等的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This postulate is eminently reasonable and certainly does not contradict any of the laws of mechanics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个假设显然是可以理解的，而且肯定不与任何力学定律抵触。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The actual validity of the postulate can, however, only be decided by using it to make theoretical predictions and by checking that these predictions are confirmed by experimental observations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，要确定这一假设是正确的唯一办法是，用它做出一些理论预测，然后用实验观察来验证这些预测结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To the extent that such predictions are consistently verified, the validity of this postulate can be accepted with confidence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这些预测一致被证实的限度内，我们就能满怀信心地承认这些假设的正确性了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(iv) Probability calculations</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>(iv)计算概率</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once the basic postulate has been adopted, we can calculate the probability of occurrence of any particular outcome involving the set of coins under consideration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>采用了基本假定，我们就能计算出所考虑的硬币组出现一些将定结果的概率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We can also compute various mean values of interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也能算出各种有关的平均值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus we can answer all questions that can meaningfully be asked in a statistical theory.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是就可以回答统计理论中所提出的有意义的全部问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In studying systems consisting of a large number of particles, our considerations will be very similar to those used in formulating the preceding problem of a set of coins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究大量粒子组成的体系时，我们的考虑类似于上述解决硬币组问题的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next four sections will make this analogy explicit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在下面的4节中，我们将把这一类似性讲得更清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3.1 Specification of the State of a System</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.1指定体系状态</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The study of atomic particles has shown that any system of such particles is described by the laws of quantum mechanics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对原子粒子的研究表明，这些粒子形成的任何体系都由拍子力学定律描述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These laws, whose validity is supported by an overwhelming amount of experimental evidence, will thus form the conceptual basis for our entire discussion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些定律的正确性已为不可胜数的实验事实所证实，因而将成为我们整个讨论的理论基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a quantum-mechanical description the most precise possible measurement on a system always shows this system to be in some one of a set of discrete quantum states characteristic of the system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在量子力学的描述中，对一个体系作可能最精确的测量总是表明，它是处于一组分立最子态的某个态中，这组分立量子态是这个体系的特征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The microscopic state of a system can thus be described completely by specifying the particular quantum state in which the system is found.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，体系的微观状态就可以由确定体系所处的特定量子态来描述。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each quantum state of an isolated system is associated with a definite value of its energy and is called an energy level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孤立体系的每一个量子态都和体系能量的一个确定值联系，称为一个能级。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There may be several quantum states corresponding to the same energy of the system. (These quantum states are then said to be degenerate.) Every system has a lowest possible energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>体系的同一个能量，可以有多个量子态与之相应（这时我们就说这些量子态是简并的）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is usually only one possible quantum state of the system corresponding to this lowest energy; this state is said to be the ground state of the system, f In addition there are, of course, many (indeed, ordinarily infinitely many) possible states with higher energies; these are called the excited states of the system.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一个体系都有一个可能的最低能量，相应于这个最低能量，一般只存在一个可能的量子态；这个态称为体系的基态。此外，当然有许多（通常的确是无限多的）具有较高能量的许可态，这些态称为体系的激发态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The preceding comments are completely general and applicable to any system, no matter how complex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以上的叙述是完全普遍的，适用于任何体系，不管这些体系如何复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are best illustrated by some simple examples of great practical interest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以用几个很有实际意义的简单例子来得到最好的说明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(i) Single spin</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>【（i）单个自旋】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Consider a single particle, assumed to be fixed in position, which has spin 1/2 and a magnetic moment of magnitude . . .. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>考虑一个粒子。如果位置固定，自旋为1/2，并具有磁矩为. . .。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As already discussed in Sec. 1.3, this moment will be found to point either "up" or "down" (i.e., parallel or antiparallel) with respect to any specified direction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照1.3节所做的讨论，对任意特定方向来说，这个磁矩的取向要么“向上”，要么“向下”（即平行或反平行于特定方向）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The system consisting of this single spin thus has only two quantum states which we shall label by a quantum number . . .. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此这个由自旋组成的体系只有两个量子态，我们将用量子数. . .来标记它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We can then denote the state where the magnetic moment of the particle points up by . . . = +1 , and the state where it points down by . . . = -1.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，我们可用. . .=+1表示粒子磁矩向上的态，. . .=-1表示磁矩向下的态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the particle is in the presence of a magnetic field B, this field specifies the direction of physical interest in the problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果粒子处在磁场B中，这个磁场就确定了这个问题中有物理意义的方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The energy E of the system then is lower when the magnetic moment is aligned parallel to the field rather than antiparallel to it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>磁矩平行于磁场取向时体系的能量将比反向平行时为低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The situation is analogous to that of a bar magnet located in an external magnetic field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这与磁棒处于外磁场中的情况类似。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus, when the magnetic moment points up (i.e., parallel to the field B), its magnetic energy is simply . . .. Conversely, when the moment points down (i.e., antiparallel to the field B), its magnetic energy is simply . . .. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，磁矩向上时（即平行于磁场B），磁能就等于. . .;反之，磁矩向下时（即反平行于场B）磁能就等于. . ..</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two quantum states (or energy levels) of the system then correspond to different energies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>体系的两个量子态（或能级）就对应于不同的能量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(ii) Ideal system of N spins</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>【（ii）N个自旋的理想体系】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Consider a system consisting of N particles, assumed to be fixed in position, where each particle has spin 1/2 and a magnetic moment . . .. The system is located in an applied magnetic field B.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>考虑N个粒子组成的体系，假定这些粒子的位置固定，每个粒子自旋为1/2并有磁矩. . .，体系处于某一外加磁场B中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The interaction between the particles is assumed to be almost negligible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假定粒子间的相互作用几乎可忽略。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The magnetic moment of each particle can point either up or down with respect to the field B. The orientation of the ith moment can thus be specified by the value of its quantum number . . .so that . . .i=+1 when this moment points up and . . .=-1 when it points down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个粒子的磁矩对于磁场B来说，不是向上就是向下。则第i个磁矩取向可以用量子数. . .的数值来确定，因而磁矩向上时. . .=+1，磁矩向下时. . .=-1。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A particular state of the whole system can then be specified by stating the orientation of each of the N moments, i.e., by specifying the values assumed by the set of quantum numbers {. . .,. . ., ..., . . .}. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说明N个磁矩中每一个的取向，即逐一指明一组量于数{. . .，. . .，...，. . .}所取的数值，就可以确定整个体系的一个特定状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus one can enumerate, and label by some index . . ., all the possible states of the whole system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此我们可以逐一列举整个体系的所有可能的量子态，并用某个指标. . .加以标记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is done in Table 3.2 for the special case where N = 4. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表3.2列出N=4的特珠情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The total magnetic moment of the system is simply equal to the sum of the magnetic moments of the individual spins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>体系的总磁矩就等于每个自旋的磁矩之和。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the interaction between these spins is almost negligible, the total energy E of the system is also simply equal to the sum of the energies of the individual spins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为这些自旋间的相互作用几乎可以忽略，体系的总能量也就等于各个自旋的能量之和。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(iii) Particle in a one-dimensional box</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>【（iii）一堆箱子中的粒子】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Consider a single particle, of mass m, free to move in one dimension. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>考虑一个质量为m的粒子，做一维自由运动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The particle is supposed to be confined within a box of length L, so that the particle's position coordinate x must lie in the range 0< x< L. Within this box the particle is subject to no forces.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假定粒子被限制在长度为L的箱子中，从而粒子的位置坐标必须在0≤x≤L的范围内。在箱子内，粒子不受力的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a quantum-mechanical description, the particle has wave properties associated with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在量子力学描述中，每个粒子有伴随着它的波动性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The particle confined within the box and bouncing back and forth between its walls is thus represented by a wave function . . . in the form of a standing wave whose amplitude must vanish at the boundaries of the box (since . . . itself must vanish outside the box). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，装在箱子里并在箱壁之间往复反射的粒子由驻波形式的波函数. . .来描述。这个波函教在箱子边界上的振幅必须等于零（因为. . .在箱子之外必须为零）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wave function thus must be of the form</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是波函数必有如下形式</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(where A and K are constants) and must satisfy the boundary conditions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（其中A和K是常数）并满足边界条件：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expression (1) obviously satisfies the condition . . .(0) = 0. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>式（3.1）显然满足条件. . .（0）=0.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In order that it also satisfy the condition . . .(L) = 0, the constant K must be such that </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了使它再满足条件. . .（L）=0，常数K应当满足</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>or</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>where n can assume any of the integral values</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中n可取任意整数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The constant K in (1) is the wave number associated with the particle; it is related to the wavelength . . . (the so-called de Broglie wavelength associated with the particle) by the relation</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>式（3.1）中常数K是伴随着粒子的波数；它通过下式与波长. . .（伴随着粒子的所谓的德布罗意波长）有关：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence (3) is equivalent to </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此式（3.3）等价于</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>and represents merely the familiar condition that standing waves are obtained when the length of the box is equal to some integral multiple of half-wave-lengths.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是熟知的驻波条件。即当箱子的长度等于半波长的整数倍时就得出驻波。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The momentum p of the particle is related to K (or . . .) by the famous de Broglie relation </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子的动量p通过著名的德布罗意关系式与K（或. . .）有关：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>where . . . = h/2. . . and h is Planck's constant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中. . .=h/2. . .，h是普朗克常量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The energy E of the particle is simply its kinetic energy, since there is no potential energy due to external forces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子的能量E是它的动能，因为不存在外场引起的势能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence E can be expressed in terms of the velocity v or momentum p = mv of the particle as</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此E可以用粒子的速度v或动量p=mv表示为</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The possible values (3) of K then yield the corresponding energies</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>K取式（3.7）的各种许可值，就给出相应的能量</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Equivalently, we could have discussed the whole problem from a more mathematical point of view by starting from the fundamental Schrodinger equation for the wave function . . .. For a free particle in one dimension this equation is</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等效地，我们可以从波函数. . .的基本方程——薛定谔方程出发，以更加数学化的观点讨论整个问题，对于一维自由粒子，这个方程是</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The functional form (1) satisfies this equation provided that the energy E is related to K by (7). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倘若能量E与K的关系为式（3.7），式（3.1）的函数就满足这个方程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The condition (2) that the wave function must vanish at the boundaries of the box leads again to (3) and hence to the expression (8) for the energy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波函数在箱子边界上必须为零的条件（3.2）又导致式（3.3），这样也导出能量表示式（3.8）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The possible quantum states of the particle in the box thus can be specified by the possible values (4) of the quantum number n. The corresponding discrete energies of these states (i.e., the corresponding energy levels of the particle) are then given by (8).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，可用量子数n的许可值（3.4）确定箱子中检子的可能量子态。这些态对应的分立能量即粒子的相应的能级由式（3.8）给出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The relation (8) shows that the separation in energy between successive quantum states of the particle is very small if the length L of the box is of macroscopic size. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关系式（3.8）说明，只要箱子的长度L有宏观的大小，粒子相邻量子态之间的能量间隔就非常小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lowest possible energy of the particle, i.e., its ground-state energy, corresponds to the state n = 1. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子最低许可能量，即基态能量相当于n=1的能量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note that this ground-state energy does not vanish.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意这个基态能量不等于零。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(iv) Particle in a three-dimensional box</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>【（iv）三维箱子中的柱子】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The generalization of the preceding problem to the case of a particle free to move in three dimensions is straightforward.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很容易把前面的问题推广到一个粒子在三维箱子里作自由运动的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suppose that the particle is confined within a box in the shape of a rectangular parallelepiped of edge lengths Lx, Ly, and Lz. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假设粒子被装在直角平行六面体形状的箱子里，箱子边长为Lx，Ly和Lz。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The position coordinates x, y, z of the particle then can be assumed to lie in the respective ranges</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子的位置坐标x，y，z就可认为分别处于以下各范围内</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The particle has mass m and is subject to no forces within the box.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子质量为在箱子里不受力的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wave function of the particle now represents a standing wave in three dimensions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在粒子的波函数表示一个三维空间的驻波。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus it is of the form</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因而它的形式为</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>where the constants Kx,Ky,Kz can be regarded as the three components of a vector K, the wave vector of the particle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中常教Kx，Ky，Kz可以看作为某个矢量K的三个分量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to the de Broglie relation the momentum of the particle is then given by</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个矢量K就是粒子的波矢量。按照德布罗意关系，粒子动量由给出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>so that the relationship between the magnitude of p and the magnitude of K (or the wavelength . . .) is the same as in (6). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因而p与K(或波长. . .)数值之间的关系与式(3.6)相同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The energy of the particle is then given by </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此粒子的能量由下式给出：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Equivalently, it can be immediately verified that . . . in (9) is indeed a solution of the time-independent Schrodinger equation for a free particle in three dimensions, provided that E is related to K by (11).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等价地，可以直接验证：倘使E与K的关系由式(3.11)相联系，则式(3.9)中的. . .确实是三维自由粒子的与时间无关的薛定谔方程的解</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact that . . . must vanish at the boundaries of the box imposes the conditions that </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由成在箱子边界上必须为零的事实得出以下条件，即在平面</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expression (9) vanishes properly when x = 0, y = 0, or z = 0. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当z=0，y=0或z=0时，式(3.9)本来就等于零。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To make it vanish for x = L x, y = Ly, or z = Lz, the constants Kx, Ky, Kz must satisfy the respective conditions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了使它在x=Lx，y=Ly或z=Lz时等于零，常数Kx，Ky，Kz必须分别满足条件。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

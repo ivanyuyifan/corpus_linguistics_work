@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151124T144938Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sherried squash soup </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雪利冬南瓜汤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good soup soon becomes a fail safe recipe for any occasion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论何时，备上一碗好汤总错不了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can always miss out the sherry if making for children</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使为了孩子而不加雪利酒，汤品依然会鲜美如常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ingredients</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>食材：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Serves 4</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四人份</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 large onion, halved </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1颗大洋葱，切半</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>dry (fino) sherry</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4勺干（淡色）雪利酒</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 kg butternut squash peeled, deseeded and chopped </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1千克冬南瓜，削皮、去籽、切块儿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>600 ml hot vegetable stock (we like Marigold)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>600毫升热蔬菜高汤（Marigold牌不错）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>seed bread croutons and flat leaf parsley</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些油煎瓜仁面包丁和宽叶欧芹</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>olive oil</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2勺橄榄油</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制作方法：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fry the onion in the oil for 5 mins until softened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.热油，洋葱入锅翻炒5分钟至软。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the sherry and squash and sizzle for 1-2 mins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倒入雪利酒和冬南瓜烹制1-2分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pour in the stock, then cover and simmer for 20 mins until the squash is tender when pierced with a knife.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加入高汤，然后盖盖儿炖上20分钟直至南瓜软烂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whizz in a food processor until smooth. Will keep in the fridge for 2 days, or freeze for 6 weeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.将菜糊倒入搅拌机里搅拌均匀，之后可入冰箱保鲜2天或冷冻长达6周。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When ready to eat, reheat until bubbling and serve in small portions topped with seed-bread croutons (see above right) and a parsley sprig.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如需食用，只要将汤重新煮开，撒上面包丁和欧芹叶即可。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition per serving </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养价值：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>183 kcalories, protein 4.0g, carbohydrate 26.0g, fat 6.0g, saturated fat 1.0g, fibre 5.0g, salt 0.22g.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡路里：183卡蛋白质：4.0克，碳水化合物：26.0克，脂肪：6.0克，饱和脂肪：1.0克，纤维素：5.0克，盐：0.22克</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

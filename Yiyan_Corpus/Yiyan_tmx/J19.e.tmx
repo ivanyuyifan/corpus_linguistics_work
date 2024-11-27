@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200918T120411Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 2 The beginnings of mathematics in Greece </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第2章 希腊数学的开始</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thales was the first to go to Egypt and bring back to Greece this study [geometry]; he himself discovered many propositions, and disclosed the underlying principles of many others to his successors, in some case his method being more general, in others more empirical.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泰勒斯首先从希腊来到埃及，然后将凡何研究引进希腊，他本人发现了许多命题，并指导他的学生研究那些可以推出其它命题的基本原理，他的一些方法更具普遍意义，但也有一些只是经验之谈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Proclus, Summary (c. 450 C.E.) of Eudemus' History (c. 320 B.C.E.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普洛克鲁斯（450B.C.）对欧多谟斯（320B.C.）《（几何学）史》摘要</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> A report from a visit to Egypt with Plato by Simmias of Thebes in 379 B.C.E. (from a dramatization by Plutarch of Chaeronea (first/second century C.E.)): "On our return from Egypt a party of Delians met us ... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元前379年希密亚斯（Simmias of Thebes）和柏拉图（Plato）在访问埃及的报告（源于普卢塔克（Plutareh of Chaemnea1世纪）的戏剧性描述）中讲道：“在我们从埃及返回的途中遇到了一批得洛斯人......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>and requested Plato, as a geometer, to solve a problem set them by the god in a strange oracle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们请求凡何学家柏拉图为他们解决一个神在奇怪琪言中提出的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oracle was to this effect: The present troubles of the Delians and the rest of the Greeks would be at an end when they had doubled the altar at Delos. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>预言的大意是：得洛斯人和其他希腊人当前面临的种种苦难将会结束，只要他们能够将得洛斯的祭坛体积加倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they not only were unable to penetrate its meaning, but failed absurdly in constructing the altar, they called on Plato for help in their difficulty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得洛斯人不仅没有完全理解预言的意思，而且对于如何建造这样的祭坛感到一筹莫展，于是便请柏拉图帮忙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plato ... replied that the god was ridiculing the Greeks for their neglect of education, deriding, as it were, our ignorance and bidding us engage in no perfunctory study of geometry; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>柏拉图回答道，神嘲笑希腊人疏忽教育，嘲笑我们的无知，他命令我们认真地研究几何，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>for no ordinary or near-sighted intelligence, but one well versed in the subject, was required to find two mean proportionals, that being the only way in which a body cubical in shape can be doubled with a similar increment in all dimensions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对智力超常又精通于这门学问的人，他们所要做的就是找到两个比例中项，使立方体的各边按比例增加，从而使其体积加倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This would be done for them by Eudoxus of Cnidus...; they were not, however to suppose that it was this the god desired, but rather that he was ordering the entire Greek nation to give up war and its miseries and cultivate the Muses, and by calming their passions through the practice of discussion and study of mathematics, so to live with one another that their relationships should be not injurious, but profitable?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来尼多斯（Cnidus）的欧多克斯完成了这项王作。然而得洛斯人和希腊人，认为神的目的并不在于此，而是想让他们通过学习和讨论数学来平息他们的激情，结束战争和苦难，信奉缪新女神，建立起一种没有伤害的互利关系。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the quotation and the (most likely) fictional account indicate, a new attitude toward mathematics appeared in Greece some time before the fourth century B.C.E. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上面引文中的传奇性描述表明，公元前4世纪之前，希腊人对数学产生了新的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No longer was it sufficient merely to calculate numerical answers to problems: Now one had to prove that the results were correct. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不仅要计算出问题的数值结果，面且还必须证明结论正确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To double a cube-that is, to find a new cube whose volume is twice that of the original one-is equivalent to determining the cube root of 2, and that is not a difficult problem numerically. The oracle, however, was concerned not with numerical calculation, but with geometric construction. That, in turn, depended on geometric proof by logical argument.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倍立方体问题——找出一个体积是原来立方体体积二倍的新立方体——与求2的立方根等价，这在数值计算上并不困难，但神注重的是几何作图，而非数值结果，这便需要依赖逻辑论证的几何证明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This change in the nature of mathematics, beginning around 600 B.C.E., was related to the great differences between the emerging Greek civilization and the civilizations of Egypt and Babylonia. The geography of Greece, primarily mountains and islands, effectively prohibited the development of large-scale agriculture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约公元前600年，数学的本质发生了改变，这种改变与正在诞生的希腊文明和埃及、巴比伦文，明间的巨大差异有关，希腊处于山脉和岛屿的地理环境中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a possible consequence of this, Greece did not develop a central government. The Greeks' basic political organization was the polis, or city-state. The governments of the city-state were varied, but none controlled populations of more than a few thousand. Whether the governments were democratic or monarchical, they were not arbitrary. Each government was ruled by law, and thus its citizens were motivated to learn the skills of argument and debate. It was perhaps this atmosphere that promoted the necessity for proof in mathematics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这限制了大规模农业生产的发展，因此导致的可能结果是希腊人没有建立中夹集权政府，希腊的主要行政机构是大小不同的城邦政府（polis），各个城邦也只有几千人，我们无法断定它们的政府是民主制还是专制制，但一定是按法律统治的，这样就激发其臣民学习辩论的技巧，很可能是这种气氛促进了证明数学的产生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because virtually every city-state had access to the sea, there was constant trade, both within Greece itself and with other civilizations. As a result, the Greeks were exposed to many different peoples and, in fact, themselves settled in areas all around the eastern Mediterranean. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于各个城邦离海很近，所以它们与希腊其它的城邦和其它国家有经常的贸易往来，这样，希腊与不同的民族进行交流，希腊人也遍及东地中海的各个地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, a rising standard of living helped attract to Greece able people from other parts of the world. Hence the Greeks were exposed to differing answers to fundamental questions about the world and they began to create their own answers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，希腊不断提高的生活水平吸引了世界各地的人才，他们纷纷来到希腊，这有助于希腊人了解许多基本问题的各种不同的答案后，进一步做出自己的答案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many areas of thought, they learned not to accept what had been handed down from ancient times. Instead, they began to ask, and to try to answer, "why?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在思想领域的诸多方面，他们不只了解古代流传下了什么问题，还开始问为什么并尽力回答“为什么?”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Greek thinkers gradually came to the realization that the world around them was knowable, that they could discover its characteristics by rational inquiry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊的思想家们开始逐渐地意识到周围世界是可以被认识的，通过合理的调查研究可以发现世界的特征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence they were eager to discover and expound theories in such fields as physics, biology, medicine, and politics. They were convinced that mathematics was one of the primary sciences, the basis for all study of the physical world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，他们便热衷于发现和解释物理、生物、医学和政治学等领域中的理论，他们深信，数学是主要的科学之一，是对物质世界所有研究的基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And even though Western civilization owes a great debt to the Greeks for their achievements in literature, art, and architecture, it is to Greek mathematics that we owe the idea of mathematical proof, an idea at the basis of modem mathematics and, by extension, at the foundation of our modem technological civilization.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管西方文明认为希腊在文学、艺术和建筑方面没有突出的贡献，但广义地说，作为现代数学的基础和现代技术文明的基石的数学证明思想却归功于希腊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This chapter begins with a discussion of the contributions of the earliest Greek mathematicians in the sixth century B.C.E. and the beginnings of the Greek approach to problem solving. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在本章的开始，我们讨论公元前6世纪的希腊数学及其解决问题方法的产生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We then discuss Plato and Aristotle's fourth-century study of the nature of mathematics and the idea of logical reasoning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先讨论公元前4世纪柏拉图和亚里士多德对数学本质的研究及逻辑推理的思想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, we present a detailed analysis of one of the earliest mathematical treatises to survive the ages, the Elements of Euclid, written around 300 B.C.E. That analysis also addresses the work of various earlier Greek mathematicians whose contributions are included in Euclid's text.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后给出写于约公元前300年的欧几里得《原本》——现存的最早数学著作之一的详细分析，其中也包括对《原本》的内容作出贡献的许多其他早期希腊数学家的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2.1 THE EARLIEST GREEK MATHEMATICS</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.1 最早的希腊数学</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although there are no complete texts of Greek mathematics dating earlier than about 300 B.C.E., there do exist numerous fragments of mathematical manuscripts as well as many references in later works to early Greek mathematics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然没有发现早于公元前300年的完整的希腊数学著作，但是可以找到许多零散的数学手稿及后来著作中关于早期希腊数学的参考资料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most complete reference to this early work is in the commentary to Book I of Euclid's Elements written in the fifth century C.E. by Proclus, some 800-1000 years after the fact.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普洛克鲁斯5世纪（约在《原本》成书后800-1000年）为欧几里得《原本》卷1作的评注中包括了对早期希腊数学最完整的资料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This account of the early history of Greek mathematics is generally thought to be a summary of a formal history written by Eudemus of Rhodes in about 320 B.C.E., the original of which is lost. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些资料是由欧多谟斯（Eudetmus of Rhodes，约320B.C.）所撰写的，一般认为，它是对希腊早期数学史的正式综述，可惜其原稿已遗失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In any case, the earliest Greek mathematician mentioned is Thales (c. 624-547 B.C.E.), from Miletus in Asia Minor (Fig. 2.1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里需提到的希腊最早的数学家是小亚细亚的泰勒斯（Thales，624—547 B.C.）（图2.1）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are many stories recorded about him, all written down several hundred years after his death. These include his prediction of a solar eclipse in 585 B.C.E. and his application of the angle-side-angle criterion of triangle congruence to the problem of measuring the distance to a ship at sea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多关于他的故事都是在他去世几百年之后写的，其中包括他在公元前585年对日蚀的预测以及应用三角形边角边准则测量海上航船的距离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thales is also credited with discovering the theorems that the base angles of an isosceles triangle are equal and that vertical angles are equal and with proving that the diameter of a circle divides the circle into two equal parts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现了等边三角形的两底角相等、两直角相等的定理，证明了圆的直径二等分圆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although exactly how Thales "proved" any of these results is not known, it does seem clear that he advanced some logical arguments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我们不清楚泰勒斯“证名”的准确方法，但他显然提出了一些逻辑论证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aristotle relates the story that Thales was once reproved for wasting his time on idle pursuits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚里士多德则提到另一个故事：泰勒斯曾被指责在无用的研究中浪费时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Therefore, noticing from certain signs that a bumper crop of olives was likely in a particular year, he quietly cornered the market on oil presses. When the large crop in fact was harvested, the olive growers all had to come to him for presses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是有一次，他用各方面的知识预见到橄榄必然获得特大丰收，便垄断了一地区的榨油机，当橄榄丰收后，种植橄榄者都到他这里来榨油，他因此而获得了巨额财富。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thus demonstrated that a philosopher or a mathematician could in fact make money if he thought it worthwhile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，如果一个哲学家或数学家想去赚钱，那么事实上他就可以做到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether this or any of the other stories is literally true is not known. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对这些故事，我们不能研究其内容的真实性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In any case, the Greeks of the fourth century B.C.E. and later credited Thales with beginning the Greek mathematical tradition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公元4世纪及后期，人们认为泰勒斯是希腊数学传统的开创者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, he is generally credited with beginning the entire Greek scientific enterprise, including recognizing that material phenomena are governed by discoverable laws.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，泰勒斯还是整个希腊科学研究（包括认识到物质现象是受一些不可知规律控制的）的开创者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2.1.1 Pythagoras and His School</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.1.1 毕达哥拉斯及其学派</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pythagoras (c. 572-497 B.C.E.), the next mathematician about whom there are extensive but unreliable stories, spent much time not only in Egypt, where Thales was said to have visited, but also in Babylonia (Fig. 2.2). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕达哥拉斯（图2.2）是希腊的另一位数学家，后人对他的记载较多，他曾在埃及和巴比伦生活了很长时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around 530 B.C.E., after having been forced to leave his native Samos, an island off the coast of Asia Minor, he settled in Crotona, a Greek town in southern Italy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约在公元前530年，他被迫离开家乡萨摩斯岛，在意大利半岛南端的克罗托内（Crotone）定居，在那里他广收门徒，后来形成了著名的毕达哥拉斯学派——一个宗教式哲学学派。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There he gathered around him a group of disciples, later known as the Pythagoreans, which was both a religious order and a philosophical school. From the surviving biographies, all written centuries after his death, we can infer that Pythagoras was probably more of a mystic than a rational thinker, but one who commanded great respect from his followers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕达哥拉斯现存的传记都是写于他死后的几个世纪，从这些传记中可知，与其说他是一位理性的恩想家，不如说是一位神秘的思想家，而且是一位倍受其追随者尊敬的思想家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since there are no extant works ascribed to Pythagoras or the Pythagoreans, the mathematical doctrines of his school can only be surmised from the works of later writers, including the "neo-Pythagoreans."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为没有现存的毕达哥拉斯或其学派的著作，我们只能从包括新毕达哥拉斯学派（neo-Pythagoreans）的后人的著作中推测其学派的数学学说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One important such mathematical doctrine was that "number was the substance of all things"-that numbers, that is, positive integers, formed the basic organizing principle of the universe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕达哥拉斯学派的一个重要数学学说是“万物皆数”，数，即正整数，形成了宇宙的基本组成原则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What the Pythagoreans meant by this was not only that all known objects have a number, or can be ordered and counted, but also that numbers are at the basis of all physical phenomena. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不只认为任何事物都具有一个数或可以用数来记，还认为数是所有的物理现象的基础.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, a constellation in the heavens could be characterized by both the number of stars that compose it and its geometrical form, which itself could be thought of as represented by a number. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，天空里的一个星座即可用组成它的星的数目刻画，也可用被认为是由一个数代表的几何形式刻画；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The motions of the planets could be expressed in terms of ratios of numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>行星的运动可以根据数的比表示；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Musical harmonies depend on numerical ratios: Two plucked strings with ratio of length 2:1 give an octave, with ratio 3:2 give a fifth, and with ratio 4:3 give a fourth. Out of these intervals an entire musical scale can be created. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>音调的和谐由数值的比决定：一根拉紧的弦，若取原长的1/2，可弹出八度音调；若取2/3，可弹出五度音调;若取3/4，可弹出四度音调，通过取各种不同的长度，即可以奏出完整的音阶;</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, the fact that triangles whose sides are in the ratio of 3:4:5 are right-angled established a connection of number with angle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三边的比是3：4：5，的三角形是直角三角形，这样，三角形与数建立了一种联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given the Pythagoreans, interest in number as a fundamental principle of the cosmos, it is only natural that they studied the properties of positive integers, what we would call the elements of the theory of numbers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既然毕达哥拉斯学派把数看作是宇宙的基本原则，那么他们对正整数的研究是很自然的事情，而我们今天把正整数称为数论的基本元素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The starting point of this theory was the dichotomy between the odd and the even. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一理论的起点是奇数和偶数间的二分法（dichotomy）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Pythagoreans probably represented numbers by dots or, more concretely, by pebbles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕达哥拉斯学派可能用点或小卵石表示数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hence an even number would be represented by a row of pebbles which could be divided into two equal parts. An odd number could not be so divided because there would always be a single pebble left over. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个偶数可以用能分成两个相等部分的一行小卵石表示，而一个奇数却不能被分成两个相等的部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was easy enough using pebbles to verify some simple theorems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用小卵石可以很容易地证明一些简单的定理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the sum of any collection of even numbers is even, while the sum of an even collection of odd numbers is even and that of an odd collection is odd (Fig. 2.3).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，任意一组偶数的和仍是偶数，而偶数组个奇数的和是偶数，奇数组个奇数的和是奇数（图2.3）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among other simple corollaries of these basic concepts were the theorems that the square of an even number is even and the square of an odd number is odd. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这些基本概念可得出一些简单推论，如偶数的平方是偶数，奇数的平方是奇数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Squares themselves could also be represented using dots, providing simple examples of "figurate" numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数的平方本，身也可以用点表示，这样便给出了“形数”的简单例子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you represent a given square in this way-for example, the square of 4-it is easy to see that the next higher square can be formed by adding a row of dots around two sides of the original figure. There are 2 × 4 + 1 = 9 of these additional dots. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果用形数表示一给定数的平方，例如4，的平方，容易看出，在原来的形数图两边各增加一列（行）点就可以得出下一个数的平方，增加的点数是2×4+1=9。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Pythagoreans generalized this observation to show that one can form squares by adding the successive odd numbers to 1. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕达哥拉斯学派把这一结果推广，后得出：连续的奇数相加可得到正方形数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, 1 + 3 = 22, 1 + 3 + 5 = 32, and 1 + 3 + 5 + 7 = 42. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，1+3=22，1+3+5=32，1+3+5+7=42。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The added odd numbers were in the L-shape generally called a gnomon (Fig. 2.4).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些奇数的L形排列一般被成为一个曲尺形排列（图2.4）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other examples of figurate numbers include the triangular numbers, produced by successive additions of the natural numbers themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外形数包括由连续的自然数相加生成的三角形数；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, oblong numbers, numbers of the form n(n + 1), are produced by beginning with 2 and adding the successive even numbers (Fig. 2.5).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>具有n（n+1）形式的矩形数，它是从2开始，连续的奇数相加生成的数（图2.5）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> The first four of these are 2, 6, 12, and 20, that is, 1×2, 2 ×3, 3×4, and 4×5. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前4个矩形数是2、6、12和20，即1×2、2×3、3×4和4×5。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figure 2.6 provides easy demonstrations of the results that any oblong number is the double of a triangular number and any square number is the sum of two consecutive triangular numbers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图2.6形象地说明了矩形数是三角形数的二倍，正方形是两个连续三角形数的和。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another number-theoretical problem of particular interest to the Pythagoreans was the construction of Pythagorean triples.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于数论的问题，毕达哥拉斯学派感兴趣的是毕达哥拉斯三元数组（Pythagorean triples）的构造。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

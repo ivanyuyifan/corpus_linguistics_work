@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Imagine a powerful sovereign who issues commands to his subjects. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>设想一下一个强有力的君主向其臣民颁布命令。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They are under a duty to comply with his wishes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>臣民有义务按照君主的意愿去行事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The notion of law as a command lies at the heart of classical legal positivism as espoused by its two great protagonists, Jeremy Bentham and John Austin. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律即命令的观念是古典法律实证主义的核心思想，并得到该流派两位伟大的旗手杰里米·边沁和约翰·奥斯丁的支持。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Modern legal positivists adopt a considerably more sophisticated approach to the concept of law, but, like their distinguished predecessors, they deny the relationship proposed by natural law, outlined in the previous chapter, between law and morals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现代法律实证主义者对法律的概念这个问题采取了一种相对而言更为复杂深奥的态度，但和其卓越的前辈一样，他们也否认上一章所述的自然法学关于法律和道德之间存在关联的观点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The claim of natural lawyers that law consists of a series of propositions derived from nature through a process of reasoning is strongly contested by legal positivists. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自然法学家主张法律由一系列的命题组成，这些命题是通过一种推理的过程从自然中引出的。法律实证主义者对自然法学家的这个观点提出强烈反对。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This chapter describes the essential elements of this important legal theory.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章即对这一重要法律理论的主要内容进行阐述。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The term ‘positivism’ derives from the Latin positum, which refers to the law as it is laid down or posited. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“实证主义”（positivism）一词源于拉丁文positum，意思是指制定或颁布的法律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Broadly speaking, the core of legal positivism is the view that the validity of any law can be traced to an objectively verifiable source. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一般而言，法律实证主义的核心观点是任何法律的有效性都要上溯至一个客观的可确证的渊源。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Put simply, legal positivism, like scientific positivism, rejects the view – held by natural lawyers – that law exists independently from human enactment. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>简言之，如同科学实证主义，法律实证主义拒斥自然法学家所持的以下观点，即法律独立于人的立法行为而存在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As will become clear in this chapter, the early legal positivism of Bentham and Austin found the origin of law in the command of a sovereign. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>通过本章的阅读我们将清楚地发现，边沁和奥斯丁的早期法律实证主义认为法律源自主权者的命令。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>H. L. A. Hart looks to a rule of recognition that distinguishes law from other social rules. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>H. L. A.哈特注意到一种承认规则，这种规则将法律与其他社会规则区分开来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hans Kelsen identifies a basic norm that validates the constitution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>汉斯·凯尔森则证明了一种使宪法有效的基本规范。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Legal positivists also often claim that there is no necessary connection between law and morals, and that the analysis of legal concepts is worth pursuing, and distinct from (though not hostile to) sociological and historical enquiries and critical evaluation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律实证主义者还经常声称把法律和道德联结起来毫无必要，对法律概念的分析则是值得研究下去的，并且这种分析与社会学和历史学的探究以及严格的价值评判是截然不同的（尽管并非是对立的）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The highest common factor among legal positivists is that the law as laid down should be kept separate – for the purpose of study and analysis – from the law as it ought morally to be. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律实证主义者之间最重要的共同观点是，出于研究与分析的目的，制定法应当与道德上应然的法律区分开来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In other words, that a clear distinction must be drawn between ‘ought’ (that which is morally desirable) and ‘is’ (that which actually exists). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>换句话说，必须在“应当”（道德上可取的）与“是”（实际存在的）二者之间划分清楚。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But it does not follow from this that a legal positivist is indifferent to moral questions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但由此并不能得出结论认为法律实证主义者对道德问题无动于衷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most legal positivists criticize the law and propose means to reform it. This normally involves moral judgements. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大多数实证主义者都批评现存的法律并且提出一些方法来对法律进行改革，这些通常都涉及道德判断。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But positivists do share the view that the most effective method of analysing and understanding law involves suspending moral judgement until it is established what it is we are seeking to elucidate.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但实证主义者的确都认为，分析和理解法律的最有效方法是暂不进行道德判断，直到我们确定我们试图去弄清楚的是什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nor do positivists necessarily subscribe to the proposition, often ascribed to them, that unjust or iniquitous laws must be obeyed – merely because they are law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人们经常认为法律实证主义者持有这样一种主张：不正义或者邪恶的法律也是法律，因此必须得到服从。法律实证主义者并不必然认同这种主张。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, both Austin and Bentham acknowledge that disobedience to evil laws is legitimate if it would promote change for the good. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，边沁和奥斯丁都承认不服从恶法是正当的，如果这种不服从能促进现状改善的话。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the words of the foremost modern legal positivist H. L. A. Hart:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>用现代最重要的法律实证主义者H. L. A.哈特的话说：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>[T]he certification of something as legally valid is not conclusive of the question of obedience, ... [H]owever great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>证明某物在法律上有效并不是服从问题的决定性因素，不管君王的光环多么耀眼，也不管官方体制的权威有多大，他们的要求最后那必须接受道德的审查。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For Hart, as well as Bentham, this is one of the major virtues of legal positivism.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对哈特和边沁来说，这是法律实证主义的一个主要优点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Law as commands: Bentham and Austin</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法律即命令:边沁和奥斯丁</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The prodigious writings of Jeremy Bentham (1748–1832) constitute a major contribution to positivist jurisprudence and the systematic analysis of law and the legal system. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>杰里米·边沁（1748—1832）的巨著为实证主义法学以及对法律和法律制度进行的系统分析作出了卓越贡献。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Not only did he seek to expose the shibboleths of his age and construct a comprehensive theory of law, logic, politics, and psychology, founded on the principle of utility, but he essayed for reform of the law on almost every subject. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他不仅试图去揭露他那个年代的陈词滥调，构建一个建立在功利原则基础上的法学、逻辑学、政治学和心理学的综合理论，而且还尝试在几乎每个问题上对法律进行改革。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His critique of the common law and its theoretical underpinnings are especially ferocious. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他猛烈批评普通法及其理论基础。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moved by the spirit of the Enlightenment, Bentham sought to subject the common law to the cold light of reason. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在启蒙精神的推动下，边沁试图让普通法服从理性的冷光。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He attempted to demystify the law, to expose, in his characteristically cutting style, what lay behind its mask. Appeals to natural law were nothing more than ‘private opinion in disguise’ or ‘the mere opinion of men self-constituted into legislatures’.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他努力剥去法律的神秘外衣并以他特有的犀利文风揭示法律的庐山真面目，声称诉诸自然法不过是“伪装的个人观点”或者“仅仅是自命为立法者的看法”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The indeterminacy of the common law, he argued, is endemic. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>边沁认为，普通法的不确定性是其特有的缺陷。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unwritten law is intrinsically vague and uncertain. It cannot provide a reliable, public standard which can reasonably be expected to guide behaviour. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不成文法在本质上含糊不清且难以预测，它无法提供一种可靠的公开标准，使人们对其拥有合理预期来指导行为。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The chaos of the common law had to be dealt with systematically. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>普通法的这种混乱情况必须系统地加以处理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For Bentham this lay, quite simply, in codification. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在边沁看来，这很简单，就是要进行法典编纂。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Legal codes would significantly diminish the power of judges; their task would consist less of interpreting than administering the law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>法典将有效削减法官的权力，法官的任务因此将更多地表现于执行法律而非解释法律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It would also remove much of the need for lawyers: the code would be readily comprehensible without the help of legal advisers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同时这也会减少对律师的需求：法典无须法律顾问的帮助也易于理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unlike the Continental system of law that has long adopted Napoleonic codes based on Roman law, codification in the common law world remains a dream.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不像大陆法系采用以罗马法为基础的拿破仑法典已有很长历史，在普通法世界进行法典编纂仍然是一个梦想。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>John Austin (1790–1859) published his major work, The Province of Jurisprudence Determined, in 1832, the year of Bentham’s death. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>约翰·奥斯丁（1790—1859）在1832年边沁逝世那一年出版了其主要著作《法理学的范围》。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As a disciple of Bentham’s, Austin’s conception of law is based on the idea of commands or imperatives, though he provides a less elaborate account of what they are. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>作为边沁的弟子，奥斯丁的法律观建立在命令或责任的理念上，尽管他并没有过多详述什么是命令或责任。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Both jurists stress the subjection of persons by the sovereign to his power, but Austin’s definition is sometimes thought to extend not very much further than the criminal law, with its emphasis on control over behaviour. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然这两位法理学家都强调人们对主权者权力的服从，但奥斯丁的法律定义强调对行为的控制，这个定义有时被认为对刑法以外的领域并没有太多涉足。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His identification of commands as the hallmark of law leads him to a more restrictive definition of law than is adopted by Bentham who seeks to formulate a single, complete law which sufficiently expresses the legislative will.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他把命令等同于法律的标志导致其对法律的界定较之边沁所采纳的定义限制更多，边沁试图制定一种单一、完全的法律从而能充分表达立法机关的意志。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But both share a concern to confine the scope of jurisprudential enquiry to accounting for and explaining the principal features of the law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但二者都关注法学研究范围的限定，从而都能说明和解释法律的主要特征。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the case of Austin, however, his map of ‘law properly so called’ is considerably narrower than Bentham’s, and embraces two categories: the laws of God and human laws. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，就奥斯丁而言，“确切意义上的法律”的涵盖面要比边沁的狭窄得多，只包含两类：神法和人法。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Human laws (i.e. laws set down by men for men) are further divided into positive laws or laws ‘strictly so called’ (i.e. laws laid down by men as political superiors or in pursuance of legal rights) and laws laid down by men not as political superiors or not in pursuance of legal rights. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人法（由人制定并适用于人的法律）进一步分为制定法或者“严格意 义上”的法律（由政治地位高的人制定或者按照法定权利制定的法律）以及不是由政治地位高的人制定或者不是按照法定权利制定的法律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Laws ‘improperly so called’ are divided into laws by analogy (e.g. laws of fashion, constitutional, and international law) and by metaphor (e.g. the law of gravity). Laws by analogy, together with laws set by men not as political superiors or in pursuance of legal right, are merely ‘positive morality’. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“非确切意义上的”法律则分为类推的法律（如时装规则、宪法和国际法）和比喻的法律（如万有引力定律）类推的法律以及不是由政治地位高的人制定或者不是按照法定 权利制定的法律仅仅是一种“实在道德”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is only positive law that is the proper subject of jurisprudence.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有制定法是法学的 确切研究领域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bentham is best known as a utilitarian (see Chapter 4) and law reformer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>边沁是一个功利主义者（参见第四章）和法律改革家，这一点人们最为了解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But he insisted on the separation between what he called ‘expositorial’ and ‘censorial’ jurisprudence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但他始终坚持要把“说明性的”法学和“审查性的”法学区别开来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The former describes what is, the latter what ought to be. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>前者论述实然，后者则描述应然。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Austin was no less categorical in preserving this division, but his analysis is narrower in both its compass and purpose than Bentham’s.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁无条件地保留了这个区分，但他的分析在范围和目的上都较边沁要狭窄得多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Though both adhere to a utilitarian morality, and adopt broadly similar views on the nature and function of jurisprudence and the serious inadequacies of the common law tradition, there are several important differences in their general approach to the subject. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管两人都坚持功利主义道德并在法学的性质、功能以及普通法传统的重大不足方面持有许多相似的观点，但他们在学科研究的一般方法上存在着几个重大区别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In particular, Bentham pursues the notion of a single, complete law which adequately expresses the will of the legislature. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尤其是，边沁坚持一种单一完全的、能充分表达立法机关意志的法律观。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He seeks to show how a single law creates a single offence defined by its being the narrowest species of that kind of offence recognized by the law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他试图说明一个单一的法律如何生成一种单一的违法行为，这种违法行为的定义是法律承认的违法行为中含义最狭隘的一种。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Austin, on the other hand, builds his scheme of a legal system on the classification of rights; he is not troubled by a search for a ‘complete’ law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁则把其对法律体系的规划建立在权利的分类上；他不受寻求一种“完全的”法律的想法困扰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also, in his pursuit to provide a plan of a comprehensive body of laws and the elements of the ‘art of legislation’, Bentham expounds a complex ‘logic of the will’. Austin seeks to construct a science of law rather than engage himself in Bentham’s art of legislation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同样，在追求为一组涵盖广泛的法律和“立法艺术”的要素提供一种规划的过程中，边沁详述了一种复杂的“意志逻辑”，奧斯丁则试图构建一种法律科学，并没有花时间去研究边沁的立法艺术。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And while Bentham sought to devise means by which arbitrary power, especially of judges, might be checked, Austin was less anxious about these matters.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>边沁努力设计出一些方法，试图以此来对专断权力，尤其是法官的专断权力进行限制，奥斯丁则并不那么操心这些问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The central feature of Austin’s map of the province of jurisprudence is the notion of law as a command of the sovereign. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁法学范围图景的一个特征是，法律的概念即主权者的命令。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Anything that is not a command is not law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何事物如果不是一个命令就不是法律。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Only general commands count as law. And only commands emanating from the sovereign are ‘positive laws’. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有一般性的命令能算作法律，只有源自主权者的命令才是“制定法”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Austin’s insistence on law as commands requires him to exclude customary, constitutional, and public international law from the field of jurisprudence. This is because no specific sovereign can be identified as the author of their rules. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁坚持主张法律即命令，这就要求其把习惯法、宪法和国际公法排除在法学范围之外，因为无法确定一个明确的主权者作为这些规则的创制者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thus, in the case of public international law, sovereign states are notoriously at liberty to disregard its requirements.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因而，在涉及国际公法时，主权国家就恶名昭彰地随意漠视这类法律的要求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For Bentham, however, commands are merely one of four methods by which the sovereign enacts law. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，对边沁来说，命令仅仅是主权者制定法律的四种方法之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He distinguishes between laws which command or prohibit certain conduct (imperative laws) and those which permit certain conduct (permissive laws). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他区分出命令或禁止某种行为的法律（强制性法律）和许可某种行为的法律（许可性法律）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He argues that all laws are both penal and civil; even in the case of title to property there is a penal element. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他主张所有法律都既是刑法又是民法；即使在财产权方面也有刑事的因素。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bentham seeks to show that laws which impose no obligations or sanctions (what he calls ‘civil laws’) are not ‘complete laws’, but merely parts of laws. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>边沁试图表明，没有施加义务或制裁的法律（他称之为“民法”）不是“完全的法律”，而仅是法律的局部。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And, since his principal objective was the creation of a code of law, he argued that the penal and civil branches should be formulated separately.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外，由于其主要目标是要创造一部法典，他主张刑法和民法两个分支法律应当分别制定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The relationship between commands and sanctions is no less important for Austin. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>命令与制裁的关系对奥斯丁而言也同样重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, his very concept of a command includes the probability that a sanction will follow failure to obey the command. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，他的那个命令概念本身就包含了一种可能性，即如果不遵守命令就会招致制裁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But what is a sanction? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但何谓制裁？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Austin defines it as some harm, pain, or evil that is conditional upon the failure of a person to comply with the wishes of the sovereign. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁将制裁界定为一种损害、痛苦或者灾祸，施加制裁的条件是某个人未能按照主权者的愿望行事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There must be a realistic probability that it will be inflicted upon anyone who infringes a command. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>必定存在某种现实可能性即田可人如果违反了命令就要受到制裁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There need only be the threat of the possibility of a minimal harm, pain, or evil, but unless a sanction is likely to follow, the mere expression of a wish is not a command. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只需存在一种最小的损害、痛苦或者灾祸的威胁即可，但除非有一种制裁如影随形，否则单纯的愿望表达便不是一个命令。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Obligations are therefore defined in terms of sanctions: this is a central tenet of Austin’s imperative theory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因而义务是根据制裁来界定的：这是奥斯丁命令理论的核心原则。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The likelihood of a sanction is always uncertain, but Austin is driven to the rather unsatisfactory position that a sanction consists of ‘the smallest chance of incurring the smallest evil’.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制裁的可能性总是不确定的，但奥斯丁却由此得出一个不甚令人满意的观点，即制裁包含了“招致最小灾祸的最小可能”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The idea of a sovereign issuing commands pervades the theories of both Bentham and Austin. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由一个主权者来颁布命令的思想贯穿边沁和奥斯丁二者的理论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It is important to note that both regard the sovereign’s power as constituted by the habit of the people generally obeying his laws. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>值得注意的是二者都把主权者的权力视作由人们普遍遵从其法律的习惯所构成。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But while Austin insists on the illimitability and indivisibility of the sovereign, Bentham, alive to the institution of federalism, acknowledges that the supreme legislative power may be both limited and divided by what he calls an express convention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但奥斯丁坚持主张主权的不可仿制和不可分割，边沁则因注意到联邦制度的存在而承认最高立法权可受到他所称的明示协定的限制与分割。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For Austin, to the four features of a command (wish, sanction, expression of a wish, and generality) is to be added a fifth, namely an identifiable political superior – or sovereign – whose commands are obeyed by political inferiors and who owes obedience to no one. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在奥斯丁看来，命令除了四个特征（愿望、制裁、愿望的表达以及一般性）外，还要加上第五个特征，即可确认的政治上级，或称主权者，这个上级的命令要得到政治下级的服从，而他不必服从任何人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This insistence on an omnipotent lawgiver distorts those legal systems which impose constitutional restrictions on the legislative competence of the legislature or which divide such power between a central federal legislature and lawmaking bodies of constituent states or provinces (such as in the United States, Canada or Australia). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁对全能立法者的强调曲解了对立法机构立法权施加宪法限制的法律制度，也曲解了在中央联邦立法机构和州或省（如美国、加拿大或者澳大利亚）的法律制定机构之间进行分权的法律制度。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Bentham, on the other hand, acknowledges that sovereignty may be limited or divided, and accepts (albeit reluctantly) the possibility of judicial review of legislative action.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>边沁则承认对主权可以进行限制或划分，并且承认（尽管不情愿）对立法行为进行司法审查的可能性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Austin’s contention that ‘laws properly so called’ be confined to the commands of a sovereign leads him to base his idea of sovereignty on the habit of obedience adopted by members of society. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>奥斯丁关于“确切意义上的法律”应限于主权者的命令的观点使他把主权观建立在社会成员采取的服从态度之上。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The sovereign must, moreover, be determinate (i.e. the composition of the sovereign body must be unambiguous), for ‘no indeterminate sovereign can command expressly or tacitly, or can receive obedience or submission’. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>并且，主权者必须是确定的（例如主权机构的组成必须明确），因为“没有任何模糊不清的主权者能发出明示或默示的命令，或得到人们的顺从或臣服”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And this results in Austin famously refusing to accept as ‘law’ public international law, customary law, and a good deal of constitutional law.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这导致奥斯丁引人瞩目地拒绝承认国际公法、习惯法和许多宪法为“法律”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moreover, by insisting that the sanction is an indispensable ingredient in the definition of law, Austin is driven to defining duty in terms of sanction: if the sovereign expresses a wish and has the power to inflict an evil (or sanction) then a person is under a duty to act in accordance with that wish.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，由于强调制裁是法律概念不可或缺的要素，奥斯丁就只得按照制裁来界定义务：如果主权者表达了一种愿望并有权施加灾祸（或制裁），个人就有义务按照那种愿望去行事。</seg></tuv>
+</tu>
+</body>
+</tmx>

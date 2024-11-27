@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151124T135635Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How to Do Laundry: Expert Advice to Laundering </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于怎样洗衣的专家意见</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every one of us, at some time or the other, has been forced to do our own laundry, right? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们每个人都曾有过不情愿而又不得不自己洗衣服的经历，对吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first rule then has always been to keep an eye on the care label, which we usually miss. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么第一规则就是要留意洗涤说明标签，我们通常都会漏掉这一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It provides some basic idea of how to approach a fabric while cleaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它告诉我们洗衣服时如何处理布料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here are some general tips.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里是一些基本的小窍门：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Choose the temperature according to care label. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照洗涤说明标签调节水温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For fine fabrics that might shrink on washing, use cold water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些精美的布料一洗就会缩水，这种情况要用冷水洗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warm water is recommended if the fabric is loomed and dirty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果布料是针织并且很脏了，推荐用温水洗涤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use hot water if clothes are white and very dirty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果衣服是白色又很脏，就用热水洗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You might be wondering, why your white fabric is fading so early. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能会问，白色布料为什么会褪色这么快？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here is the fact. You might not be using enough detergent, or the water temperature may be too low. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实是：你可能一直洗涤剂的用量不够，或者可能水温太低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it is really dirty, go for bleaching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果真的太脏的话，就漂白吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can do away with fading by turning the fabric inside out while washing and drying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以在洗的时候把衣服反过来，避免褪色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Follow the care label to prevent shrinking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按洗涤说明标签做，可以防止缩水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use cold water for washing and put your dryer setting to the lowest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用冷水洗然后将烘干机温度调至最低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be careful with red. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当心红色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might bleed, and if it does there is nothing we can do. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它可能会渗色，一旦有了就无论如何也洗不去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just enjoy the new shade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是就欣赏你的新暗斑吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But you can protect other fabric from infection by washing bleeding fabrics separately.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是你可以单独洗涤渗色的衣物，这样可以保护其他布料免受污染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's always better to hand-wash your delicates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>精细的布料用手洗是比较好的的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you should wash it in machine, then make sure you do a gentle wash. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你要机洗，就确保调到温柔洗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add a capfull of mild detergent to cold water soak them in it for 10 minutes before washing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷水中加入一瓶帽的中性洗涤剂，洗之前先将衣物在里面浸泡10分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When it comes to washing, fewer suds are always advantageous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说到洗衣服，泡沫越少越有利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Excess suds may re-deposit dirt back onto your clothes rather than remove it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泡沫过多会导致污垢不是被洗下来，而是重新沉积回到衣物上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might even mess up walls of your washing machine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过多的泡沫甚至可能会弄脏洗衣机内壁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While laundering, clothes should go in certain order. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洗衣服时，衣服应按一定顺序放入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>White followed by light followed by darks followed by heavy soiled, is the order.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>顺序是：先洗白衣服，后是浅色衣物，再是深色衣物，最后是很脏的衣物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Count your clothes before putting in the washing machine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把衣服放进洗衣机前清点衣服数目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some smaller fabrics might get sucked under impeller, or drain along with water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些小件衣物可能会卡在转轮下面，或者随着水排出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This occurs more in case of socks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种情况常在洗袜子时出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Detergents also play a vital role in cleaning your fabrics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洗涤剂在洗衣物时起到了很重要的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Liquid detergents are best for stain pre-treatment and food stain removal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用于清洗污点前的预处理或者是清洗食物污点的话，液体洗涤剂是最佳选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Powder detergent suits for general cleaning, whereas high-efficiency (HE) detergents reduce suds and prevent color change considerably.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粉末洗涤剂适合一般清洗，而高效洗涤剂对于减少泡沫和防止变色有相当好的效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using fabric softener is a good option. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用布料柔顺剂是一个很好的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certain brands add softener along with detergents de facto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，某些品牌会将柔顺剂加入洗涤剂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some softeners remove the flame-retardant nature of some fabrics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些柔顺剂可以会消减布料的阻燃效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So you should be very careful about softeners.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以你使用柔顺剂时要注意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't let your fabric to linger on machine too long, especially while it's not automatic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要让你的衣物在洗衣机放置太久，尤其是洗衣机不是全自动的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Else it might wrinkle too much and eventually harm your fabric.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>否则将会褶皱太厉害而最终伤害布料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be careful with stains. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意污点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The older they get, the more harder they are to remove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>污点越久，越难以清洗掉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So, remove stains as soon as possible after you see it using a stain remover.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以，发现污点后用去污剂洗掉污点，越快越好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certain fabrics develop a static charge while rubbing, which might cause them to cling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些衣料摩擦时会产生静电，从而使它们贴在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Low temperature and softener would help you here.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>低温和柔顺剂会帮助你改善这一情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you folks have any other tips for doing your own laundry?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你们大家也有其他自己洗衣服的小窍门吧？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

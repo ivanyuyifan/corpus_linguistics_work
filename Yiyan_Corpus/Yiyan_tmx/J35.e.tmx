@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Tradition and Innovation in Contemporary Narrative Theory</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当代叙事理论的传统与创新</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Writing an introduction to a wide-ranging collection of essays is always a matter of navigating between Scylla and Charybdis — but in this book, the metaphor has more specificity than usual.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为一个涵盖面甚广的论文集写绪论，总是犹如在斯库拉（Scylla）和卡律布狄斯（Charybdis）之间穿行，然而在本书中，这一比喻有着非同寻常的特定涵义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scylla, you’ll recall, was a monster who inhabited a cave in a cliff on a spit of land jutting off from the coast; her many arms plucked sailors from the boats that came too near. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们知道，在古希腊神话中，斯库拉是海边向外突出的悬崖之洞穴里的妖怪，她伸出多个手臂捉获靠得太近的船上的水手。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Charybdis was a whirlpool that threatened any boats that tried to evade the cliff. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>卡律布狄斯则是一个漩涡，若船只想避开那一悬崖，就可能会被这一漩涡所吞没。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Elements of those images impinge on this introduction — and on narrative theory itself — in several ways.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种进退维谷的比喻对这一绪论，甚至对叙事理论本身，均有着多种相关含义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>How, for instance, should the introduction be structured? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>比方说，绪论应该如何构思？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the one hand, we can aim for clarity, simply summarizing the contents. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一方面，我们可以追求清晰，只是简单概述各章大意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Such a Cliffs Notes approach may provide a certain stony intelligibility, but it runs the risk of plucking the spirit from both the essays and our readers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种克利夫辅导丛书那样呆板的写法会明白易懂，但或许会破坏文章的灵气和读者的兴致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other hand, we’re faced with the ever-expanding whirlpool of self-reflexivity. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，面对着自我反省意识构成的不断扩大的漩涡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An introduction, after all, can itself easily become a narrative — and a narrative about the current study of narrative (which in turn includes a history of the study of narrative) risks spinning into an endless loop, especially when written by authors who are, by disciplinary training, acutely selfconscious.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>绪论有可能会无形中变为一种叙事，即有关当今叙事研究的叙事（涉及叙事研究的历史），这种叙事可能会变成永无穷尽的漩涡。倘若作者学术训练有素，自我意识很强，情况就更是如此了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The task is made more difficult still because Scylla and Charybdis are not simply potential dangers to be evaded. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>难处还不止这些，因为斯库拉和卡律布狄斯不仅构成需要躲避的潜在危险，而且还构成诱惑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Like the Sirens (and it’s appropriate that the volume includes three essays on music and one that deals tangentially with musical issues), they offer seductions as well. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>就像以美妙歌声诱人触礁的女海妖（本书中就有三篇论述音乐的论文，还有一篇附带涉及了音乐问题）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Indeed, one can argue that the discipline of narrative theory itself divides into two attractive and productive ways of doing things, ways parallel to the distinction between the cliff and the whirlpool.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>可以说，叙事理论本身可分为两种引人入胜、富有成效的研究方法，两者的区分类似于上面悬崖和漩涡的区分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the one hand, we have the search for a stable landing, a theoretical bedrock of the fundamental and unchanging principles on which narratives are built. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一种方法探求稳固的理论基岩，即叙事之根本、不变的理论原则。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This approach is often associated with what is called structuralist (or classical) narratology, and especially after the rise of post-structuralism, it is often viewed as old-fashioned, even quaint — and it is often believed to yank the life out of the works it considers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种方法往往与结构主义（或经典）叙事学相连，而在后结构主义兴起之后，则往往被认为已经过时，甚至不合情理，且剥夺了作品的生命力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But as we hope this collection will make clear, it’s still an enormously vital area of study, and it’s still producing illuminating work, though nowadays its claims tend to be more modest — about “most narratives’’ or “narratives of a certain historical period’’ rather than about “all narratives.’</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，我们希望本书能够说明，这仍然是一个很有生机的研究领域，依然在产生富有启迪的论著。诚然，当今研究的语气已不再那么绝对化，涉及的往往是“大多数叙事作品”或“某一历史时期的叙事作品”，而非“所有的叙事作品”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other hand, we have a discipline experiencing a voracious spin. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一种方法则犹如急速旋转的漩涡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That whirlpool is generated in part by the self-conscious and self-critical nature of much narrative theory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>叙事理论家的自我意识和自我批评是造成这一漩涡的原因之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What the two of us have in the past labeled “theorypractice,” for instance, uses the interpretive consequences of particular theoretical hypotheses as a way of testing and re-examining those very hypotheses. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>譬如，我们曾将有的研究称为“理论实践”（theorypractice），这种研究将理论假设用于阐释实践，又通过实践来检验和重新审视这些理论假设。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the vortex of narrative theory comes as well from what’s often called the “narrative turn,’’ the tendency of the term “narrative” to cover a wider and wider territory, taking in (some would say “sucking in’’) an ever-broadening range of subjects for inquiry. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此外，叙事理论的漩涡还来自于所谓“叙事转向”，“叙事”一词涵盖了越来越广的范围，囊括了（有人会说“吸纳了”）越来越多的范畴。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Narrative theory, over the years, has become increasingly concerned with historical, political, and ethical questions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>叙事理论日益关注历史、政治、伦理方面的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>At the same time, it has moved from its initial home in literary studies to take in examination of other media (including film, music, and painting) and other nonliterary fields (for instance, law and medicine).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与此同时，视域也从文学研究拓展到其他媒介（包括电影、音乐和绘画），以及其他非文学领域（例如法律和医学）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It should therefore be no surprise that our volume represents both Scylla and Charybdis, both the search for enduring fundamentals of narrative theory and the engagement with the many turnings of contemporary theory. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正因为如此，本书既有斯库拉的特点，又有卡律布狄斯的特征，既探索叙事理论之稳固的基础，又体现出当代理论的各种新走向。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>True, the introduction steers, on the whole, closer to the cliff, largely because so many of the essays themselves offer sufficient spin to satisfy anyone in search of the pleasures of the whirlpool. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>诚然，总的来说,这一绪论在航行中更为靠近悬崖，但这是因为很多论文本身就有足够的旋转运动，可以满足对漩涡之趣味的追求。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nonetheless, we are sufficiently self-conscious to warn you that, if writing this introduction involved navigating a familiar but tricky path, so too does reading it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，出于较强的自我意识，我们提醒您不仅这一绪论的书写，还有对其进行的解读，都是在悬崖和漩涡之间穿行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For reasons that will become increasingly clear, we urge you to recognize that our navigational choices were not inevitable. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在阅读过程中，您会越来越清楚地看到我们在航行中的选择并非不可避免。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You very well might have charted a different route — though of course you can’t choose that route until you’ve read much more than this introduction.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>您自己完全可以选择不同的航线。当然，您只有在读了后面的不少论文之后，才有可能选择自己的航线。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The book opens with a prologue that sets out narrative theory’s modern history. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本书以“序幕”开头。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the first essay, “Histories of Narrative Theory (I): A Genealogy of Early Developments,’’ David Herman surveys the origins of the field. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一篇论文题为《叙事理论的历史（上）：早期发展的谱系》。在该文中，戴维·赫尔曼回顾了这一领域的起源。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But since Herman is strongly influenced by the notion of “genealogy” promoted by Nietzsche and Foucault, his essay refuses to move in a simple linear fashion. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由于他深受尼采和福柯所倡导的“系谱学”的影响，因此没有简单地对历史进行线性回顾。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He is particularly concerned with the way early structuralist narratology — an attempt to study narrative by treating “particular stories as individual narrative messages supported by a shared semiotic system’’ — grew out of “a complex interplay of intellectual traditions, critico-theoretical movements, and analytic paradigms distributed across decades, continents, nations, schools of thought, and individual researchers.’’ </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他特别关注早期结构主义叙事学的诞生。这一学科“把具体的故事看作由一个共同的符号系统所支撑的单个叙事信息”，它“是各种学术传统、批评理论运动以及分析范式交互作用的结果，涵盖了数十年间世界不同地区、不同国家、不同思想流派以及个人研究者'。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Herman uses Wellek and Warren’s influential Theory of Literature as a nodal point, moving in and out from there to show the overlapping connections among a wide range of superficially competing critics who nonetheless represent, if not ‘‘a singular continuous tradition of research,’’ then at least ‘‘a cluster of developments marked by family resemblances.’</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>赫尔曼将韦勒克（Wellek）和沃伦（Warren）很有影响的《文学理论》一书作为中心点，向内向外来回运动，揭示出表面上互为竞争的众多批评家之间的内在联系，说明他们的研究即便不是“一个前后连贯的研究传统”，至少体现出“以家族相似性为特征的多条发展线路的集合”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>’ One of Herman’s key points is that what can be assimilated from any theorist’s work at any given time is fundamentally dependent on the paradigms in force at the time of reading. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>赫尔曼的一个关键论点是:读者从一个理论家的著述里究竟能够吸取什么，归根结底取决于阅读时占主导地位的理论范式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His history thus twists back on itself, as he demonstrates how ‘‘old’’ theoretical works in ‘‘new’’ contexts take on new resonances.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样，他的回顾史又反照自身，展示出“旧”理论著述如何在“新”语境中发出新的回声。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In “Histories of Narrative Theory (II): From Structuralism to the Present,’’ Monika Fludernik likewise resists a linear chronology in which gradual developments contribute to an ever-more complete critical arsenal. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在《叙事理论的历史（下）：从结构主义到现在》一文中，莫妮卡·弗卢德尼克同样没有直线回溯，简单勾勒该领域如何逐渐发展成日臻完善的批评理论宝库。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Rather, Fludernik self-reflexively applies narrative theory to the history of narrative theory itself, setting out two competing ‘‘plots.’’ </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>弗卢德尼克具有较强的自我意识，将叙事理论运用于叙事理论史本身，展示出两种互为竞争的理论发展“情节”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She then follows the second of these to show how narrative theory has spread out in widening branches. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她沿着第二种情节的轨道走，描写了叙事理论如何不断向外拓展。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Specifically, she moves from formalist study to pragmatics (including issues of gender and politics) on to the study of media and of the narrative turn in a variety of social sciences, coming finally to issues of linguistics and cognition. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>具体而言，她从形式主义研究走向语用学（包括性别和政治问题），再走向媒介研究和各社会科学领域的叙事转向，最后走向语言学和认知问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Her essay dexterously ends with both a return to its opening and a possible glimpse of the future.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这篇论文的结尾巧妙地照应了开头，且展望了未来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The prologue ends with Brian McHale’s ‘‘Ghosts and Monsters: On the (Im)Possibility of Narrating the History of Narrative Theory.’’ </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>序幕中最后一篇论文是布赖恩·麦克黑尔的《鬼魂和妖怪：论讲述叙事理论史的可能性与不可能性》。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Here McHale questions the work of Herman and Fludernik by using the insights of narrative theory to question the task we assigned to them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>麦克黑尔采用叙事理论的洞见对赫尔曼和弗卢德尼克的论文加以了质疑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Specifically, McHale defines two different kinds of history — what he calls “history of ideas’’ and “institutional history’’ — and argues that the friction between them makes a true history of narrative theory an impossibility. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>具体而言，麦克黑尔界定了两种不同的历史，称其中一种为“思想史”，另一种为“体制史”。他认为这两者之间的冲突使我们无法真正写出叙事理论的历史。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In even more provocative terms, McHale suggests that there is an irreconcilable opposition between narrative theory that privileges ‘‘structure’’ (the Scylla of classical narratology) and narrative theory that privileges ‘‘history’’ (the Charybdis of narrative turnings). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他还进一步提出，在突出“结构”的叙事理论（斯库拉式的经典叙事学）和突出“历史”的叙事理论（卡律布狄斯式的叙事旋转）之间，存在着不可调和的对立。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Though the necessity of sequence dictates that McHale’s essay be last in the prologue, that does not mean that you should take his word as final. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然根据排序原则，只能让麦克黑尔的论文在序幕中最后出现，但这并不意味着他的话语是结论性的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Our own position is that the prologue is a provocation that opens up more questions than it settles.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在我们看来，这一序幕激发争论，提出的问题比解决的问题还要多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Part I, ‘‘New Light on Stubborn Problems,’’ looks at some of the disputes that have continued as an undertow in the flow of narrative theory for the past 40 or 50 years — disputes that therefore remain central to its continued movement. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本书第一部分为“顽题新解”，涉及的是过去四五十年间构成叙事理论之潜流的一些争论，这些争论对叙事理论的持续发展有举足轻重的意义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the first essay, “Resurrection of the Implied Author: Why Bother?,’’ Wayne C. Booth — already introduced in Herman’s and Fludernik’s histories — returns to a concept that he first introduced in The Rhetoric of Fiction in 1961: the implied author, the author’s “second self’’ as reflected in a text. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一篇论文题为《隐含作者的复活：为何操这份心？》，出自韦恩·布思之手——赫尔曼和弗卢德尼克的历史回顾都提到了他、。布思探讨的是自己1961年在《小说修辞学》中创造的“隐含作者”这一概念，即文本体现出来的作者的“第二自我”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many subsequent theorists (including several contributors to this volume) have argued that the concept is either useless or redundant; Booth, in contrast, believes that it’s more important than ever. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不少理论家（包括本书的好几位撰稿人）曾提出这一概念无用，或者多余。与此相对照，布思相信这一概念比以往更为重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Starting from a reconsideration of the concerns that led him to develop the idea in the first place, Booth goes on to show how the concept improves our understanding, not only of fiction (for which it was developed), but also of poetry and of the way we present ourselves in our day-to-day interactions.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他首先回顾了导致自己当初提出这一概念的种种原因，然后阐明这--概念如何不仅帮助我们理解小说（当初的研究对象），而且帮助我们理解诗歌，以及日常交流中表达自我的方式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The next two essays deal, in different ways, with another key narratological term introduced by Booth in The Rhetoric of Fiction: the “unreliable narrator.’’</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>下面两篇论文以不同方式探讨了布思在《小说修辞学》中提出的另一个叙事学的关键术语不可靠的叙述者”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> The first is by Ansgar Niinning, one of the critics dissatisfied with Booth’s concept of the implied author. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一篇论文出自安斯加·纽宁之手，他是对布思的“隐含作者”感到不满的批评家之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In “Reconceptualizing Unreliable Narration: Synthesizing Cognitive and Rhetorical Approaches,’’ Niinning uses that dissatisfaction as an entry into a detailed account of the battles that have erupted over unreliable narration, with particular attention to the question of how readers in fact recognize unreliability when they come across it in the text. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这篇题为《重构“不可靠叙述”概念:认知方法与修辞方法的综合》的论文中，纽宁从那种不满人手,详细探讨了就“不可靠叙述”展开的各种论战，尤为关注读者如何在文中识别叙述者的不可靠性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He argues that unreliability cannot be defined simply in terms of the text’s ‘‘structural or semantic’’ aspects; it also involves the ‘‘conceptual frameworks’’ brought to the text by its readers. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>纽宁认为不能仅仅通过文本的“结构或语义”来界定不可靠性，还需要考虑读者的“概念框架”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More generally, he contends that an adequate model of unreliability needs to combine the latest insights offered by the apparently divergent arguments of rhetorical and cognitive narrative theorists. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在更广的意义上，他提出：关于不可靠性的概念模式成该综合吸纳修辞理论家和认知理论家的洞见，尽管两者看上去相去甚远。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He ends his essay, provocatively, with a series of six questions that remain to be answered.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他最后具有挑战性地提出了六个有待回答的问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If Niinning hopes to reduce the difficulties involved in accounting for unreliable narration by developing a new synthetic theory, Tamar Yacobi (‘‘Authorial Rhetoric, Narratorial (Un)Reliability, Divergent Readings: Tolstoy’s Kreutzer Sonata’’) offers a somewhat different perspective on the same terrain by moving up to the next level of generality. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>纽宁希望通过提出新的综合性理论，来减低解释“不可靠叙述”的难度，而塔玛·雅克比在下一篇论文中则采取了一种不同的角度，涉及面也更为宽泛。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yacobi argues that unreliability is best understood as a ‘‘reading-hypothesis’’ that allows readers to resolve apparent textual contradictions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>雅克比认为最好将“不可靠性”视为一种“阅读假设”，这种假设帮助读者解决显而易见的文本矛盾。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>She makes her case by looking at the wide disparities that separate different readings of Tolstoy’s novella. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了说明问题，她考察了读者对托尔斯泰（Tolstoy）《克莱采奏鸣曲》的各种不同阐释。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>After grouping these disparate readings into a few sets with common features, she goes on to show how all these groups are in turn generated by the operation of a small number of shared integrative mechanisms that readers use to deal with incongruities that arise when processing a text.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>她根据一些共有的特征对这些五花八门的解读加以分类，并进一步说明：这些类别源于读者共享的一些协调整合机制，读者通过这些机制来处理阅读过程中的不和谐因素。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The essays by J. Hillis Miller and Dan Shen take up a different complex of problems that have long puzzled narrative theorists, problems that often show up in terms of the relation of form to content or style to meaning — or form to substance, as Miller puts it in his close reading of Henry James’s The Awkward Age (‘‘Henry James and ‘Focalization,’ or Why James Loves Gyp’’). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来的两篇论文出自希利斯·米勒和申丹之手，探讨的是另外一种长期令叙事理论家困惑不解的问题。这些问题涉及形式与内容、文体与意思的关系，或用米勒的话来说，涉及形式与实质的关系。米勒对亨利·詹姆斯的《未成熟的少年时代》进行了细读。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although many narratologists have argued that the purpose of theory is not to produce new readings, Miller insists that narratological distinctions are only valuable if they serve interpretation — indeed, more radically in an age that often seems to resist judging interpretations, that they “are useful only if they lead to better readings or to better teachings of literary works.’’ </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管很多叙事学家提出理论并非以产生新的解读为目的，但米勒坚持认为叙事学的区分只有服务于作品阐释，才会有价值。当今学界往往抵制对阐释的评判，米勒则进一步提出叙事学的模式；“只有帮助更好地理解或讲授文学作品，才会真正有价值”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A good reading for Miller, though, is not necessarily a simple or a stable one: it can well end in a whirlpool of its own. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>诚然，对米勒而言，一种精彩的阐释并不一定是简单或者稳定的，而是有可能最终形成一个漩涡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His patient, theoretically sophisticated analysis demonstrates how, in this formally anomalous narrative (anomalous, at least, within the James canon), James succeeds in breaking down the distinction between substance and form and how the “right reading’’ of the text turns out to be one that reaches ‘‘undecidability’’ as its conclusion.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>米勒通过耐心细致且有理论深度的分析，说明詹姆斯在这一形式反常（至少相对于詹姆斯一贯的创作风格来说是如此）的作品中，如何成功地打破了实质与形式之分，而米勒做出的“正确解读”最终是以意义的“难以确定”为结论的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Shen, in ‘‘What Narratology and Stylistics Can Do for One Another,’’ starts by looking at a familiar assumption: there is a rough equivalence between the story/ discourse distinction central to narratological thinking (the distinction between ‘‘what’’ is told and ‘‘how’’ it is told) and the content/style distinction (what is expressed and how it is expressed) central to much stylistic thinking. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在《叙述学和文体学能相互做什么？》一文中，申丹首先审视了学界一种常见的看法。叙述学的核心问题是故事与话语的区分（说了“什么’’和“如何”说的），文体学的核心问题则往往是内容与文体的区分（“表达了什么”和“如何表达的”），通常认为这两种区分大致对应。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Using a brief interchapter from Ernest Hemingway’s In Our Time as her case in point, she goes on to show that the similarities are only superficial — and that a full understanding of style in narrative requires an interdisciplinary approach that synthesizes the insights of both narratology and stylistics.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>申丹以海明威《在我们的时代里》的一个短篇插章为例，揭示了这两种区分之间的相似仅限于表面，若要充分理解叙事作品的表达风格，实际上需要跨学科，综合采纳叙述学和文体学之长，对作品展开分析。</seg></tuv>
+</tu>
+</body>
+</tmx>

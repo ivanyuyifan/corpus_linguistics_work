@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160827T014822Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Star</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明星</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the world started to end, you were ashamed of yourself for weeping bitterly in your bedroom for an entire day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当世界开始灭亡时，你为自己在卧室里痛哭了一整天而感到羞愧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You saw the president crying and begging on TV and it sent you into a panic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看到总统在电视上声泪俱下地哀求，这使你陷入恐慌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You lay in bed with the blankets pulled up to your nose, crying, refusing to answer the door when the maid, your manager, your assistant, and finally your parents begged you to come out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你躺在床上，把毯子一直拉到鼻子上，哭着，在女佣、你的经纪人、你的助理、最后是你的父母请求你出来时，拒绝去开门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After twenty-four hours, your father took the door off its hinges and dragged you down the stairs into your sunken living room with the white carpet and leather couches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十四个小时后，你父亲把门从铰链上卸下来，把你拖下楼梯到你那有白色地毯和皮制沙发的下沉式起居室里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You kicked and screamed until he had to pick you up and carry you over his shoulder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你又是踢又是叫，直到他不得不抓住你，把你扛在他肩上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You called him a motherfucker and threatened to take back the Mercedes you'd purchased for him last Christmas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你骂他混蛋，威胁说要收回去年圣诞节你买给他的梅赛德斯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother sat solemnly on the couch, her hands clenched into fists on top of the newspaper in her lap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲神情严肃地坐在沙发上，她的手在她腿上的报纸上紧紧地握成拳头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said it was all over.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说一切都结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You glowered and glared; you asked what the hell is happening, and will you still be on the talk show circuit next month?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你恼怒地瞪着眼睛；你问到底出了什么事，你下个月还会上脱口秀节目吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The television stations are all color bars and static. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电视台都是彩色条纹，静止不动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father says that the talk shows are all gone, and not to worry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你父亲说，脱口秀都没了，不用担心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tells you that there are far more important things happening right now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉你，目前正在发生更为重大的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can you not worry? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你怎么能不担心？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You were supposed to debut your new fragrance next month to coincide with the release of your latest album.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你下个月应该首次推出你的新香水，来配合你最新专辑的发行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother tells you that the album isn't going to happen, and she clenches her fists even tighter than before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲告诉你，专辑不会出了，她比之前更紧地握紧了拳头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can't believe what she's saying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你无法相信她说的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can she say that? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她怎么能那么说？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There will always be an album, and there will always be television. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总会有一张专辑的，总会有电视的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You tell your parents they're idiots, and that this will all blo</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你告诉你的父母，他们是白痴，而且几天之后他们一换掉那个软弱无能的总统这一切都将平息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother says that the world is ending. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲说世界正在灭亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They dropped bombs, she says darkly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们投下炸弹，她阴郁地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are diseases and radiation poisoning spreading all over the country, your father says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有在全国各地蔓延的疾病和辐射毒害，你父亲说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not in LA you shout defiantly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不在洛杉矶，你抗拒地大喊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your mother holds up the newspapers one at a time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你母亲一份一份地举起报纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>WAR is on the cover of each one, along with speculations on the doomed fate of the country, including LA. You feel sick, you're dizzy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争在每一份的封面上，连同对这个国家，包括洛杉矶，注定命运的推测。你觉得不舒服，你感到眩晕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You want to know what you did to deserve this, and how anyone could possibly do such a thing before you had a chance to accomplish the things that mean so much to you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你想知道你做了什么要受这样的惩罚，在你有一个机会完成对你意义如此重大的事情之前，无论是谁怎么可能做这样的一件事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two days later, your mother and father are discussing survival, and filling jugs with water from the tap just in case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两天后，你母亲和父亲在讨论生存问题，从水龙头上接水装满罐子以防万一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father is worried about the electricity holding out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你父亲担心电力供应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You sit in the living room wondering why all the servants quit the day before, and if your assistant is ever going to call you back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你坐在起居室里，想弄明白为什么所有的佣人在前一天全都辞职了，还有你的助理究竟会不会回你的电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only connection to the outside world is the radio, and it's hard to get real information between the crying and praying on almost every channel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与外面世界的唯一联系是收音机，几乎在每一个频道上，都难以从哭叫和祈祷之间获得真实的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the pop station, the dj says over and over that it's only a matter of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在流行音乐电台，节目主持人一遍又一遍地说，这只是一个时间问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father tells you to switch to the AM band because they have more sense on AM, goddammit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你父亲叫你转到AM波段，因为在AM上他们更有头脑，该死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You hear reports of death and destruction all over the country, and all you can think is that you hope LA is okay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你听到遍布全国各地的死亡和毁灭的报导，所有你能想到的就是希望洛杉矶没事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even after reports of people dead in their cars, you imagine Rodeo Drive the same as it ever was, untouched by nasty things like war, sickness and death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使在有关人们死在他们的车里的报导之后，你还幻想罗德奥大道（Rodeo Drive）和以往一样，没有受到如战争、疾病和死亡之类的讨厌事的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could a place a beautiful as Hollywood ever be destroyed? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个如好莱坞般美丽的地方怎么可能被毁坏呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one messes with LA, you say, and your father won't look you in the eye.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没人弄糟洛杉矶，你说，你父亲不愿看你的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the electricity goes out that night, your eyes fill with frustrated tears, and you light the scented candles you'd been saving for a special occasion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当那天晚上电停了的时候，你的眼里盈满了心灰意冷的泪，你点燃了你为一个特殊场合而一直保存的那些香味蜡烛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The radio runs on batteries, but they won't last long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收音机要用电池，但电池维持不了很久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father tells you to conserve them, and stop leaving the radio on so much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你父亲叫你节约电池，不要这么长时间地开着收音机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You tell him to shut up, and that you can afford thousands of batteries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你叫他闭嘴，说你能买得起几千只电池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man on the radio says that much of the east coast is destroyed, along with Detroit and Chicago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收音机上的男人说，东海岸的很多地方遭到破坏，连同底特律和芝加哥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says that the radiation is coming west at an alarming rate, and you wish you had a map so you'd know what that meant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说辐射正以惊人的速度向西而来，你希望你有一张地图，这样你就能明白那是什么意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead of worrying, you get out that limited edition pink nail polish and give yourself a pedicure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你没有担忧，反而拿出那瓶限量版粉色指甲油，修起了趾甲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It isn't until you spill the bottle, and nail polish gets all over the carpet that you realize you can't stop crying.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到你把瓶子洒了，指甲油弄得地毯上到处都是，你才意识到你止不住哭泣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning, your dad tells you that your mother is very sick, and he doesn't feel so well himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早上，你爸爸告诉你，你母亲病得很厉害，他自己也感觉不怎么好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You roll your eyes and tell them to take some pepto, but on the inside, you can't deal with the possibility of them dying and leaving you alone, so you go back to your room and sit in front of the window. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你翻了翻眼睛，叫他们吃些止泻药，但内心里，你应对不了可能发生他们死去留下你一个人的事，所以你回到自己的房间，坐在窗前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your yard looks the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的院子看起来还是一样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no death and destruction on your property, but you wonder what's changed outside of your front gates.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在你的地盘上没有死亡和毁灭，但你想知道你的大门外有什么变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the afternoon, you bring your four gold records and three Grammy awards up to your room so you can look at them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下午，你把你的四张金唱片和三座格莱美奖杯拿到你的房间，这样你就可以看着它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your finger traces your name on the awards over and over, and you can't comprehend how someone who has accomplished so much in such a short time should be allowed to go through something as horrible as this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的手指一次次地描摹你在奖杯上的名字，你无法理解怎么能容许一个在这么短的时间里取得这么多成功的人经受如此可怕的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're a star, for God's sake, you deserve better than this.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是一个明星，看在上帝的份上，你应得到比这更好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father is calling your name in the hall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你父亲在客厅里叫你的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sounds sick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他听起来是病了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His voice breaks repeatedly, and he's gagging between words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的声音多次中断，他在说话中间作呕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You don't want him to throw up on the carpet in the hall, but you keep your mouth shut. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不希望他呕吐在客厅的地毯上，但你闭上了嘴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he does, the cleaning woman will take care of it tomorrow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他呕吐了，做清洁的女人明天会处理的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You pull the blankets up to your chin and close your eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你把毯子拉到下巴颏，闭上了眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your father's voice sounds farther and farther away now as you clutch the Grammy close to your chest and squeeze your eyes shut.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在你把格莱美紧紧地搂在怀里并使劲地闭上眼睛时，你父亲的声音听起来越来越远了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomorrow you'll wake up and things will be better. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明天你将醒来，事情会更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomorrow you'll be on the Tonight Show, and be as charming as ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明天你将上今夜秀（Tonight Show），一如既往地迷人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomorrow your agent will apologize for not calling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明天你的代理人会为没有打电话来而道歉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tomorrow you'll still be a star.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明天你将还是一个明星。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

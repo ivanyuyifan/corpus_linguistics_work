@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160901T131609Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gradation</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>渐变</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just a mile outside the city limits of Council, Oklahoma, a man in dirty jeans and a soiled gray sweatshirt stood above Interstate 40 on the Route 81 overpass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在俄克拉荷马城（Oklahoma）市政区域以外一英里处，一个男人身着污秽的牛仔裤和变脏的灰色运动衫站在40号州际公路上方的81号干线立交桥上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was an early November morning, the sun just becoming visible in the East, and he rubbed his hands together in an attempt to alleviate the chill in his bones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是十一月初的一个早晨，太阳刚刚在东方露出头，他搓着双手，试图减轻彻骨的寒意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eighteen wheelers were starting to fly by in both directions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十八轮的大卡车开始朝两个方向飞驰而过 。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trucks headed east went on into Oklahoma City, from there who knows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向东的卡车继续驶向俄克拉荷马城，从那里再往后，谁知道呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They could meet up with I-35 and travel south to Dallas or Houston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们可能遇到35号州际公路，然后向南驶向达拉斯（Dallas）或休斯顿（Houston）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>North to Kansas City, Omaha or maybe all the way to the Twin Cities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向北去堪萨斯城（Kansas City）、奥马哈（Omaha）或者可能一路到双子城（Twin Cities）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Possibly keep driving east over to Memphis or Nashville. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有可能继续向东驶向孟菲斯（Memphis）或纳什维尔（Nashville）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Might take I-44 and go straight on to St. Louis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能走44号州际公路，然后一直驶向圣路易斯（St. Louis）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Be there by mid-afternoon.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下午三点钟左右之前就到了那里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He decided he'd follow the westbound road. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他决定沿着向西行的路走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There just seemed to be fewer options that way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只是这个方向的选择好像较少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trucks heading west had to go all the way to Amarillo for a decent stop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向西的卡车要一直到阿马里洛（Amarillo）才可以象样地停下休息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd gone that far west with his family once. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾经和家人去过那么远的西部地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was years before at the age of thirteen when an uncle was married in Dumas, Texas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是好几年前在他十三岁的时候，那时一个叔叔在德州杜马斯（Dumas, Texas）结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That had been nice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是美好愉快的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He remembered how when they reached Amarillo they went north up into the panhandle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他记得当他们到达阿马里洛时他们如何北上进入锅柄状狭长地带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even though there weren't any mountains, he could still feel them climbing into higher altitude, but when they rolled into Dumas it was just as flat as western Oklahoma. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使没有什么山，他仍然能感觉到他们正向更高的高度攀升，但是当他们驶进杜马斯，那里就像西俄克拉荷马一样平坦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"High plains," his father said from the front seat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“高地平原，”他父亲在前排座位说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He hadn't thought of there being a higher kind of flat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从未想过有一种更高的平地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Walking with his head down along the interstate, his heartbeat rose whenever he caught sight of a plastic bottle, only to be let down when it didn't contain urine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他低着头沿着州际公路走，每当看到一个塑料瓶他就心跳加速，只是如果里面没有尿的话就又降下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew truck drivers used meth to stay awake on cross country drives. Knew that many of them would rather piss in a bottle and throw it out the window than lose fifteen minutes with a truck stop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道卡车司机在长途行车中使用冰毒来保持清醒，知道他们中很多人宁愿尿在瓶子里扔出窗外也不愿在载货车停车场浪费十五分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recycled meth wasn't as pure a dose, but a batch of good urine still got him five hours once.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>循环使用的冰毒不如纯的剂量，但是曾经一泡好尿仍然使他兴奋了五个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He found himself picking at the scab on his left hand as he continued walking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他继续走时，他发现自己在抓左手上的疮痂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A nervous tic that had gotten out of control. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一种失去控制的神经性抽搐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shoved his hands into his pockets, but kept thinking about the sores on his body, causing him to bring a hand up to his face and run it over the rough patches on his forehead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把手猛力塞进口袋，但是不断地想起他身上的痛处，使得他抬起一只手到脸上，摸摸额头上粗糙的胶布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wondered what he looked like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不知道自己是什么样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Probably homeless, and at that point, he supposed he kind of was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能是无家可归吧，而在这一点上，他认为自己有几分是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His girlfriend left the week before, less than a day after they shut off the electricity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的女朋友一个星期前离开了，在他们切断电源后不到一天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shut the water off a few days after that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那之后几天又断了水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had gone to stay with her folks in Hobart, which had its conditions. One, that she couldn't see him anymore ¨C her parents never had liked the fact she was eight years younger than him. And two, that her father the cop would administer a drug test every two weeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她去和她在霍巴特（Hobart）的家人待在一起，这是有条件的，一是，她不能再见他，她父母从未喜欢过她比他小八岁的这个事实；二是，她父亲、那个警察将每两个星期执行一次毒品测验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a fool. So were her parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是个傻瓜，她父母也是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knew it would end badly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他知道结果会很糟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With his headache becoming more acute, he contemplated crossing the interstate to search the other side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着他的头痛变得更加剧烈，他打算穿过州际公路去搜寻另一边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He thought about the dynamics of driving- how the driver was on the left side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想起司机在左边的驾驶方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would they really lean across the passenger seat to toss out a bottle of piss? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们真的会将身体探过副驾驶位扔出一瓶尿吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stretch of grass separating eastbound and westbound was more likely.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔开向东方向和向西方向的那片草地更有可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was wondering if a highway patrolman would stop him for walking in the median when he caught sight of a plastic bottle lying in the grass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他正琢磨着公路巡警会不会阻止他在中间地带走，这时他看到一个塑料瓶躺在草丛中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unmistakable golden color was nearly concealed by the lifeless grass surrounding it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那不会弄错的金黄色几乎被它周围没有生气的草隐藏起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He slid down to his knees and picked up the bottle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他慢慢跪下，捡起那个瓶子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't warm. He wondered if that mattered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它不暖，他不知道这有没有关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With thoughts of separation and reconstitution he shook the bottle up like juice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想着分离和再造，他像摇果汁一样摇晃那个瓶子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He twisted the cap off and brought the bottle to his nose, wishing there was some way to know if it contained meth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把盖子拧下来，把瓶子拿到鼻子边上，希望有某种方法分辨出它是否含有冰毒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't think there was.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想没有。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

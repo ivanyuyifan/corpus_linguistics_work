@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083609Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My Rear Window</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后窗</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About ten years ago, I found a roll of undeveloped film in my closet, tucked away in a box crammed with ephemeral youth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约十年前，我在橱子里找到一卷未冲洗的胶卷底片，它随意散落在一个盒子里，那盒子里填塞着我短暂的青春。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yearbooks from high school. A Rough Rider patch from Teton Valley Ranch Camp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高中时代的年鉴，来自提顿山谷牧场营地的“狂暴骑士”遗物碎片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Letters from friends I barely remembered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几乎被我遗忘的友人来信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This roll of film was no regular roll of film; it was a cartridge from a Kodak disk camera that was briefly popular in the nineteen-eighties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不是一卷普通的胶片，它来自一台二十世纪八十年代风靡一时的柯达胶片相机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was incredibly thin thanks to the groundbreaking innovation of the internal-disk film, its only problem being the poor quality of its prints, hence its short life span. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得益于当时内置胶片这一突破性的技术创新，它显得出奇薄便，唯一的问题在于用它打印出来的照片画质不佳，因而不久便遭淘汰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a teen-ager, I loved my disk camera, and took it everywhere via my back pocket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我还是一个青少年，因为喜爱，所以无论到哪儿我都把相机装在后衣兜里随身携带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seemed like something from the future, an indication of a streamlined world, and it thrilled me in the way that moving walkways in airports thrilled me, still thrill me to this day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它就像来自未来的物件，是现代世界的象征，它带给我的震撼不亚于机场的自动步行道。而时至今日这台相机依然令我欣喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And here, twenty years later, was that future, however defunct, in the palm of my hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>眼下，二十年过去了，当年期许的未来就在我的手上，然而一切已物是人非。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What did it contain? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它里面有什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What kind of past spun on that magic wheel?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有怎样的过往缠绕在那神奇的胶轴上？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have always been drawn to photography, fine art or otherwise, though I am not much of a photographer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我被摄影和美术这类事物吸引，但是我算不上什么摄像师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I appreciate its egalitarian nature, its reproducible quality, its shooing of absolute expertise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我欣赏摄影主张平等的本性，可以不断衍生的特质以及无需十分专业的易操作性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all take photographs, now more than ever, documenting our lives and sharing them on social networks with the studied eye of a curator. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都在拍照，时下比以往更甚，借拍照记录我们的生活，并发布到社交网络上和他人分享。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is me eating a cronut. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看，我在吃羊角面包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is me meeting the Pope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瞧，我见到了罗马教皇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is me soaked after a rainstorm. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这张是我被暴风雨淋透了的囧照。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are living in the viral age of the photograph, of the image taking over for the self. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们生活在照片铺天盖地、疯狂蔓延的年代，这个年代，影像取代了我们自身的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Roland Barthes said, and I use this quote only to sound smart, "The photograph is the advent of myself as other: a cunning dissociation of consciousness from identity." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如罗兰·巴斯所言，引用他的话是想使我的论述更明智，“照片是自我被他人取代的发端：一种巧妙的从同一性中的意识分解。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Facebook and Instagram are our front windows, the person we want the world to see. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Facebook和Instagram是我们的前窗，那里的我们是我们自己想让世界看到的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But every photograph has a built-in narrative, a readable subtext, a rear window in which the viewer participates, often at odds with the presenter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是每张照片都有一行潜在的说明文字，一个易于解读的画外音，一个供浏览者参与其中的后窗，然而这些通常与拍摄者的初衷相违。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I post a picture of me eating a cronut, no matter my attempts at directing the response by way of a hashtag, you think-well, I don't know what you think. What an asshole, probably. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如我上传一张吃羊角面包的照片，不论我怎样试图通过给照片添加主题标签以左右观众的回复，你都会认为—好吧，我承认我不知道你会作何感想，或许你会想“简直就是个傻货”也未可知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We read ourselves in others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们通过他人来认识自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Always have. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这点向来如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We project. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们策划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We fill in the blanks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们填空。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We dictate the story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们支配故事情节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And what is the story we want, the story we need? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们想要什么故事？需要什么故事？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every photograph is both a film still and a self-portrait, as Cindy Sherman has shown us, and often desire is at its heart.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每张照片不仅是一部静态电影也是一幅自画像，就像辛迪·谢尔曼呈现给我们的，欲望是它的实质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was cleaning my closet because back then I was cleaning everything, and yet my life was still a mess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我清理橱子那会儿也在清理其他的一切，尽管如此，我的生活仍然乱作一团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reason for this cleaning and this mess: I was writing a novel, a first novel, after publishing a book of short stories, and said novel was not going well. I had already missed two deadlines and had no hope of making the third. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之所以会有大扫除和烂摊子是因为那时我在发表了一本短篇小说集后开始写作我的第一部小说，不过那部小说的创作并不顺利，以至于我两次推迟交稿期，不可能再延迟下去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the book was so late, I decided that the writing had to be perfect, not just the language, the metaphor, the simile, the dialogue, and the character development but the way the words looked on the page. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反正这本书的进度已经太迟了，我决计务必把它写得尽善尽美，不光是语言，隐喻，明喻，对话，情节发展乃至字体在书页上的观感都要力求完美。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started to notice the line breaks of the right margin and its row of crooked teeth, and decided that they needed to be as straight and as even as a movie star's smile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始注意页面右侧留白的行间距以及那参差不齐的边齿，并决定让它们一定要像电影明星微笑的唇线一样平直。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was no longer a writer but an orthodontist; word choices became cosmetic, punctuation like a tightening of wires. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候我不再是一个作家而成了一名牙齿矫形师；行文措词变成了装饰整形，标点符号就像在固定牙线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I discovered the Justify Text tab on my old Powerbook 160. Yay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我在我的老旧笔记本电脑上发现了调整文本的控键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this only briefly solved the problem, for I soon noticed the extended gaps between words, the spaces that needed filling, and I was back in the dentist's chair, pushing and pulling and adjusting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这并不能解决根本问题，因为我很快就注意到了词语之间过大的间距以及需要填充的空当，于是我坐回到牙医的位置又是一番拉拔调整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was no way to write a novel, so instead I cleaned my apartment and asked myself, again and again, Why did I want to be a writer?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这样可写不成小说，于是我暂且搁笔转而清理寓所并不断地问自己，当初为何要当一名作家？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I grew up on Seventy-third Street and Lexington Avenue, the mean streets of the Upper East Side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我生长在位于上东区主路的73号街和莱克星顿大道地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents' apartment was on the ninth floor and had views, west and north, of the neighboring buildings, the windows like a contact sheet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父母的公寓在第九层，从那能看到西侧和北侧的临近建筑。窗户就像一页联系表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My room was the smallest, perhaps appropriate since I was the youngest, and my one small window looked out onto the interior airshaft, a square of deep, dark space never penetrated by the sun, a sort of prisoner's vantage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的房间是最小的，这倒也恰如其分，因为我是家中最小的孩子。我唯一的小窗只能看到楼内的通风井，幽深阴暗的一隅，阳光永远无法照射进来。这种条件对于囚徒而言算得上不错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whatever noise dropped into that pit echoed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但凡嘈杂之音掉落到那个深井里都会发出回响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My memory of bedroom sound is of babies crying and of Spanish music from the transistor radios of housekeepers and of pigeons, hundreds of pigeons who roosted overnight: the cooing, the almost plastic snap of wings, and, on occasion, if startled, the grey explosion from below to the blue sky fifteen floors above, a mushroom cloud in the form of rock dove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于卧室声音的记忆源于婴孩的啼哭，各家各户半导体收音机里传来的西班牙音乐，还有那群鸽子，数百只鸽子在夜里休憩时发出的咕咕声，它们拍打翅膀发出的类似塑料断裂的声响，间或，鸽群受惊，一哄而散爆发出沉闷的轰鸣从下而上直飞入十五层楼以上的碧霄，绽放出一朵由原鸽构成的蘑菇云。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was, in its way, thrilling, and sometimes, when bored, I would drop something from my window, something that might light the fuse and ignite this thermonuclear pigeon bomb. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那场面实在令人震撼。有时无聊，我就从窗口往下扔东西，扔下的东西足以引燃导线引爆“原鸽核弹”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were always dropping things from windows back then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候我们经常往窗外扔东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seemed our inalienable right of living so high above ground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这似乎成了我们居高临下所拥有的不可让与的权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Paper airplanes, of course, and paper helicopters that would slowly spiral down and make us question the certainty of gravity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>扔的最多的当然是纸飞机，还有纸制的直升机，直升机慢慢地螺旋下落，让我们怀疑到底有没有重力这回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were the green army men with homemade Kleenex parachutes, their descent doomed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们还把绿色的塑料士兵绑在用面巾纸制成的降落伞上往下扔，他们此去注定在劫难逃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Super balls, often with a kid on the fourth floor gauging the return bounce. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>扔弹力球时四楼的一个孩子会测量它弹起的高度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fruit. We were Letterman before Letterman was Letterman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水果也是我们往下扔的物品之一，那时候我们就是莱特曼，而真正的莱特曼尚未成名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But our favorite projectile was the "soggy," its technology quite basic: toilet paper soaked in the bathroom sink and fashioned into a grenade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过我们最喜欢投掷的当属“湿弹”，它的技术原理非常简单，把卫生纸浸在卫生间的水槽里然后做成手榴弹的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made the most satisfying splat on the sidewalk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把“湿弹”扔出去摔在人行道上，那“啪嗒”一声响听起来简直爽极了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We would invite friends over with the express purpose of trying to nail them en route to our awning, and more than once my older brother and his friends would rain Charmin fury upon my unsuspecting head, turning me into papier-m?ch¨¦. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们会特意邀请我们的朋友来玩，当他们途径我们家的天棚时便用“湿弹” 朝他们开炮。不止一次我哥和他的朋友们把Charmin弄得精湿，惹得他怒气冲天，这时他们便把我推出来当挡箭牌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes we got in trouble, but less often than you would think. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我们会惹上麻烦，但也不会太多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways, the window was our back yard.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>窗户就某种意义而言成了为我们提供众多乐趣的游乐场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>New York City is a place of real-estate envy, of coveting thy neighbor's townhouse, of always wishing for another room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在纽约人人都对房地产满怀艳羡，觊觎邻人住宅，总想再多一间屋子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like many of my fellow city dwellers, I have a recurring dream of discovering a hidden door that opens upon a vast network of other rooms, that my apartment is in fact much larger than I realize. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和许多城市居民一样，我经常梦想着发现一扇隐秘的门户，能够洞见许许多多其他的房间，这样一来我的房间实际上就要比我感觉的要大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes it even has a swimming pool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我想它甚至应该有一个游泳池。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those are wonderful dreams, only to be undone by waking up and returning to my limited square footage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些美妙的幻想在梦醒时分发现自己重新置身狭小的房间时支离破碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My only other recurring dream is of being nude in public, of being exposed for all to see, often, for some reason, at a grocery store. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的另一个往萦绕心头的梦想是赤身露体地暴露在公众的视线里，因为某种原因我希望那个场景在一家杂货店上演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There I am, nude man, trying to pick the perfect peach. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我，一个一丝不挂的人，在那里挑选上好的桃子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is both natural and unnatural, and I seem to be the only one who cares about my lack of clothes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这听上去既自然又反常，似乎只有我在意自己缺衣少穿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone has had this dream. Sometimes I think the story of Adam and Eve is a direct response to this ancient anxiety, that the sin of man is not the desire for God-like knowledge but rather our secret, unknowable all-too-human shame.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都曾有过这样的念想，有时我认为亚当和夏娃的故事就是对这个由来已久的焦虑直截了当的回应，人类的罪过不在于妄图获得足以与神匹敌的智慧而在于我们的秘密，那不为人知的纯粹关乎人性的羞耻感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Growing up, my brother had the good room, nice and big and with large windows that looked toward the apartment building across the street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长大后，我哥哥住进了那间好屋子，屋子又漂亮又宽敞还有大大的窗户可以看到街对面的建筑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was envious of this room, four times my own space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很羡慕哥哥拥有的那间大我房间四倍的屋子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was also envious of my brother, with his natural way with friends and his uncomplicated masculinity, his ease with violence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也嫉妒哥哥他与朋友的自然相处之道，他鲜明的男子气概还有他在面对粗暴时的泰然自若。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even as a boy he was a man. When he was fourteen and I was eleven, we discovered a row of windows on the tenth floor of that building across the street, in particular the bathroom window, where on many a night a woman would shower with the shades open. Being New Yorkers, we were already practiced Peeping Toms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然那时他也不过是个孩子，但是却已经表现出男子汉的气质，他十四岁那年我十一岁。我们在对面楼上的十层发现一排窗户，特别留意到卫生间的窗子，许多个夜晚那个屋里的女人敞着帘子沐浴，作为一个纽约人，我们早已熟谙偷窥的门道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother had a pair of field binoculars that lived on the sill, and we would spy on the neighbors, watch them eating dinner, watch them watching television, which seemed more thrilling than any episode of "Fantasy Island." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我哥的房间窗台上安置着一副野战望远镜，我们用它监视我们的邻居，看他们吃饭，看他们看电视，那简直比《奇幻岛》的任何一集剧情都令人亢奋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some form of nudity was always the unspoken goal, but beyond the unfortunate old man on the twelfth floor that goal had never been realized. Till now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>窥探到某些裸露的画面是我们心照不宣的目标，但是除了看到那个住在十二楼的可怜老人外迄今为止我们一无所获。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was blond, probably in her late twenties, though our eyes were too young to properly determine any age between eighteen and sixty, and attractive, or at least attractive from this magnified yet still postage-stamp view. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她长着一头金发，不到三十岁的样子，但是那时我们太小不能准确分辨人的年龄，而且透过这经过放大但仍然像邮票大小的视窗里十八岁到六十岁的人我们是看不出什么分别的，也分不清对方是否魅力十足抑或姿色平平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother hogged the binoculars, as older brothers do, and on the occasion when I had my brief turn I remember being struck by all that exposed skin, by the casual way she lathered her hair and body, by how the quotidian interacted with the majestic, as though Prell were Latin for "grace," which reminds me of the Prell slogan from that era: "I was flat until I went fluffy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我哥哥像其他当哥的大孩子一样霸占着望远镜，偶尔轮到我浮光掠影地看一眼，印象中我被那裸露的肌肤和女子用泡沫冲洗头发和身体的样子惊呆了，我为世俗和伟大的相生相伴感到震撼，就像“普雷尔”在拉丁语中是“优雅”的意思，这让我想起当年普雷尔洗发水的广告语来：用前姿色平平，用后国色天香。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, in that bedroom, ladies and gentlemen, I went fluffy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，女士们，先生们，我承认在那间卧室里我飘飘然了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was thirteen, I snuck into my parents' room and slipped under their massive king-sized bed a tape recorder armed with a TDK-180 cassette, meaning that I could capture ninety minutes on a single side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十三岁时，我偷偷溜进我父母的卧室钻到他们超大号的床下安置了一台装有TDK-180卡带的录音机，这意味着每面磁带可以录制就十分钟的录音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I pushed record. I knew they were going to bed shortly, and I wanted to eavesdrop on the mystery of their pillow talk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我按下录音键，我知道他们很快就要睡觉了，我想窃听他们枕边话的秘密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My brother was away at boarding school, my sister at college; it was just me and them in that apartment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时我哥哥离家去上寄宿学校，姐姐上了大学，公寓里只有我和父母一起居住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A year earlier, I had stood in front of my parents in all earnestness and told them that I wanted to be a writer. It was almost like a confession. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一年前我郑重其事地站在父母面前告诉他们我想成为一名作家，那场面简直就像在招供一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember my father lowering the tumbler of Scotch from his lips, a Scotch I had lovingly poured for him, and telling me that I didn't know enough words to be writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得父亲把我亲手给他斟满的威士忌玻璃杯从唇边放下，对我说要想成为一名作家我知道的词汇还远远不够。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was right. I was a sixth-grade dyslexic; words were not my forte, they were my downfall, and I could hardly read a paragraph without bursting into frustrated tears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说的没错，我患有六级诵读障碍症，文字不是我的强项它们是我的灾难。我每次阅读时没有一次不是因为句不成篇而沮丧落泪的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there was something about telling a story that I found liberating within the otherwise smothering universe of spelling and grammar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在没完没了的令人窒息的拼写和语法练习以外我发现讲故事却能让我释怀自在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother, on the other hand, said, "That's great, dear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与父亲的态度相反我母亲说“很棒啊，亲爱的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You will make a wonderful writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会成为一名优秀作家的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such imagination." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的想象力那么丰富。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father rolled his eyes. He was always rolling his eyes, especially when I made my mother laugh, which was something I did often and easily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲转着眼睛，他总是喜欢转眼睛，尤其是我哄得母亲高兴的时候。我经常让母亲乐而开笑，这对我来说不是说什么难事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Jesus, Gail, you'll laugh at anything he does," was his constant lament. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“老天哪，盖尔，不管他做什么你都会笑。”父亲经常发出这样的感叹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I performed for my mother, while for my father I poured his evening drink or fetched another pack of Marlboro Reds from the stash in the drawer by the kitchen phone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很好地服侍母亲，对于父亲，我每天晚上给他倒好酒或者在厨房电话边的储物柜里偷偷给他再拿一包万宝路香烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To him, I was not a boy but a man in training. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在父亲眼里，我不是个小孩了而是一个接受历练的男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have to say, I was always baffled by their relationship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不得不承认，我时常对父母的关系感到迷惑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother was so full of life, so friendly and accommodating, and my father was, well, not quite the opposite but rather a much tougher nut to crack.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我母亲是那么充满活力又和善可亲，而我父亲虽不至于和母亲的脾性完全相反但毕竟古板强硬许多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They met the summer that "Rear Window" was released-she was fifteen and he was twenty-one-and they were married five years later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们是在电影《后窗》上映的那年夏天认识的—那时她十五岁，他二十一岁—五年后他们结婚了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They rarely argued, but I never spotted much intimacy between them, and was curious about what they said from the solitude of their bed, which was the size of a small studio apartment and did not portend much physical contact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>婚后他们很少争吵，但我也从没见过他们有多么亲密。我好奇他们在床上独处的时候会说些什么，他们的床不大也看不出他们有多少肢体接触。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So cue the tape recorder and perhaps page Dr. Freud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么给录音机下个指令或者应该再翻阅一下佛洛依德的书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know what I expected to overhear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也不清楚我到底想听到什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't looking for sex. No, no, no, no. Or I don't think so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有想过要听到他们做爱的声音，不，不，不，绝没有，不过谁知道呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe I thought they would reveal some secret life they had together, remove their parental masks and expose the real Parker and the real Gail. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许我觉得他们会揭开某些他们生活的秘密，揭去他们作为父母的面具呈现出真实的自我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also think I half-expected them to talk about me, their wonderful youngest child, so clever, so handsome, no doubt a famous writer some day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得我或多或少也希望听到他们谈论我，他们最棒的小儿子，那么聪明，那么英俊，无疑有朝一日他会成为优秀的作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember the next morning, sneaking back into their bedroom and grabbing the tape recorder and rushing into my bathroom, locking the door, the eternity of rewinding that tape, the fear of a snag, or, worse, a break, until finally the jolting click of all done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得次日早上，我溜回父母的卧室拿到录音机后冲回我自己的卫生间锁上门。接着就是冗长的倒带声，仿佛又永远那么久，我担心出现小故障，或者更糟，磁带坏了，直到终于听到所有倒带震动的咔哒声停止。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

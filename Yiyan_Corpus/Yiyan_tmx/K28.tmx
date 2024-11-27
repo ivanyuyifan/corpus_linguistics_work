@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160909T044438Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Young Painters </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年幼的画家</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four or five years after we got married, Your Honor, S. and I were invited to a dinner party at the home of a German dancer, who was then living in New York. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们婚后的第四还是第五的年头，阁下、S君和我应邀去一位时居纽约的德国舞蹈家家里参加晚宴派对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time, S. worked at a theatre where the dancer was performing a solo piece. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，S君在一家剧院里工作，那位舞蹈家曾在那里进行过独舞演出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The apartment was small and filled with the dancer's unusual possessions, things he had been given or had found on the street or during his tireless travels, all arranged with the sense of space, proportion, timing, and grace that made him such a joy to watch onstage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公寓有些小，里面塞满了这位舞者的那些奇奇怪怪的玩意儿—— 都是别人赠送给他，或者他在街上抑或是不知疲倦的旅行途中淘到的物品。这些东西的摆放颇有空间感、比例感和时间感，同时，还给人一种优雅的印象，而这恰恰都是他很乐意能在舞台上看到的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, it was strange and almost frustrating to see the dancer in street clothes and brown house slippers, moving so practically through his apartment, with little or no sign of the tremendous physical talent that lay dormant in him, and I found myself craving some break in this pragmatic facade, a leap or turn, some explosion of his true energy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说实在的，看到这位舞者身着休闲服和棕色拖鞋在他自己的公寓里随意地来回穿梭，有一种怪怪的、几近失望的感觉，因为这样丝毫看不出一点儿，哪怕是半丁点儿他身上所具有的那种惊人的动作天分。突然，我觉得自己想要在这样一个十分强调实用功能的空间里休息一下，想跳一下或扭转一下身子，就像他那样释放一下体内那些实实在在的能量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the same, once I got used to this and began examining his many little collections I had the elated, otherworldly feeling I sometimes get when entering the sphere of another's life, when for a moment changing my banal habits and living like that seems entirely possible, a feeling that always dissolves the next morning, when I wake up to the familiar, unmovable shapes of my own life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管如此，但在我习惯了周围的环境，并且开始仔细审视他收藏的那些小物件时，我有了一种满心欢喜、超脱尘俗的感觉；而有时在我进入到另一个人的生活圈子里，或者当自己那平淡无奇的习惯以及生活状态的改变看起来完全富有可能性时，这种感觉也会到来。然而，当我第二天清晨一睁眼，发现四周还是那熟悉、不可改变的生活原态时，这种感觉又总会消失得无影无踪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At some point I got up from the dinner table to use the bathroom, and in the hall I passed the open door of the dancer's bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不知几点钟的时候，我离开餐桌想去盥洗室。经过走廊时，我注意到这位舞者的卧室门是开着的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The room was spare, with only a bed and a wooden chair and a little altar with candles set up in one corner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房间布置得很简单，只有一张床，一把木制的椅子和一张的小供桌，供桌的一个角上摆了几只蜡烛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a large window facing south, through which lower Manhattan hung suspended in the dark. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一面朝南的窗子很大，透过它，可以看到南边的曼哈顿像被悬挂起来一样吊在一片黑暗之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The walls were blank except for one painting that was tacked up with pins, a vibrant picture out of whose many bright, high-spirited strokes several faces emerged, as if from a bog, now and then topped with a hat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了一副用平头针钉上去的画儿以外，四周的墙壁上都是空空的。在这幅色彩鲜艳的图画里，明丽的色调和欢快的氛围轻抚着一些看似从泥塘里伸出的脸孔。挂画的钉子上偶尔也会放一顶帽子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The faces on the top half of the paper were upside down, as if the painter had turned the page around or circled it on his or her knees while painting, in order to reach more easily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>画作上半部分里那些面孔的方向都是颠倒的，看起来就好像画家在作画时，为了更容易地够得到，双膝着地，把画纸转了个方向或者是扭了一圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a strange piece of work, unlike the style of the other things the dancer had collected, and I studied it for a minute or two before continuing on to the bathroom.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一副与众不同的作品，和这位舞者收藏的其他物品的风格并不相似。我盯着它看了一半分钟后，径直走向了盥洗室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fire in the living room burned down; the night progressed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>客厅里的炉火奄奄一息了，夜色正一步步弥漫开来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end, as we were putting on our coats, I surprised myself by asking the dancer who had made the painting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，在我们就要穿外套离开时，我开口问了舞者那副画的作者是谁——这样的发问连我自己都觉得有些惊讶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told me that his best friend from childhood had done it when he was nine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉我是他九岁时，一个儿时最好的朋友画的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My friend and his older sister, he said, though I think she did most of it. Afterward, they gave it to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，是这个小伙伴和他的姐姐一起画的，但是，那个姐姐画了其中的大半半儿，画好之后就送给了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dancer helped me on with my coat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在舞者的帮助下，我穿上了外套。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You know, that painting has a sad story, he added a moment later, almost as an afterthought.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>片刻之后，他又多说了一句，好像事后才想起一样。他说，关于那副画作，有一断令人伤心的故事。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One afternoon, the mother gave the children sleeping pills in their tea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天下午，这两个孩子的母亲在他们的茶水里放了安眠药片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boy was nine and his sister was eleven. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，那个小男孩9岁，他的姐姐11岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once they were asleep, she carried them to the car and drove out to the forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在这姐弟俩刚刚入睡后，这位母亲就把他们抱上了汽车，然后，驱车开进了一片森林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By this time, it was getting dark. She poured gasoline all over the car and lit a match. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天色越来越晚，她把汽车周围都浇上了汽油，之后，点燃了一支火柴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All three burned to death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们三个就这样被活活烧死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's hard to explain, the dancer said, but I was always jealous of how things were at my friend's house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位舞者说，很难解释清楚为什么那个时候我总是很羡慕这个小伙伴家里所拥有的那些东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That year they kept their Christmas tree up until April. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在那一年，他们家的圣诞树一直存留到4月份。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It turned brown and the needles were dropping off, but many times I nagged my mother about why we couldn't keep our Christmas tree up as long as they did at J?rn's.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然那颗圣诞树变成了棕色的，松针也纷纷掉落下来，但我不止一次地在妈妈面前抱怨为什么自己家的圣诞树不可以像J?rn家的那样保存那么久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the silence that followed this story, which he told in the most straightforward manner, the dancer smiled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这直白的讲述之后，大家陷入了一片沉默。这位舞者微微笑了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may have been because I had my coat on, and the apartment was warm, but suddenly I began to feel lightheaded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能是我已经穿上了外套，加之公寓里比较暖和的缘故吧，我突然感觉一阵晕眩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were many other things I would have liked to ask about the children and his friendship with them, but I was afraid I might faint, and so after another guest had made a joke about the morbid end to the night we thanked the dancer for the meal and said goodbye. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本想再问一些有关那两个孩子以及这位舞者与他们之间友情的情况，但是，我担心自己会昏厥过去。因此，在另一位客人对今晚这样一个略显不适的结束开了个玩笑过后，我们便对舞者为我们准备了饭菜表达了自己的谢意，随即道了别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As we rode down in the elevator I fought to steady myself, but S., who was humming quietly, seemed not to notice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冲入电梯后，我竭力想使自己站稳，而站在一旁的S君却小声地哼着小调儿，全然没有注意到这一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that time, S. and I were thinking of having a child. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个时候，S君和我都在考虑想要一个孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there were always things that we felt we had to work out first in our own lives, together and separately, and time simply passed without bringing any resolution, or a clearer sense of how we might go about being something more than what we were already struggling to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，我们总感到在自己的生活里，有一些事情需要我们放在一起或者单独地先去处理好。时间就这样一天天过去了，既没有得出什么解决方案，也没有任何明显的迹象显示我们如何做可以比自己现在奋力拼搏更出色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And though when I was younger I believed I wanted to have a child, I was not surprised to find myself at thirty-five, and then forty, without one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然年轻的时候，我认为自己是想要一个孩子的，然而，在我35岁、40岁的时候发现自己依然没有一个孩子时，我却感到不足为奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe this seems like ambivalence, Your Honor, and I suppose in part it was, but it was something else, too, a feeling I've always had, despite mounting evidence to the contrary, that there is - that there will always be - more time left for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许，阁下，这看来有些矛盾。我在某种程度上认为事情应该是这样一回事，可是，偏偏却又成了另外一回事。这种感觉时常在我的心里停留，尽管事实显示与此相反，显示无论是现在，还是将来，都有更多的时间在等着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The years went by, my face changed in the mirror, my body was no longer what it had been, but I still found it difficult to believe that the possibility of having my own child could expire without my explicit agreement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>岁月的年轮一圈圈转过，昔日镜中的娇容和曼妙的身姿都已不再，但我始终都难以相信——如果没有坚定的决心，我能够拥有自己孩子的可能会化为泡影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the taxi home that night, I continued to think about that mother and her children: the wheels of the car softly rolling over the pine needles on the forest floor, the engine cut in a clearing, the pale faces of those young painters asleep in the back seat, dirt under their fingernails. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那晚，在坐上回家的出租车里，我一路上都还在想那位母亲和她的两个孩子。汽车轮子在树林中那散落一地的松针上轻轻轧过，车引擎在一片林中空地上停止了运转，还有那熟睡在车后座上的小画家们苍白的面孔，以及留在他们指甲缝里的污垢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could she have done it? I said aloud to S.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她怎么会有这样的举动呢？我大声地对着S君说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not really the question I wanted to ask, but it was as close as I could get just then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实，我并非真的想问这个问题，但是，眼前我只能问出这样的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She lost her mind, he said simply, as if that were the end of it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>S君简单地回答了一句，“因为她失去了理智”—— 好像整个事情就这样结束了一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not long afterward, I wrote a story about the dancer's childhood friend who had died asleep in his mother's car in the German forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久之后，我撰写了一个故事，是关于那位舞者的儿时伙伴——那个熟睡着在德国的一片森林里死在自己母亲汽车上的小男孩的。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't change any of the details; I only imagined more of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有改变其中任何一个细节，只是添加了自己的一部分想象而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The house the children had lived in, the buoyant smell of spring evenings seeping through the windows, the trees in the garden that they had planted themselves all rose up easily before me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那两个孩子居住的房子，弥漫进他们窗子的春天夜晚里那美妙的气息，还有花园里孩子们亲自动手种下的小树，都很容易地就出现在我的眼前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How the children would sing together the songs that their mother had taught them, how she read the Bible to them, how they kept their collection of birds' eggs on the sill, and how the boy would climb into his sister's bed on stormy nights.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还能想象得到，孩子们站在一起吟唱着母亲交给他们的歌谣，母亲给他们吟诵着《圣经》，孩子们把掏来的鸟蛋一起放在窗台上，那个小男孩一到暴风雪交加的夜晚就会爬到姐姐的床上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story was accepted by a prominent magazine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个故事受到了一家知名杂志的好评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't call the dancer before it was published, nor did I send him a copy of the story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在它发表之前，我没有跟那位舞者通过电话，也没有给他寄过故事的小样儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He lived through it, and I made use of it, embellishing it as I saw fit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那位舞者亲身经历了这件事，而我把这件事当做写作的素材，对其润色、加工，直到自己满意为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Viewed in a certain light, that is the kind of work I do, Your Honor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从某种特定的角度来看，阁下，这应该是我的作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I received a copy of the magazine, I did wonder for a moment if the dancer would see it and how it would make him feel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收到那本杂志的小样儿后，我一时在想那位舞者是否会读到这个故事，要是读了的话，他又会做何感想呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I did not spend very long on the thought, basking instead in the pride of seeing my work printed in the magazine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，这样的疑问并没有持续很久，取而代之的是自己的文章能够刊登在那家杂志上所带来的沾沾自喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't run into the dancer for some time after that, nor did I think about what I would say if I did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那次晚餐之后的一段时间里，我再也没有跟那位舞者碰过面，也没有去想一旦见到他了，自己该说些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Furthermore, after the story was published I stopped thinking about the mother and her children who had burned to death in a car, as if by writing about them I had made them disappear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再后来，那个故事公开发表以后，我就不再去想被烧死在汽车里的那位母亲和她的两个孩子，就好似经过我的笔尖之后，他们就消失得无影无踪了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I continued to write. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后，我继续写作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wrote my fourth novel, and then a fifth, which was largely based on my father, who had died the year before. It was a novel that I could not have written while he was alive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相继完成了自己的第四部和第五部小说。第五部小说的素材在很大程度上来源于我那去年逝世的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had he been able to read it, I have little doubt that he would have felt betrayed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倘若父亲还在世的话，我是写不出这部小说的，而且，毋庸置疑，要是父亲读了它的话，一定会感到自己遭到了背叛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toward the end of his life, he lost control of his body and was abandoned by his dignity, something he remained painfully aware of until his final days. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲在世的最后一段时间里，他的躯体已经不受自己的控制了，自尊也被抛到了一旁，而这些，他在痛苦中都清醒地认识到了，直到自己生命终结的前几天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the novel, I chronicled these humiliations in vivid detail, even the time he defecated in his pants and I had to clean him, an incident he found so shameful that for many days afterward he was unable to look me in the eye, and which, it goes without saying, he would have pleaded with me, if he could have brought himself to speak of it, never to mention to anyone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小说里，我用生动的细节描述了一些令父亲生前感到蒙羞的事情。甚至，我还提到了有一次，父亲大便失禁，我不得不为他擦拭身子、清理衣物。这件事令父亲感到很丢脸，以至于事情发生之后的很多天里，他都不能与我对视。不用说，如果父亲有机会再谈到这件事的话，他一定会恳求我绝不要再向任何人提起它了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I did not stop at these torturous, intimate scenes, scenes that, could my father momentarily suspend his sense of shame, he might have acknowledged as reflecting less on him than on the universal plight of growing old and facing one's death.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，在这些折磨人的、很私密的场景面前，我并没有止笔。若是父亲可以暂时不顾及他自己的那份羞耻感的话，他可能会认为这些场景反映的更多的是生命走向衰老以及个体面临死亡的共性困境，而非仅仅是他个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> I did not stop there, but instead took his illness and his suffering, with all its pungent detail, and finally even his death, as an opportunity to write about his life and, more specifically, about his failings, as both a person and a father, failings whose precise and abundant detail could be ascribed to him alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有止笔于此，相反，我觉得父亲的疾病、疼痛，还有那些由此带来的令人难以接受的琐事，甚至于他的死亡—— 都给了我一个描写父亲生活的机会，确切地说，这让我有了机会描写作为一个人和一个父亲的他身上所存在的种种缺点。而那些可以描写出大量具体细节的弱点，都可以归咎于其本人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I paraded his faults and my misgivings, the high drama of my young life with him, thinly disguised (mostly by exaggeration) across the pages of that book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我写出了他的过错和我的疑虑，也写出了自己年轻时跟他一起度过的那颇富戏剧性的生活—— 这些在那本小说里都被我在字里行间稍稍做了掩饰（其实，跟夸张差不多）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I gave unforgiving descriptions of his crimes as I saw them, and then I forgave him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当想起他的种种罪行时，我便不会笔下留情，但是，接着，我又会选择去宽容他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And yet, even if, in the end, it was all done for the sake of hard-won compassion, even if the final notes of the book were of triumphant love and grief at the loss of him, in the weeks and months leading up to its publication a sickening feeling sometimes took hold of me and dumped its blackness before moving on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使这样，即使书的后记里充满了浓厚的爱意以及失去父亲的悲痛，最终，缘于那份难得的怜悯之情，这本书完成了。就在它出版前的数个礼拜、数月里，一种令人生厌的感觉有时会将我软禁，然后在其离开之前，它又会把依附于身的阴郁统统抛下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the publicity interviews I gave, I emphasized that the book was fiction and professed my frustration with journalists and readers alike who insist on reading novels as the autobiographies of their authors, as if there were no such thing as the writer's imagination, as if the writer's work lay only in dutiful chronicling and not in fierce invention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在公开的新书见面会上，我着重谈到，那本书只是一部小说而已，并且在那些坚持认为自己阅读的小说就是作者自传的记者、读者以及他们的同类面前，我坦露出自己的失意。这些人认为，作品里面不会存在有诸如作者的想象之类的成分，似乎作家的工作仅限于忠实地描述事件的本来面目而非大幅度地虚构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I championed the writer's freedom - to create, to alter and amend, to collapse and expand, to ascribe meaning, to design, to perform, to affect, to choose a life, to experiment, and on and on - and quoted Henry James on the "immense increase" of that freedom, a "revelation". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我将作者手头的自由发挥到了极致—— 可以自由地去创造、修改润色、瓦解和扩展，以及归结某种涵义，也可以自由地去设计、表现、影响和选择某种生活，还可以去试验，去做很多很多的事情。引用一下亨利·詹姆斯在这种自由急速增加的状况下说过的话，那就是—— 它是一种“启示”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he calls it, that anyone who has made a serious artistic attempt cannot help but become conscious of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如他所言，任何曾在艺术领域有过正儿八经的尝试的人在这方面都束手无策，他们只会对其的存在有所意识罢了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, with the novel based on my father if not flying then at least migrating off the shelves in bookstores across the country, I celebrated the writer's unparalleled freedom, freedom from responsibility to anything and anyone but her own instincts and vision. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实就是这样，这部基于父亲生活的小说，虽然不能说可以在天空中任意飞翔，但起码也在全国范围内大大小小书店里的书架上移民了多次。我很欣赏作家拥有的这份无与伦比的自由—— 一种除了遵从作家本人的直觉和想象外，可以脱离责任，甚至于可以脱离任何事物、任何人的自由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps I did not exactly say but certainly implied that the writer serves a higher calling, what one refers to only in art and religion as a vocation, and cannot worry too much about the feelings of those whose lives she borrows from.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许，我没有说得很明确，但是，我已经十分肯定地表露出了我的看法，那就是作家从事的是一种更为高尚的职业。仅限在艺术和宗教领域里，它可以被称之为一种职业，而且，它也无需你过多地去考虑赋予你生命的那些人的感受。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yes, I believed - perhaps even still believe - that the writer should not be cramped by the possible consequences of her work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是的，我曾认为—— 也许，我至今都还有这样的想法 —— 一个作家不应该为其作品可能产生的一些反响所束缚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She has no duty to earthly accuracy or verisimilitude. She is not an accountant, nor is she required to be something as ridiculous and misguided as a moral compass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作家没有义务去遵从世俗追求的所谓的精准和写实，作者不是会计，也不该被要求成为好似道德罗盘那样既荒唐可笑又引导有误的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her work, the writer is free of laws. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她的工作空间内，她是不受法规、法则约束的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in her life, Your Honor, she is not free.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，在她的生活里，阁下，她却不是自由的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some months after the novel about my father was published, I was out walking and came to a bookstore near Washington Square Park. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那部关于父亲的小说发行了几个月后，有一次，我出去散步，走到了华盛顿广场公园附近的一个书店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out of habit, I slowed as I reached the window to see whether my book was on display. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出于习惯，当我走近书店窗户的时候，我会慢下脚步，看看我的书是否还摆放在展台上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that moment, I saw the dancer inside at the register, he saw me, and we locked eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在那个时候，我看到了书店里面站在收银台那儿的舞者。他也看到了我，然后，我们相互挤了挤眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a second, I considered hurrying on my way, though I couldn't have said exactly what it was that made me so uneasy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一时间，我想到了匆匆赶自己的路，尽管我也说不太清楚到底是什么令我如此的心神不宁。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151125T143112Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Walkers' wild mushroom, bacon &amp; barley broth</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>野菇熏肉薏米浓汤——冬日暖心头</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is the perfect welcome-home warmer after a cold country walk, simply add some crusty bread</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步行乡间路，面包薏米汤。家有浓浓热，温暖上心头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ingredients</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>食材：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Serves 6</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6人份</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>200 g pack bacon lardons or rashers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>包装肥腊肉片或熏肉薄片 200克</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 onions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洋葱 2个</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 medium carrots</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中型胡萝卜4根</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>3 celery sticks</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>芹菜杆 3根</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2 garlic cloves, crushed</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大蒜瓣 2个，压碎</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 sprig rosemary and thyme</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>迷迭香和百里香枝 1根</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>30 g pack dried porcini or dried mixed wild mushrooms</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>包装干牛肝菌或干混合野蘑菇 30克</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 glass white wine</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白葡萄酒 一杯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 1/2 l chicken stock</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鸡高汤 1 1/2 升</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>175 g pearl barley , well rinsed</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>薏米 175克，洗好</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1 small head spring greens or chunk of Savoy cabbage</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小青菜或大块包菜 1颗</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Parmesan or any strong hard cheese, grated, to serve</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帕尔玛干酪或或其他味道重的硬质奶酪，磨碎，备用</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Method</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>制作方法</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Put a large saucepan over a medium heat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>取一只大炖锅，中火加热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sizzle the lardons or bacon for 10 mins until golden, stirring now and then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将肥腊肉片或熏肉薄片不停煎炒，约10分钟煎至金黄即可。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While they cook, chop the onions, carrots and celery into smallish pieces. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>期间，将洋葱、胡萝卜和芹菜切成小块。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the bacon is ready, stir in the veg, garlic and herbs, cover and gently cook for 10 mins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>熏肉煎好后，与蔬菜，大蒜和香菜混合拌匀，盖上盖子，小火煮10分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, put the mushrooms into a jug, then fill up to the 600ml mark with boiling water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，将蘑菇放入水壶，倒入600毫升开水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Leave to soak for 10 mins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泡10分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lift the mushrooms out of their juice with a slotted spoon and roughly chop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用漏勺将蘑菇捞出，剁碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Turn up the heat under the pan, add the mushrooms, fry for 1 min, then pour in the wine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加热平底锅，放入蘑菇，煎1分钟，然后倒入红酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let it evaporate right down, then pour the liquid from the mushroom jug into the pan, avoiding the last drops, as they can be gritty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>待红酒蒸发后，将浸泡蘑菇的水倒入锅中，注意不要将水壶底层的沙粒倒进锅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add the stock and barley. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加入高汤和薏米。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Simmer for 40 mins until the barley is tender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>炖40分钟至薏米变软。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lift out the thyme and rosemary stalks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>捞出迷迭香和百里香枝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can be made up to 2 days ahead or frozen for up to 1 month. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以提前2天制作或者冻上1个月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you make ahead, the soup will need loosening with a little more stock as the barley will thicken it over time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果提前准备，你需要加多一点高汤稀释薏米汤因为时间一长薏米会使汤便稠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When ready to serve, finely shred the greens and simmer in the soup for 5 mins until tender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起锅前，将蔬菜切成条状，放入汤中炖5分钟直到变软。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Season to taste, then serve with cheese for sprinkling over the top, crusty bread and buttter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调味后尝一尝，撒些干酪，碎皮面包和黄油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nutrition per serving </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>营养成分</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>290 kcalories, protein 18.0g, carbohydrate 35.0g, fat 9.0g, saturated fat 3.0g, fibre 5.0g, salt 1.75g.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡路里 290克，蛋白质 18.0克，碳水化合物 35.0克，脂肪 9.0克，饱和脂肪酸 3.0克，纤维 5.0克，食盐 1.75克</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

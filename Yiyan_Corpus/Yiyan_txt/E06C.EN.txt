@@ -1,0 +1,47 @@
+Lemon battery 
+Batteries consist of two different metals suspended in an acidic solution. 
+Copper and Zinc work well as the metals and the citric acid content of a lemon will provide the acidic solution.
+Batteries like this will not be able to run a motor or energize most light bulbs. 
+It is possible to produce a dim glow from an LED.
+The lemon: A large, fresh, "juicy" lemon works best.
+The nail: Galvanized nails are coated in zinc. 
+I used a 2" galvanized common nail.
+The penny: Any copper coin will work.
+Creating the battery: Insert a penny into a cut on one side of the lemon. Push a galvanized nail into the other side of the lemon.
+The nail and penny must not touch.
+This is a single cell of a battery. 
+The zinc nail and the copper penny are called electrodes. 
+The lemon juice is called electrolyte.
+All batteries have a "+" and "-" terminal.
+Electric current is a flow of atomic particles called electrons. 
+Certain materials , called conductors, allow electrons to flow through them. 
+Most metals (copper, iron) are good conductors of electricity. 
+Electrons will flow from the "-" electrode of a battery, through a conductor, towards the "+" electrode of a battery. 
+Volts (voltage) is a measure of the force moving the electrons.
+I have connected a volt meter to our single cell lemon battery. 
+The meter tells us this lemon battery is creating a voltage of 0.906 volts.
+Unfortunately this battery will not produce enough current (flowing electrons) to light a bulb.
+To solve this problem we can combine battery cells to create higher voltages. 
+Building more lemon batteries and connecting them with a metal wire from "+" to "-" adds the voltage from each cell.
+The two lemon batteries above, combine to produce a voltage of 1.788 volts. 
+This combination still does not create enough current to light a small bulb. 
+Note the red wire connecting the batteries is joined from "+" (penny) to "-" (galvanized nail).
+Four lemon batteries create a voltage of 3.50 volts. 
+We should be able to light up a small device like an LED (Light Emitting Diode).
+Note the connecting wires go from "+" to "-" on each battery.
+To turn on an LED you must determine the "+" and "-" connections. 
+If you look closely at the red plastic base of an LED you will notice a "flat" spot (indicated by arrow above). 
+The wire that comes out beside the flat spot must connect to the "-" side of a battery, the other wire to the "+" side.
+Important information about LED's: LED's are designed to work at very low voltages (~ 2V) and low currents. 
+They will be damaged if connected to batteries rated at over 2 volts. 
+LED's require resistors to control current when used with batteries rated at over 2 volts. 
+Lemon batteries produce low current. It is OK to connect an LED to a lemon battery.
+In the above image, electrons flow from the "-" (nail) end of our lemon battery through the LED (making it glow) then back to the "+" (penny) end of the battery. 
+This is an electronic circuit. 
+The LED glows dimly with this configuration.
+Improving your battery.
+The quality of the copper and zinc can be a problem for a battery like this. 
+Pennies in particular are rarely pure copper. 
+Try substituting a length of 14 gauge copper wire (common house wire) for the penny. 
+Experiment with different lengths and configurations of electrodes. 
+Other sources of zinc and copper may be found in the plumbing supply department of a hardware store.

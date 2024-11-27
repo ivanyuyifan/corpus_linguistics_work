@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160906T052903Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Waiting</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等候</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He found her inside his house, the pale stone house that perched on the last bit of greenish grass before the Waste, the house that stood so far away from any other house that it might as well have been the only house in the world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现，她在他的屋子里。那是一间灰白色的石屋，坐落在荒地前方最后一块浅绿的草地上，与其他房舍相距遥远，看上去像是世上唯一的一座房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had gone hunting, as he often did in the morning and at dusk, gone hunting with his bow and his spear, though not his sword. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一如既往，每天的清晨和黄昏外出打猎，带上了弓和长矛，但没有带上他的剑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had been in the Waste that morning, because there had been no rabbits in the hills of tufted grass to the east, and no hill birds either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天清晨，他在荒地附近活动，因为东边草木丛生的山岗上，找不到兔子的踪迹，连山鸟也没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there had been tracks leading into the Waste, small paw prints that might belong to one of the striped animals that lived there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过在荒地中追寻到猎物的踪迹，爪印不太大，可能是在那儿居住的带斑纹的动物留下的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had killed one, caught it against one of the razored rocks of the Waste. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在荒地一片锋利的岩石旁，他捕到一只，并杀死了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And after that, when the sun had begun to burn against his neck, when the heat rose from the ground like perfume from a woman's skin, he opened the door to his house and found her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后，阳光开始变得炽热，灼到他的后背；热气像女人皮肤上的香水一样从地面散发起来。他推开家门，发现她在屋里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was thin, as thin as a shaft of midwinter sunlight in the forests of the east, and tall, nearly as tall as he was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她很瘦，瘦得像东方森林隆冬时节的一缕阳光。她很高，几乎跟他一样高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Black hair hung just past her ears, the edges as sharp as the rocks of the Waste. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑色的长发整齐地从耳旁垂落，发缘如荒原的岩石一般锋利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could see the tautness of her shoulders, the curve of the muscles of her arms and legs, because she was naked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他可以清楚地看到她紧凑的双肩，双臂和双腿肌肉的曲线，因为她全身赤裸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stood with her back to him, staring at the back wall of his house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她站在那儿，背对着他，注视着房子的后墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two empty brackets were set there, and that morning a sword - his own sword, the sword of his father and his father before him - had hung on them. Now they were empty.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>墙壁上两个凸出的剑架空空如也。可就在那天清晨，那儿还挂着——他自己的剑，祖祖辈辈传下来的，现在不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The door creaked softly as he pushed it farther open. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把房门推得更大一些，发出轻轻的咿呀声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sound seemed to fill the house, and then she was moving, moving like water, like the cold rushing of a mountain stream. She whirled, one arm reaching for something near her side that wasn't there, and it made her stumble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>声音似乎充满了整个屋子，她开始移动，动作像水一样，像山间冰冷湍急的溪流，身子猛然回旋，胳膊伸向一侧，似乎想抓住什么，但没抓到，这让她打了一个趔趄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then her fists were up, ready to fight, the stumble forgotten. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她还举着拳头，做出一副准备打斗的姿势，忘记自己刚才还跌跌撞撞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes fixed on him, still and hard, and he saw that they were blue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她目不转睛地盯着他，平静而僵硬。他看到一双蓝色的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is my house," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是我的家，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her hands didn't lower, and he could see her bare feet tense against the stone floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的拳头还没放下来。他看到她赤裸的双脚紧张地踩着石头地面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where?" The word sliced past him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是什么地方？”她说出的话像刀锋掠过他的身旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"At the edge of the Waste." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“荒地的边缘。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her blue eyes widened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她睁大了蓝眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Which part?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哪儿？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The nearest town is Farbrook, and it's fifteen days on a horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“离这儿最近的镇子叫远溪镇，骑马十五天的路程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good horse." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还得是一匹好马。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mouth opened slightly as she breathed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的嘴微微张开，舒了一口气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you alone here?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你独自一人住吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He nodded, and her eyes flicked around the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他点了点头。眼光扫视房间一周。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of his skinning knives lay on a table near the bed, and she sprang, or flowed, or stalked, across the space to pick it up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>床边的桌子上摆着一把剥皮刀。她一跃而起，像一股水流轻轻穿过屋子的空间，去拿那把刀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I won't hurt you," he said. "As long as you aren't here to rob me. Though there's little enough to take."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不会伤害你，”他说，“只要你不是来抢劫的；再说，我这儿也没有什么值得打劫的东西。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though perhaps, he thought, she was there to do just that, because it seemed she had already taken his sword, though where she had hidden it he could not see.She laughed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还有点担心她是否还有别的企图，因为她已经把他的剑拿走了。尽管还不知道她把剑藏在何处。她笑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She threw her head back, showing the long length of her white neck, and she laughed, and when she was done, the tension in her body had fled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>头向后甩，露出长长的、白皙的脖子，笑着；笑完之后，她身体里那股紧张的情绪烟消云散。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She held the knife loosely, at her side.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轻松地拿起身边那把刀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's your name?" she asked."Affric."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你叫什么名字？”“亚弗里克。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Affric what?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“亚弗里克什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tilted his head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他歪了歪脑袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Affric Thalens." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“亚弗里克·塞林思。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again her eyes scanned the room, pausing on the trunk in the corner, the one with the insignia of the royal army still etched into its wood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的眼光再一次扫视房间，落在角落里的大箱子上。箱子的木板上依然嵌着皇家军队徽章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had once thought to gouge it out, but that had been a long time ago, and as time passed in the silence of the Waste, he had forgotten.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾经想过把这个标志铲掉，但那是很久以前的事了。在荒地的沉寂中，随着时间的流逝，他逐渐忘记了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Is that all?" He nodded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“只有这些？”他点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Should there be more?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还应该有什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One side of her mouth pulled in, and she shrugged with one shoulder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她抿着半边嘴唇，耸着一只肩膀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You live alone in the Waste, where few would live without fear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“独自一人在荒地居住，谁都会感到恐惧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet you look unafraid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可你并不害怕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You might be Affric Silver-Arrow, Affric Flame-Spear, Affric Spinning-Dagger."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道你是银箭亚弗里克，火矛亚弗里克，旋刀亚弗里克？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shook his head slowly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他慢慢摇了摇头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've never met anyone with a name like that." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“从来没有听说过这样的名字。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He heard the hitch of her breath in her chest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他听到她胸口的呼吸猛然停滞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her forehead creased, and the tip of the knife, which she had been moving in lazy circles, went still.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她皱紧眉头，先前漫不经心舞弄的刀尖停了下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've heard them, in stories, in histories," he said quickly, but the sudden look of fear on her face - an odd, sharp look, as if she had rarely felt such a thing before - did not disappear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我在小说里，在历史书里见过这样的名字，”他急忙说，但她的脸上突然显出一种担忧，奇特，强烈，似乎以前从未体验过。这种表情一直挂她在脸上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How long?" she asked, and her voice was ragged.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“多久？”她问道，嗓音变得很刺耳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How long since what?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么多久？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now she took a step toward him, the knife suddenly raised in her hand, its blade toward him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她向他迈进一步，猛然举起手中的刀，刀锋指着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How long since names like that were used?"  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“多久之前曾用过这样的名字？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Affric pursed his lips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚弗里克噘起嘴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Two hundred years. Since before the empire fell."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“二百年，帝国灭亡前夕。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The knife did not drop to the flagstone floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刀没有落到石板地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he saw it tremble in her hand before she raised her chin and snapped, "Get me some clothes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看到刀在她的手中颤抖。她翘着下巴大声说道：“给我拿些衣服来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They ate from the animal he had killed, once he had roasted a bit of it over the fire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们吃他打到的猎物，有时他还把小块肉放在火上烤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wore one of his shirts, a shirt that had once been blue but had faded until the color could not be named, and a pair of his breeches. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她穿着他的一件衬衣，这件衬衣原先是蓝色的，现在褪了色，变得不知什么颜色了；她还穿了他一条马裤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside the house, night came. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋外，黑夜降临。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inside, the flames from the hearth fire illuminated his face, but she sat far away from him, on the floor in the shadow of the room's corner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋内，壁炉里的火苗照亮了他的脸庞。但是她坐在离他很远的地方，坐在屋子角落阴影里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you know of Maura Bright-Blade?" she asked out of the darkness that surrounded her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你听说过青锋莫雅这个名字吗？”黑暗中传来她的问话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Affric swallowed, taking a drink from his mug to wash down the meat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚弗里克吞咽着，喝了一口杯子里的水，把肉冲进肚里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his mind, he saw the thick books of his father's study, the fat tomes of combat and histories of warriors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的脑海中浮现出父亲书房里厚厚的书籍，关于战斗和武士历史大部头著作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She was a swordsman," he said finally. "The best of her time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她是一名武士，一名剑客，”他终于开口了，“她是那个时代最优秀的剑客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She served the Emperor Janken, led his warriors into battle. Won the battles, all of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她效忠于皇帝亚肯，带领他的武士战斗，赢得了所有的胜利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They say she was like a blade herself, as sharp and keen-edged and quick, as if she were made of steel and lightning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们说，她就像是一把剑，锋利无比，疾如闪电，似乎她本来就是由钢和闪电铸成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She disappeared. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来她消失了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They looked, but they never found her."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们四处寻找，但是从未找到。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stepped out of the darkness, coming forward to hook her ankle around the empty stool that stood beside his one chair and sit on it. A bit of grease shone on her bottom lip, but she didn't wipe it away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从阴影中出来，踮脚走到他一把椅子旁边的空凳旁坐下来，下嘴唇还挂着点儿油彩，但她没有去擦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She was turned into a sword."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她变成了一把剑。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The firelight danced over her face, over the steep lines of her cheekbones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>炉火在她的脸庞上跳跃，映出她脸颊陡直的线条。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She knew a man, a wizard. Blaise Vanadric. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她曾经认识一个男人，一个巫师。布莱森·范德瑞克。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was the best wizard and she was the best swordsman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是最优秀的巫师。她是最优秀的剑客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they were together, it was like a storm, with all the noise and motion and the lovely calm afterward. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的组合就像是一场风暴，起初轰鸣咆哮，四处蔓延，后来却变得温和平静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For a while, it was good. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>短暂的美好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he began to hate it when she left him, hate the way her eyes shone before a battle, because they weren't shining for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她离开他的时候，仇恨开始在他的心中滋生，他恨她战斗前眼睛里闪动的光芒，因为这双眼睛从未因为他放出这样的闪亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He asked her - he told her - to stop, to give up her name and be simply Maura.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他请求她，对她说，收手吧，抛掉名字中的青锋，只保留莫雅有多好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She said no. He asked again, and she refused. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她说不。他一再请求，她依然拒绝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then - " She paused, her eyes behind Affric, on the high, dark corner of the room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是——”她顿了一下，眼睛注视着亚弗里克身后房间角落高处的黑暗之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He said it was justice, because I didn't love him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他说这是报应，因为我不爱他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All I loved was killing, so I would kill and kill, forever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的爱全都给了杀戮，所以我要杀，杀，永不停歇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a sword, the perfect sword, one that would never lose a battle, just as I had never lost a battle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一把剑一把完美的宝剑，一把百战百胜的宝剑，就像我一样，从未输过任何一场战斗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That it would only end if someone were willing to lay the sword aside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到有一天，它的主人不愿再用它，把它打入冷宫，一切行将将结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And who would lay aside a sword that never lost?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，谁会冷落一把从未失过手的宝剑？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Affric thought of his sword, thought of the runes etched upon it, of how he had never lost a fight, nor his father nor grandfather before him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚弗里克想起了他的剑，想起了刻在剑上的符文，想起了他从未输掉过任何一场战斗，同样的事情还发生在他的父亲，他祖父身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he looked at the wall near his bed, at the place where the empty brackets hung.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他向床边的墙上悬挂的空空的剑架望去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He found that she knew how to hunt, knew from countless campaigns waged years before his father's father had been born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发现她掌握了打猎的技巧，而且她对他祖辈出生前发生的无数场战役了若指掌，但是她对如何在荒地狩猎一无所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she didn't know how to hunt in the Waste. She didn't know to watch for the rock spiders as large as barn cats, and she didn't know where to look for the brown spotted lizards that sunned on certain rocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不晓得如何防范岩蛛，这种蜘蛛比仓鼠的个头还大；也不晓得在什么样的岩石上，能够找到晒太阳的褐斑蜥蜴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So he taught her, taught her to hunt under the sky that was never gray, under the bright, hot sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是他教她，教她在永无阴霾的天空下，在明亮、温暖的阳光中狩猎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lizards could be eaten, but hardly fought back; she preferred hunting the striped beasts that crossed from the hills into the Waste or the large-eared deer that sometimes wandered over the grasslands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蜥蜴是可以吃的，而且捉它们时，它们几乎不做反抗；她非常喜欢猎捕带斑纹的野兽，这些猎物常常越过山岗，进入到荒地。还有大耳鹿，时不时会在绿草地上徘徊漫游。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew how to skin what she caught - the blade flashed in her hands, quicker than even his own - and how to cook it over a fire outdoors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她懂得如何给猎物剥皮，刀光在她的手中闪烁，动作比他还快。她知道在户外的火上煮饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew how to mend small tears in the clothes he gave her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还知道如何把他衣服上的撕裂的口子补好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she didn't know how to fix a roof, or keep sand and dirt from the Waste out of the house, or simply sit and watch the evening come down out of the sky.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她不知道如何修房顶，不知道如何把荒野地吹来的沙土挡在房门之外，或者坐下来注视着黑夜从外面的天际降临。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The silence seemed to weigh on her, there in the house on the edge of the Waste. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>荒地边缘石屋的寂静似乎让她感到沉闷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only the wind broke it, and the sound of dirt and gravel shifting over the rocks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有风可以打破这种寂静，让泥土和沙砾掠过岩石发出声响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had pressed on him, when he first came there, but then he had forgotten it, forgotten to listen to it, or learned how to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他刚来到这里的时候，寂静让他感到无比压抑，但是后来，他忘记了，忘记了去听，或者说，忘记了如何去听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tried to talk, to cover up the silence, but he had been alone a long time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他试着讲话，用说话声掩盖寂静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More often he simply watched her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是独自一人的日子已经太久，所以更多情况下，他只是静静地望着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She reminded him of a cat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她提醒他：一只大猫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not a house cat, not a mouser in a barn in some green forest town, but a lioness or a jungle panther. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是家猫，不是绿色的森林城镇谷仓里逮老鼠的猫，而是一只母狮，或者是一只丛林豹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Power coiled behind every movement, fearlessness quickened every step. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>力量在她每一个动作背后积聚，勇气在她每一个步伐中加速。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon she hunted better than he did, because she held nothing of herself back, even if they merely hunted rabbits.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久，她的狩猎技术就超过了他，因为她总是勇往直前，心无旁骛。即使是在打兔子的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He learned the sound of her laugh, edged and sharp, then full and low. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他熟悉了她的笑声，尖锐、锋利，然后是圆润、低沉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was quick to laugh, and quick to yell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她容易笑，容易大声喊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He learned to watch for her blue eyes to go dark, nearly black with temper, and to get out of the way if they did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他熟悉了她生气的时候，蓝眼睛会慢慢变暗，几乎成了黑色，好像一有可能，就要发作起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He memorized the scars on her arms, the thin white mark on her cheek, learned their stories.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他熟悉了她胳膊上的疤痕、面颊上白色细长的印记以及它们背后的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes he thought he saw her watching him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时他会发觉，她会默默注视着他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every day he thought she would leave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他每天都想到她会离去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could see that it rubbed at her, the silence, the loneliness, made her seem to itch in her own skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看出了她的烦恼，寂静与孤独让她心痒难耐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every morning, he expected to wake and find her gone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天早晨他都希望自己一觉醒来，发现她不见了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why did you come here?" she asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你为什么到这里来？”她问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were harvesting small red fruits from the short, twisted trees that grew along the creek that flowed to the edge of the Waste and then cut away from it, too scared to enter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小溪从荒地的边缘潺潺流过，似乎害怕进入这片令人畏惧的土地，匆匆绕道而行。他们在河边低矮弯曲的树上采摘小红果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they were finished, he would show her how to remove the white seeds, the ones that could cause a large man to fall down frothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收获之后，他教她如何除去果子里面的白籽，这种籽的毒性足以让一个强壮的男子倒地不起，口吐白沫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fruits were good, once the seeds were gone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但除去白籽的果肉鲜美可口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He laid a fruit in his basket, then looked at her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他往她的篮子里放上一个果子，然后看着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had split one of the fruits with her nail, so that red juice ran down her hand to her wrist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用指甲劈开，鲜红的果汁从她的手心流下来，流到她的手腕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made his ears ring, a little, when he thought of the story of himself coming to the Waste, and he thought about not answering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他脑海里浮现出自己如何来到荒地的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she was watching him, watching him with her blue eyes, and he knew that if he did not tell her now, she would not ask again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这让他的耳边传来一阵轻轻的鸣响，他在考虑，是不是不要作出回应？这时候她正注视着她，蓝眼睛目不转睛地注视着他。他明白，如果现在不对她讲，以后她也不会再问了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I was a soldier," he said finally. "A swordsman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我曾经是一个战士，”他终于说了，“一个剑客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was good at it, because I trained hard, and because I had a sword that never lost a fight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的剑术精湛，不仅因为接受过严格的训练，而且因为我拥有一把战无不胜的宝剑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I fought for the king, fought for him for years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我为国王而战，多少年来一直为他而战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, one day, I didn't want to anymore."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而有一天，我不愿再做这种事了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes narrowed, as if she suspected him of lying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她眯着眼睛，似乎怀疑她在撒谎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How, he thought, was Maura Bright-Blade to understand why he had left behind everything to come and live at the edge of the Waste?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想，怎样才能让她——青锋莫雅明白，为什么他要抛弃一切，独自到荒地的边缘生活呢？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

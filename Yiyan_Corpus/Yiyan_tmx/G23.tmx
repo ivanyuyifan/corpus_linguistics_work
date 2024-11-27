@@ -1,0 +1,863 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T073133Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>D.H.Lawrence: a Life of an Outsider</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯：局外人的一生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lawrence's Early Life</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.1劳伦斯的早期生活</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>D.H.Lawrence was born in 1885; the house where he was born is in a row of miner's houses: redbrick, grimy, two-up two-down, just thirteen feet wide, with a shop window. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴维·赫伯特·劳伦斯生于1885年。他出生的房子位于一排矿工的房子间，红砖，脏脏的，两上两下，只有30英尺宽，还有一个购物窗口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It probably looks more attractive today, as a museum, thanit has at any time in the last one hundred and thirty years.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个博物馆在今天它可能看起还不错，比过去130年的任何时期都更吸引人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In letters, essays, novels, stories, plays, and poems, Lawrence returned over and over again to those much loved landscapes which lay in the curve of the river Erewash where it divides Notinghamshire from Derbyshire. All the fields, streams, and houses which made up what he called 'the country of my heart'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在书信，随笔，小说，故事，喜剧和诗歌中，劳伦斯一次又一次提到这深爱着的地方，这处Erewash 河的河谷将诺丁汉和德比两个郡分开, 所有的田地、溪流、房屋，都构成了他所称的“我心之国”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lawrence's mother, Lydia, and his father Arthur, first met each other at a party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯的母亲莉迪亚和他的父亲亚瑟在一个舞会上认识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lydia was immediately drawn to the handsome, strong-bodied miner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莉迪亚马上对这个英俊强壮的矿工一见钟情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were married in 1875, a few months after their first meeting, and moved to the house in Victoria Street, Eastwood very soon afterwards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们于1875年第一次见面后的几个月后结婚，然后很快把家搬到伊斯特伍德区的维多利亚街。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the next twelve years Lydia Lawrence gave birth to two daughters and three sons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在接下来的12年中莉迪亚生了两个女儿三个儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>David Herbert was the youngest of the sons and the youngest but one in the family.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>D.H劳伦斯是最小的儿子也是这个家庭最小的孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The marriage was not many months old before the pledge of total abstinence from drink given by the husband in the first flush of romantic ardor was broken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仅仅只有几个月的时间内结婚初期的浪漫被丈夫屡屡戒酒的承诺打破。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arthur was often careless at work and had to stay away due to injuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚瑟工作时经常粗心大意，后来由于受伤不得不离开工作岗位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This, together with the fact that his insolence to his immediate superiors resulted in him rarely getting a stall to work, further depleted the family's meager income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，再加上他对自己的直接上司傲慢无礼的事实使得他很少能维持一份稳定的工作，同时这也进一步耗尽了家里微薄的收入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Lydia's embittered mind the image of the handsome man she had met and fallen in love with faded rapidly, to be replaced by that of a selfish, drunken, penny-pinching boor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在莉迪亚伤痕累累的心中，自己当初遇到的那个英俊潇洒的，并对之一见钟情的绅士形象渐渐褪色，取而代之的是自私，酗酒，斤斤计较的乡下人形象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this was how she made the children see their father too.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也是她让孩子这么看待自己父亲的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The quarrels between the parents became a dreaded family part of the children's lives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父母的争吵成为孩子们生命中家庭生活的可怕部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To get as far as possible, physically and socially, away from the ordinary miner's home was only a small, though important step in Lydia's struggle to prevent her sons from following their father's footsteps down the mine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为在距离上和社会生活上躲得尽可能的远，离开这个平凡矿工的家庭，这成了莉迪亚为自己儿子斗争，阻止他重蹈父亲矿工生活的虽小却很重要的一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most powerful weapon the mother had was education and wielded it with ruthless and sustained efficiency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲最强大的武器就是培养教育，并用无情和持续不断的方式施加影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Therefore, the young Lawrence grew up under the rough treatment of his mother.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，年轻的劳伦斯一代在他们母亲粗暴教育下长大成人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Education and the way to be a writer</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.2 教育和作家之路</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Altogether Lawrence spent four years as a pupil teacher at Eastwood and Ilkeston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯在伊斯特伍德和伊克斯顿总共做了四年的教师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of 1904, he sat for the King's Scholarship examination, and he passed it and qualified for a free place at a training college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1904年底，他参加了国王奖学金考试，通过并取得一个培训学校免费生的资格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Six months later he passed the London Matriculation examination, which qualified him for admission to Nottingham University College. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6个月后他通过了伦敦预科考试，获得进入诺丁汉大学学习的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he did not have the money for his earnings for his fees, so he taught for a further year at Eastwood, putting aside most of his earnings to pay for his future expenses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但因他挣的钱不够上学，他在伊斯特伍德又教了一年书，存下了他的大部分收入来支付他将来的费用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was in September of 1906, at the age of twenty-one, Lawrence entered the Nottingham University College to follow the teachers' training course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1906年9月，21岁的劳伦斯才进入诺丁汉大学学习，学习老师的培训课程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had already begun working on the novel which was known as The White Peacock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时他已经开始了后来闻名的小说《白孔雀》的创作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once he planned to take an external degree in Arts of London University, but he went back to his original course of studies when he found himself unable to obtain extra tuition in Latin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经他计划要考一个伦敦艺术学院的外部学位，但当他发现自己无法获得教拉丁语的额外学费时，他回到了原来课程的学习。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lawrence enjoyed neither his teaching practice nor the formal education he was receiving at Nottingham. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>教师实践还有诺丁汉大学接受的正式教育使劳伦斯受益颇多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had meant mere disillusion instead of the living contact of .</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着单纯的幻灭而不是生活的联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lawrence was determined that he would at least name his own price. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯认为，他至少要掌握自己的身价。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would not take any teaching job that paid less than 90 pounds a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将不会再接受那一年只有不到90镑薪水的教师工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After one or two disappointments, he found a job in the newly opened Davidson Road School at Croydon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次或两次失望之后，他在克罗伊登一家新开的戴维森路学校找到了工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he did not enjoy his years at Croydon, though he worked under a headmaster who let him teach in his own way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他在克罗伊登的这几年并不开心，尽管他在一个校长下面工作，校长让他用自己的方法教学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here, he had one colleague who shared his passion for literature and ideas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这儿，他有一个同事，和他一样对文学和新思想充满激情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the beginning he suffered from intense homesickness and several of his earliest published poems deal with this theme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开始时他非常想家，早期发表一些诗就是这种主题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When this had worm off he still found he could not believe enough in what he was doing to commit himself wholeheartedly to it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当这种情感渐渐消退，他还是发现自己还是不能相信现在做的工作就是自己要乐意全身心投入的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this period, without his mother's encouragement, he would probably not have become a schoolteacher (as she herself had been). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个时期，如果没有母亲的支持，他可能不会成为一名学校教师（母亲以前是教师）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he had become one, he felt frustrated and ill at ease, both because he found the daily drudgery and particularly maintenance of discipline in the classroom irksome, and also because his emotional affairs were in a state of uncertainty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当他成为一名教师后，他感觉非常失败，极度不自在，一方面因为他发现日常工作和在课堂上刻意维护纪律很令人讨厌，另一方他的情感处于不确定状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But through out the petty frustrations of his job and his emotional restlessness, the ambition of being a writer remained constant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但经历了工作的小挫折和情绪不安期后，他成为一个作家的想法保持不变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So he worked steadily at The White Peacock, and also wrote several poems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，他一直在进行《白孔雀》的写作，还写了几首诗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lawrence still corresponded with Jessie when he taught at Croydon, and sent her the various installments of his novel as well as some poems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯还和他在克罗伊登教书时的学生杰西保持联系，给她送去了他的几部小说以及一些诗歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was Jessie who introduced him to the editor Ford. Later Ford invited Lawrence to visit him in London.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是杰西将他介绍给了编辑福特，而后来福特邀请劳伦斯到伦敦进行拜访。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was through Ford that Lawrence gained admission to the literary world of metropolitan London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过福特劳伦斯获得了伦敦现代文学界的承认。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a writer, Lawrence seems to have known almost from the very beginning the path he wished to follow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一个作家，劳伦斯劳伦斯似乎从一开始就知道他想要从事的职业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With his first novel and some of the subsequent ones he showed a great readiness to chop and chant, and he was seeking advice not only from literary men such as Ford, but also from friends and acquaintances like Jessie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的第一部小说和一些随后的文章中，显示他写作的极大热情，他不止向文化圈的人如福特寻求意见，也向他的朋友和熟人像杰西寻求意见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Lawrence said I had to write, because he wanted the people, the English people to become brainier.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如劳伦斯说我不得不写作，因为他想要大家，英国民众变得更明智。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But while he was willing and even eager to shape his early work to suit the fashions and taboos of the Edwardian literary and publishing world, he was always clear-sighted as to just what he was doing, and, on some matters, quite adamant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但一方面他愿意甚至渴望他的早期作品符合时尚以及爱德华文学和出版界的禁忌，另一方面他对自己在做什么一直很清楚，并且在某些问题上相当坚决。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took Lawrence three years to get The White Peacock into its final form, and the novel was not published until early in 1911. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯花了三年完成小说《白孔雀》的最后版本，这部小说直到1911年初才出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But before he was able to obtain a copy especially bound up to put into the hands of his beloved mother who was dying of cancer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是他还没有来得及拿到一本特别包装的印刷书放到他挚爱的母亲的手里，她就死于癌症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs. Lawrence died in December 1910, and Lawrence did very little writing during that year, though before his first novel was published he had written early versions of both The Trespasser and Sons and Lovers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>劳伦斯母亲死于1910年12月，劳伦斯在那年写得很少，尽管在他第一部小说发表前他已经写了《入侵者》和《儿子与情人》的早期版本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About his mother's death, he wrote:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于他母亲的死，他写道：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For me, everything collapsed, save the mystery of death, and haunting of death in life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，一切都已经崩塌，拯救死亡之神秘以及生活中死亡的无可抗拒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was twenty-five, and from the death of my mother, the world began to dissolve around me, beautiful, iridescent, but passing away substance less. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我25岁，从我母亲的离世开始，世界开始在我周围消融，美好的，闪亮的，一切都一去不复返。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Till I almost dissolved away myself, and was very ill. (A Preface to D. H. Lawrence 29) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到几乎把我自己消融，我伤得很严重。（劳伦斯前言， 29）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frieda Weekley and Lawrence</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.3 弗里达-维克利和劳伦斯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frieda Weekley was Lawrence's French Professor's wife; she first met Lawrence in 1912 when Lawrence visited them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗里达-维克利是劳伦斯法语教授的妻子，她第一次见劳伦斯是1912年拜访时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this year, Frieda was thirty-two, Lawrence was twenty-seven. As she put it, Lawrence was "A long thin figure, quick straight legs, and light sure movement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当年，弗里达32岁，劳伦斯27岁，她提到：劳伦斯是“身材修长，腿很直行动敏捷，步伐轻松悠闲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seemed so obviously simple."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的单纯看起来如此的显而易见。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frieda, she herself was a well-built, attractive woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗里达是一个体态匀称，富有吸引力的女性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A love of company and a capacity for enjoyment made her felt unfulfilled after her marriage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对爱情的期盼以及对享乐的追求使得她婚后感觉并不满足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Disappointed in her existence as a provincial bourgeois housewife, she had sunk, after twelve years of marriage, into a kind of sleepwalking through the days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她对自己一个粗鄙资产阶级家庭主妇的身份非常失望。12年的婚姻生活使她沉沦，感觉自己生活在白日做梦中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the standards of her day, she was an emancipated woman with very liberal ideas and a forthright way of expressing them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以她当时所处时代的标准，她是一个不受约束的女人，思想新潮，表达直率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An emancipated woman, and a talented writer, there must be a story that destined to happen between them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个思想新潮的女人，一个才华横溢的作家，他们身上注定有故事会发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They fell in love with each other. The flowing quotation could prove their story.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们彼此陷入爱河，以下引文能证实他们的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, but she is the woman of a lifetime. (The Collection of Lawrence's Letters 37) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>OH，但她是一生的女人。（劳伦斯书信集 37）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I love you. Let us face anything, put up with anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爱你，让我们面对一切，抛开一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But this crawling under the mud I cannot bear. (A Preface to D. H. Lawrence 33)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我无法忍受如在泥地里爬行的日子。（劳伦斯前言，33）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't want people, I didn't want anything, and I only wanted to revel in this new world Lawrence had given me. (A Preface to D. H. Lawrence 33)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不想要任何人，我不想要任何东西，我只想陶醉在劳伦斯给我的新世界中。（劳伦斯前言，33）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world is wonderful and beautiful and good beyond one's wildest imagination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个世界美丽又妙不可言，好得超出一个人最疯狂的想象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Never, never, never could one conceive what love is, beforehand, never. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之前，从来没有一个人告诉我爱情是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Life can be great-quite good-like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生命从来没有如此美好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can be so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生命可以这样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God be thanked I have proved it. (A Preface to D. H. Lawrence 33) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>感谢上天，我已经证明了。（劳伦斯前言，33）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through their words we could see how much they loved each other.On 3 May 1912, Lawrence and Frieda left England for Germany.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过这些语句我们可以看出他们有多爱对方。在1912年5月3日，劳伦斯和弗里达离开英国去往德国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But their happiness was not entirely unclouded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他们的幸福来得一点也不明朗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frieda's husband refused to give her a divorce and the news that her children were unhappy made Frieda tense with grief and anxiety. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗里达的丈夫不同意和她离婚，同时她小孩的不幸福使她陷入深深地悲伤和焦虑中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had gone back to look after her sister's children and Lawrence fretted at their separation and her longing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只能回去照看她姐姐的小孩，劳伦斯对她们的分离和她的期望焦躁不安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were many bitter quarrels.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们多次吵得很凶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the late June 1914, Lawrence and Frieda were reunited in England; they were married on 13 July 1914. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了1914年6月底劳伦斯和弗里达在英国重聚，他们在当年的7.13结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he wrote to Mrs. Hopkin: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对霍普金女士写到：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't feel a changed man, but I suppose I am one. (The Collection of Lawrence's Letters 158)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不觉得我有改变，但我想我确实是。（劳伦斯书信集158）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the War Years</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.4 战争年代</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In England at war, from 1914 to 1915, these two years was the hardest time for Lawrence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从1914到1915年，英国出于战争状态，这两年是劳伦斯最艰难的时期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would have taken some time returning home to London. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想要花些时间将家搬回伦敦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On 3 August 1914, the decision to mobilize was taken; the government announced that the bank holiday was being extended to Friday morning, and the state took over the railway system for troop transports. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1914年8月3日，战争动员开始了，政府宣布银行假期扩大到星期五的上午，国家征用铁路运输军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vast numbers of army reservists were being called up, as Lawrence had seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如劳伦斯所见，广大军队后备役军人被征召。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he did get back he found everything changing with astonishing speed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他回来的时候，他发现一切都在以惊人的速度改变着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To prove it, he received back the typescript of 'The Wedding Ring' from his publisher. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了证明这一点，他收到了出版商梅休退回的《结婚戒指》手稿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Methuen had returned the novel, like most of their recently submitted fiction, to be resubmitted in six months' time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>退回的小说，如大多数最近提交的小说一样，都需要在六个月时间内重新提交。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they hoped the economic and business situation would have stabilized, though they also made some criticisms of the book's sexual outspokenness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们希望经济和商业状况将会变得稳定，同时他们也对这本书的性开放进行了批评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This meant that it would be months before Lawrence would get themoney due on its publication, on which he had been relying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着劳伦斯要拿到出版书的钱要几个月后，而这些钱是他赖以生存的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He and Frieda had been spending a great deal since June; they had run through the advance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他和弗里达自6月以来已经花了很多钱，他们已经卯吃寅粮了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The outbreak of war made it impossible for the moment to go back to the Continent and the projected trip to Ireland did not materialize. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争的爆发使得这个时间回到欧洲大陆已经不切实际，提出的去爱尔兰旅行的计划也无法实施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All they could do was find somewhere cheap to live outside London, where Lawrence could write his Hardy book and they could wait for the war to end.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们唯一能做的就是在伦敦的郊区找一处便宜的地方住下来让劳伦斯写作，同时等待战争的结束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is going to become of us? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们会变得怎样？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seems like another life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这像是另一种生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were happy, for men¡¤¡¤¡¤¡¤¡¤¡¤ and since then, since I came back, things have not existed for me, and nobody existed, because I did not exist myself. (A Preface to D. H. Lawrence 41) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在人们眼里，我们曾经很幸福。然后自那时起，自从我回来，好像一切都没有为我而存在，也没有人存在，因为我自己没有存在过（劳伦斯前言，41）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At this time, Lawrence was confused and scared. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，劳伦斯陷入深深的迷惘和恐惧中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war made his life in ruins. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争毁了他的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the declaration of war, Lawrence wrote: 'the war is just hell for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当宣战后，劳伦斯写道：“战争对我来说是地狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't see why I should be so disturbed- but I am. I can't get away from it for a minute, live in a sort of coma, like one of those nightmares when you can't move.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不明白自己为什么会如此不安？——但我就是不安，我无法从中脱离一分钟，日子过得浑浑噩噩，就像自己处于噩梦当中无法脱离。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war finished me; it was the spear through the side of all sorrows and hopes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争成就了我。它是刺破一切悲伤和希望的长矛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not only did it dash all hopes of returning to Italy, but also of living happily with Frieda, or of having his novel published. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有的希望都毁灭，包括返回意大利，和弗里达幸福的生活，或者自己的小说出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war damaged his very belief in his country and his age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争摧毁了他对这个国家和时代的信念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During this, he might seem farsighted: how could one believe in a civilization responsible for such wickedness and carnage as the war would generate?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这段时期，他似乎看起来有远见：对于战争产生的邪恶和杀戮，一个人怎么能相信产生战争的文明会对其负责呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took him years to understand quite what had happened to him in 1914. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他花了好几年的时间才明白在1914他身上发生了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he was one of the first to grasp what an extraordinary moment it was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他是了解到那段非凡时刻的第一批人。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

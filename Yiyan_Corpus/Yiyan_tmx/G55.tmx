@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T081008Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sylvia Plath: A Biographical Note</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅普拉斯: 生平笔记</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The BellJarwas first published in London in January 1963 by William Heinemann Limited, under the pseudonym Victoria Lucas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《瓶中美人》由威廉海恩曼有限公司于1963年1月首次出版于伦敦，用的是Victoria Lucas这个笔名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sylvia Plath had adopted the pen name for publication of her first novel because she questioned its literary value and did not believe it was a "serious work"; she was also worried about the pain publication might cause to the many people close to her whose personalities she had distorted and lightly disguised in the book.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅普拉斯之所以用这个笔名出版她的第一部小说，是因为她对这部作品的文学价值有所质疑，不认为这是一部"严肃作品"。她还担心这部作品的出版会招惹到她身边的很多人，因为她借鉴了他们的性格个性并稍作修饰写进了书里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The central themes of Sylvia Plath's early life are the basis for The Bell Jar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅普拉斯年轻时候的经历是《瓶中美人》的基石。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was born in 1932 in Massachusetts and spent her early childhood years in Winthrop, a seaside town close to Boston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她于1932年生于马萨诸塞州，在波士顿附近的海边小镇温思洛普渡过童年早期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mother's parents were Austrian; her father, a distinguished professor of biology at Boston University (and an internationally known authority on bees), had emigrated to the States from Poland as an adolescent; she had one brother, two and a half years younger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她外祖父母是奥地利人。她的父亲是波士顿大学生物系一位著名教授(也是国际上有名的蜜蜂专家)，于青少年时期从波兰移民到美国。她还有一个小她两岁半的弟弟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A radical change occurred in Sylvia's life when she was eight: in November 1940, her father died after a long, difficult illness, and the mother and grandparents moved the family inland to the town of Wellesley, a conservative upper-middle-class suburb of Boston.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8岁时，西尔维娅的生活发生了一个天翻地覆的变化。1940年的十一月，她的父亲死于一种痛苦的慢性疾病。之后母亲和外祖父母带着全家人搬到了韦尔斯利，波士顿郊区一个保守的中上阶级区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the grandmother assumed the care of the household, Mrs. Plath taught students in the medical-secretarial training program at Boston University, commuting each day, and the grandfather worked as maitre d'hotel at the Brookline Country Club, where he lived during the week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家庭起居估计由外祖母一手包办，普拉斯夫人每天都在波士顿大学教授一个医疗助理训练项目，而外祖父则在布鲁克林乡村俱乐部做服务生领班，周末他就住在那里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sylvia and her brother attended the local public schools. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅和弟弟在当地的公立学校读书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I went to public schools," she wrote later, "genuinely public. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来她曾写过:"我上的是公立学校，真正的公立。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everyone went."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人都在那儿上学。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At an early age she began to write poems and to draw in pen and ink -- and to collect prizes with her first publication of each. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很小的时候她就开始作诗，每部发表的作品都能获奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time she was seventeen, her interest in writing had become disciplined and controlled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>17岁时，她对写作的兴趣开始变的严肃而有序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Publication, however, did not come easily; she had submitted forty-five pieces to the magazine Seventeen before her first short story, "And Summer Will Not Come Again," was published in the August 1950 issue.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而发表作品是来之不易的。在她的第一篇短篇小说"夏天不再来"于1950年八月发表之前，她曾向杂志《十七岁》投过45次稿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A poem, "Bitter Strawberries," a sardonic comment on war, was accepted and published in the same month by the Christian Science Monitor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>讽刺战争的诗《苦涩的草莓》也在当月被基督教科学箴言报接纳并发表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her high school year book, The Wellesleyan, the girl who later described herself as a "rabid teenage pragmatist" was pictured:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在韦尔斯利的母校年册里，这个之后被她自己形容为"疯狂的实用主义少女"的女孩子是这样被描述的: </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warm smile... energetic worker... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>笑容温暖......工作努力，精力充沛...... </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bumble Boogie piano special... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>擅长弄坏布鲁吉钢琴......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clever with chalk and paints... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很会画画......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Weekends at Williams... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>周末在威廉家......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those fully packed sandwiches... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>丰盛的三明治...... </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Future writer... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未来作家...... </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those rejection slips fromSeventeen ... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自《十七岁》的退稿信。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, for a license.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>噢! 为了证书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In September 1950, Sylvia entered Smith College in Northampton, Massachusetts, the largest women's college in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1950年9月，西尔维娅被马萨诸塞州北汉普敦世界上最大的女子大学史密斯大学录取。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She went on scholarship -- one from the Wellesley Smith Club and one endowed by Olive Higgins Prouty, the novelist and author ofStella Dallas, later a friend and patron. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她申请到了韦尔斯利史密斯俱乐部以及小说家Olive Higgins Prouty资助的两项奖学金，Olive Higgins Prouty是《史黛拉。达拉斯》的作者，后来成了西尔维娅的朋友和赞助人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the years in which Sylvia wrote poetry on a precise schedule, circled words in the red-leather thesaurus which had belonged to her father, maintained a detailed journal, kept a diligent scrapbook, and studied with concentration.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些年，西尔维娅在一本精致的日程本上写诗，在曾经属于她父亲的红皮百科全书上圈起各种词语，坚持在日记本上详细的记录下每天，孜孜不倦的充实着一本剪贴簿，并用功的学习着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Highly successful as a student, she was also elected to class and college offices; she became a member of the editorial board of The Smith Review, went for weekends to men's colleges, and published stories and poems in Seventeen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一名非常优秀的学生，她还被选进了班委会和校委会，成为《史密斯评论》编辑委员会的成员之一。周末的时候，她爱去男子大学转转。另外，她还在《十七岁》上发表文章和诗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But at the time she wrote in a letter: "for the few little outward successes I may seem to have, there are acres of misgivings and self-doubt." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是那时她写过的一封信里说:"也许表面上我是小有成就，但是我心里有着大片大片的顾虑和自我怀疑。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of this period a friend later said: "It was as if Sylvia couldn't wait for life to come to her... She rushed out to greet it, to make things happen."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的一位朋友曾就这段时期说过:"感觉好像西尔维娅等不及生活来拜访她，她就冲过去迎接它，促成事情的发生。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As she became increasingly conscious of herself as a woman, the conflict between the life-style of a poet/intellectual and that of a wife and mother became a central preoccupation, and she wrote: "...it's quite amazing how I've gone around for most of my life as in the rarefied atmosphere under a bell jar." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她越来越清楚的意识到自己的女性身份。作为一个作家或者知识分子的生活方式与作为一个妻子和母亲之间的冲突，变成萦绕她心头最大困惑。对此，她曾写到:"。。。让人惊叹的是， 我是怎样如处在钟形罩中稀薄的空气中一般渡过生命中的大部分时刻的。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In August 1951 she won Mademoiselle magazine's fiction contest with a short story, "Sunday at the Mintons," and in the following year, her junior year in college, Sylvia was awarded two Smith poetry prizes and was elected to Phi Beta Kappa and to Alpha, the Smith College honorary society for the arts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1951年8月她在《小姐》杂志的小说竞赛中以短篇小说《明顿家的周日》获胜。第二年，也就是她大三的时候，西尔维娅曾两次获得史密斯诗歌奖，并入选美国优秀大学生荣誉学会以及阿尔法:史密斯大学文科高材生社团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then in the summer of 1952 she was chosen to be a guest editor inMademoiselle's College Board Contest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1952年的夏天她被选为《小姐》大学理事会竞赛的客座编辑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her scrapbook, she described the beginning of that month in New York in the breathy style of the magazine:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她的剪贴簿里，她用该杂志的口吻描述道她那个月在纽约最开始的情况: "</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After being one of the two national winners of Mademoiselle's fiction contest ($500!) last August, I felt that I was coming home again when I won a guest editorship representing Smith &amp; took a train to NYC for a salaried month working -- hatted &amp; heeled -- in Mlle's airconditioned Madison Ave. offices... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从去年八月成了《小姐》小说竞赛的两个全国冠军之一(奖金有500美元噢!)后，我代表史密斯大学赢得了一个客座编辑的名额，乘火车到纽约，在位于麦迪逊大街装了空调的《小姐》杂志办公室里开始为期一个月要带帽子穿高跟鞋的带薪工作时，我真好像再次回到家一样......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fantastic, fabulous, and all other inadequate adjectives go to describe the four gala and chaotic-weeks I worked as guest managing Ed... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美妙，难以置信，等等所有形容词都不足以描写我在那里当客座编辑时混乱而喜庆的四个星期......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>living in luxury at the Barbizon, I edited, met celebrities, was feted and feasted by a galaxy of UN delegates, simultaneous interpreters &amp; artists... an almost unbelievable merry-go-round month -- this Smith Cinderella met idols: Vance Bourjaily, Paul Engle, Elizabeth Bowen -- wrote article via correspondence with 5 handsome young male poet teachers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>住在豪华的巴比松酒店，我做编辑，见名流，被一群联合国代表，同声传译员和艺术家致敬邀请......那是旋转木马般难以置信的一个月。这个来自史密斯大学的灰姑娘不光见到了她的偶像Vance Bourjaily， Paul Engle和 Elizabeth Bowen，还通过和5个年轻帅气的诗歌老师通信联系撰写文章。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poets were Alistair Reid, Anthony Hecht, Richard Wilbur, George Steiner, and William Burford, whose pictures were accompanied by biographical notes and comments on poets and poetry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这几位诗人分别是Alistair Reid，Anthony Hecht，Richard Wibur George Steiner以及William Burford。他们的照片旁附有生平简介和诗歌评论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After 230-odd pages of advertising, the bulk of the August 1953 college issue was introduced by Sylvia as Guest Managing Editor with "Mlle's last word on college, '53." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>230多页的广告之后，关于1953年8月份大学事件的大批内容以《"小姐"给大学最后的话，53年》为题，由作为客座编辑的西尔维娅提供。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under a vapid picture of the guest editors holding hands in star formations, dressed alike in tartan skirts with matching Eton caps and open-mouthed smiles, she wrote:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一张所有客座编辑穿着相似的方格裙子，带着与之相配的伊顿帽，用手比出一个个星形咧嘴傻笑的照片下面，她写道: </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're stargazers this season, bewitched by an atmosphere of evening blue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们是这个季节的占星学家，夜晚的深蓝让我们如此着迷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foremost in the fashion constellation we spotMlle's own tartan, the astronomic versatility of sweaters, and men, men, men -- we've even taken the shirts off their backs! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尤其是那些映入眼帘的时尚之星:《小姐》特制的格子裙，万能白搭的紧身针织套衫，以及男人，男人，还是男人，在背后我们甚至连他们的衬衫都讨论!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Focusing our telescope on college news around the globe, we debate and deliberate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们辩论，研讨，放眼全世界的大学新闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Issues illuminated: academic freedom, the sorority controversy, our much labeled (and libeled) generation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学术自由，女学生联谊会的论战以及我们这被贴上标签(及诽谤)的一代，这些给人以启发的事件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From our favorite fields, stars of the first magnitude shed a bright influence on our plans for jobs and futures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从我们最爱的领域，那些最最耀眼的星星散发出的光芒，照亮了我们的未来和职业计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although horoscopes for our ultimate orbits aren't yet in, we Guest Eds. are counting on a favorable forecast with this send-off fromMlle, the star of the campus.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然星盘还没有正式进入轨道，我们这些客座编辑已经从校园之星《小姐》起飞，满心期待着最好的预言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No doubt she was far more pleased with page 358 -- "Mlle.finally published 'Mad Girl's Lovesong' -- my favorite villanelle": </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问的是，令她更高兴的是358页上"小姐终于出版了《疯狂女孩儿的情歌》，我最爱的维拉内拉诗":</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That summer, too,Harper's Magazine paid $100 for three poems which Sylvia identified as "first professional earnings." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同样是这个夏天，哈珀杂志付给西尔维娅100美元作为三首诗的稿酬，被她称做是"第一笔职业收入"。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, assessing these bubbling achievements, she wrote, "All in all, I felt upborne on a wave of creative, social and financial success -- The six month crash, however, was to come --"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经历了这些噗噗冒泡的成就后，她写道:"总而言之，我好像被创作，社交以及理财成功的浪潮抛了起来，而随之而来的，是长达六个月的崩溃。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the events which took place in her life in the summer and autumn of 1953 -- at the time of the electrocution of the Rosenbergs, at the time when Senator Joseph McCarthy was forcing his power, at the beginning of the Eisenhower presidency -- these were the events which Sylvia Plath reconstructed inThe Bell Jar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是在罗森堡夫妇被处以电刑， 参议员Joseph McCarthy积累权力，艾森豪威尔总统任职初期的1953年春秋发生在她身上的事情。这是她在《瓶中美人》中所重现的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Years later she described the book she wanted to write:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多年以后她是这样描述她想写的那本书的:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pressures of the fashion magazine world which seems increasingly superficial and artificial, the return home to the dead summer world of a suburb of Boston. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个似乎越来越肤浅做作的时尚杂志世界带来的压力，回到波士顿郊区那个死寂夏季的归家之旅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here the cracks in her [the heroine, Esther Greenwood's] nature which had been held together as it were by the surrounding pressures of New York widen and gape alarmingly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她(女主角埃斯特格林伍德)本质里那些曾被纽约周遭的压力挤压，所以能保持完好的裂缝越来越大，大的让人心慌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More and more her warped view of the world around?-- her own vacuous domestic life, and that of her neighbors -- seems the one right way of looking at things.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是她的世界观扭曲的越发厉害了吗?她和她那些邻居愚蠢无知充满了家庭琐事的生活。这种看事情的角度貌似不赖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For Sylvia then came electroshock therapy and finally her well-publicized disappearance, subsequent discovery and consequent hospitalization for psychotherapy and more shock treatment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来西尔维娅经历了电疗，直到她众所周知的失踪，随后又被发现，最后住院接受精神治疗和更多的电击疗法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wrote: "A time of darkness, despair, disillusion -- so black only as the inferno of the human mind can be -- symbolic death, and numb shock -- then the painful agony of slow rebirth and psychic regeneration."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她写道:"那是一段黑暗，绝望，幻想破灭的日子。和人类心灵中最阴暗的部分一样漆黑。象征的死亡，麻木的电击，还有缓慢的重生以及精神新生过程中痛苦挣扎。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Subsequently Sylvia returned to Smith College and reconquered "old broncos that threw me for a loop last year." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后西尔维娅重回史密斯大学，再次征服了"去年把我甩下马背的那些老野马"。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the beginning of the next summer she wrote that "a semester of reconstruction ends with an infinitely more solid if less flashingly spectacular flourish than last year's."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二年初夏时，她曾写到"一个学期以来的重新振作是以无限的稳定而结束的，即使不似去年那样充满了闪闪发光引人注目的飞黄腾达。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the end of the next academic year, she had sold more poems, earned additional prizes, and written her long paper for English honors on the double personality in Dostoyevski's novels.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后那年的年底，她卖了更多的诗，拿到了更多的奖项，还完成了关于陀思妥耶夫斯基小说中双重人格的英语文学毕业论文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In June 1955 she graduated from Smith Collegesumma cum laude with the prospect of an English Fulbright year in Newnham College at Cambridge University.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1955年6月，她毕业于史密斯大学，并成为剑桥大学纽纳姆学院的一年福尔布莱特英语文学奖学金的候选人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There Sylvia met the British poet Ted Hughes, whom she married in London on June 16, 1956: Bloomsday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那儿，西尔维娅遇见了诗人泰德休斯，并于1956年6月16日，也就是布鲁姆日那天，在伦敦嫁给了他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sylvia's Fulbright was renewed and, after a vacation in Spain, Ted and Sylvia lived in Cambridge for another year.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅的福尔布莱特奖学金得以延长，从西班牙度假归来之后，她和Ted在剑桥又住了一年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, in the spring of 1957, they moved to the United States, where Sylvia was assessed by her colleagues as "one of the two or three finest instructors ever to appear in the English department at Smith College."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1957年的春天，他们搬到了美国。自此西尔维娅被同事们评为"史密斯英语系凤毛麟角的好老师之一"。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is probable that Sylvia already had a version of The Bell Jar in her trunks when she returned to the States, but she was concentrating on poetry and on teaching.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅回到美国的时候，很有可能已经有写《瓶中美人》的打算了，但是她当时专注的是诗歌和教书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In June 1958, she applied for a Eugene F. Saxton Memorial Fellowship to complete her book of poems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1958年6月她申请了尤金萨克森顿纪念奖学金以完成她的诗集。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Saxton Fellowship had been established "to honor an outstanding editor of Harper &amp; Brothers"; the trust, at the discretion of the trustees, gave outright grants of money to writers for living expenses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萨克森顿奖学金是为了"奖励出色的哈尔普兄弟出版社的编辑"而成立的。委托人按照托管财产委员会成员的决议，给作家提供生活费。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Agreement of all three trustees was necessary to make the grant, and one of them, who called the sample poems "beyond reproach," noted that "in looking over Mrs. Hughes' history, I see that she has had valuable awards dropped into her lap during most of her adult life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要得到这笔赞助，必须得到所有三个委员会成员的同意，而其中一个成员把诗稿称作是"无可指摘，"并提道"在看过休斯夫人的经历后，我发现她自成年以来，已获过许多有价值的奖项。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps it would not do her any real harm to continue her work for a while as a teacher in a fine college. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许让她继续在一个不错的大学再多教一段时间的书不会给她带来太大的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My impulse is rejection, though I think the quality of her work entitles her to serious consideration." In October 1958 the application was rejected with a special letter from the secretary to the trustees, who wanted Mrs. Hughes to know that "your application aroused more than ordinary interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我倾向于驳回她的申请，尽管我觉得她作品的质量足够我们考虑接受她。" 1958年申请被驳回，与之一起到来的还有一封委员会成员的秘书寄来的专信。委员会成员们想让休斯夫人明白"您的申请激起了我们异常浓厚的兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The talent -- which is marked -- was not a matter for dispute but rather the nature of the project."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>您引人注目的才华并不是我们拒绝您的原因，而是这个项目的本质让我们不得不拒绝你。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile the Hugheses had moved to a small apartment on Beacon Hill, "living on a shoestring for a year in Boston writing to see what we could do." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于此同时休斯一家搬到了比肯山上一个小公寓里，"在波士顿勒紧裤腰带的生活了整整一年，一边写作，一边想办法。"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sylvia had made the difficult decision to give up teaching, and to discard an academic plan for which she had been groomed since childhood, in exchange for a less certain existence but one which she hoped would give her more time to write. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅做了一个艰难的决定，放弃了教书，放弃了她还是孩子时就开始准备的学术计划，为了换取一个更不稳定，但希望可以让她有更多的时间写作的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, as the year progressed, and her book of poems was repeatedly submitted and rejected under ever-changing tides, she wrote:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而在这一年之中，她一次又一次提交她的诗集，得到的却是一次又一次的拒绝，而拒绝的理由可谓千变万化。她曾写道:"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing stinks like a pile of unpublished writing, which remark I guess shows I still don't have a pure motive (O it's-such-fun-I-just-can't-stop-who-cares-if-it's-published-or-read) about writing... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有任何东西比一堆不能发表的稿子更臭气熏天了，这大概也进一步说明了我写作的动机不纯(噢。我才不管它到底有没有发表，有没有人读，因为写作的过程是如此愉快，我就是停不下来)......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still want to see it finally ritualized in print.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我仍旧想看到它们投入印刷，最终仪式化的一天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In December 1959, Ted and Sylvia returned to England to live. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1959年12月，特德和西尔维娅回到英国生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In April 1960 their first child, Freda, was born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1960年4月他们的第一个孩子弗莱达出生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At last Sylvia's book of poetry,The Colossus, was accepted for fall publication by William Heinemann Limited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西尔维娅的诗集《巨人》终于被威廉海恩曼有限出版社接受并出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Subsequently Sylvia suffered a miscarriage, then an appendectomy, and then became pregnant again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后西尔维娅不幸流产，得了阑尾炎，后来又再次怀孕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On May 1, 1961, she again applied for a Eugene F. Saxton Fellowship; this time in order to finish a novel which she described as one-sixth completed -- about fifty pages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1961年5月1日她再次申请尤金萨克森顿纪念奖学金，这次，是为了完成一部她说已写了六分之一，大概50页的小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the application Sylvia had asked for money to cover "babysitter or nanny at about $5 a day, 6 days a week for a year, $1,560. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在申请中，西尔维娅请求得到足以支付"保姆或者奶妈一天大概5英镑，一周6天，一年共1560英镑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rent of study at about $10 a week: $520 for a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一周大约10镑的工作室租金，一年共520镑。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

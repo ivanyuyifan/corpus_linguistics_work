@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>NEW YORK, May 6, 2010 -- Travelport Limited, the parent company of the Travelport group of companies, today announced its financial results for the first quarter ended March 31, 2010.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>纽约2010年5月6日-Travelport Limited，作为Travelport相关公司的母公司，宣布了截止3月31日的2010年第一季度财务业绩。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First Quarter 2010 Summary:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第一季度业绩总结：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Net Revenue of $581 million, a 5% increase over first quarter 2009</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>净收入为5.81亿美元，同比增长5%；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Operating Income of $60 million, a 5% increase over first quarter 2009 </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>运营利润6000万美元，同比增长5%；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Adjusted EBITDA of $139 million, a 2% increase over first quarter 2009.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调整后的息税前利润为1.39亿美元，同比增长2%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Commenting on the performance for the period, Travelport CEO and president, Jeff Clarke, stated: "I am pleased with Travelport?s performance in the quarter. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>针对第一季度的业绩，Travelport CEO和总裁Jeff Clarke说：“我对业绩非常满意。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We made key strategic investments while delivering a 5% increase in Net Revenue and 9% growth in Adjusted EBITDA, on a constant currency basis, compared to the first quarter of 2009. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们的重要战略投资带来了净收入的增长达到5%，在固定汇率基础上的调整后息税前利润同比增长了9%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Our transaction volumes continued the recovery that began in the final quarter of 2009, and despite recent travel disruptions caused by the volcanic ash cloud, we are confident that we are on track to achieve our previous expectations for revenue and profits for the full year 2010."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们的交易量自09年第一季度开始在持续地回复，尽管最近的火山灰对旅行造成了一定的影响，但是我们非常有信心完成2010年的全年收入和利润目标。“</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Financial Highlights First Quarter 2010</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>主要财务业绩</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>GDS($ in millions)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>GDS业务：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Net Revenue and Segment EBITDA for the GDS business were $536 million and $151 million, respectively, for the first quarter of 2010, representing a 5% increase in Net Revenue and a decrease of 1% in Segment EBITDA compared to the first quarter of 2009. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>GDS业务的净收入和息税前利润分别为5.36亿美元和1.51亿美元，分别增长5%了和下降了1%；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Segment Adjusted EBITDA for our GDS business was $153 million for the first quarter of 2010, a 5% reduction as compared to the first quarter of 2009. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调整后的息税前利润为1.53亿美元，同比下降了5%；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Increased Net Revenue resulted from a 6% increase in segments as compared to the first quarter of 2009, a 1% increase in average revenue per segment and a $5 million reduction in Airline IT Solutions revenue. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>净收入的增加主要是由于航段数增长了6%以及每航段收入增长了1%，以及航空公司解决方案业务收入下降了500万美元所影响；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>GDS direct costs, comprising agency commissions, increased $33 million, or 17%, as a result of the increase in segments, an increase in the average rate of agency commissions and unfavorable movements in foreign exchange rates. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>GDS业务的直接成本，包括支付给旅行社的佣金，增长了3300万美元或17%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>GTA($ in millions) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>GTA业务：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Net Revenue and Segment EBITDA for the GTA business were $45 million and $(2) million, respectively, for the first quarter of 2010. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>净收入为4500万美元，息税前利润为-200万美元。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Segment Adjusted EBITDA for GTA for the first quarter of 2010 was $(3) million, representing a $7 million improvement compared to the first quarter of 2009. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调整后息税前利润为-300万美元，同比增长了700万美元。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Total Transaction Value ("TTV") increased 19% in the quarter primarily due to 10% growth in the number of room nights and favorable exchange rate movements. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>全球交易额（TTV）同比增长了19%，主要是预订间夜数同比增长了10%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Net Revenue increased 7% in the quarter due to the increase in TTV, partially offset by lower margin on sales. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>净收入同比增长了7%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Travelport Limited currently owns approximately 48% of the outstanding equity of Orbitz Worldwide. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Travelport拥有Orbitz 48% 的股份。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>During the first quarter of 2010, Travelport recorded $3 million in losses from its investment in Orbitz Worldwide.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在第一季度，Travelport由于在Orbitz的投资而记录了300万美元的亏损。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>About Travelport</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>关于Travelport</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Travelport is a broad-based business services company and a leading provider of critical transaction processing solutions to companies operating in the global travel industry. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Travelport 为全球旅游业提供全面的服务及交易处理解决方案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Travelport is comprised of the global distribution system (GDS) business that includes the Worldspan and Galileo brands; GTA, a leading global, multi-channel provider of hotel and ground services and Airline IT Solutions, which hosts mission critical applications and provides business and data analysis solutions for major airlines. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Travelport的业务包括以下几个方面：GDS业务，包括Galileo和Worldspan品牌；GTA业务，酒店和地面服务的多渠道提供商；航空公司IT解决方案业务，为主要航空公司提供主要应用托管及商业和数据分析解决方案。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With 2009 revenues of $2.2 billion, Travelport operates in 160 countries and has approximately 5,400 employees.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Travelport2009年收入达到22亿美元，在全球160个国家雇佣着5400名员工。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Travelport also owns approximately 48% of Orbitz Worldwide (NYSE: OWW), a leading global online travel company. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>同时，Travelport还拥有全球领先的在线旅游公司Orbitz Worldwide 48%的股份。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Travelport is a private company owned by The Blackstone Group, One Equity Partners, Technology Crossover Ventures and Travelport management.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Travelport是一家由纽约的黑石集团、加州Palo Alto的Technology Crossover Ventures、纽约One Equity Partners及管理团队共同拥有的私人企业。</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200212T115438Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>USE OF IMMUNOASSAYS BY THE FOOD INDUSTRY is increasing steadily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>免疫分析在食品工业中正逐步得到推广应用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The specificity and sensitivity of an antibody for an antigen have allowed the quantification of a variety of food components without the extraction and separation steps that are necessary in more conventional methods of analysis.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于抗体对抗原特有的专一性和敏感性，使食品在未经分离提取的情况下，即可进行定量分析，而一般的化学分析都必需经过分离提取等过程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Applications of immunological assays for the detection and quantification of hormones, microorganisms, pesticides, antibiotics, mycotoxins, and proteins in meat products have been well documented (Fukal, 1991; Samarajeewa et al., 1991). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>免疫分析可用于迅速检测食品的质量，例如，可对肉中的激素、微生物、害虫、抗体、毒素等进行拉测。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>En zyme-linked immunosorbent assays (ELISAs) have been prepared as commercial test kits for rapid screening of a variety of compounds in food products (Fukal, 1991; Samarajeewa et al., 1991). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>酶联免疫分析（Enzyme—linked immunosorbent assays，ELISAs）可作为商业上快速测定的一种方法，以检测食品中一些成分的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These assays can be performed rapidly on a large number of samples by minimally trained personnel with small quantities of solvents and with no major scientific equipment in the field or processing plant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种分析方法简便易学，设备投资和试剂清耗少，分析速度快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recently, interest has focused on the use of ELISAs in thermally processed foods (Paraf et al., 1991). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近，关于ELlSAs在热加工食品中的应用，引起人们的广泛关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During processing, the concentration of a component may decrease as a result of heat treatment, or products formed as a result of heating may increase in concentration (Kim and Taub, 1993). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在热加工过程中，一些成分的含量会降低，而一些产物的浓度会提高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When protein indicators are used, antibodies can be prepared which are specific to either the native or denatured form of a protein. Thus, antibodies can be used to follow the appearance or disappearance of protein epitopes during heating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当用蛋白质做指示剂时，可制备抗体，这种抗体对一种蛋白质的天然状态或变性状态均具有专一性，这样这种抗体即可用于指示蛋白质在加热过程中的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This has allowed for the development of ELISAs to monitor thermal processing temperatures or to measure the quantity of a de natured indicator protein. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因而ELISAs可用于检测热处理温度，或检测蛋白质的变性程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To illustrate the above applications, this article will discuss the advantages, development and verification of ELISAs to determine endpoint cooking temperatures and species adulteration of raw and cooked meat and poultry products.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为阐明以上所述，本文主要就ELISAs在测定肉品加热终温、鉴别生肉和熟肉的掺假问题等方面的应用进行论述，并对其特点、发展趋势和应用实例进行讨论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Centers for Disease Control and Prevention has estimated that enteric pathogens, primarily associated with animal food products, cause 6.5-81 million cases of illness each year (Bean and Griffin, 1990). Inadequate cooking is commonly cited as a factor in foodborne disease outbreaks caused by meat products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据疾病预防和控制中心估计，肠道疾病的暴发和动物性食品有很大的关系，每年约有650—8100万这样的病例（Bean and Griffin，1990），而肉食品加热煮制不当是引起该疾病暴发的一个主要原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A 1993 outbreak of enteropathogenic Escherichia coli O157: H7 caused by consumption of under cooked ground beef patties illustrates the consequences of in adequate cooking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1993年暴发的由肠道埃希氏菌引起的肠炎就是由于食用了加热处理不当的碎牛肉馅饼而引起的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were more than 400 confirmed cases of E. coli O157: H7 infection, which resulted in 30 children with hemolytic uremic syndrome and four deaths (Mermelstein, 1993; Anonymous, 1993).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，这种疾病还会造成溶血症状，甚至造成死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To aid in the prevention of foodborne disease caused by in adequate heat processing, the U.S. Dept, of Agriculture's Food Safety and Inspection Service requires that meat products be cooked to safe endpoint temperatures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为预防因加热不当引起的食物中毒，美国食品安全部门要求肉类食品必须加热到安全终温，以杀死食品中的病原菌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Title 9 of the Code of Federal Regulations lists required thermal processing schedules for a variety of precooked beef, pork, and poultry products to ensure destruction of pathogenic bacteria and viruses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦条例第9条规定，牛肉、猪肉、禽肉必须经过充分的热处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, uncured poultry products must be cooked to an internal temperature of 71.1°C, whereas cured poultry products must be cooked to 68.3°C (USDA, 1992a). Roast beef must be cooked to a minimum internal temperature of 62.8°C or to other time-temperature combinations (USDA, 1992b). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，未经腌制的禽肉制品应加热至中心温度71．1°C，腌制的禽肉制品为68.3°C，烤牛肉为62.8°C，并对其它肉类的加热终温和时间都进行了规定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In these alternative processes, beef may be processed to internal temperatures as low as 54.4°C for 121 min or up to 62.2°C for 5 min.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加热温度和时间有一定的关系，例如牛肉制品可采用54.4°C加热121min，也可采用62.2°C加热5min。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although Salmonella, E. coli, and other pathogens are con trolled by USDA processing requirements, variation in processing often occurs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管在加工过程中强调，要抑制沙门氏菌、大肠杆菌和其它致病菌的生长，但仍有细菌生长引起的食物中毒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most bacterial outbreaks are attributed to institutional or foodservive operations in which strict time-temperature verification procedures are not required. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数中毒事件是由于生产中未按严格的卫生要求进行操，或加热温度过低、时间过短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>USDA uses several tests to monitor processing adequacy of meat products; these include the Bovine Catalase Test (USDA, 1989), Coagulation Test (USDA, 1986a), and Acid Phos phatase Activity Method (USDA, 1986b).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>USDA规定，牛催化酶实验（Bovine catalase Test）、凝乳酶实验（Coagulation Test）和酸性磷酸酶活性试验等可用于测定肉类产品是否经过适当的热处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other assays developed to monitor endpoint cooking temperature have been based on protein solubility (Steele and Lambe, 1982; Davis and Anderson, 1983), enzyme activity (Collins et al., 1991a, b; Stadler et al., 1991; Bogin et al., 1992; Townsend and Davis, 1992), color (Ang and Huang, 1992), electrophoretic patterns of protein extracts (Steele ana Lambe, 1982), differential scanning calorimetry of muscle proteins (Ellekjaer, 1992) and near-infrared spectroscopy (Isaksson et al., 1989; Ellekjaer and Isaksson, 1992). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其它检测肉加热终温的方法包括：测定蛋白质溶解度酶活性、肉的颜色、蛋白质提取物的电泳分析和近红外光谱等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of these methods are difficult to interpret, yield relatively imprecise estimates of endpoint cooking temperature, require the use of sophisticated scientific equipment and trained operators, or may not be readily applicable to high-volume operations be cause of the time needed to complete a test.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些分析方法要求实验技能高，实验操作较为复杂，仪器设备投资大，费时较长，而且评定的加热终温不够精确。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We recently developed several ELISAs that can be used to determine if poultry products have been cooked to the required USDA minimum endpoint temperatures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里介绍的ELISAs方法可用于测定肉类制品是否经过加热处理，加热终温是否符合USDA的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By com paring electrophoretic patterns of extracts from turkey rolls processed to temperatures between 68 and 72°C (Fig. 1), we found that lactate dehydrogenase (LDH) was insolubilized when turkey rolls were processed to an internal temperature of 71°C (Wang et al., 1992). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比较鸡肉麋制品提取物在加热中心温度为68°C或72°C之间时的电泳图可以发现，乳酸脱氢酶(Lactat dehydrogtnase，LDH)在鸡肉制品中心温度达7l°C时为不溶性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Polyclonal and monoclonal antibodies were prepared against purified LDH. We isolated and cloned four monoclonal antibodies specific LDH. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过制备对纯化LDH有特异性的多克隆抗体和单克隆抗体，分离鉴定出对LDH有特异性的4种单克隆抗体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most sensitive assay was obtained using a sandwich ELISA when monoclonal antibody D5E was used as the capture antibody and polyclonal antibodies were used for detection (Wang et al., 1992; Abouzied et al., 1993). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当单克隆D5E抗体作为捕获抗体，多克隆抗体用于捡测时，利用夹层状酶联免疫反应能获得最敏感的分析效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bound antigen was detected using goat anti-rabbit IgG peroxidase conjugate with 2,2,-azino- bis (3-ethylbenzthiazoline-6-sulfonic acid) as substrate (Fig. 2A). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过山羊抗兔IgG过氧化物酶与底物2，2’一联氮相联结，可测定出抗原的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>LDH was detected at concentrations of 1 ng/mL of extract. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>LDH浓度即使仅为Ing／ml，也可通过ELISAs检测出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The antibodies were specific to turkey and chicken muscle LDH and did not cross-react with LDH from other sources.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抗体对不同禽类的LDH具有专一性，且不能同其它来源的LDH进行交互反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This assay was verified using different processing conditions and product formulations and was compared to assays for LDH enzyme activity and extractable protein content. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ELISAs可通过不同的加工条件和不同产品来证实其分析的可靠性，也可用LDH酶活性测定和蛋白质提取物含量分析等进行比较试验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ex tractable protein content, LDH enzyme activity, and LDH concentration (measured by ELISA) were measured in ex tracts of turkey rolls processed to internal endpoint temperatures of 68.3, 69.7, 70.9, and 72.1°C (Wang et al., 1993).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对火鸡肉糜产品加热终温进行分析，采用加热终温分别为68.3°C、69.7°C、70.9°C和72.1°C，测定指标为蛋白提取物含量、LDH酶活性、LDH浓度变化和ELISAs分析，并比较各种方法的准确性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Ex tractable protein and LDH activity could not be used to differentiate products cooked to 69.7°C and above (Table 1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果表明，蛋白提取物含量测定和LDH活性测定在加热终温高于69.7°C时则不适用；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The LDH concentration decreased as processing temperature increased. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>LDH浓度测定随着加热终温提高，LDH浓度降低，故也不适用；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ELISA differentiated the LDH concentration of turkey rolls processed to the USDA minimum endpoint temperature from that of rolls processed to 2°C below the minimum. Results were not influenced by salt content, product casing diameter, smoke house schedule, or frozen storage of the meat before processing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而ELISAs能较敏感地区分出火鸡肉糜的加热终温，如加热终温低于USDA规定的加热温度2°C即可检测出，并且结果不受加工前产品含盐量、产品形状、熏制和冷藏处理等影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the basis of this study, we proposed that a maximum critical concentration of 0.31 ug of LDH/g of meat might be used to indicate adequacy of thermal processing of turkey breast rolls.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这个研究的基础上提出，每克火鸡肉糜产品LDH的最大临界浓度0.31ug，可作为热处理是否适当的指示值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are currently adapting this ELISA to a rapid field assay that could be commercialized as a test kit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ELlSAs可做为商业上快速检测肉品终温的一种方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In our initial assay, we extracted protein from the geometric center of the roll and assayed the supernatant containing the soluble protein after centrifugation. We found that monoclonal antibody D5E is specific for the native form of LDH and does not react with the denatured form of the enzyme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在实验探索阶段，是将肉糜中的蛋白质提取，离心取其上清液，然后用上清液检测，发现单克隆抗体D5E对未变性的LDH具有专一性，LDH一经变性，则不能发生抗原抗体反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Therefore, it is not necessary to separate the native from thy denatured form of the enzyme by extraction and centrifugation. Drip from the center of the roll can be used without further purification.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一结果表明，检测中没有必要对蛋白质进行提取和离心即可直接测定，即可直接对肉样进行测定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, we have conjugated peroxidase directly to the poly clonal antibodies specific for LDH, thereby eliminating the use of goat anti-rabbit peroxidase conjugate as the third antibody (Fig. 2B). Thus, only two antibodies are used in the as say, and assay time is reduced because a third incubation and washing step was eliminated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也可以将过氧化物酶直接同对LDH具有专一性的多克隆抗体进行联结，这样可省去第三种联结抗体（即山羊抗兔过氧化物联结物），这样在分折中只用2种抗体，减少了第三种抗体的植入和冲洗步骤，因而节省了时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are evaluating the stability of the capture antibody coated onto the microtiter plates. Microtiter plates can often be prepared up to 6 mo in advance without any loss of binding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前正对微滴定率平皿上捕获抗体的稳定性进行研究，微滴定率平皿可提前制备6个月，而不会产生变硬损失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alternatively, the capture antibody could be attached to a different solid support, such as a nitrocellulose membrane or a “dipstick,” and used in place of microtiter plates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也可将捕获抗体放在其它固体支持物上，如硝基纤维素膜，以取代微滴定平皿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Abouzied and Pestka (1994) have converted microplate assays for my cotoxins to a line-blot assay using nitrocellulose membranes to simultaneously assay three toxicants. With these modifications and optimization of incubation time, the assay should take less than 1 hr to complete and could be prepared as a self-contained field test kit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Abouzid和Pestka（1994）已将微滴定平皿用于毒素分析，通过利用硝基纤维素膜，可同时分析三种有毒物质，并在lh内即能得出结果，这种方法可作为自我质量检测的一种方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are currently developing similar assays for use as end point indicators in dark meat and cured poultry products, as well as in beef products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前，正研究一些相似的分析方法以检测深色肉、腌制禽肉及牛肉产品的加热终温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Different marker proteins need to be identified for two reasons. First, different minimum processing temperatures are required by USDA regulations. Second, the heat stability of a protein may vary with species and may also vary between muscles from the same species. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同畜禽的蛋白质所需加热终温不同，而且蛋白质的热稳定性也不同，即使同一种畜禽的不同部位也可能存在差异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, our LDH ELISA does not work as effectively in cured turkey thigh meat because of the presence of different LDH isozymes in breast and thigh with different heat stabilities (Wang et al., 1994). We are currently developing ELISAs to other indicator proteins to accurately determine compliance with minimum endpoint temperatures in cured poultry products (Desrocher, 1994; Wang et al., 1994).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如火鸡腿肉和胸肉的乳酸脱氢酶的热稳定性就存在差异，这有待于进一步研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Meat Inspection Act of 1906 and the Federal Poultry Products Inspection Act of 1957 required USDA to assure that consumers purchase unadulterated and accurately labeled meat and poultry products (Mageau et al., 1984). Hsieh et al. (1992) sampled 806 raw and 96 cooked meat samples collected by Florida food inspectors in 1991. The authors reported a 16 and 23% adulteration rate in raw and cooked meat products, respectively.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>肉类质量监控部门要求，应保证消费者购买到未掺假的、与标签相符的畜肉和禽肉，Hsiehetal（1992）对806个鲜肉样品和96个熟制样品进行检查，结果表明在生肉和熟肉样品中分别有l6和23％的掺假率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prevention of adulteration or fraudulent substitution of meat products with undeclared meat species is necessary to avoid economic losses, comply with religious dietary restrictions, and prevent allergic reactions in sensitive individuals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对肉制品进行掺假检验具有重要的意义。通过检查可避免经济损失，避免某些人对某种肉的过敏反应，遵守宗教习俗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Misbranded products are usually prepared to increase the profit of producers by substituting a less expensive meat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些产品贴假标签或掺杂异种肉，主要是为了替代滞销肉以提高产品利润。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the ability to detect evidence of poaching or illegal sale of game, such as deer meat, or to verify the composition of imported meat is important to regulatory personnel and others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在检查中，还应对禁捕野生物肉（例如鹿肉）进行检查，对进口肉也要进行掺假检查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Detection of trace quantities of adulteration may also indicate inadequate cleaning of processing equipment when different species are processed on the same line.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果在屠宰中不同种动物使用同一条生产线，而且又未经彻底清洗，使一种肉掺入另一种肉中，这也可通过痕量分析法检测出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raw Meat Products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.1生鲜肉掺假检验</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Techniques to detect species adulteration of raw meat products have been extensively re viewed by Patterson (1985) and Kang’ethe (1990). These techniques include electrophoresis, isoelectric focusing, high-performance liquid chromatography, and immunoassays (Ashoor and Osman, 1988; Kang’ethe, 1990; Samarajeewa et al., 1991; Zerifi et al., 1991). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Patterson和Kangethe对不同生鲜肉间的掺假检验测技术进行了较为深入的论述，所述检测技术主要包括电泳、等电聚焦、高压液相色谱和免疫酶联反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Electrophoretic and chromatographic techniques are time consuming and require specialized scientific equipment and training (Slattery and Sinclair, 1987).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这些方法中，电泳法和色谱法较难掌握，且需要特殊的仪器和训练有素的技术人员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An immunodiffusion technique to detect the presence of raw poultry or beef has been approved by AOAC International (formerly the Association of Official Analytical Chemists (AOAC, 1990). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>AOAC已制定了用免疫扩散法检测生禽肉或牛肉的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The field tests, called Overnight Rapid Bovine Identification Test (ORBIT) and Poultry Rapid Overnight Field Identification Test (PROFIT), are agar-gel immunodif fusion techniques that are easy to perform and require an 18- to 24-hr incubation step (Fig. 3). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种方法在24h内即可得出结果，采用的是凝胶—琼脂免疫扩散法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These tests are generally applicable when the adulterant constitutes 10% or more of the meat, although as little as 5% adulteration can often be detected.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该检测法适用于掺假率为l0%或大于10%，有时掺假率在5%也可检测出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similar species identification field tests (SIFT) have been developed for pork, sheep, horse, and deer meat (Cutrufelli et al., 1988, 1989, 1991, 1992). Other experimental immunodif fusion techniques can detect a minimum of 3% contamination in raw meat (Samarajeewa et al., 1991).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对牛肉、羊肉、马肉和鹿肉也有相似的捡测方法，其它试验的免疫扩散技术可查出生肉中3%的掺假率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several ELISAs for detection of species adulteration in raw meat have been developed using polyclonal antibodies against serum albumins (Jones and Patterson, 1986; Ayob et al., 1989) or sarcoplasmic proteins (Martin et al., 1988a, b). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前，多克隆抗体对抗血清白蛋白的酶联免疫法，在鲜肉掺假检验中也得到应用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In these as says, it was necessary to reduce species cross-reactivity by munosorbent affinity chromatography of each batch of poly clonal antibodies.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应用这种方法时，必须用多克隆抗体免疫吸射剂亲和层析，以减少不同品种肉之间的交互反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To eliminate this problem and to ensure a continuous and consistent supply of antibody, several monoclonal-based ELI SAs were developed, Martin et al. (1991) described the preparation of a sandwich ELISA for the detection of chicken meat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为解决这一问题，并为确保连续恒定的供给抗体，几种以单克隆抗体为基础的酶联反应已得到应用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Monoclonal antibodies specific for a chicken muscle soluble protein were used as the capture antibody. This protein was tentatively identified as 3-phosphoglycerate kinase (Martin et al., 1989). Polyclonal antibodies against these chicken muscle soluble proteins, tentatively identified as 3-phosphoglycerate kinase, were used as the capture antibody (Martin et al., 1989), Wang et al. (1995) developed a sandwich ELISA, using two different monoclonal antibodies to lactate dehydrogenase, that detected the presence of turkey meat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Matin等描述了制备夹层式酶联免疫以检测鸡肉的方法，将对鸡肉可溶性蛋白具有专一性的单克隆抗体做为捕获抗体，这种蛋白初步鉴定为3—磷酸激酶，对肌肉具有专一性的多克隆抗体也初步鉴定为3—磷酸激酶。Wang等研究了一种夹层式酶联免疫法，即将二种不同的单克隆抗体植入乳酸脱氢酶，用于捡测是否存在火鸡肉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both tests were able to detect 1 % adulteration of chicken or turkey in beef and pork products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以上所述的两种酶联免疫反应，在牛肉和猪肉中仅含l％的鸡肉或火鸡肉也同时能捡测出。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

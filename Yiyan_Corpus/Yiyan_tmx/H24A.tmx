@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200428T031823Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Travelzoo Inc., a global Internet media company, today announced financial results for the second quarter ended June 30, 2010, with revenue of $28.1 million, an increase of 19% year-over-year. All revenues were generated from the sale of online advertising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全球互联网媒体公司Travelzoo公布了其截至2010年6月30日的第二季度财务业绩。收入达到了2810万美元，同比增长19%，所有的收入都来自于在线广告销售；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Operating profit from continuing operations was $5.9 million, up 76% year-over-year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自持续运营的运营利润达到了590万美元，同比增长76%；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Net income from continuing operations was $3.2 million, with diluted net income per share from continuing operations of $0.20, compared to diluted net income per share from continuing operations of $0.10 in the prior-year period. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来自持续运营的净利润达到了320万美元，来自于持续运营的每股净利润为0.20美元，相比去年同期的0.10美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Revenue, operating profit and income from continuing operations for all periods exclude the results of Travelzoo’s former Asia Pacific business segment, which are reported as discontinued operations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Travelzoo已经将其亚太区的业务剥离，因此该地区的业绩没有包括在第二季度的报告中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“Travelzoo continued its strong revenue growth in the quarter, despite a challenging environment in Europe,” said Chris Loughlin, CEO of Travelzoo. “The Company’s net income doubled, and we remain keenly focused on improving operational efficiency and further growing earnings per share.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“尽管欧洲的运营环境非常具有挑战性，但是Travelzoo在第二季度的收入仍然保持了强劲的增长。” Travelzoo 的CEO Chris Loughlin说，“我们的净利润实现了翻倍的增长，并专注于提高运营效率和提升每股盈利。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>North America</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北美业务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>North America business segment revenue grew 12% year-over-year to $22.2 million. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北美地区的收入同比增长了12%，达到2220万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Operating profit was $6.7 million, or 30% of revenue, up from an operating profit of $4.5 million, or 23% of revenue, in the prior-year period.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>运营利润670万美元，毛利率为30%，相比去年同期的运营利润450万美元和毛利率23%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Europe</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲业务</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Europe business segment revenue grew 49% year-over-year to $6.0 million. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲地区的收入达到了600万美元，同比增长49%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In local currency terms, revenue grew 55% year-over-year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以当地货币计算，收入增长了55%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Operating loss was $807,000, compared to an operating loss of $1.1 million in the prior-year period. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>运营亏损为807000美元，09年同期亏损110万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Travelzoo began operations in the U.K. in May 2005, in Germany in September 2006, and in France in March 2007. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Travelzoo在2005年在英国市场开始运营，2006年在德国开始运营，2007年在法国开始运营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In May 2008, Travelzoo began publishing its weekly Top 20 list in Spain, after having operated a sales office in Barcelona since November 2006.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2006年11月，Travelzoo在西班牙巴塞罗那开设了一个销售办公室，2008年Travelzoo开始在西班牙出版其每周一期的Top 20电子周刊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Subscribers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>订阅用户数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Travelzoo had a total unduplicated number of newsletter subscribers in North America and Europe of 18.3 million as of June 30, 2010, up 20% from June 30, 2009, and up 3% from March 31, 2010. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>截止2010年6月30日，Travelzoo在北美和欧洲地区拥有非重复的电子周刊订阅用户1830万，同比上升20%，比2010年3月31日上升了3%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In North America, total unduplicated number of subscribers was 14.1 million as of June 30, 2010, up 14% from June 30, 2009 and up 2% from March 31, 2010. In Europe, total unduplicated number of subscribers was 4.2 million as of June 30, 2010, up 50% from June 30, 2009 and up 7% from March 31, 2010.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中，北美地区的用户数达1410万，同比上升了14%，环比上升了2%；欧洲地区的用户数达420万，同比上升50%，环比上升7%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Asset Management</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>资产管理</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the second quarter, Travelzoo generated $2.3 million of cash from operating activities. Capital expenditures were $355,000, down from $396,000 in the prior quarter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第一季度，Travelzoo来自于运营活动的现金流量为230万美元，资本支出为355000美元。季度末的现金余额为3190万美元。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

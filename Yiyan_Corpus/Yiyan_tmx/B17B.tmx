@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T115918Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raising Successful Children  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真正成功的育儿之道
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>PHRASES like "tiger mom" and "helicopter parent" have made their way into everyday language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诸如“虎妈”和“直升机家长”之类的短语已经成为了日常用语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But does overparenting hurt, or help?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，过度养育到底是有害还是有益呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While parents who are clearly and embarrassingly inappropriate come in for ridicule, many of us find ourselves drawn to the idea that with just a bit more parental elbow grease, we might turn out children with great talents and assured futures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管有些家长因教育方式明显且尴尬的失当而遭到嘲笑，但我们当中的很多人都会发现，自己倾向于这样的观点：只要家长稍微多出点儿力，我们的孩子就会拥有卓越的才能和稳健的前途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is there really anything wrong with a kind of "overparenting lite"?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“轻微的过度养育”真的有错吗？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Parental involvement has a long and rich history of being studied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长久以来，有很多关于家长参与教育的研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decades of studies, many of them by Diana Baumrind, a clinical and developmental psychologist at the University of California, Berkeley, have found that the optimal parent is one who is involved and responsive, who sets high expectations but respects her child's autonomy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数十年的研究发现，最理想的家长应该是这样的：她积极参与孩子的教育且反应灵敏，她会在对孩子寄予较高期望的同时尊重孩子的自主权。这些研究大多是由加利福尼亚大学伯克利分校(University of California, Berkeley)的临床和发展心理学家戴安娜・鲍姆林德(Diana Baumrind)完成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These "authoritative parents" appear to hit the sweet spot of parental involvement and generally raise children who do better academically, psychologically and socially than children whose parents are either permissive and less involved, or controlling and more involved. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些“权威家长”看起来恰当地掌握了家长参与的分寸。他们教育出来的孩子普遍在学业、心理以及社交方面都比另外一些孩子优秀，后者的家长要么对孩子放任自流，不太参与孩子的教育，要么管得过严，过度干涉孩子的成长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why is this particular parenting style so successful, and what does it tell us about overparenting?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种教养方式为何如此成功？关于过度养育，它向我们透露了什么信息？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For one thing, authoritative parents actually help cultivate motivation in their children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，权威家长实际上助长了孩子的内在积极性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carol Dweck, a social and developmental psychologist at Stanford University, has done research that indicates why authoritative parents raise more motivated, and thus more successful, children.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯坦福大学(Stanford University)的社会和发展心理学家卡罗尔・德韦克(Carol Dweck)的研究揭示了为何权威家长会培养出更积极、也因此更成功的子女。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a typical experiment, Dr. Dweck takes young children into a room and asks them to solve a simple puzzle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个典型的实验中，德韦克博士把幼小的孩子们带进了一个房间，让他们解答一道简单的谜题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most do so with little difficulty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大部分孩子做起来都没什么困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then Dr. Dweck tells some, but not all, of the kids how very bright and capable they are. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但后来，德韦克博士只对其中的一部分孩子说，他们非常聪明、非常能干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As it turns out, the children who are not told they're smart are more motivated to tackle increasingly difficult puzzles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实验结果显示，在解决难度逐渐加大的题目的过程中，那些没得到聪明评价的孩子积极性更高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They also exhibit higher levels of confidence and show greater overall progress in puzzle-solving.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，他们还展现了更高水平的信心，并在解谜过程中总体表现出更显著的进步。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This may seem counterintuitive, but praising children's talents and abilities seems to rattle their confidence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这看起来好像有些违反直觉，但对孩子的才华和能力的表扬看来会影响他们的自信心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tackling more difficult puzzles carries the risk of losing one's status as "smart" and deprives kids of the thrill of choosing to work simply for its own sake, regardless of outcomes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>解决难度加大的谜题会带来风险，孩子可能会失去“聪明”的光环，这剥夺了孩子不计结果、只为解题的自主选择乐趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dr. Dweck's work aligns nicely with that of Dr. Baumrind, who also found that reasonably supporting a child's autonomy and limiting interference results in better academic and emotional outcomes.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德韦克博士的实验结果同鲍姆林德博士非常一致。鲍姆林德博士也发现，适度支持孩子的自主权并克制对孩子的干涉，这会让孩子在学业上更优秀，在心态情绪上更积极。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their research confirms what I've seen in more than 25 years of clinical work, treating children in Marin County, an affluent suburb of San Francisco. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的研究证实了我在临床工作中观察到的现象。在超过25年的时间里，我一直在马林县(Marin County)从事治疗孩子的工作。这个县位于旧金山郊区，比较富裕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The happiest, most successful children have parents who do not do for them what they are capable of doing, or almost capable of doing; and their parents do not do things for them that satisfy their own needs rather than the needs of the child.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些最幸福、最成功的孩子的父母不会替孩子做他们自己有能力或基本能完成的事情，他们为孩子做事是为了满足孩子的需要，而非自己的需要。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The central task of growing up is to develop a sense of self that is autonomous, confident and generally in accord with reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>成长的中心任务是培养一种自主、自信、同现实基本一致的自我意识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you treat your walking toddler as if she can't walk, you diminish her confidence and distort reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你把自己正走着路的宝宝当成不会走路的孩子来对待，就会削弱孩子的自信心，同时也扭曲了现实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ditto nightly "reviews" of homework, repetitive phone calls to "just check if you're O.K." and "editing" (read: writing) your child's college application essay.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同理，每晚“检查”家庭作业、反复打“只想知道你还好吗”的电话和“修改”（其实就是代写）子女的大学申请表都会导致类似的结果。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once your child is capable of doing something, congratulate yourself on a job well done and move on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦你的孩子有能力做某些事了，恭喜一下自己，干得不错，同时要继续努力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continued, unnecessary intervention makes your child feel bad about himself (if he's young) or angry at you (if he's a teenager).
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果持续进行不必要的干预，你的孩子就会对自己不满意（如果孩子年纪幼小的话），或是生你的气（如果孩子十几岁的话）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But isn't it a parent's job to help with those things that are just beyond your child's reach? Why is it overparenting to do for your child what he or she is almost capable of?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，帮孩子做他们刚好力所不及的事情难道不是家长的工作吗？为什么，帮孩子做他们差不多可以完成的事情就是过度养育呢？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think back to when your toddler learned to walk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回想一下你的孩子学走路的情境吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She would take a weaving step or two, collapse and immediately look to you for your reaction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子会摇摇晃晃地走一两步，摔倒在地上，然后立马看向你，看你作何反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You were in thrall to those early attempts and would do everything possible to encourage her to get up again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在早期那些尝试的影响下，你会想尽办法鼓励孩子再站起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You certainly didn't chastise her for failing or utter dire predictions about flipping burgers for the rest of her life if she fell again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你当然不会因为孩子摔倒而施以惩罚，也不会斥责再次摔倒的孩子将来只能卖烧饼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You were present, alert and available to guide if necessary. But you didn't pick her up every time.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你在场，保持警觉，必要时可以为孩子提供引导，但你不会每次都把孩子扶起来。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You knew she had to get it wrong many times before she could get it right.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你明白，孩子得犯很多次错误之后才能做对。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>HANGING back and allowing children to make mistakes is one of the greatest challenges of parenting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>袖手旁观并允许孩子犯错是为人父母者最难做到的事情之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's easier when they're young ЎЄ tolerating a stumbling toddler is far different from allowing a preteenager to meet her friends at the mall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子还小的时候会容易一些，眼看着踉踉跄跄的幼童摔跤远远不同于允许一个十一二岁的孩子去商场见朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The potential mistakes carry greater risks, and part of being a parent is minimizing risk for our children.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>潜在错误导致的风险更高，而父母的一部分工作就是将孩子面临的风险最小化。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What kinds of risks should we tolerate? If there's a predator loose in the neighborhood, your daughter doesn't get to go to the mall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那我们应该容忍那些风险呢？如果你家附近游荡着一名歹徒，你就不该允许你的女儿去商场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But under normal circumstances an 11-year-old girl is quite capable of taking care of herself for a few hours in the company of her friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在正常情况下，一个11岁的小姑娘完全能在朋友的陪伴下好好地待上几个钟头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She may forget a package, overpay for an item or forget that she was supposed to call home at noon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她可能会落下包，可能会多付钱，也可能会忘了自己该在中午时分给家里打个电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mastery of the world is an expanding geography for our kids, for toddlers, it's the backyard; for preteens, the neighborhood, for teens the wider world.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我们的孩子而言，对世界的掌握是一幅不断扩大的地理版图：在学步的幼童看来，它是家里的后院，在青春期前的孩子看来，它是家所在的街区，而对十几岁的孩子来说，它就是外面的广阔世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it is in the small daily risks --- the taller slide, the bike ride around the block, the invitation extended to a new classmate --- that growth takes place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是， 孩子们正是在日常的小危险中学会了成长，比如玩稍高一些的滑梯、绕着街区骑自行车、邀请新同学等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this gray area of just beyond the comfortable is where resilience is born.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是这个让人稍感不适的灰色地带孕育出了韧性。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So if children are able to live with mistakes and even failing, why does it drive us crazy? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么，既然孩子都有能力接受错误甚至是失败，我们又为什么要恼火呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So many parents have said to me, "I can't stand to see my child unhappy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有太多的家长告诉我，“我不忍心看到孩子不开心。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you can't stand to see your child unhappy, you are in the wrong business. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不忍心看到孩子不开心，那你就错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The small challenges that start in infancy (the first whimper that doesn't bring you running) present the opportunity for "successful failures," that is, failures your child can live with and grow from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从婴儿时期就有的那些小挑战（第一声没有让你飞奔起来的抽噎）都提供了“成功的失败”的机会。所谓“成功的失败”，是指你的孩子能接受并获得成长的失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To rush in too quickly, to shield them, to deprive them of those challenges is to deprive them of the tools they will need to handle the inevitable, difficult, challenging and sometimes devastating demands of life.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太快地冲过去保护他们，你不光是剥夺了他们迎接挑战的机会，也剥夺了他们的一些技能。在将来的生活中，他们需要用这些技能去解决那些无法避免的、艰难的、充满挑战的、有时甚至是毁灭性的问题。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

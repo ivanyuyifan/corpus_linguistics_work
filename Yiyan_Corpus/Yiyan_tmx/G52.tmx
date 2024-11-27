@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus Torvalds: The King of Geeks (And Dad of 3) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯 托沃兹：极客之王（仨娃的爹）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>THE LICENSE PLATE on Linus Torvalds' Mercedes SLK convertible says it all. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯·托沃兹（Linus Torvalds）的梅赛德斯奔驰SLK上的牌照说明了一切。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The frame running around the outside of the plate reads "Mr. Linux. King of Geeks." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>罩在车牌外面的牌框上写着“李纳斯先生。极客之王。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the plate itself says "Dad of 3."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过车牌号本身则是“DAD OF 3。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you meet Linus Torvalds, he comes off as a mild-mannered, down-to-earth Finnish-American. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你碰见李纳斯·托沃兹，他给人的表现是一个温文尔雅、脚踏实地的芬兰裔美国人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He lives with his wife Tove, three kids, a cat, a dog, a snake, a goldfish, a bunny and a pet rat in a comfortable 6,000 square foot home just north of Portland's tony Lake Oswego neighborhood. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他跟妻子托芙（Tove）、三个孩子、一只猫、一条蛇、一条金鱼、一只兔子还有一只宠物鼠一起生活在波特兰美丽的奥斯威登湖（Lake Oswego）边6000平方英尺的家中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The house is yellow - his favorite color - and so's the Mercedes.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>房子是黄色的，那辆奔驰车也是—黄色是他喜欢的颜色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But he's not really like any of his neighbors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过他跟自己的邻居都不太一样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He drives his Mercedes fast, slamming the car into gear and flooring it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他把奔驰车开得飞快，砰地关上门，发动汽车然后就把油门一脚踩到底。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There's no coaxing, no hesitation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>没有锻炼效应，毫不犹豫。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Either the hammer is down, or the car is at rest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>除非油门有问题，或者是车子在休息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And he has an abnormal number of stuffed penguins on his mantle.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有就是他家里的火炉罩的上面满是肚子鼓鼓的企鹅，数量多得不同寻常。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He leads a double-life. He's the kind of guy who plays poker with the guys for a $20 buy-in every couple of weeks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他过着一种双重生活—他是那种每隔几个星期就会跟别人玩买入20美元的扑克游戏的家伙。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But at the same time, he in charge of Linux, a truly remarkable open-source software development project that over the past two decades has shaken Microsoft and provided the building blocks for internet giants such as Google, Facebook and Amazon.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但同时，他还掌管着Linux，一个真正非凡的开源软件开发项目，在过去20年里动摇了微软，并为Google、Facebook和Amazon这样的互联网巨头提供建构模块。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus Torvalds has reached middle age, and so has Linux. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯已人到中年，Linux亦是如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Nowadays, it's easy to take both of them for granted. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>很容易就会认为这两点都是理所当然。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But both are still going strong - very strong. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是这两个都还强壮—非常的强壮。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus still runs the Linux kernel with his unique brand of no-nonsense attitude. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯仍然以其独有的严肃态度掌控着Linux的内核。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Two weeks ago, he called the makers of SUSE Linux morons because of the operating system's security requirements. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>两个星期之前，他还因为SUSE Linux的安全需求致电给该操作系统制作商的那帮笨蛋。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Linux? It's everywhere. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>至于Linux，它无所不在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Next week, Red Hat will become the first $1 billion open source company.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>下个星期，Red Hat就将成为首家收入达10亿美元的开源公司。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linux began life as an underdog project. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux这个项目诞生时并不为人所看好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds started it while he was a student at the University of Helsinki because he wanted to improve Unix on his Intel 386 computer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当托沃兹还是赫尔辛基大学的一名学生时就启动了这个项目，因为他希望在自己的英特尔386计算机上改进Unix。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But it soon became an antidote not only to the massive Unix servers built by the likes of Digital Equipment Corp and Sun Microsystems, but to Microsoft's Windows operating system.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过Linux不久就变成了一种对抗手段，针对的不仅是那些由DEC（注：后来被Compaq收购，后者随后又被惠普收购）和Sun之类公司开发的Unix服务器，还包括微软的Windows操作系统。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Throughout the '90s and on into the next decade, the fight was fierce on both fronts, but now, so many of the battles are won. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在上个世纪的整个九十年代以及接下来的10年时间里，这两条战线的战争都打得非常激烈，不过现在，赢下的战役已经如此之多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>DEC and Sun don't exist anymore. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>DEC和Sun不复存在。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Microsoft is playing quite nicely with Linux and other open source tools. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而微软跟Linux和其他一些开源工具相处得相当不错。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linux isn't the hot-button topic it was once was. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux不再像过去那样成为热门话题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's just plain successful.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但它四平八稳。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More than 8,000 developers have contributed to the Linux kernel in the past seven years, according to the Linux Foundation. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据Linux Foundation的说法，过去7年，有超过8000名开发者对Linux内核做出了贡献。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And it has even become a standard operating system on custom-built consumer devices. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它甚至成为了定制消费设备的标准操作系统。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can find it on everything from inflight entertainment systems to streaming video players to Google's Android phones. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从客舱娱乐系统到流视频播放器，乃至于Google的Adroid手机，你都可以觅到它的踪迹。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"It became the plumbing," says Jeremy Allison, a Google engineer who speaks frequently on the topic of open source and is himself a lead developer with another coding project, called Samba.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“它变成了管道设施，”杰里米·埃里森（Jeremy Allison）说。杰里米是Google的一位工程师，他经常讨论开源方面的话题，他本人也是另一个编码项目的首席开发者，该项目的名字叫做Samba。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Linus became a dad. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯还成为了一位父亲。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But what a dad he is.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过这是怎样的一位老爸啊。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus Torvalds in his kitchen earlier this year. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯·托沃兹在自己的厨房（今年初）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Photo: Jon Snyder/Wired </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>照片： Jon Snyder/Wired</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus Torvalds Meets Robert Downey, Jr.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯遇见小罗伯特·唐尼</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Red Hat can thank Linus for reaching $1 billion in annual revenue. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Red Hat可以为年度收入到达10亿美元而感谢李纳斯。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Linus can thank Red Hat for his yellow house in Portland. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而李纳斯则可以为自己在波特兰的黄色房子感谢Red Hat。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Prior to its initial public offering in 1999, Red Hat gave Torvalds what turned out to be about $1 million in stock. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在其1999年首次IPO之前，Red Hat给了李纳斯一笔原来价值百万美元的股票。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But Torvalds says that it was his only big Linux payout. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过李纳斯说这是他在Linux上面唯一的一笔大的支付。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Stock that he was awarded from Transmeta and another Linux startup, VA Systems, wasn't worth very much by the time he was allowed to sell it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而他从全美达（Transmeta）等其他Linux初创企业以及VA Systems处所获得的股票，在他被允许售出的时候还不怎么值钱。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Still, Torvalds' life is pretty darned good by geek standards. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管如此，按照极客的标准来说，托沃兹的生活过得还是相当的好。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He gets paid by the non-profit Linux Foundation to manage the open source software that he loves and - when he wants to - can fly around the world to talk about it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他从非盈利的Linux基金会那里获得报酬，让他管理自己喜欢的这个开源软件—只要他愿意，他可以飞遍整个地球去讲这个东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He has the freedom to pursue his other passion: diving. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他可以有自由去追求自己的其它酷爱：驾驶。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Last week, Torvalds and his friend Dirk Hohndel spent a few days in the 40 degree waters of the Hood Canal, helping to dive-certify six native American geoduck hunters, and Torvalds has even started writing open-source dive-log software.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上周，托沃兹和他的朋友德克·亨德尔（Dirk Hohndel）在胡德运河40°的水中泡了几天的时间，帮助6位印第安象拔蚌捕手通过潜水认证，托沃兹甚至已经开始动手写开源的潜水记录软件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Last year, Intel invited Torvalds and Tove to a pre-Oscar party in Hollywood, where he rubbed elbows with the likes of Robert Downey Jr., who didn't know who he was, and Mad Men star Jon Hamm, who did.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>去年，英特尔邀请托沃兹和托芙参加一个奥斯卡前夕在好莱坞举行的聚会，他的位置紧挨着不认识他的小罗伯特·唐尼，以及饰演《广告狂人（Mad Men）》的影星乔汉姆（Jon Hamm），他就认识托沃兹。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Does he have any regrets? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他有没有什么遗憾？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Not at all," he says. "Quite the opposite, actually. I'm very happy with feeling that I've done the right thing." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“一点遗憾都没有，”他说：“恰好相反，实际上，我觉得自己完成了恰当的事情，对此我非常高兴。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He adds: "I mean, if I'd started a company, that wouldn't have been because I wanted to start a company. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他补充道：“我的意思说，如果说我办了一个公司的话，那不会是因为我想要办公司。（译注：意思是说那些成就乃是无心之举）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>I concentrated on the technical side because that's what I wanted to do."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我全神贯注地投入到技术方面，因为这才是我想要做的东西。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And that's good news for just about every big internet company, along with the startups that aspire to displace them, because they love to use Linux.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于几乎所有大的互联网公司来说，这是个好消息，对于渴望取代他们的初创企业来说亦是如此，因为他们都喜欢使用Linux。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linus Torvalds' mantle. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>李纳斯·托沃兹的炉罩。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Photo: Jon Snyder/Wired</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>照片：乔恩·斯奈德（Jon Snyder）/连线）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Linux Storm</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux风暴</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linux worked because three powerful forces just happened to converge. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux之所以受欢迎因为三股强大的势力正好发生交融。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, Linux started just as Intel's processors were getting ready for prime time. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，Linux的开始恰逢英特尔的处理器准备好进入黄金时期。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Long before company employees were sneaking iPads and smartphones into the office, there were Linux freaks sneaking Intel machines into corporations to build prototype new programs and build cheap websites and file and print servers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在企业员工偷偷摸摸地把iPad和智能手机带进办公室以前很久的时候，Linux就已悄然将英特尔机器带进企业，用来开发新程序原型，以及建设廉价的网站和文件及打印服务器。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The second force was the GNU General Public License. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第二股势力是GNU通用公共许可（General Public License） 。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the 1980s, the Unix makers had done well, but they'd kept a lot of their best technology to themselves. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在上世纪八十年代，Unix制造商做得很好，但他们把许多最好的技术留给自己。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This had been good for business, but in the long run it was bad for Unix. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这对于做生意来说是好的，但从长远来看对Unix却并非好事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By 1991, there were many incompatible versions of Unix. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>到了1991年，已经出现了许多不兼容的Unix版本。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But Linux's license dictated that anybody who made changes had to share them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是Linux的许可则要求任何对其作出变更的人都要共享之。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That's kept the project from splitting apart, and it ensured that any really good software gets used by everybody.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这使得该项目避免了分崩离析，并确保任何真正好的软件都能为人人所用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the third factor was Torvalds himself, who has put his personal stamp on the Linux in a way that is rare in the open-source world.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过第三个因素则是托沃兹本人，他以一种在开源界所罕见的方式将自己的印记烙在Linux上面。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When Linus Torvalds moved to the U.S. in the late 1990s, the Linux hype was at its peak. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上世纪九十年代晚期，当李纳斯搬到美国去的时候，Linux正值巅峰。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And Linux's creator was a particularly effective spokesman for the open-source revolution. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux的创始人还是开源革命的一位令人特别印象深刻的发言人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He worked for an interestingly secretive chip startup called Transmeta - it fizzled out in the post-dot com implosion - but as long as reporters didn't ask about Transmeta itself, Torvalds was the kind of guy who would speak his mind, apparently unconcerned with who he might happen to piss off.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他为一家神秘得有趣的芯片初创企业Transmeta工作—在网络泡沫破裂之后这家公司也最终倒闭，但只要记者不问到Transmeta的事情，托沃兹属于那种有话直说的家伙，显然他并不关心自己会不小心惹恼了谁。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds became the perfect foil to the monopolistic, unlikable, Bill Gates. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹成为了垄断的、不招人喜欢的比尔?盖茨的完美映衬。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He was low key, unassuming, a regular guy who was into computers just for fun. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>前者为人低调、不摆架子，是个纯粹因为乐趣（Just for fun）而喜欢计算机的好人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That was the name of his surprisingly readable autobiography, written in 2002 with journalist David Diamond - a book that Torvalds says he never thinks about today.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>《Just for fun》正是他2002年与记者戴蒙得（David Diamond）合著的自传的名字，自传有趣得令人惊讶—但托沃兹说要是在现在的话他决不考虑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds is still doing things just for fun. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹仍然在为了乐趣而做事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He's a free operator who pulls no punches in technical online discussions, but he's not a blowhard. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他是一位免费的行家，在技术在线讨论中总是开诚布公、毫无保留，但他不是夸夸其谈的人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's enough to give him geek credibility, but to keep him from alienating the smart people. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>足以赋予他极客的信誉，但要让他远离那些聪明人。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The makers of SUSE Linux know what we're talking about.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>SUSE Linux的制造者知道我们在说什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Job Offer From Steve Jobs</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>乔布斯的工作邀请</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That passion to make the right design choice is still what drives Torvalds, even as Linux enters its comfortable middle age. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>做出正确的设计选择的那种激情仍旧驱使着托沃兹，哪怕Linux已经进入了自在的中年。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Linus, the person, certainly like all of us, he's gotten older," says Dirk Hohndel, the diving-buddy of Torvalds' who also happens to be chief Linux and open-source technologist at Intel. "But Linus, the god of Linux, has not changed at all. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“李纳斯，这个人，当然跟我们都一样，变得更老了，”托沃兹的潜水伙伴、恰好也是英特尔的Linux和开源技术专家的德克亨德尔说：“但是李纳斯，Linux的上帝，却一点也没有变。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He is still the same fiery aggressive, flaming wild, determined true-believer - the person who really knows exactly what he wants."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还是原来的那个充满闯劲、富有野性、坚决果敢的内心追随者—一个真正懂得自己需要什么的人。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds may have been a foil to Gates, but Linux's creator probably has more in common with Steve Jobs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹也许一直是盖茨的映衬，不过Linux的创造者可能跟乔布斯的共同点更多。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds leads the Linux project, not so much by writing code, but by arbitrating disputes and making the technical decisions that keep the project moving in the right direction. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹领导Linux项目的方式主要不是通过写代码，而是对争端进行仲裁，做出技术决策，让项目朝着正确的方向前进。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And that's ability is similar to Jobs' fanatical attention to design detail, says Google's Allison.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Google的阿里森（Allison）说，这种能力类似于乔布斯对设计细节的强烈关注。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Jobs had this wonderful design sense of taste. He created these beautiful products that everybody loved," he says. "Linus has engineering taste, and that's the thing that kind of makes him special. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“乔布斯有着出色的设计味觉他创造出了这些人见人爱的美丽产品，”他说：“Linus则拥有工程感，这正是令其显得特别的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He can look at all these potentially competing solutions and cut through the bullshit and say, no this is the right one to choose."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他能够把这些可能的待选解决方案扫一遍，然后枪毙胡扯的，径直选出合适的。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"He's good at that," Allison adds. "It means he's a dick sometimes, but he's good at it." </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“他擅长此事，”阿里森补充道：“这意味着他有时候会妄自尊大，但他的确拿手。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds has never met Bill Gates, but around 2000, when he was still working at Transmeta, he met Steve Jobs. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹从来没有见过盖茨，但是大概在2000年，当他还在Transmeta工作的时候，他会了乔布斯。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Jobs invited him to Apple's Cupertino campus and tried to hire him. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>乔布斯邀请他到苹果库比蒂诺（Cupertino）总部，想要雇他。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Unix for the biggest user base: that was the pitch," says Torvalds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“他的诱饵是最大用户群的Unix，”托沃兹说。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The condition: He'd have to drop Linux development. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>条件是：托沃兹必须放弃Linux开发。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"He wanted me to work at Apple doing non-Linux things," he said. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“他希望我在苹果工作，从事非Linux的东西，”他说。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That was a non-starter for Torvalds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于托沃兹来说这个条件是异想天开。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Besides, he hated Mac OS's Mach kernel.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有，他讨厌Mac OS的Mach内核。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I said no," Torvalds remembers.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我说，不，”托沃兹回忆道。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Jobs He's Not </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与乔布斯的不同之处</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But the Jobs-Torvalds analogy breaks down pretty quickly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过这种乔布斯—托沃兹类比瓦解得相当快。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Jobs was fabulously wealthy, dated celebrities, and didn't write cute things about his kids on his license plate. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>乔布斯惊人地富有，是过去的名人，他不会在牌照上趣写有关自己孩子的东西。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, he didn't even use license plates. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，他甚至连牌照都不用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And when he had a software problem at Apple, he didn't sit down and write an amazing new program that solved the issue. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有，如果他在苹果遇到软件问题的话，他不会坐下来写一段漂亮的新程序来解决问题。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds has done that kind of thing.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>而托沃兹就干过这种事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the day Wired visited Torvalds last month, his slightly obsessive attention to detail was on full display. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>上个月《连线》拜访托沃兹的那天，他对细节有点强迫性的关注得到了全景展现。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds quickly invited us in and immediately starting making espresso after espresso in his modern kitchen. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹迅速邀请我们进去并马上开始在自家现代化的厨房里一杯接着一杯地弄浓咖啡。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His employer, the Linux Foundation, had just bought him a brand new $3,000 Jura espresso maker, and he and his wife Tove were concerned that something is wrong.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他的雇主，Linux基金会，刚刚为他购买了一台价值3000美元的全新Jura咖啡机，而他和妻子却有点担心，觉得肯定是哪里出问题了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Tove had been complaining about a metallic aftertaste, and Torvalds thought it may be a problem too. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托芙一直在抱怨有金属味残留，托沃兹也认为有问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He handed over an espresso, asking: "Do you taste it?" </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他递过来一杯咖啡然后问道：“你尝出来了吗？”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To us, the bitter, creamy espresso tasted like it came from a fine coffee shop.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对于我们而言，这苦涩浓烈的咖啡味道，就像是出自一家上好的咖啡店一样。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Torvalds kept making coffees all morning, leaving us jittery and awake as we settled down to talk in the billiard room next to the modest unadorned home office that is the nerve center for Linux. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>整个早上托沃兹都在泡着咖啡，搞得我们坐下来交谈的时候还头脑清醒、神经过敏。我们交谈的地方是台球室，紧挨着朴素未加修缮的家庭办公室—Linux的神经中心。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's above the three-car garage. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>它位于车库的上方。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The kind of place where your typical suburban dad would keep his guitar collection and rock out with his buddies over a couple of beers on a Thursday night. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种地方是你典型的郊区老爹存放自己的吉他收藏，周二的晚上跟好友喝三两杯啤酒、唱唱摇滚的地方。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Instead, Torvalds spends most days here - alone - managing what is surely the most important open-source software project in the planet.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>托沃兹不是这样，相反，他大部分时间都自己一个人呆在这里—管理着无疑是这个星球上最重要的开源软件项目。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As Torvalds himself concedes, Linux's stormy days of fighting over big issues are largely behind it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正如托沃兹自己承认那样，Linux风雨飘摇的日子基本上已经过去，不再需要为解决大问题而战斗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I am personally way less open to radical new redesigns," he says. "We've done the radical redesigns to the point where most of the things we do, we do for damned good reason, and doing something radically different would be just stupid."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我个人不太赞成进行激进的重新设计，”他说：“我们已经发展到了做的大多数事情都有很好的理由，要是做某种完全不同的事情根本就是愚蠢的地步。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Linux hosts an annual event called the Linux Kernel Summit, and to hear Torvalds describe it, it sounds almost like a synod of medieval theologians. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Linux每年都会举办一个名为Linux内核大会（Linux Kernel Summit）的活动，听托沃兹的描述，这个会议似乎就像一场中世纪神学家的宗教会议。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"We had the most boring two-hour session on key-signing each others keys," he remembers. "Boy that was not fun."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我们渡过了最无聊的两小时会议，就是不停地在那里相互为对方的密钥签名认证，”他回忆道：“孩子，那不好玩。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In fact, Linux's creator doesn't really even like to talk about technology. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>实际上，Linux的创建者甚至连技术都不想讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He'd rather write. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他更愿意写。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"I think it's so much easier to be very precise in what you write and give code examples and stuff like that," he says. "I actually think it's very annoying to talk technology face-to-face. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“我认为要想很精确的话，书写和给出代码例子之类的东西要（比说）容易得多，”他说：“实际上我认为面对面谈技术是非常讨厌的事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can't write down the code."</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你不能写下代码。”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>He'd rather talk about politics. Or scuba diving. Or the state of the public school system. Or the taste of coffee.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他更愿意讨论政治，或者潜水运动，或者公立学校体系的现状，或者咖啡的味道也行。</seg></tuv>
+</tu>
+</body>
+</tmx>

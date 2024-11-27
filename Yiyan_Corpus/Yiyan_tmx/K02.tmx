@@ -1,0 +1,1359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160908T051100Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Commcomm</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基地惊魂</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tuesday morning, Jillian from Disasters calls. Apparently an airman named Loolerton has poisoned a shitload of beavers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>星期二一早，灾害处的吉里安就打来了电话，说是有个名叫洛兰顿的地勤人员用毒药害死了一大批海狸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I say we don't kill beavers, we harvest them, because otherwise they nibble through our Pollution Control Devices (P.C.D.s) and polluted water flows out of our Retention Area and into the Eisenhower Memorial Wetland, killing beavers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我告诉他，不要对外说我们杀死了海狸，要说我们清理了它们。而进行清理的原因是，如果放任海狸繁殖，它们就会咬坏基地的污染处理设备，让受污染的水直接从我们的保留区流入艾森豪威尔湿地公园，造成更多海狸的死亡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That makes sense," Jillian says, and hangs up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这话有道理。”吉里安说完，挂断了电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The press has a field day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新闻界拿这事大做文章。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"air force kills beavers to save beavers," says one headline. "murdered beavers speak of air force cruelty," says another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一份报纸的头版头条是《空军杀死海狸是为了拯救海狸》，另一家报纸的头条是：《谋杀海狸凸显空军冷酷成性》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We may want to pids this," Mr. Rimney says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们需要为这事搞个信息发布会。”里穆尼先生说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I check the files: There's a circa-1984 tortoise-related pids from a base in Oklahoma. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我翻了下档案：大约在1984年左右，俄克拉荷马州的某个军事基地搞过一次有关乌龟的信息发布会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's a wild-horse-related pids from North Dakota. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北达科他州以前也搞过一次关于野马的发布会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also useful is a Clinton-era pids concerning the inadvertent destruction of a dove breeding ground.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克林顿时代，还有过一次关于某鸽子繁殖地被无意间破坏的发布会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From these I glean an approach: I admit we harvested the beavers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从这些案例中摸索出了一个办法：先承认我们是在清理海狸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I concede the innocence and creativity of beavers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再认可海狸的无辜和创造力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I explain the harvesting as a regrettable part of an ongoing effort to prevent Pollution Events from impacting the Ottowattamie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后解释说，这种清理活动虽然令人遗憾，却是诸多防护措施中的一个组成部分，目的是为了防止出现“污染事件”，影响到渥太瓦塔米河。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally I pledge we'll find a way to preserve our P.C.D.s without, in the future, harming beavers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，我保证今后基地会找到一种方法，既能保护污染处理设备又不会危害海狸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are, I say, considering transplanting the beaver population to an innovative Beaver Habitat, to be installed upstream of the Retention Area.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会告诉他们说，我们正在考虑将所有海狸迁到位于保留区上游的一个新型海狸栖息地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I put it into PowerPoint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把这一套说辞做成了PowerPoint幻灯片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rimney comes back from break and reads it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工间休息结束后，里穆尼回到办公室，把它读了一遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Innovative Beaver Habitat?" he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“新型海狸栖息地？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I say we're considering," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我说的是‘我们正在考虑’，”我回答道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All hail to the king of pids," he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你可真不愧是信息发布会之王，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I call Ed at the paper; Jason, Heather, and Randall at NewsTen, ActionSeven, and NewsTeamTwo, respectively; then Larry from Facilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟报社的埃德、新闻十频道的贾森、七点报道节目的希瑟和第二新闻小组的兰德尔分别通了电话，然后又给基地设施处的拉里打了个电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have him reserve the Farragut Auditorium for Wednesday night, and just like that I've got a fully executable pids and can go joyfully home to my wife and our crazy energized loving kids.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟他预定好星期三晚上的法拉格特礼堂。至此，我的危机公关步骤已经全部落实到位，可以愉快地下班回家去见我的老婆，还有我们那几个玩起来不知道累的宝贝孩子了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just kidding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>逗你玩儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wish.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我倒是想有老婆孩子呢！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walk between Mom and Dad into the kitchen, make those frozen mini-steaks called SmallCows. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我夹在我爸我妈之间走进厨房，拿出些速冻小牛排准备做饭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You microwave them or pull out their ThermoTab. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以用微波炉把它们加热，或者直接扯下包装袋上的加热封条。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you pull the ThermoTab, something chemical happens and the SmallCows heat up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>封条一旦被扯下来，包装袋里就会起些化学反应，自动把小牛排加热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I microwave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用的是微波炉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, the ThermoTab erupts and when I take the SmallCows out they're coated with a green, fibrous liquid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倒霉的是，加热封条突然裂开了。等取出小牛排时，它们已经裹上了一层浓稠的绿色液体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I make ramen.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我只好改做方便面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You don't hate the Latvians, do you?" Dad says to me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不恨拉脱维亚人，对吧？”我爸问我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It was not all Latvians done it," Mom says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是所有的拉脱维亚人都会干出这种事，”我妈说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I turn on Tape 9, "Omission/Partial Omission." When sadness-inducing events occur, the guy says, invoke your Designated Substitute Thoughtstream. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不由想起第9盘带子《遗忘/部分遗忘》里的内容：教官说，当引起悲伤的事件出现时，你就要调动起自己的“专用替代思绪”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your D.S.T. might be a man falling off a cliff but being caught by a group of good friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的专用替代思绪可以是一个掉下悬崖的人被一群好朋友接住了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might be a bowl of steaming soup, if one likes soup. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它也可以是一碗热气腾腾的汤——如果你喜欢喝汤的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might be something as distractive/mechanical as walking along a row of cans, kicking them down.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它甚至可以是一些能够分散注意力的或机械性的东西，比如把罐头摆成一溜，然后一边沿着它们走，一边把它们挨个踢倒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And don't even hate them two," Mom says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“甚至对那两个人都不要恨，”我妈说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They was just babies."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们还不懂事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They did not do that because they was Latvian," says Dad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们那么做，并不因为是拉脱维亚人，”我爸说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They did it because of they had poverty and anger."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“而是因为他们太穷，心里有气。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What the hell," says Mom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不管怎么说，”我妈说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Everything turned out good."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“最终一切还好。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My D.S.T. is tapping a thin rock wall with a hammer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我自己的专用替代思绪是用锤子敲打一堵薄薄的石头墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When that wall cracks, there's another underneath. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等那层墙壁裂开之后，下面还会有一层墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When that wall cracks, there's another underneath.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再等那层墙壁裂开之后，下面还有另一层。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You hungry?" Mom says to Dad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你饿吗？”我妈对我爸说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Never hungry anymore," he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我永远都不会再饿了。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Me too," she says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我也是，”她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Plus I never pee." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“另外，我也永远都不用上厕所了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Something's off but I don't know what," Dad says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有什么地方不太对劲，可我说不好是什么。”我爸说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When that wall cracks, there's another underneath.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再等那层墙壁裂开之后，下面又会露出另一层。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Almost time," Mom says to me, her voice suddenly nervous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“差不多到时间了，”我妈对我说，她的声音突然有些紧张。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Go upstairs." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你到楼上去吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I go to my room, watch some World Series, practice my pids in front of the mirror.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走进自己的房间，看了会儿棒球比赛，又在镜子前练习了一下我在信息发布会上要做的发言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's going on down there I don't watch anymore: Mom's on the landing in her pajamas, calling Dad's name, a little testy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，楼下会发生的那些事，我已经用不着去看了：我妈穿着她的睡衣站在楼梯拐弯处的平台上，正有点不耐烦地在叫着我爸的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she takes a bullet in the neck, her hands fly up, she rolls the rest of the way down, my poor round Ma. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后，她的脖子上中了一枪。她扬起双手，一路滚下了楼梯。我那可怜的胖妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dad comes up from the basement in his gimpy comic trot, concerned, takes a bullet in the chest, drops to his knees, takes one in the head, and that's that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸一瘸一拐地从地下室里小跑上来，结果胸口挨了一枪，跪倒在地。接着头上又中了一枪，就这样完了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then they do it again, over and over, all night long.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他们整夜一遍又一遍地重演这一幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally it's morning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总算熬到了第二天早晨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I go down, have a bagel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我下了楼，吃了一个面包圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our house has this turret you can't get into from inside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们这座房子有个角楼，从房子里面进不去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have to go outside and use a ladder. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>必须走到外面，搭个梯子才能进去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's nothing up there but bird droppings and a Nixon-era plastic Santa with a peace sign scratched into his toy bag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那里除了鸟粪和一个尼克松时代的、别着和平标志的塑料圣诞老人之外，再没有什么东西了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's where they go during the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们俩白天就去那儿呆着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I climbed up there once, then never again: jaws hanging open, blank stares, the two of them sitting against the wall, insulation in their hair, holding hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爬上去了一次，然后就再也没去过：我见到他们两人垂着下巴，无神地睁着眼，手拉着手靠坐在墙脚，头发上沾着些隔热纤维丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Have a good one," I shout at the turret as I leave for work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“祝你们今天开心！”我出门上班时，冲着角楼喊道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which I know is dumb, but still.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所知道这很傻，但管它呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I get to work, Elliot Giff from Safety's standing in the Outer Hall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了班上之后，我看见安全处的艾略特·吉夫正站在大厅里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Giff's a GS-9 with pink glasses and an immense underchin that makes up a good third of the length of his face.  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉夫是行政9级，戴个粉色镜框的眼镜。他那个巨大的下巴，足足占了他整张脸的三分之一长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Got this smell-related call?" he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我接到个电话，说是你们这里有什么怪味？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We step in. There's definitely a smell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们一起走了进去。那里的确是有股什么怪味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like a mildew/dirt/decomposition thing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像是发霉，或烂泥，或什么腐烂的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We have a ventilation problem," Rimney says stiffly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们这儿只不过是通风有问题，”里穆尼冷冷地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No lie," Giff says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这话不假，”吉夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Smells like something crawled inside the wall and died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这儿闻起来就像有什么动物爬进墙里死掉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That happened to my aunt." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我姑姑以前就有过这么一回。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your aunt crawled inside a wall and died," Rimney says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是说，你姑姑爬进墙里死掉了，”里穆尼说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, a rat," says Giff. "Finally she had to hire a Puerto Rican fellow to drill a hole in her wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，是只老鼠。”吉夫说。“最后，她只好雇了一个波多黎各来的家伙在她的墙上钻了个窟窿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe you should do that."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没准你也该这么办。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hire a Puerto Rican fellow to drill a hole in your aunt's wall," Rimney says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就是说，我也去雇一个波多黎各来的家伙在你姑姑的墙上钻个窟窿。”里穆尼说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I like how you're funny," Giff says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我喜欢你的搞笑风格，”吉夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There's joy in that." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“说明你心里有一份喜乐。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Giff's in the ChristLife Re?nactors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉夫是“基督生涯重现团”【一种宗教团体，通过重演基督生活中的场面来加深信仰，传播宗教。——译者注】的一员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the re?nactments, they eat only dates and drink only grape juice out of period-authentic flasks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在重现基督那个时代的生活场面时，他们只吃椰枣、喝葡萄汁，而且用的还是仿古式样的杯子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says that this weekend's re?nactment was on the hill determined to be the most topographically similar to Calvary in the entire Northeast. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说上周末的重现活动是在一座小山上举行的。在整个美国东北地区里，只有那里最像基督被钉上十字架时所在的那座小山。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I ask who he did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我问他演的是谁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says the guy who lent Christ his mule on Palm Sunday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说是在基督复活之后，借给他骡子的那个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rimney says it's just like Giff to let an unemployed Jew borrow his ass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>里穆尼说，这就等于说吉夫让一个失业的犹太人借用了一下他的后庭。【英语里驴和屁股是一个词，这里故意用这种多义词来讽刺。——译者注】</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're certainly not hurting me with that kind of talk," Giff says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你这样讲话伤不到我什么，”吉夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I suppose I'm hurting Christ," says Rimney.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那看来我是伤到了基督。”里穆尼说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not hardly," says Giff.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“没那么容易。”吉夫说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Rimney's desk is a photo of Mrs. Rimney before the stroke: braless in a tank top, hair to her waist, holding a walking stick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>里穆尼的办公桌上放着他太太薇尔中风前的照片：她穿着件背心，里面没戴乳罩，长发及腰，拄着一只手杖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the photo, Rimney's wearing a bandanna, pretending to toke something. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照片中的里穆尼头上戴着大手帕，假装在抽烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since the stroke, he works his nine or ten, gets groceries, goes home, cooks, bathes Val, does the dishes, goes to bed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自打她中风之后，他每天上完九、十个小时的班之后，还要先买些杂货再回家，然后做饭，给薇尔洗澡，刷盘子洗碗，上床睡觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My feeling is, no wonder he's mean.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得，有这么多烦心事，难怪他对别人比较刻薄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Giff starts to leave, then doubles back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉夫开始往外走，不过半道又转了回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Despite of what you may think of me."  "You and your wife are in the prayers of me and our church," he says to Rimney. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不管你怎么看我，”他对里穆尼说。“我和我们的教会都在为你和你的妻子祈祷。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're in my prayers, too," says Rimney. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我也在为你祈祷，”里穆尼说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm always praying you stop being so sanctimonious and miraculously get less full of shit." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我一直祈祷你不要再这么假模假式的装圣人，祈祷你能奇迹般地少说点屁话。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Giff leaves, not doubling back this time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉夫掉头走了，这次没再回来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rimney hasn't liked Giff since the day he suggested that Rimney could cure Mrs. Rimney if only he'd elevate his prayerfulness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吉夫以前告诉过里穆尼说，如果他能多做些虔诚祈祷，就有可能治好他老婆的病。自打那时起，里穆尼就再没有喜欢过吉夫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All right," Rimney says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我说，”里穆尼开口道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who called him?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是谁打电话把他找来的？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs. Gregg bursts into tears and runs to the ladies'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格雷格太太哭了起来，跑进了女洗手间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't get why all the drama," says Rimney.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我真不明白怎么会搞得这么夸张，”里穆尼说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hello, the base is closing in six months," says Jonkins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你想啊，咱们这个基地再有6个月就关了。”詹金斯说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Older individuals like Mrs. G. are less amenable to quick abrupt changes," says Verblin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“像格雷格太太这样上了年纪的人，很难适应这么突然的变化。”威布林说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Closure was announced, I found Mrs. G. crying in the Outer Hall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宣布基地将被关闭的那天，我见到格雷格太太在大厅里哭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about Little Bill? she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小比尔怎么办？她说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Little Bill had just bought a house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小比尔刚刚买了一所房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about Amber, pregnant with twins, and her husband, Goose, drunk every night at the Twit? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有正怀着双胞胎的安珀怎么办？她的丈夫古斯每天晚上都跑到酒吧喝个烂醉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about Nancy and Vendra? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南希和文德拉怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What about Jonkins and Al? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有詹金斯和艾尔？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's not a job to be had in town, she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这镇子里没有任何工作机会，她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where are all these sweet people supposed to go?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有这些善良的人们该怎么办呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've sent out more than thirty r¨¦sum¨¦s, been store to store, chatted up Dad's old friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我自己已经发出去了30多份简历，还挨家挨户到每个店里跟父亲的那些老朋友们都递了话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even our grocery's half-closed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们镇上连杂货店都是半死不活的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What used to be Produce is walled off with plywood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原来的菜市场现在四周都被胶合板圈了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the plywood is a sign: "If We Don't Have It, Sorry."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>板子上还贴着一张告示：“抱歉，没货。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CommComm's been offered a group transfer to naivac Omaha. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按上级的计划，我们社区联络处有可能全体调到位于奥马哈的某个基地去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Mom and Dad aren't allowed into the yard, much less to Omaha. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我妈我爸连院子里都去不了，更不用说去奥马哈了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when I'm not around they get agitated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而假如没有我在身边，他们就会变得焦躁不安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went to Albany last March for a seminar and they basically trashed the place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去年3月到奥尔巴尼参加一个研讨会，结果他们把家里搞得乱七八糟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Which couldn't have been easy. To even disturb a drape for them is a big deal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要知道，做到这一点对他们来说并不容易，因为就算是煽乎一下窗帘对他们都是一项艰巨任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walked in and Mom was trying to tip over the coffee table by flying through it on her knees and Dad was inside the couch, trying to weaken the springs via repetitive fast spinning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走进家门时，我妈正在跪着穿过茶几，想要把它掀翻。而我爸正在沙发里面反复地快速旋转，想用这种方法让弹簧失去弹性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They didn't mean to but were compelled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们并不是故意要这么做，只是控制不住自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even as they were flying/spinning they were apologizing profusely.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在他们这么飞啊转啊的同时，还在一个劲儿地道歉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Plus it really does stink in here," Little Bill says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“而且，这里确实很臭，”小比尔说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who all is getting a headache, raise your hand," says Jonkins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有谁已经开始头痛的，举个手。”詹金斯说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, all right," Rimney says, then goes into my cubicle and calls Odors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，那好吧，”里穆尼说，然后走进我的隔段里，给气味处打了个电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He asks why they can't get over immediately. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他问他们为什么不能马上就派人过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How many odors do they have exactly? Has the entire base suddenly gone smelly?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们到底有多少异味需要处理？是不是整个基地都突然臭气熏天了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walk in and he's not talking into the phone, just tapping it against his leg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走回到自己的隔段时，发现他并没有对着话筒说话，而是拿着它在腿上轻轻拍打着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He winks at me and asks loudly how Odors would like to try co?rdinating Community Communications while developing a splitting headache in a room that smells like ass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他冲我挤挤眼，大声地质问气味处，假如现在是他们坐在一个臭不可闻的办公室里，越来越头痛欲裂，他们还会有心情跟社区联络处谈论什么配合吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All afternoon it stinks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个下午臭味都一直没散。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At five, Rimney says let's hope for the best overnight and wear scuba gear in tomorrow, except for Jonkins, who, as far as Jonkins, they probably don't make scuba gear that humongous.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五点过后，里穆尼说，大伙今晚上都好好祈祷一番，明天穿好潜水服再来上班。但詹金斯就不用穿了，因为肯定没有他能穿进去的那么巨型的潜水服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I cannot believe you just said that," says Jonkins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“真没想到你会说出这种话来，”詹金斯说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Learn to take a joke," Rimney says, and slams into his office.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你要学会欣赏笑话，”里穆尼说道。然后走进他的办公室，甩上了门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walk out with Jonkins and Mrs. Gregg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和詹金斯还有格雷格太太一起走了出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The big flag over the Dirksen excavation is snapping in the wind, bright-yellow leaves zipping past as if weighted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在德克森中心的工地那边，一面巨幅的旗子在风中呼啦啦作响。明黄色的树叶一闪而过，好像分量不轻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I hate him," says Jonkins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我讨厌他。”詹金斯说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I feel so bad for his wife," says Mrs. Gregg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我为他的妻子感到难过，”格雷格太太说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"First you have to live with him, then you have a stroke?" says Jonkins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“先是不得不跟他住一块儿，接着自己又得了中风？”詹金斯说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And then you still have to live with him?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“然后还得继续跟他住一块儿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>says Mrs. Gregg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格雷格太太说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Dirksen Center for Terror is the town's great hope. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德克森反恐中心是我们这个镇的最大希望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If transferred to the Dirksen, you keep your benefits and years accrued and your salary goes up, because you're Homeland Security instead of Air Force. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果能调到德克森中心，福利和年资都可以得到保留，而且工资还会增加，因为那儿属于国土安全部，不再属于空军了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We've all submitted our Requests for Transfer and our Self-Assessment Worksheets and now we're just waiting to hear.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都递交了去那里的请调报告和自我评估表，现在就等着听回信了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Except Rimney. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有里穆尼例外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rimney heard right away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他马上就听到了回信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rimney knows somebody who knows somebody. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为他有个认识人在那里有些关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was immediately certified Highly Proficient and is Dirksen-bound, which, possibly, is another reason everybody hates him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他当即被确认为高素质人员，铁定会进德克森。这可能也是每个人都恨他的原因之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My feeling is, good for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我倒是觉得这对他比较好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he went to Omaha, imagine the work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他去了奥马哈，想想他的工作量得多大啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He and Val have a routine here, contacts, a special van, a custom mechanical bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他和他太太薇尔在这里已经有了一套固定的生活模式，从联系人，到特制的面包车，到改装过的机械床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine having to pick up and start over somewhere else.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象一下，要把这一切都收拾起来搬到别的地方重新开始得多麻烦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Home, home, home," says Mrs. Gregg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“家庭，家庭，家庭，”格雷格太太说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"pids, pids, pids," I say.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“发布会，发布会，发布会，”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, you poor thing," says Mrs. Gregg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，你这个可怜的家伙，”格雷格太太说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"If I had to stand up in front of all those people," says Jonkins, "I'd put a bullet in my head." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果要是让我站在所有这么多人面前的话，”詹金斯说道，“我宁愿冲自己的脑袋开一枪。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then there's a long silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很长一段时间没人说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Shit, man, sorry," he says to me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈的。伙计，对不起，”他对我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Farragut's full. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法拉格特礼堂里挤满了人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I admit, concede, explain, and pledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我按照承认——认可——解释——保证的顺序一一讲完。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the Q. &amp; A., somebody says if the base is closing, why spend big bucks on a Beaver Habitat?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在自由提问时，有人说，既然基地就快要关闭了，为什么还要花大钱去建什么海狸栖息地呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> I say because the Air Force is committed to insuring that, postClosure, all Air Force sites remain environmentally viable, prioritizing both species health and a diverse life-form mix.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说这样做是因为空军有决心使基地在关闭之后，仍能在环境方面保持达标，尤其要确保物种的健康和生命形式的多样化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterward Rimney's back by the snacks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们散了之后，里穆尼还站在售货机边上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says is there anything I can't pids? I say probably not. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他问我有没有什么题材是我不能忽悠的？我说大概没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've pidsed sexual-harassment cases, a cracked hazardous-waste incinerator, half a dozen jet-fuel spills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我主持召开过的信息发布会，涉及到的内容包括性骚扰案件、有毒废弃物焚烧炉出现裂纹的事件、以及六起喷气机燃料泄漏事件。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

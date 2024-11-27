@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T111859Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out of tragedy, normality</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走出悲剧，恢复常态
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland’s prospects look bright, despite the aeroplane crash that killed its president on April 10th. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管波兰总统于4月10日的空难中身亡，波兰依然前途光明。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Poles still have a lot to do to make the most of their chances  COMMUNAL mourning after a national tragedy is deep but transient. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰人要充分利用机会，依然任重道远。 发生国家悲剧后的公开悼念深切却转瞬即逝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People thought that the death in 1997 of Diana, Princess of Wales, would change Britain for ever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们曾经以为，1997年戴安娜王妃的逝世会永远改变英国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a few weeks, things got back to normal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几周后，一切都回到正轨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same was true in Poland after the death in 2005 of the country’s most famous son, Pope John Paul II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2005年波兰名人教皇约翰保罗二世去世后，也是如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sense of national solidarity and the kindness between strangers were overwhelming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>陌生人之间的民族团结感和友善不可抗拒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But they didn’t last.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过这些不会长久。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And so, almost certainly, it will be with the great convulsion of grief that has swept Poland since the death of President Lech Kaczynski and 95 others in an aeroplane crash in Russia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以肯定，总统莱赫·卡钦斯基及其他95人丧生于俄罗斯境内的空难，波兰为之举国哀悼带来的巨大震撼也是一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the funerals on April 17th, the media will doubtless resume its backbiting and excitability; politics will once again be bad-tempered, and people will ask hard questions about the crash.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4月17日举行完葬礼后，媒体肯定还会诽谤造谣、追求刺激；政界还会争执不断，民众会对空难纷纷发难。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of these will deserve answers more than others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些问题更加值得回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not inherently scandalous, for example, that the Polish president was flying in a Soviet-made plane, recently serviced in Russia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，波兰总统乘坐的是最近在俄罗斯检修过的苏制飞机，这不算是恶意中伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Tupolev 154 is thirsty and noisy, but robust and reliable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图154客机噪音大，但是坚固耐用、性能可靠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor do the conspiracy theories deserve a nanosecond’s attention. It is true that Poland’s wartime leader, Wladyslaw Sikorski, died in a mysterious aeroplane crash in Gibraltar in 1943, just as he was demanding the truth about the newly discovered massacre at Katyn. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>的确，波兰的战时领袖乌拉迪斯拉夫·希科尔斯基将军，就在他要求调查新发现的卡廷惨案真相时，于1943年在直布罗陀海峡葬身神秘莫测的空难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the terrible coincidence is just that: a coincidence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个可怕的巧合仅仅是巧合而已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Russia’s co-operation with the investigation cannot be faulted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>俄罗斯对此次调查的合作不能抹杀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may even be the start of a deeper reconciliation between the two countries.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这可能是俄罗斯和波兰两国冰释前嫌的开端。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What does look questionable is the concentration of talent on the passenger list. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乘客名单中人才济济，看起来颇有问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The crash cost Poland’s armed forces six of their top seven commanders, and killed dozens of other notables. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这场空难导致波兰陆海空军失去了7位司令官中的6位，几十位名人丧生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Countries and big companies usually have strict rules about how many of their most vital people can fly in the same plane. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各国和各大企业通常会严格限制乘坐同一架飞机的要人数目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The crash shows the wisdom of such practices.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次空难显示出这些举措的明智之处。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The investigation may reveal other misjudgments, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>调查也会暴露出其他的错误判断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr Kaczynski publicly berated for cowardice a pilot who refused to fly him and four other heads of state to Tbilisi during a mission to support the Georgian leadership during the war in August 2008. (The pilot later got a medal for refusing to obey the president’s reckless order.) The theory that on April 10th the pilot felt unduly pressured to get the president to the commemoration of the Katyn massacre, despite severe fog at Smolensk airport, deserves scrutiny. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年8月格鲁吉亚战争期间，卡钦斯基总统曾公开斥责飞行员胆怯懦弱，他拒绝执行任务，搭载总统和四位政府首脑飞往第比利斯去支持格鲁吉亚领导人（这位飞行员后来因拒绝遵从总统的轻率命令而获得奖章）。有人认为，4月10日飞行员在搭载总统去卡廷惨案纪念仪式中压力过大，而不顾斯摩棱斯克机场浓雾弥漫，这种理论值得推敲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some also wonder if it is overdoing things to give the late president, a divisive figure, the honour of burial in the crypt of the Wawel cathedral in Cracow, alongside Poland’s greatest leaders.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让备受争议的已故总统葬于克拉科夫的瓦维尔大教堂，与波兰伟大领袖为伴，有人疑虑此举是否过分。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But whatever combination of incompetence, recklessness and sheer bad luck turns out to have caused the disaster, the bigger picture of Poland is a bright one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管失职无能、粗心大意、运气不济加起来导致了这场灾难，波兰的广阔前景依然光明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foreigners used to stereotypes about Polish disorganisation, backwardness and prejudice find plenty to surprise them.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾对波兰抱有落后不和偏见的外国人会大吃一惊。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The clearest success is the economy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰最显著的成功就是经济。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland is not only doing well in the “ex-communist” region (already a dated category). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰不但在“前共产党”地区（过时的分类）中经济发展良好，。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its economy was the only one in Europe to boast growth last year, of 1.7%. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还是去年唯一经济增长的欧洲国家，达到1.7%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though the budget deficit is a whopping 7% of GDP, outsiders are unbothered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管预算赤字在GDP中高达7%，也跟外人不相干。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland’s banking system is solid, being largely unburdened by the rotten foreign-currency loans made in places such as Hungary and Latvia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰的银行系统资金雄厚，摆脱了匈牙利和拉脱维亚等国导致的外汇坏账。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside investors like Poland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外国投资者乐于到波兰投资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It attracted more than $10 billion in foreign direct investment last year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰去年吸引了超过100亿美元的外国直接投资。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Debt, at 53% of GDP, is manageable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>占GDP53%的债务也易于管理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Countries such as Britain might drool at that.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国等国对此垂涎不已。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland’s success is partly a matter of luck. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰的成功一方面归功于运气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its size (the biggest economy by far of the European Union’s newer members) means that domestic demand cushioned a fall in exports. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰的规模（欧盟新成员国中最大的经济体）意味着国内需求抵消了出口下滑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>EU taxpayers’ money for new roads, railways and other modernisation provided a fiscal stimulus at the right time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧盟纳税人用来修公路、铁路和其他现代化设施的钱恰当地提供了经济刺激计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Growing interest by outside investors in Poland’s big gas reserves has raised the prospect of both a bonanza and greater energy independence—a big deal in a country fearful of over-dependence on Russian gas.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外国投资者对波兰大量天然气储备的兴趣与日俱增，提升了丰富储藏和能源独立的前景，这在担心对俄罗斯天然气过分依赖的波兰是件大事。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was also good judgment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一个正确的判断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland has used monetary and fiscal policy well during the crisis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>金融危机期间，波兰运用货币政策和财政政策得当。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has made a stab at reforming the pension system—a weak point in all ex-communist countries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰努力改革养老金制度，这在所有前共产党国家都是个弱点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is using EU money more effectively than in the past. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰比过去更有效地运用欧盟资金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the biggest successes of Donald Tusk, the prime minister, has been to push squabbling local politicians to agree quickly on road-building programmes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰总理图斯克最大的一个成就是促使争论不休的本国政治家迅速同意修路计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Transport bottlenecks were an infuriating and growth-stifling feature of Polish life.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交通瓶颈是波兰生活当中令人愤怒、发展缓慢的特色。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government now exudes confidence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当前波兰政府信心十足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr Tusk heads a stable coalition with a solid parliamentary majority (unknown in modern Polish history). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总理图斯克领导着稳固的联合政府，在议会占大多数席位（在波兰现代时尚闻所未闻）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Business likes that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商界也是如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among its prominent members are the finance minister, Jacek Rostowski, an economics professor from Britain; and Radek Sikorski, the foreign minister. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中出类拔萃的人物有财政部长杰塞克·罗斯托夫斯基，来自英国的经济学教授；外交部长拉德科·斯考斯基。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A teenage refugee from communism, Mr Sikorski boasts a degree from Oxford and a high-profile American wife (who was a former Economist journalist). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯考斯基在牛津获得学位，有一位高调的美国妻子（前《经济学家》杂志记者）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both men have the connections and language skills to get Poland’s message across in a way that stirs envy among other politicians, working in laboured English or through interpreters.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两人联系广泛、英语流利，便于让人理解波兰传递的信息，这引起其他政客的妒忌，他们的英语说得结结巴巴或通过翻译来交流。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under the previous government, led by the late president’s twin brother Jaroslaw, Poland was turning into a laughing-stock. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在已故总统的孪生哥哥罗斯拉夫领导的前任政府统治下，波兰变成了笑柄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kaczynskis’ policy seemed to be to pick noisy fights with Germany, Russia and the rest of the EU, over, for example, support of the beleaguered Georgians. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，卡钦斯基兄弟的政策支持饱受围攻的格鲁吉亚，看来是向德国、俄罗斯和其他欧盟国家挑衅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the criticism was no doubt grossly unfair but the twins’ woeful tactics left Poland marginalised.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些批评毫无疑问并不公平，但是这对双胞胎大刀阔斧的策略让波兰被边缘化。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since Mr Tusk’s government took office in 2007, however, that has begun to change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，从2007年总理图斯克接手政府以来，情况开始改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The country has offered loans to stricken economies such as Iceland, Latvia and Moldova. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰向冰岛、拉脱维亚和摩尔多瓦等饱受损失的国家提供贷款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some wonder if it might help Greece, undermining the notion that Europe has a rich, well-run western half, and a poor, backward east.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人猜测波兰是否会帮助希腊，从而打破了西欧富裕良好和东欧穷困落后的成见。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Polish leaders have also made friends with Germany, seeing in Angela Merkel’s leadership an opportunity for a powerful friendship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰领导人也和德国建立了友谊，从默克尔的领导中看到加深交情的大好时机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many noticed when Guido Westerwelle, the German foreign minister, paid his first visit not (like his predecessors) to Paris, but to Warsaw.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多人注意到，德国外长基多·威斯特威勒（和前任一样）首次出访没有去巴黎，而是去了华沙。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland has always been a military heavyweight by European standards, able to deploy its 100,000-strong armed forces in Iraq and Afghanistan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照欧洲的标准衡量，波兰一直是军事强国，能够在伊拉克和阿富汗部署10万多人的军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>America likes that, seeing a sharp contrast with the feeble efforts of some other NATO allies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赞赏这一点的美国从中看出，波兰和其他北约盟友的无能为力形成鲜明对比。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In return, Poland has gained the main role in America’s anti-missile plans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>反之，波兰在美国的反导弹计划中占据了重要的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Obama administration clumsily ditched a scheme promised by the Bush administration but says the new programme will be bigger and better. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥巴马政府愚蠢地抛弃了布什政府承诺的方案，反而说新计划更宏大出色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>American energy companies’ interest in Polish gas reserves may make the connection even stronger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国能源企业对波兰天然气储备的兴趣，加强了这种联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland has also earned NATO attention on what was once the neglected home front. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经忽视大后方的北约也把注意力集中在波兰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The alliance developed contingency plans to defend Poland, and is extending them (using mainly Polish troops) to protect the vulnerable Baltic states.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>北约制定了各种应急方案来保卫波兰，并扩大这些方案（主要动用波兰军队）来保护易受攻击的波罗的海各国。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Mr Tusk’s biggest diplomatic achievement since taking office has been to steer Poland towards a rapprochement with Russia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图斯克总理执政以来最大的外交成就是领导波兰恢复和俄罗斯的良好关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The biggest sign of that was the participation of the Russian prime minister, Vladimir Putin, at a ceremony on April 7th to mark the anniversary of the Katyn massacre. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最突出的标志就是和俄罗斯总理普京于4月7日参加卡廷惨案的纪念仪式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Russian government’s reaction to the deaths of Mr Kaczynski and his entourage seems designed to take the process further (see article).
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>俄罗斯政府对波兰总统及其随同人员身亡的反映看来旨在进一步推动这一进程。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is a big change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是个巨大的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland used to be the most forthright critic of Mr Putin’s regime. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰曾经受到普京政府最直截了当的批评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Russian leader said that Poland would be a nuclear target in wartime.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>俄罗斯领导人曾说，在战争时期波兰会是核打击目标。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The countries’ reconciliation still has a long way to go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两国的和解依然任重道远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr Putin has expressed sympathy for the victims of Katyn. But he has not publicly condemned their executioners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普京对卡廷惨案的受害者表示同情，但是没有公开谴责杀害他们的刽子手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in a response to a lawsuit at the European Court of Human Rights brought by relatives of Katyn victims, Russia still claims that it is not clear who perpetrated the massacre. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡廷惨案受害人的亲属向欧洲人权法庭起诉，俄罗斯的反应却是宣称不清楚屠杀的罪魁祸首。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many Poles find that outrageous: it is as if, they say, modern Germany were to admit the Holocaust was not a myth yet still hesitated to condemn Hitler outright.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多波兰人觉得非常愤慨：他们说，这就像德国承认大屠杀不是杜撰，却对直接谴责希特勒充满顾虑。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such feelings brought Mr Kaczynski, along with almost the entire foreign-policy leadership of his party, the commanders of the armed forces, senior intelligence veterans and top historians, to board the plane that crashed on April 10th. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是这种种情感，让卡钦斯基总统及制定外交政策的全班人马、军队高官、资深情报官员和历史学家，坐上了4月10日坠毁的那架飞机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were paying their own unofficial visit, an alternative to the (in their eyes, phoney) reconciliation of the earlier event attended by Messrs Tusk and Putin.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的非正式访问，正是图斯克和普京出席和解仪式的替代方案（在他们看来都是借口）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many countries, the destruction of so great a part of the top echelon would have precipitated a crisis, domestically and on foreign-exchange markets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在很多国家，多名政府高层身亡会在国内和外汇市场引发危机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is hugely to Poland’s credit that this has not happened: the country’s institutions and constitution have passed the test almost serenely.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰并没有发生这些情况，对国家信誉意义重大：波兰的制度和宪法都经受住了严峻的考验。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it has taken a great tragedy to remind Poles of this achievement because, for many of them, too little has changed in daily life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是这场巨大的悲剧让波兰人想起了这一成就，很多人的日常生活没有什么改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A million or more have gone to work in other EU countries, chiefly Britain and Ireland. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一百多万人去欧盟其他国家工作，主要是英国和爱尔兰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite the downturn there and Poland’s economic success, they are so far mostly not coming back.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管是经济衰退还是波兰的经济腾飞，目前他们多半不会回来。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reasons are complex. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原因非常复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland has little tradition of internal labour mobility, so shortages in Warsaw and the country’s booming western crescent can coexist with deep joblessness in the east. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰几乎没有劳动力跨国迁徙的传统，华沙这方面更是不足，蓬勃发展的西部能和失业率高的东部和平共处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It can be easier, with a budget airline, to commute weekly to Britain than to drive to a job 100km away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>廉价航空让每周往返英国比驱车100公里去上班更容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Petty corruption in health care and education is endemic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医疗和教育领域的少数腐败问题是地方特色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps most worrying, social mobility is stagnating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更糟的是，社会流动性停滞不前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the collapse of communism, a bright young person could aim high. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>共产主义倒台后，生机勃勃的年轻人胸怀大志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now many feel that without good connections, it is best to head abroad.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，很多人觉得，没有良好关系的话，最好去国外发展。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The suspicion lingers that the country’s old communist elite and their children have morphed into a new nomenklatura. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有人怀疑，波兰的老牌共产党精英及其后代形成了新的权贵阶层。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poles call this idea the Uklad, an all-but-untranslatable word meaning “deal”, “arrangement” or “system”. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰人把这种想法叫做“布局”，这个词几乎没法翻译，意为“交易”、“安排”或“体系”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The price of the communist surrender in 1989 was that the old elite was able to turn its power into wealth, using connections, slush funds and privileges to gain a head start in the country’s shift to capitalism.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1989年共产党放弃政权的代价是老牌精英能够把权力变成财富，动用关系、贿赂和特权，在波兰向资本主义转型时遥遥领先。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Kaczynskis found that idea repellent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡钦斯基认为这种想法令人厌恶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They wanted a fresh start and called it a “Fourth Republic”. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们想重新开始，称其为“第四共和国”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But during their ill-starred government of 2005-07, the atmosphere was more reminiscent of Robespierre than Benjamin Franklin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2005到2007年间，政府表现不佳，政治氛围让人想起罗伯斯庇尔而不是富兰克林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prosecutors conducted trial by press conference, denouncing victims live on television on what often seemed the flimsiest of grounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>检察官纷纷借助新闻发布会处理案件，通过电视直播指责受害人，理由常常看起来站不住脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Overzealous sleaze-busting was matched by an apparently obsessive focus on reforming the over-mighty military-intelligence service.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既热衷于人身攻击，又致力于改革臃肿的军队情报机构，两者不相上下。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Disquiet about the brothers’ vengeful, chaotic and weird reputation led to their downfall in 2007 and the election of Mr Tusk’s Civic Platform party. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡钦斯基兄弟报复心强、混乱无序、古怪离奇，民众对两人的不满导致他们在2007年垮台，图斯克的公民纲领党当选。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The big criticism of his government is that presentation outweighs substance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图斯克政府遭受的批评是政治表现胜过本质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poland’s prosperity rests on a surprisingly narrow base. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波兰经济繁荣依赖的基础窄的惊人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It needs structural reforms to deal with, for example, a rapidly ageing workforce, only just over half of whom are economically active.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，波兰需要经济结构改革来解决快速增长的老龄化劳动力，他们只有一多半人从事经济活动。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The deaths of Mr Kaczynski and many of his closest allies leave a big political hole but also create an opportunity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡钦斯基总统和许多亲密盟友的身亡留下了政治空白，也带来了大好机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The late president was already facing a tough challenge from Mr Tusk’s party in the presidential race that was due in October. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原定于10月举行的总统大选中，已故总统本来要面临图斯克政党的强硬挑战。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That election will now be in June. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今，大选提前到了6月举行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bronislaw Komorowski, who is acting president by virtue of his position as speaker of the lower house of parliament, the Sejm, is also the Civic Platform candidate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众议院议长布罗尼斯拉夫·科莫罗夫斯基就任代总统，还是公民纲领党的总统候选人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A victory for him would make Mr Tusk’s efforts to consolidate the centre-right of the Polish political spectrum start to look unstoppable.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他获胜，会让图斯克巩固波兰政坛中右派的努力势不可挡。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most powerful candidate for Law and Justice would be Mr Kaczynski’s twin, Jaroslaw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法律与公正党最强有力的候选人是卡钦斯基的孪生哥哥雅罗斯拉夫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His intentions are unclear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的意向尚不明了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he stands, he could gain a big sympathy vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他如果参选，将会赢得许多同情票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he might also remind Poles why they voted him out of office as prime minister. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过他也会提醒波兰人，当初为什么要投票罢免他的总理职务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some Poles believe that a cross-party candidate would be the right step.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些波兰人相信，跨党派候选人会是正确的选择。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of Mr Tusk’s biggest excuses for his government’s cautious approach to reform is that anything radical might be met with a presidential veto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图斯克总理称，政府改革措施谨慎最重要的一个理由是激进行为会遭到总统反对。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

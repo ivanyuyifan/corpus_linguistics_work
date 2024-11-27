@@ -1,0 +1,72 @@
+How To Make An eBook 
+Making an eBook is easy, regardless of your coding experience. 
+This is good, because 99.9% of your time should be spent on writing and getting your book out there, rather than on technology.
+EPUB And Kindle
+Any electronic book can be called an eBook, but because over 90% of all eBooks are read on Amazon's Kindle, Apple's iOS devices (iPad, iPhone and iPod) and the Barnes & Noble Nook, I'll focus on the formats for those platforms:
+EPUB
+This is an open standard adopted by Apple (iOS), Barnes & Noble (Nook) and many other makers of eBook readers (such as Sony). 
+Unfortunately, Amazon has decided NOT to support EPUB in the next version of their Kindle.
+Kindle
+This is a proprietary format that Amazon uses for its Kindle, which is a modification of the Mobipocket format.
+PDF
+PDF is inherently made for print and doesn't display well on digital devices. But if you really need to get data out to an iOS or Android devicenow, then it's a useful format. 
+Update: Kindle DOES support PDF.
+Aside to geeks: The current version of EPUB is based on XHTML 1.1, which was officially proposed in 1999. 
+That was the year when Internet Explorer 5.0 was released and grabbed over 50% of browser market share from Netscape Navigator. 
+This is great because XHTML is an open standard that many developers know; unfortunately, it's very old.
+What Kind Of Book Makes The Best eBook?
+EPUB was truly designed to display text, possibly with some inline images. 
+While creating an EPUB illustrated children's book, comic book, travel book or cookbook is possible, it's a lot more work and doesn't work very consistently across platforms. 
+A good rule of thumb is that eBooks are best for books with a lot of words (think New York Times bestseller list).
+When deciding whether your book is a good candidate for an eBook, keep in mind that the "killer feature" of eBooks, surprisingly, is their ability to increase in font size. 
+This means that every book becomes a large-type book, which is why baby-boomers have driven the adoption of digital books over the past few years.
+Also keep in mind that more than half of all eBook-reading devices are black and white, which is another reason to steer clear of picture-based books.
+These demographics and format limitations will change over time. But for now, my recommendation is to make your first eBook a text-based one.
+Aside to geeks: If you're interested in making a picture book for iOS devices and aren't afraid of code, check out Elizabeth Castro's excellent guide on how to code a fixed-layout EPUB file.
+Making Your First eBook 
+The easiest way to make an eBook is to outsource it. 
+A number of services, such as Lulu and Smashwords, will translate your Word document into an EPUB fairly inexpensively. 
+These services have relationships with Amazon and Apple (as well as other digital bookstores) and will not only create your digital eBook but submit it to these bookstores for a small fee. 
+For more information on choosing a service, see Christine Mark's guide on choosing an EPUB publisher.
+If you want to sell your book only in Amazon's Kindle Store, you can convert your Word file for free by submitting it yourself to Amazon's Kindle Direct Publishing(KDP). 
+If you're mostly interested in Apple's eco-system, then you probably already have a copy of Pages on your machine (if not, you can get it for $20). 
+Pages is Apple's version of Microsoft Word and has a simple and effective EPUB export option. 
+To create your book, simply make the first page your book's cover, use section breaks between chapters, and then select File -> Export -> EPUB.
+If you don't have a Mac or want to convert to more formats, your best choice of software is Calibre. Calibre is relatively easy to use and does a good job of converting from many standard formats (including Microsoft Word) to the top eBook formats (EPUB and the Kindle's Mobipocket format). 
+You can download Calibre for free. 
+Alternatively, if you need to convert only to Kindle, Amazon provides free conversion software called Kindlegen.
+Another common choice for building eBooks is InDesign, but I'd recommend that you steer clear from it until you have a few eBooks under your belt. 
+Even though it technically can export to EPUB and Kindle formats, it's a bit clunky and adds a lot of crud. 
+More importantly, InDesign was built from the ground up to handle print, so it encourages you to think in print metaphors, which don't always apply to eBooks and which will lead to layout problems. 
+In our experience, programming your own EPUBs by hand is easier. 
+Even still, I don't recommend it.
+Coding By Hand 
+If everything said above sounds too easy and you're looking for a challenge, another option is to code your EPUB by hand. 
+This feels like programming in a time warp. 
+EPUB is built on such an outdated version of XHTML that half the time you'll be reminding yourself that everything in the EPUB must be declared in the manifest file (really?), while the other half of the time you'll be recalling how you used to program HTML in the '90s.
+If you're still not convinced and have a pressing desire to learn how to code an EPUB by hand, you have two options: 
+Grab an EPUB from the Web that doesn't have any DRM in it. Change the extension from .epub to .zip and unZip it (you may need to use Stuffit Expander if you're on a Mac). 
+Now you're free to hack away at the file and see what happens. 
+Keep in mind that every file in the EPUB must be in the manifest (package.opf). There are a couple of books you can pick apart to get started (including my best-selling children's book, which you can get for free on my website or buy from the Apple bookstore to show your love).
+Check out "EPUB Straight to the Point" by Elizabeth Castro, and she'll walk you through it.
+The container.xml file, MIME type, and folder structure are pretty standard for all books. 
+Images can be in PNG, JPEG, GIF or SVG format. I usually stick with PNG, with JPEG as a fall-back.
+The epb.ncx file is the table of contents and is pretty straightforward.
+The epb.opf file is the manifest where you set the meta data (title, author, ISBN, etc.), but it's also where every other file in the EPUB is declared. 
+Every image, HTML or CSS file must be listed here. 
+It's a pain in the butt and one reason why I personally avoid hand-coding EPUB if possible.
+The CSS is pretty much what you'd expect, although a very limited subset.
+The HTML is also very straightforward. Below is a sample of the HTML that Apple Pages spit out for my book. 
+As you can see, it's not very pretty (instead of a simple), but it's functional and easy to understand.
+If you are creating your own EPUB, be sure to validate it with Threepress' validator, and consider using Calibre to convert your EPUB to a Kindle-friendly format.
+The Future Of EPUB
+EPUB 3.0 holds a lot of promise and includes the following changes (many of which Apple has already adopted): 
+Support for HTML5 (yay!) and CSS 2.1;
+Various structural changes to file names and locations; 
+Support for embedded fonts, audio and video, as well as media overlays and triggers and scripts.
+Unfortunately, EPUB 3.0 doesn't support illustrated books, so we can expect to see some fragmentation as Apple and other vendors innovate around these limitations.
+With the next version of Kindle supporting EPUB, we'll see over the next year or two whether we wind up with an "Apple EPUB" and an "Amazon EPUB," or a "pure" EPUB format. 
+Ultimately, the answer will depend on how quickly the International Digital Publishing Forum (IDPF) can finalize its standards.
+Of course, all of this speculation about the future is somewhat theoretical. 
+If you have a book to publish now, my suggestion is don't worry about the future; just dive right in and make it. 
+And let me know in the comments how it turned out and what worked best for you.

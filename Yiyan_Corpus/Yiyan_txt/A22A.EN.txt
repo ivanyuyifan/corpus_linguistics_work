@@ -1,0 +1,50 @@
+Curiosity, NASA Rover, Ready for Mars Landing
+Right now, a spacecraft containing Curiosity's car-size, nuclear-powered planet rover is coasting at 8,000 miles per hour toward Mars, nearing the end of a journey that began in November. 
+With tightening budgets, it is the last big hurrah for NASA' s planetary program for quite a few years. 
+Packed with ingenious new instruments, the rover promises to provide the best-ever examination of the Red Planet, digging up clues to a profound question: Could there ever have been life there?
+Over the coming week, the pull of gravity will accelerate the spacecraft to 13,000 miles per hour, and early Monday morning Eastern Daylight Time, it is scheduled to execute a series of astoundingly complicated maneuvers and place the rover on the surface. 
+Its new home will be the Gale Crater, just south of the equator, a 96-mile-wide bowl punched out by a meteor more than 3.5 billion years ago. It is one of the lowest places on Mars, which should help advance Curiosity' s $2.5 billion mission: studying the environment of early Mars.
+"Water flows downhill, and that's where we're going," John P. Grotzinger, a professor of geology at the California Institute of Technology who serves as the mission? s project scientist, said during a news conference this month.
+Bits of the Martian past may lie in the rocks at the bottom of the crater. 
+Over the past decade, NASA' s robotic spacecraft have turned up convincing evidence that eons ago the planet held one of the prerequisites for life. Water flowed on Mars, at least on occasion.
+Life' s other prerequisites are carbon-based molecules and energy. Sunshine or volcanic heat could have provided the necessary energy. 
+With Curiosity, the search is on for the carbon-based molecules.
+I think this is the Hubble Space Telescope of Mars exploration, said John M. Grunsfeld, NASA¡¯ s associate administrator in charge of the science mission directorate. (He is best known as the Hubble repairman, flying on three space shuttle missions to refurbish and upgrade the telescope.)  
+This is the first time that we have a real analytical laboratory heading to the surface.
+But before Curiosity can make any discoveries, it has to land.
+In the control room at NASA' s Jet Propulsion Laboratory in Pasadena,Calif., it will still be Sunday evening when the nervous wait begins. 
+First will come word that the spacecraft containing Curiosity has entered the Martian atmosphere. Just seven minutes later, the spacecraft must flawlessly execute a series of complex maneuvers to land the rover on the surface.
+If all goes as planned, the friction of Mars' thin air rushing past the heat shield will have slowed the spacecraft to 1,000 miles per hour. A 51-foot-wide parachute will pop out, generating up to 65,000 pounds of drag force. Then the heat shield will pop off so that the radar can find the landing site in Gale Crater.
+Even with the parachute drag, the spacecraft will be barreling toward the surface at 200 miles per hour. 
+Next it will cut away the parachute and ignite its descent engines to slow down further.
+The last three NASA rovers' Sojourner in 1997 and Spirit and Opportunity in 2004 had similar landing systems, except for the final step. For those three, a cocoon of air bags inflated around the rover, which was then dropped the last 50 feet or so, bouncing and rolling until it came to a stop.
+But Curiosity, about the size of a Mini Cooper, is five times as heavy as Spirit or Opportunity, making air bags impractical. It would be equivalent of trying to cushion a car hitting a brick wall at highway speed without any damage to the car.
+Instead, Curiosity will be lowered by cable all the way to the ground from the hovering rocket stage in what NASA calls a sky crane maneuver. 
+Once Curiosity bumps into Mars at a gentle 1.7 miles per hour, the cable will be cut, and the rocket stage will fly off to crash about a third of a mile away.
+Is it crazy? Doug McCuistion, director of NASA's Mars exploration program, asked rhetorically during the news conference. 
+Well, not so much. 
+Once you get comfortable, once you understand it, it¡¯ s not a crazy concept.
+The NASA engineers who devised the sky crane maneuver say that after thorough testing of the different parts of the system and numerous computer simulations, they are confident that they have built something that will work.
+"In the simulated world, we've landed on Mars millions of times, one of the engineers, "Steven Lee, said in an interview. 
+"I' m actually very comfortable. I' m more comfortable with the impending landing than I was with the launch."
+If it survives, Curiosity will come to rest about 1:17 a.m. Eastern Daylight Time. 
+NASA's Mars Odyssey orbiter will be passing overhead, in position to relay radio transmissions from Curiosity to Earth. 
+About 14 minutes later, the fate of Curiosity may be known at mission control. 
+(NASA warns that with the vagaries of space communications, a day or two could pass before confirmation of a successful landing reaches Earth.)
+Engineers and scientists will spend several weeks checking out the condition of the rover. 
+A few photographs will be beamed back the first few days, first in black and white, then in color. 
+One of the first chores will be a software upgrade for Curiosity's computers. 
+The first drive is most likely more than a week after landing. The first flexing of the rover's robotic arm would occur after that.
+"In a couple of months, we'll be on the road to Mount Sharp," said Dr. Grotzinger, the project scientist.
+For reasons no one can quite explain, a three-mile-high mountain, Aeolis Mons, stands at the center of Gale Crater. 
+Informally known as Mount Sharp, in honor of Robert P. Sharp, a pioneering planetary scientist at Caltech, it is taller than any mountain in the continental United States. 
+Orbiting spacecraft have already observed that Mount Sharp consists of layered rocks presumably formed out of sediment that settled at the bottom of Gale over millions of years. 
+Later the sediment was somehow scoured out, leaving Mount Sharp at the center.
+The layers, scientists believe, will provide a history book about early Mars. 
+Orbiters have spotted at the base of the mountain signs of clays- minerals that form in the presence of water and that point to an environment that was less acidic than present-day Mars. 
+As Curiosity crawls up the mountain, it will roll across younger and younger rocks, and the changes could tell how the environment of Mars changed.
+For that task, Curiosity is carrying some of the most sophisticated science tools ever devised. 
+A rock-vaporizing laser called ChemCam can turn a smidgen of rock into a puff of glowing, superhot gas from a distance of up to 25 feet. From the colors of light emitted by the gas, ChemCam can identify elements in the rock. 
+A rock full of carbon, for example, would merit a closer look.
+"It is really designed to be a sentry or advance guard for the rover and identify the most interesting samples," said Roger C. Wiens, a physicist at Los Alamos National Laboratory who is the instrument' s principal investigator. 
+ChemCam can also vaporize dust on a rock to get a better look at its surface.

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Is the Age of Cyber War at Hand? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>信息战时代是否已经来临？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As millions of Americans all over the world celebrated their nation’s independence over the July 4th holiday weekend, Web sites belonging to their government were bombarded with access requests, slowing and sometimes blocking access to the sites. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>七月4日周末假期，当全世界的几百万美国人庆祝国家独立日时，他们政府的网站正遭到ar攻击，速度缓慢并且会间断地阻塞对这些网站的访问。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These denial-of-service attacks targeted the White House, Department of Homeland Security, U.S.Secret Service, National Security Agency, Federal Trade Commission, Department of the Treasury, Department of Defense and the Department ofState, as well as the New York Stock Exchange, Nasdaq, Amazon and Yahoo.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>成为这些拒绝服务攻击的目标的，包括白宫，国土安全局，秘密服务局，国家安全局，联邦贸易委员会，财政部，国防部以及美国政府，也包括纽约证券交易所，纳斯达克，亚马逊和雅虎。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When these sites were attacked, however, the whole country was busy spending time with friends and family and grilling food on their patios. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当这些站点遭受攻击时，整个国家的人们都在朋友以及家人在自己的庭院里享受烧烤。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hardly anyone seemed to notice that they could not access the latest news from the Federal Trade Commission or the Treasury Department.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>几乎没有人意识到，他们已经无法获得有关联邦贸易委员会或者是财政部的最新消息。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The following Tuesday, 11 Web sites of the SouthKorean government were brought down by the same network of 50,000 computers used in the attacks on the United States. South Korean intelligence officials blamed North Korea as the source of the attacks, an allegation that was reported by the Associated Press. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来的周五，南韩政府的11个网站遭受相同电脑网络的攻击导致下线，该网络是位于美国境内的50000台电脑，一份联合声明发表出来。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Suddenly a lot more people started paying attention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一时之间，吸引到了大量的关注。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Internet security experts quickly determined that an unsophisticated adversary launched the attacks on the U.S. and South Korea, and debated whether North Korea was behind the attacks.Many of the Web sites were able to return to their usual business within a few hours. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>互联网安全专家很快判断出有隐藏的敌人发动了针对美国和南朝鲜的攻击事件，并且争论北朝鲜是否隐藏在这起事件的背后。遭受攻击的网站大部分都在较短的时间内恢复了日常运作。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some security experts and policymakers concluded that the attacks were no more than a nuisance to the people of the United States and South Korea, regardless of whether North Korea was responsible.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些安全专家和政策决策者认定这只不过是一起对美国和北韩来说，令人生厌的事件罢了，并不去考虑北朝鲜是否队负有责任。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What was the motive behind the July 4 attacks?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>七月4日攻击的目的是什么？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the attacks did originate from North Korea, one motivation could have been to test the impact of flooding South Korean networks and the transcontinental communications between the U.S. government and South Korea on the ability of the U.S. military in South Korea to communicate with military leaders in Washington and the PacificCommand in Hawaii, suggests Dmitri Alperovitch, Vice President of Threat Research at McAfee. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来自mcafee的危机研究副主任认为，如果这些攻击的确来自北朝鲜，那么他的目的之一就是评估南韩网络的抗洪流能力，以及美国政府和南朝鲜的跨海洋信息通信，韩美军队与华盛顿军队领导人之间通信能力以及来自太平洋夏威夷指令的有效性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The ability of the North Koreans to severely diminish the information transmission capacity of those links would provide them with a significant advantage in case of a surprise attack on South Korea across the Demilitarized Zone.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种严格限制这些电路信息传输效率的能力将带给北朝鲜在进行非武装区的针对南韩的突然袭击时带来显著的优势。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Georgian Cyber “Flood”: A Model for Future Conflicts?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>格鲁吉亚信息洪流：一种未来冲突模式？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In August 2008 Russia attacked the nation of Georgia in a dispute over the Georgian province of South Ossetia. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2008年8月，俄罗斯在一场关于位于南奥赛梯的格鲁吉亚省的争议中攻击了格鲁吉亚国。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As the Russian military mounted its assault on the ground and in the air, a group of Russian nationalists joined the fray incyberspace. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在俄罗斯军队从地面和空中展开军事袭击时，一些俄罗斯民族主义者则参与了有关信息领域的破坏。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Any civilian, Russian-born or otherwise,aspiring to be a cyber warrior was able to visit pro-Russia websites to download the software and instructions necessary to launch denial of-service attacks on Georgia. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>俄罗斯裔市民，或者其他希望成为信息斗士的人都可以从名叫前苏联的网站下载软件和相关指令说明来进行针对格鲁吉亚的拒绝服务攻击。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On one Web site, called StopGeorgia, visitors could download a list of target Web sites and an automated software utility. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在一个叫做停止格鲁吉亚的站点，访问者可以下载目标网络列表以及一个自动化软件包。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The only effort required by the user was to enter the Web address of a target and click a button labeled “Start Flood.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>使用者需要做的仅仅只是进入目标站点的地址并单击一个叫做开始洪流的按钮。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The coordinated assault inundated Georgia’s government and media Web sites with access requests. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这个协调攻击淹没了格鲁吉亚的政府和媒体站点的访问能力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While the effects were minor at first,with service going down on some Web sites sporadically, the denial-of-service attacks became more severe once the armed hostilities started. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当效果开始还较小时，这些站点偶尔断掉服务，拒绝服务攻击随着武装的敌对行为开始变的越来越严重。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>News and government Web sites were no longer reachable by anyone within or outside Georgia, severely hampering Georgia’s public communications.Russia achieved a significant psychological victory by preventing Georgia from disseminating accurate information about the state of battle to the public. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新闻和政府站点不管是从格鲁吉亚国内还是国外都变得不可访问，严重的阻碍了格鲁吉亚的公共通信。俄罗斯一个有效的胜利，它成功的阻碍了格鲁吉亚国发布有关这场冲突的确切信息。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And, with Georgia’s side of the story silenced, Russia practically won the battle overinternational public opinion by default.Russia denied any involvement on the part of its military or government in the cyber attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>并且，由于格鲁吉亚单方面的沉默，导致俄罗斯实际上在国际公共意见领域赢得了这场战争。 俄罗斯方面否认他的军队和政府部门参与了信息攻击。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>But some people were suspicious that the Russian military had the serendipity to begin hostilities on the ground concurrently with an entirely independent civilian cyber assault. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但是一些人还是怀疑俄罗斯军方有意在一个完全独立的市民信息攻击的同时开始他的敌对行为的可能性。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The U.S. Cyber Consequences Unit (US-CCU), an independent, non-profit research institute, began monitoring the situation almost immediately after the attacks, in part to determine how the campaign was organized. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>美国信息队列组织，一个独立的非盈利研究机构，在攻击发起后马上开始监控情况，以检测这场运动是如何组织的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In a recently released report, the US-CCU concluded that all of the attackers and activities showed every sign of being civilian, yet someone in the Russian government must have given the organizers of the attacks advanced notice of the timing of Russia’s military operations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在一个最新发布的报告中，us-ccu组织表示所有的攻击和行为表明，一些俄罗斯政府的员工给了袭击的组织者有关俄罗斯军队操作的基本时间。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Others had a different view of the attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其他人不认同认为这些袭击与认为仅仅只是不快事件的观点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>By the end of the week, Representative Peter Hoekstra, a member of the U.S. Congress, was stating publicly that the U.S. should conduct a “show of force or strength” against North Korea for its alleged role in the attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在上周周末，国会议员peter Hoekstra，公开声称美国应该主导一次武力演示，以应对朝鲜这次在这些袭击中扮演的角色。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“Whether it is a counterattack on cyber, whether it is, you know, more international sanctions...but it is time for America and South Korea, Japan and others to stand up to North Korea,” he said, “or the next time...they will go in and shut down a banking system or they will manipulate financial data or they will manipulate the electrical grid...and they may miscalculate and people could be killed.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“不管是信息领域的反击也好，或者说是国际制裁也好。。。现在是美国和南韩以及日本等国家勇敢面对北朝鲜的时候了”，“或许，下一次。。他们将进入并关闭银行系统或者制造金融数据，也可能控制电力网络。。。他们也可能错误计算而导致人员的伤亡。” </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The attacks were perhaps more than a simple crime in cyberspace, but did they warrant a U.S.political response or threat of military action? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些攻击可能不仅仅是一次简单的信息领域的犯罪行动，但是它的确表明美国的政治反应是合理的吗？或者说，它的的确确的威胁了军事行动吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What was the motive of the attackers? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些攻击者的动机何在？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Was there any truth to the assertion that North Korea was responsible for the attacks? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有关于北朝鲜应该为此次攻击活动负责的说法是否有证据呢？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If they were, what were the intended consequences?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果他们的确是对此负有责任的话，那么这个蓄意破坏造成的恶果又是什么呢？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The answers to all these questions were unclear.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些问题的答案仍不明朗。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet these cyber attacks were not the first ones to raise such questions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而这不是第一次引发这些问题的攻击行为。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In 2007 Estonia fell victim to a series of denial-of-service attacks on government and commercial Web sites. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2007年，爱沙尼亚的政府和商业站点都成为一系列拒绝访问攻击的牺牲品。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The attacks lasted for weeks, affecting the ability of Estonians to access their checking accounts online and conduct e-commerce. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该攻击持续了数周，影响了爱沙尼亚的在线账号以及电子商务活动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Technical analysis showed the attacks came from sources within Russia, but the Russian government denied any responsibility. Although Estonia is a member of the NorthAtlantic Treaty Organization—an alliance established during the Cold War to deter attacks from the Soviet Union—the members of the NATOdid not seriously consider an official military or diplomatic response to the attacks, according to Taimar Peterkop, Defense Counselor at the Embassy of Estonia in Washington. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>技术分析显示这些攻击来自于俄罗斯国内，但是俄罗斯政府拒绝作出任何回应。 尽管爱沙尼亚是北约的成员国（北大西洋条约组织---一个建立于冷战时代以抗衡苏联的组织），但是，按照该国驻美国大使，Taimar Peterkop 的说法，北约的成员国没有就攻击事件提出正式的军事或者外交回应。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some members of NATO did send technical advisors to help Estonia reduce the impact of the attacks, but the assistance was not provided as part of an official NATO mission. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些北约的成员国的确拍了技术顾问去协助爱沙尼亚减少攻击的影响，但是北约一直没有将提供此援助认同为北约的官方行动。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once the attacks subsided, Estonia attempted to pursue the perpetrators through a law enforcement response to the attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随着攻击的平息，爱沙尼亚计划针对攻击活动，通过法律手段逮捕那些破坏者。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The investigation was successful in identifying some of the attackers in Russia, but Estonian law enforcement officers reached a dead end when they sought help from their Russian counterparts. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调查工作在判别那些俄罗斯境内的攻击者身份时比较顺利，但是爱沙尼亚法律机构在希望得到来自他们在俄罗斯的合作人帮助时被迫停止。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“Estonia has been unable to convince the Russian authorities to apprehend the offenders and bring them to justice,” Peterkop said.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Peterkop说“爱沙尼亚还不能够说服俄罗斯官方去逮捕那些肇事者并将他们绳之于法”。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the wake of these events and others, governments around the world are increasing their efforts to prepare for future cyber attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这次事件之后，全球各国都开始越来越关注努力为将来的信息攻击做准备。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>NATO has setup a “Center of Excellence” for cyber defense inEstonia to study cyber attacks and determine under what circumstances a cyber attack should trigger NATO’s common defense principle that “an attack on one is an attack on all.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>北约已经在爱沙尼亚建立了一个“智能中心”以进行信息防御，该中心研究信息攻击并且判断哪种情形的信息攻击将会触及北约共同防御原则，即“攻击一点及攻击全部”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In June 2009, U.S.Defense Secretary Gates announced the formation of the U.S. Cyber Command, a sub-unified organization under U.S. Strategic Command. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在2009年7月，美国国防部宣布成立美国网络司令部，该部门隶属于美国战略司令部。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Led by a four-star general, the new command is designed to defend vital U.S. military networks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由一名4星上将领导，该部的目的是保护重要的美国军事网络。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The UKgovernment recently announced plans to create a central Office of Cyber Security (OCS) to deal with the rising level of online attacks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>英国政府最近宣布了建造网络安全中心的计划，该中心将处理日益上升的在线攻击。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The OCS will have a role in coordinating offensive capabilities and, in extreme cases, would have the ability to mount a cyber attack in response to intrusions on UK networks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该中心还将负责在极端情况下协调攻击能力，将有具备针对在英国网络上进行的攻击活动进行反击的能力。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cooperative Cyber Defence Centre of Excellence</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络防御卓越中心合作组织 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Cooperative Cyber Defence Centre of Excellence (CCDCOE) was established in May 2008 in Tallinn, Estonia to enhance NATO’s cyber defense capabilities. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>为了提高北约的网络防御能力，网络防御卓越中心合作组织CCDCOE于2008年5月在爱沙尼亚的首都塔林成立。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The CCDCOE is an international organization with membership open to all NATO nations.Currently, Estonia, Latvia, Lithuania, Germany, Italy, the Slovak Republic, and Spain have signed the memorandum of understanding to provide personnel and funding as Sponsoring Nations. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该组织是一个国际性组织，会员资格向全体北约开放。现在，作为发起国，爱沙尼亚，拉脱维亚，立陶宛，德国，意大利，和斯洛伐克共和国以及西班牙签署备忘录以提供人力物力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The mission of the CCDCOE is to improve the capabilities,cooperation and information sharing amongNATO nations through education, research and development, consultation and evaluation of lessons learned from cyber conflicts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>CCDCOE的任务是在教育，研究和开发，咨询以及从网路攻击中吸取教训，来提高北约相关能力的合作以及北约国家的信息共享。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Toward a Definition of Cyber War</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>面对网络战的定义 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>War is typically defined as the use of force, or violence, by a nation-state to compel another to fulfill its will. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>战争一般被定义为武力，或者暴力的使用，由一个国家强加给另外一个国家，并以此来达成他的目的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Prussian strategist Carl von Clausewitz essentially defined it this way in his book On War—a classic for strategic military thinking from the early 19th century. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>普鲁士战略家克劳塞维茨在他的古典军事战略思想著作---《战争论》中，就进行了如此定义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Specifically, he described war as “the continuation of politics by other means.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他定义战争为政治的一种其他手段的延续。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In other words, military conflict is a way for nationstates to achieve their political objectives when other means, such as diplomacy, are not working or are less expedient than violence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>换句话说，军事冲突时国家之间在其他手段，例如外交手段，不能运作或者是不如暴力有效的时候，为了达到他们的政治目的，所采用的一种手段。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Clausewitz’s concepts continue to frame the way military strategists and international relations theorists think about war today.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>克劳塞维茨的理论中进一步的架构了现在的军事战略家以及国际关系理论家们所认同的战争结构。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The world’s increasing reliance on information technology coupled with the growing sophistication of cyber attackers has prompted experts to examine the notion of “cyber war.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>世界正在越来越依赖于信息技术，而与此同时，逐渐模糊的网络攻击者也正在提示专家们检验网络战的概念。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet there is disagreement among cyber security, technology and international relations experts as to what kind of actions, if any, constitute warfare in cyberspace.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，现在在网络安全领域，技术和国际关系专家应该如何定义哪些行为，如果有的话，构成了网络领域的战争。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When determining whether a cyber attack is an act of cyber war, experts evaluate four key attack attributes: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在如何定位一个网络攻击是否是网络战行为的时候，专家们评估四个关键的攻击属性： </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Source: Was the attack carried out or supported by a nation-state?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>来源：攻击行为是否由国家运作或者支持？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Consequence: Did the attack cause harm?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>结果：攻击行为是否导致了危害？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Motivation: Was the attack politically motivated?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>动机：攻击行为是否由政治性目标引发？ </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Sophistication: Did the attack require customized methods and/or complex planning?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>复杂性：该攻击行为是否需要定制化手段以及/或者复杂的计划？</seg></tuv>
+</tu>
+</body>
+</tmx>

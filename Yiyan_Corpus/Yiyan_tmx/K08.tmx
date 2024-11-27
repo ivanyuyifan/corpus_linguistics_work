@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160906T093319Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The House on Kronenstrasse </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德意志往事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I. Christiane. New York City, 1985 </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，1985年，克丽丝汀在纽约</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this memory, which has haunted me the whole of my life, I am perhaps two and a half years old, and dressed in a special dress made of maroon velvet and lace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约是我两岁半那年吧，发生的事就永远牵绊着我这一生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am playing in a fountain that is ornate - and dry. The dryness is a striking fact, for until this moment of recollection, I know it only as a fountain that furiously spurts; I am accustomed to leaping away from its spray.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还记得那一天我穿着全由栗色的天鹅绒编织成的裙摆，在干涸的喷水池里玩耍嬉戏，——的确如此，至今，我仍旧记得那个喷水池的模样，一般说来，喷水池总是在不断地向外喷涌出激情欢快的水花，可它却勾起了我的记忆之流：我习惯了在飞溅的水花间跳跃耍赖，而不是在干涸的喷水池里打滚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have virtually no memories of my early years aside from this one, which I attribute to the fact of a wartime childhood.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还记得小时候发生过的别的事，我至今难忘，因为，那是在战争年代的童年生活给我带来的影响，时至今日，我仍旧无法摆脱那令人窒息的梦魇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the memory I am filled with a distinctive mood I've not known since, and which I can only describe as a feeling of luxury - not of a trivial, material kind but in the fullness of the word's meaning: safety and ease, the promise of endless comfort, the implicit guarantee that all is right with the world and always will be.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一段严酷的记忆现实，我所经历的这些事带给我的终生教诲，已远远超过了那些在物质及肉体上的愉悦，更多的是精神上的升华。——只不过少了许多奢华，多了一份淡然：人生最宝贵的是平安无恙，还有安逸适从。比起那些空虚的私欲餍足，还有乏力的护佑，这反倒更凸现其弥足珍贵，乃至永恒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother is nearby; I can sense her, if I do not see her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时，我的母亲就在我的身旁，我能感觉得到她的气息，就算我看不见，我也能感受到她的气息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the moment blurs, and time skips long minutes, perhaps even hours. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间就这样流逝，在钟表的分针和时针间留下了凝重的痕迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sun has moved; it is now overhead and hot on the crown of my head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那日，烈日当空，在我头顶放肆的焦灼着一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I look down to see that my dress is crumpled, its hem soiled. I see my mother crouched over the steps leading up to our grand home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我低下头，看了看我那满是泥土的裙摆，就发觉妈妈蹲伏在地上，朝我慢慢地趴过来，带我回到那温馨的家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She seems busy with something, though I cannot make out what.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看似满是忧伤，但我猜不出她为何忧虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that moment she turns. She smiles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，她就转过身来，向我微笑着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am momentarily puzzled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时就迷惑住了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not know why I am puzzled. That puzzlement has marked my relations with my kind soul of a mother for as long as I can remember.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知我为何而迷惑，但这种迷惑的感情使我顷刻明白了母爱的伟大，还有人类高尚的悲悯情怀。而这种未知而困惑的感觉，将萦绕我身边，直至我离开这个世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only when I became a woman myself did I realize that my efforts had been unsuccessful - that my mother was all too aware of the odd distance between us, with which this puzzlement is intimately connected. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，当我为人母时，我才发现，一切都徒劳无获，母亲总是有意的回避我们之间的代沟，而这，越发显得这困惑在维系我们之间的情感纽带时，弥足珍贵！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This distance came from me, I feel certain, and has been a great sorrow for my mother, with all the losses she has suffered, and me her only child.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我自身产生的疑虑，却要我为母亲的忧虑分解，并要求偿还她所经历的磨难，这要我这个当女儿的情以何堪！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I glance over to where my mother now lies. Her body is so reduced by illness that she is almost invisible among the bedclothes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此刻，我看了一眼躺在我身旁母亲，她的身体一天天坏了下去，尽管穿着睡衣，也遮掩不了她的病体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recoil from the rattle of her breath. I grit my teeth against my own selfishness, and struggle to find something to say, though my mother no longer seems conscious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在一旁听着她那急促的呼吸，咬紧牙关，心里满是痛楚，试着要寻思一些话题，尽管过不了多久，母亲不再醒来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But they say the dying can hear, whether they appear to or not.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我依然相信人们常说的话：“死亡可以听得到，不管其显现与否，你要用心感受。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I approach the bed, lower myself beside her, and rest my head on the pillow next to hers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，我挪到了她身边，把头枕到她的脸颊旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes are closed. Her face looks unfamiliar.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她紧闭着眼，可面容已经显得那么陌生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The deep lines I'm used to seeing are oddly smoothed away, as if she were undergoing a rapid undoing of years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脸上的沟壑已经铺展到每一处脸颊深处，仿佛经年的磨难使得她精疲力竭，赛不过时间，岁月便在她脸上留下胜利的沟壑，她亦因此垮下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I gaze into her softened features, imagining that this is how she gazed into my sleeping face when I was an infant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我望着她平和的皱纹，就回想幼时的母亲伴我睡觉时一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I struggle to imagine how she felt in just such a moment, but cannot catch on to it. I reach up to stroke her face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我试图从记忆库里找出她当时的模样，但发现段记忆已是模糊不清，于是，我就用手在她脸上轻轻触碰了一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes snap open, alert in a way I've not seen in months. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲睁开了双眼，这是几个月来我初次见她霍地警醒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I failed you," she says, her voice almost robust. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我辜负你了，”她说着，声音渐渐微弱下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This comes as a shock, because my mother has not spoken in weeks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——这时我心里一怔，因为好几个星期了，我初次见她开口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hilde, whatever are you saying?" I reply. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“希尔德女士，你想说什么吗？”我急忙应声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have called my mother by her first name since I was a teenager, just one of the many little oddities in our relations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我从少女时代迄今第一次唤她的名字，因为我们之间代沟的缘故，我俩很少有过沟通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes are clouded with distress. She touches my face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此时，她双眼浸满泪水，嘴唇颤抖着，不应声，只是用双手抚摸我的双颊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Christiane, my Christiane," she says, her eyes leaking tears that settle in the creases of her cheeks, which seem to have reappeared with her alertness. "You've been a good daughter. I know how hard you've tried."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“克丽丝汀，亲爱的孩子，”于是，两行泪水从她眼里涌了出来，顺着双颊到了嘴边，她就用慰藉的语气和我说：“你一直在做一个的女儿该做的事，我知道你受的苦难。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Something clutches in my chest. I know I've not been much of a daughter to her; I feel I've not been a daughter at all. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我心里是一阵不安，我知道，对她来说，我最多只是朋友，“女儿”这个词儿对我来说，是很模糊的。我确是一个不肖的女儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I try to stifle the rising sob without much success.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但此时，泪水在我眼里打转，我试着不让抽泣的声音从嗓子眼里出来，但是，最终，泪水还是涌了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Ssssh," my mother says, batting at the tears that are now slipping down my cheeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嘘，不要哭了。”母亲劝慰我说，拭去了我眼里的泪水，揩去了脸颊上的泪痕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's not your fault. You see, I took it all away." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这不是你的错，而是我咎由自取的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A terrible confusion takes hold of me. I feel as if a gauzy black curtain were being pulled around me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我当时就震惊了，仿佛魔鬼用幔子把我困在黑暗之中，使我无法脱身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hilde, what are you talking about? What is it you're trying to say?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“希尔德女士，你在说什么啊，你想告诉我什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her arm drops; she closes her eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再一次，她双手垂了下去，眼睛也随之闭起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, that odd dissolving of the heavy creases in her face.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只留下那一条条在她脸上幽深平和的沟壑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The house on Kronenstrasse. You know the number? Number fifty-eight." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“您说的是不是科隆恩斯特拉斯大街上的老房子，门牌号是58号，是这样么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to grab her, to shake her, to shriek at my mother: What? What did you take? What is not my fault? But I say nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想再握住她的手，把她叫醒，于是，便使劲的摇晃着她，想再问她一次：你说的是什么意思啊？为什么你会咎由自取？我犯了什么严重的过错？而此刻的我，只是愣在床上，一语不发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I just lie there, the tears now flooding my eyes, looking into the smooth face that is no longer the face of my mother, that is now only a mask.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一个人静静地躺在床上，看着那张曾经熟悉的面孔，——可是现在，却变成一张冰冷的面具！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was killed in the early weeks of the war; all I know is that he fell on Polish soil, though even this my mother did not tell me; it was revealed during one of my surreptitious raids on the small stash of items she had hidden - she mistakenly supposed - beneath her bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就回想起父亲阵亡在战场上，在我印象中，是在那片流淌着鲜血的波兰土地上。尽管妈妈没告诉我这些，我还是想办法得知这一切，最终，妈妈床底下的那封信件无声的向我诉说着一切，很显然，妈妈是故意要犯这个错误。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had kept the notification of his death, an official Nazi document stating that my father, Hermann Kueper, was killed on September 13, 1939, west of Warsaw, in the Battle of Bzura: a hero, in the name of the Third Reich.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她一直保存着这张来自纳粹政府的阵亡通知单，上面写着：赫尔曼·库伯，1939年9月13日于波兰布楚拉河战役中为国捐躯。——当然了，爸爸只是个普通的军官，纳粹的媒体这是给了爸爸一个标准的“国葬”！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rest I've pieced together using intuition and the few bare facts at my disposal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，我靠我优良的记忆力把这些信息刻录在脑子里，我很是震惊，但后来的现实却使我渐渐淡忘了这一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We fled Heidelberg after my father's death, when my mother was no longer able to find work to support us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲阵亡后，我们就离开了海德尔堡，而此后，母亲就一直没有找到更好的工作，使我衣食无忧 。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know what happened to the house in my memory, or to the wealth that must have gone along with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道后来纳粹政府对这所老房子做了什么，而我也记不得了。但我感觉，从那一刻起，我所拥有的世界上最珍贵的东西离我远去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother never wanted to talk about the past. At some point I stopped asking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再后来，母亲对父亲的死亡绝口不提，我也有意识的封住了口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do know that we ended up retreating to Bad Gandersheim, in the Harz Mountains, where we stayed with a distant cousin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只记得我们搬去了在哈尔茨山区的一个叫巴德·冈德西姆的地方，找到一位远房亲戚，并重新安顿下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know how my mother secured passage to America after the war ended - only that we arrived in New York Harbor with refugee status. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不明白为什么战争结束后母亲就移民到了美国，——要知道，德国人只有以难民的身份到了外国，才有可能不受歧视！我们就到了纽约港湾区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had no relatives in New York or anywhere else in the United States, at least none that I ever heard of or met.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在纽约，我们举目无亲，放眼全美国，我们就连一个认识的人都没有！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know that my mother was grateful to be on American soil, and that this gratitude did not waver. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道，母亲一直很感激美国能收容我们这些该死的德国佬，而她，就因为这样的感情缘故，在这里定居了大半辈子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She never complained that she was reduced in our new land to working as a maid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来这之后，她没有向我埋怨过在这片新土地上做过的卑微的女佣工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She took on her work with commitment and dignity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只是对新生活以无限的憧憬和无限的热爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good livelihood was cause for thanks, she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说过：“美好生活源于你对新世界的感激。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was proud to be on staff at the Plaza, such an old and respected hotel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对她来说，最好的记忆在那幢老旧，但很有历史的商场里当一名普通的雇工。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know why I cherish the memory of playing in the fountain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我此刻也知晓了为什么我对那段在喷水池边玩耍的记忆难以割舍，尽管这对我来说，是伴随一生的痛楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also know why it pains me still. Within that moment is a fullness of feeling I don't otherwise have in my life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，现在我明白了，——因为我对生活的知足感，才使我对人生怀有无限的怜爱！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I give my mother a simple funeral. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲过世后，我给她举办了一个简单的葬礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had few friends. Eight people attend, including the priest and me - four retired fellow workers from the Plaza and two of my mother's elderly neighbors.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她朋友只有8个人，连同牧师和我，还有4位从那家商场退休的雇员，哦，还有两位老邻居。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A week later I pack a small suitcase, take two of the many vacation weeks I have accrued, and buy a ticket to Frankfurt, with a train link to Heidelberg.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一星期后，我收拾好行囊，按照两周前计划好的行程，先坐飞机到德国的法兰克福，然后再坐船到海德尔堡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have never been back to the country of my birth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而这，是我四十多年来，第一次回到生我养我的地方——那片最挚爱的德意志土地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not think of myself as German, though neither do I think of myself as American.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我甚至忘了我是一个正宗的德国人，可也不曾认同我的美国公民身份。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the train station in Heidelberg I take a taxi directly to my hotel, a small pension around the corner from the grand old Hotel Zum Ritter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我到了希尔德堡，下了船，就搭了辆计程车到了我要找的那座老屋附近，就在祖姆·里特尔宾馆拐角处，而那所老屋，现在已是一位老人的私人寓所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I deposit my suitcase and walk for two hours or more, surprised by the magnificence of the city. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我放置好行囊，沿着城市周遭走了两个小时，——甚至更多，沉浸在这繁华的城市夜色中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't know what I expected, but I know it was other than what I have found. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道我在寻觅何物，但我知道，它就在那霓虹深处，万家灯火之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I walk along the river, past the Old Bridge, with its impressive stone arches and stern guard tower, and beyond the last of the bridges, where the river curves and the city opens out into the expansive greenery of its parks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沿着河，我越过了那座老桥，注视着拱门，还有灯塔。驻足在最后一座桥下，河流拐弯的地方，城市的风貌逐渐显现，焕发出盎然生机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the way back I pause by Karl's Gate and stand for a moment, looking up at the huge arch, a visual echo of Germany's historical military passion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回家时，我在卡尔凯旋门前驻足良久，注目了这座高大的拱门，脑海里便回响起了古代普鲁士的英雄赞歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I take Haupstrasse past the castle and then wend my way back toward the town hall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，我过了霍普斯特拉斯城堡，径直走到了市中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother and I spoke German to each other until I was a teenager, when, like many children of immigrants, I started refusing to speak anything but English. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还是个少女的时候，妈妈就和我说德语，可是，入乡随俗，到了美国，你就会和大多数人一样，不由自主的说起了英语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, though, in the first little transactions I make - talking to a taxi driver, and to a waiter in a caf¨¦ - my German comes back in fits and starts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，我的第一句英语，也许就始于我和一位司机的对话，或是在街角的咖啡吧里的做服务生，和顾客的几句闲聊。——只有在这些场合，我还会插上一两句德国话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's like trying to get an irascible old workhorse back into action - brutish and reluctant, but in the end obliging and strong.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这很难堪，好像是把一座行将就木的老房子重新焕发生机一样，刚开始很不适应，勉强接受，可经历了痛苦的过程后，一切又将回复生机，你还会坚强许多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I consult the map I bought at the airport and locate the government building where housing records are kept. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就打开了在机场买的地图，搜索市政府房屋管理中心的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On my way there I stop at a small cafe and drink an espresso at the bar.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>路上，我在街角咖啡摊停顿了一下，要了一杯苦咖啡，坐下来慢慢品尝，端详着地图。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tracking down the owner of the house is remarkably easy: one Herr Eduard Sturmer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要找到那间寓所的主人很容易，他叫爱德华·斯图摩尔先生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The city registry is orderly and efficient, true to German stereotype.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然，市政府按照德国人固有的模式化习惯，把市区分了片区管理，这样做，很古板，但很有实效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I call from a public telephone on the street outside the housing office. The phone is answered by a man who sounds about my age and who informs me that Herr Sturmer, his father, died a little more than a week ago.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就在房屋管理局外面的大街上拨通了一个电话，接电话的听起来和我年纪相仿的中年男子，他和我说了他的父亲，斯图摩尔先生，碰巧也在一周前就已过世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm terribly sorry," I say, aware of my American accent and also of the uncanny coincidence. A little over two weeks ago my own mother breathed her last.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我对你父亲的逝世感到无比悲伤，”我说着，忽然感到这句平滑的美式英语里有一丝灵异的巧合在作祟：一周前，我母亲也停止了呼吸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm so sorry," I repeat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很抱歉，”我匆忙作答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We had the funeral only yesterday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们昨天才举行的葬礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We wanted to wait for my sister to fly in from New York." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，我在等待我的妹妹过来，商量老屋的事情。对了，她要从纽约飞来这里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sister in New York. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他有一个妹妹要从纽约来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can hear the pounding of my heart in my ears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔着话筒，我都能听见我的心在怦怦直跳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only now does the man on the line think to ask why I am calling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而这时，这名男子才问我打电话的缘由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I know all too well the strange overturning of etiquette that comes with new grief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道的，互相寒暄可比见面时赠送礼物那一套有用的多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recall how, after my mother was packed away in the slightly shabby and oddly inappropriate blue van en route to the funeral parlor, I went into the kitchen, washed the few dishes I'd left in the sink - which included a glass from which my mother had, earlier in the day, taken her last sips of water - and then turned off the lights, locked the apartment, and went back out into the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可我又不经回想安葬母亲时的情境：就在母亲下葬的那天，我目送着她安详地躺在那辆蓝色的旅行篷车里，直至墓地。冥冥中我竟会不自觉地走回厨房，洗刷着在盥洗池里的几枚盘子，其中就有母亲早年常用的，直到去世前还喝下最后一口水的玻璃杯。随后关了灯，锁上了公寓大门，退出了母亲的世界，回到我的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I found myself entering the corner deli where my mother had bought liverwurst and ham for more than forty years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此刻，我才发觉，我又走到了那个四十多年来母亲一直买肝泥香肠的那家街角熟食店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around me the day was alive with people going about their Saturday-morning business.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而今天那店老板，也是如往常一样，全天候安逸地卖着他的熟食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How could they all be so calm? I thought.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都不明白，在这样一个阴郁的日子里，为什么他们会如此的平静！？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> I wanted to shout out to the deli owner, "Don't you realize what has happened? My mother has died! Nothing will ever be the same!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我都想大声指责那个店老板了：“喂！你干吗？我母亲都过世了，你还在卖这些东西，你还想不想做生意的！？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A well-dressed young woman standing next to me, who was surveying the pastry case, turned and gave me a polite smile. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当时，就有一位穿着入时的妇人站在我身旁，接过酥心甜点，转过身对我微笑示好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt like slapping her face. Instead I ordered a quarter pound of liverwurst and the same of ham, my mother's regular order in the years since I'd stopped living with her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我沉不住气，瞧她那个得意的样子，都想给她一巴掌！最后，我终于打消了所有这些念头，要了一份肝泥香肠，和一些火腿，就像我未离开妈妈身边时，她常做的，——再或者我离开了她，开始一个人的新生活一样，做着这些重复性的动作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside the store I deposited my purchase in a trash can.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，我出了店门，把刚买的东西赏给了街角的泔水桶，算是我为母亲献上的最后礼物了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The house," I say to the man on the other end of the telephone line, who is waiting for my reply.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我此刻就跳转回到现实中来，说：“你说的那间老房子，也许我用得着。”我回了他电话，而他也在电话那一头等我的回复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We haven't decided yet what we're going to do with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们都没有决定要怎样打发这件老房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father's death was very sudden, you understand." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲的死亡对我们来说，太突然了，你应该知道的！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Perhaps in the meantime you'd be willing to rent it?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也许你应该在办理你父亲的后事的时候，就该考虑把它租出去。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without any forethought this absurd and impractical suggestion slips from my mouth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——都没有经过大脑思考，我就竟说出了这样遭殃的话来！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That might be a good idea. Let me talk it over with my sister." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这倒是个好主意，或许，该和我妹妹商量一下。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hang up the phone and look out onto the street, aware of how everything seems uncannily familiar and yet completely unknown.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我挂了电话，警觉地朝大街上张望了一下，生怕有谁在偷听或是什么人在打我的坏主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mind is racing with practical details that ten minutes ago would have made no sense whatsoever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>十分钟前，我还在用大脑理性的盘算着最美好的将来的打算.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

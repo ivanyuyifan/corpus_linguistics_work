@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200418T153022Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>High prices for gasoline and home heating oil are here to stay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今汽油及家庭供暖用油价格高涨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The U.S. is at war in the Middle East at least in part to protect its foreign oil interests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国发起中东战事的原因也有保护境外石油生意的成分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And as China, India and other nations rapidly increase their demand for fossil fuels, future fighting over energy looms large. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再加上中国、印度及其他国家的化石燃料需求日益增加，围绕能 源的纷争日趋热化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the meantime, power plants that burn coal, oil and natural gas, as well as vehicles everywhere, continue to pour millions of tons of pollutants and greenhouse gases into the atmosphere annually, threatening the planet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使在这个情况下，燃烧煤(coal)、天然气的电厂(power plant)以及铺天盖地的车辆依然持续排放着数百万吨的污染物和温室气体进入大气，从而威胁着这个星球。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well-meaning scientists, engineers, economists and politicians have proposed various steps that could slightly reduce fossil-fuel use and emissions. These steps are not enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管科学家、工程师、经济学家及政治人物们意图利用各种方法去降低化石燃料的使用量，但那是不够的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The U.S. needs a bold plan to free itself from fossil fuels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国需要一个更庞大的计划才能从化石燃料中抽身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our analysis convinces us that a massive switch to solar power is the logical answer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的分析促使我们承认大规模转用太阳能才是符合逻辑的方法。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Solar energy’s potential is off the chart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳能的潜在能量是无法预知的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The energy in sunlight striking the earth for 40 minutes is equivalent to global energy consumption for a year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日光照射地表40分钟的能量相当于全球能量消耗1年的份量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The U.S. is lucky to be endowed with a vast resource; at least 250,000 square miles of land in the Southwest alone are suitable for constructing solar power plants, and that land receives more than 4,500 quadrillion British thermal units (Btu) of solar radiation a year. Converting only 2.5 percent of that radiation into electricity would match the nation’s total energy consumption in 2006.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很幸运的，美国拥有广大的疆域。西南部适合铺设太阳能装 置的地区就有超过25万平方英里，而将这片地域1年吸收的4500兆英热单位(British thermal units Btu)的太阳辐射中的2.5%转化为电能的计划将在2006年配合国家能源消耗推出。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To convert the country to solar power, huge tracts of land would have to be covered with photovoltaic panels and solar heating troughs. A direct-current (DC) transmission backbone would also have to be erected to send that energy efficiently across the nation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把国家能源来源转换到太阳能需要在大量土地上铺设太阳能电池面板(photovoltaic panel)，亦需要架设一直流电(direct-current DC)传导中枢以便高效的在国内传输电力。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The technology is ready. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当下的技术已经达到足够水平了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the following pages we present a grand plan that could provide 69 percent of the U.S.’s electricity and 35 percent of its total energy (which includes transportation) with solar power by 2050. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来要在这里介绍一个可以提供美国电力69%及35%能源（包括传输）的伟大计划。这个太阳能计划将在2050年 前实施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We project that this energy could be sold to consumers at rates equivalent to today’s rates for conventional power sources, about five cents per kilowatt-hour (kWh). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们计划能将这些能源以与现在普通能源的价格出售给客户，即千瓦小时(kWh)约5分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If wind, biomass and geothermal sources were also developed, renewable energy could provide 100 percent of the nation’s electricity and 90 percent of its energy by 2100.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果风能、生物能量与地热同样能完成开发则全国所有的电能 消耗和90%的其他能量消耗都能使用环保能源。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The federal government would have to invest more than $400 billion over the next 40 years to complete the 2050 plan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦政府需要投资4000亿在将来的40年才能完成2050计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That investment is substantial, but the payoff is greater. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管需要的金额相当庞大但是回报是更大的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Solar plants consume little or no fuel, saving billions of dollars year after year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳能厂消耗的能量趋近于无，每年可以 节省约10亿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The infrastructure would displace 300 large coal-fired power plants and 300 more large natural gas plants and all the fuels they consume. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一间产生的能源相当于300间煤电厂再加300间天然气厂以及它们的运行消耗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The plan would effectively eliminate all imported oil, fundamentally cutting U.S. trade deficits and easing political tension in the Middle East and elsewhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个计划能有效地消除对输入油的需要，能从根本上解决美国的 财政赤字并舒缓美国与中东及其他地区的外交问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because solar technologies are almost pollution-free, the plan would also reduce greenhouse gas emissions from power plants by 1.7 billion tons a year, and another 1.9 billion tons from gasoline vehicles would be displaced by plug-in hybrids refueled by the solar power grid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而因为太阳能厂是接近无污染的所以这个计划每年可以减少17亿吨温室气体的排放，另外由综合燃料包括太阳 能的汽车取代汽油汽车还可以再减少19亿吨由汽油车排放的污染气体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2050 U.S. carbon dioxide emissions would be 62 percent below 2005 levels, putting a major brake on global warming.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到2050年时美国的二氧化物排放将会剩下2005平均的62%，推动解决全球暖化。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the past few years the cost to produce photovoltaic cells and modules has dropped significantly, opening the way for large-scale deployment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳能发电田 过去几年在生产太阳能发电池及组件的投资相当程度上停止了，开始进入铺设阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Various cell types exist, but the least expen sive modules today are thin films made of cadmium telluride. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然样式众多，但是如今最便宜的组件是由镉碲化合物(cadmium telluride)制造的薄膜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To provide electricity at six cents per kWh by 2020, cadmium telluride modules would have to convert electricity with 14 percent efficiency, and systems would have to be installed at $1.20 per watt of capacity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果要在2020年达成电力每千瓦时6分钱的话，镉碲化合物转换电力的效率至少要在14%以上、而系统的安装则需要降至 1.2元每瓦容量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Current modules have 10 percent efficiency and an installed system cost of about $4 per watt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在通用的组建效率约为10%系统安装费用需要4元每瓦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Progress is clearly needed, but the technology is advancing quickly; commercial efficiencies have risen from 9 to 10 percent in the past 12 months. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管进程的速度还需要更快，但是科技的进步已经很迅速了，过去的12个月中效 率已经从9%提升到10%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is worth noting, too, that as modules improve, rooftop photovoltaics will become more cost-competitive for homeowners, reducing daytime electricity demand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>藉着它的无消耗特性加上技术逐渐改良，在屋顶上安装太阳能发电面板将成为一种有竞争价值的房屋配件，因为它可以大量减轻白天的 能源消耗。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In our plan, by 2050 photovoltaic technology would provide almost 3,000 gigawatts (GW), or billions of watts, of power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按照我们的计划，在2050年太阳能发电技术将可以产生将近3000亿甚至3兆瓦的能量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some 30,000 square miles of photovoltaic arrays would have to be erected. Although this area may sound enormous, installations already in place indicate that the land required for each gigawatt-hour of solar energy produced in the Southwest is less than that needed for a coal-powered plant when factoring in land for coal mining. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这需要在3万平方英里建设太阳能发电厂，尽管这个数字听起 来很庞大但是架设这些远比现在在西南部架设煤炭厂和煤矿矿区要小得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Studies by the National Renewable Energy Laboratory in Golden, Colo., show that more than enough land in the Southwest is available without requiring use of environmentally sensitive areas, population centers or difficult terrain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国家可再生资源实验室的研究表明西南部有比足够量还要广大的可利用区域，不包括环境 敏感区(environmentally sensitive area)、人口集中地区或地形复杂地带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jack Lavelle, a spokesperson for Arizona’s Department of Water Conservation, has noted that more than 80 percent of his state’s land is not privately owned and that Arizona is very interested in developing its solar potential. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚利桑那州水土保持部门发言人Jack Lavelle曾表示该州80%的土地都非私有地且该州对太阳能源的开发很有兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The benign nature of photovoltaic plants (including no water consumption) should keep environmental concerns to a minimum.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳能源可以达到对环境造成最小影响。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The main progress required, then, is to raise module efficiency to 14 percent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在最需要的就是将组件效率提升到14%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although the efficiencies of commercial modules will never reach those of solar cells in the laboratory, cadmium telluride cells at the National Renewable Energy Laboratory are now up to 16.5 percent and rising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管通用的组件不会使用如实验室里的材料但是如今在国家可再生资源实验室(National Renewable Energy Laboratory)的镉碲化合物效率已经达到16.5%而且还在上升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At least one manufacturer, First Solar in Perrysburg, Ohio, increased module efficiency from 6 to 10 percent from 2005 to 2007 and is reaching for 11.5 percent by 2010.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时至少第一家生产商——在俄亥俄州Perrysburg的初创公司 （First Solar）已经在2005到2007年间把组件效率从6%提升到了10%且将在2010年达到11.5%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The great limiting factor of solar power, of course, is that it generates little electricity when skies are cloudy and none at night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加压洞室(pressurized cavern) 太阳能发电最大的限制条件莫过于在阴天及夜晚只能生产微量能源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Excess power must therefore be produced during sunny hours and stored for use during dark hours. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为此在晴天必须储存备用的能源以供其他时候使用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most energy storage systems such as batteries are expensive or inefficient.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而大部分能源储存设备诸如电池等都很贵而且缺乏效率。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compressed-air energy storage has emerged as a successful alternative. Electricity from photovoltaic plants compresses air and pumps it into vacant underground caverns, abandoned mines, aquifers and depleted natural gas wells. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>压缩空气能源储存是比较成功的方法之一，即让太阳能发电产生的电力将空气压缩进空旷地下洞室、废弃矿山、地下水含水层(aquifers)及废弃天 然气井中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pressurized air is released on demand to turn a turbine that generates electricity, aided by burning small amounts of natural gas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>释放这些压缩空气可以推动生产电力的涡轮机，只需要燃烧少量天然气辅助。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Compressed-air energy storage plants have been operating reliably in Huntorf, Germany, since 1978 and in McIntosh, Ala., since 1991. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>压缩空气能源储存自1978年起已经在德国Huntorf稳定运行，阿 拉巴马州的McIntosh也在1991年加入这个行列。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The turbines burn only 40 percent of the natural gas they would if they were fueled by natural gas alone, and better heat recovery technology would lower that figure to 30 percent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些涡轮机只需要燃烧原本需要量的40%即可，而更先进的热能回收技术可以把这个值降低到 30%。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Studies by the Electric Power Research Institute in Palo Alto, Calif., indicate that the cost of compressed-air energy storage today is about half that of lead-acid batteries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加州Palo Alto电力科学研究院研究指出现今压缩空气能源储存的成本是铅酸蓄电池的一半左右。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The research indicates that these facilities would add three or four cents per kWh to photovoltaic generation, bringing the total 2020 cost to eight or nine cents per kWh.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究同时表示这种设备会增加3或4分钱每千瓦时的太阳能发电成本，于是2020年能源价格应该是8或9分钱每千瓦时。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Electricity from photovoltaic farms in the Southwest would be sent over high-voltage DC transmission lines to compressed-air storage facilities throughout the country, where turbines would generate electricity year-round. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从西南部太阳能发电田生产出的电力经过高压直流电缆传输到遍及全国的压缩空气能源储存设施，然后由涡轮机制造全年使用的电力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The key is to find adequate sites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要达成这样目的其关键 就是寻找适合的基地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mapping by the natural gas industry and the Electric Power Research Institute shows that suitable geologic formations exist in 75 percent of the country, often close to metropolitan areas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由天然气生产商及电力科学研究院(Electric Power Research Institute)的筛选指出75%适合架设基地的地点都靠近大都市区域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, a compressed-air energy storage system would look similar to the U.S. natural gas storage system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实压缩空气能源储存系统也与天然气系统有不少相似。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The industry stores eight trillion cubic feet of gas in 400 underground reservoirs. By 2050 our plan would require 535 billion cubic feet of storage, with air pressurized at 1,100 pounds per square inch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天然气工业有8兆立方英 尺气体储存在400个地下储存库中，而我们这个计划在2050年会需要5350亿立方英尺储存空间给压缩成每立方英吋1100磅的压缩气体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although development will be a challenge, plenty of reservoirs are available, and it would be reasonable for the natural gas industry to invest in such a network.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这项开发会有 一定难度、需要大量的空气筒但是天然气生产商一定会有兴趣涉及这个领域的。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another technology that would supply perhaps one fifth of the solar energy in our vision is known as concentrated solar power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热盐 另一项现今可以供应大约五分之一太阳能源的是聚光太阳能发电(concentrating solar power)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this design, long, metallic mirrors focus sunlight onto a pipe filled with fluid, heating the fluid like a huge magnifying glass might. The hot fluid runs through a heat exchanger, producing steam that turns a turbine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一面被计算过的长形金属镜上反射阳光到一条充满流体的管子中，被如放大镜般的效果加热后的流体经过热能转换器，生产出的蒸汽推动涡轮转 动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For energy storage, the pipes run into a large, insulated tank filled with molten salt, which retains heat efficiently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了储存能量管子会被导入一充满熔盐的大型绝缘隔热罐体中以保持热效率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Heat is extracted at night, creating steam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热能会在夜间提取形成蒸汽然后熔盐慢慢冷却。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The molten salt does slowly cool, however, so the energy stored must be tapped within a day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以能源的储存需要花费一整天。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nine concentrated solar power plants with a total capacity of 354 megawatts (MW) have been generating electricity reliably for years in the U.S. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>九座总发电量3.54亿瓦（MW）的聚光太阳能发电厂已经在美国持续提供电力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A new 64-MW plant in Nevada came online in March 2007. These plants, however, do not have heat storage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一座在内华达州的6.4千万瓦发电厂也已经在2007年3月开始运 作，不过这座发电厂没有蓄热。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first commercial installation to incorporate it—a 50-MW plant with seven hours of molten salt storage—is being constructed in Spain, and others are being designed around the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一座具有7小时盐储存的50MW发电厂正在西班牙兴建，还有更多的电厂在世界开工。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For our plan, 16 hours of storage would be needed so that electricity could be generated 24 hours a day.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些电厂需要16小时来储存电力并可 以提供24小时的电能。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Existing plants prove that concentrated solar power is practical, but costs must decrease. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现有的聚光太阳能发电厂证明聚光太阳能发电是可行的，但是其成本势必需要降低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Economies of scale and continued research would help. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>规模和持续性经济研究将有助于他们降低成本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2006 a report by the Solar Task Force of the Western Governors’ Association concluded that concentrated solar power could provide electricity at 10 cents per kWh or less by 2015 if 4 GW of plants were constructed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2006年由西部州长 协会中太阳能专责小组(Solar Task Force)提出的报告中指出聚光太阳能发电可以在2015年提供每千瓦时10美分或更低的价格如果有总发电量超过4百亿瓦的电厂进入运营。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finding ways to boost the temperature of heat exchanger fluids would raise operating efficiency, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设法提高热能 转换器的温度将可提高经营效率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Engineers are also investigating how to use molten salt itself as the heat-transfer fluid, reducing heat losses as well as capital costs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工程师也正在研究如何让熔盐本身成为热交换液以减少热流失及成本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Salt is corrosive, however, so more resilient piping systems are needed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但因为盐具有腐蚀性所以还需要更有弹性的管道系统。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Concentrated solar power and photovoltaics represent two different technology paths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>聚光太阳能发电与太阳能电池是两种不同的技术途径。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Neither is fully developed, so our plan brings them both to large-scale deployment by 2020, giving them time to mature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但两者都还没有完全发展，所以我们的计划让它们都能在2020年大规模部署，也给它们时间去变得成熟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Various combinations of solar technologies might also evolve to meet demand economically. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后太阳能技术也能得到进化以满足经济的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As installations expand, engineers and accountants can evaluate the pros and cons, and investors may decide to support one technology more than another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从中工程师可以评估两者的优缺点让投资者决定支持一方。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The geography of solar power is obviously different from the nation’s current supply scheme. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直流电 太阳能发电站的地理位置与国家电流供应计划是明显不同的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today coal, oil, natural gas and nuclear power plants dot the landscape, built relatively close to where power is needed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今日煤炭、石油、天然气和核能的发电厂遍布各地，与它们需要的资源本身距离在较近的地方。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most of the country’s solar generation would stand in the Southwest. The existing system of alternating-current (AC) power lines is not robust enough to carry power from these centers to consumers everywhere and would lose too much energy over long hauls. A new high-voltage, direct-current (HVDC) power transmission backbone would have to be built.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而美国大部分的太阳能电厂将会建在西南地区而现在的交流电(AC)网络还不足以承载将这些发电站出来的能源传送到客户处，而在传输过程中将会损失大量的能 源，所以架设一种新型的高压直流电(HVDC)传输骨干是势在必行。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Studies by Oak Ridge National Laboratory indicate that long-distance HVDC lines lose far less energy than AC lines do over equivalent spans. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>橡树岭国家实验室(Oak Ridge National Laboratory)研究表明高压直流电传输将可比交流电传输减少不少消耗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The backbone would radiate from the Southwest toward the nation’s borders. The lines would terminate at converter stations where the power would be switched to AC and sent along existing regional transmission lines that supply customers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而这些骨干网络将会从西南地区辐射整个国家直到当地的转换站切换成交流电然后沿着区域线路发送给当地的客户。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The AC system is also simply out of capacity, leading to noted shortages in California and other regions; DC lines are cheaper to build and require less land area than equivalent AC lines. About 500 miles of HVDC lines operate in the U.S. today and have proved reliable and efficient. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管直流电系统简而有力但是仍在在如加州等地缺乏占有率。直流电线路比交流电线路要便宜而且需要较少的土地，现今已经有约500英里的高压直流电线 路在美国稳定运行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No major technical advances seem to be needed, but more experience would help refine operations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管架设不需要大量先进技术但是经验的不同将会对业务产生影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Southwest Power Pool of Texas is designing an integrated system of DC and AC transmission to enable development of 10 GW of wind power in western Texas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德州的西南电力联营(Southwest Power Pool)正在设计一个直流交流综合系统使在西德克萨斯州的1千亿瓦的风力发电产物能传输出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And TransCanada, Inc., is proposing 2,200 miles of HVDC lines to carry wind energy from Montana and Wyoming south to Las Vegas and beyond.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>TransCanada公司亦提出要铺设2200英里的高 压直流电线路来输送自蒙大拿州和怀俄明州的风能到南部拉斯维加斯及更远。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stage One: Present to 2020</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一阶段：现在到2020 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have given considerable thought to how the solar grand plan can be deployed. We foresee two distinct stages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们郑重考虑过如何让宏伟太阳能计划实施，从而预见两个截然不同的阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first, from now until 2020, must make solar competitive at the mass-production level. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一，从现在开始到2020年必须使太阳能具备竞争力也就是有大批生产的水 平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This stage will require the government to guarantee 30-year loans, agree to purchase power and provide price-support subsidies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这需要政府保证提供30年的贷款和购买合约并提供价格的补贴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The annual aid package would rise steadily from 2011 to 2020. At that time, the solar technologies would compete on their own merits. The cumulative subsidy would total $420 billion (we will explain later how to pay this bill).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年度的补助从2011到2020年缓步提升让太阳能技术与竞争力拉上来，期间累计补贴总 额4亿2千万（我们稍后会解释如何支付这项草案）。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About 84 GW of photovoltaics and concentrated solar power plants would be built by 2020. In parallel, the DC transmission system would be laid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约能生产8400亿瓦的聚光太阳能发电及太阳能电池厂将会在2020年建成，与此同时直流电传输系统也有了一定基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would expand via existing rights-of-way along interstate highway corridors, minimizing land-acquisition and regulatory hurdles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它将沿州际公路架设以减少土地 征用及监管的障碍。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

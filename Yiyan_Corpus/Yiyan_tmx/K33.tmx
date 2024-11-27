@@ -1,0 +1,1375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160814T152402Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Visiting</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拜访</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had become used to the way Marc turned questions around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经习惯于马克绕开问题的方式了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His son was like Superman in that way, catching bullets in his hand and redirecting them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的儿子在这方面非常有天赋，就像超人能够抓住子弹并且改变它们的方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His own father had never answered his questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己的父亲从没有回答过他的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was not sure which was worse, to be mocked or to be ignored.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不知道怎样才算是更糟糕的，被嘲弄，还是被忽视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He brought in his shirt pocket the last photograph he'd taken of his son, an Instamatic snapshot: the carousel in the Park, wind in the boy's hair, chocolate ice cream staining his smile, a pair of impossibly tiny blue jeans, striped socks, and a Yale sweatshirt snug across his chest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把他拍的儿子的最后一张照片放进衬衫口袋里，这是一张傻瓜相机拍的：公园里的旋转木马，吹过男孩发间的风，巧克力冰激凌弄脏了他的微笑，一条洗得发白的牛仔裤，条纹袜子，穿着一件舒适的耶鲁大学的运动毛衣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan had stood waiting in the grass for Marc to come around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森在草地上等待着，马克在旋转木马上转圈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The December day was warm, winter with a fever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>12月的天气还是很温暖，对于冬天来说有点太热了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc smiled, gripped tight the reins of his white plastic horse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克微笑着，紧紧抓着白色塑料马的腰部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was years ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是两年前的照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, the visits were easy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时，探视还很容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan took the picture with him in case Marc wanted to see proof, evidence of a time when they had been able to maintain peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森带上照片以防马克想看证据，他们曾经和平共处的证据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan was not above superstition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森还是相信迷信的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His boy was a teenager now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的男孩现在已经成长为一个青年了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were separated by three miles, one river, one bridge, and two train transfers. The distance, he thought often, was far too great.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们之间相隔了3英里，一条河，一座桥，两座火车站，这个距离，对于乔纳森来说，实在是太远了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stood on the street below the apartment, his head to the sky; he tried to find the 18th story, where Marc lived with his mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他站在公寓下的街上，抬头看向天空；试着找到马克和他母亲居住的第18层。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each window looked the same from the ground: the slotted vent of an air conditioner, ivy trained to the brick, small square glass panes in a grid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从地面上来看，每扇窗户都差不多：都有着空调的通气管道，常春藤爬满砖墙表面，排成网格状的小玻璃窗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For nearly 15 years, Julia had lived on this block, with its old gingko trees, its gas lanterns, and its wide sidewalks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近15年来，茱莉亚都住在这个街区，和古老的银杏树，瓦斯灯，还有宽阔的人行道一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steps away, in Central Park, children skated to Tchaikovsky on Wollman Rink, and through the trees he could hear the violins and the piano and the cymbals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几步之外，在中心公园里，孩子们在柴可夫斯基的曲子的伴奏下在沃尔曼夫溜冰场上溜冰，从树丛的对面还传来小提琴，钢琴，铜钹的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was, in every way, a better place than where he lived.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在各方面来说，和他住的地方比起来，这里要好得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd rented a car for the afternoon. Parking had been difficult. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下午他租了一辆车，但停车很困难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had lived too long in the city. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在城市里居住的时间太长了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the sidewalk, he saw in the passenger-side window the reflection of his face and neck, streaked with the harsh winter sun, unflattering and bright. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走在人行道上，在冬日惨淡阳光的照耀下，车窗里映照出他的脸和脖子，清楚而又明亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had turned, at some point, into every man in his family. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在某些时刻，他已经拜访了家庭中的每个人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His mother had hoped that such a thing would not happen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他母亲希望这种事不会发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had said this, touching her hand to him, many years ago.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多年前，母亲握着他的手曾这样说过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he stepped into the lobby, he was met with a wall of warm air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走进大厅时，温暖的空气迎面而来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He nodded at the doorman, and cleared his throat. "Could you let Marc know that I'm here for him?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对看门人点头致意，清了清嗓子，说道：“可以麻烦你告诉马克我在这等他吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan waited on a small white banquette, and rested his hands on the tops of his knees.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳萨坐在一张小的白色长凳上，等着他的儿子，手搁在膝盖上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The doorman pushed two buttons. "Mister Morris," the man said. "Your father is here for you." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看门人安了两下按钮，说道：“莫里斯先生，你的父亲在这等你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The name Morris still sounded inaccurate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫里斯这个名字听起来仍旧刺耳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd fought over nothing but the name, and just to hear it here, in an empty lobby, spoken by a stranger, the softness of those last two letters, like something easy off the tongue, caused him to grimace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾为了这个名字而努力过，现在在这听到，在一个空空的大厅里，从一个陌生人口中，那温和的最后两个音节，就像从舌头上脱落下来的什么东西，让他的表情变得痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd wanted to leave his boy with some unimpeachable part of him, something concrete. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他离开了他的孩子，还认为这是不可指责的，理所应当的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Julia worked so hard to mold their son in her image. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>茱莉亚努力的把他们的儿子培养成像她一样的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they were married, she had done the same to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们结婚时，她曾对乔纳森做过同样的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Few parts of you are truly unimpeachable," she'd said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你的责任是不可推卸的。”她曾经这样说过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't know his son well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对儿子的近况一无所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He blamed this on Marc, who had always been quiet and distant, and on Julia, who did her best to inject their son with a subtle hatred for him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还把这归咎于马克，认为他太沉默，太疏远了，归咎于茱莉亚，她向马克灌注了对他的一种微妙的敌意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the clich¨¦d, well-documented symptoms of divorce, and he'd expected them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些都是陈词滥调，很好的离婚理由，他已经期盼这些很久了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What he hadn't expected, though, was how much they would bother him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他没有料到的是这些事将会多么的困扰他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Twenty-four times a year they ate pizza in silence and then sat in the back row of a Times Square movie theater.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一年有24次，他孤零零的吃着披萨，然后坐在时代广场电影院的后排看电影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The elevator doors opened, and his son walked out into the lobby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电梯门打开了，他儿子从里面走出来，进到大厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Johnny Cohen," Marc called out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“约翰尼·科恩,”马克喊道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He never called him Dad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从不叫他爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc made an overconfident swivel with his hips that to Jonathan looked vaguely sexual. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克用他的臀部做了一个过于自信的旋转，对于乔纳森来说这有些不男不女。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He spoke too loudly, and in short bursts, as if he were screaming across a football field. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他大声而又急速的说话，就像正在足球场上尖叫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had headphones in his ears. "I'm. Like. Hungry. As. A. Horse."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>头上戴着耳机，说道，“我，饿了，像，一匹，马，一样饿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wanted to give his son a hug. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他想给他儿子一个拥抱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had done this when Marc was younger, but not for years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当马克还小时，他们经常这样做，但没有持续很多年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wondered whether his son could hear anything or whether his music disallowed, in its volume, any other noise.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不知道他儿子是否听得到，或许他的耳机音量太大了，使得他听不到其他的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You look good," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你看起来不错，”他说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc went out onto the street without stopping, pushing through the twin glass doors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克推开两扇玻璃门，停都不停的走到街上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Jonathan followed him, he saw his boy's handprint as it remained on the glass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当乔纳森跟上去时，他看到了儿子留在玻璃门上的手印。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc had small hands with fat fingers, as if the rest of his body had grown out of infancy and his hands had been left behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克的手很小，手指很粗，就像他身体的其余部分已经脱离婴儿期了，但是手却没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out on the street, Marc stood shaking his hips to the music in his ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来到街上，马克还是随着耳机里的音乐晃动着他的臀部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wore tight black jeans that clung to the skin of his legs, white canvas sneakers, and a red hooded sweatshirt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他穿着紧贴着大腿皮肤的紧身黑色牛仔裤，白色帆布运动鞋，一件红色的帽兜运动衫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan inspected his son for evidence of change. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森观察着他儿子的改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was pained by how much about Marc seemed different every time they were together.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次他们在一起时，乔纳森都发现马克改变了不少，这让他很痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are those new?" he asked, pointing to Marc's sneakers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这些是新的吗？”他指着马克的运动鞋问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I used to have a pair of those." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我以前也有一双。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where are we going?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们要去哪？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc asked, yelling over the clamor of his headphones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴着吵闹耳机的马克喊道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm hungry for pizza." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我饿了，想吃披萨。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're not getting pizza," Jonathan said, walking to his rented car. He put the key into the door.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们不是要去吃披萨，”乔纳森说着走向他租的车子，用钥匙打开了门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's this?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's a car, Marc." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是一辆车，马克。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I know it's a car."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道这是一辆车。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Get in."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“进去吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fuck that." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我日。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've told you not to talk to me like that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我告诉过你不要和我这样说话。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So," Marc said, tilting his head, putting a hand on the hood of the car. "Did you steal this? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那么”，马克歪着头，把手放在引擎盖上，说道，“你偷得？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because I thought you didn't have any money."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我记得你根本没钱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who says I have no money?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谁说我没钱？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mom says."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈妈说的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, I might not have the sort of money your mother has," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，我或许没有你妈妈那么多的钱，”他说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But I have some money. Now get in the fucking car, Marc."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但我还是有钱的，现在进那辆该死的车，马克。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan drove north up the West Side Highway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森沿着西侧高速向北行驶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The river glistened to his left. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>河流在他左边闪耀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To his right, the city stretched out clean and blue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在右边，城市向着洁净湛蓝的远方延伸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had always loved Manhattan, its constant energies, the first day of spring in Union Square, nighttime below Canal Street; he only wished that he could afford to live there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一直爱着曼哈顿，爱它持久的活力，爱联合广场春天的第一天，爱唐人街的夜晚；他只希望他有能力可以生活在这。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His apartment in Brooklyn sat across from a middle school, and twice a day, at seven-thirty in the morning and at three in the afternoon, a rush of noise surrounded his house.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在布鲁克林的公寓在一所中学的对面，每天两次，早上7点半和下午3点，总有一阵嘈杂的声音环绕在他房子周围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tried to listen to the high treble coming from his son's headphones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他试着听从他儿子耳机中传来的高音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc shifted in the passenger seat, his weight on one side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克在座椅中移动着，把体重压在了一边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could see only the back of his boy's head; he wondered what kind of music his son enjoyed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只能看到儿子的后脑勺；他想知道是什么样的音乐使得他儿子如此入迷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they passed 125th Street, he saw, in the reflected glare of the window, that Marc was wearing black eyeliner.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们 经过125号街时，他从反光镜里看到，马克正在画眼线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When I met your mother," he said, pointing at his son's eyes, "she used to do that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但我刚认识你母亲时,”他指着儿子的眼睛说，“她也这么干。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What was that?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说什么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc said, touching a button, pausing the music.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克边说着，边按下了一个按钮停止了音乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I said that your mother used to wear her makeup like that."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我说你母亲以前也这么上妆。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Maybe Mom was a homo."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“或许妈妈以前是个同性恋。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you a homo?" he asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是同性恋吗？”他问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You shouldn't use that kind of language, Cohen."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不能说这种话，科恩。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had become used to the way Marc turned questions around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已经习惯马克绕开话题的方式了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His son was like Superman in that way, catching bullets in his hand and redirecting them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的儿子在这方面很有天赋，就像超人可以徒手抓子弹并使它们改变方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His own father had never answered his questions, had let them dangle in the air and disappear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他自己的父亲从没有回答过他的问题，总是把问题就这么吊着，让它们自己消失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was not sure which was worse, to be mocked or to be ignored.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不确定哪样才是更坏的，被嘲弄还是被无视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The song in Marc's ears ended, and for a brief moment the headphones were silent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克耳中的歌结束了，他的耳机安静了一小会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the music started again, another burst of noise, Jonathan reached out and grabbed the headphones from Marc's ears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当音乐再次响起时，又是一阵嘈杂声，乔纳森伸出手抓住了马克耳朵上的耳机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How about we give the music a rest?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“让音乐停一会怎么样?”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Fine," Marc said. He took a pack of cigarettes from the pocket of his sweatshirt. "Can I smoke at least?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，”马克说着从衬衫口袋里拿出一包烟，“至少我可以抽烟吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He saw that Marc smoked the same brand of cigarettes he had smoked when he was 15. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他看着马克抽着他15岁时抽的相同牌子的香烟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were cheap, and terrible, and he wondered whether children could unconsciously sense these things about their parents, a taste for nicotine, a particular way of applying eyeliner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种香烟很便宜，也很糟糕，乔纳森此时怀疑孩子是否会无意识中从父母那感受到这些事，像对尼古丁的口味，特定的画眼线的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc had been an infant the last time Jonathan had owned a pack of cigarettes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森上次抽烟时马克还是一个婴儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Of course you can't smoke."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你当然不能抽烟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You smoke."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可是你抽烟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I do not," he said. Years ago, he'd coughed strange black junk from his lungs for two weeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不抽，”他说道，数年前，他曾有两礼拜从肺里咳出奇怪的黑色东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Julia had come up behind him in the bathroom, looked into the sink, and whispered into his ear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>茱莉亚跟在他后面进了浴室，看着水槽里的东西，在他耳边低语道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's your lung, buddy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是你的肺，伙计。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were living then in the Village, on East 13th Street, above a bakery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后他们就住在13号街道的村子里，在一家面包店的对面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They woke to the smell of confectioner's sugar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天，他们闻着糖果店的甜味醒来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc slept in a crib at the foot of the bed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克睡在床边的一张婴儿床里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mom says you smoke."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈妈说你抽烟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I used to smoke," he said. "Just like her. But I quit. I'm glad I did." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我过去抽。”他说，“就像她一样，但我戒掉了，我很庆幸我这么做了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whatever."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“随便啦。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His son sank into his seat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他儿子重新坐好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before Marc was born, Jonathan was entirely confident that he possessed a paternal instinct, but after the birth he felt terribly unsure of how to hold his child, how to speak to him, how much food to give him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在马克出生前，乔纳森完全确信他有着强烈的父性本能，但当马克出生后，他感到很不确定如何抚养孩子，如何和他说话，该给他吃多少食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Child care had never become any easier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>照顾孩子从来都不简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Marc was a toddler, Jonathan had no idea how to quell the boy's tantrums. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当马克是个小孩子时，乔纳森不知道怎么摆平他乱发的脾气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now that Marc was a teenager, Jonathan felt as if he were in the company of a ticking bomb. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在马克是个青年了，乔纳森感到他和一个定时炸弹在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was never sure how much time was left on the bomb, but he knew, sooner or later, that it would go off.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从不确定还有多久炸弹会爆炸，或迟或晚，它总会爆炸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned off the Parkway and headed toward New England. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从公园路上下来，驶向新英格兰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From here, he could see the entirety of Manhattan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这，他能看到整个曼哈顿区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sight was gorgeous from this angle, the city from head to toe, water everywhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从这个角度看到的景色十分华丽，城市从头到脚都被水包围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While Jonathan took notice, Marc was staring at his sneakers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当乔纳森注意到时，马克正盯着他的运动鞋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're going on a trip," Jonathan said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们要去旅行。”乔纳森说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I see that we're going on a trip," Marc said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我知道我们要去旅行。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm not, like, blind, Cohen." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克说“我不像瞎子，科恩。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You having fun?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你开心吗?"</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc shrugged his shoulders. "I don't like cars."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克耸耸肩，“我不喜欢汽车。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's because you grew up here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是因为你在这长大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you grew up anywhere else, you'd love them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你长在其他任何地方，你会爱上它们的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Cars are for taxi drivers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“车是给出租车司机用的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is that how you make your money these days? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你这些天是不是就是这样赚钱的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a taxi driver?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做一个出租车司机？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They drove the next five miles in silence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在沉默中又行驶了5英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc fiddled with the tiny black box that produced his music. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克摆弄着那个产生音乐的小黑盒子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan glanced at the thing and remembered the enormous turntable he'd owned at 15. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森扫了一眼那东西，想起了他15岁时拥有的大量电唱盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his backyard, he'd built a solid oak cabinet to house the record player. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在后院，他还做了一个坚固的橡木柜来安放唱片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd needed help moving it to his bedroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他需要帮助才能把它搬进卧室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a piece of furniture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它就是一件家具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc's music player was smaller than a baseball card.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克的音乐播放器比棒球卡还小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they left the city, driving through the wooded, green stretch between the Bronx and Connecticut, Marc began to chew his fingernails. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们离开城市，穿越森林，绿色在布朗克斯和康奈迪克之间延伸开来，马克开始嚼他的手趾甲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jonathan turned the radio on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森打开收音机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Jets were playing the Patriots. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喷气机队正在和爱国者队比赛（橄榄球队名）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The game came across the air.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比赛转播的电波从空中传来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Turn it off," Marc said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“把它关掉 。”马克说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You don't like football?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你不喜欢橄榄球？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where are we going, Jon?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们要去哪，乔？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Rhode Island."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“罗德岛州。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What the fuck is in Rhode Island?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“罗德岛州是他妈的怎么回事？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why do you have to curse like that?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“为什么你一直要这样诅咒一样的说话？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm cursing because you're driving me out of the state."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我诅咒是因为你正要带着我出州。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're going to Rhode Island so you can meet someone."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们去罗德岛州是为了 让你见些人。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Meet who?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“见谁？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Marc asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>马克问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Your grandfather."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你祖父。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Grandpa's dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“祖父已经死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He died last year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他去年就死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You went to the funeral. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你去葬礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记得吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biggest heart attack in medical history? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好像是医学史上最严重的心脏病？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mom cried for, like, 10 weeks."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妈妈为了这哭了10个礼拜。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Not Grandpa Joe," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不是祖父乔，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We're going to see my father." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们要去见的是我父亲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I thought he was dead too."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我以为他也死了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well," he said, squeezing the steering wheel very tight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，”他说，紧紧地抓住了方向盘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He's not."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他还活着。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tucked into his jacket was a letter from his father's lawyer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塞在他夹克里的是一封来自他父亲律师的信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man was dying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那老人马上就要死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After 18 years of silence, Jonathan had received a letter in the mail. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沉默了18年后，乔纳森收到了一封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd always wondered how his father might die.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一直想知道他父亲怎么可能会死。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Burden of Health Care Costs Affects Families in Range of Incomes  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>医疗重担遍及各个收入段的家庭
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The health care reform legislation makes care more affordable for low-income families, but families that earn much more than the federal poverty level also have been burdened by high health care costs.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新的医改案更多倾向于低收入家庭，但是许多生活在贫困线以上的家庭同样受高额医疗费用的压迫。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although much of the recently enacted health care reform legislation focuses on insuring lower-income Americans, a new study finds that middle- and high-income households were much more likely to shoulder a higher burden of health costs in recent years.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新近出台的医改方案聚焦于美国的低收入家庭，但是一份最新调查显示，最近几年来美国的中高收入家庭背负的医疗重担更沉重。  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The study by a researcher at the Center for Studying Health System Change (CSHSC), a private nonpartisan policy research organization, was published in the March 25 Health Affairs and found that lower-income families were least likely to have faced “high burden” health costs, which the study defined as more than 10 percent of their gross income. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>此次调查是由卫生制度变迁研究中心的一名研究员做的。该研究中心作为一个个体无倾向性的政策研究机构在3月25日的《卫生事务》上公布了此项调查，调查显示低收入家庭不大可能面临医疗费用的“重压”，因为此项支出仅占他们总收入的10%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The study used federal survey data to compare the cost of both insurance premiums and out-of-pocket health spending with gross incomes from 2001 to 2006—the last year for which data were available.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>调查中利用了国家调查中的数据，对比了2001年到2006年中总收入中保险费用和日常的医疗支出.(去年的调查中这些数据还是可用的。)
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The study, by Peter Cunningham, a senior fellow at the CSHSC, found that from 2001 to 2006 the number of families below the federal poverty level (FPL) and with private insurance who faced high-burden health costs increased 17 percent. (The 2010 FPL for a family of four is $22,050.) However, the number of middle-class and high-income families facing such a challenge increased by 56 percent and 98 percent, respectively. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这此调查是由该研究中心的高级研究员彼得·坎宁安做的，他发现2001年到2006年有医疗重压的生活在国家贫困线以下并且具有私人保险的家庭增长了17%。（2010年四人家庭的国家贫困线是22050美元以下）然而面临同样问题的中高收入家庭却分别增长了56%和98%。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Among the 11 million people with private insurance whose health care costs rose above 10 percent of their gross income in those six years, 39 percent were in high-income families and 48 percent were in middle-income families. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在这六年中，1100万有私人保险的人中，医疗费用占总收入比重增长超过10%的，39%的人来自高收入家庭，48%的来自中等收入家庭。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although the FPL is adjusted annually for inflation, at the current FPL, the study defined low-income households as families of four with combined pre-tax earnings of from $22,050 to $44,100; middle-income families as those earning from $44,101 to $88,200; and high-income families as those earning more than $88,200.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>国家制定的贫困线每年都在调整，此项调查以目前的贫困线为准，以四人家庭为例，低收入家庭的标准是税前收入为22050美元到44100美元之间；中等收入为44101美元到88200美元；高收入家庭为88200美元以上者。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While the health care law signed by President Obama in March contains a range of insurance-access assistance for low-income Americans, fewer provisions aim to lower expenses for middle-income earners.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>总统奥巴马在三月份签署的医疗法案中包括一系列扶持美国低收入家庭入保险的政策，可是旨在降低中等收入者支出的规定却少很多。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The new law offers some subsidies for middle-class people buying insurance through new state exchanges. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>新政策为中等收入者提供购买保险的补贴，但是这必须要通过新国家交易。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One component is a premium subsidy, under which taxpayers will pay the difference between an insurance plan's premiums and a set percentage of the beneficiaries' income for those making up to 400 percent of the FPL, or $88,200 for a family of four. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中的一项是保险补贴，也就是纳税人只需交付原保险费和那些可以赚贫困线数额4倍的钱或是说四人家庭收入达88200美元的家庭收入的某个固定比率的差额。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also benefiting the middle class is a cost-sharing subsidy for out-of-pocket expenses, for which the details will be determined by regulators, but with the goal of reducing the amount that beneficiaries in the same income range have to pay out of pocket for medical expenses.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有一项有惠于中等收入家庭的用于现金支付的费用分担补贴，具体的实施细则要由管理者另定，但是这项政策的最终目的是降低同等收入者现金支付的医疗支出。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“[S]ubsidizing private coverage and expanding public coverage for lower- and moderate-income families alone is not sufficient to stem the increase in high financial burden or to reduce the variation in financial burden across states,” Cunningham wrote. “To stem the increase in financial burden among families at higher-income levels—and to sustain proposed subsidies to lower-income people—it will be essential to combine cost-containment efforts in health care along with achieving real gains in family income.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“仅对个人进行补贴和扩大中低收入家庭的扶持并不足以减少人们的经济负担，也不能降低各个州经济负担的差异，”坎宁安写道，“减少高收入家庭的经济负担，继续坚持对低收入家庭的补贴，才是降低花费，提高收入的关键。”</seg></tuv>
+</tu>
+</body>
+</tmx>

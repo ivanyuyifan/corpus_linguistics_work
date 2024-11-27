@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160902T135013Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Three Short Moments in a Long Life</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>漫长人生中的三个瞬间</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE SPY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一个瞬间：偷窥</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beverly and I were second graders at New Carew Street School and we both hated recess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是纽卡鲁街小学二年级的学生，我有个同学，叫贝弗莉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She hated recess and she cried the whole time and nobody knew why, so everybody made fun of her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们俩都讨厌课后兴趣小组时间，她为了这事儿总是哭，别人不知道她为什么哭，所以都在笑话她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hated recess because it wasn't really school and we weren't learning anything. It was a waste of time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我讨厌兴趣小组是因为我觉得这不是正经的学校课程，我们不能学到任何知识，还得浪费时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew Beverly only by name and by what I could tell from spying on her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对贝弗莉的了解很少，我只知道她的名字，还有我偶尔偷偷观察发现的一些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her last name was LaPlante, which was strange and therefore wrong, and she was known for being a crybaby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的姓氏是拉普朗特，这个姓氏很奇怪，也许是拼写错误。她还是出了名的爱哭鬼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was not even pretty. Her crying all the time frightened me, so I never spoke to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝弗莉长的也不漂亮，还老是哭，哭得我都害怕，所以我从来都不敢跟她说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, I didn't want anybody to think I was her friend. She didn't belong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，我也不想让任何人误会我是她的朋友，她没有这个资格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, secretly, I feared that I didn't belong, either.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，私下里，其实我也害怕我不配做她的朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nice thing about Beverly LaPlante was that she disappeared sometime that winter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好消息是，冬季的某天，贝弗莉·拉普朗特消失了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day, Miss Williams was taking attendance and, after a little pause, she skipped over Beverly's name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天，威廉姆斯老师点名的时候犹豫了一下，然后跳过了贝弗莉的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all looked at where Beverly was supposed to be sitting, and her seat was empty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都看向了贝弗莉的位置，那儿是空的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember thinking, Yes, good, she didn't belong and now she's gone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想，噢，太好了，她本来就不该在这儿，现在她终于走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wondered if she was crying in her new place, wherever that was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说不定这会儿她正在新学校哭呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wondered how she had managed to disappear or if it was something that her mother and father had done to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过她为什么决定要走呢？是她爸妈决定的吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wondered, for the first time, why she cried.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，我头一次想知道，她为什么要哭。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Second grade came to a dull close without any further thought about Beverly LaPlante.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二年级就这样平淡无波地过去了，那天之后，我再也没有好好想过贝弗莉·拉普朗特的事儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Third grade started with a bang. We had a new teacher, Miss Connolly, who loved me because I was smart and clean, and I loved her back because she was beautiful. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三年级开始的时候，发生了一件大事——我们有了一个新老师，康诺丽小姐。她很喜欢我，因为我聪明整洁，而我也很喜欢她，因为她很漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At dinner one night, my mother said to my father, "She's very nice, but, dear God, those teeth!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天晚餐的时候，我妈妈对我爸爸说：“康诺丽小姐很棒，但是，老天啊，看看她的那些牙！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What's with her teeth?" my father said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她的牙？怎么了？”爸爸问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She's got buck teeth. Like a horse." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她那口龅牙活像一匹马。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was only conversation, but it wasn't nice to Miss Connolly, so I hated them both until I went to bed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这只是饭桌上一段平凡的插曲，但我觉得这些话冒犯了康诺丽小姐，所以我直到上床的时候还觉得很讨厌他们俩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had a new reading textbook, a thick one with a brown-and-orange cover, and during recess I hid in the bathroom and read ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了新老师，我们还有了一本新的阅读课本，厚厚的，封面是褐色和橘色。每当兴趣小组时间到，我就藏在盥洗室里，自己看书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On my third day of hiding in the bathroom, the janitor caught me and told Miss Connolly, who gave me a lecture about good citizenship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我藏在盥洗室的第三天，我被巡逻的老师抓到了，他把我交给了康诺丽小姐，结果，我被康诺丽小姐好好教育了一顿什么叫守纪律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She didn't look beautiful then. She looked like an angry horse, and that made me cry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这会儿她看起来一点都不漂亮了，真的活像一匹暴怒的马，吓得我哭了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She gave me a hug and told me that she understood but I couldn't skip recess anymore. I had to do what everybody else did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康诺丽小姐只好抱了抱我，安慰我说她能理解我讨厌兴趣小组，但是我真的不能再逃了，我得跟别人做一样的事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I promised. But I still read ahead in the brown-and-orange book.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我同意了，但我还是在读这本书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In third grade, we played dodgeball during recess. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三年级的时候，我们的兴趣小组活动是打躲避球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I liked dodgeball, because I was good at it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我喜欢躲避球，因为我擅长这个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was skinny and quick and I could see, ahead of time, where someone was going to throw the ball and I'd get out of the way, so the ball would hit someone else, someone who was fat or slow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我瘦小灵活，预见球的路线后能迅速地躲开它，然后这个球就会打在那些肥胖笨拙的人身上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My friend Billy Muir was fat and slow, but he was an exception. He managed to avoid getting hit most of the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的朋友比利·缪尔就是个笨拙的胖子，但他却意外的是个高手，他能躲过大部分球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Billy Muir's father always wore a suit. He was successful in business, so he was transferred to the Chicago branch of his company, where he continued to be successful until his supervisors discovered that he was embezzling money and he hanged himself. With his belt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比利·缪尔的父亲经常穿着一身西装，他的业绩很优秀，所以被他的公司派往了芝加哥分部。在那儿，他也干的很好，但是当审计员发现他挪用公款后，他就用皮带上吊自杀了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was later. In third grade, Billy Muir had no idea that his father would end up famous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是后头的事儿了，三年级的时候，比利根本不会去想他父亲会死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Billy was fat and slow but he could dodge the ball anyway, so that was something to think about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比利胖胖的，动作也很迟缓，但是无论如何，他总是能躲过那些球，这让我想不通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the big thing to think about was the new girl. Her name was Beverly, just like the LaPlante girl who had disappeared the winter before, but this new Beverly was pretty and she laughed all the time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然啦，最让我在意的还是新来的那个女孩，她的名字也是贝弗莉，跟在冬天离开的那个拉普朗特一样，但是这个“新贝弗莉”很漂亮，而且她总是笑眯眯的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was the best in the class at dodgeball, but on the day the new girl arrived I was the first one out, which made me miserable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是这个班里躲避球玩的最好的，但是这个新来的姑娘加入的时候，我是这局球里第一个被淘汰的，这让我很难过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was fair, but it was wrong, because I wasn't paying attention and the ball hit me while I was thinking about the "Little Mermaid" story I was reading. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>游戏仍是公平的，但我输得莫名其妙，因为球扔过来的时候我心不在焉，当时我在想我读到的故事，汉斯·克里斯汀·安徒生写得那个《小美人鱼》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By Hans Christian Andersen, with an "e" instead of an "o." Now that I was out, I began to pay attention to the game. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我被淘汰了，我还在关注这局游戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Standing at the edge of the circle, I could get a good look at everybody, and that was when I recognized the new girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>站在游戏划定的范围外，我能很好地观察到每一个人，结果我突然意识到一件事！这个新来的姑娘就是贝弗莉！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her hair was short now and she was a different Beverly LaPlante, but she was Beverly LaPlante all the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然她头发剪短了，看起来是个完全不一样的贝弗莉·拉普朗特，但她的的确确就是原来那个！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How was this possible? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这怎么可能？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was wearing a Girl Scout outfit with clumsy Girl Scout shoes. She was talking and laughing and making noise, and, when Billy Muir got hit and had to go outside the circle, she noticed the angry face he made and she said, "Jesus Christ! Your face would sour the milk!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她穿着女童子军的外套和笨重的女童子军鞋，又笑又闹的，当比利·缪尔被她淘汰出圈的时候，她注意到了他愤怒的表情，大笑道：“耶稣基督啊！你的脸臭的都能让牛奶发酸了！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody seemed to hear her, but I did and I looked at Miss Connolly, who made a horse face, which meant that she had heard her, too. But she didn't say anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好像没人听见贝弗莉的话，但是我听见了，我看见康诺丽小姐拉长了一张马脸，这说明她也听见了，不过她什么都没说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taking the Lord's name in vain was wrong and therefore Miss Connolly was wrong to pretend she hadn't heard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妄称圣子之名犯了大错，所以康诺丽小姐假装什么也没听见也是错的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then Joycie Adams got hit by the ball and just stood there like a dummy until everyone yelled at her that she had to leave the circle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在这时，洁茜·亚当斯也被砸中了，但她还固执地站在那儿，直到大伙儿喊她出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said that it wasn't fair, because the ball had barely hit her, and Beverly said, "What the hell! Don't be such a damn crybaby." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她大叫着这不公平，因为球只是擦着她过去了。贝弗莉大声嘲讽道：“那又怎么样！蠢兮兮的爱哭鬼！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody heard her this time and turned toward Miss Connolly, who finally said, "Now, now! Language, please!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这回，所有人都听见了，大家齐刷刷地看向了康诺丽小姐，她厉声道：“注意你的言辞，贝弗莉！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The kids all went quiet, waiting to see what would happen, but Beverly laughed into the silence and said, "Shit, piss, fuck!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有人都噤声了，一片沉默。然而贝弗莉不依不饶，她挑衅的讥笑在所有人耳边回荡：“呸！去死吧！狗日的！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Connolly said very loudly, "Time for class, people! Everybody to the stairs now. Now! Not tomorrow!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康诺丽小姐气得大声咆哮起来：“你们！都给我回去上课！所有人都给我站到台阶上去！立刻！马上！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said "people" in that special voice, so we all ran to the front stairs and waited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她喊“你们”的时候声音都变了，我们赶紧跑到了第一层台阶上站好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Connolly took Beverly aside and we couldn't hear what she said, but Beverly just laughed again and said something back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康诺丽小姐把贝弗莉单独拎出来带到了一边，我们听不见她在说什么，不过我看见贝弗莉一直在冷笑，回敬了好几句。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Connolly took Beverly's arm and shook it hard, but Beverly pulled away and ran to the center of the dodgeball circle, where she did a little dance in her Girl Scout shoes, shouting over and over, "Jesus Christ and shit, piss, fuck! Jesus Christ and shit, piss, fuck!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>康诺丽小姐狠命摇晃着贝弗莉的胳膊，但她使劲甩开了老师的手，跑到躲避球划定的圈里跳起了乱七八糟的舞，边跳边嚷嚷：“耶稣基督是个傻逼！耶稣基督算个屁！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She shouted as if she had finally discovered the truth and couldn't wait to tell the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她看起来好像发现了什么真理，迫不及待地要嚷嚷给全世界听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Miss Connolly herded us up the stairs and into the classroom, where she gave us silent reading time until lunch period.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恼羞成怒的康诺丽小姐把我们赶进了教室，命令我们安静看书直到吃午饭为止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tried to figure out what had happened at recess, but it just made my head hurt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我试图理清这次的兴趣小组时间里到底发生了什么，但这只让我觉得头痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bad words were wrong, of course, and taking the Lord's name in vain was wrong, but it was more complicated than that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>说脏话当然是错的，妄称圣子之名也是错的，而且这个错误远比前面那个大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was something about Beverly herself. I wondered what had happened to her that made her happy now, but with dirty words, when a year ago she had just cried all the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>贝弗莉身上一定发生了什么，她身上发生的事情让她变得开朗起来，不像一年前那样总是哭哭啼啼的，但是同时也让她变得爱说脏话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wasn't like any of us. She didn't belong. She didn't fit in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的贝弗莉和我们中的任何一个人都不像，她和我们格格不入，无法相处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I tried all the time to fit in and no one noticed that I didn't, but now I wondered, secretly, if I was like Beverly LaPlante.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也不行，不过我总是在试图让自己看起来和大家都一样，并且也没人发现我其实是不同的，现在，我偷偷地想，我是不是和贝弗莉·拉普朗特是同类人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to think of her when I was supposed to be doing arithmetic and geography, which were no fun anyway. I began to think of her on the walk to school each day and again on the walk home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我总是想起贝弗莉，无论是当我做无趣的算术题和地理题的时候，还是在我上学和我回家的路上，我都会想起她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, one night, when I said my prayers before bed, I finished up with the sign of the cross and, trying not to say it, I said, "Please, God, let Beverly LaPlante die." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天晚上，当我做睡前祷告的时候，我画完十字，说出了我一直不敢开口的话：“求求您，上帝，求您杀了贝弗莉·拉普朗特......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a real prayer and I knew it was wrong and I would go to Hell. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>”这是我内心真正的祈求，我知道它是错的，我会因此下地狱的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I said, "I take it back," but you can't take back prayers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我赶紧说：“不，我收回这句话。”然而你知道，祷告是无法收回的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I said a lot of Our Fathers and after a while I felt that maybe I wouldn't go to Hell and I should stop thinking about Beverly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我数次持诵主之名，过了一会儿，我觉得我应该不用下地狱了，我还觉得我不能继续想贝弗莉的事情了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was just one of the things I was afraid of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只是我害怕的事情里头的一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wasn't sure what all the others were, but I knew for certain that I was afraid of Beverly LaPlante.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不确定别人怎么想，但是的确，我害怕她，害怕贝弗莉·拉普朗特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beverly died that summer, of polio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夏天的时候，贝弗莉真的死掉了，是因为小儿麻痹症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother said, "No more swimming at the pond. That's how you get polio. That's how your little friend died, the LaPlante girl, swimming in the pond." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈警告我说：“不要再到池塘里去游泳了，你会跟你的同学一样得上小儿麻痹症死掉的，她就是因为在池塘里游泳得了这个病。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I didn't swim that summer, but I knew then that I would have Beverly LaPlante stuck in my mind forever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以这个夏天，我没有去游泳。但是我知道，贝弗莉·拉普朗特将成为我的一块心病。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fourth grade, everything was different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四年级的时候，一切都不一样了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were new people, and some of the old people were gone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多新生命降生了，而一些老人则去世了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to understand that people disappeared and changed and sometimes they hanged themselves or came back different and still didn't fit in. People were a mystery, I decided, like the Resurrection at Sunday school. Jesus died and was buried and then he rose from the dead. He said hello to Mary Magdalene- she was the first to see him, because she had washed his feet and dried them with her hair- and later he made breakfast for his disciples to prove that he had died and then come back real. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始意识到一件事，那就是人们离开之后，会换一个身份回来，他们有的让自己变得合群了，有的即使换了个样子还是不合群。人类是种谜一样的生物，我想，就像主日学校里教的复活节的故事，耶稣在坟墓里死而复生，第一个有幸见到他的人是玛丽·玛格达莱妮，因为她曾为耶稣洗脚，并用自己的长发擦干了它们。耶稣向她打了个招呼。之后，他又为自己的门徒做了一顿早餐，证明他真的死而复生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no crying involved with Jesus. And no dirty words. Then he disappeared for good, just like Beverly LaPlante.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耶稣没有叫喊，没有说脏话，之后他永远地消失了，就像贝弗莉·拉普朗特一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE WRITER</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二个瞬间：作家</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was working on my novel- don't even ask- when I heard the doorbell ring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那一天，我正在写小说，突然，门铃响了起来——好啦，别指望我透露写了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My wife was out teaching school, so I had to answer it myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的妻子去学校了，所以我不得不自己去开门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got up from my computer, went downstairs slowly, because I'd turned my ankle a few days earlier, and just as I got to the door I tripped on the new carpet and heard myself saying, "Jesus Christ!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从电脑前走开，慢吞吞地往楼下走，毕竟我前几天不小心崴了脚，慢一点也很正常。因为行动不便，挪到门口的时候，我在新地毯上绊了一跤。“耶稣基督啊！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I opened the door and it was him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我惊呼了一声，定定神，打开门。真巧，门外就是他......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hey," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你好。”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hey," I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗨。”我说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I recognized him immediately from his pictures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他真的跟画像上一模一样，所以被我一眼认了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had long blond hair and those eyes that follow you around the room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有一头金色长发，他的眼睛始终追随着你的身影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My head had been bothering me lately. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的脑袋最近让我很苦恼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I figured it was the asthma medications I was taking, but I couldn't believe that they were powerful enough to conjure up a lithograph Jesus at my front door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我认为这可能是服用哮喘药的后遗症，但是我不觉得它已经厉害到可以让我认为书中的圣子耶稣现在正站在我门口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd been meaning for some time to read one of the Gospels straight through, to get the story directly from the approved source, so maybe that was it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这段时间，我自行读完了一本福音书，从各个渠道了解过显圣的传说，现在“显圣”好像真的发生了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was always on my mind these days, and now he was standing on my porch.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耶稣的形象在我脑海里徘徊了几天后，真的站在了我门口走廊里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Right," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的，就是你想得那样。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In five years, I see myself with the same job title, about the same salary, and significantly more responsibilities." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他肯定了我的念头，调侃道“未来五年里，我看见我自己仍挂着同一个职称，拿着同样多的工资，却得多干不少活。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At first I was awestruck, but after a minute I got over the blond hair and the eyes and I could see that he was nothing special, just another guy trying to get along. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刚开始，我还怀有一份敬畏之心，但是几分钟后，当我习惯了他绚烂的金发和那双眼眸，我就觉得他也没什么特别的了，他看起来只是一个屌丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe he was a vet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这人或许是个兽医？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Iraq? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我胡乱猜测着，也许是伊拉克人？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afghanistan? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿富汗人也有可能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Anyway, he had on grungy jeans and an orange sweatshirt, and he could have used a shower.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，无论如何，他从我这儿得到了一件蹩脚的牛仔裤和一件橙色T恤，还能冲个澡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How's it going?" he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“接着发生了什么？”他问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was tempted to tell him how it was going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我着魔了似的将后续和盘托出。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had written all these books and nobody gave a shit and I was in the middle of another one that nobody would give a shit about, either. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我写了这么多书，但无人投以一瞥，就像芸芸众生中的我，得不到别人的一点注意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My subject this time, if novels can be said to have a subject, was guilt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一次，书的主题是罪恶——如果小说也能被称为有主题的话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the story of a high-school teacher who was guilty of lots of things- infidelity, verbal cruelty, petty theft, the usual lying and cheating- but he was not guilty of molesting one of his students, and that was what he was accused of. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个高中老师的故事，他是个劣迹斑斑的家伙——背弃神明、语言威胁、小偷小摸、撒谎成性，这些他都干过。他唯一没干过的就是性骚扰他的学生，但他被起诉的罪名就是性骚扰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was trying to use this poor chump to explore the infinite varieties of guilt and justice and injustice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我试图用从这简单的故事中折射出无尽的罪恶、公正、与不公。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the doorbell rang, I was working on a scene in which a harmless conversation between this teacher and a student was overheard by another teacher, a troublemaker, who would later testify that he had witnessed what sounded like a seduction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当门铃响起的时候，我正在写一幕老师和学生间的清白对话，这段对话被另一个老师听见了，他是个麻烦精，之后就是他举证说他目睹了一场交易。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

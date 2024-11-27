@@ -1,0 +1,688 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T051442Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What Will Become of the Paper Book?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纸质书：未来何去何从？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The change has come more slowly to books than it came to music or to business correspondence, but by now it feels inevitable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对于音乐或商业通信领域，图书业的改变似乎来得更慢些，但在感觉上它却是必然的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The digital era is upon us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数字时代已然来临。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Twilights and Freedoms of 2025 will be consumed primarily as e-books. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了2025年，购买《暮光》和《自由》的读者将主要会选择电子版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways, this is good news. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从许多方面来看，这个是好消息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Books will become cheaper and more easily accessible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书籍将会变得越来越便宜，也更容易读得到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hypertext, embedded video, and other undreamt-of technologies will give rise to new poetic, rhetorical, and narrative possibilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>超文本、嵌入视频和其他叫人做梦也想不到的技术手段将会催生全新的诗歌、修辞和叙事的创作可能性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But a literary culture that has defined itself through paper books for centuries will surely feel the loss as they pass away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但随着纸质书籍的消失，几个世纪以来已经通过它们来对自身进行定义的文学文化（literary culture）将不免会感到失落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the past several years, we've all heard readers mourn the passing of the printed word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去的几年里，我们都听到过有读者在哀叹印刷文字的流逝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The elegy is familiar: I crave the smell of a well-worn book, the weight of it in my hands; all of my favorite books I discovered through loans from a friend, that minor but still-significant ritual of trust; I need to see it on my shelf after I've read it (and I don't mind if others see it too); and what is a classic if not a book where I'm forced to rediscover my own embarrassing college-age marginalia?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>感伤总是互通的：我就渴望闻到旧书的气息，感受它停留在我手心的重量；在我的藏书中，我最喜爱的书都是从一位朋友那里贷款购得的，因为我觉得，朋友之间借贷是一种虽不盛行但依然意义重大的互信之礼；读完书以后，我必须得看到它被放在书架上（别人能不能看到我无所谓）；想想看，要不是纸质书，你还能再次找到自己在大学时代写下的让人窘迫的旁注吗？而缺少这些经历经典又从何谈起呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Luddites can take comfort in the persistence of vinyl records, postcards, and photographic film. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卢德分子（Luddites）可以从黑胶唱片、明信片以及胶卷的收藏中获得慰藉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The paper book will likewise survive, but its place in the culture will change significantly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纸质书同样也会存活下去，但它在文化中的地位将会出现明显的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As it loses its traditional value as an efficient vessel for text, the paper book's other qualities - from its role in literary history to its inimitable design possibilities to its potential for physical beauty - will take on more importance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着纸质书丧失了其作为文字有效载体的传统价值，它的其他品质——从它在文学史中所扮演的角色到无可比拟的设计价值，再到其潜在的实感之美——将会变得愈发重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The future is yet to be written, but a few possibilities for the fate of the paper book are already on display on bookshelves near you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然未来尚不明朗，但纸质书可能的命运走向已经在你身旁的书架之上拉开了帷幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're warned from an early age not to be taken in by the sensuous aspects of a paper book's design, such as its cover. Yet the visual effect of a well-made book, even an inexpensive paperback, unquestionably shapes our interpretation and appreciation of the text.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我们从小就被人教育说，不要被书籍设计的感官因素如封面所迷惑，但一本精装书，甚至一本便宜的平装书，所带来的视觉效果都无疑会塑造着我们对于文字的诠释和鉴赏能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Consider this Penguin UK collection of essays by the German critic Walter Benjamin. The front cover comments on the book's status as a manufactured object. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>譬如英国企鹅出版社出版的这套德国评论家瓦尔特·本雅明（Walter Benjamin）的散文集，书籍的封面对这本书作为定制品的身份进行了评论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is in harmony with Benjamin's text: "[T]hat which withers in the age of mechanical reproduction is the aura of the work of art. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一评论与本杰明的文字很是相得益彰：“在机械复制时代凋萎的东西正是艺术作品的灵晕（aura）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By making many reproductions it substitutes a plurality of copies for a unique existence."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过制造大量复制品，艺术作品以多元化的副本取代了唯一存在性。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, as we move into the digital age, the well-made copy has come to occupy a familiar, almost nostalgic middle ground between the aura of an original and the ghostly quality of a computer file. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现如今，随着人类迈步进入数字时代，制作精良的复制品已经逐渐在原创作品的灵晕和电子文档的怪异品质之间占据了一种令人熟悉到近乎有些怀旧的中间立场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A mass-produced paper book, though bulkier and more expensive, may continue to be more desirable because it carries with it this material presence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>批量生产的纸质书，尽管块头更大，也更昂贵，但同时也更具吸引力，因为它承载着实物性的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And presence means something - or it can, at least, in the hands of a good book designer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种存在意义重大——或者，至少它可以被优秀的书籍设计师所掌控。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mechanical reproduction of literary texts is a very old story - more than 500 years old. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>文学作品的机械复制拥有五百多年的悠久历史。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Printed books were an early experiment in the mass production of art. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在艺术的大规模生产过程中，印刷书籍是一种早期的试验之举。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out of that successful venture, among other literary advances, the novel was born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小说，连同其他的文学进步正是脱胎于上述成功的冒险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Writers like Cervantes recognized and realized the potential of the printed book, that ingenious device for delivering stories and ideas to an idle provincial reader.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塞万提斯等作家承认并意识到了印刷书籍的潜力，这种精巧的装置可以将故事和理念传递给生性懒散的乡野读者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story of Don Quixote features countless printed books, and the entire novel can be read as a commentary on and intellectual advancement of that revolutionary technology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《唐吉可德》的故事即体现了大规模印刷书籍的特色所在，整部小说可以被视为是对革新技术的一出评论和智力提升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is it any more appropriate to consume Quixote on an e-reader than it is to, say, watch a colorized, 3-D Citizen Kane?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道说，在电子阅读器上阅读《唐吉可德》就比欣赏一部彩色3-D版的《公民凯恩》（Citizen Kane）要来得更适合吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This question points to a second possible mode of survival for the paper book in the digital age. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的发问为数字时代的纸质书指明了第二种可能的生存模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Purists will argue that some important texts ought to be read in their original form. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纯粹主义者也许会固执地认为，阅读某些重要文本时应当使用原版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This may be especially convincing when it comes to the novel, a literary form so bound up in the history of the printed book - and, by many accounts, well past its golden age as the digital transition begins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于小说，尤其应该如此，这种文学形式与印刷书籍的历史太密不可分了——而且，在很多人看来，随着数字过渡期的开始，小说的鼎盛时代已成为了昨日黄花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, advances in book technology often add to texts as much as they take away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，成书技术的进步在剥夺文本某些特性的同时，也赋予其同样多的新特征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, innovations in wood engraving led to Gustav Dore's famous 1863 illustrations of Quixote.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，木刻版画上的创新让古斯塔夫·多雷（Gustav Doré）在1863年绘制出了著名的《唐吉可德》插画。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we speak of illustrations, book covers, typesetting, and other features specific to a given print edition, we're analyzing what the French theorist G¨¦rard Genette calls "paratexts." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当针对既定印刷版本去谈论插图、书籍封面、排字以及其他特征时，我们实质上是在分析法国理论家热拉尔·热奈特（Gerard Genette）所谓的“类文本（paratexts）”概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Paratexts: Thresholds of Interpretation, he writes, "[A]lthough we do not always know whether these productions are to be regarded as belonging to the text, in any case they surround and extend it, precisely in order to present it, in the usual sense of this verb but also in the strongest sense: to make present, to ensure the text's presence in the world, its ¡®reception' and consumption in the form (nowadays, at least) of a book."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在《类文本：理解入门》（Paratexts: Thresholds of Interpretation）一书中，他这样写到，“尽管我们不一定知道这些产出物是否应当被视为附属于文本，但总之它们围绕在文本周围，并延伸了文本的概念，正是为了对其进行呈现，一般意义同时也是最强意义上的去呈现，并确保文本在世界上的存在性，即它以书籍形式（至少在当前）存在的‘接纳’和消耗。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As e-books overhaul and re-present many long-standing paratextual categories, we trade off layers of established meaning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着电子图书超越并再现了很多长期存在的类文本类别，我们对既定涵义的层次进行了权衡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The typescript page shown here, from James Joyce's Ulysses, is a famous example of a paratext with clear authorial intent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下图所展示的打字稿来自于詹姆斯·乔伊斯（James Joyce）的《尤利西斯》，它展示了一个带有明晰作者意图的著名类文本例证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joyce asked the printer to enlarge the final, redundant period at the end of the "Ithaca" chapter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔伊斯要求印刷工扩大了小说中《伊萨卡岛》章节末尾处最后一个多余句点的大小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On a Kindle, the reader can adjust the font size herself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而在Kindle上，读者自己就可以调节字体大小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Joyce wanted his free-floating period to be especially visible because it meant more than the average punctuation mark - it gave a full stop to the long "sentence" that was Ulysses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔伊斯希望自己自由浮动的句点变得尤为明显，因为它的作用不止是一个普通的标点那样简单——它相当于为整部小说长的“句子”划上了最终的句点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recently, several young writers have further cultivated paratextual elements like punctuation, typesetting, and binding as arenas of authorial expression. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近，几位年轻的作家对标点、排字和装订等类文本元素进行了进一步的探索，使之成为了作者情感表达的角力之所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dave Eggers prints body text on the cover of his book; Mark Z. Danielewski uses colored, upside-down, and Braille fonts; Salvador Plascencia crosses out words and blacks over whole columns of text. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴夫·艾格斯（Dave Eggers）在著作的封面印上了书中的正文；马克·丹尼利斯基（Mark Z. Danielewski）则使用了彩色、上下颠倒的字体以及盲文字体；萨尔瓦多·普拉森西亚（Salvador Plascencia）划去作品中的某些字句，甚至将整段文字涂黑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Laurence Sterne's 1759 novel Tristram Shandy, with its blank, black, and marbled pages, stands as an early precedent for these sorts of explorations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，早在1759年，劳伦斯·斯特恩（Laurence Sterne）就在自己的小说《项狄传》（Tristram Shandy）中使用了白页、黑页和大理石纹页，它们代表了类文本探索的早期雏形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tree of Codes, Jonathan Safran Foer's 2010 novel-by-erasure, is one example of a paratextually audacious paper book that would lose much in translation to an e-book. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔纳森·萨弗朗·弗尔（Jonathan Safran Foer）2010年出版的擦除式小说《码之树》（Tree of Codes）是类文本纸质书的一个典型例子，这种富有冒险精神的探索性作品若被转化成电子书，肯定会变得面目全非。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foer picked through the pages of his favorite novel (Bruno Schulz's Street of Crocodiles), pulling out words to create a new narrative composed entirely from Schulz's raw material. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗尔从自己最喜欢的小说——布鲁诺·舒尔茨（Bruno Schulz）的《鳄鱼街》（Street of Crocodiles）选定内容，断出文字，从而形成了一本完全由舒尔茨所创作的原文所组成的新小说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foer's originality can be questioned (Tom Phillips' A Humument tried the same trick 40 years ago), and his finished product arguably fails to bridge the divide between conceptual art and literature, but the design work is unimpeachable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗尔的创意让人心存疑问【汤姆·菲利普（Tom Phillips）早在四十年前就在《人类印记》（A Humument）一书中玩过同样的把戏】，而最后的成品也未能在概念艺术和文学之间架起沟通的桥梁，不过，它在设计上的贡献是不容抹杀的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Substantial portions of each page are die cut, creating evocative, three-dimensional wells of negative space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作品中每页的材质部分都被冲切掉，在留白处形成立体凹槽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Schulz was killed in the Holocaust at the age of 50 with several good works likely left in him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>舒尔茨在五十岁时死于纳粹大屠杀，而他的多部优秀作品也未能被保存下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foer's tribute gives paratextual emphasis to this loss.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弗尔以这种类文本的致意方式凸显了文学史上的一大缺憾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike Cervantes, Joyce, and Schulz, living writers can raise objections when their work is adulterated to fit new forms of literary consumption. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与塞万提斯、乔伊斯和舒尔茨这些已故作家不同，对于自己的作品被夹带私货以满足新文学消费形式的做法，当代作家都可以予以反对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, Salvador Plascencia, author of the 2005 McSweeney's novel The People of Paper, has been vocal in asking that readers enjoy his book in printed form and not on Kindle, Nook, iPad, or other e-readers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，萨尔瓦多·普拉森西亚——2005年McSweeney所出版的小说《纸人》（The People of Paper）的作者——就曾直言不讳地要求读者阅读自己著作的印刷版，而非电子版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He points to the title of his novel by way of an explanation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他指出，小说的书名就相当于一种解释的方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Readers would be missing an essential material metaphor if they were on a pixel reader," he says.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“如果以像素阅读器阅读我的作品，读者就会失去一种本质的材质隐喻，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That, and I don't want hapless readers enlarging my fonts and thinking that the book lives in this androgynous space that is neither recto nor verso," Plascencia adds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不希望那些运气不佳的读者去自由放大我小说的字体，他们会认为这本书存在于这种左右页不分雌雄莫辨的电子空间中，”普拉森西亚补充说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The book is sexed: on your left you have a verso, in the middle your gutter, and to the right your recto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这本书是有性别的：左手是左页，中间是开槽，右手是右页。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>E-readers are neutering and spaying our sexy novels." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电子阅读器是中性的，它会去掉性感小说的性征。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In The People of Paper, for example, different storylines play out in verso and recto, respectively, with odd-numbered pages following one set of characters and even-numbered pages another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举例来说，在《纸人》一书中，不同的故事情节会分别在左右页展开，奇数页是一组人物角色，偶数页则是其他一组人物角色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is one future for the paper book in the age of digital proliferation - a select group of design-conscious authors will continue to address their creations specifically to the printed medium. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于数字扩散时代的纸质书来说，未来的发展之路在于——一小群具有设计艺术的作家将会不断强调自己的创造性，尤其是在印刷品方面的创意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their themes, like Plascencia's and Foer's, will likely revolve around the history and practice of writing books, but that's nothing out of the ordinary - one of literature's greatest themes has always been itself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与普拉森西亚和弗尔一样，他们的主旨很可能是围绕着书写作品的历史与实践而展开，但这些方面皆稍显平淡——文学最伟大的主题之一即在于其自身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other writers go even further, making over the entire paratextual edifice, as Anne Carson does for her recent New Directions publication, Nox. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他一些作家走得更远，他们甚至竖起了一座类文本的完整丰碑，例如安妮·卡森（Anne Carson）新近创作由New Directions出版的作品《夜》（Nox）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When my brother died I made an epitaph for him in the form of a book," she writes on the back cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哥哥去世以后，我以书的形式为他写了墓志铭，”她在书的封底写下了这样一段话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is a replica of it, as close as we could get." The book is indeed a facsimile of a handmade original, bound accordion-style and boxed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“本书即墓志铭的复制品，我们尽可能地保持原貌。”这本书如同用手工制成一般，采用手风琴式的折页，以盒纳入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Verso pages "translate" a Catullus elegy by offering long Latin-English dictionary entries for each word in the poem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书的左页“翻译”了一首卡图卢斯（Catullus）的哀歌，作者为诗中每个词都编纂了一份长长的拉丁文-英文字典条目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recto pages tell the story of Carson's relationship to her brother through fragments of lyric essay and primary materials like photographs and letters.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>右页则以抒情散文的笔调讲述了卡森与其兄长之间发生的故事，中间还穿插有照片和信件等素材。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carson, a classicist, is well aware of the ways texts evolve or disappear when confronted with changes in modes of transmission. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于文本在遭遇传播方式变革时的进化或消失途径，古典学家卡森有着清醒的认识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For instance, her Autobiography of Red (1999) purports to complete a once-famous ancient Greek epic of which only a few fragments now survive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，她的《红色自传》（Autobiography of Red，1999年）就旨在将一部仅保留了部分片段的著名古希腊史诗补充完整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She must have been thinking in that long view, embracing the uncertain future of the book, as she assembled this tribute to her brother in a mortal coil of paper - fragile, tactually sensuous, and fully incarnate in its physical form.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她肯定从长远的角度思考了上述问题，并欣然接受了《夜》不确定的未来，这是她为离世兄长亲手折就的凡间俗物——脆弱，粗糙，充满了质感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carson's approach fits into the burgeoning category of "artist's book" - meaning roughly that the design and paratextual elements of the book are at least as artistically significant as the text.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>卡森的想法正好契合了“艺术家之书”潮流的蓬勃兴起，这一流派的大致观点即在于，书籍的设计和类文本元素在艺术重要性上至少不亚于文本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>William Blake is often regarded as the father of the genre. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>威廉·布莱克（William Blake）通常被视为是该流派的创始者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To separate his text from its setting is to lose an essential dimension of meaning and expression. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他看来，将自己的文本与设置方式割裂开来就等于失去了涵义和表达的重要维度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So his images, the product of an archaic process of engraving and hand-coloring, have survived through centuries of changing print technologies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，他的画像，即利用雕刻和手工上色等古老技艺打造的作品，历经数个世纪的印刷技术变迁却依然得以保存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though students often first encounter Blake's poems stripped of their illustrations in paper anthologies, facsimile editions of his major works remain available in bookstores to this day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然布莱克知名度更高的是他的诗集，而非诗集中的插图，但其重要画作的复制品直至今天在书店中依然能够买到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tendency to read Blake in facsimile will likely survive the digital transition as well - a testimony to Blake's unique and successful blending of literary and visual arts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图读布莱克的趋势在数字转型时代也可能会得以保留——这足以证明布莱克协调文学和视觉艺术的独特性和成功性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Along the same lines, a first-edition Blake boasts an aura equal to that of a great painting or sculpture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正是因为如此，布莱克诗集的初版几乎如同伟大的绘画作品或雕刻作品一般喷涌出艺术之光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This opens another possibility for the paper book in the digital age: As paper books lose their use value and become collector's objects, writers gain access to the speculative art market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这为纸质书在数字时代开辟了另外一种成功的可能性：因为纸质书丧失了其使用价值，变成了收藏者所关注的对象，因此作家也拥有了进入投机艺术市场的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If Blake were alive today, he would find an art market primed and ready to pay vast sums for limited edition copies produced in his studio. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果布莱克能够活到今天，他会发现一个蠢蠢欲动的艺术市场为了购买自己工作室打造的限量版复制品，随时准备掏出一大笔钱来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This could become an enticing alternative for art- and prestige-oriented writers squeezed by a declining publishing industry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注重艺术性和声誉的作家已经被低迷的出版业压得透不过气来，对于他们来说，进入投机市场也是一种富有吸引力的替代选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Andrew Hoyem's San Francisco-based Arion Press can be thought of as a sort of laboratory for fine-art approaches to publishing literature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安德鲁·贺耶姆（Andrew Hoyem）位于旧金山的亚里安出版社（Arion Press）可以被看成是艺术亲近出版文学的实验基地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arion's catalog features a 50-pound Monotype folio Bible; an elegant Moby Dick with commissioned wood engravings; a radical, two-dimensional Flatland that folds out to form a 30-foot plane of text; and a Pale Fire with John Shade's meta-fictional poem printed on index cards in a separate volume.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚里安出版社出版名录中的特色产品包括重达50磅的蒙纳对开本圣经；带有授权木刻版画的高雅版《白鲸记》；一套激进的平面版《平面国》（Flatland），折叠之后可以形成九米长的文字平面；以及一套《微暗的火》（Pale Fire），其中独立本的索引卡上还印有小说主人公约翰·谢德（John Shade）创作的元虚构诗歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A common Arion approach is to pair a hand-setting of a text with new work by a contemporary artist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚里安出版社的一般性目标是要将当代艺术家的新作品与文本的手工排版搭配起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pictured below are Kiki Smith's illustrations of "I Love My Love" by the early Beat poet Helen Adam. Only 101 copies were printed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下图即展现了奇奇·史密斯（Kiki Smith）为诗集《我爱我的爱》（I Love My Love）所创作的插画，这部诗集是早期垮掉派诗人海伦·亚当（Helen Adam）的作品，当时仅印刷了101册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many fine presses around the country put out similarly handcrafted products, often featuring new fiction or poetry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在美国，很多优质出版社都推出了类似的手工书籍，通常是针对新出版的小说或诗歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Absent the contributions of well-known artists like Smith, these publications are often labors of love, driven more by an ascendant creative-class interest in pre-digital technologies than any existing profit model. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于缺少奇奇·史密斯这类知名艺术家的支持，这类出版物通常只是心甘情愿的义务劳动而已，它们更多的是被占主导地位的创意阶层对前数字时代技术的兴趣所驱动，而非任何既有的盈利模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, as mass-market paperbacks give way to e-books, fine press editions seem poised to appeal to the nostalgic consumer of paper books.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，随着畅销平装书被电子书所取代，精制版似乎已经摆好了架势，准备迎接恋旧的纸质书消费者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who will buy these new, well-made paper books? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到底谁会愿意购买那些新颖的精美纸质书呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One likely result of the transition to e-books is that paper book culture will move further out of reach for those without disposable income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纸质书与那些缺少可支配收入的人群会离得越来越远，这是电子书转型所导致的一个可能结果。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160827T015606Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Illusionist</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>幻象师</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I test the heft of the small leather purse: light, much lighter than my hope.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我掂量了一下小钱袋，比我预想的要轻得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is all the gold dust left in Four Willows," Elder Anselm says. "We've already hired a party of knights, a trio of wizards, even a band of monks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是四柳会剩下的所有金粉了。”埃尔德安塞姆说：“我们已经雇佣了一群骑士，三个术士，还有一队僧侣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>None could rid us of the grendel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们都不能让我们摆脱格伦德尔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Please, you're our last hope."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>求求您了，您是我们最后的希望。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the cheapest, I add silently.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且是最便宜的，我心里嘀咕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But beggars can't be choosers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是谁叫我缺钱呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>King Remy, a Puritan, has banned shadow plays and shuttered the theatres. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国王雷米是个清教徒，下令禁止了影子戏，关闭了剧院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I and my apprentice Elise watched our savings dwindle until I had no choice but to swallow my pride and turn to bounty-hunting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我和我的学徒爱丽丝眼瞅着米缸见底，我别无选择只能放下清高来做赏金猎人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's difficult enough to kill monsters, doubly so when you're only an illusionist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杀死怪兽是件困难的事，当你仅仅是个幻象师时更是难上加难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell me everything about the grendel," I say. "An illusionist does his best work when he knows his audience."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“告诉我一切有关格伦德尔的事。”我说：“知己知彼百战不殆。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel is as tall as three men stacked foot to shoulder.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔有三个无头人那么高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We're trudging through the dark woods. I turn over Anselm's words in my mind, preparing for the task ahead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在黑暗森林里跋涉寻找，我心里在思考着安塞姆告诉我的事，考虑着这个任务怎么完成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Master, how can we defeat the monster with illusions?" Elise asks, fear and doubt making her beautiful voice, the voice that can imitate the roar of a lion as well as the song of a nightingale, tremble. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“师父，我们用幻象怎么打败怪兽？”爱丽丝问道，她那迷人的声音带着一丝害怕和迷惑，谁会知道这声音既能模仿狮子的怒吼也能模仿夜莺的悲歌呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I've only ever learned to make sounds that delight."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我只学过用声音表演逗乐啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's the issue of the Devil, conceived in horror and sorrow. Its head is misshapen, its spine crooked, its teeth as foul as rusty daggers, its three arms all of differing lengths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔是让人感到邪恶害怕的撒旦之子，畸形的头颅，佝偻的脊椎，牙齿好像生锈的匕首，三只胳膊还不是一样长短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It comes at night to snatch our children, and it leaves behind nightmares.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它深夜出没，掳走孩童，给人留下无尽的梦魇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Swords and fiery magic missiles are not the only things that can kill," I tell her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“剑和火焰球并不是唯一的制胜法宝。”我告诉她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Men and monsters also die when the darkest fears in their hearts are made real."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“怪兽和人类一样内心深处充满了恐惧时会不战自溃。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She nods, her jaw taut. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她点点头，下巴绷得很紧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At thirteen, no longer a child, she can tell when my words are meant to comfort her and my heart isn't in them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她才13岁不过是个孩子，却可以分辨我言语中哪些是真正能带给她安全感的，哪些是心不在焉的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I point to the side of the path, where a cottage suddenly appears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我指向小道一侧，那儿突然出现了一幢农舍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The window glows warmly, and against the fogged up pane you can see the silhouettes of a couple cooing over their baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>窗子反射的阳光很柔和，透过朦胧的窗子可以看到一对夫妇正在逗他们牙牙学语的孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We stand still to gaze, silent before the perfect sight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们就这样在这幅温馨的场景前一动不动地安静看着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am, after all, the world's greatest illusionist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管怎么说，我可是世界上最伟大的幻象师呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Thank you, Master," she says after a while. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“谢谢你，师父。”过了一会儿她说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wave my hand and the cottage disappears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我挥挥手，农舍消失了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Hold onto your dreams, which never die," I tell her. "Now let's move on."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“牢牢记住你永不破灭的梦想，”我告诉她，“现在是实现它的时候了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Years ago, the piercing cries of a baby pulled me out of an ale-haze in a warm tavern. Following that powerful voice, I found Elise wrapped in a blanket abandoned on the steps of a church. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数年之前，我在温暖的酒吧里喝着麦芽酒，一个婴儿的哭叫声使得我出去一探究竟，顺着哭声，我在教堂台阶上找到了包裹在毯子里的弃婴——爱丽丝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew then that she was special, had a gift.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很快就知道她很特殊，天赋异常。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm glad that I can still impress her, even if I'm no longer omnipotent in her eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很高兴她仍将我铭记在心，尽管在她眼里我已经不再是万能的了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someday, she may exceed my skill, but today she is still just my student.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>终有一天她的技术可能会超过我，但是今天她仍只是我的学生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God will forgive me for my vanity. It's all I have left.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上帝也会原谅我的虚荣吧，那是我唯一剩下的东西了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Come," I shout into the foggy air, full of the stench of rotting vegetation. "Come fight!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“上！”我喊着冲进了充满腐烂植物瘴气的雾里，“快攻击！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel's answering howl is like that of a wounded bear, full of rage and blood lust. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔的吼声就像一只受伤的熊，充满了愤怒和血腥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as it lumbers closer, the howls grow semi-articulate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是随着声音越来越近，叫声晦明起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can almost make out words: curses, moans, maledictions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我几乎能分辨它们的意思：咒骂，呻吟，诅咒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel emerges out of the fog fifty feet away. Amidst the writhing mass of wrinkles and oozing sores that cover its face, its eyes, as bright red as the eyes of a caged tiger I once saw at a zoo, lock onto me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔出现在五十英尺外的雾里，它的脸上夹杂着盘绕的皱纹和渗出的溃疡，它的眼睛就像我曾经在动物园里看到的笼子里的老虎一样鲜红，就这样盯着我锁定了我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shudder.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不禁发抖起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It rears up on its legs, pounds its chest with its three arms, opens its bloody maw wide, and charges at me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它突然跳了起来，用它的三条胳膊拍打着胸部，张开它的血盆大口向我冲来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wave my hands and a hundred knights step out of the woods, their lances lined up behind me, a solid wall of spikes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我挥舞双手，一百个骑士走出森林，在我身后拿着长矛一字排开，俨然一道坚实的钉墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel digs its feet into the mud and stops, its mouth silently gaping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔用它的脚刨着地上的泥土，停了下了，静静地咧着嘴看着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The knights are as convincing as anything I've ever conjured in Lyon and Tours.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些骑士就像我曾在里昂或者图尔斯变出来的任何东西一样真实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It continues to lift its gaze higher, above the lances, until it's staring at my masterpiece.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它继续抬高视线，越过执矛骑士，直到看见了我的杰作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dragon is a hundred feet long and shimmering emerald. It circles overhead slowly, eyes fixed menacingly on the grendel below. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一条长达一百英寸的龙出现了，泛着翡翠色的光泽，在格伦德尔头顶慢慢的绕着圈，不怀好意地看着它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lower and lower it glides so that the grendel can feel the heat from its open mouth, ready to spew forth flames, and the gusts of wind from its slow-beating wings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>龙越飞越低以至格伦德尔能感觉到它嘴里的热度，仿佛随时准备喷出火焰，缓慢扇动的翅膀也吹出一阵阵狂风。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I smile at the grendel. Its only choice is to run.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我对着格伦德尔露出了笑容，它选择只能是逃跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Desperation dims its eyes, but they light up again with defiance and rage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝望使得它的眼睛暗淡了，但是很快又明亮起来，充满了蔑视和愤怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It begins to charge again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它又向我冲来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes illusions are not enough.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候幻象是远远不够的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm sorry, Elise." I whisper.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对不起，爱丽丝。”我轻声说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her face is drained of blood, her eyes shut tight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她已经双眼紧闭，面无血色了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly, another howl emerges from far away, deep in the bog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然，另外一阵嚎叫从远处传来，是沼泽深处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It sounds like the grendel, but older, and ¡­ even more blood-curdling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听起来很像格伦德尔，但是更年长，甚至更毛骨悚然。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel stands still, barely ten feet away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔站在仅十英尺处不动了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can see the mud caking each tuft of fur, smell its nauseating breath. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能看见它毛发上结成块的泥浆，闻起来让人恶心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It turns to look in the direction of the howl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它转向嚎叫的方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A figure coalesces out of the mist: twisted spine, wasted limbs, aged face full of scars, a head dripping with thick hair like strands of Spanish moss.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雾气中出现这么一个形象：佝偻着背，肢体残缺，苍老的脸上布满刀疤，头上长着某种铁兰一般的毛发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel howls at the distant figure, a question.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔向着远处的身影嚎叫着，似乎在询问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The figure replies, and I can almost hear words in her cries -- regret, sorrow, the joy of finding that which has been lost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它回复了，我几乎能听懂它喊叫中的每个词——后悔，悲伤，找回失去东西的喜悦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grendel begins to run towards it, just as the figure again fades into the fog. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当那个身影慢慢在浓雾中淡去时，格伦德尔开始朝它跑去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pair of howls, one ancient and maternal, the other young and yearning, fade into the distance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两种叫声——一种苍老充满母爱，一种年轻带有渴望——慢慢消失在远方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, abruptly, the howls cease.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后很突然的，叫声停止了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elise breathes hard, her face flushed with the effort of throwing her voice for so long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱丽丝呼吸加重了，她的脸上由于长时间地发声而变得通红。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A cliff."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那边是悬崖。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nicely done."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“做的漂亮。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elise smiles a tired smile. "Sometimes dreams can also kill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱丽丝带着倦意笑了笑：“有时候梦想也是可以被扼杀的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is an orphan too."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>格伦德尔也是个孤儿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm glad because my Elise is brilliant and strong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很高兴是因为我的爱丽丝聪明而强大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I'm sorrowful because I'm no longer the greatest illusionist.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我又很伤心，因为我不再是最伟大的幻象师了。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

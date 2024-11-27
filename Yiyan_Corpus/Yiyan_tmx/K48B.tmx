@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160815T033445Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Tome of Tourmaline</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>碧玺之书</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Come, come!" the attendants at the gate of Tourmaline call to you. "Come and bathe your feet."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欢迎光临，进来歇歇脚吧。” 碧玺城门口的侍者在招呼着你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The water is refreshing, ice cold, straight from the glaciers on top of the mountains far to the west. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>水冰凉冰凉的很提神，是直接从西部山顶冰川取来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You wash away the dust of your long journey across the desert, and marvel at the streets lined with twenty-foot slate slabs, the centers slightly depressed from centuries of traffic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洗去穿越沙漠的风尘，你对街道上铺着一块块20英尺宽的厚石板感到吃惊，经过数百年的车辚马啸，石板的中央都微微有些下陷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You squint at the bright blue murals depicting rearing elephants and leaping lions in smooth jade and lapis lazuli.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你眯着眼看着天蓝色的壁画，上面描绘着后腿站立的大象和跳跃的狮子，都是用碧玉和天青石雕饰成的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you stand up, the attendants hand you a towel and point you to the center of the city.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你起身时侍者递给你一条汗巾，并为你指明通往市中心的方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But I haven't told you why I've come," you protest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但是我并说明我为何而来。”你打断了他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All visitors come here for the Tome," they tell you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所有人到此都是为了那本书。”他们心知肚明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is said that the Tome tells the most beautiful and moving story in the history of the world, a story that has caused the cruelest generals to shed tears and the most morose bureaucrats to laugh out loud, a story that has entertained kings and paupers since time immemorial.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>传说那本书上记载了古往今来世界上最美丽动人的故事， 这个故事足以让最残暴的将军失声痛哭，让最抑郁的官员仰天大笑，一直以来就是一个雅俗共赏的故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet no one who has read it has ever told others what the story is about.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而至今没有一个读过的人告诉其他人这个故事究竟是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Tome is held at the very top of the Great Library. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书在藏书阁的最高处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A long-robed librarian leads the way up narrowing flights of spiraling stairs until, finally, you reach the cupola.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一位长袍侍者带着你沿狭窄的螺旋楼梯而上，直到穹顶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sunlight floods the tiny space, barely enough for a desk and a chair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>穹顶狭小的空间恰好放下一套桌椅，阳光洒的到处都是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The view is breathtaking: bustling Tourmaline laid out beneath you like one of the woven carpets the city is so famous for, the red tents of the market forming a sinuous ribbon against the tan-tiled roofs, like a cursive signature inked against a blank page.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>放眼望去景色迷人，繁华的碧玺城在你的脚下铺展，如同使这个城市闻名的织毯。集市上一顶顶红色的帐篷在褐色瓦片屋顶中形成一条曲折的红色缎带，像是空白卷轴上的草书签名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The attendant sets the Tome on the table, and leaves.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>侍者将书放在桌上，离开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You flip open the cover, heavy and ornate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>封面厚重而华丽，你激动而小心地打开了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The noises around you--the braying donkeys, the distant murmur of haggling merchants, the splashing of water in the afternoon streets to keep the dust down--fall away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界安静下来，驴叫声、远处讨价还价声、下午洒水清尘溅起的水响一一远去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story begins, as it always does, with nothingness, the void.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事开始了，和所有故事一样，开始的时候一片虚无。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then: in that darkness, in that sliver of light, the cry, the confusion, the terror, and after, delight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，在黑暗中出现了微光，有哭泣，有困惑，有恐惧，还有快乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where a moment ago there was nothing but the blank page, there is now a tiny question mark curled against the emptiness, fetal, fresh, new.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>片刻之前书页还只是一片空白，现在出现了一个小小的问号，像蜷曲的婴儿，鲜活充满了生机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You lie down in bed, the paperback light in one hand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你躺在床上，手中的书泛着光亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You begin by silently sounding out the words in your head, testing out the right voice to use to read to yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你先是在脑中默念，试着找到合适的发音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a while, you stop doing that and the words simply stream through you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快你就停止这么做了，那些词组开始在你身体里自然的流淌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You forget about the hands of the clock, the soft pillow, the heavy blanket, the smooth sheets.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你开始忘却周遭的一切：手边的钟表、柔软的枕头、厚实的毛毯和舒适的床单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like flickering shadows, consciousness and will take shape on the page. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意识和意志如同光斑投影在书页上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is light, sound, the smell of safety, the caress of love. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有光，有声音，有安全感，有爱的呵护。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world is out there, and in here, the self.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>世界就在彼处，在此处，在其自身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That moment of understanding: luminous.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一刻就此明朗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You caress the book, lightly, and electrons swirl and dance, bombarding crystals and viscous fluid until light and darkness have been arranged into words, patterns at once analog and digital.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手指轻拂过书页，电子飞旋起舞，轰击着晶体和粘性流体，直到光与影转化成文字，输出模拟信号和数字信号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You ignore the jostling of the commuters around you, the grinding of subway cars, the chattering of others on cellphones.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你无视周围推搡的乘客、地铁车厢连接处的吱呀声以及打着手机喋喋不休的人们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You read.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你只顾阅读。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The story continues, with curiosity and growth, with first loves and difficult goodbyes, with learning to inhabit this skin, to stretch this mind, to exercise this body to its fullest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事继续着，讲述着好奇与成长，伴随着初恋和离别，学会了将灵魂适应自己的躯壳，如臂使指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Words, sentences, scenes tumble through you, out of you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>词组，句子，场景在你身体内外不断翻滚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each moment in the retelling is made glorious, given weight and meaning, imbued with color. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一个复述再现的时刻都充满了荣耀，重要而充满意义，五彩缤纷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You marvel at how many beautiful memories you have forgotten and lament how many mistakes you have made. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你既对自己忘记了多少美好的回忆感到吃惊，也对自己犯下如此多的错误感到懊悔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here is the story of your life, given shape, plot, a narrative purpose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是你一生的故事，通过成型，润色，只是真实讲述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's all starting to make sense.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都开始充满意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Always, the book compels you to turn the page, to move forward.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书总是促使你翻页，推动你前进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes it's not so clear if you're reading the book or if the book is reading you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候你并不知道是你在读书，还是书在读你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You touch the book and the recorded voice comes alive in your ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你抚摸着书，耳边起回响起记录好的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It takes you a while to get used to the voice, but soon you forget that you're reading with your ears instead of your eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你过了一会才适应，但是你很快忘记你是用耳朵而不是眼睛在阅读。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You walk through the streets like a robot, automatically avoiding collisions, following a path so well known that it is etched into the physical structure of your brain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如同机器人走过街道一般，自动规避障碍物，沿着蚀刻在大脑物理结构中的路线前行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your life runs through your ears, a strand as strong as desire, as light as fate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的一生在耳边飞逝，像一缕丝线，如愿望般坚韧，似命运般轻盈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Closer and closer, you move to the present moment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快，时光节点到了此刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You've read about your friends, your foes, your lovers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你已经读过了你的朋友，你的敌人和爱人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You've read about your work, your idleness, your search for a feeling you can't name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你已经读过了你的工作和闲暇，并产生了一种你一直寻找却难以名状的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now you're reading about the journey to Tourmaline, driven by a curiosity to read the greatest story the world has ever known.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在你读到了碧玺城之旅，你因为渴望读到人尽皆知的最伟大的故事而出发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You hesitate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你犹豫了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What will happen after you pass this moment? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>之后将会发生什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Will you find out how it all turns out? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是否会发现故事的结局？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Will you get to your life's period, and then the parenthetical beyond?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是否会到达生命的终点，终点之后又是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You read faster.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你加快了阅读速度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The clanging bell rouses a flock of doves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵响铃惊起了一群鸽子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The birds circle through the air, above you, then below you, making ever-widening circles, like ripples from the bell's ring.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们在你头顶盘旋，然后绕着你划着圆圈下降，好像铃声的阵阵涟漪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the book ends, in the middle of a sentence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事结束了，终止于一个断句。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You cry out in frustration.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你哭了，带着一丝挫败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The librarian closes the book, tucks it under an arm, and squints at you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>侍者合上了书，夹在腋下，眼睛看着你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Was it the greatest story ever told?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这可是你见过的最伟大的故事？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It was." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A pause. "For me."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵停顿，“于我而言是的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The librarian squints more. "Was it perfect?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>侍者仍看着你问道：“它完美吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book was so great in so many ways, but now that the exhilaration is past, you begin to remember flaws, moments of disappointment with the author. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书在很多方面都很出色，但是阅读的快感过去，你开始琢磨缺点和不足，开始对作者不满。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I would have changed a few things."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我本应该做点什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The librarian nods. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>侍者点点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There's still time"--he turns to leave--"in the second half."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“还有时间”，他转身打算离开，“还有书的下半部分呢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're alone in the cupola.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你独自一人在穹顶小屋。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

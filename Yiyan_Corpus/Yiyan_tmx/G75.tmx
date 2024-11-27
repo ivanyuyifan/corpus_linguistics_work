@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083734Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Mistake</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出错</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As far back as I can remember, my parents have bothered each other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自我有记忆以来，父母就针锋相对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India, we lived in two concrete rooms on the roof of a house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度国内，我们住在位于顶楼的两间水泥房里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bathroom stood separate from the living quarters. The sink was attached to one of the exterior walls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>浴室是另外隔开的，洗脸池则紧挨着一面外墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each night, my father would stand before the sink, the sky above him full of stars, and brush his teeth until his gums bled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每晚，父亲头顶满天星光，站在水池前刷牙，直到牙龈出血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he would spit the blood into the sink and turn to my mother and say, "Death, Shuba, death. No matter what we do, we will all die."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把满嘴带血的漱口水吐掉，转身，对母亲说：“死亡，苏芭，死亡，无论做什么，都难逃一死。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes, yes, beat drums," my mother said once. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲立马回道：”是呀，是呀，敲锣打鼓吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell the newspapers, too. Make sure everyone knows this thing you have discovered." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>快和报纸说呀，让大家都知道你的惊人发现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like many people of her generation, those born before Independence, my mother viewed gloom as unpatriotic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“ 和那些在印度独立前出生、与她同龄的人一样，母亲将悲天悯人视作不爱国的表现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To complain was to show that you were not willing to accept difficulties, that you were not willing to do the hard work that was needed to build the country.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喋喋不休的抱怨说明这人不愿接受困难，不愿意为建设国家付出辛苦劳动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was only two years older than my mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲比母亲仅大两岁，可两人截然不同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unlike her, he saw dishonesty and selfishness everywhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲看到的是无处不在的欺骗和自私自利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not only did he see these things but he believed that everybody else did, too, and that people were deliberately not acknowledging what they saw.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不仅看到这些，同时也认为其他人都看到了，只是故意不愿承认。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother's irritation at his spitting blood he interpreted as hypocrisy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对父亲刷牙时从嘴里吐出血水的行为，母亲非常气愤；父亲则认为她虚伪至极。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father was an accountant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲是名会计师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had wanted to immigrate to the West ever since he was in his early twenties, ever since America liberalized its immigration policies in 1965. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自美国1965年开放移民政策，那时他才二十来出头，他就一心想移民到西方国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His wish rose out of self-loathing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一愿望始于自我厌恶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often when he walked down the street in Delhi, he would feel that the buildings he passed were indifferent to him, that he mattered so little to them that he might as well not have been born. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走在德里市街道上，父亲时常会感觉身边经过的建筑对他是那么的冷漠；在这些建筑面前他无足轻重，好像从来不曾来到这个世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because he attributed this feeling to his circumstances-and not to the fact that he was the sort of person who sensed buildings' having opinions-he believed that if he were somewhere else, especially somewhere where he was paid in dollars and thus was rich, he would be a different person and one whose life had meaning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将这种感受归咎于自身所处的大环境，而不是因为他是那种能感知建筑能表达观点的人。所以他觉得要是在其他地方，尤其是用美元支付报酬，让他变得富有的地方，他将会脱胎换骨、与众不同，而他的人生也将充满意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another reason he wanted to emigrate was that he saw the West as glamorous with the excitement of science. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲想移民的另一个原因在于西方社会的科学发展对他来说充满神奇的吸引力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India in the fifties, sixties, and seventies, radios, televisions, and cars were not just expensive objects but seen as almost supernatural. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五六七十年代的印度，广播、电视、汽车不仅仅是昂贵的奢侈品，它们简直是遥不可及的超自然神物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I remember that when we turned on the radio in our apartment, as the vacuum tubes warmed up, first the voices would sound far away and then they would rush at us, and this was thrilling, as if the machine were making some special effort for us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还记得当年我们在住处打开收音机，电子真空管开始预热，一开始出来的声音像从遥远的地方传来，然后突然逼近。太神奇了，好像这台机器正为我们做一些特别的努力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of everybody in my family, my father loved science the most. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家人中，父亲最热衷科学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He tried to bring it into his life by going to medical clinics and having his urine tested. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也努力将科学带到生活中来：他会到诊所检测自己的尿液。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He loved clinics and doctors' offices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很喜欢诊所和医生办公室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, hypochondria had something to do with this; my father suspected that there was something wrong with him and that it might be something physical. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，臆想症和这有很大的关系。父亲总疑心自己有问题，可能是身体方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, sitting in the clinics and talking to doctors in lab coats, he felt that he was close to important things, that what the doctors were doing was the same as what doctors would do in England or Germany or America, that he was already there in those foreign countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再说，坐在诊所与那些身穿白色大褂的医生们交谈，让父亲觉得自己就在那些重要的事情身边，这里的医生们所做的事情与在英国、德国或美国的同行们是一样的，所以他觉得自己俨然已经身处西方国家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother had no interest in emigrating for herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲对移民根本没有任何兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was a high-school economics teacher, and she liked her job. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在一所高中教经济学，很喜欢这份工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she thought that the West would provide me and my brother, Birju, with opportunities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她认为西方社会可以给我和哥哥比尔杰提供更多机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then came the Emergency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来印度发生紧急状况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indira Gandhi suspended the Constitution and put thousands of politicians and journalists in jail. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英迪拉甘地中止了宪法，将成千上万的政治人物和记者抓进监狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents, like almost everyone who had seen Independence come, were very loyal; they were the sort of people who looked up at a cloud and thought, That's an Indian cloud. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与几乎所有亲历过独立时刻到来的人们一样，父母是忠贞爱国的。只要抬头仰望天上的云朵，他们也会觉得，哦，那是我们印度的云。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the Emergency, however, they began to think that even though they were ordinary and unlikely to get into political trouble, it might still be better to emigrate.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但紧急状况事件之后，他们开始思索，即便是普通民众，即便不可能卷入政治纷争，最好还是移民离开这。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to assume that my father had been assigned to us by the government. This was because he appeared to serve no purpose. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去我总觉得父亲是政府部门派到我们家来的，因为他好像没有任何作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he got home in the evening, all he did was sit in his chair in the living room, drink tea, and read the paper. Often he looked angry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下班回到家，坐在客厅椅子上，喝喝茶、看看报；总是看上去闷闷不乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By the time we left for America, when I was eight and Birju was twelve, I knew that the government had not assigned him to live with us. Still, I continued to think that he served no purpose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到我们要离开印度到美国去，那年我八岁，比尔杰十二岁，我才发现他不是政府派来的，只是我仍觉得他没什么用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father, who had gone to America a year before us, was waiting for us in the arrivals hall at the airport. He was leaning against a metal railing and looking irritated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲比我们早一年到美国。他正在机场的入境大厅里等我们，整个人靠在铁栏杆上，很气愤的样子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sight of him made me anxious.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看到他，我觉得很不安。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The apartment he had rented was in a tall, brown brick building in Queens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲租住的公寓在皇后区一栋高大、褐色砖质大楼里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The gray metal front door swung open into a foyer with a wooden floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>推开灰色的金属前门，是铺着木板的门厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beyond this was a living room with a reddish-brown carpet that went from wall to wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从门厅进去便是客厅，那儿的红褐色地毯与墙壁相连。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had never seen a carpet, except in movies. Birju and my parents walked across the foyer and into the living room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只在电影里看到过地毯！比尔杰和父母穿过门厅，走进客厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went to the carpet's edge and stopped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而我来到地毯边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A brass strip held the carpet to the floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地毯是用一块黄铜片固定在地板上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I took a step forward, trying not to put my weight down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我往前走了一步，尽量避免将身体的重量压在地毯上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I felt as if I were stepping onto a painting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>感觉像是走进画里面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father took us to the bathroom to show us toilet paper and hot water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲领我们来到浴室参观卫生纸和热水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whereas my mother was interested in status-in being better educated than others or being considered more respectable-my father was simply interested in having more things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我母亲来说，她在意的是地位--接受更好的教育、获得更多人的尊重；父亲则仅热衷拥有更多东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think this was because while both of my parents had grown up poor, my father's childhood had been more desperate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要说原因的话，虽然都出身穷苦，父亲的童年生活要更凄惨些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At some point, my father's father had begun to believe that thorns were growing out of his palms. He had taken a razor and picked at his hands until they were shaggy with scraps of skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一段时间，父亲的父亲觉得自己手上长满了刺，于是拿起剃刀，要把刺剃掉。结果一双手血肉模糊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of my grandfather's problems, my father had grown up feeling that no matter what he did people would look down on him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父的种种问题让父亲在成长过程中始终认为：无论做什么，旁人都会看扁他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, he cared less about trying to convince people of his merits and more about just possessing things.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后，他在乎的不是努力让别人相信其价值，而是拥有更多的物品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bathroom was narrow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>浴室很窄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had a tub, a sink, and a toilet in a row along one wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>浴缸、洗脸盆和马桶靠着同一面墙依次排开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father reached between Birju and me and turned on the tap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲从我和比尔杰中间穿过去，打开水龙头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hot water came shaking and steaming into the basin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热水摇晃着、带着热气从管子里流进洗脸盆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stepped back and looked at us to gauge our reaction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他退后看我们有什么反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had never seen hot water coming from a tap before. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从没见过自来水管里居然有热水出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India, in the winter, my mother used to get up early to heat pots of water on the stove so that we could bathe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度，母亲大冬天总是早早起床，在炉子上烧好一壶一壶的热水供我们洗漱用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Watching the hot water spill out, as if there were an endless supply, I had the sense of being in a fairy tale, one of those stories with a jug that is always full of milk or a bag of food that never empties.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热水源源不断的流出，我宛如置身童话世界，故事里说壶子里的牛奶用之不竭，袋子里的食物取之不尽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night, I went to bed on a mattress in the living room-the apartment had one bedroom, where my parents slept. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当晚，我就睡在客厅的床垫上。公寓只有一间卧室，父母睡那。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even in my sleep I was aware that I was in America. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便在梦中，我也清楚自己身在美国。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the days passed, the wealth of this new country continued to astonish me. There were programs on television from morning until night. In our shiny brass mailbox in the lobby, we received ads on colored paper. The sliding glass doors of our apartment building would open when we approached. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间一天天过去，我依然惊讶于这个全新国度的富庶：电视节目从早播到晚；一楼大厅锃亮的黄铜邮箱里，有用彩色纸印刷的广告；大楼的滑动玻璃门在我们靠近时自动打开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each time they did this, I felt that we had been mistaken for somebody important.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次那扇门打开，我总觉得我们被误认为是什么重要人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father, who had seemed pointless in India, had brought us to America and now we were rich. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度，父亲好像没什么用。可他把我们带到美国来。现在我们有钱了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact that he had achieved this made him seem different, mysterious. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是他成就了这一切，这让他看上去和以前不一样、充满了神秘色彩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the time now he was saying things that revealed him as knowledgeable. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在他说出的话，表明他知识渊博。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In India, my mother had been the one who made all the decisions concerning Birju and me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在印度，但凡是和我们弟兄俩有关的任何决定，都是我母亲全权做主。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I realized that my father, too, had opinions about us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，我发现父亲也能发表意见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This felt both surprising and intrusive, like being touched by a relative you don't know well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种感觉很新奇，又有点被侵犯，像是某个不太熟的亲戚摸了你一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father took Birju and me to a library. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲带我们到图书馆去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had been in two libraries before then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我去过两家图书馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One, in a small noisy room next to a barbershop, had had newspapers but not books and had been used primarily by people searching the employment ads. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一家紧挨着理发店，房间又小又吵，只有报纸，没有书。人们去那主要是浏览招聘信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The other had been on the second floor of a temple, and had had books, but they were kept locked in glass-fronted cabinets.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一家在一座寺庙的二楼。里面有很多藏书，但都被锁在玻璃橱窗里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The library in Queens was bigger than either of the ones I had seen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>皇后区图书馆比那两家大得多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had several rooms, and thousands of books. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有好几个房间，摆放着成千上万的图书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The librarian said that we could check out as many as we wanted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>管理员说想借多少借多少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not believe this at first.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一开始我简直不敢相信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father told Birju and me that he would give us fifty cents for each book we read. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲说，我们看完一本书，就奖励五十美分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This bribing struck me as un-Indian and wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种贿赂行为让我觉得太不印度，不可取。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother had told us that Americans were afraid to demand things from their children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲曾对我们说过，美国家长不敢向他们的子女提任何要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She'd said that this was because American parents did not care about their children and were unwilling to do the hard work of disciplining them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说这是因为美国父母丝毫不关心他们的子女，也不愿意费力管教约束他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If my father wanted us to read, what he should do was threaten to beat us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲要真是想让我们读书，那只要威胁说要狠狠揍我们一顿就可以了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wondered whether my father had become too American during the year that he had lived alone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我琢磨他独自在美国生活的那一年期间，是不是变得太美式了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wanted to check out ten picture books. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想借十本图画书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father said, "You think I am going to give you money for such small books?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲说，“你觉得我会花钱让你看那样的小人书？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother, Birju, and I had taken everything we could from the airplane: red Air India blankets, pillows with paper pillowcases, headsets, sachets of ketchup, packets of salt and pepper, airsickness bags. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们母子三人把飞机上能拿的东西都拿回来了：红色的印度航空毛毯、纸枕套套着的枕头、耳机、一袋袋的番茄酱、小袋的盐和胡椒、飞机上的清洁袋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Birju and I used the blankets until they frayed and tore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们弟兄俩共用那条毯子，用到破破烂烂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Around that time, we started going to school.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时，我们也要开学了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had a shy nature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我天性内敛害羞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You are a tiger at home," my mother said, "and a cat outside." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>母亲说：“在家是条龙，出外是只虫。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At school, I sat at the very back of the class, in the row closest to the door. Often I could not understand what my teacher was saying. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学校里，我坐在教室最后面、紧挨着门的那一排，常常听不懂老师说什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had studied English in India, but either my teacher spoke too quickly and used words I did not know or else I was so afraid that her words sounded garbled to my ears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在印度学过英语。但也许是老师语速太快，也许是她使用的词我不懂，也许是别的原因，反正我很害怕，她说的在我听来都是含混不清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was strange to be among so many whites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身边那么多的白人！感觉很奇怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They all looked alike. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们看起来长得差不多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When a boy spoke to me between periods, it would take me a moment to realize that I had talked to him before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>课间休息时，有个男孩和我说话。我愣了一下，才想起之前自己和他说过话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The school was three stories tall, with hallways that looped on themselves and stairways connecting the floors like a giant game of snakes and ladders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学校总共有三层楼，里面布满走廊，连接各个楼层的阶梯像是大型的蛇形和楼梯游戏场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not only could I not tell white people apart but I often got lost trying to find my classroom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我分不清白人，还总是在找教室的途中迷路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soon I became so afraid of getting lost in the vastness of the school that I wouldn't leave the classroom when I had to use the toilet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很快，因为害怕在巨大的学校里迷路，我连厕所都不去上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had lunch in an asphalt yard surrounded by a high chain-link fence. Wheeled garbage cans were spread around the yard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃午餐的地方是一个铺着沥青的院子，周围是高高的铁丝网围栏，装着轮子的垃圾桶四处分布。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was often bullied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时常有人欺负我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes a little boy would come up to me and tell me that I smelled bad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时，小个子的男生跑到我面前，说我身上的味道很难闻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, if I said anything, a bigger boy would appear so suddenly that I couldn't tell where he had come from. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一回嘴，就会突然冒出个头大些的男孩，不知道打哪来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd knock me down, then stand over me, fists clenched, and demand, "You want to fight? You want to fight?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他把我推倒在地，脚踩在我身上，握紧拳头，大叫，“想打架吗？想打架呀？” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes boys surrounded me and shoved me back and forth, keeping me upright as a kind of game.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，一群男孩把我团团围住，像做游戏那样将我推来搡去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Often, standing in a corner of the asphalt yard, I would think, There has been a mistake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>站在院子的角落，我常想：这样不对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am good at cricket. I am good at marbles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我会打板球、玩弹珠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am not the sort of boy who is pushed around.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可不是那种会被人推来推去的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For me, the two best things about America were television and the library. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，美国最棒的两样东西是电视和图书馆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every Saturday night, I watched "The Love Boat." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每周六晚上我都会《爱情小舟》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I looked at the women in their one-piece bathing suits and their high heels and imagined what it would be like when I was married. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些身穿连体泳衣、脚踩高跟鞋的女人们，让我浮想联翩，憧憬自己结婚的情景。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

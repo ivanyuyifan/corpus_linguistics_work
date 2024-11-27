@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T114140Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To Beat the Heat, Learn to Sweat It Out </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>流汗抵消高温</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>YOU already know that if you exercise outside on hot and humid days, you should drink plenty of water. And you are probably well aware of the risk of heat stroke given the countless reports about the warning signs.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众所周知，在湿热的天气下锻炼，应大量补充水分；产生了各种中暑迹象时，我们都会极其注意避免暑热带来的伤害。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if you’ re going to be out exercising anyway, you may have different questions: How long does it take to acclimate to the heat and humidity, and what is the best way to do it? How much does your performance time slow when it is sweltering and humid, and why? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可如果一定要在户外锻炼，你也许会有很多疑虑：要多久才能适应湿热的条件？如何做才是最好的适应方法？在酷热潮湿的条件下运动水平会减少多少及其原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Does it help to douse your head with water?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用冷水淋头真的有用吗？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Should you go out in the morning, when it is cooler but the relative humidity is higher, or at night, when it tends to be hotter but less humid?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到底应该在凉爽但比较潮湿的早上锻炼还是在不那么潮湿但稍热的晚上锻炼？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The answers, some exercise physiologists say, are not always what you might expect.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些运动生理学家的答案并非如你所想。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is no question that heat can take a toll on performance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毫无疑问，酷热能对运动员的发挥产生负面影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look, for example, at results from races on the second weekend in June, when a heat wave gripped the Northeast.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如七月第二周热浪袭击东北部时的长跑比赛结果并不令人满意一样。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On June 7, over 4,000 women ran the New York Mini 10-K race in Central Park. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>七月四日，4000多名女运动员参加了在中央公园举行的纽约十公里小型跑步比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the race began at 9 a.m., it was 71 degrees and the humidity was 78 percent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当比赛在上午9点开始时，气温大概是22°C，相对湿度78%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The winning time, 32 minutes 43 seconds, by Hilda Kibet, was the slowest in a decade.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>获胜者希尔达的32分43秒的成绩是十年来用时最长的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the beginning, my legs were not really moving,Ms. Kibet told The New York Times.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赛后希尔达告诉纽约时报的记者，一开始，她并没真正进入状态。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That same day in similar weather and humidity, in Cambridge, Md., nearly 1,400 athletes raced in the Eagle Man Half Ironman ? a 1.2-mile swim, a 56-mile bike ride, and a 13.1-mile run. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同一天，在马里兰的堪布雷其，相似的气候条件下，大约1400名运动员参加了鹰人比赛――包含了2.1英里的游泳，56英里的骑车和13.1英里的跑步项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among them was Amy Roth, 32, the director of corporate partnerships at the Whitney Museum in Manhattan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>32岁的艾米也在其中。她是曼哈顿的惠特尼博物馆的合作伙伴执导。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had trained hard, but the run, in particular, was difficult in the intense heat.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她也经过了艰辛的训练，但总的来说，在那么热的条件下跑步是非常艰难的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I felt like I was dragging along but I couldn’ t move any faster,"Ms. Roth said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说：“我仿佛一直在拖着腿跑，事实上我只能跑这么快。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, she ran at a mile pace of 8:07.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用了8分7秒每英里的速度跑完。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There were very fast people, very good athletes, who were walking, who just couldn' t do it," she said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说：“很多之前很快很强的运动员后来只能走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Afterward, some posted comments, agonizing over their sluggish times, on Slowtwitch.com. You could see the neuroses:"Oh, my God, am I getting slower? What does this mean?"Ms. Roth said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赛后，一些运动员在Slowtwitch.com表示了对缓慢速度的不满及忧虑：天啊难道我真的变得越来越慢？这究竟意味着什么？”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day, 190 professional cyclists started the Philadelphia International Championship, a 156-mile race. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，190名职业自行车选手开始了费城国际自行车锦标赛――比赛有156英里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was 79 degrees at 9 a.m. start, and 94 degrees when the last cyclist finished in mid-afternoon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比赛在早上九点开始，当时气温26°C。当最后一名选手骑过终点线是已是正午时分，温度升高到34°C。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About half of the competitors dropped out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将近一半的选手放弃比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The winning time, 6:14:47, by Matti Breschel of Team CSC, based in the Netherlands, was nearly a half hour slower than last year's time, when it was cooler and drier.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一名是来自荷兰CSC车队的玛蒂。他用时六小时十四分左右，比去年第一名用时多了几乎半小时，去年比今年凉爽干燥。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One reason performance declines on sultry, humid days is that working muscles have to compete with the skin for blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在酷热潮湿的气候下发挥下降的一个原因是产生作用的肌肉要与皮肤“争抢”血液。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Directing more blood to the skin removes body heat and helps keep your body? s temperature from rising to dangerous levels. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而向皮肤输送更多的血液有助于及时散发体热并预防体温上升到致命高度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that can mean less blood reaches muscles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这就意味着流入肌肉的血液会减少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, when your body becomes hotter, muscle enzymes speed up, burning glycogen more rapidly, depleting stores of the sugar that the muscles use for fuel.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，当体温升高，肌肉中的酶就会加速产生，加快肌糖原转化，降低了维持肌肉能量的糖的储存。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until now, most studies of the effects of heat on performance used treadmills or stationary bikes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前，对酷热影响运动发挥的研究器械多数的专家采用是跑步机或自行车机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the subjects simulated a 5-kilometer road race lasting 15 to 20 minutes, their times would be 10 percent slower at 100 degrees than at 70 degrees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果是15到20分钟能完成的五千米长跑，37°C下要比21°C下慢百分之十。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The longer the subjects ran, the more the performance declined.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>被测试者跑得越长，速度越慢。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One concern is that studies with treadmills may not accurately reflect what happens outside on a scorching day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>须考虑的是用跑步机研究不能准确反映户外的酷热环境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With no wind indoors, for example, sweat will not evaporate as effectively.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说室内无风，就不能有效蒸发汗水。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scott Montain and Matthew R. Ely, researchers at the United States Army Research Institute of Environmental Medicine in Natick, Mass., analyzed real-world data from seven major marathons, comparing performances over years when temperatures and humidity varied but the race course remained the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯考特和马修，合众国军队研究所环境药物部的两位专家，分析了七次主要的马拉松比赛数据并比较了历年来在比赛设置相同，但温度和湿度变化了的比赛发挥水平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Heat affected slower runners more, probably because they were on the course longer and ran in packs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>热度更能影响较慢的跑步者，大概因为他们用了更长的时间而且是聚在一起跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warm bodies close together make it harder for one's body heat to dissipate.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样一来，要让体热快速散发就很困难了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An elite runner capable of finishing in less than two and a half hours on a cool day (41 to 50 degrees) would be 2.5 percent slower in warmer climes (68 to 77 degrees.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报告指出，优秀的跑步健将，在凉爽气温下（5-10°C）能用少于两个半小时跑完整个马拉松。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A three-hour marathoner on a cool day would be slowed by 12 percent in the heat, the researchers reported.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在20-25°C下速度就会减慢2.5%。而普通的选手（在5-10°C用时三小时）则会减慢12%.
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may seem like a brilliant idea, then, to pour water over your head to cool down. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用冷水淋头看起来是个极妙的主意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is what Floyd Landis did during a grueling ride on a hot day in the Alps during the 2006 Tour de France.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在2006年的环法比赛中，冠军兰迪斯在阿尔卑斯一段艰难酷热的赛段便是这样做的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And last month, on that balmy Saturday, amateur runners used the same trick, dousing their heads, in an 8-kilometer race in Moorestown, N.J. Town residents also squirted runners with their garden hoses.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上月，一个稍热的周六，在摩尔斯顿，业余赛跑者们在八公里赛跑中也用了同样方法。居民们甚至拿着自家花园的水管朝跑步者们喷水。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a useless ploy, said Samuel N. Cheuvront, another researcher at the Army institute.  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一名来自军队研究所的专家萨缪尔却指出那是徒劳的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sweat must evaporate to provide cooling," he said.  "Dripping does not help."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“要降低体温必须得使汗水蒸发；淋水是不会有帮助的。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, he added, if you get too wet you risk hidromeiosis, when sweat pores become blocked, which makes you even hotter.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他补充：“事实上，一旦周身变湿，当毛孔被阻塞，就会有闭汗症产生的危险，导致身体变得更热。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AT least most races are held in the morning, when it is usually cooler and more humid, than later in the day, when it is hotter and drier.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好在多数赛跑都是在早晨举行，那时一般很温度较低空气湿润。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cold and humidity stresses the body less; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>低温和湿润能使身体放松。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>you heat up less when it is cooler. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凉快时体温上升不快。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Relative humidity may be greater on cool mornings, but what really matters for sweat evaporation is water vapor pressure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在凉快的清晨，相对湿度会更高，但水的蒸发压才是对汗水蒸发最重要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And water vapor pressure is lower when the air is cooler, meaning sweat evaporates faster.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凉快时水蒸发压低，这意味着汗水能很快蒸发。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dr. Cheuvront said that if you have to choose between exercising in the morning when it is 60 degrees and 80 percent humidity, or in the evening when it is 90 degrees and 50 percent humidity, choose the morning.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谢弗隆博士说对于锻炼而言，如果要在15°C，湿度80%的早上和32°C，湿度50%的傍晚选择，还是选早上好。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet as challenging as heat and humidity are, people can acclimate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然热度和湿度都有影响，但人们能够适应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Blood volume expands, which reduces the strain on the heart from the increased demand for blood flow to the skin and muscles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>血量增加能降低流向皮肤和肌肉的血液对心脏的压力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And sweating increases — people who are heat adapted sweat sooner and more profusely, allowing their bodies to cool more efficiently.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>流汗增加――适应了热环境的人们能更快更多地流汗，从而使身体更有效地降温。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, if you are not acclimated and run for an hour in 98-degree heat, your core temperature may go up to 103 degrees, bordering on the danger zone, said Craig Crandall, who studies heat acclimation at the University of Texas Southwestern Medical Center in Dallas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“举例说，如果你在36°C的环境下跑步一小时并还没适应，你的内体温可能升高到39°C，快达到危险体温了。”克雷格这样说。他在德克萨斯西南医学中心研究热适应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if you are acclimated, your temperature might be 101 degrees after an hourlong run, which is well within the safety zone. Acclimation takes at least five days, Dr. Cheuvront found. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谢弗隆博士发现如果适应了高温，在一小时的跑步过程中体温能上升到38°C。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He first asked participants to walk on a treadmill for 100 minutes in a room that was kept at 100 to 120 degrees.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在研究中，他首先让被测者在37°C――48°C的室内跑步机上走100分钟。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Day 1, Dr. Cheuvront said, they usually last 30 to 45 minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，第一天，他们只能坚持30到45分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, he added, they will either request to get off the treadmill; collapse; or reach the safety-limit core temperature of 104 degrees, at which point they are stopped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们中或者请求走下跑步机或者晕倒或者达到安全限度40°C的内体温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By Day 5, just about everyone lasts 100 minutes.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在第五天时，人人都能坚持100分钟。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is possible to adapt even more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还可能更加适应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dr. Cheuvront's subjects continued to improve when they walked on the treadmill in that hot room for five more days.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谢弗隆博士的被测者们在后来五天的测试中都能继续适应。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some people naturally adapt to heat much more than others. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些人能比其它人更能适应高温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Dr. Cheuvront said he had never come across a person who did not adapt at all.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谢博士称他还没遇到过根本不能适应的人。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The key to acclimation, he said, is to exercise in the heat daily and to be sure you are sweating profusely ? wearing extra layers of clothing can help if you are exercising indoors or in cooler weather. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说适应的根本在于在酷热环境下每日训练并且确保大量出汗――在室内或凉爽条件下就穿上更多的衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given a choice between spending more time in the heat but exercising less intensely, or less time and exercising more intensely, it is safer to choose to go longer and work less intensely, he said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果要在长时间不剧烈的训练和短时剧烈训练中选择，选择前者更安全。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MS. ROTH' S impression that running was much harder than cycling in the heat was correct, physiologists say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生理学家指出艾米认为跑步比骑车更艰难的观点是正确的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it is not just because there is more cooling wind when you ride. It is also because you don' t cycle upright, so your heart has less of a fight against gravity to pump blood to skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不仅由于骑车时能吹到更多风，还因为你骑车时并没有向上运动，所以心脏更能克服重量影响从而更易将血液输送到皮肤。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

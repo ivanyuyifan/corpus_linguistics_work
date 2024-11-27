@@ -1,0 +1,36 @@
+Cyberattack on Google Said to Hit Password System 
+By JOHN MARKOFF Published: April 19, 2010 Ever since Google disclosed in January that Internet intruders had stolen information from its computers, the exact nature and extent of the theft has been a closely guarded company secret. 
+But a person with direct knowledge of the investigation now says that the losses included one of Google¡¯s crown jewels, a password system that controls access by millions of users worldwide to almost all of the company¡¯s Web services, including e-mail and business applications. 
+The program, code named Gaia for the Greek goddess of the earth, was attacked in a lightning raid taking less than two days last December, the person said. 
+Described publicly only once at a technical conference four years ago, the software is intended to enable users and employees to sign in with their password just once to operate a range of services. 
+The intruders do not appear to have stolen passwords of Gmail users, and the company quickly started making significant changes to the security of its networks after the intrusions. 
+But the theft leaves open the possibility, however faint, that the intruders may find weaknesses that Google might not even be aware of, independent computer experts said. 
+The new details seem likely to increase the debate about the security and privacy of vast computing systems such as Google¡¯s that now centralize the personal information of millions of individuals and businesses. 
+Because vast amounts of digital information are stored in a cluster of computers, popularly referred to as ¡°cloud¡± computing, a single breach can lead to disastrous losses. 
+The theft began with an instant message sent to a Google employee in China who was using Microsoft¡¯s Messenger program, according to the person with knowledge of the internal inquiry, who spoke on the condition that he not be identified. 
+By clicking on a link and connecting to a ¡°poisoned¡± Web site, the employee inadvertently permitted the intruders to gain access to his (or her) personal computer and then to the computers of a critical group of software developers at Google¡¯s headquarters in Mountain View, Calif. 
+Ultimately, the intruders were able to gain control of a software repository used by the development team. 
+The details surrounding the theft of the software have been a closely guarded secret by the company. 
+Google first publicly disclosed the theft in a Jan. 12 posting on the company¡¯s Web site, which stated that the company was changing its policy toward China in the wake of the theft of unidentified ¡°intellectual property¡± and the apparent compromise of the e-mail accounts of two human rights advocates in China. 
+The accusations became a significant source of tension between the United States and China, leading Secretary of State Hillary Rodham Clinton to urge China to conduct a ¡°transparent¡± inquiry into the attack. 
+In March, after difficult discussions with the Chinese government, Google said it would move its mainland Chinese-language Web site and begin rerouting search queries to its Hong Kong-based site. 
+Company executives on Monday declined to comment about the new details of the case, saying they had dealt with the security issues raised by the theft of the company¡¯s intellectual property in their initial statement in January. 
+Google executives have also said privately that the company had been far more transparent about the intrusions than any of the more than two dozen other companies that were compromised, the vast majority of which have not acknowledged the attacks. 
+Google continues to use the Gaia system, now known as Single Sign-On. 
+Hours after announcing the intrusions, Google said it would activate a new layer of encryption for Gmail service. 
+The company also tightened the security of its data centers and further secured the communications links between its services and the computers of its users. 
+Several technical experts said that because Google had quickly learned of the theft of the software, it was unclear what the consequences of the theft had been. 
+One of the most alarming possibilities is that the attackers might have intended to insert a Trojan horse ¡ª a secret back door ¡ª into the Gaia program and install it in dozens of Google¡¯s global data centers to establish clandestine entry points. 
+But the independent security specialists emphasized that such an undertaking would have been remarkably difficult, particularly because Google¡¯s security specialists had been alerted to the theft of the program. 
+However, having access to the original programmer¡¯s instructions, or source code, could also provide technically skilled hackers with knowledge about subtle security vulnerabilities in the Gaia code that may have eluded Google¡¯s engineers. 
+¡°If you can get to the software repository where the bugs are housed before they are patched, that¡¯s the pot of gold at the end of the rainbow,¡± said George Kurtz, chief technology officer for McAfee Inc., a software security company that was one of the companies that analyzed the illicit software used in the intrusions at Google and at other companies last year. 
+Rodney Joffe, a vice president at Neustar, a developer of Internet infrastructure services, said, ¡°It¡¯s obviously a real issue if you can understand how the system works.¡± 
+Understanding the algorithms on which the software is based might be of great value to an attacker looking for weak points in the system, he said. 
+When Google first announced the thefts, the company said it had evidence that the intrusions had come from China. 
+The attacks have been traced to computers at two campuses in China, but investigators acknowledge that the true origin may have been concealed, a quintessential problem of cyberattacks. 
+Several people involved in the investigation of break-ins at more than two dozen other technology firms said that while there were similarities between the attacks on the companies, there were also significant differences, like the use of different types of software in intrusions. 
+At one high-profile Silicon Valley company, investigators found evidence of intrusions going back more than two years, according to the person involved in Google¡¯s inquiry. 
+In Google¡¯s case, the intruders seemed to have precise intelligence about the names of the Gaia software developers, and they first tried to access their work computers and then used a set of sophisticated techniques to gain access to the repositories where the source code for the program was stored. 
+They then transferred the stolen software to computers owned by Rackspace, a Texas company that offers Web-hosting services, which had no knowledge of the transaction. 
+It is not known where the software was sent from there. 
+The intruders had access to an internal Google corporate directory known as Moma, which holds information about the work activities of each Google employee, and they may have used it to find specific employees. 

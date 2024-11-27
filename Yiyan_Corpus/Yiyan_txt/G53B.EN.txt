@@ -1,0 +1,30 @@
+Kira Radinsky, the Prophet of the Web
+Kira Radinsky is a rising star in predictive analytics. 
+She combines the use of artificial intelligence and online data mining to predict likely futures for individuals, societies, and businesses. 
+Radinsky made headlines two years ago for developing a series of algorithms that dissect words and phrases in traditional and social media, Web activity, and search trends to warn of possible disasters, geopolitical events, and disease outbreaks. 
+Her system predicted Cuba's first cholera epidemic in decades and early Arab Spring riots.
+The algorithm which grew out of Radinsky's Ph.D. work at Technion-Israel Institute of Technology, in Haifa looks for clues and historical patterns inferred from online behavior and news articles. 
+"During an event, people search [for related topics] much more than usual," she says. "The system looks for other times we saw a spike in that same topic and analyzes what was going on in the places that had this same spike."
+With the 2012 Cuba cholera outbreak, for example, the system "learned," by perusing news items, that cholera outbreaks occurred after droughts in Angola in 2006 and large storms in Africa in 2007. 
+The algorithm also noted other factors, such as location, water coverage, population density, and economy. 
+When Cuba presented similar conditions, the system warned of an outbreak, and a few weeks later, cholera was reported.
+Radinsky has parlayed her research into a 3-year-old startup, SalesPredict, with 20 people on staff and offices near Tel Aviv and in San Francisco. 
+SalesPredict focuses on helping businesses, including several Fortune 100 companies, find new opportunities for sales or retain existing customers and clients. 
+The company has raised US $4 million from venture funding and has been doubling its revenue every quarter except the first quarter of 2015, when it tripled.
+"It's big data meets game theory," Radinsky says. "There was so much data at each company about their historical sales, but very few actions were taken to scientifically analyze it." 
+As a youth, Radinsky wanted to be a scientist. 
+But the summer before high school, she botched a research project at a science camp. 
+"It was biology and computers together. 
+I was in charge of feeding the cells. 
+I was not good at that, and I killed those cells by mistake. 
+After that, they had me process the data instead and it turned out to be something I enjoyed."
+Radinsky enrolled at Technion in 2002 at just 15, earning extra cash by programming websites on the side. 
+At 18, she did her mandatory Israel Defense Forces duty as a computer scientist in its intelligence division. 
+She completed bachelor's and master's degrees in computer science in 2009, and a Ph.D. in machine learning and artificial intelligence in 2012, at 26.
+Since graduating, she's served full-time as SalesPredict's chief technical officer. "Getting into predictive analytics usually requires master's and Ph.D. degrees in data mining and machine learning. 
+Data scientists have strong math and statistical backgrounds. 
+It's a very academically oriented field," she says. 
+"For my company, it helps if you've worked for a company like Google or have strong engineering skills on how to scale machine learning systems."
+Radinsky believes in developing this technology to benefit not only business but also society. 
+"Mining patterns in data can lead humanity to a new era of faster scientific discoveries. 
+We are working on several pro bono activities in the medical domain to apply learning machine algorithms to predict cancers and find the driving causes of diseases."

@@ -1,0 +1,85 @@
+Measure Wind Speed with Your Own Wind Meter
+Key concepts
+Atmosphere
+Environment
+Speed
+Weather
+Wind
+Introduction 
+Have you ever wondered how wind is made? Wind is caused by a difference in air pressure. 
+Air travels from areas of higher pressure to places where there is less pressure. 
+And just as air flows out of the high-pressure inside an inflated balloon if the opening is not tied, air in the atmosphere will move to a lower pressure area, creating wind. 
+The speed of that wind can be measured using a tool called an anemometer.
+An anemometer looks like a weather vane, but instead of measuring which direction the wind is blowing with pointers, it has four cups so that it can more accurately measure wind speed. 
+Each cup is attached to the end of a horizontal arm, each of which is mounted on a central axis, like spokes on a wheel. 
+When wind pushes into the cups, they rotate the axis. 
+The faster the wind, the faster the cups spin the axis. 
+How fast will your homemade anemometer whirl?
+Background 
+Air is made up of tiny molecules. 
+When molecules are heated, they move faster. 
+Consequently, when air is heated, its molecules move faster and become spaced farther apart, which makes the air less dense (meaning that there are fewer molecules in a given volume). 
+This also means that the air has a lower overall pressure. 
+In comparison, cold air is made of more tightly packed molecules, and so it is denser and has relatively higher pressure.
+Because air pressures are inclined to balance out, when there is an area of relatively lower air pressure, the surrounding air in higher pressure areas moves in. 
+This movement of air from a higher pressure area to a relatively lower pressure area is what generates wind. 
+When wind pushes the cups on the anemometer, they spin around the central axis. 
+How fast the cups revolve can be measured in revolutions per minute (rpm), or how many times one cup returns to the position where it started in one minute. 
+Consequently, faster wind will result in a higher rpm than will a slower air movement.
+Materials
+Five three-ounce paper cups (such as Dixie Cups)
+Paper hole punch or sharpened pencil
+Ruler
+Two straws
+Pin
+Stapler
+Pencil with eraser
+Fan with different speeds (optional)
+Timer (optional)
+Preparation
+Prepare four cups this way: Punch one hole in the side of each cup, about one half an inch below the rim.
+For the fifth cup, punch four equally spaced holes in its sides, about one quarter an inch below the rim. 
+Also punch one hole in the center of the bottom.
+Procedure
+Take a single-hole cup and push a straw through the hole until about one inch of the straw is inside the cup. 
+Make sure the straw is horizontal and staple it to the side of the cup. 
+Repeat this with another single-hole cup and straw.
+Push the empty end of each straw into one of the side holes in the five-hole cup and out the one across from it. 
+Turn the cups so that they face the same direction. 
+Why do you think the cups should face the same direction?
+Push the empty ends of each straw protruding from the fifth cup into the other two single-hole cups until about one inch of the straw is inside each cup. 
+Turn the new cups so all the bottoms of the cups face the same direction. 
+Staple the ends of the straws to the side of each cup like you did for the first two cups.
+After making sure all cups are about the same distance from the center of the five-hole cup, carefully push the pin through the two straws where they intersect, in the middle of the five-hole cup. 
+Use caution when handling the sharp pin. 
+Why do you think it is important to use something as small as a pin for this?
+Push the pencil through the hole in the bottom of the five-hole cup, eraser-end first, until it reaches the straws. 
+Carefully push the pin into the eraser.
+The anemometer is now ready to measure wind speeds. 
+While sitting down, try blowing very gently straight into one of the four open cups for a few seconds, then blow harder. 
+How did blowing harder change how the anemometer turns? (If you feel light-headed or dizzy, stop and take a breather.)
+Extra: If you have a fan that turns at different speeds, hold the anemometer in front of the fan and count the number of times one cup completely turns around for 15 seconds, then multiply that value by four. 
+This number will be in revolutions per minute (rpm). 
+Repeat this while keeping the fan at the same distance, but changing its speed. 
+How did the rpm change when you held the anemometer in front of the fan at a slow speed compared with a faster speed? 
+Compared with the faster speed, do you think the rpm would be greater if you used your anemometer outside on a very windy day?
+Why do you think a faster wind makes the anemometer spin faster?
+Extra: What is the speed of the wind outside? 
+You can take your anemometer outside on a windy day or over multiple days to measure the wind speed. 
+You could also take your anemometer to different locations, such as an open field, a narrow passageway, a beach by the ocean or a large lake, if you live near one, to measure and compare the wind speed in those places. 
+What is the windiest location? 
+Why do you think it is so windy?
+Extra: What is the actual speed of wind, in miles per hour (mph), that you are measuring? 
+To determine this, first calculate the circumference of the circle made by the rotating cups by measuring the distance around the circle that they make (using a tape measure or a piece of string you can measure with a ruler). 
+Then convert this to miles by dividing the number of inches by 12 to get feet and then dividing that number by 5,280 (the number of feet in a mile). Multiply this number by rpm. 
+Finally, divide your product by 60 (to convert minutes to hours) and you will have an approximation of the velocity at which the anemometer is spinning (in mph), although this does not take friction in to account.
+Observations and results 
+Were you able to see wind make the cups on the anemometer spin around? Did the faster winds make the anemometer cups spin faster compared with the slower winds?
+Because air is made up of tiny molecules, when wind hits something it is all of these molecules that are hitting the object. 
+This is why when we feel wind we are really feeling these molecules hitting us. 
+A faster wind hits us harder, and also moves the cups on the anemometer more, compared with a slower wind because the faster wind is moving the molecules at a faster speed. 
+Consequently, in the same amount of time, a faster wind hits an object with more molecules than a slower wind does.
+If you have been to the beach or near a large body of water, you may have noticed it is often windy. 
+This is because there are different air pressures where a lot of water meets the land. 
+Water takes more time to change its temperature compared with land, so during the day the land heats up faster, and once the sun goes down the land cools faster. 
+Consequently, during the day there is wind blowing from the ocean to the land, or from an area of higher air pressure (colder air) to lower pressure (warmer air); in the evening the wind blows from the cold land to the warmer ocean.

@@ -1,0 +1,1279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T023649Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi Makusi</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>桃花源车站</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi Makusi was a terminal optimist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西·马库西是一个无可救药的乐观主义者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was an optimist even though he lived in one of the poorest places in the world, even though he only owned one suit, and his trousers didn't reach his ankles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使住在世界上最穷的地方之一，即使只有一套衣服，而且裤子还不到脚脖子，他仍是一个乐观主义者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he had finished his education, Vusi Makusi decided the civil service would be a good career. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他完成学业时，伍西·马库西断定公务员会是一份好职业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man in charge took one look at Vusi, and saw immediately that he would never amount to anything.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>负责人看了一眼伍西，立马看出他决不会有什么作为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You know, I think I have just the post for an ambitious young man," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道，我想我正好有职位适合一位有志青年，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi spent a long time on a bus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西在一辆公共汽车上度过了很长一段时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bus shuddered and shook and clanked, passing deeper and deeper into the jungle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>汽车颠簸、摇晃、哐当作响，艰难地驶进丛林的深处、更深处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eventually it came to a halt in a swampy hollow, entirely surrounded by forest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终在一片湿洼地停下了，四周全是森林。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But where is the village?" asked Vusi.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可是村子在哪儿呢？”伍西问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bus driver pointed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>汽车司机指了指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What day does the bus return?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“公共汽车星期几回来？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Saturday," said the bus driver, grumpily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“星期六，”汽车司机粗暴地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi had spent the last twenty hours telling everyone on the bus about his new job, and the driver was sick of him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西在过去的二十个小时里跟车上的每一个人讲述他的新工作，司机对他都厌烦了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi tramped through the hills to the village. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西艰难地穿过山岗走向村子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knocked on the door of the chief's hut, and sat down to wait. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他敲敲村长小屋的门，然后坐下等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The whole village came to stare at him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个村子的村民都来盯着他看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When at last the chief appeared, Vusi stood up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后当村长出现时，伍西站了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good Sir," he said. "I am the new government officer for this area. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“尊敬的阁下，”他说，“我是这一地区的新任政府公务员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have come to bring peace, prosperity, unity, development, and education to the people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我来给人们带来和平、繁荣、团结、发展和教育。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have come to show the beneficence and munificence of our great and benign government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我来展示我们伟大宽厚政府的仁慈和慷慨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whatever the village needs, whether it be roads, schools, seeds, water, tractors, teachers or doctors, the government is willing to provide. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论村子需要什么，无论是公路、学校、种子、水、拖拉机、教师还是医生，政府都乐意提供。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All I must do is make a list, and it will certainly arrive."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我所要做的就是列一个清单，清单上的一切肯定会实现的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chief stared at Vusi, then began to laugh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村长睁大眼睛盯着伍西，然后开始大笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He laughed ah-ha, ah-ha, ahhhhhhhh-hahahahahah. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他啊哈、啊哈、啊啊啊啊啊啊啊啊哈哈哈哈哈哈哈哈地笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The people rolled around, slapping each other in mirth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们转着圈欢快地相互拍打。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Young man," said the chief, at last. "It is some time since we have had a visiting comedian."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“年轻人，”村长最后说道，“我们这里有些时间没有喜剧演员来了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But Sir," said Vusi. "I am quite serious."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但是，阁下，”伍西说，“我是很认真的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chief laughed some more, ahahahahah!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村长又大笑，啊哈哈哈哈哈！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good Sir, please desist! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“尊敬的阁下，请停下！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cannot you see that my respected mother, 83 years old, is in pain from your joshing? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>难道你看不到我敬爱的母亲，83岁了，正因为你的戏弄而痛苦吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you want an old lady to break her ribs?" he cried.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你想要一个老太太痛彻心扉吗？”他大声喊道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night there was a special dinner for Vusi. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上专门为伍西举行了一次宴会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was only the next day, when Vusi began touring the village with a clipboard, that they became worried.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到第二天，当伍西拿着一个写字夹板开始巡视村庄时，他们才变得担心起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He is a lunatic, and they have cast him out from the city," said the priest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他是个疯子，他们把他从城里赶出来了，”牧师说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He is a spy, and is making that list so they can steal everything," said the chief's wife.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他是个探子，列那份清单是为了方便他们偷走所有的东西，”村长的老婆说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I think he has hit his head, and that is why he strange," said the blacksmith.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我认为他撞了头，那才是他奇怪的原因，”铁匠说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When twenty-eight days had passed, Vusi visited the chief. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十八天过去了，伍西来拜访村长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He explained that he had worked four weeks in a row, was due eight days leave, and that he intended to visit his elderly mother. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他解释说他连续工作了四个星期，应得到八天的假期，他打算去看望他的老母亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also asked to borrow the chief's umbrella, and offered to buy him a new one, just as soon as he got to the city, where he could draw his shiny new government salary from his shiny new bank account.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还请求借村长的伞，并表示只要他一到城里就给村长买一把新伞，在城里他能从他崭新的银行账户里取出他崭新的政府薪水。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chief, shaking his head, agreed to lend him the umbrella. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村长摇着头同意借给他伞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi went to the chief's wife and asked to borrow a blanket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西找村长的老婆请求借一条毯子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he went next to the village blacksmith and asked for a knife, since it was a long walk to the bus stop, and the path was overgrown. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他又找村里的铁匠请求借一把刀，因为到公共汽车站要走很长一段路，而且路上杂草丛生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he walked off, carrying his battered suitcase.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他离开了，提着他那破破烂烂的行李箱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Surely somebody should tell him, there is no bus," said the chief.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“想必应该有人告诉他，没有公共汽车，”村长说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They waited and waited. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们等啊等啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eventually the blacksmith went down the valley and found Vusi waiting by the dirt track.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后铁匠走下山谷，发现伍西在泥土路边上等着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He says the bus will surely come soon," explained the blacksmith, "And he does not want to miss it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他说公共汽车肯定很快就来了，”铁匠解释说，“他不想错过。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When two days had passed, the chief himself descended and tried to talk sense to Vusi. He returned, shaking his head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又两天过去了，村长亲自下来，试图跟伍西讲道理。他摇着头回来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The priest tried, with no more success.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>牧师试了，也没成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He is immune to reason," said the chief's wife. "Therefore we must appeal to the heart, or the eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“讲道理说不动他，”村长老婆说，“那我们就必须打动他的心或眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Send the potter's daughter, she is the prettiest girl in the village."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>打发陶匠的女儿去，她是村里最漂亮的姑娘。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The potter's daughter returned, shrugging hopelessly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>陶匠的女儿回来了，绝望地耸耸肩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Send the priest's niece," suggested the blacksmith. "She is not perhaps quite the prettiest, but the smartest and sharpest of the women, and clever with words." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“派牧师的侄女去，”铁匠建议说，“她可能不是最漂亮的，但却是女人中最聪明机智的，口齿也伶俐。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The villagers worked their way through all the young women, till there was only one left.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村民们一个个地试过了所有的年轻妇女，直到只剩下一个。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, she might as well try," said the chief, yawning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好吧，她不妨也试一下吧，”村长打着哈欠说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then he went inside, for a nap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他到里面去睡午觉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl stormed off down the path. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩气冲冲地沿着小路向下走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was so angry to be considered the plainest and stupidest girl in the village that when she saw Vusi, she threw a mango stone at him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她非常生气被看作是村里最不好看、最笨的女孩，以至于当她看到伍西时，她朝他扔了一颗芒果核。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Idiot! Lunatic!" she shouted. "Do what you want and see if I care! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“白痴！傻瓜！”她大叫，“你想干什么就干什么吧，看我在不在乎！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you think anyone will even notice if you sit there till you turn to stone!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使你坐在那里直到变成石头，你以为有人会注意到吗？！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, because she was so upset, she burst into tears.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，因为她太心烦了，突然就哭起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi stared at the girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西凝视着女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He fell to his knees.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他双膝跪下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Dear lady," he said, "You must forgive me! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“亲爱的女士，”他说，“你一定要原谅我！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This excess of emotion can only have been brought on by the burden of concealing your true feelings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种感情冲动只能是由隐藏你真实情感的重压所导致的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If I seemed oblivious to your affections it is only that you had not declared them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我看起来好像没有察觉你的感情，那只是因为你没有表明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why, if I had known that you loved me, I should never have behaved so callously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哎，如果我知道你爱我，我决不会表现得这么无情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What good news! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>多好的消息啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the bus arrives, and I go and see my mother, I shall tell her I have met my future wife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当汽车来了，我去见我母亲，我要告诉她我遇见了我未来的妻子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Praise the lord! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赞美上帝！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until then, perhaps you will be so kind as to pass a little while with me, waiting."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那之前，你或许愿意陪我等一小会儿。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since all this was a good deal more pleasant than being told she was plain and stupid, the girl consented to wait. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为比起被人说不好看、笨，所有这些要令人愉快得多，女孩同意等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi began to tell her about the future, and how wonderful everything would be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西开始跟她讲起未来，所有一切将会如何如何好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told her about the tractors and clinics and schools and water pumps and fat cows and plump chickens and huge vegetables and smiling people and tin roofs and television and clean toilets and post offices and telephones and paved roads and airplanes and skyscrapers and regular, timely buses to all rural destinations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他跟她谈起拖拉机、诊所、学校、水泵、肥大的牛、圆胖的鸡、巨大的蔬菜、微笑的人民、锡制的屋顶、电视、干净的厕所、邮局、电话、铺好的道路、飞机、摩天大楼，还有通向所有乡村的定期准时的公共汽车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning it began to rain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早上天开始下雨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi put up the chief's umbrella. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西举起村长的伞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It rained and rained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雨下啊下啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A small red monkey appeared and sat on the far side of the track. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一只小红猴出现了，远远地坐在路的那一边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It looked sad and bedraggled.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它看起来很伤心，浑身湿透了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Look, the monkey is waiting to get on the bus!" said Vusi.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看，那只猴子在等着上公共汽车呢！”伍西说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But Vusi, he does not have a bag, or a suitcase," said the girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但是伍西，它没带包，也没带行李箱，”女孩说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You are right," agreed Vusi, "Therefore it is expecting relatives to arrive on the bus, and is waiting to greet them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你说的对，”伍西同意，“那么它是在等亲戚坐车来，在等着接他们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a while the monkey began to shiver.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过了一会儿，那只猴子开始发抖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Vusi," said the girl, "Either let the monkey come under the umbrella, or chase it away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伍西，”女孩说，“要么让那只猴子到伞下来，要么赶它走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I cannot stand looking at its sad face any longer."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我再也受不了看着它悲哀的脸了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Why, of course it must come under the umbrella," said Vusi. "After all the monkey too is a citizen of our great and glorious nation."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“啊，它当然可以到伞下来，”伍西说，“毕竟那只猴子也是我们伟大光荣的国家的一个公民。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The monkey, Vusi, and the girl sat under the umbrella. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>猴子、伍西和女孩坐在伞下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It went on raining. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天继续下雨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A great pool built up in the hollow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洼地上逐渐积出一个大池塘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Surely," said the girl, who was coming to understand how Vusi thought, "The people of our great nation should not have to wait for buses in the rain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“当然了，”女孩说，她渐渐理解了伍西是怎么想的，“我们伟大国家的人民不应该在雨中等公共汽车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Since you are the government officer, you could cut branches and make a shelter while we are waiting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既然你是政府公务员，你可以在我们等的时候砍树枝搭个棚子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This would be a service for all the people."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这将是为所有人服务的公益设施。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I see you are not just a pretty face," said Vusi, nodding. "Only, if the bus comes while I am cutting branches, you must shout and call me, for I do not want to disappoint my elderly mother." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我发现你不仅长了一张漂亮的脸，”伍西点点头说，“只是，如果在我砍树枝时公共汽车来了，你一定要大声叫我，因为我不想让我的老母亲失望。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So Vusi took the knife and cut branches, and made a shelter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就这样伍西拿起刀去砍树枝，搭了一个棚子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi and the girl waited in the shelter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西和女孩在棚子里等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The monkey sat in the roof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那只猴子坐在棚顶上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another day passed, and another and another. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又一天过去了，一天又一天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rain ceased, briefly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雨停了一会儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chief of the village came down the track. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村长沿着路走来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shook his head, and went home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他摇摇头，然后回家了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pool in the river continued to widen, and Vusi caught a fish for dinner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>河里的水洼继续变宽，伍西抓了一条鱼做晚餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing passed on the road, nothing whatsoever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有任何东西从路上经过，无论什么都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi and the girl waited in the shelter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西和女孩在棚子里等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They waited so long, the girl had a baby.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们等了太长的时间，女孩生了一个孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"How happy my mother will be when she sees the child!" cried Vusi.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我母亲看到这孩子时会多高兴啊！”伍西叫道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Surely, my husband" said the girl, "People will be waiting for buses here with children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“当然了，我的丈夫，”女孩说，“人们会在这里带着孩子等公共汽车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think they must have a place to lie down, and sleep quietly." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想他们应当有个地方躺下安静地睡觉。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vusi took the knife and cut more branches, and made a second room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伍西拿起刀砍了更多的树枝，造了第二间房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside the door, the mango stone sprouted, and grew leaves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门外，那颗芒果核发了芽，长了叶子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A second monkey moved in with the first one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一只猴子跟着第一只搬了进来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The monkeys too had a baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>猴子们也生了一只小猴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It rained and it rained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雨下啊下啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The river rose and fell.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>河水涨了又落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Vusi," said the girl. "One day this will be a busy bus terminal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伍西，”女孩说，“有一天这里会成为一个热闹的公交终点站。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There will be many passengers, and whoever can provide food and drink will have a profitable business. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>会有很多乘客，谁要是能供应食物和饮料准会有赚钱的生意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think I had better prepare, and plant corn for porridge, and maize to make beer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想我最好预先准备，种稻谷做粥，种玉米酿啤酒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then you will not only be government officer, but I will be a businesswoman."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时，不仅你是一个政府公务员，我也是一个女商人了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So she turned up the soil by the riverbank, and planted a garden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以她翻了河岸边的土地，种了一块田。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then she went in the hut, and had another baby.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后她走进棚屋，又生了一个孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I do believe I must have misheard that gentleman," said Vusi, one day. "Surely it cannot have been Saturday that the bus arrives, it must have been January. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我真的觉得我一定听错了那位先生说的话，”有一天伍西说，“想必公共汽车是不会在星期六到的，一定是在一月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only there has been none for three years now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只是三年了没有一辆车来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They will arrive all at once, three of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们会一下子都来，三辆一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is a famous habit of buses."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是公共汽车有名的特性。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Vusi," said the girl, "If there are three bus loads of people, I do not have enough food. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伍西，”女孩说，“如果有三车的人来，我没有足够的食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides, a good restaurant has a variety of dishes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>况且，一家好餐馆要有各种各样的食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go into the jungle, and catch a pair of those birds we have seen, and I can keep them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到树林里去，抓一对我们见过的那些鸟，我可以饲养它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That way, we will have enough for everyone."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样，我们就有足够供给每个人的食物了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is a good idea," said Vusi. "Only if the buses arrive and I am in the jungle, you must ask them to wait."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好主意，”伍西说，“不过要是公共汽车来了，我在树林里，你一定要叫他们等。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl stayed by the roadside, waiting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩留在路边等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么都没有经过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not even the villagers came any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至连村民们都不再来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After five days Vusi returned, clutching two startled guinea fowl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五天之后，伍西回来了，手里抓着两只受惊的珍珠鸡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I have not missed the bus?" he asked anxiously. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我没错过公共汽车吧？”他担忧地问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His wife reassured him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他妻子打消了他的疑虑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It is the weather," said Vusi. "It has been very strange recently, and I think the bus will not come this year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是天气的原因，”伍西说，“最近一直很奇怪，我想公共汽车今年不会来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nonetheless, since they are so unpredictable, it would be a shame to leave this spot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然如此，因为它们太难预料了，离开这个地方会很遗憾的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Especially since we have made so many preparations, with the hotel and the restaurant."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特别是既然我们已经作了这么多的准备，有了旅馆和餐馆。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That year passed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那一年过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Vusi," said the girl, "You must build a fence to keep the guinea fowl in. It will not do if they are run over by the buses."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伍西，”女孩说，“你应该建一道栅栏把珍珠鸡圈进去。要是它们被汽车碾过就不好了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another year passed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又一年过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Vusi," said the girl, "The fish do not stay in the dry season. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“伍西，”女孩说，“鱼在干季就没有了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What if the bus comes when there are no fish? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是公共汽车在没有鱼的时候来怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How will I feed the passengers? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我怎么给乘客提供食物？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You must build a dam in the river."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你应该在河里建一道水坝。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another year passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又一年过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl had another baby.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩又生了一个孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Certainly this service is very unacceptable," said Vusi one day. "When the bus does come to take us to the city, I will write a letter to the minister of transport. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“无论如何这种服务完全让人无法接受，”有一天伍西说，“要是汽车真的来载我们去城里，我要给交通部长写封信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only good point, my wife, is that every week, my salary is building up in my government-run bank account."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唯一好的一点，我的妻子，是每一个星期我的薪水都在我的国营银行账户里累积。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another year passed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又一年过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bus did not come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公共汽车没来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mango tree began producing very good mangoes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那棵芒果树开始结出非常好的芒果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They waited so long, Vusi began to worry about who his eldest son would marry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们等了太长的时间，伍西开始担忧他的长子要和谁结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, one day a strange noise began in the jungle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后，有一天一种奇怪的声音在丛林中响起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It seemed to echo around.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>声音似乎在四周回荡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The bus! The bus!" cried Vusi's children, for they had heard from their father of this strange monster.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“公共汽车！公共汽车！”伍西的孩子们喊道，因为他们从父亲处听说过这种奇异的怪物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over the edge of the hill came a white helicopter with the letters U.N. painted on the side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>越过山的边缘来了一架白色的直升机，侧面涂着字母U.N.（联合国）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It put down in the roadway, and four nervous-looking soldiers in blue berets climbed out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它在路面上降下来，四个神色紧张的士兵戴着蓝色贝雷帽爬了出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then a couple of scientists in white coats, clutching clipboards, their faces covered with hygienic masks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后是几个穿着白大褂的科学家，手里拿着写字夹板，他们的脸上戴着卫生口罩。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

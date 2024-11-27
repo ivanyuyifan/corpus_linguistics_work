@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160804T132019Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are You A Failure Germaphobe?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有失败洁癖症吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's been said that if you want to increase your success rate, you should increase your failure rate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据说如果你想增加成功率，你应该增加失败率。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Success comes at least partially from your volume of attempts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少有一部分的成功来自你的尝试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you want to sell more, make more sales calls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你想销售更多，就得打更多的销售电话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you want more dates, ask more people out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你想要更多的约会时间，你就得要求和更多的人出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pretty simple principle - one that's been around a long time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个非常简单的原则——一个已经存在很长时间的原则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We all know you can try to increase your rate of success as well, but for this blog entry, let's just stick with the concept of increasing the number of attempts.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都知道你可也以尝试增加你的成功率，但对于这篇博文，我们只讨论增加尝试的次数这一概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Most people will take this advice to mean that you should take something where you have a reasonable probability of success and then do it more often. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大多数人会接受这个建议，即你应该在一个很有可能成功的领域做出尝试，然后经常这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I'll take this idea a step further. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我会把这个想法更进一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Go out and attempt something at which you know you'll fail.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去尝试你知道自己会失败的东西，。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fail on purpose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故意失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep reading and I'll explain how this will benefit you.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>读完全文，我将会解释这如何使你受益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I won't suggest you do this when you have lots of investors who are counting on your success or when the consequences of failure are big. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当有很多投资者都指望着你成功，或者失败的后果很严重时，我不建议你这样做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there are many things you can do which you know you'll fail at but which don't have any serious long-term negative consequences. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是有许多你可以做的事情，你知道你会失败，但没有任何严重的长期负面后果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try to learn to play a musical instrument when you have no talent at it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>试着学会演奏一种乐器，即便你没有天赋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Attempt a small project that's beyond your technical abilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尝试做一个超出你技术能力的小项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ask for a job, promotion, or raise when you know the other person will say no. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>找一份你知道别人会拒绝的工作、提升或升职。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ask for a date when you're sure to get shot down cold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你很可确信会被甩时约会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cook a meal that's beyond your cooking skills. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>做一顿超出你的烹饪技能的饭菜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sign up to run in a 10K race when you can't even run 1K, and show up and run half a block.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>报名参加10公里比赛，即便你连1 公里都不能跑，并展示给大家看，跑上半个街区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are several significant benefits to attempting something even when failure is certain: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尝试一些即便你会失败的东西，有几个显著的好处: </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll gain experience failing, how to take it, and how to recover from it, which is at least as important as learning to handle success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会获得失败的经验，如何尝试，如何从跌倒处站起，这至少和学习如何处理成功一样重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll become better prepared for handling future failures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你就会更灵活地应对未来的失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll learn how to recover quickly, extract the key lessons, and put them to good use.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你将学习如何迅速恢复，提取关键教训，并好好利用它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll develop greater humility, and this will allow you to subvert your ego more, so you neither become too optimistic or too pessimistic, and your productivity will become more steady and consistent.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你将会更谦卑，这将有助于你战胜自我，所以你既不过于乐观也不过于悲观，你的创造力将变得更加持续稳定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll run straight into your limits and become comfortable working butt-up against them, instead of lagging behind your untapped potential with a comfortable padding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会直接达到极限，成为轻松地与他们对接好工作，而不是坐在舒适的垫子上，使潜力未得到开发，落后于他人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll strengthen your resistance to fear of failure in the future.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会增强未来对失败恐惧的抵抗力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many tasks at which you ultimately fail will still yield partial success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多任务最终会失败，仍将产生部分成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, if you try to lose 10 pounds in a month, you may fail and only lose 3.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，如果你试图在一个月内减掉10磅，你可能会失败，但也会减掉3磅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll become better at learning the difference between when a project is headed for failure and when it's headed for success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会更好地学到一个项目走向失败和走向成功的区别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And this will allow you to achieve more success when it really matters because you'll have far more experience to draw upon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当这些起作用时，这将让你获得更多成功，因为你会有更多的经验可以借鉴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So you'll succeed more often.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以你常常获得成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll develop a thicker skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的脸皮会更厚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll get used to having other people slam and reject you for failing, and you'll be able to go out and tackle big projects without worrying what others will think.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会习惯于别人大满贯和你失败，你就可以出去解决大型项目问题，不用担心别人会怎么想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll become more persistent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会变得更加持之以恒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll come to realize that failure just isn't the big deal people made it out to be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会意识到，失败并不是什么大不了的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>About 50 million sperm failed in their effort to create you, while just one made it through. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大约5000万个精子在它们努力创造你时失败了，虽然只有一个通过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yet what if none decided to try, the odds being overwhelmingly against success?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而如果没有决定尝试，压倒性成功的几率又有多少呢?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll condition yourself to take action and stop ruminating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会调整自己采取行动，不再陷入沉思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll tear yourself away from the state of analysis paralysis, and you'll start making things happen instead of just pondering and planning them.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会把自己从分析瘫痪的状态脱离，你会使事情发生，而不只是思考和规划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every once in a while, you'll learn that you were wrong, and you'll succeed at something even when failure seemed certain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每隔一段时间，你会发现你是错的，即使失败似乎会再次发生，你会在某方面取得成功，。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll drop limiting beliefs and gain a more accurate grasp of what's realistically possible for you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会放弃限制信念，对可能的现实有更准确的把握。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll discover new talents you never knew you had. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会发现自己有新天赋，之前你并不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll learn that your previous concept of what you thought was realism was in fact too pessimistic, and you'll slide it down a notch closer to optimism until you get it just right.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你会发现，你以前认为是现实主义的概念，实际上过于悲观，你会降一个等级，接近乐观， 直到其恰如其分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can say, "Hehehe. I meant to do that," and actually mean it for a change. ??</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以说:“哈哈，我想这样做。”实际上意味着改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make failure your friend, and success will tag along as well.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让失败成为你的朋友，成功也会尾随。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This advice may seem paradoxical and ironic when compared to my previous posts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比起我之前的帖子，这个建议似乎有些矛盾，也有些讽刺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what I'm suggesting here is to use intentional failure as a training/conditioning exercise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我这里所建议的是，把故意失败作为培训和调节训练。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't fail on purpose when it really matters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真正重要的时候，不要故意失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But embrace failure when it doesn't matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是没关系的时候，可以失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By going into a situation expecting to fail, you're more likely to fail than if you expect success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过进入预计情况失败，比起你期望成功，会更有可能失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But that's OK because success isn't the point in this case. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过这没关系，因为在这种情况下，成功并不重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're not trying to succeed in this training exercise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种训练的情况下，你不是想成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You're trying to increase your tolerance for and understanding of failure and rejection.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你想提高你对失败和拒绝的宽容和理解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fear of failure and fear of rejection hold many people back from setting and achieving big goals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>害怕失败，害怕被拒绝，使很多人没法设定并实现大目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So it's critical to develop a strong immunity to both. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，增强对付这两者的强大免疫力，至关重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taking in small, controlled doses of failure and rejection is one way to inoculate yourself against them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经历较小且受控制的失败与拒绝，是抵制它们的一种方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They won't kill you, but they will make you stronger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它们不会杀你，只会让你更强大。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Without this inoculation you're doomed to live as a failure hypochondriac. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有这个接种，你注定要得失败忧郁症。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even a medium-sized failure can take you down (into procrastination, depression, laziness). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至一个普通的失败也可以使你得这些病(拖延症、抑郁症、懒惰症)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So you start avoiding those failure germs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以你要避免这些失败的细菌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, the places where success hangs out are all infested with nasty failure germs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不幸的是，成功出没的地方都被肮脏的失败细菌所感染。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So by avoiding failure, you won't encounter much success either.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以如果避免失败，你也就不会遇到很大的成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another problem with failure germaphobia is that you'll have to avoid successful people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失败洁癖症的另一个问题是，你得避免成功的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Successful people are constantly sneezing out failure germs, so if you get too close, they'll spray you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>成功的人总是打喷嚏，传染失败的细菌，所以如果你们靠得太近，他们会喷到你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll need to hang out mostly with other failure germaphobes then, so you'll learn a lot more about avoiding failure than you will about achieving success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你需要出去，和其他患失败洁弊症的人一起，所以比起获得成功，你会学到更多如何避免失败的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the long run, you won't be a failure, but nor will you be a success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从长远来看，你不会成为一个失败者，但你也不会成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll basically just be unnecessary.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你基本上是没有必要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mild failure inoculations are easier to take than confronting the most fearsome failure germs right away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>轻微的故障预防接种，比立刻面对最可怕的失败细菌，更容易些。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By going into a situation expecting to fail, you take your ego offline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过进入预计失败情况了，你让自我离线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You aren't emotionally invested in the situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你没有感情投入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine asking someone out on a date when you're 100% certain of hearing a no, and you just do it to get the no out of the way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象当你有100%的把握会被拒绝，还是叫某人出去约会，你这样做只是为了不被就绝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a lot less stressful than doing it when you desperately want a yes but don't think you can get one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这比当你拼命想要别人接受，但不对此报希望时的压力要小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By building experience failing, you'll develop the backbone to still be able to do it even when you want the yes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过构建失败的经验，当你希望得到肯定回答时，你仍然能够做到，这会成为你的精神支柱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You'll be able to take your ego offline as needed, make the attempt, and then reboot and recoup quickly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以根据需要，使自我意识脱机，尝试，然后重新启动，迅速收回。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take the failure/rejection inoculation, so you don't have to live out your life as a failure germaphobe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接种失败和拒绝疫苗，这样你就不必作为一个失败洁弊症患者活着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just ask yourself, "What small thing can I fail at today?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问问自己，“我今天还有哪些小事情会失败？“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then go do it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后去做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have some fun with it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从中得到乐趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let yourself discover that failure isn't some monstrous scary thing to be avoided at all costs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让自己发现，失败并不是要不惜一切代价避免的可怕事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My failure task for today is to convince my 4-year old daughter Emily to stop drawing the alphabet on her clothes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我今天失败的任务是，没能说服我4岁的女儿艾米丽不要在她的衣服上写字母。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then maybe I'll teach my 1-year old son Kyle to eat without getting food in his hair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么也许我会教我1岁的儿子凯尔别把食物弄在他的头发上。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

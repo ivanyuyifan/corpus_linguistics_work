@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>1 Introduction </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第1章 绪论</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In which we try to explain why we consider artificial intelligence to be a subject most worthy of study, and in which we try to decide what exactly it is, this being a good thing to decide before embarking.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>本章我们试图解释为什么我们认为人工智能是一个最值得研究的学科，并试图准确地界定什么是人工智能。在开始学习之前回答这样的问题是一件好事。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We call ourselves Homo sapiens--man the wise--because our intelligence is so important to us. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们自称Homo sapiens——智慧的人——因为我们的智能（intelligence）对我们非常重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For thousands of years, we have tried to understand how we think; that is, how a mere handful of matter can perceive, understand, predict, and manipulate a world far larger and more complicated than itself. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>数千年来，我们一直试图理解我们是如何思考的；即，仅仅少量的物质怎能感知、理解、预测和操纵一个远大于自身且比自身复杂得多的世界。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The field of artificial intelligence, or AI, goes further still: it attempts not just to understand but also to build intelligent entities.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人工智能（artificial intelligence）领域，简称AI，走得更远：它不但试图理解智能实体，而且还试图建造智能实体。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>AI is one of the newest fields in science and engineering. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人工智能是最新兴的科学与工程领域之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Work started in earnest soon after World War II, and the name itself was coined in 1956. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>正式的研究工作在第二次世界大战结束后迅速展开，1956年创造了“人工智能”这个名称本身。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Along with molecular biology, AI is regularly cited as the “field I would most like to be in” by scientists in other disciplines. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>与分子生物学一起，AI经常被其他学科的科学家誉为“我最想参与的研究领域”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一方面物理专业的学生有理由认为所有好的研究思想己经被伽利略、牛顿、爱因斯坦以及其他物理学家想尽了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>AI, on the other hand, still has openings for several full-time Einsteins and Edisons.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，AI对若干位专职的爱因斯坦们和爱迪生们仍有良机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>AI currently encompasses a huge variety of subfields, ranging from the general (learning and perception) to the specific, such as playing chess, proving mathematical theorems, writing poetry, driving a car on a crowded street, and diagnosing diseases. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>AI目前包含大量各种各样的子领域，范围从通用领域，如学习和感知，到专门领域，如下棋、证明数学定理、写诗、在拥挤的街道上开车和诊断疾病。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>AI is relevant to any intellectual task; it is truly a universal field.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>AI与任何智力工作相关，它确实是一个普遍的研究领域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>1.1 What Is AI?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1什么是人工智能</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We have claimed that AI is exciting, but we have not said what it is. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们已经声称人工智能是令人激动的，但是我们还没有说明它是什么。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In Figure 1.1 we see eight definitions of AI, laid out along two dimensions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图1.1中我们看到沿着两个维度排列的AI的8种定义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The definitions on top are concerned with thought processes and reasoning, whereas the ones on the bottom address behavior. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>顶部的定义关注思维过程与推理，而底部的定义却强调行为。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The definitions on the left measure success in terms of fidelity to human performance, whereas rationality the ones on the right measure against an ideal performance measure, called rationality. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>左侧的定义根据与人类表现的逼真度来衡量成功与否，而右侧的定义依靠一个称为合理性（rationality）的理想的表现量来衡量。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A system is rational if it does the “right thing” given what it knows.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个系统若能基于已知条件“正确行事”则它是合理的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Historically, all four approaches to AI have been followed, each by different people with different methods. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>历史上，对AI的所有4种途径都有人关注，不同的人用不同的方法来追寻不同的途径。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A human-centered approach must be in part an empirical science, involving observations and hypotheses about human behavior. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>以人为中心的途径在某种程度上必是一种经验科学，涉及到关于人类行为的观察与假设。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A rationalist approach involves a combination of mathematics and engineering. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>理性论者的途径涉及到数学与工程的结合。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The various group have both disparaged and helped each other. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不同的研究小组既相互批评又相互帮助。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Let us look at the four approaches in more detail.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>让我们更详细地考察一下这四种途径。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thinking Humanly</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>像人一样思考</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“The exciting new effort to make computers think ... machines with minds, in the full and literal sense.” (Haugeland, 1985)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“使计算机思考的令人激动的新成就，......按完整的字面意思就是：有头脑的机器”（Haugeland，1985）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“[The automation of] activities that we associate with human thinking, activities such as decision-making, problem solving, learning ...”(Bellman, 1978)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“与人类思维相关的活动，诸如决策、问题求解、学习等活动【的自动化】” （Bellman， 1978）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thinking Rationally </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理地思考</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“The study of mental faculties through the use of computational models.” (Chamiak and McDermott, 1985) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“通过使用计算模型来研究智力”（Chamiak和 McDermott， 1985）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“The study of the computations that make it possible to perceive, reason, and act.” (Winston, 1992)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“使感知、推理和行动成为可能的计算的研究” （Winston， 1992）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acting Humanly </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>像人一样行动	</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“The art of creating machines that perform functions that require intelligence when performed by people.” (Kurzweil, 1990) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“创造能执行一些功能的机器的技艺，当由人来执行这些功能时需要智能” （Kurzweil， 1990）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“The study of how to make computers do things at which, at the moment, people are better.” (Rich and Knight, 1991)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“研究如何使汁算机能做那些目前人比汁算机更擅长的事情”（Rich 和 Knight， 1991） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acting Rationally </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理地行动</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“Computational Intelligence is the study of the design of intelligent agents.” (Poole et al., 1998) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“计算智能研究智能Agent的设计。”（Poole等人， 1998） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>“AI ... is concerned with intelligent behavior in artifacts.” (Nilsson, 1998) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“AI......关心人工制品中的智能行为。”（Nilsson， 1998） </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Figure 1.1 Some definitions of artificial intelligence, organized into four categories.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图1.1 组织成四类的人工智能的若干定义</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acting humanly: The Turing Test approach </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1.1像人一样行动：图灵测试的途径 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Turing Test, proposed by Alan Turing (1950), was designed to provide a satisfactory operational definition of intelligence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>由阿兰·图灵（Alan Turing） （1950）提出的图灵测试（Turing Test）的设计旨在为智能提供一个令人满意的可操作的定义。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A computer passes the test if a human interrogator, after posing some written questions, cannot tell whether the written responses come from a person or from a computer. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果一位人类询问者在提出一些书面问题以后不能区分书面回答来自人还是来自计算机，那么这台计算机就通过测试。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 26 discusses the details of the test and whether a computer would really be intelligent if it passed. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第26章将讨论图灵测试的细节以及一台通过测试的计算机是否真的具有智能。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For now, we note that programming a computer to pass a rigorously applied test provides plenty to work on. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目前，我们要注意的是：为计算机编程使之通过严格采用的测试还有大量的工作要做。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The computer would need to possess the following capabilities:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>计算机尚需具有以下能力：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>natural language processing to enable it to communicate successfully in English;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自然语言处理（natural language processing）使之能成功地用英文交流；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>knowledge representation to store what it knows or hears;</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>知识表示（knowledge representation）以存储它知道的或听到的信息；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>automated reasoning to use the stored information to answer questions and to draw new conclusions; </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自动推理（automated reasoning）以运用存储的信息来回答问题并推出新结论；</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>machine learning to adapt to new circumstances and to detect and extrapolate patterns.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>机器学习（machine learning）以适应新情况并检测和预测模式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Turing’s test deliberately avoided direct physical interaction between the interrogator and the computer, because physical simulation of a person is unnecessary for intelligence. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>因为人的物理模拟对智能是不必要的，所以图灵测试有意避免询问者与计算机之间的直接物理交互。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>However, the so-called total Turing Test includes a video signal so that the interrogator can test the subject’s perceptual abilities, as well as the opportunity for the interrogator to pass physical objects “through the hatch.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，所谓的完全图灵测试（total Turing Test）还包括视频信号以便讯问者既可测试对方的感知能力，又有机会“通过舱口”传递物理对象。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To pass the total Turing Test, the computer will needComputer vision to perceive objects, and robotics to manipulate objects and move about.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要通过完全图灵测试， 计算机还需具有：计算机视觉（computer vision）以感知物体；机器人学（robotics）以操纵和移动对象。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These six disciplines compose most of AI, and Turing deserves credit for designing a test that remains relevant 60 years later. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这6个领域构成了AI的大部分内容，并且图灵因设计了一个60年后仍合适的测试而值得称赞。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Yet AI researchers have devoted little effort to passing the Turing Test, believing that it is more important to study the underlying principles of intelligence than to duplicate an exemplar. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而AI研究者们并未致力于通过图灵测试，他们认为研究智能的基本原理比复制样本更重要。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The quest for “artificial flight” succeeded when the Wright brothers and others stopped imitating birds and started using wind tunnels and learning about aerodynamics. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有在莱特兄弟和其他人停止模仿鸟并开始使用风洞且开始了解空气动力学后，对“人工飞行”的追求才获得成功。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aeronautical engineering texts do not define the goal of their field as making “machines that fly so exactly like pigeons that they can fool even other pigeons.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>航空工程的教材不会把其领域目标定义为制造“能完全像鸽子一样飞行的机器，以致它们可以骗过其他真鸽子”。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thinking humanly: The cognitive modeling approach </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1.2像人一样思考：认知建模的途径 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If we are going to say that a given program thinks like a human, we must have some way of determining how humans think. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果我们说某个程序能像人一样思考，那么我们必须具有某种办法来确定人是如何思考的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We need to get inside the actual workings of human minds. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们需要领会人脑的实际运用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are three ways to do this: through introspection—trying to catch our own thoughts as they go by; through psychological experiments—observing a person in action; and through brain imaging—observing the brain in action. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>有三种办法来完成这项任务：通过内省——试图捕 获我们自身的思维过程；通过心理实验——观察工作中的一个人；以及通过脑成像——观察工作中的头脑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Once we have a sufficiently precise theory of the mind, it becomes possible to express the theory as a computer program. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>只有具备人脑的足够精确的理论，我们才能把这样的理论表示成计算机程序。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If the program’s input-output behavior matches corresponding human behavior, that is evidence that some of the program’s mechanisms could also be operating in humans. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果该程序的输入输出行为匹配相应的人类行为，这就是程序的某些机制可能也在人脑中运行的证据。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, Allen Newell and Herbert Simon, who developed GPS, the “General Problem Solver” (Newell and Simon, 1961), were not content merely to have their program solve problems correctly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，设计了 GPS，即“通用问题求解器” （General Problem Solver） 的艾伦.纽厄尔（Allen Newell）和赫伯特?西蒙（Herbert Simon） （Newell 和 Simon， 1961） 并不满足于仅让其程序正确地解决问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>They were more concerned with comparing the trace of its reasoning steps to traces of human subjects cognitive science solving the same problems. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>他们更关心比较程序推理步骤的轨迹与求解相同问题的人类个体的思维轨迹。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The interdisciplinary field of cognitive science brings together computer models from AI and experimental techniques from psychology to construct precise and testable theories of the human mind.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>认知科学（cognitive science）这个交叉学科领域把来自AI 的计算机模型与来自心理学的实验技术相结合，试图构建一种精确且可测试的人类思维理论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cognitive science is a fascinating field in itself, worthy of several textbooks and at least one encyclopedia (Wilson and Keil, 1999). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>认知科学本身就是一个迷人的领域，值得写几本教材和至少一部百科全书（Wilson和 Keil， 1999）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will occasionally comment on similarities or differences between AI techniques and human cognition. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们将偶尔评论AI技术与人类认知之间的异同。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Real cognitive science, however, is necessarily based on experimental investigation of actual humans or animals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，真正的认知科学必然基于真实人或动物的实验调查与研究。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will leave that for other books, as we assume the reader has only a computer for experimentation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们把那方面的内容留给其他书籍，因为我们假定读者只有一台用于实验的计算机。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the early days of AI there was often confusion between the approaches: an author would argue that an algorithm performs well on a task and that it is therefore a good model of human performance, or vice versa. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在AI的早期，不同途径之间经常出现混淆：某位作者可能主张一个算法很好地完成一项任务，所以它是人类表现的一个好模型，或者反之亦然。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Modern authors separate the two kinds of claims; this distinction has allowed both AI and cognitive science to develop more rapidly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>现代作者区分这两种主张；这种区分使得AI和认知科学都能更快地发展。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The two fields continue to fertilize each other, most notably in computer vision, which incorporates neurophysiological evidence into computational models.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这两个领域继续相互丰富，通过将神经生理学证据吸收到计算模型中，这种相互作用在计算机视觉中体现得最明显。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Thinking rationally: The “laws of thought” approach </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1.3合理地思考：“思维法则”的途径</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Greek philosopher Aristotle was one of the first to attempt to codify “right thinking,” that is, irrefutable reasoning processes. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>希腊哲学家亚里士多德是首先试图严格定义“正确思考”的人之一，他将其定义为不可反驳的推理过程。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>His syllogisms provided patterns for argument structures that always yielded correct conclusions when given correct premises--for example, “Socrates is a man; all men are mortal; therefore, Socrates is mortal.” </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其三段论（syllogisms）为在给定正确前提时总产生正确结论的论证结构提供了模式——例如，“苏格拉底是人；所有人必有一死；所以，苏格拉底必有一死。” </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These laws of thought were supposed to govern the operation of the mind; their study initiated the field called logic.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些思维法则被认为应当支配着头脑的运行；他们的研究开创了称为逻辑学（logic）的领域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Logicians in the 19th century developed a precise notation for statements about all kinds of objects in the world and the relations among them. (Contrast this with ordinary arithmetic notation, which provides only for statements about numbers.)</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>19世纪的逻辑学家为关于世上各种对象及对象之间关系的陈述制订了一种精确的表示法（将这种表示法与通常的算术表示法做对比，后者只为关于数的陈述提供表示法）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg> By 1965, programs existed that could, in principle, solve any solvable problem described in logical notation. (Although if no solution exists, the program might loop forever.) </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>到了1965年，已有程序原则上可以求解用逻辑表示法描述的任何可解问题（虽然如果不存在解，那么程序可能无限循环）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The so-called logicist tradition within artificial intelligence hopes to build on such programs to create intelligent systems.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>人工智能中所谓的逻辑主义（logicist）流派希望依靠这样的程序来创建智能系统。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are two main obstacles to this approach. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>对这条途径存在两个主要的障碍。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, it is not easy to take informal knowledge and state it in the formal terms required by logical notation, particularly when the knowledge is less than 100% certain. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，获取非形式的知识并用逻辑表示法要求的形式术语来陈述之是不容易的，特别是在知识不是百分之百肯定时。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, there is a big difference between solving a problem “in principle” and solving it in practice. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其次，在“原则上”可解一个问题与实际上解决该问题之间存在巨大的差别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even problems with just a few hundred facts can exhaust the computational resources of any computer unless it has some guidance as to which reasoning steps to try first. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>甚至求解只有几百条事实的问题就可耗尽任何计算机的计算资源，除非关于先试哪个推理步计算机具有某种指导。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although both of these obstacles apply to any attempt to build computational reasoning systems, they appeared first in the logicist tradition.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然这两个障碍对建造计算推理系统的任何尝试都适用，但是它们最先出现在逻辑主义流派中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Acting rationally: The rational agent approach </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>1.1.4合理地行动：合理Agent的途径</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>An agent is just something that acts (agent comes from the Latin agere, to do). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Agent就是能够行动的某种东西（英语的agent源于拉丁语的agere，意为“去做”）。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, all computer programs do something, but computer agents are expected to do more: operate autonomously, perceive their environment, persist over a prolonged time period, adapt to rational agent change, and create and pursue goals. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然，所有计算机程序都做某些事情，但是期望计算机Agent做更多的事：自主的操作、感知环境、长期持续、适应变化并能创建与追求目标。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A rational agent is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理Agent （rational agent）是一个为了实现最佳结果，或者，当存在不确定性时，为了实现最佳期望结果而行动的Agent。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the “laws of thought” approach to AI, the emphasis was on correct inferences. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在对AI的“思维法则”的途径中，重点在正确的推理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Making correct inferences is sometimes part of being a rational agent, because one way to act rationally is to reason logically to the conclusion that a given action will achieve one’s goals and then to act on that conclusion. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>做出正确的推理有时也是合理 Agent的部分作用，因为合理行动的一种方法是逻辑地推理出给定行动将实现其目标的结论，然后遵照那个结论行动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>On the other hand, correct inference is not all of rationality; in some situations, there is no provably correct thing to do, but something must still be done. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，正确的推理并不是合理性的全部；在某些环境中， 不要做可证正确的事情，但是仍然必须做某些事情。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>There are also ways of acting rationally that cannot be said to involve inference. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>还有一些合理行动的方法不能被说成涉及推理。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For example, recoiling from a hot stove is a reflex action that is usually more successful than a slower action taken after careful deliberation.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>例如，从热火炉上退缩是一种反射行为，通常这种行为比仔细考虑后采取的较慢的行为更成功。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All the skills needed for the Turing Test also allow an agent to act rationally. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图灵测试需要的所有技能也允许一个Agent合理地行动。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Knowledge representation and reasoning enable agents to reach good decisions. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>知识表示与推理使Agent 能够达成好的决定。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We need to be able to generate comprehensible sentences in natural language to get by in a complex society. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们必须能够生成可理解的自然语言句子以便在一个复杂的社会中勉强过得去。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We need learning not only for erudition, but also because it improves our ability to generate effective behavior.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们必须学习，不只是为了博学，而是因为学习可提高我们生成有效行为的能力。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The rational-agent approach has two advantages over the other approaches. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理Agent的途径与其他途径相比有两个优点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>First, it is more general than the “laws of thought” approach because correct inference is just one of several possible mechanisms for achieving rationality. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先，它比“思维法则”的途径更一般因为正确的推理只是实现合理性的几种可能的机制之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Second, it is more amenable to scientific development than are approaches based on human behavior or human thought. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其次，它比其他基于人类行为或人类思维的途径更经得起科学发展的检验。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The standard of rationality is mathematically well defined and completely general, and can be “unpacked” to generate agent designs that provably achieve it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>合理性的标准在数学上定义明确且完全通用，并可被“解开并取出”来生成可证实现了合理性的Agent设计。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Human behavior, on the other hand, is well adapted for one specific environment and is defined by, well, the sum total of all the things that humans do. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另一方面，人类行为可以完全适应特定环境，并且可以很好地定义为人类做的所有事情的总和。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This book therefore concentrates on general principles of rational agents and on components for constructing them. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所以本书将着重研究合理Agent的一般原则以及用于构造这样的Agent的部件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We will see that despite the apparent simplicity with which the problem can be stated, an enormous variety of issues come up when we try to solve it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们将看到尽管问题可被陈述得貌似简单，但是在试图求解问题时各种各样的难题就出现了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapter 2 outlines some of these issues in more detail.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第2章将更详细地概述 一些这样的难题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>One important point to keep in mind: We will see before too long that achieving perfect rationality—always doing the right thing—is not feasible in complicated environments. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要记住的一个重点是：不久以后我们将看到实现完美的合理性——即总做正确的事情 ——在复杂环境中不可行。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The computational demands are just too high. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其计算要求太高。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For most of the book, however, we will adopt the working hypothesis that perfect rationality is a good starting point for analysis. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>然而，对本书的大部分内容，我们将采纳工作假设：完美的合理性对分析是一个好的出发点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It simplifies the problem and provides the appropriate setting for most of the foundational material in the field. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这样既简化了问题又为该领域中的大多数基本素材提供了恰当的背景。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Chapters 5 and 17 deal explicitly with the issue of limited rationality—acting appropriately when there is not enough time to do all the computations one might like.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>第5章和第17章将明确论述有限合理性（limited rationality） 的问题——即当没有足够的时间来完成所有你想要做的计算时仍能恰当地行动。</seg></tuv>
+</tu>
+</body>
+</tmx>

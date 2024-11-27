@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T080116Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long biography of Steve Jobs (Success and failures)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯的长篇传记 (成功与失败)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The personal computing revolution</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>个人电脑的改革</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In many ways, the Apple II was both the start and the symbol of the personal computer revolution of the early 1980s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从许多方面来说，二代苹果是二十世纪八十年代个人电脑改革的开端和标志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although there were many competing personal computers on the market - such as the Commodore PET or Radio Shack's TRS-80 - the Apple II clearly set itself apart very early on, and soon embodied the personal computer in the public consciousness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然那个时期市场上已经出现了很多种个人电脑，像Commodore PET和Radio Schack’s TRS 80，但苹果二代早已显示出自己的与众不同，并且不久便将个人电脑具体体现在公共的意识当中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was all over the media, and its sales skyrocketed throughout 1978, 1979 and 1980.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他遍及了所有的多媒体，并且销量在1978、1979和1980年里迅速上升。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not only about the Apple II's appealing design, its integrated keyboard, or its ability to plug into any TV to display color graphics or play sounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不只是苹果二代外表的设计，它综合完整的键盘，并且它加入了可将图片和声音在任何电视上播放的功能。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its built-in BASIC interpreter was also critical to its success, as it made the writing of compatible software very easy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它内置的基本解释程序也对它的成功十分关键，因为它使兼容软件的书写十分容易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woz used it himself to write the first program to ever run on the machine, a game called Breakout. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沃兹用它写了第一个程序，是一个叫Breakout的游戏，并在机器上运行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The eight expansion slots in Apple II made a difference, too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果二代中的八个扩展槽也是一个大改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woz decided to implement them against Steve Jobs' will, and this proved a wise move, as they allowed for all kinds of new features and software to be added to the machine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沃兹决定使用它们，这虽然与乔布斯的想法不同，但日后被证明为明智的决策，他们使机器添加了各种新的功能和软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of those features was Disk II, a floppy disk drive Apple started shipping in early 1978. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一个特点是一个苹果在1978年初就开始运送的软盘驱动机构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made the sharing and installing of new software very easy - soon the supply of Apple II software was thriving.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它使得分享并安装一个新的软件非常便捷，不久苹果软件的供应就发展起来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But probably the most important push toward the Apple II's success was not from Apple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过可能将二代苹果推向成功的并不是苹果公司，而是一个软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a piece of software called VisiCalc - the first spreadsheet ever brought to market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>VisiCalc（一种普通的计算机扩展表格程序）是世界上第一个进入市场的表格程序。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>VisiCalc worked only on the Apple II, and it was a revolution in itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>VisiCalc只在苹果二代上运行，并且这对于VisiCalc也是一场革命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Millions of accountants, small businesses, or even private individuals that cared about their money, could now do in minutes calculations that would have taken them weeks to perform by hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数百万的会计、小公司，甚至关心他们自己金钱的个人可以在几分钟内做完手动几周才可以完成的计算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They rushed out to computer stores and bought Apple IIs en masse, making Apple one of the most profitable companies of its day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们涌入计算机商场购买苹果二代，这使苹果成为那时最赚钱的电脑之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only four years after it was started in a garage, the company was well on its way to fulfill Mike Markkula's vision of belonging to the Fortune 500 elite of corporate America.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从他在一个修理厂开始创立，这仅用了四年，这个公司正处于良好的发展当中，去实现麦克 马库拉对于公司进入《财富》美国公司五百强名单的愿望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Preparing for the future</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为未来做准备</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple Computer was growing at an incredibly fast rate. The numbers were mind-blowing: from 2,500 Apple IIs sold in 1977, 8,000 were sold in 1978, and up to 35,000 in 1979. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果公司正在以令人难以置信的速度发展，相关数据令人惊奇：从1977年苹果二代2500的销售量，到1978年的8000，1979年的35000。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember there was no market for personal computers before! The company earned $47 million in revenues in fiscal year 1979, making Steve Jobs a millionaire on paper (he owned $7 million worth of private stock). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记住从未有过任何的个人电脑在市场中创下如此记录！苹果在1979年的财政年度收入达四千七百万美元，这使乔布斯在理论上成为了百万富翁（它拥有价值七百万的个人股票）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The company's board of directors, including its new members such as Arthur Rock and Don Valentine, began to discuss taking Apple public.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司的董事会，包括新成员像阿瑟洛克和唐瓦伦丁，开始讨论苹果的上市问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, the engineers in Cupertino started working on Apple's future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，在丘珀蒂诺的工程师开始致力于苹果的未来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several projects came into being in those early years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几项工程也在那几年形成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, in late 1978, there was the Apple III, which was supposed to build on Apple II's legacy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，是在1978年末的苹果三代，它被期许是建立在苹果二代的系统上的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Woz did not partake in the project and was critical of it early on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沃兹没有参与到这个项目中，但他对于这个项目的运行起到重要作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was also an obscure project called Macintosh, headed by computer scientist Jef Raskin. He started to assemble a small team to work on a computer "as easy to use as a toaster", that he named after his favorite apple.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一个不起眼的工程叫Macintosh（麦金塔电脑），并以计算机科学家杰夫 拉斯金为首，他开始集合了一个小团队来着手改变计算机，使计算机像烤面包一样便于操作，并以此来命名他最喜欢的苹果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs was not involved in any of those projects. He had another one in mind, called Lisa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯并没有参与任何一个项目，在他的脑海中有另一个工程，叫莉萨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he hadn't picked that name without a reason... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他并不是毫无理由的选择了一个名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, in 1978, while he was dating an employee of McKenna's PR agency, Steve's ex-girlfriend from high school Chris-Ann Brennan reappeared claiming she was bearing his baby. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，在1978年当他与麦肯纳的公关公司职员约会时，乔布斯的高中前女友克里斯 安 布伦南再次出现，并称她已生了他的孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve denied the fatherhood, although everybody in his entourage knew he was the father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯否认了自己父亲的身份，虽然他周围的每个人都清楚他是这孩子的父亲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The baby girl was named Lisa... there was a lot of perplexity around Steve's behavior, especially since he had suffered greatly from having been abandoned himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个小女孩叫莉萨。乔布斯行为举止充满了许多困惑和迷茫，尤其是从他经历了自暴自弃定的痛苦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was going to do the same to his own daughter! Yet, at the very same time, he used the girl's name for a project code name.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他准备对他自己的女儿做同样的事！但也在同一时刻，他用他女儿的名字作为一个项目的代号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Project Lisa took a dramatic turn in late 1979, after Steve's visit to Xerox PARC.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1979年末，在乔布斯参观过Xerox PARC（施乐帕克研究中心）后，莉萨这个项目发生了戏剧性的变化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is Xerox PARC?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是施乐帕克研究中心？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Xerox Palo Alto Research Center, often dubbed Xerox PARC, was started in the early 1970s by the Xerox corporation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>施乐帕克研究中心经常被称为XEROX PARC，它是在二十世纪七十年代初由施乐公司创立。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Based on the East Coast, the manufacturer of copy machines felt that its core business was threatened by the emerging computer revolution, with its promise of a paperless office. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建立于东海岸、以复印机为核心产业的制造商施乐公司受到新兴电脑改革的无纸办公承诺的威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a very smart move, they set up a research center in Stanford Research Park, and hired talented computer scientists, many from the leading university, to invent the office of tomorrow.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个明智的举措是她们在斯坦福研究院中建立了一个研究中心，并雇用了极有天分的计算机科学家，其中很多人毕业于名校，以开发相应产品迎合未来的新型办公模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1979, when Steve Jobs toured PARC, the researchers had already pioneered several technologies that would revolutionize computing forever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1979年，乔布斯在施乐帕克研究中心参观时，研究人员早已率先发现了许多足以永久的改革电脑的技术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had a network of computer working together using Ethernet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们通过乙太网建立了几台电脑间的网络，使其共同工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had developed object-oriented programming, a new way to write software much more effectively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们还发明了一个对象名称的程序，一个新的方式更有效的编写软件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were working on the laser printer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们同时也研究激光打印机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But most of all, they had built the world's first computer to use a graphical user interface (GUI), the Alto. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但最重要的是他们建立了世界上第一台使用图形用户界面的电脑——Alto。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Xerox Alto had a strange device called a mouse, that you could use to move a cursor around the screen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>施乐Alto有一个奇怪的装置叫鼠标，你可以用它控制屏幕上的光标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You could open files and folders, copy and paste content inside them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以打开文件的和文件夹，复制和粘贴其中的内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was simply a breakthrough.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个小的突破。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Xerox PARC did not keep its technology hidden from outsiders. Informed circles knew about the center's advances, especially at Stanford and in the Valley as a whole. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>施乐帕克研究中心没有对外隐藏它的技术，向整个圈子宣布他们研究中心的发展情况，尤其是在斯坦福，整体在一个村子中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everybody pretty much sensed that this technology would have a huge impact on the industry - everybody but Xerox themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个人除了施乐公司自己都感到这技术会对整个行业带来巨大的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The conservative management on the East Coast never grasped the extent of what their researchers in California had come up with. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>东海岸保守的管理模式永远抓不住加利福尼亚州研究人员所研究考虑的范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They simply dismissed it as futile.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们轻易地将研究人员解雇，因为他们看不到收益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Lisa team was briefed about Xerox PARC's technologies by insiders, including Jef Raskin, the manager of the Macintosh project. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莉萨团队通过内部人员听取了施乐帕克研究中心的技术，包括杰夫 拉斯金，Macintosh（麦金塔）工程的经理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve negotiated a deal with Xerox to be given a complete tour of the facilities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯与施乐签订协议，去参观施乐全部的设施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's how he described his experience later: Within ten minutes, it was obvious to me that all computers would work like this someday.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他后来这样描述这次经历：十分钟内，我清楚的认识到将来的所有电脑都像这个样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs in Triumph of the Nerds</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯在计算机迷的胜利里</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Several researchers and engineers were lured away from PARC by Apple, such as Larry Tesler and Bruce Horn, to develop a GUI for Lisa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多施乐的研究人员和工程师都被苹果所吸引，为莉萨发展图形用户界面，像拉里 特斯勒和布鲁斯合恩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The biggest challenge was to design an actual product, not a fancy prototype too expensive to build. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时最大的挑战就是设计出一个实际的产品，不标准的样品的花费话费太高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, one of the reasons Xerox dismissed the Alto was its astronomical price tag: $20,000! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，施乐放弃Alto是因为其花费：两万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was twenty times as much as the Apple II.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是苹果二代花费的二十倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The biggest IPO since Ford</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自福特公司后最大的首次募股</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1980, Apple Computer was preparing to go public. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1980年，苹果电脑准备上市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This move had several major implications for Steve Jobs, both professionally and personally.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这对于乔布斯来说意味着很多，专业方面和个人方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First, the board was concerned about the potential bad publicity around Steve's handling of his daughter Lisa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，董事会怕乔布斯安置她女儿的事件会带来不好的影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They insisted that he settled the case with Chris-Ann before the end of the year, as the IPO was scheduled for December 1980. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们坚持让乔布斯与克里斯 安 布伦南在年底处理好这件事，因为首次募股要定于1980年12月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reluctantly, he agreed to reimburse the country's welfare the money they had spent on the mother of his daughter, i.e. $20,000.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯勉强同意偿还国家福利，那些曾用于女孩妈妈的钱，共两万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was also a large re-organization at the top of the company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时对于公司来说另一件重要的事是苹果三代的重组。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Apple III, which came out in the spring of 1980, had turned out a disaster on the marketplace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1980年春天面试的苹果三代结果却在商界成为一个灾难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was flawed and thousands of early models had to be returned to the company, whose only revenues still came from sales of Apple II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有缺点，并且数以千计较早上市的产品被退回公司，他们的收入仍然来自苹果二代的销售。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next project, Lisa, became even more critical to the company's future. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下一项工程，莉萨对于未来变得更加重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, Apple Computer was re-organized into three new departments: Accessories, Professional Office Systems (which included Lisa), and Personal Computer Systems (Apple II and Apple III). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果电脑重组为三个部门：零件、专业Office系统（包括莉萨）、和个人计算机系统（苹果二代和苹果三代）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve expected to head the POS division, but the board chose the milder and more experienced John Couch. Steve was named chairman of the board instead.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯期望继续POS方案，但董事会选择了更加温和有经验的约翰 库奇，乔布斯则被任命董事长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This choice was mostly a public relations scheme in anticipation of the IPO. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这几乎是为首次募股而设计的公共关系方案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The company started advertising in the mass media, notably the Wall Street Journal, spreading the legend of the technical genius Steve Wozniak, and his friend marketing genius and visionary Steve Jobs starting a revolution from their garage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>公司现在大众传播媒体中做广告，特别是华尔街日报，宣传了科技天才史蒂夫 沃兹尼亚克的传奇，还有他朋友的销售才能和梦幻般的乔布斯在他们的修理厂展开的一场革命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were full-page advertisements with pictures of Steve Jobs and the Apple II, in which he was quoted as saying that the personal computer was a new kind of bicycle - a bicycle for the mind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有一整页的广告，其中有乔布斯和苹果二代的照片，还有他说的个人电脑是一种新型自行车——思想的自行车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve's personality was transformed during that period. He was increasingly recognized as a national icon, a symbol for the country's new entrepreneurial wave. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔布斯的性格在那段时间发生了变化，他逐渐被认认为是国家英雄，国家新企业家浪潮的标志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was starting to realize his dream of changing the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开始了解到他想要改变世界的梦想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hippie days seemed long gone: he gave up the beard and the mustache, stopped going to the Los Altos Zen Center, and occasionally wore suits.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他嬉皮士的岁月似乎已经成为过去，他刮去了络腮胡和小胡子，不再去Los Altos Zen Center,偶尔穿西装。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, on December 12 1980, Apple went public. Even though the country was in the middle of a recession, the operation was a huge success beyond anyone's expectations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终1980年11月12日苹果上市，即使整个国家正陷入经济衰退，但这次运作的成功却出乎人们的预料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the biggest public offering in American history since the Ford Motor Company in 1956! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是美国历史上继Ford福特公司在1956年公开发售后最大的一次！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the IPO, Steve Jobs was worth $217.5 million, $210 million more than the day before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在首次募股后，乔布斯身价两亿一千七百五十万美元，比之前多出了两亿一千万美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bozo explosion</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在公司中不称职的员工为数众多</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, Steve was still the same inside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，乔布斯的性格仍然有着不变的部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a tough manager, and a lot of engineers refused to work with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是个严格的经理，许多工程师拒绝与他工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple's executives were well aware of the problem, and it's one of the reasons they named John Couch to run the Lisa project, not Steve.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果的管理者们都充分意识到这个问题，这也是他们选择约翰库奇运作莉萨这个项目，而不是乔布斯的其中一个原因。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In particular, Steve had very tense relations with Apple's CEO Mike Scott. Remember Scott was hired by Mike Markkula in 1977 to run the company. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尤其是，乔布斯与苹果的CEO麦克 斯科特关系紧张，记住斯科特是被麦克马库拉在1977年雇佣的进入公司的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But as you will soon see, Scott was perhaps as temperamental as Jobs, if not more.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但不久你就会发现恩科特就算不比乔布斯性格喜怒无常也差不多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steve Jobs and Jef Raskin in 1979</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1979年的乔布斯和杰夫拉斯金</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, there was a shared concern in Cupertino about the quality of the company's recent hires. The organization had been growing so fast that many people in its workforce obviously did not qualify for their jobs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，在库比提诺的人都为公司最近雇佣员工的情况表示忧虑，组织发展迅速，显然其中许多人所付出的劳动并不能达到他们职位的要求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a very Steve Jobs fashion, the phenomenon was commonly referred to as "the bozo explosion." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在乔布斯的领导中这种现象普遍被称为：公司企业中不称职员工为数众多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mike Scott, nicknamed Scotty, decided it was time to take action. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>麦克 斯科特，别名Scotty，决定是时候采取行动了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On February 25 1981, a day that would go down in Apple's history as "Black Wednesday", he fired half of the Apple II team, without even consulting the board - this was not a way to manage a publicly traded company! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1981年2月25号，一个会在苹果历史上记为“黑色星期三”的日子，他没有和董事会商量雇佣了苹果二代团队中一半的人——这不是管理上市贸易公司的做法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The board gathered and decided it was time for Apple to get rid of Scotty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>董事会召开会议认为苹果是时候摆脱Scotty了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mike Markkula took his job while the company started looking for a new CEO.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在公司寻找新CEO的时候，麦克 马库拉暂时接替他的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The departure of Scotty, one of Steve Jobs' strongest opponents, gave him more freedom at Apple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Scotty这乔布斯的头号反对者的离开给了乔布斯在苹果中的更大自由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't long after that that the young chairman of the board took over the smallest project in the POS division, Jef Raskin's Macintosh. Remember Jef was an older Apple engineer, a very bright, soft-spoken character, who never had much sympathy for Jobs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不久以后，董事会里最年轻的董事长接手了POS方案中最小的一个项目，杰夫 拉斯金的Macintosh（麦金塔电脑），记着杰夫是苹果中年龄较大的工程师，一个开朗、善于言辞的角色，他对乔布斯从来没有太多认同感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had even written a note to Mike Scott to explain why he could not possibly work with Steve (read it in Steve at work). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾写过一份笔记给麦克 斯科特解释他为什么不能与乔布斯一起工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the board was willing to sacrifice him to have Steve Jobs let the Lisa project in peace - so they let him go, and installed Steve as new head of the Mac team.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但董事会愿意牺牲他而拥有乔布斯，为了让莉萨项目得以安宁，所以她们让杰夫 拉斯金离开，任命乔布斯为Mac团队的头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reasons Lisa was such a strategic product for Apple came from the new face of the PC market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莉萨之所以成为苹果具有战略性的产品是因为市场上个人电脑的新面目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, in August 1981, the whole industry was shaken by the introduction of the IBM PC. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上，在1981年8月，整个行业都被IBM个人电脑的介绍所震撼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Big Blue was the leader in computing, and had been for several decades - but its only products were mainframes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蓝色巨人是计算机信息处理技术的领导者，并持续了几十年，但他们生产的主要是中央处理器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As they watched the growing success of Apple Computer and the new market, IBM decided it was time to get personal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他们看到苹果电脑的成长和新的市场。IMB开始讨论苹果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The IBM PC was inferior to the Apple II in many ways, but the fact it was from IBM was critical in itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相比苹果二代IBM在很多方面做的并不好，这些来自IBM的事实对于IBM却很重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It made it OK for corporate America to start using PCs: after all, every information systems manager knew "you couldn't be fired for buying an IBM." Apple's position as the market leader was clearly threatened - and its only viable product was still the four year-old Apple II. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这使得美国公司可以开始使用个人电脑：毕竟，每一个信息系统管理者都应该知道“你不能因为买IBM而炒一个人鱿鱼。”苹果领军者的地位明显受到了威胁，并且此时苹果可行的产品仍然是已经四岁的苹果二代。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

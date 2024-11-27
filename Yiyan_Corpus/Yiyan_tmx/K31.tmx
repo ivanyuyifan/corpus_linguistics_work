@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160814T151616Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Sculptor's Funeral</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雕塑家的葬礼</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A group of the townspeople stood on the station siding of a little Kansas town, awaiting the coming of the night train, which was already twenty minutes overdue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>堪萨斯州一座小城的车站里，一群市民站在月台上等候着夜班车的到来，那趟车已经晚点二十分钟了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The snow had fallen thick over everything; in the pale starlight the line of bluffs across the wide, white meadows south of the town made soft, smoke- colored curves against the clear sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四周覆盖着厚厚的积雪，淡淡的月光下，小城南面宽广辽阔、白雪皑皑的草地外，陡峭的山崖在明净的夜空勾描出一道柔和的灰黑色曲线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The men on the siding stood first on one foot and then on the other, their hands thrust deep into their trousers pockets, their overcoats open, their shoulders screwed up with the cold; and they glanced from time to time toward the southeast, where the railroad track wound along the river shore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>月台上那些男人，敞着外套，缩着脖子，双手深深地插进裤兜，不住地左右跺脚，不时地朝铁轨沿着河岸蜿蜒前伸的东南方探望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They conversed in low tones and moved about restlessly, seeming uncertain as to what was expected of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们低声交谈着，惶惶不安地四处走动，仿佛不明白要他们来做什么事儿似的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was but one of the company who looked as though he knew exactly why he was there; and he kept conspicuously apart; walking to the far end of the platform, returning to the station door, then pacing up the track again, his chin sunk in the high collar of his overcoat, his burly shoulders drooping forward, his gait heavy and dogged. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，有一个人看起来好像十分清楚来这儿的目的；他索然离群，下巴缩进外套的高领，壮实的双肩颓然下垂，步态沉重而又顽强，在站口与月台尽头之间来来回回地踱步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Presently he was approached by a tall, spare, grizzled man clad in a faded Grand Army suit, who shuffled out from the group and advanced with a certain deference, craning his neck forward until his back made the angle of a jackknife three-quarters open.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不一会儿，一个头发灰白，身穿褪色的国民军制服的瘦高个男人，伸出长长的脖子，像一把展开了四分之三的折刀，带着几分敬重的神情，从人群中走过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I reckon she's agoin' to be pretty late ag'in tonight, Jim," he remarked in a squeaky falsetto. "S'pose it's the snow?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“吉姆，我估摸着这趟车今夜又要晚点很久。”他尖声尖气地说，“雪落得忒大了？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know," responded the other man with a shade of annoyance, speaking from out an astonishing cataract of red beard that grew fiercely and thickly in all directions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不知道。”对方从一大蓬又硬又密、拳曲松乱的胡须下冲出一句，话音里透着几分怒气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spare man shifted the quill toothpick he was chewing to the other side of his mouth. "It ain't likely that anybody from the East will come with the corpse, I s'pose," he went on reflectively.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瘦高个男子把嘴里嚼着的羽毛梗牙签卷到嘴的另一角，若有所思地说道：“东边儿怕莫是没有人过来送尸吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know," responded the other, more curtly than before.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不知道。”对方的回答比先前更粗鲁了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's too bad he didn't belong to some lodge or other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可惜他不是个村夫什么的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I like an order funeral myself. They seem more appropriate for people of some reputation," the spare man continued, with an ingratiating concession in his shrill voice, as he carefully placed his toothpick in his vest pocket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我自己就喜欢花钱安排的葬礼，那才不失名人的体面。”瘦高个继续说道，小心翼翼地把牙签放进背心口袋，尖细的嗓音里流露出讨好让步的语气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He always carried the flag at the G. A. R. funerals in the town.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>城里举行军礼葬，他总是扛大旗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The heavy man turned on his heel, without replying, and walked up the siding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>神色凝重的男子不作回答，屁股一扭，朝月台走过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The spare man shuffled back to the uneasy group. "Jim's ez full ez a tick, ez ushel," he commented commiseratingly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>瘦高男子又拖着脚步回到那群惶惶不安的人群里，惋惜地评说道：”跟往常一样，吉姆又喝高了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just then a distant whistle sounded, and there was a shuffling of feet on the platform. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正值此时，远方传来汽笛的鸣叫，月台上紧接着响起一阵嘈杂的脚步声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A number of lanky boys of all ages appeared as suddenly and slimily as eels wakened by the crack of thunder; some came from the waiting room, where they had been warming themselves by the red stove, or half-asleep on the slat benches; others uncoiled themselves from baggage trucks or slid out of express wagons. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一群老老少少，高高瘦瘦的男人，像群炸雷惊醒的鳝鱼，突然窜到月台上。有几个在红彤彤的炉火边取暖，或者在长条凳上半睡半醒的，从候车室里钻出来；另几个卷曲身子，抱团驱寒的则从行李车和快运货车里冒出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two clambered down from the driver's seat of a hearse that stood backed up against the siding. They straightened their stooping shoulders and lifted their heads, and a flash of momentary animation kindled their dull eyes at that cold, vibrant scream, the world-wide call for men. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有两个人从停靠在月台边的灵车的驾驶座上爬下来，挺了挺胸，抬起头，那凛冽、颤抖的嘶叫——响彻世界的召唤声，骤然间在他们漠漠无神的眼睛里点亮了一道转瞬即逝的活泼的闪光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It stirred them like the note of a trumpet; just as it had often stirred the man who was coming home tonight, in his boyhood.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>汽笛声，像喇叭里吹出的音符，使他们激动；就像它使今晚回家的那个男人在童年时代常常激动地那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The night express shot, red as a rocket, from out the eastward marsh lands and wound along the river shore under the long lines of shivering poplars that sentineled the meadows, the escaping steam hanging in gray masses against the pale sky and blotting out the Milky Way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那趟夜间快车像一支红色的火箭，冲出东边的洼地，在一行行长长的守卫在草地上瑟瑟发抖的白杨树下，沿着河岸蜿蜒前行。一团团飘散的灰白色蒸汽挂在苍白的夜空，淹没了银河。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a moment the red glare from the headlight streamed up the snow-covered track before the siding and glittered on the wet, black rails. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不一会儿，车头耀眼的红灯照射在月台前白雪覆盖的铁路，湿漉漉、黑幽幽的钢轨闪闪发亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The burly man with the disheveled red beard walked swiftly up the platform toward the approaching train, uncovering his head as he went. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那个身材魁梧、胡须蓬乱的男人，迎着进站的火车走去，一边走一边摘下头上的帽子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The group of men behind him hesitated, glanced questioningly at one another, and awkwardly followed his example. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他身后那群人先是踌躇不前，疑惑地面面相觑，然后又尴尬地跟在他后面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The train stopped, and the crowd shuffled up to the express car just as the door was thrown open, the spare man in the G. A. B. suit thrusting his head forward with curiosity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>列车停站，快车门刚一掀开，那群人便拥上前去，穿国民军制服的瘦高个好奇地探着头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The express messenger appeared in the doorway, accompanied by a young man in a long ulster and traveling cap.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专差出现在门口，身边跟着一个身穿长风衣，头戴旅行帽的年轻人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are Mr. Merrick's friends here?" inquired the young man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“梅里克的朋友来了吗？”那年轻人问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The group on the platform swayed and shuffled uneasily. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>月台上的人群惶惶不安地左右涌动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Philip Phelps, the banker, responded with dignity: "We have come to take charge of the body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>银行家菲利普·菲尔普斯神气十足地答道：“我们是来料理遗体的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr. Merrick's father is very feeble and can't be about."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>梅里克先生的父亲身体非常虚弱，来不了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Send the agent out here," growled the express messenger, "and tell the operator to lend a hand."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“把代理人叫来，”专差嘟哝道，“叫值班员来帮一把。“</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The coffin was got out of its rough box and down on the snowy platform. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灵柩从粗笨的大箱子里搬出，摆在白雪皑皑的月台上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The townspeople drew back enough to make room for it and then formed a close semicircle about it, looking curiously at the palm leaf which lay across the black cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>城里人往后退让出一块地方，在灵柩旁围成一个半圆，好奇地望着横铺在黑色灵柩盖板上的那匹棕榈叶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one said anything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人人都默不作声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The baggage man stood by his truck, waiting to get at the trunks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>行李员站在手推车旁，等着搬箱子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The engine panted heavily, and the fireman dodged in and out among the wheels with his yellow torch and long oilcan, snapping the spindle boxes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>火车头喘着粗气，司炉工拿着黄手电、长油壶，在车轮间钻进钻出，把轮轴盖关得啪啪脆响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The young Bostonian, one of the dead sculptor's pupils who had come with the body, looked about him helplessly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年轻的波士顿人——送雕塑家遗体过来的学生，无可奈何地举目四顾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned to the banker, the only one of that black, uneasy, stoop-shouldered group who seemed enough of an individual to be addressed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他转身对着银行家，那团黑黑糊糊、惶惶不安、勾腰驼背的人群里唯一有点个人特征的，似乎可以招呼一声的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"None of Mr. Merrick's brothers are here?" he asked uncertainly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“梅里克先生的兄弟都没来吗？”他半信半疑地问道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man with the red heard for the first time stepped up and joined the group. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>红胡子男人这时才加入到人群中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, they have not come yet; the family is scattered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是的，他们还没有赶到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The body will be taken directly to the house." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们一家人没有住在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He stooped and took hold of one of the handles of the coffin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遗体直接拉回家。”他弯腰抓住灵柩上的一只手柄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Take the long hill road up, Thompson--it will be easier on the horses," called the liveryman as the undertaker snapped the door of the hearse and prepared to mount to the driver's seat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>殡仪员啪地关上灵车车门，准备上车就座，出租马车的人喊道：“绕道上山，汤普森，马车才不会太颠簸。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Laird, the red-bearded lawyer, turned again to the stranger: "We didn't know whether there would be anyone with him or not," he explained. "It's a long walk, so you'd better go up in the hack." He pointed to a single, battered conveyance, but the young man replied stiffly: "Thank you, but I think I will go up with the hearse. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>红胡子律师莱尔德又转身对那陌生人说道：“我们不知道要不要有人陪他，”他解释说，“路很远，你最好另外坐出租马车。”他指着一辆破旧不堪的单马车说。那青年却生硬地回了一句：“谢谢，但是我愿意跟灵车走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you don't object," turning to the undertaker, "I'll ride with you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不反对，”向殡仪员转过身去，“我坐你的车。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They clambered up over the wheels and drove off in the starlight tip the long, white hill toward the town. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们从车轮爬上灵车，驰上绵长、雪白的山道，在月光下向着小城驶去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The lamps in the still village were shining from under the low, snow-burdened roofs; and beyond, on every side, the plains reached out into emptiness, peaceful and wide as the soft sky itself, and wrapped in a tangible, white silence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>村舍寂静无声，低矮的屋顶上积雪盈盈，屋顶下灯光熠熠。远方的平原，向四面八方伸展开去，融入同天空一样辽阔、安宁的茫茫旷野，笼罩在一片触手可及的白茫茫的寂静之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the hearse backed up to a wooden sidewalk before a naked, weatherbeaten frame house, the same composite, ill-defined group that had stood upon the station siding was huddled about the gate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灵车退到一座饱经风霜的木屋的木头过道边，大门口挤着的又是火车站月台上那团模模糊糊的人群。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The front yard was an icy swamp, and a couple of warped planks, extending from the sidewalk to the door, made a sort of rickety footbridge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前院成了一个泛着冰碴儿的烂泥塘。过道与房门之间，用几块翘曲的木板搭起了一条晃晃悠悠的栈道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The gate hung on one hinge and was opened wide with difficulty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大门挂在一只铰链上，费了好大力气才全打开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steavens, the young stranger, noticed that something black was tied to the knob of the front door.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>年轻的陌生人斯特文斯注意到了前门的把手上栓了样黑色的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The grating sound made by the casket, as it was drawn from the hearse, was answered by a scream from the house; the front door was wrenched open, and a tall, corpulent woman rushed out bareheaded into the snow and flung herself upon the coffin, shrieking: "My boy, my boy! And this is how you've come home to me!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>灵柩从灵车上拉出来，发出刺耳的声音，房里应声传出一声尖叫；前门被使劲一扭，轰然打开，一个没戴帽子的高大肥胖的妇人，冲到雪地里，扑倒在灵柩上，厉声呼喊：“儿子啊，儿子啊，你就是这样回家来我身边的呀！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Steavens turned away and closed his eyes with a shudder of unutterable repulsion, another woman, also tall, but flat and angular, dressed entirely in black, darted out of the house and caught Mrs. Merrick by the shoulders, crying sharply: "Come, come, Mother; you mustn't go on like this!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯特文斯身子一颤，感觉到一种不可名状的反感。当他闭上眼睛，转过身子的时候，又一个高大然而单薄瘦削的女人，一袭黑色丧服，冲出房屋，拉着梅里克太太的肩膀，凄厉地哭喊：“起来，起来，妈妈，千万别这样！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her tone changed to one of obsequious solemnity as she turned to the banker: "The parlor is ready, Mr. Phelps."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她转过身来，声调一下变得毕恭毕敬，对银行家说：“菲利普先生，客厅准备好了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The bearers carried the coffin along the narrow boards, while the undertaker ran ahead with the coffin-rests. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抬棺人抬着灵柩，顺着狭窄的木板走，殡仪员拿着灵柩架在前面跑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They bore it into a large, unheated room that smelled of dampness and disuse and furniture polish, and set it down under a hanging lamp ornamented with jingling glass prisms and before a "Rogers group" of John Alden and Priscilla, wreathed with smilax. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们把灵柩抬进一间宽大、潮湿、冰冷、散发着无人居住的霉臭和家具上光蜡的清香的大厅，摆放在一盏用叮叮当当的棱柱状玻璃缀装饰的吊灯之下，一尊菝葜饰边的《罗杰斯组雕》中的《约翰·奥尔登与普里西拉》塑像之前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Henry Steavens stared about him with the sickening conviction that there had been some horrible mistake, and that he had somehow arrived at the wrong destination. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亨利·斯特文斯注视着四周，感到一阵恶心，以为出了大错，走错了人家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looked painfully about over the clover-green Brussels, the fat plush upholstery, among the hand-painted china plaques and panels, and vases, for some mark of identification, for something that might once conceivably have belonged to Harvey Merrick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他痛苦地查看着墨绿色布鲁塞尔厚绒毯上那些手绘瓷片、瓷板、瓷瓶，搜寻某种能够说明曾经属于哈维·梅里克的证据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not until he recognized his friend in the crayon portrait of a little boy in kilts and curls hanging above the piano that he felt willing to let any of these people approach the coffin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他终于在挂在钢琴上方的蜡笔肖像画中辨认出了那个留卷发，穿苏格兰短裙的小男孩就是他的朋友，他这时候才愿意让人接近灵柩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Take the lid off, Mr. Thompson; let me see my boy's face," wailed the elder woman between her sobs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“把盖子揭开，汤普森先生，让我看看儿子的脸吧。”老妇人一边抽泣一边哀号着说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This time Steavens looked fearfully, almost beseechingly into her face, red and swollen under its masses of strong, black, shiny hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此时，斯特文斯才敢颤颤惊惊地，近乎哀求般地看了一眼她那又浓又密、乌黑发亮的头发下面的又红又肿的脸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He flushed, dropped his eyes, and then, almost incredulously, looked again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他满面绯红，双目下垂，接着又用几乎怀疑的眼光再看了一眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a kind of power about her face--a kind of brutal handsomeness, even, but it was scarred and furrowed by violence, and so colored and coarsened by fiercer passions that grief seemed never to have laid a gentle finger there. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她脸上有一种力量——一种粗犷的俊俏；即便如此，那俊俏却被狂野刻上了一道道疤痕和皱纹，被更加狂暴的情绪渲染得如此腥红，扭曲得如此粗糙，仿佛悲伤从来没有在她的脸上留过情面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The long nose was distended and knobbed at the end, and there were deep lines on either side of it; her heavy, black brows almost met across her forehead; her teeth were large and square and set far apart--teeth that could tear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的长鼻子胀成了一个疙瘩，两边是深深地皱纹；两道浓黑的眉毛几乎贯通成一条直线；牙齿又大又方，缝隙很宽——能够撕咬的牙齿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She filled the room; the men were obliterated, seemed tossed about like twigs in an angry water, and even Steavens felt himself being drawn into the whirlpool.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的悲伤填满了大厅，人们像是激流冲击的细枝，淹没在她的哀号声里；即使是斯特文斯，也感觉被卷进了这场漩涡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The daughter--the tall, rawboned woman in crepe, with a mourning comb in her hair which curiously lengthened her long face sat stiffly upon the sofa, her hands, conspicuous for their large knuckles, folded in her lap, her mouth and eyes drawn down, solemnly awaiting the opening of the coffin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女儿——头上的祭梳把长脸拉得更长、身着黑纱、骨瘦如柴的高个女人，僵直地坐在沙发里，骨节粗大的双手叠放在腿上，抿紧嘴唇，闭紧眼睛，严肃地等待着揭开棺盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Near the door stood a mulatto woman, evidently a servant in the house, with a timid bearing and an emaciated face pitifully sad and gentle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>门边站着一个混血女人，显然是家中的女佣，她神态怯懦，脸色憔悴，流露出哀伤的心情和柔和的性格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was weeping silently, the corner of her calico apron lifted to her eyes, occasionally suppressing a long, quivering sob. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在默默地流泪，用印花布围裙的一角擦拭着眼泪，不时地强忍住一声长长的、颤颤的呜咽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Steavens walked over and stood beside her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>斯特文斯走过去站在她身旁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feeble steps were heard on the stairs, and an old man, tall and frail, odorous of pipe smoke, with shaggy, unkept gray hair and a dingy beard, tobacco stained about the mouth, entered uncertainly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼梯上响起了绵软无力的脚步声，一个病怏怏、浑身烟臭、满嘴烟渍的高个子老头儿犹犹豫豫地走了进来；他斑白的头发蓬松凌乱，熏黄的胡须龌龊不堪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He went slowly up to the coffin and stood, rolling a blue cotton handkerchief between his hands, seeming so pained and embarrassed by his wife's orgy of grief that he had no consciousness of anything else.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他缓慢地走到灵柩前，站在那里，两手搓着一张蓝色手巾，似乎妻子肆无忌惮的发泄使他伤痛欲绝、无地自容，以至于变得麻木不仁了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There, there, Annie, dear, don't take on so," he quavered timidly, putting out a shaking hand and awkwardly patting her elbow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好了，好了，安妮，亲爱的，别那么激动。”他怯怯地哆嗦着说，伸出一只颤巍巍的手，笨拙地拍拍她的胳膊肘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She turned with a cry and sank upon his shoulder with such violence that he tottered a little. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她扭过身子，大哭一声，猛然伏倒在他的肩上，使他踉跄了几步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did not even glance toward the coffin, but continued to look at her with a dull, frightened, appealing expression, as a spaniel looks at the whip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有朝灵柩看一眼，而是继续用一种迟钝、恐惧、祈求的神情望着她，犹如一条望着鞭子的狗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His sunken cheeks slowly reddened and burned with miserable shame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他羞愧万分，凹陷的面颊上慢慢地透出了红色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When his wife rushed from the room her daughter strode after her with set lips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的妻子冲出屋外，女儿绷着嘴唇追了出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The servant stole up to the coffin, bent over it for a moment, and then slipped away to the kitchen, leaving Steavens, the lawyer, and the father to themselves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女佣偷偷移步到灵柩边，俯身看了一会儿，然后溜到厨房去了，大厅里只剩下斯特文斯，律师，和死者的父亲。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

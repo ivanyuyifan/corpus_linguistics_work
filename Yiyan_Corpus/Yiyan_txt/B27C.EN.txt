@@ -1,0 +1,18 @@
+The Age of the Robot Worker Will Be Worse for Men
+Many economists and technologists believe the world is on the brink of a new industrial revolution, in which advances in the field of artificial intelligence will obsolete human labor at an unforgiving pace.
+Two Oxford researchers recently analyzed the skills required for more than 700 different occupations to determine how many of them would be susceptible to automation in the near future, and the news was not good:
+They concluded that machines are likely to take over 47 percent of today¡¯s jobs within a few decades.
+This is a dire prediction, but one whose consequences will not fall upon society evenly.
+A close look at the data reveals a surprising pattern:
+The jobs performed primarily by women are relatively safe, while those typically performed by men are at risk.
+It should come as no surprise that despite progress on equality in the labor force, many common professions exhibit a high degree of gender bias.
+For instance, of the 3 million truck drivers in the U.S., more than 95 percent are men; of the nearly 3 million secretaries and administrative assistants, more than 95 percent are women.
+Autonomous vehicles are a not-too-distant possibility, and when they arrive, those drivers¡¯ jobs will evaporate; office-support workers suffer no such imminent threat.
+This pattern holds for many of the most gender-biased occupations.
+Men hold 97 percent of the 2.5 million U.S. construction and carpentry jobs.
+The Oxford study estimates that these male workers stand more than a 70 percent chance of being replaced by robotic workers.
+By contrast, women hold 93 percent of the registered nurse positions. Their risk of obsolescence is vanishingly small: .009 percent.
+What is causing this pattern?
+The skills exhibited by the coming wave of intelligent machines are better suited to occupations currently dominated by men.
+Many of the jobs held by men involve perception and manipulation, often in conjunction with physical exertion, such as swinging a hammer or trimming trees.
+The latest mobile robots combine advanced-sensory systems with dexterous manipulators to successfully perform these sorts of tasks.

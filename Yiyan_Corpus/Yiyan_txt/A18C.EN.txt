@@ -1,0 +1,23 @@
+A humanoid robot will visit space for the first time in September aboard the Space Shuttle Discovery, NASA announced Wednesday.
+The Robonaut 2, which was co-developed by NASA with General Motors, will serve as an assistant to the humans on board the International Space Station, using the same tools developed for astronauts.
+While plain old robots, such as the Mars Phoenix Lander, are a major part of NASA¡¯s operations, humanoid robots are a different story. 
+There is significant science-fiction appeal to the idea of humanoid robotic helpers for humans, but does the idea makes more than literary sense? Yes, said Jeffrey Hoffman, an MIT aerospace professor and former astronaut.
+¡°I¡¯m a very strong believer in human-robotic interaction. 
+You can build up a synergy to accomplish what neither humans nor robots could accomplish on their own,¡± Hoffman said. ¡°That¡¯s the inspiration behind Robonaut.¡±
+Many successful robots, like Kiva¡¯s product-distribution robots or the military¡¯s little helpers look nothing like humans. 
+And some space researchers like MIT historian and policy analyst David Mindell don¡¯t think humanoid robots are a very good idea. 
+But the International Space Station may be the perfect place for a humanoid robot.
+¡°It¡¯s incredibly important that Robonaut have a humanoid form factor because he¡¯s being sent into space, and it¡¯s incredibly expensive, and he has to do a lot to pay himself off,¡± said former roboticist Daniel Wilson (author of How to Build a Robot Army). ¡°It has to be able to pick up any tool that an astronaut could use and go outside.¡±
+Wilson argued that space was a uniquely good environment to showcase both the versatility of people and a general-purpose humanoid robot.
+¡°You can¡¯t bring a tool to solve every single problem. There¡¯s no way. Astronauts can¡¯t haul all that shit up there. It¡¯s like, ¡®I have a screwdriver and my brain, and I need to solve the problem, and I don¡¯t know what the problem is before I leave the planet,¡¯¡± Wilson said. ¡°You can use the humanoid to leverage all those tools.¡±
+James Hughes, who studies emerging technologies at Trinity University, suggested that humanoid robots may provide a nice middle ground between hardcore human spaceflight evangelists and those who would rather see robotic missions. 
+Most space watchers feel that the human programs are what drives interest and funding in exploration, while scientific investigation will be driven by robots.
+"A humanoid robot splits the difference. You get some of the advantages of both and hopefully it will be a nice compromise between the two,¡± said Hughes. ¡°But it may not satisfy either side.¡± 
+The Robonaut project began in 1996 and the first version of the bot came out in 2000. 
+In 2006, NASA¡¯s Dexterous Robotics Laboratory at Johnson Space Center teamed up with GM to design the new robot.
+¡°It is very safe to say that the United States and NASA possess the state of the art in robotic dexterity,¡± said Nic Radford, the Robonaut deputy project manager. ¡°The ideas are limitless.¡± 
+The bot will be phased into operation in three stages. First, it¡¯ll operate only from a fixed position inside the International Space Station. Then, it¡¯ll be allowed to move about inside, and finally within a few years, it will be allowed to do extravehicular activities.
+¡°It¡¯s really going more to an autonomous system,¡± Radford said. ¡°Right now, it has a task-based system built up of behaviors. 
+We program in a task and based on the sensory input that it receives, it¡¯s able to make decisions on what it¡¯s going to do next.¡±
+The opportunity to test on the robot in orbit has Radford, Wilson and Hoffman excited.
+¡°This has been a dream of our group for a long time,¡± Radford said.

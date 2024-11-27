@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200308T150729Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>INTERNATIONAL CONVENTION FOR THE REGULATION OF WHALING</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际捕鲸管制公约</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Governments whose duly authorised representatives have subscribed hereto,</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各国政府通过各自正式委派的代表签订本公约，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing the interest of the nations of the world in safeguarding for future generations the great natural resources represented by the whale stocks;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认为，为了保护鲸类及其后代丰富的天然资源，是全世界各国的利益；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Considering that the history of whaling has seen over-fishing of one area after another and of one species of whale after another to such a degree that it is essential to protect all species of whales from further over-fishing;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鉴于捕鲸历史表明，由于一区接着一区、一种鲸接着一种鲸地滥捕，因而有必要保护一切种类的鲸，以免继续滥捕；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing that the whale stocks are susceptible of natural increases if whaling is properly regulated, and that increases in the size of whale stocks will permit increases in the number of whales which may be captured without endangering these natural resources;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认为，如果适当地管理捕鲸渔业，自然就能增加鲸类资源，并认为增大了鲸类资源，能增加捕鲸数量而不致损害天然资源；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing that it is in the common interest to achieve the optimum level of whale stocks as rapidly as possible without causing widespread economic and nutritional distress;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认为，在不致引起广泛的经济上或营养上的不良影响下，尽速实现鲸类资源达到最适当的水平，是共同的利益；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing that in the course of achieving these objectives, whaling operations should be confined to those species best able to sustain exploitation in order to give an interval for recovery to certain species of whales now depleted in numbers;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>认为，在达到上述目的时期内，为了现已减少的对某种鲸类给予恢复时期，必须将捕鲸作业只限于可进行捕捞的那些种类；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Desiring to establish a system of international regulation for the whale fisheries to ensure proper and effective conservation and development of whale stocks on the basis of the principles embodied in the provisions of the International Agreement for the Regulation of Whaling, signed in London on 8th June, 1937, and the protocols to that Agreement signed in London on 24th June, 1938, and 26th November, 1945; and</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希望根据1937年6月8日在伦敦签订的国际捕鲸管理协定和1938年6月24日和1945年11月26日在伦敦签订的该协定的议定书中所规定的原则为基础，建立国际捕鲸管理制度，以保证鲸类适当的、有效的保护和鲸类资源的发展；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having decided to conclude a convention to provide for the proper conservation of whale stocks and thus make possible the orderly development of the whaling industry;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>决定签订关于谋求适当地保护鲸类并能使捕鲸渔业有秩序地发展的公约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have agreed as follows:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>兹协议如下：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article I</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This Convention includes the Schedule attached thereto which forms an integral part thereof. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、本公约包括其不可分割组成部分的附表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All references to "Convention" shall be understood as including the said Schedule either in its present terms or as amended in accordance with the provisions of Article V.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所称“公约”应理解为包括本附件的现有条款或根据第五条规定作出的修正条款。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This Convention applies to factory ships, land stations, and whale catchers under the jurisdiction of the Contracting Governments and to all waters in which whaling is prosecuted by such factory ships, land stations, and whale catchers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、本公约适用于各缔约政府管辖下的捕鲸母船、沿岸加工站和捕鲸船，以及这些捕鲸母船、沿岸加工站或捕鲸船进行作业的全部水域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article II</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As used in this Convention:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本公约使用的专词：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Factory ship" means a ship in which or on which whales are treated either wholly or in part;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、“捕鲸母船”指在船舱内或船舱面上对鲸进行全部或部分加工处理的船舶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Land station" means a factory on the land at which whales are treated whether wholly or in part;</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、“沿岸加工站”指设于岸上的工厂，对鲸进行全部或部分加工处理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Whale catcher" means a ship used for the purpose of hunting, taking, towing, holding on to, or scouting for whales; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、“捕鲸船”指用作追踪、捕获、拖曳、系缚或探察鲸为目的的船舶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Contracting Government" means any Government which has deposited an instrument of ratification or has given notice of adherence to this Convention.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、“缔约政府”指已提交本公约批准书或己通知参加本公约的任何政府。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article III</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第三条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Contracting Governments agree to establish an International Whaling Commission, hereinafter referred to as the Commission, to be composed of one member from each Contracting Government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、缔约政府同意设立国际捕鲸委员会（以下简称“委员会”），由各缔约政府各派一名委员组成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each member shall have one vote and may be accompanied by one or more experts and advisers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每一委员有一个投票权，并可配备一人或一人以上的专家和顾问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission shall elect from its own members a Chairman and Vice-Chairman and shall determine its own Rules of Procedure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、委员会从委员中选出主席一人和副主席一人，并制定委员会的程序规则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decisions of the Commission shall be taken by a simple majority of those members voting except that a three-fourths majority of those members voting shall be required for action in pursuance of Article V. The Rules of Procedure may provide for decisions otherwise than at meetings of the Commission.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>委员会的决定，经有投票权的委员多数同意即算通过；但履行第五条的规定，则须经有投票权的委员四分之三的多数同意；程序规则可在委员会会议上通过，也可采取其他方式通过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission may appoint its own Secretary and staff.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、委员会得任命秘书长和工作人员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission may set up, from among its own members and experts or advisers, such committees as it considers desirable to perform such functions as it may authorize.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、委员会为了执行其职权范围内的任务，可设立其所希望设立的小委员会，并由委员会的委员和专家或顾问组成之。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The expenses of each member of the Commission and of his experts and advisers shall be determined and paid by his own Government.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五、委员会的委员、专家和顾问的费用，由各自政府来决定并支付。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing that specialized agencies related to the United Nations will be concerned with the conservation and development of whale fisheries and the products arising therefrom and desiring to avoid duplication of functions, the Contracting Governments will consult among themselves within two years after the coming into force of this Convention to decide whether the Commission shall be brought within the framework of a specialized agency related to the United Nations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六、认为联合国专门机构也关心保护和发展捕鲸业及其产品，并希望避免其任务的重复，缔约政府为了决定是否需要使委员会参加联合国的一个专门机构，待本公约生效后两年内将相互协商。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the meantime the Government of the United Kingdom of Great Britain and Northern Ireland shall arrange, in consultation with the other Contracting Governments, to convene the first meeting of the Commission, and shall initiate the consultation referred to in paragraph 6 above.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>七、在上述期间内，大不列颠及北爱尔兰联合王国政府和其他缔约政府协商，商定召集委员会的第一次会议，并磋商上述第六款的协议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Subsequent meetings of the Commission shall be convened as the Commission may determine.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>八、委员会以后的会议，根据委员会决定而召集。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article IV</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第四条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission may either in collaboration with or through independent agencies of the Contracting Governments or other public or private agencies, establishments, or organizations, or independently; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、委员会可会同或通过缔约政府的独立机关或其他公私机关、组织或团体共同或单独进行下列工作：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) encourage, recommend, or if necessary, organize studies and investigations relating to whales and whaling; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1、鼓励、建议或在必要时组织有关鲸和捕鲸的研究和调查；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b)collect and analyze statistical information concerning the current condition and trend of the whale stocks and the effects of whaling activities thereon; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2、收集和分析有关鲸类资源的现状和趋势，以及关于捕鲸活动对其影响等方面的统计资料；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(c)study, appraise, and disseminate information concerning methods of maintaining and increasing the populations of whale stocks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3、研究、审查和推广有关维持和增加鲸类资源的数量的方法的资料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission shall arrange for the publication of reports of its activities, and it may publish independently or in collaboration with the International Bureau for Whaling Statistics at Sandefjord in Norway and other organizations and agencies such reports as it deems appropriate, as well as statistical, scientific, and other pertinent information relating to whales and whaling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、委员会应出版工作报告。委员会认为适当的报告以及有关鲸和捕鲸的统计方面、科学方面及其他适当资料，可由委员会单独出版或与设在挪威散纳菲尤尔（Sandefjord）的国际捕鲸统计局合作出版，或与其他团体、机关合作出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article V</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第五条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission may amend from time to time the provisions of the Schedule by adopting regulations with respect to the conservation and utilization of whale resources, fixing </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、委员会得依据通过关于鲸类资源的保护和利用规则、就以下各点得随时修改附件的规定；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) protected and unprotected species; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1、受保护的和不受保护的鲸的种类；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b) open and closed seasons; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2、解禁期和禁渔期；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(c) open and closed waters, including the designation of sanctuary areas; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3、解禁水域和禁渔水域（包括保护区的指定）；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(d) size limits for each species; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4、各种鲸的准捕大小的限制；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(e) time, methods, and intensity of whaling (including the maximum catch of whales to be taken in any one season); </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5、捕鲸的时期、方法和强度（包括一个渔期内鲸的最大产量）；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(f) types and specifications of gear and apparatus and appliances which may be used; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6、所使用渔具、仪器和设备的类型和规格说明书；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(g) methods of measurement; and </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7、测定方法；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(h) catch returns and other statistical and biological records.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8、捕鲸报告及其他统计方面和生物学方面的记录。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These amendments of the Schedule </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、附件的上述修正为：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) shall be such as are necessary to carry out the objectives and purposes of this Convention and to provide for the conservation, development, and optimum utilization of the whale resources; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1、应该是为了执行本公约目的和任务，并为了谋求鲸类资源的保护、发展和最适当的利用上所必需者；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b) shall be based on scientific findings; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2、应该以科学的判断为基础；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(c) shall not involve restrictions on the number or nationality of factory ships or land stations, nor allocate specific quotas to any factory ship or land station or to any group of factory ships or land stations; and </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3、不应导致限制捕鲸母船或沿岸加工站的数量或对国籍的限制，或者对任何某艘捕鲸母船或沿岸加工站，或者任何若干捕鲸母船或沿岸加工站规定特殊的限额；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(d) shall take into consideration the interests of the consumers of whale products and the whaling industry.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4、应考虑到捕鲸业者和鲸类产品消费者的利益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each of such amendments shall become effective with respect to the Contracting Governments ninety days following notification of the amendment by the Commission to each of the Contracting Governments, except that </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、上述各项修正，在委员会将此修正通知各缔约政府后的九十天即对缔约政府生效，但
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) if any Government presents to the Commission objection to any amendment prior to the expiration of this ninety-day period, the amendment shall not become effective with respect to any of the Governments for an additional ninety days; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1、如果任何政府在满九十天的时期之前，对委员会的修正提出异议时，则此项修正在延长的九十天内对任何缔约政府不生效；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b) thereupon, any other Contracting Government may present objection to the amendment at any time prior to the expiration of the additional ninety-day period, or before the expiration of thirty days from the date of receipt of the last objection received during such additional ninety-day period, whichever date shall be the later; and </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2、因此，任何其他缔约政府在延长的九十天期满之前，或在延长的九十天期内收到最后一个异议之日起满三十天期中（最后一天之前）均得对此修正提出异议；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(c) thereafter, the amendment shall become effective with respect to all Contracting Governments which have not presented objection but shall not become effective with respect to any Government which has so objected until such date as the objection is withdrawn.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3、此后，该修正对未提出异议的一切缔约政府即行生效，而对提出异议的任何政府在未撤消其异议之前不生效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission shall notify each Contracting Government immediately upon receipt of each objection and withdrawal and each Contracting Government shall acknowledge receipt of all notifications of amendments, objections, and withdrawals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>委员会在接到每一个异议或撤消异议的意见后，应立即通知各缔约政府，各缔约政府应表示已收到关于修正、异议和撤消异议的一切通知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No amendments shall become effective before 1st July, 1949.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、任何修正，在1949年7月1日之前均不生效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article VI</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第六条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Commission may from time to time make recommendations to any or all Contracting Governments on any matters which relate to whales or whaling and to the objectives and purposes of this Convention.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>委员会可以对有关鲸或捕鲸和有关本公约目的和任务方面的事项，随时向任何或所有缔约政府提出建议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article VII</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第七条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Contracting Government shall ensure prompt transmission to the International Bureau for Whaling Statistics at Sandefjord in Norway, or to such other body as the Commission may designate, of notifications and statistical and other information required by this Convention in such form and manner as may be prescribed by the Commission.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各缔约政府应保证将本公约所要求的通告、统计资料和其他资料，按委员会规定的格式和方法，迅速送交挪威散纳菲尤尔的国际捕鲸统计局或委员会指定的其他团体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article VIII</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第八条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Notwithstanding anything contained in this Convention any Contracting Government may grant to any of its nationals a special permit authorizing that national to kill, take and treat whales for purposes of scientific research subject to such restrictions as to number and subject to such other conditions as the Contracting Government thinks fit, and the killing, taking, and treating of whales in accordance with the provisions of this Article shall be exempt from the operation of this Convention.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、尽管有本公约的规定，缔约政府对本国国民为科学研究的目的而对鲸进行捕获、击杀和加工处理，可按该政府认为适当的限制数量，得发给特别许可证。按本条款的规定对鲸的捕获、击杀和加工处理，均不受本公约的约束。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Contracting Government shall report at once to the Commission all such authorizations which it has granted. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各缔约政府应将所有发出的上述的特别许可证迅速通知委员会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Contracting Government may at any time revoke any such special permit which it has granted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>各缔约政府可在任何时期取消其发出的上述特别许可证。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any whales taken under these special permits shall so far as practicable be processed and the proceeds shall be dealt with in accordance with directions issued by the Government by which the permit was granted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、根据上述特别许可证而捕获的鲸，应按实际可能尽量予以加工一切操作工序按照发给许可证政府的规定进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Contracting Government shall transmit to such body as may be designated by the Commission, in so far as practicable, and at intervals of not more than one year, scientific information available to that Government with respect to whales and whaling, including the results of research conducted pursuant to paragraph 1 of this Article and to Article IV.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、各缔约政府应尽可能将该政府收到的有关鲸和捕鲸的科学资料，包括本条第一款和第四条进行的调查研究结果，寄送委员会指定的机构，各次寄送的间隔时间不应超过一年。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recognizing that continuous collection and analysis of biological data in connection with the operations of factory ships and land stations are indispensable to sound and constructive management of the whale fisheries, the Contracting Governments will take all practicable measures to obtain such data.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、缔约政府认为，为了捕鲸业的健全和合理的管理，必须不断地收集并分析有关母船和沿岸加工站作业的生物学资料，并应采取一切可能的措施以获得这种资料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article IX</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第九条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Contracting Government shall take appropriate measures to ensure the application of the provisions of this Convention and the punishment of infractions against the said provisions in operations carried out by persons or by vessels under its jurisdiction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、各缔约政府应采取适当措施，以保证贯彻本公约的规定，并对该缔约政府管辖下的人员或船舶在作业中违反本公约规定时给予处罚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No bonus or other remuneration calculated with relation to the results of their work shall be paid to the gunners and crews of whale catchers in respect of any whales the taking of which is forbidden by this Convention.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、对本公约禁止捕获的鲸，不得计算为捕鲸船炮手或船员的工作成绩以支付奖金或其他报酬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Prosecution for infractions against or contraventions of this Convention shall be instituted by the Government having jurisdiction over the offence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、对侵犯或违反本公约者，由其所属管辖权的政府加以追究起诉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each Contracting Government shall transmit to the Commission full details of each infraction of the provisions of this Convention by persons or vessels under the jurisdiction of that Government as reported by its inspectors.This information shall include a statement of measures taken for dealing with the infraction and of penalties imposed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、各缔约政府应将其管辖下的人员或违反本公约规定的各次完全而详尽情况，正确地按照该政府监察员的报告向委员会提出详尽的报告，此项报告应包括因违反公约而采取的措施和处罚情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article X</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第十条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This Convention shall be ratified and the instruments of ratifications shall be deposited with the Government of the United States of America.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一、本公约须经批准，批准书交由美利坚合众国政府保存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any Government which has not signed this Convention may adhere thereto after it enters into force by a notification in writing to the Government of the United States of America.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二、凡未参加签订本公约的政府，在本公约生效后，得以书面通知美利坚合众国政府而参加本公约。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Government of the United States of America shall inform all other signatory Governments and all adhering Governments of all ratifications deposited and adherences received.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三、美利坚合众国政府应将所有收到的批准书和参加公约的通知书，通知所有签订公约的政府和参加公约的政府。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This Convention shall, when instruments of ratification have been deposited by at least six signatory Governments, which shall include the Governments of the Netherlands, Norway, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, enter into force with respect to those Governments and shall enter into force with respect to each Government which subsequently ratifies or adheres on the date of the deposit of its instrument of ratification or the receipt of its notification of adherence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四、本公约应在收到至少六个签约政府的批准书时，其中包括荷兰、挪威、苏维埃社会主义共和国联盟、大不列颠及北爱尔兰联合王国和美利坚合众国，即对各该政府生效。对以后批准或参加的各政府，在提交此项批准书之日起或收到参加公约通知书之日起生效。 　　</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The provisions of the Schedule shall not apply prior to 1st July, 1948. Amendments to the Schedule adopted pursuant to Article V shall not apply prior to 1st July, 1949.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五、附件的规则，在1948年7月1日之前无效。按照第五条规定而对附件的修正，在1949年7月1日之前无效。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Article XI</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第十一条</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any Contracting Government may withdraw from this Convention on 30th June, of any year by giving notice on or before 1st January, of the same year to the depository Government, which upon receipt of such a notice shall at once communicate it to the other Contracting Governments. Any other Contracting Government may, in like manner, within one month of the receipt of a copy of such a notice from the depository Government give notice of withdrawal, so that the Convention shall cease to be in force on 30th June, of the same year with respect to the Government giving such notice of withdrawal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何缔约政府可于任何一年的6月30日退出本公约，但应于同年1月1日以前向保存批准书的政府提出声明。保存批准书政府收到此项声明后，应立即通知其他缔约政府。其他缔约政府在收到保存批准书政府转达上项声明的副本后一个月以内，也可提出退出公约的声明。在这种场合下，则公约对后者提出退约声明的政府也在同年6月30日起失效。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

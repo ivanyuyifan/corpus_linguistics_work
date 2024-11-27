@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200203T085512Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The War on ISIS: What’s the Endgame?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>ISIS战争：如何收拾残局</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In August 1941, Winston Churchill and Franklin Roosevelt met off the coast of Newfoundland to outline a shared vision for the post-World War II era. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1941年八月，温斯顿 丘吉尔与富兰克林 罗斯福在纽芬兰海岸离岸会见共同勾画二战后的世界蓝图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The British prime minister was so thrilled to see the American president that, in the words of one official, “You’d have thought he was being carried up into the heavens to meet God.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国首相对与美国总统的会面激动不已。大西洋宪章引用一位官员的表述，“你不禁联想，他就像被带往天堂与上帝会面”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two countries issued the Atlantic Charter, which sought “a better future for the world” through the principles of self-determination, collective security, and free trade. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个国家声明通过民族自决，共同安全以及自由贸易，”为世界寻求一个更美好的未来”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States hadn’t even entered the war yet, but it was already focused on winning the peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经管美国当时尚未加入战争，但已经开始关注赢取和平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The endgame was not just the defeat of the Axis powers, but also the creation of a stable global order, in which World War II would be the last world war.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收拾残局不仅是要击败轴心国的力量，而且要建立一个稳定的全球秩序以保证二次世界大战成为最后一次世界战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Today, the United States is contemplating a major expansion of its military campaign against ISIS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天，美国正仔细考虑扩大对ISIS的军事行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Driven partly by faith that the end times are imminent, ISIS has stepped up expeditionary attacks outside its caliphate, including the bombing of a Russian jet over Egypt, a suicide attack in Lebanon, and coordinated assaults in Paris.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>部分基于信仰世界末日即将来临，ISIS正在加强对非伊斯兰领域国家的恐怖袭击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the struggle against ISIS, however, far from preparing for the postwar world, U.S. politicians haven’t shown much interest in long-term thinking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，对于ISIS的战争，战后的世界远未做好准备，对于此问题的长远考量，美国的政客们从未表现出多少兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, the debate is fixated on immediate tactical questions, or which hill to capture. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对的，讨论只局限于一些诸如，哪座山头该被攻取之类的直接的战术问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who is planning for a better peace?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有谁在考虑更美好的和平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Obama administration has neglected the endgame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥巴马政府一直忽视收拾残局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In theory, the U.S. plan is to “degrade and destroy” ISIS through air strikes and aid to local troops on the ground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理论上美国的计划是用空中打击以及援助当地武装“削弱与破坏”ISIS的力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the White House hasn’t mapped out what the path to strategic success might look like, or even the desired end state. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但白宫并没有谋划出哪条路径看上去可以通向战略成功，或者甚至或有可能结束当前局面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, to a large degree, President Obama has been improvising. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>代替的是，奥巴马总统的即兴表演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last spring, former Defense Secretary Robert Gates concluded: “We’re basically sort of playing this day to day.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>去年春天前国防部站罗伯特盖茨如此结论“基本上我们在日复一日的玩这种把戏。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the Paris attacks, former Secretary of State Hillary Clinton offered a veiled critique of the president: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>巴黎恐怖袭击后前国务卿希拉里克林顿也对总统提出了含蓄的批评：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“It’s time to begin a new phase and intensify and broaden our efforts to smash the would-be caliphate.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“已经是时候以更强力与广泛的手段来开启新局面，摧毁预谋建立的伊斯兰国。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Officials in the White House seem to fear that too much long-range planning could land the United States in yet another quagmire. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但白宫的官员似乎害怕长期的行动计划会使美国陷入另一个类似伊拉克的困境。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the administration publicly outlined a credible plan to defeat ISIS, it might commit the U.S. to a far greater investment of resources than is currently allocated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果当局公开宣布一个可以击败ISIS的计划，将可能使美国投入远超当前可以支配的资源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Obama himself appears to be deeply ambivalent about the goal of destroying ISIS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于摧毁ISIS这一目标，奥巴马自己也表现出深深的矛盾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chastened by the Iraq War, the president is particularly wary of being drawn into a costly campaign with uncertain odds of success. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经过伊拉克战争的教训，被拖入另一场耗资巨大且胜算难测的战争，总统在这个问题上非常谨慎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, he emphasizes restricting the growth of ISIS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进而，他强调限制ISIS势力的增长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just before the Paris attacks, Obama told ABC News, “From the start our goal has been first to contain, and we have contained them.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就在巴黎遇袭前，奥巴马告诉美国广播新闻网，“从一开始，我们的目标是牵制，并且我们已经牵制了他们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The logic seems to be: focus on the here and now, avoid sweeping plans, stay nimble, and look for new opportunities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一逻辑似乎是：聚焦于当下此时，避免一个全面的计划，保持机敏并寻找新的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It’s precisely because Obama sees ISIS as a long-term problem with no easy solution that he doesn’t want to think too far ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显而易见，奥巴马视ISIS为一个长期的问题，并无容易的解决方案，因而他不想太提前设定一个长期计划。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep the endgame murky and the options open—and expect to hand the problem over to the next guy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保持一个模糊的布局并且开放选项-以及把这个问题交接给继任者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Republicans, meanwhile, have also downplayed the endgame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，共和党人同样对于如何收拾残局不感兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>GOP presidential candidates are fixated on the immediate step of hammering ISIS, rather than the ultimate goal of creating a durable order in the Middle East. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>共和党的总统候选人专注于给ISIS当前打击ISIS的步骤而不是在中东建立持久秩序这一最终目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jeb Bush has suggested that the United States declare war on ISIS, set up no-fly zones and safe zones in Syria, and embed U.S. troops within the Iraqi military. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杰布 布什-美国应该向ISIS宣战，设立禁飞区，并向伊拉克武装援助派遣美国军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He has also argued for the United States to battle Syrian President Bashar al-Assad’s regime: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并且他一直在争取美国与叙利亚总统巴沙尔 阿萨德的政权交战：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“We need to build a coalition that can fight both Assad and ISIS and give people safe haven.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们需要建立一个联合阵营同时与阿萨德与ISIS交战，带给人民和平的庇护。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lindsey Graham has called for sending 10,000 U.S. ground troops to Iraq and Syria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>林赛 格雷厄姆呼吁派遣10,000地面部队到伊拉克以及叙利亚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ted Cruz has pressed for more air strikes and for rushing equipment to the Kurds, “our boots on the ground.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特德 克鲁兹要求更多的空中打击，并输送装备给库尔德人。“地面上要有我们的军队。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Donald Trump has declared: “Bomb the shit outta them.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>唐纳德·特朗普宣称：“把他们炸出屎来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These hawks may be neglecting the endgame because they fear that long-term thinking will deter the United States from escalating the campaign against ISIS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但正如前美国国务卿亨利 基辛格在他的著作中提到“对政策的考验在于它如何结束，而不在于它如何开始。”对于如何收拾残局，或许鹰派们忽略这一点，是因为他们害怕长期战略考量会阻止美国逐步升级对ISIS的军事行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are eager to obliterate the Islamic State, and they don’t want to be distracted by tough questions about, say, how Syria can be reconstructed from the ruins of war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们如此热切的想要抹去伊斯兰国，以致他们害怕被艰难的问题困扰的心烦意乱。即，叙利亚如何在战争的废墟中重建。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Look too hard before we leap, and we might decide not to jump at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个障碍太难越过了，所以我们压根就不考虑它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Improvisation might seem like a smart idea given the vagaries of war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>应对变幻莫测的战争，即时战略似乎一个聪明的策略。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, you can’t script a military campaign. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，对于战争你无法预设剧本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conflicts are complex and fluid, especially against a metamorphosing enemy like the terrorist-insurgent-state that is ISIS. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冲突是复杂的不断演变的，特别是面对恐怖主义者与叛乱者的国家，那就是ISIS，形态多变的敌人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It’s tough to predict events next week, never mind next year. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于下星期的形势都难以预测，就更不要提下一年如何。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But thinking through the endgame is a critical part of any wartime strategy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但后时期布局对于任何战争策略都是至关重要的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Prussian military theorist Carl von Clausewitz advised against taking the first step in war “without considering the last.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>引用普鲁士军事理论家卡尔 冯 克劳塞维茨的话，“步入战争不用考虑结局。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And former U.S. Secretary of State Henry Kissinger wrote, “The test of policy is how it ends, not how it begins.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但同时前国务卿亨利基辛格写到“对政策的考验在于它如何结束，而不在于它如何开始。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A short-term mentality can be catastrophic during war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争时期，短视心理是灾难性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the fall of 1941, as Churchill and FDR sketched the postwar global architecture, Japanese officials debated whether to launch a surprise attack against the United States. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1941年秋，正当丘吉尔与罗斯福梗概战后全球架构时，日本当局在讨论对美国发动突然袭击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather than consider what a prolonged campaign versus the most powerful country in the world might look like, Japanese Prime Minister Hideki Tojo urged a leap of faith. “There are times when we must have the courage to do extraordinary things—like jumping, with eyes closed, off the veranda of the Kiyomizu Temple,” he said, in reference to a Buddhist shrine in Kyoto that juts out over a steep cliff edge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“有时我们必须鼓起勇气做出非凡之事- 像闭上眼睛跳出清水寺的廊台。”那个佛教圣地位于京都一处陡峭悬崖的突出边缘上。当时日本首相东条英机鼓励这一关于跳跃的信仰，而不是考虑将与可能是世界最强大的国家陷入旷日持久的战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four years later, every major Japanese city had been reduced to ashes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四年之后，每一个日本的主要城市都被烧成了灰烬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, in 2003, the United States invaded Iraq with little heed to the long-term consequences. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>类似的，美国于2003年入侵伊拉克是没有基于长期战略结果的考量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The George W. Bush administration was focused on the proximate goal of toppling Saddam Hussein, and largely ignored the question of how to stabilize Iraq afterwards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乔治 沃克 布什政府集中于推翻萨达姆 侯赛因这一直接目标，并且很大程度上忽略了随后而来的稳定伊拉克局势的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tommy Franks, the head of U.S. Central Command, captured this mentality by telling the deputy secretary of defense: “You pay attention to the day after, I’ll pay attention to the day of.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国中央司令部的首脑汤米弗兰克将军对国防部副部长说“我所关注的阶段之后才是你所需要关注的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But none of the key players paid enough attention to the day after. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是没有一个关键角色对后期阶段给予了足够重视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no plan to win the peace, and U.S. soldiers were left to improvise desperately as Iraq collapsed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有赢得和平的任何计划，当伊拉克崩塌时，美国士兵被留下来绝望的即兴表演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the endgame in the war against ISIS?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么是ISIS战争的收官布局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First of all, suppressing or defeating ISIS is not the goal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，目的不是镇压或击败ISIS。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather, the aim is to create a secure Iraq and Syria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在伊拉克和叙利亚确立安全才是目的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>War is not about destroying the enemy; it’s about building a better peace so that the threat doesn’t reemerge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争不是去摧毁敌人，而是更好的建立和平从而保证同样的威胁不会再度出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There’s no point in toppling a regime if the result is chaos and anarchy, whether that regime is the Taliban in Kabul, Saddam in Baghdad, Qaddafi in Tripoli—or ISIS in Raqqa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管是喀布尔的塔利班，巴格达的萨达姆，的黎波里的卡扎菲- 或者拉卡省的ISIS，如果推翻一个政权的结构是混乱与无政府主义那不会有任何意义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You can’t march away from smoking ruins and call it a victory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你不能开走军队只留下冒烟的废墟然后就宣称胜利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, ISIS’s predecessor was seriously weakened during the U.S. troop surge in Iraq in 2007. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，2007年，美军攻入伊拉克时，ISIS的前辈已被重创。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the insurgents made a comeback due to sectarianism and misrule in Baghdad.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但教派冲突以及巴格达的暴政帮助叛乱者卷土重来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who, for example, will govern the territory captured from ISIS? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举例说明，谁将管理从ISIS手中夺回的领土？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You break the caliphate, you own the caliphate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你打破了一个阿拉伯政权，你就拥有了一个阿拉伯政权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stabilizing Syria and Iraq is a truly daunting task. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>稳定叙利亚与伊拉克的局势是令人畏惧的任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may require a decade-long humanitarian and peacekeeping effort. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可能需要十年的人道主义援助以及维和行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The United States will need to play a key role in this endeavor, which will very likely involve a commitment of American ground troops. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这一努力中美国将扮演关键角色，这似乎必然使美国地面部队承担义务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If ISIS is pushed out of key cities, the insurgents won’t sign surrender documents like Japan did in 1945. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果ISIS被驱逐出主要城市，这些叛乱者不会签署投降文件，如同1945年日本所做的那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, they’ll wage a brutal campaign of terrorism to reclaim the caliphate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们反而会在阿拉伯地区发动残酷的恐怖主义战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are those fighting ISIS prepared for a wave of suicide bombings, kidnappings, and torture? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些战斗着的ISIS正准备新一波的自杀炸弹攻击，绑架以及酷刑吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is the international community ready to invest billions of dollars in humanitarian aid and economic development? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际社会是否为战争的人道主义救援与战后经济发展准备好所需的数十亿美元经费？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How will the U.S. and its allies win over Sunni Muslims to their cause rather than ISIS’s?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国以及盟友如何赢得逊尼派而不使其投向ISIS？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It’s tempting to leave tough questions like these for later, by winning the war first, and then—and only then—dealing with the stabilization phase. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个诱人的方案是，暂时搁置这些艰难的问题，首先赢得战争，然后，并且只有到那时候来解决稳定局势的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the United States tried this approach before and it failed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但美国曾经尽力这样做过，并且以失败告终。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Back in March 2003, Donald Rumsfeld, the secretary of defense, told Jay Garner, who was in charge of postwar reconstruction in Iraq: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到2003年三月，杰伊 康纳管理伊拉克战后重建工作，引述时任国防部长拉姆斯菲尔德的话：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“I haven’t given you the time I should have given you. Quite frankly, I just have been so engulfed in the war that I just didn’t have time to focus on everything that you’re doing.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我没有给予你应给予的时间，我已经完全被战争吞没，没有一点时间来关注你做的每件事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rumsfeld saw the stabilization of Iraq as separate from, and secondary to, “the war”—when this goal should have been the whole focus of the military plan. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这一目标需要军事计划全局关注时，拉姆斯菲尔德把稳定伊拉克局势视为另外的部分，是次要于战争的部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Similarly, Jeb Bush recently suggested that the United States achieve a “total victory” over ISIS, “and then you need to forge political consensus to create a stable Syria and a stable Iraq.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>类似，杰布 布什最近建议美国先要完全战胜ISIS，到那时你需要推进政治进程来建立一个稳定叙利亚和一个稳定的伊拉克。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Notice the “and then.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意“到那时”这一用词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shoot first, then worry about politics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>先开枪，然后再担心政治问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It’s also critical to consider the long-term consequences of today’s moves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对今日行动的长期影响的考量也十分关键。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Actions like inserting U.S. special forces into Syria or arming the Kurdish minority in Syria and Iraq create ripple effects that will alter the president’s room for maneuver in the months and years to come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诸如派遣特种部队进入叙利亚，武装叙利亚与伊拉克境内的库尔德少数族裔，此类行动会影响到未来数月乃至数年总统的军事部署。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A special-forces operative could be captured by insurgents, leading to a risky rescue mission or a politically costly prisoner exchange. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任何一次特种军事行动，人员都可能被叛乱者俘获，从而导致危险的营救任务或者政治代价昂贵的交换战俘。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arming the Kurds today could help lay the groundwork for a Kurdish state tomorrow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天对库尔德人的武装会为明天的库尔德国家奠定基础。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Tuesday, the potential for unintended consequences was vividly illustrated when Turkey shot down a Russian jet near the Syrian border, claiming that it crossed into Turkish territory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>周二，潜在因素所导致的意外结果生动的发表在土耳其宣布在临近土叙边境，击落了侵入其领空的俄罗斯战斗机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When assessing each option, officials need to ask not just, “Will it help defeat ISIS?” but also, “Will it help deliver long-term stability?”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当评估每一个选项时，官方不仅要考虑是否有助于击败ISIS,而且还要考虑这样做是否有助于带来长期的稳定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, for that matter, what does a secure Iraq and Syria even mean? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就此而言，安全的伊拉克与叙利亚意味着什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here, U.S. officials must be realistic about what is achievable. Americans tend to be idealistic, and often go to war with grandiose visions of building a beacon of freedom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国的理想主义的倾向，带着浮夸愿景，高举自由的火炬走进战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These illusions come crashing down due to ignorance of foreign cultures and local resistance to American dreams. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些幻想会因为忽略国家文化的不同以及当地对美国梦想的抵制而破碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Former German Chancellor Otto von Bismarck said that politics is the art of the possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前德国总理奥托·冯·俾斯麦曾经说过，政治是可能性的艺术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clausewitz said that war is a continuation of politics by other means. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>克劳塞维茨也曾讲过战争是政治以其它方式的延续。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It follows that war is the art of the possible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后者承接着前一句话的理念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Syria, the possible may come in the form of ugly stability, or an end state where ISIS and other radical jihadist groups are a manageable problem—to the point where the U.S. and other international forces can gradually be withdrawn from the region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在叙利亚，可能会形成一种丑陋的稳定局势，或者一种结局是ISIS以及其它激进的圣战者成为一种可以管理的麻烦—从而美国与其它国际部队可以逐步撤出该地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The scale of the destruction in Syria is so vast—with half the Syrian population injured, dead, or displaced—that the U.S. and its allies need to be pragmatic about any peace deal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>叙利亚的破坏规模如此巨大- 一半的叙利亚人口或死或伤或无家可归- 美国及其盟友要对任何可能达成的和平协议采取实用主义的态度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This means negotiating with all manner of insurgent groups, some of whom have committed atrocities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着与各种形式的叛乱者组织谈判，包括哪些犯有暴行的组织。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It means creating a national unity government in Damascus that will likely include elements of the regime and perhaps even Assad himself—at least for a transitional period. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着在大马士革建立包括现政权在内一个民族联合政府甚至包括阿萨德本人-至少在一个过渡时期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It means avoiding a repeat of the mistakes made in Iraq in 2003 by, for example, not suddenly disbanding the state military. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这意味着避免重复2003年在伊拉克所犯的错误，例如，突然废除国家武装力量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It means engineering a political settlement that will enlist Sunnis in the fight against ISIS while protecting the Alawite minority, to which the Assad family belongs, from potential reprisals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>意味着设计政治解决方案，征召逊尼派入伍参加与ISIS的战斗的同时保护阿拉维派少数族裔的权利，也包括阿萨德家族，免受潜在的报复威胁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Syria is only half the equation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>叙利亚问题只是方程解的一半。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After ISIS is eventually pushed out of Mosul and Ramadi, who will govern these Iraqi cities, which have been traumatized by months of jihadist rule? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经管ISIS最终会被驱逐出摩苏尔与拉马迪，他们也会控制其它伊拉克城市，那些城市已经在圣战法律的扭曲统治下数月之久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And here’s an even bigger question: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里一个更重要的问题是：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is the international community intent on protecting the current borders of Iraq and Syria, or is partition on the agenda?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际社会是否决心保护当前叙利亚与伊拉克边境，或者这样的任务是否存在于行动日程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even the best outcome in the Middle East won’t feel like victory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是中东局势取得了最好的结果也不要有胜利者的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We’re looking at months or years of battling ISIS, and then years or decades of stabilizing Syria and Iraq.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要考虑到累月经年与ISIS的战斗，与数年以致数十年稳定叙利亚与伊拉克的局面。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

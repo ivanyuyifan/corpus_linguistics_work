@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160828T025815Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ten Short Pieces</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亚历克斯·爱泼斯坦的十个超短篇小说</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Artist's Likeness Is Like an Artist</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.是艺术家就得像个艺术家的样子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This tale is rather old: Two painters wanted to see which of them could paint the painting that best imitated reality . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个故事相当古老了：两个画家想看看他们当中哪一个能画得最接近真实......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the painters painted the front of a house, and the illusion was so perfect, so exact, that at first his competitor believed he had lost, but then understood that he simply had to enter the painted house and hang the painting that he had painted on a wall inside.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一个画家画了房子的正面，而且视觉效果非常完美、精致，弄得他的对手起初还以为自己迷了路，不过他心照不宣，径直走进了那栋被画的房子，把他已经画好的那幅画挂在了里面的一面墙上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Angel Who Photographed God</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.给上帝拍照的天使</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who, these days, hasn't woken from a dream of murdering an angel? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这年月，谁还没有从谋杀一位天使的梦魇中醒来？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A real angel, sporting fancy wings that sparkle bright as snow, a heart in the shape of a Star of David, et cetera, et cetera. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一位真正的天使，搏动着璀璨如雪的幻想的翅膀，一颗状如大卫之星(1)般的心，等等，等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And with a dagger even, oof, such a pleasant twist! (Why a dagger, by the way, and not a rifle, for example? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手里还拿着匕首、钞票，一个如此惬意的转身！（顺便说一下，为什么是一把匕首，而不是一把来复枪什么的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Clearly a rifle is the weapon of cowards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>明摆着，来复枪是怂人的武器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An ice pick? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一把碎冰锥？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too exotic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太异国情调了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A flamethrower is just an attention-getter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一架火焰喷射器又太扎眼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even a harmonica, of course, can kill. But only in legends.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就连一把口琴也能杀人，可这只是传说而已。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And all for what? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一切都是为了什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For some album of boring photographs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了本无聊照片相册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And never mind boring- also proving nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>千万别在意“无聊””——这也证明不了什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sea, a sea, and another sea! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一张海的，一张海的，又是一张海的！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What was he thinking, this winged creature, only photographing the sea? Here, for example, the last picture in the album- exactly the same as the photographs that preceded it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>喏，瞧瞧这相册里的最后一张照片——简直就和它前面的那张一模一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe with just one more look, careful, it's possible to identify that in the upper half of this photo we can see . . . what the hell- another sea. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不妨再看看，仔细鉴别一下：可能在这张照片的上半部分我们会看到......妈的——还是海！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And maybe in the lower half- sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许在下半部分——天空！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody can see in either of these two spaces the legs of some tiny figure, drowning, that entered the frame by mistake.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这两个空间的任意一个空间里，任何人都不会看到某个被误拍进画面的淹死的小人物的腿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Story in Which No Snow Will Fall </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.一个真实的故事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also in this story no snow will fall, the surrounding margins aren't wide enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个故事里，也绝不会有谎言，因为篇幅不够。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And in general, all I want to say is that sometimes it's worthwhile to go out into the hall without first peeking through the peephole, so as to run into the old man in the apartment across the way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>总之，我想要说的只是：当初没有透过窥视孔窥视，而是出门走进走廊，因而得以碰见路那边公寓里的那个老人，是对的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For fifty-three years he was married; now he doesn't even have someone to turn on the light for.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他结婚已经有五十三年了，可现在，他连一个为他开灯的人也没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gloss</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4.假象</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their love story ended many years ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的爱情故事许多年以前就结束了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He still writes her name as a solution to crossword puzzle clues of suitable length. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还在写她的名字，当作是解开纵横字谜的一个字符长度匹配的线索。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two words: four letters and five letters. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两个词：一个是四个字母，一个是五个字母。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, at a bus stop, he thinks he recognizes her waiting for a bus across the street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次，在公共汽车站，他思忖：他认识她的时候，她正在街对面等公共汽车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hand trembles when he takes his new book of crossword puzzles from his bag. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他手抖着，从袋子里拿出了他那本新的字谜书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He opens it to the first one and quickly finds a suitable clue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他打开书，翻到第一 个，很快找到了一个相匹配的提示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even afterward, on the bus, the trembling in his hand does not stop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至后来在公共汽车上，他的手还是抖个不停。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The tip of the pencil breaks against the bright paper.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>铅笔尖把那张亮白的纸弄得狼藉一片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Woman Who Dreamed of Imaginary Chansons</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5.梦见了梦幻曲的女人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She keeps his documents on the highest shelf of an old armoire in her bedroom, the room closest to the rain and at the same time farthest from the rain and from the dream in which she enters a store that sells record albums in a foreign city. The salesclerk tries to help her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把他的各种文件存放在她卧室里的一个旧大衣柜最高一层的隔板上，那个房间距雨最近，同时也离雨最远，离那场梦也最远，在那梦里，她走进一家在外国某城市销售录音专辑的商店，售货员问她想要买什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She remembers a sketch of a bridge on the cover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她提示说：封面上画的是一座桥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, he has never heard of the old chanson that she is looking for, which begins with the words "Love is a new stamp in a dead man's passport."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有，他从没有听说过她要找的那首老歌，歌词的开头是：“爱是一个死去的男人护照上的一记新印戳。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Edgar Allen Poe in Yiddish</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6.说意第绪语的埃德加·艾伦·坡</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, I have found no new evidence on Google as to the truth of this story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其间，在谷歌上，我还没有找到与这个故事的真相有关的任何新的证据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some months ago, when I was in New York, an old man wearing a beret sat down next to me on the subway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个月以前，那时我在纽约，地铁里，一个头戴贝雷帽的老人挨着我坐了下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He took his wallet out of his back pocket, examined something in one of the compartments, and returned the wallet to his pocket. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从裤子后面的裤兜里拿出他的皮夹子，检查其中一个夹层里面的东西，然后又把皮夹子放了回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After peeking at the book I was reading, he asked me in English if I was from Israel.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他瞄了一眼我正在读着的那本书之后，用英语问我：是不是以色列人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I recognized the letters," he laughed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我认的那上面的字”，他笑着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told me that in the 50s he had translated some stories of Edgar Allen Poe into Yiddish (he was particularly proud of his translation of "The Gold Bug"), but he couldn't find a publisher for his translations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉我说：五十年代他曾把埃德加·艾伦·坡（Edgar Allen Poe）的一些小说翻译成意第絮语（尤为他自己翻译的《金甲虫》感到自豪），但没能找到一家出版社出版他的译作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I told him that these days it would be easy to publish his translations on the Internet, his face lit up.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我告诉他说：这年月在互联网上发表他的译作应该是很容易的事情的时候，他的脸上放着异彩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My daughter can help me," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我女儿会帮我的，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She understands computers." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她懂电脑。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again he pulled his leather wallet from his pants pocket; maybe he meant to show me a picture of his daughter, but he again put it away.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他又把他的皮制的夹子从他的裤子兜里拽了出来；也许他是想让我瞧瞧他女儿的照片，可他又把那夹子放了回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Her name is Linda," he said. "Actually, I should go over the translations again. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“她叫琳达，实际上，我得把那些译文再仔细润色一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I don't remember where I kept them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不记得我把它们存放在哪里了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was such a long time ago . . . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这都是好长时间以前的事情了......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You know, he's a chilling writer, Poe- I translated him just so that I could feel like I was normal."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你知道，他是一个呱呱叫的作家，坡——我翻译他的作品，就是为了使我能感觉到自己像个正常人。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> He paused, wrinkling his forehead as if trying to remember. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他停顿了一下，皱着眉头，像是要努力想起点儿什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Later I thought that maybe I had made something of value after all."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“后来我想：或许我毕竟还是做了件有价值的事。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My stop," he said when we arrived in Queens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我到了！”，当车抵达皇后区的时候他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(He stood up and felt for his wallet in his pocket.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（他站起身，然后摸了摸裤兜里的皮夹子。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I watched him from the train window: the old man in the beret lingered on the platform. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从车窗里望着他：那个月台上头戴贝雷帽的老人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seemed to be letting the crowd disperse before he turned toward the escalator; maybe he was about to board a train going the opposite direction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>看来，他是要让人群散尽后才转向那个电动扶梯；也许他是要上一趟开往相反方向的列车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gibraltar, a Love Story</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7.直布罗陀，一个爱的故事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forgive me for all the flaws in this story, about an African elephant who escaped one winter from a zoo in Gibraltar, and appeared a week later, early in the morning, circling in confusion beside the exit to the Casa de Campo metro station in Madrid, and then some several hundred meters from there, leaping with the steps of a giant in love, approaching the entrance to the zoo of the capital of Spain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原谅我这个故事中的所有缺陷，这是一个关于非洲大象的故事：一年冬天，大象从直布罗陀城的一家动物园里逃了出来，一周以后的一个清晨它又出现了，在马德里别墅公园地铁站的出口处附近瞎转悠，从距那里至少有几百米远的地方，急速地、大踏步地迈着热恋中的步伐，向着西班牙首都动物园的入口处走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lullaby for an Old Chess Player</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8.唱给老棋手听的摇篮曲</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The forecast raised the possibility of rain, but in the meantime the sky was clear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天气预报高估了下雨的可能性，可眼下天是朗朗的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long, ragged clouds drifted in the skies, nothing more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很久，天空里才有几缕浮云，在没有别的什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An old man stretched his arms out on the marble table in the park, laid his head on his hands and fell asleep.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个老头在公园里的一张大理石石桌上，伸出胳膊，头枕在手上，睡着了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some children playing in the park snuck up on him, moved the pieces on the board, laughed and ran off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>几个在公园里玩耍的孩子悄悄默默地向他走了过来，挪动了棋盘上的几个棋子，笑着跑开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The old man woke from his short sleep and contemplated the position of the pieces on the marble table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>老头从小憩中醒来，琢磨着大理石桌上那几个棋子的位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He moved a pawn forward.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向前拱了一步卒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the Time Difference Between Poetry and Prose</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9.在诗歌与散文的时差点上</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wall clock read one minute after midnight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>墙上的挂钟走到了午夜后一分钟的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A poet and a writer met. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一位诗人和一位作家会面了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My muse," said the writer, "has deserted me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那作家说：“我的缪斯遗弃了我。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poet responded, "So write about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那诗人回答说：“就这么写！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The writer wept softly. "And she is with someone else right now." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那作家低声啜泣着说：“而她现在和别人在一起。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poet said, "So write about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人说：“就这么写！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The writer said, "But I suspect that he has blue eyes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作家说：“可我猜想他有一双蓝色的眼睛。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So write about it," the poet advised, "or just beat him up." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人劝说道：“就这么写，要不就只好痛打他一顿。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Maybe she didn't love me," said the writer. "Yes, maybe she never loved me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作家道：“也许她不爱我了，是的，也许她从来没有爱过我。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poet said, "So write about it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那诗人说：“就这么写！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or beat him up. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不就痛打他一顿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is he strong?" "I didn't say that he was strong," objected the writer, "I said that he had blue eyes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他强壮吗？” 作家反驳说： “我没说过他强壮！我只说过他有一双蓝眼睛。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So write about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就这么写！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Tell me, what is it that you want from me?" shouted the writer, "you write about it." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“告诉我！你到底想从我这里得到什么？” 那作家喊了起来，“你写吧！” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poet said with surprise, "Why suggest that I write?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那诗人惊愕地说：“为什么要我写？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Because you suggested it to me," answered the writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作家回答说：“是你建议我写的”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You advised me to write." "I didn't advise you to do anything," said the poet, shrugging. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人说道：“是你劝我写，我可没有劝你写任何东西。”然后耸了耸肩膀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What do you mean- you just suggested it. Five times." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你什么意思——你刚刚建议过的，共五次。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't know what you're talking about." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不知道你在说些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"About my muse leaving me . . ." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于我的缪斯离开了我......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So write about it . . ." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“就这么写......”  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You see, again you . . ." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你看看，你又......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The writer jumped up, tore the clock from the wall and struck the poet with all his might. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作家跳了起来。从墙上把挂钟拽了下来，用全力砸向诗人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The time was three minutes after midnight.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时间是：午夜后三分钟。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Blue Has No South</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>10.蓝调无着</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One night, in a surfeit of sleeplessness, the poet leapt suddenly into a dream in which he stood in a room in a ramshackle house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天晚上，过度失眠中的诗人忽然坠入梦乡，梦里，他就站在那幢摇摇欲坠的房子的一个房间里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his hand was a paintbrush dripping with blue paint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手里，一把刷子正在向下滴着蓝色的油漆。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An insistent voice instructed him to paint a wall of the room in black. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个咄咄逼人的声音指示他把房间的一面墙漆成黑色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is it even possible, thought the poet, to paint black with blue? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这诗人想：用蓝色漆黑色，可能么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then he woke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，他醒了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And waking, he remembered that the Italian word for room is stanza. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>醒着，他想起那个与“room（房间）”对应的意大利语单词是“stanza（房间）”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The poet reflected on this with growing amazement: The room he dreamt of was the stanza of a poem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诗人惊愕不已，反复推敲着这个词：他梦到的房间是诗的一节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He wondered if it wasn't time he turned to writing prose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不知道是否有时间转而写写散文。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,62 @@
+Angular Size of a Soccer Goal 
+WHEN I WATCH the World Cup, I always think about set pieces. 
+This is when the ball is placed at a certain spot and a team is allowed to then kick the ball (called a free direct kick). 
+If this kick occurs near the goal, the opposing team can create a human shield in an attempt to block the goal (or at least block a straight line kick into the goal). 
+So, the question: where on the field (pitch) could a team completely cover up the goal with a human wall?
+Do I really think of things like this? 
+Yes. That's what makes life so much fun.
+ANGULAR SIZE
+This problem is all about angular size. 
+If the goal's angular size (from the position of the set kick) is smaller than the angular size of the human shield, then there can be no direct line of sight into the goal.
+What is angular size? 
+Here is the same diagram I have used several times. 
+Suppose you have some object a distance r away with a length L. It would have an angular size ?? as shown below.
+If r is much greater than L then the length of the object is essentially the same as the arc length. 
+This means that the following should be true: 
+Of course, this gives you an angular size in radians. 
+Seems simple, right? 
+No. There is one small problem. 
+What if you are looking at the goal from an angle? 
+How do you calculate the angular size then? 
+I am going to use a trick. 
+Here is a diagram of the goal along with the location of a kick.
+I need these two vectors. 
+Vector r1 is from the ball to one post and r2 is to the other post. 
+How do I get these two vectors? 
+Obviously there is an origin somewhere. Maybe it is at the corner of the pitch. 
+I have a vector location of the ball and the goal post, then the r1 vector would be:
+I can do the same thing for vector r2. 
+Now, to find the angle between these two vectors I can use the dot product. 
+In general, the dot product between two vectors can be written as:
+If you know the components of a vector (x, y, z), you can also find the dot product as:
+This means I can find the angular size from any point without any crazy geometry or anything (but you could do it that way also).
+ANGULAR SIZE OF A GOAL
+What are the dimensions of a soccer field? 
+The official FIFA site has the measurements.
+How do you display the angular size at different points on the field? 
+I'm going to use a contour plot. 
+This is basically a 2D graph with contour lines along which there is a constant angular size of the goal. 
+This is what that looks like.
+I blocked out the penalty area and set the angular size to zero in that region. 
+Why? 
+Well, I am really thinking about a human wall to block a set kick. 
+If you are in the penalty area, you can't have a human wall. 
+Notice that shooting from the side of the penalty area the goal has the same angular size as a head on kick from 40 - 50 meters away. 
+If you are at the corner of the pitch, the angular size of the goal is zero radians. 
+This means that for a corner kick, you either need to curve the ball's trajectory or have another player hit it in to score.
+HUMAN WALL
+If an opposing team wishes to create a wall, it must be 10 yards from the ball (9.1 meters). 
+In the 2014 World Cup, this distance is marked with some type of spray can to mark the 10 yard line.
+What is the angular size of a human wall? 
+Of course this depends on how many players join the wall. 
+It seems like 5 is a common number. 
+If each player has a shoulder width of 0.4 meters (I measured my shoulders), this would give a wall length of 5*(0.4 m) = 2 meters. 
+Now I can calculate the angular size:
+Of course, the players could spread out more or add more players. 
+I don't think it's crazy to have a wall length of 2.5 meters with an angular size of 0.275 radians. 
+This means that in the contour plot above, anywhere in the blue or the first green section, a human wall could block out the whole goal. 
+Well, I didn't look at the vertical height of the goal. 
+Also, I should point out that a kicked soccer ball can (and does) curve in it's trajectory after it is kicked.
+So, should a team form a human wall for a set kick? If the ball is more than 30 meters away and directly in front of the goal, then a human wall could optically block the goal. 
+If the kick is from the side, this optical blocking distance is much smaller. 
+My recommendation is for coaches to print out the contour plot in order to have it handy during a game.

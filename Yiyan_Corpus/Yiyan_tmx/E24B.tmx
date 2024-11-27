@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151126T140101Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Foreign languages: how to memorise vocabulary  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外语学习：怎样记忆词汇
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When trying to learn a foreign language, most of us have the same complaint: "I'm just not good at memorising." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每次想尝试学习一门新外语，大部分人都有相同的抱怨：“我就是偏偏记不住。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Learning new vocabulary can be daunting, especially for busy adults whose minds are already occupied with work, family, and other responsibilities.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记忆新词汇有时确实很让人气馁，特别是对于那些忙碌的成年人，他们每天的心思都已经几乎被工作、家庭和其他责任塞满了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A comfort?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>能不能舒服点？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Linguists say that to "get by" in a language, such as directing a taxi or asking for a phone number, it takes a vocabulary of about 120 basic words.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>语言学家说了，要在一门语言里面“蒙混过关”，比如说给的士司机指路，或是问电话号码，基本只需要120个词汇。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a manageable goal, and a firm foundation for beginners.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是一个可以实现的目标，对于初学者来说也是一个坚实的基础。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here are eight tips for getting there:
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面是八个贴士来说明怎样达到这个目标：
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set realistic goals  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设定可以实现的目标
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forget the long vocabulary study sheets, or reading the dictionary.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忘记那个长长地词汇学习表吧，还有那个词典阅读计划。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Experts say that learners are capable or retaining 10-20 words per study hour.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>专家指出学习者每小时大约可以掌握10-20个单词。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you do 15 minutes of self-study per day, set a weekly vocabulary goal of 20-25 words and phrases.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，如果你计划每天自学15分钟，那么就制定一个目标：每个星期约掌握20-25个单词或词组。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's only six weeks until the 120-word "survival kit" is learned and memorised.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那样只要六个星期，你就掌握了那120个词汇的“生存技能”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cluster
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把相关词汇放到一起记忆
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those one-word-a-day language learning apps may feel convenient, but thematically, they're all over the place, delivering a chain of unrelated words: envelope, tired, January, receive, onion.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些“每天一个词 之类的语言学习软件可能听上去方便，但要说出一个主旨，它们只是东一个西一个，一连串没有联系的词汇：信封，累的，一月，接收，洋葱。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Focus on a single theme each week.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你应该每个星期专注于一个主题。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mind naturally clusters connected words together, so learning, say, types of weather in one lesson, and parts of the body the next, works in tune with your brain's natural system for classifying information.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的大脑就会自然而然地把相关的词汇串联在一起。比如说，这堂课学习天气的种类，下一堂课学习身体部位，让你的学习节奏和你大脑的运动系统相协调，从而做到更好地进行信息分类。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However...
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过不管怎样，要注意...
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Avoid opposites  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>避免反义词
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It might seem logical to study opposites together: hot/cold, expensive/cheap.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把反义词放到一起记忆逻辑上好像说得通：热的/冷的，昂贵的/便宜的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It isn't.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上不是这样。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A learning hiccup called 'cross association' can occur, when you learn two words so closely together you end up mixing them up.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学习中可能会遇到一个问题，叫“联想混淆”，就是当你把两个意思非常有联系的词放到一起学习，你最后很可能把它们混淆了。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a Spanish student learns 'always' (siempre) and 'never' (nunca) together, they might later draw on one word when they mean to use the other.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如当一个学西班牙语的学生把“常常”（siempre）和“从来不”（nunca）放到一起记忆，之后当他想用其中一个时却错误地记起了另外一个。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Instead, study the more common word first (eg: deep) and, once it's retained, learn its opposite (shallow).
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相反地，应该先学习较为普遍的那个单词（例如：深的）然后，一旦掌握了，再学习它的反义词（浅的）
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dissect new words  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>分析新单词结构
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When encountering a new word, take a look at its structure.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遇到一个新单词，先看一看它的结构。
+
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many words consist of prefixes and suffixes, and an understanding of these parts of speech is advantageous.
+The French word d¨¦sagr¨¦able, for example, contains the negating prefix d¨¦s- and the adjective-forming suffix -able.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多词汇都包括前缀和后缀，了解这些词缀的意思，对于理解单词很有帮助：比如法语单词“令人不愉快的”（désagréable），包括了表示反面的前缀“不”（dés-）和协助构成形容词的后缀“的”（–able）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Studying these affixes can help you to understand conjugation and structure, and make educated guesses when encountering new vocabulary.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>学习这些词缀可以帮助你明白词的构成和结构，帮助你在遇到陌生的词汇时有根据性地进行猜词。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Read, read, read  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阅读，阅读，阅读
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reading helps you revisit learned vocabulary, and see those words in new sentences and contexts.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阅读可以让你重遇你学过的词汇，让你的词汇出现在新的句子和段落中。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One excellent source of foreign language exposure is through graded readers, which are designed specifically for language learners.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想要浸泡在外语中，一个很好的资源是阅读分级读物，它们是专门为语言学习者设计的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another good source is advertisements or menus, which tend to use short, colloquial text.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外一个好资源是广告或者是菜单，它们往往使用精炼、口语化的语言。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Visualise
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把词汇图像化
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One mnemonic learning trick for new vocabulary is the Keyword Method.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记忆新词汇的一个技巧是使用“关键词法”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Drawing on a similar-sounding word in your native language, visualise a picture or scene to go with the new vocabulary.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想出一个你母语中和这个新单词发音相近的词汇，然后把这个母语词汇想象成一幅画或者场景，来和这个新单词配对。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, on a trip to Moscow, I remembered the Russian formal hello, "Zdravstvujtye" (§©§Õ§â§Ñ§Ó§ã§ä§Ó§å§Û§ä§Ö) with the mental image of a stressed vulture.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，在去墨西哥的路上我记住俄语中用来正式打招呼的词“Zdravstvujtye”（写作Здравствуйте），我记忆它的方法是把它联想成一只紧张的秃鹰（注：应该是由于Здравствуйте发音近似于“stressed vulture”）。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These visualisations are often abstract, ridiculous, and embarrassing to admit, but they work, especially for longer words.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些图像有时可能很抽象，很滑稽，或者让你不好意思说，但它们确实有效，特别是对于较长的单词。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Focus on phrases  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>集中精力在词组学习
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Linguist Michael Lewis encourages language learning in lexical chunks, rather than on a word-by-word basis.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>语言学家 Michael Lewis鼓励大家在词块中学习语言，而不是一个单词一个单词地学习。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good portion of daily communication involves predictable common phrases: "turn left," "just a minute," "nice to meet you."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>日常生活用到的对话，很大一部分是由一些可以预测的词组组成的，例如：“转左”“给我一分钟”“很高兴遇见你”等等。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When studying a new language, memorise these phrases and you'll have a ready arsenal of dialogue, without the stress of having to build and conjugate your sentences from scratch.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在学习新语言的时候，记忆这些词组可以让你做好对话需要的语言储备，而不用焦急地搔头抓耳组建一句一句话。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Review often  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>常复习
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a vocabulary class, yesterday's vocabulary is more important than today's.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一堂词汇课上，昨天的词汇比今天的词汇重要。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The goal is to transfer the short-term knowledge of new vocabulary into your long-term memory. Review is essential - in the first few days or weeks after learning new vocabulary, recycle those words and you'll entrench them in your memory.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你的目的是让你的词汇从短期记忆变为长期记忆，因此复习回顾是最基本的——学习新词汇后的头几天或者几个星期，循环地复习这些单词，可以让它们牢牢地刻在你的脑海中。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A good language textbook or online program will be organised in a way that reviews and applies learned vocabulary in later lessons.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一本好的语言学习教材或者在线教程，在后面的课程中都会回顾或者使用前面学过的词汇。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

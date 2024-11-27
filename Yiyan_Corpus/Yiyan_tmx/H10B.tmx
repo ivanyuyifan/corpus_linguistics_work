@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T133244Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Questions and Answers on the 2010 Dietary Guidelines for Americans</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>关于2010年美国居民饮食指南的问题与解答</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>General Overview</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般概况</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are the Dietary Guidelines for Americans (DGA)?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国居民膳食指南（DGA）的宗旨是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGA provides advice for making food choices that promote good health, a healthy weight, and help prevent disease for healthy Americans ages 2 and over.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DGA建言两岁以上的美国居民，为促进身体健康、保持健康的体重及预防疾病，正确选择食物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The advice is based on a rigorous review of the scientific evidence through a transparent, unbiased process. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该指南通过一系列公开透明的、排除偏见的科学论证，经严格审查而形成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGA is congressionally mandated under the 1990 National Nutrition Monitoring and Related Research Act (Public Law 101-445, Section 301 [7 U.S.C. 5341], Title III).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国会根据1990年全国营养监测及相关研究法（公法101-445，第301 [7联邦法典5341]，第三章）授权颁布DGA。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is released by the Secretaries of USDA and HHS every five years.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国农业部和卫生与公共服务部每五年颁布一次新版DGA。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are the Dietary Guidelines important?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么膳食指南是重要的？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They form the basis of Federal nutrition policy, education, outreach, and food assistance programs used by consumers, industry, nutrition educators and health professionals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>膳食指南是联邦政府制定营养政策、营养教育、营养推广以及食品援助方案的基础，也是消费者、食品工业、营养教育和卫生专业人员的实用标准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All Federal dietary guidance for the public is required to be consistent with the DGA.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦所有膳食指南必须与DGA保持一致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The guidelines provide the scientific basis for the government to speak in a consistent and uniform manner. They are used in the development of materials, messages, tools and programs to communicate healthy eating and physical activity to the public.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>膳食指南为政府提供了促进国民健康的科学依据，并作为资源、信息、工具和方案，向公众宣传推广健康饮食和身体活动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How do the Dietary Guidelines Advisory Committee (DGAC) Report and the Dietary Guidelines for Americans relate to each other?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>膳食指南咨询委员会（GDAC）报告和《美国居民膳食指南》之间的关系？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGAC Report is a scientific advisory report and presents the recommendations of the external 2010 Dietary Guidelines Advisory Committee to the Secretaries of USDA and HHS for use in updating the official Dietary Guidelines for Americans.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>GDAC报告是一个科学的、建议性报告，作为“2010膳食指南咨询委员会”附加意见提交给美国农业部和卫生与公共服务部两位部长，用于更新美国政府《美国居民膳食指南》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGAC Report is written for the Federal government as the basis for developing the Dietary Guidelines for Americans (DGA). Comments from Federal agencies and the public are considered in the development of the DGA.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>GDAC报告是联邦政府修订《美国居民膳食指南》（GDA）的基础，联邦政府内相关职能部门和公众的意见在修订GDA过程中也被参考利用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGA is intended for policymakers, nutrition educators and health professionals in developing nutrition policy, nutrition education messages and consumer materials for the general public and for specific audiences, such as children.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DGA为政策制定者、营养教育师和卫生专业人员改进完善营养政策、营养教育信息、普通民众及特别群体如儿童的消费资料而设计制定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How will the DGAC Report and the DGA be made available?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DGAC报告和DGA如何提供给社会民众？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGAC Report was released in June 2010 and is available at www.dietaryguidelines.gov along with the DGA policy document.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DGAC报告于2010年6月公布，同时与DGA正式文本传输并发布到膳食指南官方网站（www.dietaryguidelines.gov）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Limited numbers of hard copies of both documents will be available, and requests and ordering information will be found at www.dietaryguidelines.gov.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为这两份文件的拷贝硬盘提供的数量有限，与之相关的咨询与解答信息也可以在膳食指南官方网站（www.dietaryguidelines.gov）内查找。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are the Dietary Guidelines only for ages 2 years and older?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么膳食指南只针对年龄在2岁以上的群体？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The DGA has always focused on adults and children 2 years of age and older. Children under 2 years of age are not included because their nutritional needs and eating patterns vary by their developmental stage and differ substantially from those of older children and adults. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>DGA关注的对象一直是年龄在2岁以上的儿童、成人和老年人，2岁以下的婴幼儿不包括在内，这是因为婴幼儿生长发育期内的营养需求和饮食方式变化大，且与满2岁以上的儿童和成人存在许多本质差别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A separate committee for reviewing nutrition and physical activity needs of pregnant women and children from birth to 2 years old could be beneficial as it would be made up of scientists and nutrition professionals who are experts in those very specialized topic areas of infant development and infant feeding practices.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设立一个审核孕妇和未满2岁的婴幼儿的营养与身体活动的独立委员会将是有益的，该独立委员会由婴幼儿发育与喂养专业领域的科学家和营养学专家组成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why are the Dietary Guidelines revised every five years?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么膳食指南每五年修订一次？</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

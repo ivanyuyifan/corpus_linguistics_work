@@ -1,0 +1,1279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160814T154809Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Onward</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向前</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>caroline always prepares Fred's breakfast herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline总是亲自为Fred准备早餐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her young brother's looking sallow around the eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她这位弟弟眼周散发着蜡黄的颜色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We saved you the last of the kippers," she says, in a tone airy enough to give the impression that she and Pet had their fill of kippers before he came down this morning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们给你留了最后一块熏鱼，”她轻描淡写的说着，让人觉得他今早下楼前，她们刚吃完了自己那份熏鱼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mouth full, Fred sings to his niece in his surprising bass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Fred满嘴吃的，用他那出人意料的低音对他的侄女哼唱着这首歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His brow is wet with honest sweat,</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>His brow is wet with honest sweat,</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He earns whate'er he can,</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>He earns whate’er he can,</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And looks the whole world in the face, </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>And looks the whole world in the face, </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For he owes not any man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>For he owes not any man.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet giggles at the face he's pulling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet扯着她叔叔的脸咯咯笑着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline slides her last triangle of toast the child's way. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline把最后一块三角土司推给孩子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet's worn that striped frock since spring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet自打春天开始就一直穿着这件条纹连衣裙了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is she undersized, for two years old? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于两岁的孩子来说，她个子是不是太小了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But then, girls are generally smaller. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过女孩一般都比较小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are the children Caroline sees thronging the parks so twig-like, under their elaborate coats? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Carolilne想想那些在公园看到的成群的孩子们，在精致的外衣底下，他们是不是也这么瘦弱呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Where did you pick that one up?" she asks Fred.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你在哪学会这歌的？”她问Fred。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A fellow at the office." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“跟办公室里一个人学的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Again, again," insists Pet: her new word this week.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“又是，又是，”Pet一直念叨着这周新学的词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline catches herself watching the clock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline发现自己一直在看表。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fred launches into song again as he rises to his feet and brushes the crumbs from his waistcoat with a manner oddly middle-aged, for twenty-three.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Fred站起来，用一种不符合23岁年华的大叔范儿拍了拍马甲上的面包屑，又唱了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toiling - rejoicing - sorrowing,</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Toiling—rejoicing—sorrowing,</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Onward through life he goes ... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Onward through life he goes ...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Come, now, Pet, let Uncle get his coat on." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“来吧Pet，让叔叔把外套穿上。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fred mustn't be late, but that's not it: Caroline wants him gone, so she can tackle the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Fred不能迟到，但不是因为这个；Caroline希望他快走，然后她才能开始解决掉这一天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The child, windmill-armed, slaps imaginary dust out of her uncle's trousers while her mother adjusts his collar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet张开双臂，拍掉叔叔裤子上的隐形灰尘，她的妈妈帮叔叔弄好领子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that he has any real prospect of advancement from the ranks of draftsmen, but still, no harm in looking dapper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>倒不是说他的绘图员职业有多美好的前景，但整洁点还是没害处的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She nearly made an architect of him, so very nearly; another few years would have done it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她差点让弟弟成为建筑师，就差一点点；再过几年也许就能成了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nearly never knit a sock, as their mother used to say in sober moments.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就像他们的妈妈清醒的时候所说，“差一点”可织不成一只袜子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Bye-bye," chants Pet, "bye-bye, bye-bye."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“拜拜，” Pet不停的喊着“拜拜，拜拜。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fred always leaves to catch his omnibus with a cheerful expression. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Fred总是高高兴兴的去搭他的公交车。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Does he like his work, she wonders? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她在想，他真的喜欢这份工作么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or just put a brave face on it for thirty-five shillings a week?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还是只为了拿到35先令的周薪强颜欢笑呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline carries the tray down to the kitchen and leaves the dishes for the girl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline把托盘拿到厨房，把盘子留给了Pet。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet drops a saucer, but by some miracle it only spins loudly on the tiles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet掉了个茶碟，茶碟奇迹般的没有摔碎在地砖上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upstairs, to do the beds together, shaking out the blankets; Caroline straightens everything as soon as her daughter's back is turned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline在楼上整理床铺抖毯子，在女儿转过来前就整理好一切。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then down to the parlor again, where she takes up her mending while Pet wreaks havoc in the sewing box. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后又来到客厅缝补衣服，这时候Pet就会在针线盒里捣乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The room is cooling down as the fire goes gray.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>火黯淡下来，客厅慢慢转凉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fred needs new cuffs. These ones are so frayed, it would be throwing good thread after bad to darn them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>得给Fred换一对新袖口了，现在的都磨坏了，要想补好反而得不偿失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or that's her excuse; Caroline's fingers are stupid with the needle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>又或许这只是她的借口；Caroline不太会用针。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her little brother, her charge and her pride, and she sends him out every day a bit shabbier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她每天送出门的弟弟，虽然穿着不光鲜，但却是她的一切她的骄傲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Toast crumbs still gritty in her throat, and already Caroline is reviewing the contents of the pantry, brooding over lunch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早餐的面包屑还堵在嗓子眼，Caroline就已经开始琢磨食材寻思午饭了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The remains of yesterday's beef?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>吃昨天的剩牛肉？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What a tall tower," she marvels, watching Pet set another spool on top of the quivering structure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline看着Pet在颤巍巍的线轴堆顶上又放了一个，惊叹道“好高的塔啊。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Spools crash and roll across the room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后塔倒了，线轴滚的到处都是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline jumps, pricks herself. "Pick up now," is all she lets herself say, sucking her finger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline跳起来，扎到了自己，一边喊着“捡起来吧”一边吮着手指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good girl," she cries when her daughter produces the last dust-rimmed spool from under the table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet从桌子底下捡起最后一个沾满灰的线轴，她喊道“好孩子”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is false cheer better than none, she wonders? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她想，强颜欢笑起码聊胜于无吧？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So much of motherhood is acting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就是母爱啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usually she manages to get Pet down to sleep by noon, when the girl comes in to mind her, but today Pet is wound up, squeaking in her own private language, rattling buttons in the tin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平时一到中午她就会哄Pet睡觉，但今天Pet很兴奋，一边玩着罐子里的扣子，一边吱吱呀呀的自言自语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A confident knock at the door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这时响起一阵坚定的敲门声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early, how can he be this early, before the maid's even got here? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真早，他怎么会这么早，比女仆来的还早？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What makes him believe, what gives him the right - Anger tightens the drawstrings of Caroline's face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他以为他是谁，凭什么—Caroline生气的绷紧脸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A visitor for Mamma! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈妈有客人来了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would you like to sit here quiet as a mouse and play with Mamma's jewels?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能像个小老鼠一样安静地坐在这玩妈妈的首饰么？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before she's finished speaking she's thundering up to her room, taking the stairs two at a time, Pet stumbling in her wake.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还没说完就已经冲向自己的房间，一步并作两步的上了楼梯，Pet还迷迷糊糊的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She grabs the box from her dressing table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从梳妆台拿上珠宝盒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The second knock, still sprightly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>敲门声再次骤然响起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'll wait, won't he? Surely he'll give her a minute to get to the blasted door - </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他能等会儿对吧？他肯定得等她走到那该死的门口——</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As she reaches the hall again, passing the struggling child on the stairs, her skirt almost knocks Pet over; Caroline takes the child's small hand and pulls her into the parlor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她走过楼梯，裙子差点把楼梯上的Pet绊倒，又来到了走廊；Caroline抓着孩子的小手，把她带到客厅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's breathing hard as she sets the jewelry box down on the sofa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她把珠宝盒放在沙发上，喘着粗气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet's mouth forms an O of ecstasy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet看了高兴的嘴都张圆成了O形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All that's left are cheap necklaces and bracelets in glass and jet, probably easy enough to break, but then again, not valuable enough to matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>盒子里剩的都是一些不值钱的项链和手链，玻璃的煤玉的，一摔就碎，但是不值钱，碎了也就碎了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Be good now, Pet." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“听话Pet。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good, what does that mean to a two-year-old whose every natural urge is to poke, to grab, to take the world in her fists and shake the secrets out of it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听话，对于一个两岁的孩子来说算什么呢，他们正是到处戳，到处抓的时候，恨不得把世界握在手里，把所有的秘密都摇出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fire - Caroline slams the guard across it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>火-Caroline关上了围栏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mamma back soon!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈妈这就回来！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The third knock hammers as she's dashing through the hall; she pauses to shake her skirts into shape.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她穿过走廊，敲门声第三次响起；她停下来整了整衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her smiling apologies overlap with his. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两人都遇上了彼此歉意的微笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This one's all bluff humor and compliments; he's brought what he calls a mere token. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个人带着直率的幽默和恭维；他自称带来的东西只是意思意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline stares at the miniature lilies, hides her face in their white stiffness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline看着小小的百合花，把脸埋进了硬挺的花丛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The scent is sweet enough to hurt her throat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>花太香，呛嗓子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eerie white bugles, suited to a girl's coffin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诡异的白色花束，正适合装点女孩的棺材。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This late in the autumn, they must be hothouse blooms: she reckons the cost.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>深秋至此，这花肯定是温室培育的；她在脑子里盘算着价钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Mamma!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“妈妈！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet, lurching into the hall, heavy with necklaces.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet戴着沉甸甸的项链，摇晃着来到走廊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Stay in the parlor," says Caroline, picking her up, crushing her against the flowers. She plants her on the sofa again, and in the small perfect ear, very low and fierce, she says "Shh!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“呆在客厅里，”Caroline说道，拿着花抱起她，带回到沙发上，在她小巧完美的耳边，低声严厉的“嘘”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Turns to find the visitor leaning in the doorway, grinning as if to demonstrate that he doesn't mind encountering the little one, on the contrary in fact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转过头来，发现来人靠在门边微笑着，表明自己非但不介意小孩，反而愿意看到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It occurs to her that he's scanning Pet's features, and her stomach turns.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline想到他在打量着Pet，心下一紧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Piddy," remarks Pet, caressing one glacial petal.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“Piddy，”Pet摸着冰冷的花瓣说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What's a pity? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>什么可惜了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How does the child know about pity? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩子怎么会懂怜悯？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh, pretty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哦，她说的是漂亮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline yanks the bouquet away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline把花束拿走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes, Mamma's special pretty flowers, don't touch."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，妈妈的漂亮花，别碰。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upstairs, she chats a bit, marvels at how long her visitor's mustache is getting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼上，他们聊了聊，她惊叹于来人的胡子已经这么长了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Has he had a very tiresome morning in the City? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是不是在城里度过了疲惫的上午呢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He's considering investing in the Canadian Grand Trunk Railway, well, hasn't that quite a ring to it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他正在考虑投资加拿大干线铁路，呵，听着多么耳熟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sheets have a damp feel against her back, though Caroline tells herself she must be imagining it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后背下的床单感觉潮乎乎的，Caroline告诉自己肯定是错觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She moves the way he prefers, with her ears always pricked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她随他的喜好而动，只是一直竖起耳朵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nothing, not a sound. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没声音，什么声音都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Could Pet have crept upstairs, might she be outside Mamma's bedroom door right now, plucking up her nerve to push the door open? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet会不会爬上楼梯，会不会就在妈妈的门前，鼓起勇气推开房门？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, no, Caroline would have heard something, one of those little gasps of exertion or nonsense words a two-year-old can't help making. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不，不，Caroline肯定能听到什么的，一个两岁的孩子肯定会发出喘息或者依依呀呀的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the man has put his oily mustache to her ear now, he's grunting like a seal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这个男人现在把油乎乎的胡子放在她耳边，像海豹一样发出呼噜声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She can't hear anything else. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她什么都听不到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She should be making those delicate bird-cries he likes but oh god, what if a necklace has snagged, tightened round Pet's soft throat? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她本应该发出他喜欢的娇弱尖叫，但天哪，如果项链挂住，绕紧在Pet纤细的喉咙上怎么办？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Earrings, she forgot to take the damn earrings out of the box. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有耳环，她忘了把耳环从盒子里拿走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What would one of those tiny sharp hooks do to a small stomach? Her fingers clamp on the pale meat of his shoulders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上面尖利的钩子到胃里会怎么样？她的手指紧抓着他苍白的肩膀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hurry, hurry, do your business and be done with it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>快点，快点，赶快完事走人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, sweet Caroline," he groans.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，美丽的Caroline，”他呻吟道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A rage spirals up when she hears him use her name, a coal-smoke whirlwind wrenching this scarecrow out of her, hurling him against the walls, whipping him through the pealing glass to fall like rag 'n' bones on the Brompton street, where the next passing carriage will flatten his face into stone and mud.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听到他叫了自己的名字，她心中升腾起一股愤怒，把这个瘦小枯干从体内拔出，摔到墙上狠抽一顿，破窗而出像垃圾一样扔到布朗普顿大街上，随后被马车碾过陷入泥土。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A small sound brings her back to herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>细小的声响让她回了神。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rocking away on top of her, the visitor doesn't notice, but Caroline can make out voices in the parlor, one deeper than the other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她身上晃个不停的来人一点没注意到，但Caroline能分辨出客厅的声音，声声入耳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl at last, ten minutes late by the clock on the dresser. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果女佣比衣柜上的表晚来了10分钟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's all right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没事了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet's all right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet一切都好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline's teeth unlock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline松了牙关。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Love fizzes like acid in her bones. She doesn't have to fake that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱像在骨头里泛着酸，这可是装不出来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lunch is the last of the beef, in a soup, bulked out with turnips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>午饭是剩牛肉，和着萝卜做成汤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet pushes her bowl away, but Caroline puts the spoon between the little pink lips over and over.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet把碗远远推开，Caroline就一勺一勺的喂她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though the child hasn't had her nap, Caroline takes her out, while the rain is holding off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然Pet还没睡过，但是Caroline还是带她出去了，雨还是一直没下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Pam pam," wails Pet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“车车”，Pet哭闹着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her memory is getting longer; the pram was pawned three weeks ago. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline陷入回想，手推车三周前就当掉了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Uncle Fred doesn't seem to have noticed.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（Fred舅舅似乎毫无察觉）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You're a great big girl now, you can walk," says Caroline, with one of those smiles that are too hard around the edges. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是个大姑娘了，可以走着去。”Caroline说道，带着用力过猛的笑容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pet wanders in long spirals, trips over a pinecone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Pet转着圈，被松果绊到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Come along, my sweet. This way." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“跟我来甜心，这边走。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The air's bad today, damp and sulfurous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天空气又潮又差。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"On we go!" After a minute, Caroline dips to lift her daughter onto her hip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“走喽”一分钟后，Caroline低下去把女儿抱起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When they reach Brompton Park, Pet struggles to get down and chases sparrows with the lumbering merriment of a drunk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>到了布朗普顿公园，Pet挣脱下来，喝醉了似的笨重的追着燕子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She coughs with excitement, picks up a branch covered in curled yellow leaves, and shakes it like a standard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她兴奋的咳着，捡起一根附着枯叶的树枝，旗子一样挥舞着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline wonders if the brown boots are pinching. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline在想这双棕色的靴子是不是有点夹脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She thinks of Chinese ladies with their ghastly little feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她想到中国裹脚女人的小脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For winter she could always line that thin coat with a flannel petticoat of her own ... but then it mightn't button up at the front.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冬天她可以就穿自己的法兰绒衬裙加薄外套......但这样前面就扣不上扣子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Birdies! Mamma, birdies!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小鸟！妈妈，小鸟！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's right, pretty birdies."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，漂亮的小鸟。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A spattering of rain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>雨水四溅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the way home, they pass two women on a bench, whose conversation halts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回家路上，她们路过长椅时，坐在那的两个女人突然停止了谈话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eyes flicker, then avert. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>眼神漂移，然后扭开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chat starts up again in graver tones.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后再用更低沉的语调开始聊起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Does Caroline hear her name? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline好像听到了自己的名字？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She keeps her gaze at the level of her daughter's face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她一直看着女儿的脸庞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Look, a snail," she remarks inanely.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“看，蜗牛，”她傻呼呼的说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nail," echoes Pet, bending to examine it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“蜗牛”Pet重复着，弯下腰看着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But her mother jerks her hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是她妈妈拉了拉她的手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"On we go, the rain's coming."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“咱们走，要下雨了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Caroline doesn't care, not for herself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline一点不在乎，自己这点事不算什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There's an automatic searing of the cheeks, at moments like these; occasionally on waking, a leaden sense of her fate that presses her against the pillow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种时候她总会不自觉的脸红；还有时一醒来，想到自己沉重的命运，就不想起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But no shame. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但不觉得羞耻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What time in her day has she for shame?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她什么时候觉得羞耻过？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Nail," cries Pet again, squatting to reach for something that looks very much like dog dirt.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“蜗牛，”Pet再次喊道，蹲下试图捡起一块很像狗屎的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Time for cocoa," says Caroline, hauling her onto her hip with one arm.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“该喝可可了，”Caroline说道，一手把她抱起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fallen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>堕落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's not like in the novels, or on the stage; it's as ordinary as darning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>并不像小说一般，也不像舞台剧。就像缝补一样，再平常不过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What has Caroline ever done but what she had to, since she was nineteen and she found herself alone with a nine-year-old brother to raise? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与其追究Caroline的所作所为，不如想想自19岁就剩她孤身一人抚养9岁的弟弟，一切不都是不得已而为之么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The road never seemed to fork. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的路从来就不曾分叉过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She's put one foot in front of the other and this is where they have led her, this moment, fat drops of rain falling into her collar as she rushes along the blotched footpath with Pet laughing on her hip. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只是一步一步的向前，随脚步走至今日，当下，硕大的雨点打入领口，她在斑驳的人行道上跑着，Pet在她怀里笑着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Onward, onward, because backward is impossible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>向前，再向前，因为后退已经不可能了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fallen, like leaves that can't be stuck back on the trees again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>堕落啊，就像落叶一样，不可能回到树上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it strikes Caroline now that everything the child learns is a step closer to misery. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想到女儿每日所学，离悲剧越来越近，Caroline就倍受打击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When will Pet begin to register the neighbors' words? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有多久Pet就能听懂邻居的话了啊？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At four? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四岁？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Five? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五岁？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Coming home with her face streaked with knowledge: I heard a bad word. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不安的回到家说着：我听到了坏话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cruel misnamings of what she is, or rather, what her mother is; the falsity of fact. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>别人给她起残忍的绰号，抑或是给她妈妈起的；歪曲事实的绰号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And what will Caroline tell her then? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Caroline能跟她怎么说呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What fiction, what feeble justification? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>都是瞎编的，还是别的毫无说服力的借口？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wishes absurdly that Pet would stay light enough to carry on her hip; would shrink, in fact, falling back month by month into the plump oblivion of infancy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她内心扭曲的希望Pet能永远被她抱在怀里；甚至越变越小，变回胖嘟嘟的婴儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At home, the afternoon goes smoothly: a small mercy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家中，下午缓缓而过：这小小的慰藉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl takes Pet up for a nap, while Caroline glances at yesterday's paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女佣带Pet上楼小睡，Caroline扫了一眼昨天的报纸。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

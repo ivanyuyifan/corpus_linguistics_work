@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160805T050638Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are some common illogical scenes that occur in films?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影中那些常见的不合理场面</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Car Chases</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>追车镜头</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In which the protagonist is in an incredibly quick car (or even on a motorcycle), pursued by antagonists in a much slower vehicle, and yet the slower vehicle keeps up with them effortlessly- especially true when the chase takes place on highways or stretches of road with minimal traffic- realistically the protagonist could simply floor it and leave the pursuer in the dust, but instead they continue to trade paint neck-and-neck.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>主角开着一辆能彪很快的车（甚至是一辆摩托车）被对手追着，而对方开的则是慢的多的交通工具；结果呢，慢车居然能毫不费力地与前者保持住距离——这一点在高速路镜头或是车辆稀少的道路镜头中异常明显。在现实生活中主角大可以一脚油门踩到底把追逐者甩于扬尘之中，但是电影中双方却能并驾齐驱地碰来撞去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One recent example I can recall is Drive (w/ Ryan Gosling), in which his character is fleeing a crime scene in a Mustang GT 500, yet can't shake the pursuer in a (non-hemi) Chrysler 300. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我能记起的最近一个例子是瑞恩·高斯林主演的《亡命驾驶》，他扮演的主角在里面驾驶一辆福特野马GT 500，正要逃离犯罪现场，可他居然甩不掉对手开的克莱斯勒300（而且对手车还没有装HEMI发动机）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Mustang has 600+ horsepower for god's sake (not to mention the character is an incredibly skilled driver).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要知道，福特野马动起来可有600多马力，再说主角还是一个车技过人的司机，这都能僵持这么久实在说不过去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hand-to-Hand Combat</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>徒手搏斗镜头</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When a protagonist in a film is highly skilled in hand-to-hand combat, easily defeats all opponents throughout the film, but then encounters the final/main antagonist in the climax, and he/she is a near perfect match in skill level with regards to combat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当某部电影中的主角是专精徒手格斗的专家时，他三拳两脚就打通了电影里几乎所有的对手，结果碰到电影中的大反派时，却恰好能与对方打出个不相上下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The latest example I can think of is Mission Impossible: Ghost Protocol (an excellent film nonetheless), in which Ethan Hunt is able to handily overpower all baddies he encounters, but at the end finds himself equally matched fighting a rich Swedish businessman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想到的是最近一部电影：《碟中谍4：幽灵协议》（当然它还是一部佳片）。片中主角伊森·亨特在格斗能力上碾压了所有碰面的坏蛋，在最后发现自己和一个印度富商打出了僵局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another recent example I can recall was Quantum of Solace. Was a utilities company CEO really a match for MI6's top field agent?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个例子是《007大破量子危机/余温之恋》：一个公共事业机构的CEO竟然与军情六处的顶级特工旗鼓相当？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One film (or series, rather) that bucks this trend are the Bourne films, and I love them for it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一部电影（或该讲是一个系列）则反道而行之——《谍影重重》系列，我因此也很喜欢这片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bourne is one of the world's most skilled in hand-to-hand combat, as shown throughout the movie, and very rarely is he truly challenged in that regard (as it should be, given his training and abilities). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影全程都在展示“主角伯恩是世界上徒手格斗最强者之一”这一点，而且在片中他也极少遇到真正的敌手（以他受过的训练和能力来看，这不稀奇）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even the supposed best-of-the-best cronies sent after him are dispatched relatively easily (perhaps with the exception of Desh in Ultimatum).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是敌人派来的最强杀手也被他轻松解决了（不过《伯恩的通牒》里的Desh或许是个例外）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>High School Students</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高中生角色</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>-In the real world they don't all look like they're 27 years old.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在现实世界里他们看起来可没有27岁那么老。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Medical cliches:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医学方面的常见错误：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People "flat-line" all the time on an EKG:  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>患者心电图“变直线”的镜头太多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apparently, you instantly become electrically neutral the very second you die or have an arrhythmia. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>患者死亡时或是心律失常时的心电活动当然会停止。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oh but you get to (almost) finish your sentence and vanish into sudden cardiac death or a deep coma in a split second.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是当角色话就要讲完的时候就正好心脏骤停猝死或是突然陷入深昏迷？太巧了吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People who get a "heart attack" fall to the ground and preferably drop dead instantly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色“心脏病发”倒地时往往恰好一倒在地上就死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People get heart attacks solely because of emotional surges, also, there never were any earlier symptoms.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色只会因情绪激动而心脏病发，而且发作之前一点早期症状都没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People who faint never seize or piss their pants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色晕倒时从来不会抽搐，也不会尿湿裤子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People are in comas for years and will never open their eyes [in reality, after a matter of weeks, you get into a vegetative state which gives patients a basic day-night rhythm with opening of the eyes and often an eye reflex that follows motion in the room].</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色在陷入昏迷的数年当中从来不睁眼睛。（在现实生活中，一个人昏迷几周后会进入植物人状态，此时该人会出现体现为眼睛开闭的日夜节律，而且通常会有眼睛随房间内物体转动的反射现象）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After magically waking up from one of these comas, no muscle atrophy that takes months to be fixed, limp for a few steps and off you go!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当角色神奇地从昏迷中醒来后，他们的肌肉竟没有出现废用性萎缩，跌跌撞撞走几步后就如同常人！（事实上他们应当要花上几个月才能恢复）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People perform CPR and pericardial thumps (you know, the big blow to the chest) with great drama without ever breaking the victim's rib or getting tired. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色在实施心肺复苏/心脏按摩时（你们懂的，就是对着胸部使劲按压）演的很有戏剧性，可是被按者的肋骨居然没被按断，按压者也没觉得累。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Doctors do everything, from surgeries to scans to endoscopies yet find the time to have a deep talk with their favourite patient when they feel like it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医生们奔忙于做手术、影像学检查、内镜这些工作，同时居然能随心所欲抽出时间和最亲近的病人畅谈许久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An intravenous injection is done by ramming a needle somewhere in somebody's arm at a 90 degree angle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影里的静脉注射就是拿起注射器往病人胳膊上某处扎一针——而且还是垂直进针。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People seize more often than they sneeze in hospitals</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医院里患者出现病危的概率比打喷嚏还多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>People who get bitten by something venomous die in a matter of seconds.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色被毒蛇毒虫咬了后几秒钟就死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Getting shot in the leg is completely fine, you never hit the femoral artery and bleed out in seconds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色腿上中了一枪结果啥事没有，从来不会出现子弹打中股动脉让角色很快失血过多而死的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A shot in the abdomen on the other hand does kill you instantly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是肚子上挨了一枪倒是能让角色一命呜呼</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A blow to the back of your head instantly knocks you out. Also, you just wake up dizzy after a few minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>往角色后脑上来一记就能让他/她马上昏过去，而且击昏的人几分钟后就能昏昏沉沉地醒过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Contusion or massive intracranial bleed never occurs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脑挫伤和颅内大出血这样的事从没有出现过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Being terminally or critically ill is a sudden process always announced when feeling perfectly fine, preferably by coughing up or vomiting blood.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色自觉身体倍儿棒的时候突然被告知患上了危重疾病，预示的症状往往是咳嗽或是呕血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Labs and especially cultures that take weeks come back in a matter of minutes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那些原本要花几周才能出来的实验室检查或培养结果在几分钟内就有了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All patients relevant to the script have private rooms, even if they initially came for an innocent ailment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有与剧本相关的患者都拥有自己的单人病房，即使只是有个小病小痛也住在院里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unless of course an inter-patient romance/friendship has to occur, then that guy with the plague will practically bunk with that immune-impaired cancer patient.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一旦两个病人之间擦出了爱情/友情的火花，得了传染病的角色居然能毫无阻拦地和免疫缺陷的癌症患者交往。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If a new scene begins with a hall shot, a doctor must be called on the PA. This happens every few seconds or so as long as the conversation takes place in said hall.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假如一个新场景是由一个大厅镜头开场，广播里总会有呼叫医生的通知，只要角色对话还在大厅内进行，这种广播几秒钟就会来一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Critically ill or trauma patients get transported through the hospital as if they were on a bumper car.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影里人们在院内转运危重病人的时候，就好象在开碰碰车一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Automatic doors do not exist, slam those doors open in slow motion with your floppy white coat for added drama!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>医院里是有自动门的，电影里却没有，诸如“医生们披着飘逸的白大褂撞开门”这样的慢镜头只是为了剧情需要！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Speaking of white coats, these will be nonchalantly wide-open, because that's what they're for, looking "doctorey" yet casual.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>既然提起了白大褂，不得不说电影里的医生都是漫不经心地披散着白大褂，他们这么做的原因无非就是想表明：当医生就是这么有临时工范！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Two very common scenes in movies are: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影中这两类场景很常见：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vehicles that don't make sounds until they come into view. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交通工具在驶进入镜头之前是无声的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Someone is at a remote location, say, on top of a sand dune in a desert or the roof of a skyscraper. It's dead quiet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角色身处于一个偏远的地方（比如说沙漠里一座沙丘的顶部或是一座摩天大楼的房顶），此时一片死寂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And suddenly a VERY LOUD vehicle -- usually a helicopter, tank, or other extremely large and noisy vehicle -- arises into view, its engines SCREAMING. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>突然一辆交通工具带着轰鸣的引擎声闯入了镜头（通常是一架直升机、一辆坦克或是其他又大又吵的车船飞机之类）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And of course, the person doesn't hear a thing until the very moment they see the vehicle, and are therefore completely surprised by the vehicle's appearance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，角色在看到它之前也是啥也没听到，而在看到后一副目瞪口呆的表情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sound of airplane wheels hitting the tarmac. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>飞机起落架轮子接触到停机坪时发出了声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In countless movies, you hear a "chirping" sound as the rubber of the wheels strikes the tarmac during an airplane landing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多许多的片子里，你会听到飞机着陆途中橡胶轮和停机坪路面接触时“次溜溜”的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The thing is: airplanes don't actually make this sound when they land. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实上：飞机着陆时不会产生这样的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was invented by a film sound designer sometime in the fifties or sixties, and has somehow entered the public consciousness as a sound that people take for granted exists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种声音是由一位电影音效设计师于50-60年代创造的玩意，然后不知咋地就融入了大众的认知，让大家觉得它是理所当然的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(I work at a company that specializes in audio, and a colleague who gives frequent lectures told a packed room the story of how, years ago, he went with a sound designer to go record airplanes landing at an airport, and they were stunned to find that the sound made by airplane wheels touching down was... relative silence.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（我在一家专长音效的公司工作，其中一个同事不止一次对整个房间的人讲述自己的故事：数年前，他和一位音效设计师去机场记录飞机着陆的声音，结果惊讶地发现......起落架轮子碰地的声音跟预想的比轻得多）</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

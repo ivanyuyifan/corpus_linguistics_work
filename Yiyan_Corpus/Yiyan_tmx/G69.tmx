@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083425Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Story Of Betty Malz, USA</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>复活在我，生命也在我</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After I began to vomit and haemorrhage they rushed me to a little beach hospital. I was transferred to another hospital and had an operation on my abdomen. The doctors discovered that I had developed peritonitis. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我开始呕吐和出血以后，他们把我紧急送到一家小小的海滩医院，后来我被转到另一家医院，在那里做腹部的手术，因为医生发现我得了腹膜炎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the operation I lapsed into a coma which lasted for the greater part of 44 days. I had two further operations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手术后我就陷入了昏迷，以后44天的大部分的时间我都是这样，后来我还做了两次手术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During this comatose period I went through a wonderful learning process. I prayed most of the time, although I was unconscious and could not speak or respond. I still prayed in my heart, and I understood everything that was going on around me. I remembered all of the conversations that were spoken in my room, and I have written them in my book My Glimpse of Eternity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这段昏迷不醒的期间我经历了一个奇妙的学习过程，大部分时间我都在祷告，虽然我那时神志不清，不能说话，也无法回应别人，但我的心里一直在祈祷，而且我知道发生在身边的每件事。我记得所有发生在我病房的谈话，我把这些谈话都在我写的书《我对永生的一瞥》中记下来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another wonderful thing happened in this room. I heard music all the time as I lingered near death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一件发生在这里的奇妙事情是，在徘徊于死亡的时候，我一直能听到音乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I shall always remember two of the songs that I heard constantly echoing in my mind, and in the chambers of my heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这些不断回响在我意识和心灵中的歌曲中，我将永远记住其中的两首。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I heard Jack Holcolme singing 'The old account was settled long ago'. How thankful I was that at the age of 13, I had settled my account with sin. I had decided to invite Jesus be the Lord of my life, forgiving me of my sins, and experienced the new birth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一首是杰克赫尔科姆的“旧账在很久前就还清了”，多么感恩啊！我在13岁那年就还清了罪债，那年我决定邀请耶稣成为我生命的主，赦免我的罪，并经历了重生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another song that I heard constantly was the same man singing 'I have been born again'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外一首我常常听到还是杰克赫尔科姆的歌“我已经重生了”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God used very ordinary people to bring about some extraordinary experiences in my life. I was a proud, haughty young woman whom God could not use up to this time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>神使用了一些极其普通的人给我的人生带来不凡的经历，得病时我是一个骄傲自大的年轻女人，神还不能使用我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Through this suffering, and 44 days of unconsciousness, I underwent a complete overhaul of personality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过这次的得病，还有44天的昏迷不醒，我的个性得到了一次“大修”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ordinary people came into the room. I always remember Aunt Gertrude coming. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来到我房间的都是普通人，我总是记得格特鲁德姨妈的来访。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She did not know that unconscious people hear, but she took me by the hand and very positively prayed for me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不知道我这个昏迷不醒的人能听到，但她抓住我的手，很用力地为我祷告。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She talked with me about the flowers at home, read my cards, and the little notes that were on my flowers that had been sent to my room. She brought a little bit of the outside world into that hospital room.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她谈到了家里养的花，为我读明信片，还为我读送到房间来花束上的附言卡片，她为这间医院的病房带来了一点儿外部世界的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another wonderful person who ministered to me was Uncle Jesse. He was a brake man on the railroad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外一个来服侍我的奇妙的人是杰西叔叔，他是一个在铁路工作的扳道员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day coming home from work he said he felt a very firm desire to come to the hospital to see how I was doing. He initially thought he should go home and shower first. He then felt God impressed him not to delay, but to go to the hospital right then. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天，在下班回家的路上他说自己感到有一种强烈的愿望要来医院看望我，开始他认为自己应该首先回家并洗个淋浴再去医院，但此后他感到神在感动他，让他不要耽搁，应该立刻去医院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On arrival he learned that I desperately needed B-negative blood. When they tested Uncle Jesse and typed him, he had B-negative blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一到医院，就了解到我那时非常需要B型阴性血，于是他们为杰西叔叔测了血型，发现他正是B型阴性血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I received a direct transfusion, which I urgently needed.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我立即得到了输血，满足了紧急的需要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another person who ministered to me was a man in our neighbourhood who used pitiful English, and I whom considered ugly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外一个来服侍我的是一个邻居的男人，他说着可怜的英语，我觉得他长得很丑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not like him. I did not like his looks, and he did not know how to dress. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不喜欢他，不喜欢他的长相，他也不知道怎样穿着合体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had a radio broadcast that I never cared for. I used to turn the broadcast off whenever it came on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有一台收音机，我也很不喜欢，通常收音机广播响起的时候我会关掉它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This man violated the 'No Visitors' sign and came into my hospital room, not knowing that I could hear in this unconscious state. He came to the foot of my bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这个男人不顾门口挂的“谢绝访问”的牌子，走进我的病房，他并不知道我能在这种昏迷的状态下听到，他来到了我的床脚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hearing a man's footsteps I thought it was my husband, John, who came several times a day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>起先我听到这个男人的脚步声，还以为是自己的丈夫约翰，他会一天来几次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Or perhaps it was my father coming to sit beside me in the squeaky leather chair to pray for me, or just to whisper praises of worship, and bless the name of Jesus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或者也许是我的父亲，他会坐在吱吱响的皮椅里为我祷告，或者轻声地敬拜赞美，或者以耶稣的名来祝福。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was not my father. Suddenly I recognised the voice of Art, the man that I had never liked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但那并不是我父亲的声音，忽然我认出了阿特的嗓音，他就是那个我从来也不喜欢的男人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My immediate reaction was to try to regain consciousness, to use the call button, and to call a nurse through to ask him out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我即刻的反应是试着清醒过来，按下呼叫按钮，让护士过来赶他出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all I could not stand the man when I was well, let alone when I was sick. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟在我健康的时候我都无法忍受这个男人，更不用说在生病的时候了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But Art did not leave because God was working on my pride. God had me in a corner where I could not manipulate the situation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但阿特并没有离开，因为神正在工作，好除去我的骄傲，神让我处在一个我根本无能为力的地步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Art began to read, and I began to listen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿特开始读什么，我只能洗耳恭听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He read Psalm 107:20 to me, 'He sent His word and healed them '. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对我读的是《诗篇》107篇20节：“他发命医治他们。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly I realised that this ugly man had been a wonderful instrument, and played sweet music to my dying soul. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忽然间我意识到这个我认为很丑的男人原来是一件奇妙的乐器，对着我垂死的灵魂弹奏着甜美的音乐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to have faith that I might be healed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始有了得医治的信心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Art left, and I determined that, if I did live, I would apologise and tell him how much I loved him for bringing that word of life and hope.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿特离开了，我决定，如果我活下来，我会向他道歉，并会告诉他我是多么爱他，因为他为我带来了生命和希望的话语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the days that followed I almost gave up. On two occasions I had to be resuscitated. Then I developed pneumonia with a high fever. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接下来的几天我几乎放弃了，有两次我不得不接受心脏复苏急救，然后在高烧中我得了肺炎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the end of this forty-four day period, when pneumonia raged, the outlook seemed very poor to my husband, my father and my mother. So they all went home to prepare themselves for my funeral and burial.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这44天快要结束的时候，当肺炎发作时，对我的丈夫和父亲来说，情况看起来相当严重，于是他们都回家为我准备后事了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After they all left I felt as if I had suddenly got on a roller-coaster. When you hit that peak, that topmost point on the ride, I felt as though this was what had happened to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他们全都离开以后，我感到自己好像忽然坐上了过山车，就像当你到达顶点，就是最高点的时候，这种情况正像发生在我身上的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When that sudden lurch came I realised that this was death. It was not frightening, and if it was death, it was very sudden. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这突然的混乱中，我意识到这就是死亡，它来的很突然。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no fear, for death was just changing locations from this place to the other.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果这就是死亡，它并不让人害怕，我也无所畏惧，因为死亡只不过是从一个地方到另一个地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had always been very tall, and it had become a phobia that haunted me all my life. Suddenly that was gone. I began to stand tall and erect, realising that, in the place to which I had come, there were no complexes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的个子很高，这成为盘旋在我整个人生上的恐惧症，忽然间这种恐惧不见了，我开始直直地站立，并意识到，我来的地方没有那么复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stood to my full height realising that, in spite of three operations and forty-four days of tubes into my stomach, that I was well and strong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的身体伸展着，让我意识到，即使经过三次手术和44天的通过胃管进食，我已经好了，强壮了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was walking through a beautiful meadow of waving grass, the strands of which were like green velvet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走过一片美丽的草地，上面的草就像波浪一般舞动，草地就像是绿色的天鹅绒一般。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I walked in my bare feet, life, health and vigour began to come into my body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我光脚行走的时候，生命、健康和活力开始进入我的身体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was outdoors, and the climate was like forever spring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是在户外，天气好像永远停留在春天。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What a joy to learn that Heaven was not sitting on a damp cloud playing a harp. It was not wall to wall church, because there was no need for the church here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>知道天堂不是在压抑的乌云下弹着竖琴是一件多么令人高兴的事儿啊！这里也不是墙对墙的教堂，因为这里不需要教堂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realised I was in the living presence of the Son of God, and we would worship Him forever.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道我是在神儿子的活生生的同在中，我们将敬拜他直到永远。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I walked up a hill I became aware that I was not alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我爬上一座山的时候，我意识到自己并不孤单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To the left, and a little behind me, was a tall angel clad in a transparent garment of white. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我左后边的一点点，就是一位高大的天使，穿着透明的白色衣服。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw his very capable masculine hands, and a masculine face with a knowing look. I realised that the angel had always been there from the day that I had found Jesus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我注意他有一双看上非常能干的男性双手，有一张男性的面容，带着会心的眼神，我明白，这位天使在我找到耶稣那一天就陪着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I had never known it, because I had never needed him until now. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来不知道这一点，因为到现在为止，我并不知道我需要他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Walking along we talked with our 'think'. There was no need for conversation because, just by wishing, we understood each other. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们一边走一边谈话，用我们的“思想”，这里不需要交谈，因为只是想想，我们就能彼此理解对方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We could go from Earth to the galaxies of space, and to the gates of Heaven where, as we approached, I heard the most beautiful singing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们能从地球一直走到宇宙的星系，并走到天堂的大门，当我们靠近那里的时候，听到了最美丽的歌声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As we reached the gates there was melodious and harmonious sounds of music coming over the wall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们到达大门的时候，悠扬和谐的音乐声从墙上传来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suddenly I heard voices whose singing I cannot describe, and I began to sing with them in a way I have never been able to do before or since. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忽然我听到了我无法描述的嗓音在唱歌，于是与他们一起唱起来，在此以前我从未以这种美妙的嗓音唱歌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Standing there I understood all of the languages of the world. The Scripture verse in I John 3 became alive to me, 'When we see Him, we shall be like Him for we shall see Him as He is'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>站在那里我能理解世上所有的语言，《约翰一书》第三章的经文现在成为活生生的：“主若显现，我们必要像他，因为必得见他的真体。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He understands all of the languages being spoken all the time around the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耶稣能理解世上所有的语言，不管是现存的还是已经消亡的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In His presence, I was like Him, and I understood the other languages.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他显现时，我就像他一样，能够理解这些语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Approaching a most majestic gate of solid pearl, the angel touched it. It severed in the centre. When it opened and I stepped inside I saw and felt light such as I cannot describe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>靠近这座极其壮观的，用珍珠做成的大门时，天使碰了一下门，它就从中间分开了，我步入大门，看到的光是我无法描述的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Vivid yellow light, so dazzling and bright that I could not look into it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是一种鲜明的黄色光，如此炫目，如此明亮以致于我无法看进里面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to strain to see where it was coming from. I believe I looked directly into the throne room of God the Father, for seated on His right hand was Jesus, the Son of the living God. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我竭力想看清它是从哪里来的，结果我直接看到了宝座上的一位，我相信是父神，坐在他右首的是耶稣——活神的儿子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was trying to see His face, which caused a brilliant light to be reflected onto a golden boulevard. When I did, the light and the warmth of His face went directly through me, and I was healed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我努力想看到他的面容，他面容上发出的光反映在一条黄金的大道上，当我这样做的时候，那道光和他脸上的温暖直接穿透了我，我被医治了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My past whirled rapidly before me. The present became very wonderful and real, and the things of the future unfolded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我过去的画面在前面快速地旋转，现在的时刻变得非常奇妙和真实，并且未来的事情就在我面前展开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In that 28 minute period I learned so much that it will take many books to write it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在28分钟之内我就学习到如此多，以致于可以就此写出很多本书来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I began to look around. In that light I began to see shafts of direct light ascending from the Earth, directly joining that great light in the throne room. The light in the throne room is the source of all energy, all creativity and all power. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始看向四周，在耶稣的光中，我开始看到有一些光柱直直地从地球升上来，直接加入到宝座所在宫殿的那道大光中，宝座宫殿的那光是所有活力、所有创造力和所有能力的来源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It occurred to me that I had seen the other end of prayer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我突然想到自己曾经见过光柱的那一端的祈祷者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I cannot describe what followed except in great detail, and so have written a book, Prayers that are answered in which I describe this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了详细的细节以外，我不能描述接着发生的，因此我写了一本书，在里面我描述了祷告如何得到回应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I saw the direct shafts of light ascending from the Earth, the reality occurred to me that they were the prayers of people on Earth ascending to the great light in the throne room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我看到有光柱从地球升上来的时候，就表明地球上信徒的祷告被提升到宝座宫殿的大光中了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>God could answer, either by the powers of almighty Heaven, or by angels, or the armies of God. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>神能应答祷告，不是通过天堂的全能的能力，就是通过天使，或者通过神的军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have to realise that in the midst of battle we need not be dismayed, for the powers of the armies of Heaven are at our command when we pray. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们必须明白在祷告的中间我们不能灰心，因为天军的能力在我们祷告时听我们调遣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What made me realise this was that, on one shaft of light, I saw my father's voice being registered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我明白这一点的是这件事，在一道光柱中，我看到我父亲的声音得到了答复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In my book I describe this as a 'The One Word Prayer'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我的书里我将他的祷告称为“一个词的祷告”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother and father had been summoned to the hospital room by the head nurse to tell them that I had died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>护士长让我的母亲和父母我的病房来，好告诉他们说我死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father arrived there first. He walked over to my body, with the equipment removed, and the sheet covering me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的父亲先到，他走到我的尸体旁，医疗装置已经被移去，我的身上盖着一条床单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said that all he could think of to say was to breathe one word of prayer for himself, asking God through this prayer to give him strength to break the news to my husband. He also prayed for my daughter, Brenda, who would be very distressed when she heard the news that her mother had died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说，在那时他所能想到的唯一祷告词就是一个字，通过这个祷告，他请求上帝给他力量把这个消息告诉我的丈夫，他也为我的女儿布兰达祷告，她在听到妈妈已死的消息以后一定会非常低落。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The only word that my father could speak was 'Jesus'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲唯一能说一个词就是“耶稣”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw it, and I heard it. There is power in the name of Jesus. It is sufficient. In that one word prayer was a wish that I had not died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看到了，我也听到了，在耶稣的名里有能力，这就足够了，在这一个词的祷告里，有一个愿望就是我不要死。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I saw it and felt it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看到了，也感到了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I thought I would never want to leave that place, but the power of my father's prayer breathed in the form of a wish, 'Jesus,' healed me and changed my mind. Now I desired to follow his prayer and to come back.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来不想离开这个地方的，但是我父亲那“耶稣”祷告中的能力医治了我，改变了我的想法，现在我更愿意满足他的祷告并回去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I came back down the hill I had walked up, I looked through the roof of the hospital and saw down through the floors and into the room where my body was covered with a sheet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我回去，走下经过来的那座山时，我透过医院的屋顶和地板，向下看到了放置我尸体的病房，我的尸体还盖着那条床单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As I came closer I saw a direct shaft of the sunrays coming through the glass into my room. The sun was shining on my body, and suddenly I felt as though I had gone in an elevator and had hit the bottom floor. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我走近时，我看到一道日光穿过玻璃照进病房，太阳就在我的身体上闪耀，忽然间我觉得自己好像进了一个电梯，这电梯直冲到一楼，有种陷入困境的突然感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a sudden lurch sensation of inertia and I felt my body begin to warm and I touched the sheet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感到自己的身体开始变得温暖，我能摸到床单了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the centre of that shaft of light, I saw ivory letters about two inches coming towards me. I remembered what Art had read, 'He sent His word and healed them'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那道光的中间，我看到一些乳白色的两英寸大小的字母向我飘来，这让我想起了阿特向我读过的：“他发命医治他们。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

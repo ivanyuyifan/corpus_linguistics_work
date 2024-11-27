@@ -1,0 +1,1560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T154901Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Love Game</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爱的游戏</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When marimba rhythms start to play</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当木琴的旋律开始奏起，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dance with me, make me sway</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请与我共舞，让我摇摆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like a lazy ocean hugs the shore</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像慵懒的海水拥抱着海滩，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hold me close, sway me more</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将我抱紧，让我摇摆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like a flower bending in the breeze</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像一朵鲜花在微风中弯曲，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bend with me, sway with ease</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随我弯腰，轻松摇摆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we dance you have a way with me</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们共舞你将我驯服，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stay with me, sway with me</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请别离开，随我摇摆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other dancers may be on the floor</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>舞池中仍有其他舞者，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dear, but my eyes will see only you</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可亲爱的我的眼中只有你</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only you have the magic technique</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有你有那魔幻的技巧，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we sway I go weak</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在摇摆中让我痴迷</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can hear the sounds of violins</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小提琴的声音还未响起，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long before it begins</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我却早已听到它的韵律</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make me thrill as only you know how</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那刺激的感觉只有你才知道，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sway me smooth, sway me now</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>圆润流畅，与我摇摆</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Light breeze drifted through a little patch of trees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>轻柔的微风从一片常绿树林中轻轻穿过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Morning sunshine splattered through the evergreen leaves and branches, falling onto a cluster of viburnum that was growing under the tree. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早晨的阳光在绿色的枝叶间洒下，落在树下一簇低矮的清丽花丛中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A little bell shaped flower dangled in the winds, nodding from the tip of a hollow scape that stands just about the threadlike leaves. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长长的粉绿色的叶丛中，悬挂着一个铃铛似的花朵，娇小玲珑，在风中轻轻点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had six snow-white petals, each with a small emerald green spot near its tip.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它有着六个雪白的花瓣，花瓣顶端镶嵌着造型美丽的翡翠绿斑，显得格外亲切可爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A young man walked into the forest, enjoying the early morning freshness of the air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一位年轻人走进丛林，享受着这清冽的初春气息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His eyes lighted up when he spotted the little flower. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>忽然，他眼睛一亮，随意的目光落到那小小的白花之上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Awww, a little snowflake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“噢，一朵小雪花莲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Haven't you opened a little early this year? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你开的是不是有点早了呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>See your friends are still not here yet." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你看，你的伙伴们都还没有来呢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He sat down beside the snowflake, took out a flute and started to play.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在雪花莲旁边的石头上坐下，拿出一支笛子，开始吹了起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every morning, he came to play his flute beside the little snowflake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天早晨，他都会这样来到小雪花莲的旁边吹他的长笛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every morning, the little snowflake danced with the soft and fluent music that flew around the forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每天早晨，小雪花莲亦会随着那环绕林中的轻幽柔美的音乐在风中轻舞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day, while he was playing the flute, he heard a light laugh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天，吹笛子的时候，他忽然听到了一声轻笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned around, and saw her, white dress, black hair, with an emerald green ribbon on her hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>转过身，他便看到了她，白衣飘飘，乌黑的长发上束着一个翠绿的发带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Who are you?" "I live in this forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你是谁？”她微笑着：“我就住在这片森林里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I like your flute so much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很喜欢你吹的笛子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you play it for me one more time?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以为我再吹一曲吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He played, and she danced with the music. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他点头，将长笛缓缓举到嘴边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then she ran away, laughing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而她便随着音乐跳起舞来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The forest became quiet again, like nothing had happened. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>森林重又变得宁静，好像什么也没有发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He rubbed his eyes, and tried to search the depths of the forest, but he couldn't find any trace of her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他揉了揉眼睛，向森林的深处望去，可是却找不到她的任何踪影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next morning, he came and played his flute. And she came again, laughing and dancing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天早上，他来到树林里吹笛子的时候，她又来了，笑着，舞着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The snowflake flowers had now bloomed, like little white stars in a green sky, stopping every pair of eyes of people who happened to pass by. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>春已经深了，雪花莲盛开着，像一颗颗白色的星星在绿色的天幕上闪烁，让每一个正巧路过的人不经意地驻足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many fresh mornings passed, she danced to his music and laughed with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个一个清新的早晨就这样悄悄过去了，他为她吹笛，她为他起舞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But every time when he tried to catch her hands, she fled and disappeared into the forest.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但每次当他试图抓住她的手的时候，她就会咯咯笑着，逃到森林深处，消失不见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One day, he didn't come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一天，他没有来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the next day, he didn't come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，他依然没来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The early summer was hot and dry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是一个炎热而干燥的初夏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There hadn't been a rainfall for many many days. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很久都没有下雨了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>White snowflake petals shed to the ground, and became brown.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白色的雪花莲花瓣飘落到地面，变成了暗淡的褐色。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What happened? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“出什么事了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What can I do?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我该怎么办呢？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She asked. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她问出声来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I want to become a human like him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“或许，我能变成像他一样。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Human life is very short, snowflake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“人的生命是很短促的，小雪花莲。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The flower spirits don't die." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而花仙却永远不会死。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A voice answered.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她忽然听到一个声音的回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I don't care. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我不在乎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to be like him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我只想变成像他一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to be with him."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要和他在一起。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sigh. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“唉。”那声音叹息了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he loves you, when he kisses you, you'll be turned into a real woman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他真的爱你，当他吻你的时侯，你就会变成一个真正的女人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But you'll never be able to turn back to your original shape, and you'll never be able to come back to us, you understand?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，你却永远都不能再回头了。你永远都不会回到原来的形状，也永远不能回来和你的姐妹们在一起，你明白吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“好的！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I understand." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我明白了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A big smile blossomed at the corners of her dry lips.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一朵笑容在她干裂的唇角绽开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He finally came. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天，他终于来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A little water can was in his hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手里提着一个小小的水壶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This summer must be hard for you, little snowflake." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“今年夏天苦了你了，小雪花莲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He murmured when he poured water to the root of the plant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他喃喃地说着，将水一瓢一瓢地浇在花根。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Snowflake's heart was so full, and so sweet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小雪花莲的心满溢着甜美。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Play your flute for me, please." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“再为我吹一曲笛子吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She whispered into the wind.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轻轻低语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Wow, such beautiful flowers!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哇，好漂亮的花！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A soft girl's voice sounded behind the young man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个女孩的柔软声音从年轻人的身后响起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He turned to her and smiled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他转过身，淡淡地朝着她笑了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes, they are pretty, aren't they? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是啊，它们都很漂亮，是不是？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to come here and play my flute everyday. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我过去每天都会来这里吹笛子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is a girl live in this forest too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一个女孩子就在这片林子里住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I used to think she is a fairy." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾经以为她是个仙女呢。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said dreamingly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的声音飘忽着，如梦如幻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Come on, let's go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“咱们快走吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We are almost late for the flight."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再晚就赶不上飞机了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Wait a second. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“等一下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I want to play my flute one last time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想最后再吹一次笛子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And I'll introduce you to her if she comes. I want to say goodbye to her."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希望能跟她说一声再见。如果她来了的话，我会介绍你认识她。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He raised the flute to his mouth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缓缓地，他把笛子放到嘴边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soft music flew around the trees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>轻柔的音乐又一次飞翔在寂静的林间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she didn't come. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，她却再没有出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He finished his music, sighed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一曲终了，他轻轻地叹息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He knelt down beside the snowflake, gently touched the snow-white petal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在身旁的雪花莲边上跪下，用指尖轻触着那雪白色的花瓣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good bye little snowflake." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“再见了，小雪花莲。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A drop of water rolled out off the snowflake petal, into his hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一滴圆圆的水珠从花瓣上滚下，滑落到他的手中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He suddenly felt dizzy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他突然感到一阵晕眩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He saw the girl again, white dress, black hair, with a green ribbon on her hair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恍惚中，他又看到了那女孩，白衣飘飘，乌黑的长发上束着一条翠绿的发带。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She slowly rose up from the snowflake flower, wrapped her arms around him, and pressed her lips on his. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从雪花莲边缓缓升起，两只手环绕着他的脖子，红唇轻轻印向他的嘴唇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He felt like a static shock on his lips, and through his body. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他只觉得如遇电击，在周身传遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And he suddenly woke up. He stood up and looked around. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>片刻之后，他清醒过来，站起身环顾四周。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The forest was quiet as before except for the light breeze blew through the trees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>安静的小树林像从前一样，哪有芳踪渺渺，只余微风淡淡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He opened his hand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他张开手，低头看去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A snowflake petal lay inside. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一片白色的雪花莲花瓣静静地躺在他的手心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was as white as snow, with a small emerald green spot near its tip. Like a teardrop.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>花瓣如雪。在那花瓣的顶端有一个小小的绿斑，好像一滴翠绿的珠泪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A gust of wind swirled around with scattered snow-white flower petals. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵大风吹过，散落一地的雪花莲花瓣被风吹起，在空中飞舞盘旋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A dimly lighted phrase showed up in the middle of the snowflake background: "Sorry, you lost." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一行闪着暗暗荧光的字样在雪白花瓣的背景下现出：“对不起，你输了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Flinging open the cover, the girl stood up from her seat drearily and walked toward the game master desk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女孩掀开身后游戏舱的盖子，站起身来，满怀忧郁地朝管理员走去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She handed her game piece card to the GM and said simply, "I'd like to play another game please." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她递上自己的游戏卡，简单地说：“我想再玩一次。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The GM inserted her GP card into the GP reader, and then handed it back to her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>管理员无语接过，将卡插进读卡机，然后递还给她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another one hooked up hopelessly, he sighed to himself.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“又是一个无可救药地迷上这游戏的人。”他在心中轻叹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fly me to the moon</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我飞向月亮，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me sing among those stars</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我在群星之间歌唱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me see what spring is like  On Jupiter and Mars</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我看看在木星和火星上春天是什么模样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, hold my hand</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，请握紧我的双手；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, baby kiss me</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，请轻轻吻我</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fill my heart with song</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让歌声填满我的心灵，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let me sing for ever more</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让我永不停歇的歌唱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You are all I long for</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你是我所有的渴望，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All I worship and adore</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的崇拜，我的挚爱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, please be true</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，请别改变；</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In other words, I love you</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，我爱你</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been seven days now since she ran out of the Hive after him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自她从深埋地底的营地里追出来的那天起，这已经是第七天了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She still remembered their brief conversation before he left.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回想起来，他离开之前他们那段短短的交谈依然历历在目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You finally did the most honorable thing." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你终于做了决定了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said quietly.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她静静地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You understand what I did and why, then?" He looked at her.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能明白我的选择吗？”他看着她的眼睛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes I do understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是，我明白。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You have tried to do all you can for what you believe to be the right thing to do." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你只是在做你认为对的事情。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She tried to remain as composed as she could. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她尽力维持着声音的平静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You want me to go with you?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你要我和你一起走吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's up to you. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这只能是你自己的决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I couldn't possibly love you any more, but I'd catch you when you jumped, and hold your hand afterwards." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也许不能再爱你了，但如果有一天你从悬崖上跳下，我会用双臂接住你，再与你携手同行。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He paused, and then added, "There's not much else I can offer."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他停了一下，然后补充说，”我再没有什么别的可以给你了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her heart still pained at the coldness in his words. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她至今仍然在为他话语的冰冷无情而心痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But she hated herself more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但她更恨自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For she had hesitated, wondering among duty, honor, and the most important thing in her life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恨自己的犹豫。恨自己曾在责任、荣誉，和她生命中最重要的事情之间徘徊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no trace of him when she finally left a note and went after him from the underground. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她终于留下一张字条，带着她从小养大的阿尔法星脑虫莉莉追出营地，地面上早已没有他的踪影。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had tried hard to remember what he had said before and tried to imagine which direction he would be heading. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她拼命回忆着他过去的言谈，希望能猜出他远行的方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was thrilled when she found his abandoned rover parked beside a huge fungus field at a cliff side. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当她在一个悬崖边发现那辆被他遗弃的星球车的时候，她是何等的狂喜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But all trails had gone cold from there.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但从那时起，所有的线索都断了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had found her black butterfly in his rover. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的车里，她看见了她的黑蝴蝶通讯仪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew he never intended to use it when she gave it to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实，在她把黑蝴蝶送给他的时候，她就知道他从来没打算过用它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it still made her heart sink seeing it left behind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，看到他竟真的弃之如履，她的心仍不免为之一沉，看起来，他真的是和所有的一切决断了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He did not leave anything for her, not a clue, or a note. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的车里，他没给她留下只言片语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She knew him too well to expect otherwise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以她对他的了解，她也知道不能有什么奢望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still she spent the entire night inside his rover, wishing to find the last warmth of his presence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，她还是在他的车里度过了一整个晚上，寻觅着他最后依稀的温暖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had left her own rover there and started walking on foot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那天开始，她就离开了自己的星球车，开始徒步行走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That was five days ago, or so she believed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这应该是五天前的事了，她想。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was not really sure about days and times any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其实她已经记不太清楚时间和日期了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her foods were all gone, and she was no longer bothered by the sourness of her legs and feet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她只知道，她带出来的食物已经没有了，而她酸痛的双腿也早已麻木。她只是一直向前走着，走着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The worst part was the quietness, the fear. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最受不了的还是那份可怕的寂静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Having lived long in the underground tunnels of the Hive, she was not used to staying above ground for so long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从来到阿尔法星，她绝大部分的时间都是住在宽敞温暖的地下隧道里，很少上到地面上来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world around her seemed so big and strange, and she felt so small and lonely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四面环顾，周围的世界是那么的空旷而怪异，而她自己却是如此的渺小而孤单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lily had kept her company, and kept her safe from the mindworms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好在她还有莉莉，那阿尔法星脑虫庞大圆润的身体像一个扁扁的圆球，一直绕在她的身边飞行。莉莉让她觉得很安全。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he didn't have a mindworm of his own, how would the nights be for him?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可他却并没有一个自己的阿尔法星脑虫呵。这些天的晚上，他都是怎么过的呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She stopped in front of another patch of fungus while Lily happily dived into it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天色渐晚，她来到一片巨大的真菌林前。那火红的野生真菌丛有一人多高，密密的纠缠着。莉莉兴奋地冲入林中，尽情吸取着那林中的蕴气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unattended fungus grew wildly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样的野生真菌林是阿尔法星脑虫最喜爱的滋生地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He couldn't have been here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他应该不会到过这里吧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But where could he be? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，他又会在哪里呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She sighed to herself and started to clear up an area where she could start a fire.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她叹了口气，开始清理出一小块地，准备在那里生火休息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The night was getting chillier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>寒夜静静。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She sat in front of the fire, arms wrapped around her knees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她坐在火前，双手搂着膝盖，将头埋在臂弯中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was such a strange feeling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是怎样一种奇怪的感觉呀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had nothing to lean upon, nothing to hold on to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四周空荡荡的，没有陪伴，没有倚靠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sky was so high, as if it was going to fall. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天是这么的高，好像随时会掉下来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fire was flickering, as if it was unreal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>火是那样的飘忽，仿佛会在夜色中消散。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She closed her eyes, rocking herself back and forth slowly without conscious.... I'd catch you when you jumped, and hold your hand afterwards... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她闭上了眼睛，不自觉的前后摇晃起来...如果你从悬崖上跳下，我会用双臂接住你，再与你携手同行...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She heard his voice again, warm and comforting beside her ears. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耳边又响起了他的声音，给她一份依靠和温暖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She kept her eyes closed, wishing sleep would soon fall upon her.... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她闭着双眼，慢慢地等待着睡神的降临。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A finger, gently lifted a curl of hair from her temple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那似睡似醒之间，忽然，一只手指轻触她的额头，将一缕发丝温柔地撩起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She trembled inside, but she kept her eyes closed tight. She could smell him, and feel the warmness of his body. It was him... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的心颤抖起来。是他呵，他终于来了。她可以闻到他独特的男性气息。感觉到他体温的温暖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hand continued caressing her hair. She stayed still, afraid that it would go away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她一动不动，紧闭着双眼，任凭那手指在她的额上轻轻划过，生怕一睁眼那一切就会消失不见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hands slowly traced the edge of her face, slid to her neck, and down to her shoulders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手从她的长发抚过，爱怜地轻摩着她冰冷的面颊。手指缓缓滑过她柔软的嘴唇，光滑的脖颈，慢慢地顺着肩头滑下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A little gasp escaped her lips when they were touched by his lips. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她双唇微启，一声轻轻的呻吟从嘴边滑出，却被那忽然覆上的火热嘴唇打断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world started to fade away... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的世界旋转起来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her blood felt hot... Every cell of her body hungrily breathed him in. She moaned... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只剩下她身体里的血沸腾着，每一颗细胞颤动着，渴望着他的触摸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He deepened his kiss. She was lost in a sea... floating... She could not breathe... His hand caressing her... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将她拥入他宽厚的胸膛，深吻着，爱抚着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long fingers wrapped around her neck, tightening...Half consciously, she tried moving her head back away from him, but she couldn't. Her mouth covered by his... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手用力的将她拥紧，越来越紧，直至她无法呼吸。她将头向后仰去，却离不开他火热的双唇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She struggled to push him away but she couldn't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她伸出手用力推他，却无法离开他的前胸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was caressing... tightening... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他深吻着，抚摸着，双手越来越紧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whispers surrounded her, seducing, luring... "Hongieee..." Please... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>耳边是他磁性的低语，她呻吟着，挣扎着，却仍然无法呼吸...求求你...不要...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She couldn't breathe... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无法呼吸...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sharp pain shot through her head and she was suddenly free. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一阵剧烈的疼痛像闪电撕裂她的脑海。她忽然从那紧紧的束缚之中挣脱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She opened her eyes wide and gasped in fresh air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她睁开眼，大口的喘着气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lily rotated around her, while a large boil of mindworms slowly receded toward the crimson colored fungus.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莉莉围着她的身边急速地飞着，一只巨大的阿尔法星脑虫正向那野生真菌林中姗姗退去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"You saved me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“是你救了我。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She looked at Lily appreciatively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她感激的看着莉莉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As if reading her mind, Lily stopped rotating and descended in front of her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莉莉停了下来，悠悠地悬浮在她身前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pressing on her aching temple, she knew she was too tired. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她轻揉着自己的太阳穴，站起身来。她知道自己是太累了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She would not have fallen under the psych assault of the worms this easily, if she were her normal self. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要不然她也不会如此轻易地被脑虫的神经攻击侵入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Centauri A was rising from the horizon. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她望向天际，半人马座A正从地平线冉冉升起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was time to head back, she decided, pushing away all thoughts of him.... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是时候该回去了，她对自己说。忘了他，别再想他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His hand touching her body... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的手是怎样的在她的身上爱抚着...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She shook her head, and looked toward the direction the mindworm went, hoping to redirect her thought to the imminent danger.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她使劲摇了摇头，想把脑海中那些迷幻的记忆甩掉。她向那片野生的真菌林中望去，希望以那临近的危险来冲淡她纷乱的思绪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her blood froze at what she saw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是，她看见的那是怎样的一幅景象呵。她整个人都惊呆了，好像被凉水当头浇下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Far inside the red fungus, a colony of golden mindworms wiggled, their antennae thrusting into the air. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只见那火红的真菌丛的深处，漂浮着上千个脑虫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A man stood in the middle of the mindworms, fighting to keep them away from him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那众多的脑虫中央，站着一名男子，正奋力推挡，维持着一个小小的空间而不让那些脑虫近身。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's him! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那是他！是他啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She pushed Lily away, and continued running toward him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她用手拨开莉莉，向林中飞奔而去。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

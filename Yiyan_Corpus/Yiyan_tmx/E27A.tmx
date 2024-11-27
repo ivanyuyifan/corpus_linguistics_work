@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>How To Make An eBook </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如何制作电子书？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Making an eBook is easy, regardless of your coding experience. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制作电子书很简单，与你编程经验丰富与否无关。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is good, because 99.9% of your time should be spent on writing and getting your book out there, rather than on technology.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这点很对，因为你99.9%的时间应该花费在写作，并集结成书上面，而非纠缠于技术细节。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>EPUB And Kindle</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB 和 Kindle</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Any electronic book can be called an eBook, but because over 90% of all eBooks are read on Amazon's Kindle, Apple's iOS devices (iPad, iPhone and iPod) and the Barnes &amp; Noble Nook, I'll focus on the formats for those platforms:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>任何以电子信息形式存储的书都可被称作是电子书（eBook），但是由于90%以上的电子书是通过亚马逊的Kindle，苹果的iOS设备（iPad，iPhone和iPod）及巴诺的Nook阅读的，因此我将关注下上述平台所支持的电子书格式类型：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>EPUB</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB格式</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is an open standard adopted by Apple (iOS), Barnes &amp; Noble (Nook) and many other makers of eBook readers (such as Sony). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是苹果，巴诺以及其他电子书阅读器制造商所采纳的开放标准。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unfortunately, Amazon has decided NOT to support EPUB in the next version of their Kindle.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但遗憾的是亚马逊下一代的Kindle已决定不支持EPUB格式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Kindle</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Kindle格式</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is a proprietary format that Amazon uses for its Kindle, which is a modification of the Mobipocket format.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这是亚马逊Kindle所使用的私有格式，系Mobipocket格式的变种。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PDF</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>PDF格式</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>PDF is inherently made for print and doesn't display well on digital devices. But if you really need to get data out to an iOS or Android devicenow, then it's a useful format. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>PDF原本是做打印之用，在数字设备上显示效果不好，但是如果你的确需要将数据导入到iOS或是Android设备上的话，那么这个格式很有用。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Update: Kindle DOES support PDF.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>（更新：Kindle也支持PDF）</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aside to geeks: The current version of EPUB is based on XHTML 1.1, which was officially proposed in 1999. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>题外话：目前版本的EPUB是就XHTML1.1标准的，该标注是1999年正式提出的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That was the year when Internet Explorer 5.0 was released and grabbed over 50% of browser market share from Netscape Navigator. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当年IE5问世，并从网景公司公司手中夺走50%的市场份额。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This is great because XHTML is an open standard that many developers know; unfortunately, it's very old.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>好的地方是，XHTML是开放标准，坏的地方是，这个标准太老了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>What Kind Of Book Makes The Best eBook?</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>哪类书最适合做电子书？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>EPUB was truly designed to display text, possibly with some inline images. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB真正是用来显示文本，以及一些内嵌图片。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>While creating an EPUB illustrated children's book, comic book, travel book or cookbook is possible, it's a lot more work and doesn't work very consistently across platforms. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管使用EPUB来做儿童书，漫画书，旅游书和烹饪书也是可以的，但是工作量巨大，而且在各平台上的表现不一致。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A good rule of thumb is that eBooks are best for books with a lot of words (think New York Times bestseller list).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>根据经验，电子书最适合有大量文字内容的图书（像纽约时报书榜上的畅销书）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>When deciding whether your book is a good candidate for an eBook, keep in mind that the "killer feature" of eBooks, surprisingly, is their ability to increase in font size. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在判断你手中的书是否适合做成电子书时，请随时牢记，电子书的”杀手锏“功能就是能够增加字体（有些意外吧）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This means that every book becomes a large-type book, which is why baby-boomers have driven the adoption of digital books over the past few years.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这表明所有书都可以变成大字体，这也是过去几年中婴儿潮一代人接受电子书的重要原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Also keep in mind that more than half of all eBook-reading devices are black and white, which is another reason to steer clear of picture-based books.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外需要牢记的是有超过一半的电子书阅读设备是黑白的，这也是要放弃图片类书籍的的另一重要原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These demographics and format limitations will change over time. But for now, my recommendation is to make your first eBook a text-based one.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些格式和设备的局限会岁渐时间变化，但是目前，我建议制作的第一本电子书最好是文字类的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Aside to geeks: If you're interested in making a picture book for iOS devices and aren't afraid of code, check out Elizabeth Castro's excellent guide on how to code a fixed-layout EPUB file.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>题外话：如果你对在iOS设备上制作图画书很感兴趣，并且不怕写代码，可拜读Elizabeth Castro的指南，学习如何制作固定布局（Fix-layout）的EPUB文件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Making Your First eBook </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制作你的第一本电子书</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The easiest way to make an eBook is to outsource it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制作电子书最简单的办法是外包。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>A number of services, such as Lulu and Smashwords, will translate your Word document into an EPUB fairly inexpensively. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>另外诸如Lulu和Smashwords的网站也可以非常方便的将Word文档转换成EPUBw文件。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>These services have relationships with Amazon and Apple (as well as other digital bookstores) and will not only create your digital eBook but submit it to these bookstores for a small fee. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这些网站与亚马逊和苹果有联系，它们不仅能够帮你制作电子书，而且在收取一点费用后帮你把书提及到上述平台的电子书城中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>For more information on choosing a service, see Christine Mark's guide on choosing an EPUB publisher.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>若要了解有关服务选择更多信息，读者可查阅Christine Mark这篇EPUB出版商服务选择指南的文章</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you want to sell your book only in Amazon's Kindle Store, you can convert your Word file for free by submitting it yourself to Amazon's Kindle Direct Publishing(KDP). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你只想在亚马逊的kindle商店售书，你可以将Word文件自己提交到亚马逊的数字自助出版平台 Kindle Direct Publishing ，免费转换文档格式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're mostly interested in Apple's eco-system, then you probably already have a copy of Pages on your machine (if not, you can get it for $20). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你对苹果生态圈很感兴趣，你可能在自己机器上已经安装有Pages（如果没，花20美元就可以买份）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Pages is Apple's version of Microsoft Word and has a simple and effective EPUB export option. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>Pages是苹果版的Word，提供便捷有效的EPUB导出选项。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To create your book, simply make the first page your book's cover, use section breaks between chapters, and then select File -&gt; Export -&gt; EPUB.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>要制作自己的电子书，只需将第一页作为封面，在章节之间使用分节符（section break），然后选择文件→导出→EPUB。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you don't have a Mac or want to convert to more formats, your best choice of software is Calibre. Calibre is relatively easy to use and does a good job of converting from many standard formats (including Microsoft Word) to the top eBook formats (EPUB and the Kindle's Mobipocket format). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你手头没有Mac，或者想转换成更多的格式，那你最佳的选择就是Calibre，Calibre使用极为简单，并且可从将诸多格式（其中就包括微软的Word）转换成电子书格式（EPUB和Kindle的Mobipocket格式）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can download Calibre for free. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>你可免费下载Calibre。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Alternatively, if you need to convert only to Kindle, Amazon provides free conversion software called Kindlegen.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你秩序转换成Kindle的格式，亚马逊提供了免费的转换软件Kindlegen。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Another common choice for building eBooks is InDesign, but I'd recommend that you steer clear from it until you have a few eBooks under your belt. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>制作电子书的另一常见之选是用inDesign，但是若你还没有通过制作过几本电子积累些经验的话，我建议你先不用考虑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even though it technically can export to EPUB and Kindle formats, it's a bit clunky and adds a lot of crud. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>虽然从技术上讲它可以导出EPUB和Kindle格式，但是有点笨拙，并且而且夹诸多杂私货。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>More importantly, InDesign was built from the ground up to handle print, so it encourages you to think in print metaphors, which don't always apply to eBooks and which will lead to layout problems. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>更为重要的是，InDesign完全是为从印刷方面考虑制作的，它鼓励你从印刷效果的具体表现上思考，这点并不总是适合电子书，并且会导致布局问题。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In our experience, programming your own EPUBs by hand is easier. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>依我经验之见，手工编写EPUB更容易。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even still, I don't recommend it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>但我仍不推荐这样干。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Coding By Hand </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>手工编写EPUB</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If everything said above sounds too easy and you're looking for a challenge, another option is to code your EPUB by hand. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果上面讲的东西听起来太简单了，你想寻找点挑战，那么你可以自手工编写EPUB文件代码。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This feels like programming in a time warp. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过写起来的感觉仿佛穿越时空隧道，回到以前。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>EPUB is built on such an outdated version of XHTML that half the time you'll be reminding yourself that everything in the EPUB must be declared in the manifest file (really?), while the other half of the time you'll be recalling how you used to program HTML in the '90s.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB是以过时的旧版XHTML为基础的，你有一半的时间会不停的提醒自己要在描述文件（manifest file）中声明EPUB的所有内容，而另一半时间你则不停的回想上世纪90年代你是怎么书写HMTL的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you're still not convinced and have a pressing desire to learn how to code an EPUB by hand, you have two options: </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>到这里你还不知难而退，渴望学习手工书写EPUB文件，那么你面前有两个选择：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Grab an EPUB from the Web that doesn't have any DRM in it. Change the extension from .epub to .zip and unZip it (you may need to use Stuffit Expander if you're on a Mac). </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>从网上随便找个没带数字版权保护（DRM）的EPUB文件，将文件后缀.epub改成.zip，然后解压（如果你用的是苹果Mac，你可能需要用到Stuffit Expander）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Now you're free to hack away at the file and see what happens. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>接下来你就可以深入内部了解情况。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Keep in mind that every file in the EPUB must be in the manifest (package.opf). There are a couple of books you can pick apart to get started (including my best-selling children's book, which you can get for free on my website or buy from the Apple bookstore to show your love).</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>请牢记，EPUB中的任何文件都必须在manifest（package.opf）中，你可从这个页面上挑选几本书开始练习（其中就包含我最畅销的少儿图书，你可以从我的网站上免费下载，或者从苹果的网上书店下载，献点”爱心“）。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Check out "EPUB Straight to the Point" by Elizabeth Castro, and she'll walk you through it.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>读读Elizabeth Castro的《直奔主题学做EPUB电子书》，她会领你学习EPUB电子书的制作。 </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The container.xml file, MIME type, and folder structure are pretty standard for all books. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>container.xml文件，MIME类型以及文件夹结构对所有类型的书而言都是标准化的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Images can be in PNG, JPEG, GIF or SVG format. I usually stick with PNG, with JPEG as a fall-back.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>图片可以是PNG，JPEG，GIF和SVG格式，我一般优先采用PNG，JPEG做后备选项。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The epb.ncx file is the table of contents and is pretty straightforward.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>epb.ncx文件是内容目录，也很直观。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The epb.opf file is the manifest where you set the meta data (title, author, ISBN, etc.), but it's also where every other file in the EPUB is declared. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>epb.opf文件是manifest，你可以设置元数据（书名，作者，ISBN书号等）。EPUB中的所有文件都需在此声明。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Every image, HTML or CSS file must be listed here. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>所有的图片，HTML，CSS文件都必须罗列与此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>It's a pain in the butt and one reason why I personally avoid hand-coding EPUB if possible.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这点非常蛋疼，也是我个人不推荐手工写EPUB文件的原因之一。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The CSS is pretty much what you'd expect, although a very limited subset.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>不过这里的CSS是个CSS部分子集，除此之外没有差别。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The HTML is also very straightforward. Below is a sample of the HTML that Apple Pages spit out for my book. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>HTML也非常直观，下面就是用苹果Pages从我的电子书中剥离出的部分内容。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>As you can see, it's not very pretty (instead of a simple), but it's functional and easy to understand.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如你所见，代码并不优雅（像使用而不是简单采用），但是实用性还行，并且易于理解。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you are creating your own EPUB, be sure to validate it with Threepress' validator, and consider using Calibre to convert your EPUB to a Kindle-friendly format.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果正在制作自己的EPUB电子书，记得使用Threepress验证工具 做下检验，另外也可考虑使用 Calibre将EPUB转成kindle支持的格式。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Future Of EPUB</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB的未来</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>EPUB 3.0 holds a lot of promise and includes the following changes (many of which Apple has already adopted): </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>EPUB3.0承载这诸多期许，其中就包括下列内容（其中不少已经被苹果采纳）： </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Support for HTML5 (yay!) and CSS 2.1;
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>支持HTML5和CSS2.1</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Various structural changes to file names and locations; </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>文件名称和位置的各种结构性变化。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Support for embedded fonts, audio and video, as well as media overlays and triggers and scripts.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>支持内嵌字体，音频和视频，另外也支持媒体覆盖（Media overlays），触发器以及脚本。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Unfortunately, EPUB 3.0 doesn't support illustrated books, so we can expect to see some fragmentation as Apple and other vendors innovate around these limitations.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>遗憾的是，EPUB 3.0仍不支持插图类书本，因此我们可以期待苹果或其他厂商围绕这些局限性做一些突破。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>With the next version of Kindle supporting EPUB, we'll see over the next year or two whether we wind up with an "Apple EPUB" and an "Amazon EPUB," or a "pure" EPUB format. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>随着下一代Kindle对EPUB格式的支持，最终是苹果的EPUB还是亚马逊的EPUB或是纯正的EPUB格式胜出，未来一两年我们便可见分晓。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Ultimately, the answer will depend on how quickly the International Digital Publishing Forum (IDPF) can finalize its standards.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>最终，这个还要取决于于国际数字出版论坛（IDPF）能以多块的速度最终敲定标准。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Of course, all of this speculation about the future is somewhat theoretical. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当然所有对未来的猜测都只是理论上的。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you have a book to publish now, my suggestion is don't worry about the future; just dive right in and make it. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果你手头有一本书需要出版，那我的建议是别对未来有过多顾虑。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>And let me know in the comments how it turned out and what worked best for you.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>动手做就是了。</seg></tuv>
+</tu>
+</body>
+</tmx>

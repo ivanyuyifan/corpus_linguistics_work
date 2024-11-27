@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T145836Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Easy homemade soap </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简易手工皂制作</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use this simple recipe and you'll be lathering up with your own soap in no time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用这个简单的配方，瞬间你也可以将自己涂满亲手制作的手工皂！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As the last generations of Depression-era children or back-to-the-landers take their leave of this world, their DIY skills go with them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大萧条和自给自足时期的孩童们，大多现已不在人世，也带走了他们许多diy的技能。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When we try to learn from scratch, we soon discover that recipes in books don't tell half the story.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我们追流溯源翻开他们留下的手稿时，总会怅然若失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>DIY soap making and other skills slipping away</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正在消失的DIY技能</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have never figured out why this knowledge started slipping away from us, but I am trying to re-learn some of the basics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我一直没有想通，为什么这些宝贵的DIY技能与我们现在的生活渐行渐远了。不过，我仍然在尝试着捡起其中一些最基本的制作工艺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I now make my own soap, hand lotion, yogurt and bread. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，我们家的香皂，护手霜，酸奶和面包全能够自给自足了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am trying to figure out toothpaste, but it is hard to find good information about abrasion damage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还在研究怎么自己做牙膏，可惜我还没有弄清楚在牙膏里面加怎样的磨料可以不磨损牙齿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also found a great cheese site, which has a recipe for labneh, a cheese I can make from my homemade yogurt, and I plan to make other cheeses with my friends, who write about the Hundred Mile Diet.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除此之外我发现了一个很好的教学奶酪制作的网站，他们有制作浓缩酸奶的配方，可以让我的自制酸奶发挥上用场拉！我的朋友们写了一篇 Hundred Mile Diet的文章，我正准备与他们一起做奶酪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My soap recipe is customized to use full bottles of most of the oils, so you don't have a lot of inventory lying around, and you don't have to do a lot of measuring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的手工皂配方通常会要用掉整瓶的油，所以你不必七七八八囤上许多不同的油品，也不用不停的计算每种油的用量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Normally, making soap requires a lot of finicky weighing, since measuring by volume isn't considered accurate enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为按体积计算用油量一般不很精确，所以制作手工皂得小心的称量每一份原材料喔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So far I have had no problems, and, for those without a scale, I give both weight and volume in this recipe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你的家里没有秤来称重量，在以下的配方里我也给出了每份材料的重量所对应的体积，无论按体积或者重量计算，打造出来的皂皂都是很好用的喔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Making homemade soap can be dangerous </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手工皂制作有风险！？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before we begin, let me stress that soap-making can be dangerous. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我们开始之前，我得强调一下做手工皂是有一点点的危险性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although it is easy to become comfortable with the process, you should only make soap when you fully understand the safety procedures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然打皂很容易上手，在这之前你可不要忘记全面地了解打皂的安全措施喔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here is some general homemade soap information </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手工皂的基本制作方法</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Soap is made in two parts, lye and water, plus a mixture of oils. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>皂皂是由两部分组成的：碱水，混合上油脂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The two don't combine easily, so they must be brought to similar temperatures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这两部分很难均匀地混合，所以首先你需要把他们加热到相同的温度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lye and water get very hot when mixed, so the mixture must cool before being added to the oils.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烧碱加入水中时会产生大量地热，所以混入油脂前，你需要先将碱水冷却。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oils must be gently heated. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>加热油相时要缓慢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The oil is nowhere near hot enough to cook with, but still, please do not start any fires. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然油相受热的程度远不能拿来炒菜，但还是小心为好防止火灾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every oil has a different saponification index, which is a measure of how much lye is required to turn that oil into soap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不同的油品有不同的皂化值。也就是说，每一种油需要不同量的碱水来使自己变成皂皂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This means, if you run out of coconut oil, don't go replacing it with olive oil.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这就意味着，如果你椰子油不够用了，可千万别随手拿来一瓶橄榄油来充数。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lye is VERY caustic, so don't get any on your skin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烧碱的腐蚀性非常强，所以别让它沾上你的皮肤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It also gives off nasty fumes, so use goggles and very good ventilation or a respirator. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烧碱遇水时会产生刺激性气体，所以打皂时要保持良好的通风，最好戴上护目镜或者口罩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Check out the Materials Safety Data Sheet on lye.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>点我了解烧碱的安全信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You will also need a mold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你还需要一个模具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You could use a 9 x 13 cake pan and line it with wax paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以将9英寸x13英寸的烤蛋糕盘垫上蜡纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I bought a used Rubbermaid bread box that is about 14" x 6" x 5". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我买了一个二手的Rubbermaid 烤面包盘，体积为14" x 6" x 5"。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This makes a big block of soap that is not safe to cut with a knife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用这个做出来的肥皂非常大，用小刀切割已经不安全了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I cut it with a guitar string wrapped around a couple of chopstick handles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我把吉他的琴弦缠在筷子上切割这样一块大家伙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Homemade soap: The hardest step </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手工皂：最难的一步</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hardest thing about soap is knowing when it is done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>打皂最难的事情，是确定这块肥皂已经皂化完全了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is judged by a state called "trace." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过肥皂液是否可以“拉丝”来判断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is when a dribble of soap kind of stays on the surface instead of sinking into the pot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当滴下的肥皂液可以在表面停留而没有和整锅肥皂融为一体的时候，就皂化完毕了。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Think honey on a counter top as it slowly flattens out.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象一下滴下的蜂蜜慢慢融到整罐蜂蜜里面，表面慢慢变平的画面。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book that I used to work out this recipe is called "The Soapmaker's Companion" by Susan Miller Cavitch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我获取肥皂配方的书名叫做《手工皂者伴侣》，作者是苏珊米勒凯文奇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is also where I found recipes for hand lotion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书里也有我用来做护手霜的配方喔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Homemade Soap Recipe </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手工皂的配方</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lye ¡ª Mix in large pyrex measuring cup, stir with a chopstick saved from order-in Chinese food. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烧碱：在大的耐热玻璃烧杯里面溶碱，边溶边用筷子搅拌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Again, do not breathe the fumes. Wear goggles.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再次提醒，不要吸入有害气体喔，戴好护目镜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>700 milliliters purified water</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>700毫升纯水</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>270 grams or 9 1/4 ounces lye (one small container)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>270克／9.25盎司烧碱</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oils (Mix in a big pot.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>油（事先在大烧杯里混合好） </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Olive oil 955 grams or 4 1/2 cups (Use the cheap pomace olive oil; virgin doesn't work as well.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>橄榄油：955克／4.5杯 （用便宜的化学提炼的橄榄油就可以，初榨橄榄油未必好）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Coconut oil 390 grams 500 milliliters 2 cups</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>椰子油：390克／500毫升／2杯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Grapeseed oil 515 grams 500 milliliters 2 cups </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>葡萄籽油： 515克／500毫升／2杯</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let lye mixture cool to 110 degrees F. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让碱液冷却至110华氏摄氏度（43摄氏度）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warm oils to 110 degrees F. When both are at the same temperature, slowly pour lye mixture into oils. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将油相加热到相同的温度后，缓慢地将碱水倒入油相。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mix with a stick blender until trace, periodically scraping sides and bottom of pan with a spatula. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>搅拌至“拉丝”。时不时用抹刀刮一刮容器壁和底。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I mix with short pulses of the blender, and it only takes about three minutes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我用电动搅拌机间歇性地搅拌，3分钟就可以完事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first time I made soap I used a whisk and my spatula, which I washed carefully later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次做皂皂我用的是打蛋器和小刮刀，用完后洗干净。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next time I used my stick blender. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来我用的是Braun牌的电动搅拌器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once I felt sure that I was going to make soap regularly, I bought a used stick blender at Value Village for $5 and dedicated it to soap making. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我下决心要常规做皂的时候，我花了5美元在Value Village买了一个二手的电动搅拌机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you use a whisk, you can look forward to hours of stirring. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你用常规的打蛋器做皂，你得花上几个小时来搅拌皂皂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I also have a couple of thrift-shop thermometers, one for the lye and one for the oils. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，我还买了几个二手的温度计，一个用来量碱水的温度，一个量油温。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have also heard of people making soap by feel. When the containers of lye and oils feel similarly warm to the touch, you are good to go.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，我也听说过有人跟着感觉做皂，当盛油和碱水的容器摸上去差不多温度的时候，就可以开始下一步了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At trace, add 10 milliliters cinnamon oil. Mix as little as possible, just enough to combine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拉丝的时候，可以一点一点的加入肉桂油，但注意不要多加，够用就好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Theoretically, the soap can harden very quickly at this stage, trapping your spatula inside a giant bar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>理论上来说，皂皂在这个阶段硬化非常快， 会把你的刮刀困住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have never had a problem with this recipe, though.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我的配方从来没有遇见过这种情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pour into mold. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后注皂如模。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wrap with heavy blankets for 24 hours to keep the heat in and help the chemical reaction.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>拿毯子将整个皂皂包住保温24小时，帮助皂化反应完成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The next day, when soap has set, cut it into bars and store, separated nicely, on brown paper in cool place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二天，当肥皂成型时，将皂皂切块，包裹在牛皮纸里面放在阴凉的地方保存。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Turn over after two weeks. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两周以后给皂皂翻个面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use after one month.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个月以后就可以使用啦！</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

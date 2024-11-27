@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200906T142231Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chapter 13 Secondary Metabolites and Defense</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第13章 次生代谢和植物防御反应</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In natural habitats, plants are surrounded by an enormous number of potential enemies. Nearly all ecosystems contain a wide variety of bacteria, viruses, fungi, nematodes, mites, insects, mammals, and other herbivorous animals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在自然界中，植物生长在许多潜在的天敌之中，如细菌、病毒、真菌、线虫、蟠虫、昆虫、哺乳动物和一些食草动物等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By their nature, plants cannot avoid these herbivores and pathogens simply by moving away; they must protect themselves in other ways.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基于植物体本身的特性，它不能通过移动的方式来逃避这些食草动物和病原菌，只能用其他方式保护其免受其危害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cuticle (a waxy outer layer) and the periderm (secondary protective tissue), besides retarding water loss, provide barriers to bacterial and fungal entry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表皮（蜡质化的外层）和周皮（次生保护层），不仅可以限制水分丧失，还形成了一种细菌和真菌进入植物体的屏障。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, a group of plant compounds known as secondary metabolites defend plants against a variety of herbivores and pathogenic microbes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，植物复合物也被称作次生代谢物，也可以抵御食草动物和病原菌对植物的侵害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Secondary compounds may serve other important functions as well, such as structural support, as in the case of lignin, or pigments, as in the case of the anthocyanins.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>次生代谢物，如木质素、色素、花青素等的重要功能通常是作为植物结构支持物存在于植物组织中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this chapter we will discuss some of the mechanisms by which plants protect themselves against both herbivory and pathogenic organisms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本章我们将讨论植物抵制食草动物和病原菌的一些自保机制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We will begin with a discussion of the three classes of compounds that provide surface protection to the plant: cutin, suberin, and waxes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先介绍在植物表面起保护作用的三层物质：角质、木栓质和蜡质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Next we will describe the structures and biosynthetic pathways for the three major classes of secondary metabolites: terpenes, phenolics, and nitrogen-containing compounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着描述植物中三种主要次生代谢产物：萜类、酚类和含氮化合物的结构和主要合成途径。对于这些次生代谢产物在植物体内防御植食昆虫的重要生物学功能也将做深入地讨论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, we will examine specific plant responses to pathogen attack, the genetic control of host-pathogen interactions, and cell signaling processes associated with infection.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最后我们将论述病原菌侵害植物时产生的特异性反应、寄主-病原菌互作的遗传学控制及其感染相关的细胞信号转导途径。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.1 CUTIN, WAXES, AND SUBERIN</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.1 角质、蜡质和木栓质</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All plant parts exposed to the atmosphere are coated with layers of lipid material that reduce water loss and help block the entry of pathogenic fungi and bacteria. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>暴露于空气中的所有植物体都有数层脂类物质包裹着，这不但可以减少其体内的水分丧失，也能阻止致病真菌和细菌的进入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The principal types of coatings are cutin, suberin, and waxes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些物质主要包括：角质、木栓质和蜡质（图13.1）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cutin is found on most aboveground parts; suberin is present on underground parts, woody stems, and healed wounds. Waxes are associated with both cutin and suberin.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角质大多位于植物的内部，木栓质位于角质的表面、木本茎和愈伤组织中，蜡质具有联系角质和木栓质的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.1.1 Cutin, Waxes, and Suberin Are Made Up of Hydrophobic Compounds</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.1.1 角质、蜡质和木栓质由疏水性化合物组成</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Cutin is a macromolecule, a polymer consisting of many long-chain fatty acids that are attached to each other by ester linkages, creating a rigid three-dimensional network. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg> 角质（cutin）是一类大分子多聚物，由许多长链脂肪酸通过酯键连在一起排成紧密的三维空间网络。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cutin is formed from 16:0 and 18:1 fatty acids with hydroxyl or epoxide groups situated either in the middle of the chain or at the end opposite the carboxylic acid function (Figure 13.1A).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角质是由16和18不饱和脂肪酸在相对于梭基的中间或末端形成羟基或环氧基组成（图13.1A）。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cutin is a principal constituent of the cuticle, a multilayered secreted structure that coats the outer cell walls of the epidermis on the aerial parts of all herbaceous plants (Figure 13.2). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角质是植物表皮的主要成分，是所有草本植物地上部分细胞壁中的一个多层分泌结构（图13.2）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cuticle is com posed of a top coating of wax, a thick middle layer containing cutin embedded in wax (the cuticle proper), and a lower layer formed of cutin and wax blended with the cell wall substances pectin, cellulose, and other carbohydrates (the cuticular layer). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表皮一般是由覆盖蜡质的外层、含有嵌入蜡质的角质中间层（角膜固有层）以及由角质和蜡质掺和细胞壁成分物质如胶质、粗纤维以及一些碳水化合物的内层组成（角质层）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recent research suggests that, in addition to cutin, the cuticle may contain a second lipid polymer, made up of long-chain hydrocarbons, that has been named cutan (Jeffree 1996).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近研究表明，除了角质之外，表皮含有由长碳氢链组成的第二种酯类多聚物，命名为胶膜（Jeffree 1996）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Waxes are not macromolecules, but complex mixtures of long-chain acyl lipids that are extremely hydrophobic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蜡质（waxes）不是大分子物质，是由疏水性很强的长链酰基脂肪组成的复杂的混合物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most common components of wax are straight-chain alkanes and alcohols of 25 to 35 carbon atoms (see Figure 13.1B). Long-chain aldehydes, ketones, esters, and free fatty acids are also found. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蜡质主要是由25~35个碳原子的直链烷炷和烷醇组成（图13.1B），也含有醛、酮、酯和游离脂肪酸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The waxes of the cuticle are synthesized by epidermal cells. They leave the epidermal cells as droplets that pass through pores in the cell wall by an unknown mechanism. The top coating of cuticle wax often crystallizes in an intricate pattern of rods, tubes, or plates (Figure 13.3).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表皮的蜡质是表皮细胞合成的，它们通过一些未知机制使表皮细胞形成可以穿过细胞壁孔径的小泡;表皮蜡质的顶层通常以条状、管状和盘状等复杂的模式晶体化(图13.3)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suberin is a polymer whose structure is very poorly understood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>栓质素（suberin）是一种结构不完全清楚的聚合物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like cutin, suberin is formed from hydroxy or epoxy fatty acids joined by ester linkages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和角质一样，木栓质也是由羟基和环氧脂肪酸通过酯键相连而成（图13.1C）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, suberin differs from cutin in that it has dicarboxylic acids (see Figure 13.1C), more long-chain components, and a significant proportion of phenolic compounds as part of its structure.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>木栓质和角质的不同在于木栓质的二梭酸基链较长，并且苯化合物是其主要成分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suberin is a cell wall constituent found in many locations throughout the plant. We have already noted its presence in the Casparian strip of the root endodermis, which forms a barrier between the apoplast of the cortex and the stele (see Chapter 4). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>木栓质是遍布于整个植物细胞壁的成分，也发现其存在于植物根内皮的凯氏带中，从而在皮层和中柱之间形成了一个屏障（见第4章）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suberin is a principal component of the outer cell walls of all underground organs and is associated with the cork cells of the periderm, the tissue that forms the outer bark of stems and roots during secondary growth of woody plants. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>木栓质是所有地上器官外层细胞壁的重要成分，并与周皮软木细胞相连，周皮发育成木本植物次生生长期间茎和根外层的外层树皮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suberin also forms at sites of leaf abscission and in areas damaged by disease or wounding.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另外，木栓也可在叶子断层处或者是被疾病和机械损伤部位形成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.1.2 Cutin, Waxes, and Suberin Help Reduce Transpiration and Pathogen Invasion</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.1.2 角质、蜡质和木栓质能使植物减少蒸腾、抵御病原菌入侵</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cutin, suberin, and their associated waxes form barriers between the plant and its environment that function to keep water in and pathogens out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>角质、木栓质以及与之相关的蜡质是植物与环境之间的一道屏障，以保持水分、抵制病原菌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cuticle is very effective at limiting water loss from aerial parts of the plant but does not block transpiration completely because even with the stomata closed, some water is lost. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表皮可以非常有效地阻止植物地上部分水分的外流，但这不能完全地限制蒸腾作用，因为即使气孔完全关闭，一些水分也可以丧失。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The thickness of the cuticle varies with environmental conditions. Plant species native to arid areas typically have thicker cuticles than plants from moist habitats have, but plants from moist habitats often develop thick cuticles when grown under dry conditions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>表皮的厚度随环境的不同而不同，生活在贫瘠干旱环境中的植物比生长在潮湿中的植物表皮厚，但当潮湿环境中的植物在干旱环境中生长时也会发育出一个较厚的表皮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cuticle and suberized tissue are both important in excluding fungi and bacteria, although they do not appear to be as important in pathogen resistance as some of the other defenses we will discuss in this chapter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管表皮和栓化组织不如本章讨论的其他防御反应在抗病方面起的作用明显，但其在抑制真菌和细菌中也有很重要的作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many fungi penetrate directly through the plant surface by mechanical means. Others produce cutinase, an enzyme that hydrolyzes cutin and thus facilitates entry into the plant.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多真菌直接通过机械的方式刺入植物的表面，也有的通过产生角质酶催化分解角质以使其更容易进入植物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.2 SECONDARY METABOLITES</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.2 次生代谢</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plants produce a large, diverse array of organic compounds that appear to have no direct function in growth and development. These substances are known as secondary metabolites, secondary products, or natural products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>植物在生长发育过程中产生许多不同的且功能各异的有机物，这些物质统称为次生代谢物、次生产物或天然物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Secondary metabolites have no generally recognized, direct roles in the processes of photosynthesis, respiration, solute transport, translocation, protein synthesis, nutrient assimilation, differentiation, or the formation of carbohydrates, proteins, and lipids discussed elsewhere in this book.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>次生代谢物在植物光合作用、呼吸作用、溶液运输、迁移、蛋白质合成、营养吸收或分解以及碳水化合物、蛋白质、脂类的合成过程中一般起到间接作用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Secondary metabolites also differ from primary metabolites (amino acids, nucleotides, sugars, acyl lipids) in having a restricted distribution in the plant kingdom. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在分布方面，次生代谢物也不同于初级代谢物（氨基酸、核酸、糖和酯类）在植物界受到严格限制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is, particular secondary metabolites are often found in only one plant species or related group of species, whereas primary metabolites are found throughout the plant kingdom.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某些特殊的次生代谢物往往只存在于一种或一些相关的物种中，而初级代谢物遍布于整个植物界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.2.1 Secondary Metabolites Defend Plants against Herbivores and Pathogens </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.2.1 次生代谢物抵御食草动物和病原菌保护植物</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many years the adaptive significance of most plant secondary metabolites was unknown. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多年来，人们对于大多数植物的次生代谢物的重大意义还不清楚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These compounds were thought to be simply functionless end products of metabolism, or metabolic wastes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大家都认为这些次生代谢物仅仅是代谢的无功能末端产品或代谢过程中产生的废物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Study of these substances was pioneered by organic chemists of the nineteenth and early twentieth centuries who were interested in these substances because of their importance as medicinal drugs, poisons, flavors, and industrial materials.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>19世纪到20世纪初的有机化学家首先对其进行了研究，发现他们可以作为医用药物、毒药、香料以及工业的原材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More recently, many secondary metabolites have been suggested to have important ecological functions in plants: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最近研究发现，许多次生代谢物在植物中具有重要的生态学功能：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They protect plants against being eaten by herbivores (herbivory) and against being infected by microbial pathogens.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以保护植物免受食草动物的侵害以及病原菌的侵染</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They serve as attractants for pollinators and seed-dispersing animals and as agents of plant-plant competition.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可以作为授粉植物和种子扩散过程中动物的诱惑剂（气味、颜色、味道）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.2.2 Secondary Metabolites Are Divided into Three Major Groups </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.2.2 次生代谢物的主要种类</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Plant secondary metabolites can be divided into three chemically distinct groups: terpenes, phenolics, and nitrogen-containing compounds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>植物次生代谢物主要分为三类:萜类、酚类和含氮化合物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figure 13.4 shows in simplified form the pathways involved in the biosynthesis of secondary metabolites and their interconnections with primary metabolism.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图13.4显示了次生代谢物合成的简单途径以及与初级代谢物的相互联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3 TERPENES</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3 萜类</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The terpenes, or terpenoids, constitute the largest class of secondary products. The diverse substances of this class are generally insoluble in water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>次生代谢物中的大部分是萜类或称类萜化合物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They are biosynthesized from acetyl-CoA or glycolytic intermediates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这类物质一般不溶于水，由乙酰CoA或糖酵解的中间成分合成而来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After discussing the biosynthesis of terpenes, we'll examine how they act to repel herbivores and how some herbivores circumvent the toxic effects of terpenes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在讨论过萜类的生物合成后，我们将研究一下萜类是如何抵制食草动物的以及食草动物是如何来消除这些萜类的毒性的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3.1 Terpenes Are Formed by the Fusion of Five-Carbon Isoprene Units</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3.1 萜类由五碳异戊二烯单位组成</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All terpenes are derived from the union of five-carbon elements that have the branched carbon skeleton of isopentane:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所有的萜类都是由支链异戊烷骨架的五碳单位组成（也称作C5单位）：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The basic structural elements of terpenes are sometimes called isoprene units because terpenes can decompose at high temperatures to give isoprene: Thus all terpenes are occasionally referred to as isoprenoids.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萜类的基本结构组分有时也称异戊二烯单位，因为在高温时容易分解为异戊二烯，因此萜类有时也称类异戊二烯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terpenes are classified by the number of five-carbon units they contain, although extensive metabolic modifications can sometimes make it difficult to pick out the original five-carbon residues. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管由于有广泛的代谢修饰使其很难保留5碳单位残基，但可以大致根据他们包含的C5单位的数目分类。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ten-carbon terpenes, which contain two C5 units, are called monoterpenes; 15-carbon terpenes (three C5 units) are sesquiterpenes; and 20-carbon terpenes (four C5 units) are diterpenes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>含10个碳的萜，包含2个C5单位称为单萜;15个碳的萜（3个C5）是倍半萜;20个碳的萜（4个C5）称为双萜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Larger terpenes include triterpenes (30 carbons), tetraterpenes (40 carbons), and polyterpenoids ([C5]n carbons, where n &gt; 8).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>较大的站有三萜（30个碳）、四萜（40个碳）和多萜（［C5］n个，n&gt;8）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3.2 There Are Two Pathways for Terpene Biosynthesis </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3.2 萜类的两条合成途径</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terpenes are biosynthesized from primary metabolites in at least two different ways. In the well-studied mevalonic acid pathway, three molecules of acetyl-CoA are joined together stepwise to form mevalonic acid (Figure 13.5). This key six-carbon intermediate is then pyrophosphorylated, decarboxylated, and dehydrated to yield isopentenyl diphosphate (IPP). IPP is the activated five-carbon building block of terpenes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>初生代谢物以两种不同的方式合成萜类， 研究较为深入的一个是甲羟戊酸途径（mevalonic acid pathway），3个乙酰CoA分子逐步缩合为甲羟戊酸（图13.5），这个重要的六碳中间产物经过焦磷酸化、脱梭、脱氢产生异戊烯焦磷酸（isopentenyl diphosphate，IPP）），IPP是萜中活跃的五碳构架。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recently, it was discovered that IPP also can be formed from intermediates of glycolysis or the photosynthetic carbon reduction cycle via a separate set of reactions called the methylerythritol phosphate (MEP) pathway that operates in chloroplasts and other plastids (Lichtenthaler 1999). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IPP也可以由糖酵解或光合作用碳还原循环中经过一系列反应形成，这个途径称为甲基苏糖醇磷酸途径（methylerythritol phosphate pathway，MEP），发生在叶绿体和质体中（Lichtenthaler 1999）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although all the details have not yet been elucidated, glyceraldehyde-3-phosphate and two carbon atoms derived from pyruvate appear to combine to generate an intermediate that is eventually converted to IPP.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三磷酸甘油和来自丙酮酸的二碳原子浓缩形成五碳的中间成分——5-磷酸-1-脱氧-D-木酮糖，这个中间物经过重排和还原形成甲基苏糖醇磷酸酯并最终转变为IPP（图13.5）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3.3 Isopentenyl Diphosphate and Its Isomer Combine to Form Larger Terpenes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3.3 异戊烯焦磷酸和其异构体形成大分子的萜类</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Isopentenyl diphosphate and its isomer, dimethylallyl diphosphate (DPP), are the activated five-carbon building blocks of terpene biosynthesis that join together to form larger molecules. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>异戊烯焦磷酸和其异构体二甲基丙烯焦磷酸都是萜类合成的活性五碳骨架，连接成大分子的萜类物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First IPP and DPP react to give geranyl diphosphate (GPP), the 10-carbon precursor of nearly all the monoterpenes (see Figure 13.5). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IPP和DPP首先结合为牻牛儿焦磷酸（GPP），这是几乎所有10碳单萜的前体（图13.5）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>GPP can then link to another molecule of IPP to give the 15-carbon compound farnesyl diphosphate (FPP), the precursor of nearly all the sesquiterpenes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>GPP能和另一个IPP结合形成15碳倍半萜的前体法呢焦磷酸（FPP）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Addition of yet another molecule of IPP gives the 20-carbon compound geranylgeranyl diphosphate (GGPP), the precursor of the diterpenes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在加上一个IPP分子形成20碳的牻牛儿牻牛儿焦磷酸(GG-PP)，是所有双萜的前体分子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, FPP and GGPP can dimerize to give the triterpenes (C30) and the tetraterpenes (C40), respectively.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>FPP和GGPP最终聚合成三萜(C30)和四萜(C40)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3.4 Some Terpenes Have Roles in Growth and Development </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3.4 萜类在生长发育中的作用</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Certain terpenes have a well-characterized function in plant growth or development and so can be considered primary rather than secondary metabolites. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在植物生长发育中起重要作用的不是初生代谢物，而是次生代谢物中的萜类物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the gibberellins, an important group of plant hormones, are diterpenes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，赤霉素——一种重要的植物激素就是双萜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sterols are triterpene derivatives that are essential components of cell membranes, which they stabilize by interacting with phospholipids (see Chapter 11). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>固醇是三萜的衍生物，是细胞膜的主要成分，与磷酸酯互作从而起到稳定的作用（见第11章）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The red, orange, and yellow carotenoids are tetraterpenes that function as accessory pigments in photosynthesis and protect photosynthetic tissues from photooxidation (see Chapter 7). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>红、黄、橘黄的类胡萝卜素是四萜，作为光合作用的附属色素行使功能，保护光合组织免受光氧化的损伤（见第7章）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hormone abscisic acid (see Chapter 23) is a C15 terpene produced by degradation of a carotenoid precursor.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>植物激素脱落酸也是类胡萝卜素前体降解的倍半萜形成的（见第23章）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Long-chain polyterpene alcohols known as dolichols function as carriers of sugars in cell wall and glycoprotein synthesis (see Chapter 15). Terpene-derived side chains, such as the phytol side chain of chlorophyll (see Chapter 7), help anchor certain molecules in membranes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长链烯醇统称长醇，具有细胞壁和糖蛋白合成中糖分子运输载体的作用（见第15章）;类萜侧链如叶绿素的叶醇侧链有助于质膜锚定某些特定的分子（见第7章）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thus various terpenes have important primary roles in plants. However, the vast majority of the different terpene structures produced by plants are secondary metabolites that are presumed to be involved in defense.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此这些萜具有重要作用，大多数次生代谢物参与了植物的防御反应。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>13.3.5 Terpenes Defend against Herbivores in Many Plants</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>13.3.5 植物中的萜类对食草动物的抵御</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Terpenes are toxins and feeding deterrents to many plant-feeding insects and mammals; thus they appear to play important defensive roles in the plant kingdom (Gershenzon and Croteau 1992).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>萜类是许多食草昆虫和食草动物的毒素或拒食剂，因此它在植物界起到重要的防御作用（Gershenzon and Croteau1992）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, the monoterpene esters called pyrethroids that occur in the leaves and flowers of Chrysanthemum species show very striking insecticidal activity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，菊花的叶和花中含有的拟除虫菊酯是一种单萜酯，表现出强烈的杀虫活性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both natural and synthetic pyrethroids are popular ingredients in commercial insecticides because of their low persistence in the environment and their negligible toxicity to mammals.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论是天然的还是人工合成的拟除虫菊酯由于在环境中的低持久性以及对动物的微弱毒性作用，现已成为了一种广泛的商业杀虫剂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In conifers such as pine and fir, monoterpenes accumulate in resin ducts found in the needles, twigs, and trunk. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>松柏类植物如松树和杉木中的单萜一般存在于针叶、树枝和树干的树脂道中。这些化合物对许多昆虫都是有毒的，其中包括世界上对松柏类植物危害最大的小蠹虫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These compounds are toxic to numerous insects, including bark beetles, which are serious pests of conifer species throughout the world. Many conifers respond to bark beetle infestation by producing additional quantities of monoterpenes (Trapp and Croteau 2001).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>松柏类植物就是通过产生更多的单萜来抵御这些小蠹虫的（Trapp and Croteau 2001）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many plants contain mixtures of volatile monoterpenes and sesquiterpenes, called essential oils, that lend a characteristic odor to their foliage. Peppermint, lemon, basil, and sage are examples of plants that contain essential oils. The chief monoterpene constituent of peppermint oil is menthol; that of lemon oil is limonene (Figure 13.6).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多植物含有不稳定的单萜和倍半萜混合物，称为香精油，这类物质可以把气味传递给整个植物。薄荷油、柠檬、罗勒油以及鼠尾草油等香精油都是由植物产生的。薄荷油的主要单菇组分是薄荷醇；柠檬油的主要成分是柠檬油精（图13. 6）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Essential oils have well-known insect repellent properties.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>众所周知，香精油（essential oil）具有抗虫的作用。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

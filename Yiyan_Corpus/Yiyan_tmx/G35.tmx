@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T074128Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Biography of Murray N. Rothbard (1926-1995)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德生平（1926-1995年）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Murray Rothbard was born March 2, 1926, the son of David and Rae Rothbard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>穆瑞·罗斯巴德生于1926年3月2日，父母是大卫·罗斯巴德和雷·罗斯巴德。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was a brilliant student even as a young child; and his academic record at Columbia University, where he majored in mathematics and economics, was stellar. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在年幼时，他就是一个聪明的学生；他在哥伦比亚大学学习数学和经济学专业，学术成绩优异。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the Columbia economics department, Rothbard did not receive any instruction in Austrian economics, and Mises was no more than a name to him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在哥伦比亚大学经济学系，罗斯巴德没有接触过任何奥地利经济学的指引，米塞斯对他而言仅是个陌生的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a course on price theory given by George Stigler, however, he encountered arguments against such then popular measures as price and rent control. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，在乔治·斯蒂格勒的价格理论课上，他接触到对价格与租金控制等流行手段的反驳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These arguments greatly appealed to him; and he wrote to the publisher of a pamphlet that Stigler and Milton Friedman had written on rent control.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些反对意见极大地吸引了他；斯蒂格勒和米尔顿·弗里德曼关于租金控制的小册子出版，他给出版社写了信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The publisher in question was the Foundation for Economic Education; and visits to this group's headquarters led Rothbard to a meeting with Ludwig von Mises. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这家出版商是经济教育基金会；对其总部的拜访让罗斯巴德与米塞斯碰面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard was at once attracted to Mises's laissez-faire economics, and when Mises's masterwork Human Action appeared in 1949, it made a great impression on him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德一下子被米塞斯的自由放任经济学说吸引；当米塞斯的杰作《人的行为》在1949年初版，它给他留下了深刻印象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was henceforward a praxeologist: here in Mises's treatise was the consistent and rigorous defense of a free economy for which he had long been in search. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从此他成为一个人类行为学者：米塞斯分析里对自由经济体系的一致和严格的捍卫正是他长期寻找的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He soon became an active member of Mises's seminar at New York University. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很快成为米塞斯在纽约大学研讨会的积极一员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, he continued his graduate studies at Columbia, working toward his Ph.D. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，他继续在哥伦比亚大学的研究生课程，准备博士学位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His mentor was the eminent economic historian Joseph Dorfman, and Rothbard received the degree in 1956, with a thesis on The Panic of 1819 that remains a standard work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的导师是著名经济史学家约瑟夫·多尔夫曼，罗斯巴德在1956年获得博士学位，学位论文是《1819年的恐慌》，至今仍然是一个范例作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he deepened his understanding of laissez-faire economics, he confronted a dilemma. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着他对自由放任经济学的理解加深，他遇到一个难题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The arguments for market provision of goods and services applied across the board. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>市场提供商品和服务的观点是普遍适用的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If so, should not even protection and defense be offered on the market rather than supplied by a coercive monopoly? Rothbard realized that he would either have to abandon laissez-faire or embrace individualist anarchy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果是那样，防卫与防御不该也是由市场而不是通过强制性的垄断提供吗？罗斯巴德意识到他要么放弃自由放任，要么拥抱个人无政府主义。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The choice, arrived at in the winter of 1949, was not difficult.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在1949年的冬天做出选择，对他并不艰难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard soon attracted the attention of the William Volker Fund, the main group that supported classical liberal scholars in the 1950s and early 1960s. He began a project to write a textbook to explain Human Action in a fashion suitable for college students; a sample chapter he wrote on money and credit won Mises's approval. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德很快吸引了威廉·沃尔克基金会的注意，这是20世纪50年代和60年代初期支持古典自由主义学者的主要组织。他开始了一个项目，写一本风格适合大学生的解释《人的行为》的教科书；他写的一章关于货币和信贷的样品章节获得了米塞斯的认可。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Rothbard continued his work, he transformed the project. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着罗斯巴德工作持续，他改变了这个项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The result, Man, Economy, and State (1962), was a central work of Austrian economics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果是《人，经济和国家》（1962年）成为奥地利经济学的核心著作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard was entirely in accord with Mises's endeavor to deduce the whole of economics from the axiom of action, combined with a few subsidiary postulates. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德从行为的公理，加上一些附属假设，演绎全部经济学完全符合米塞斯的努力方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In much more detail than Mises had done, he carried out the deduction; and in the process, he contributed major theoretical innovations to praxeology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他进行的演绎比米塞斯做的更加详细；在这个过程中，他为人类行为学贡献了重要的理论创新。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He showed that the socialist calculation argument applies, not only to a governmentally controlled economy, but to a single private firm owning the entire economy as well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他表明社会主义计算问题，不仅适用于政府控制的经济，也适用于一家私营企业拥有整个经济的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It too could not calculate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那也无法进行经济计算。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also integrated Frank Fetter's theory of rent with Austrian capital theory; and argued that a monopoly price could not exist on the free market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还将弗兰克·菲特的租金理论与奥派的资本理论相融合；认为自由市场上不可能存在垄断价格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Further, he offered a brilliant criticism of Keynesian economics, and he anticipated much of the "rational expectations" revolution for which Robert Lucas later won a Nobel Prize.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，他还对凯恩斯经济学提出敏锐的批评，他预见到了罗伯特·卢卡斯后来获得诺贝尔奖的“理性预期”革命的大部分内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Rothbard originally planned Man, Economy, and State, it was to include a final part that presented a comprehensive classification and analysis of types of government intervention. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在罗斯巴德起初计划《人，经济和国家》时，还包括最后一部分，对政府干预类型提出全面的分类和分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The section also subjected to withering criticism the standard canons of justice in taxation; a brief but brilliant passage refuted in advance the anti-market arguments based on "luck" that were to prove so influential in the later work of John Rawls and his many successors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>内容包括对税收这一公正大炮的猛烈批评；一个简短但聪明的对于基于“运气”的反市场言论的反驳段落，后来约翰·罗尔斯及其追随者的作品中这一观点极富影响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unfortunately, the part appeared in the original edition only in a severely truncated form. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不幸的是，最初出版的版本以严重删减的形式出现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its full publication came only in 1972, under the title Power and Market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1972年才以《权力与市场》的书名完全出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The complete version of Man, Economy, and State, as Rothbard originally intended it to appear, is now available from the Mises Institute.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德最初想要出版的《人，经济和国家》的完整版本，现在可以从米塞斯研究所找到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This masterly work was far from exhausting Rothbard's contributions to economic theory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一大师级作品远未代表罗斯巴德对经济理论的全部贡献。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a major paper, "Toward a Reconstruction of Utility and Welfare Economics" (1956), he showed that if one takes seriously the fact that utility is ordinal and not cardinal, then the anti-market views of most modern welfare economists must be abandoned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一篇重要论文，“重建效用与福利经济学”（1956年）中，他表明，如果一个人真正接受效用是序数的，而非基数的事实，那么现代福利经济学的反市场观点就必须被摒弃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Strict application of demonstrated preference allows one to say that the participants to a voluntary exchange expect ex ante to benefit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对展示偏好的严格应用可以证明，自愿交换的参与者事前是期待收益的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Further than this, the economist, so long as he remains value-free, cannot go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更进一步，经济学家如果纯客观地分析，就不能得出这样的结论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His main papers on economic theory are available in the posthumously published two-volume collection The Logic of Action (1997).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他关于经济理论的主要论文收录在其过世后出版的两卷本《行动的逻辑》（1997年）中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard devoted close attention to monetary theory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德密切关注货币理论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here he emphasized the virtues of the classical gold standard and supported 100% reserve banking. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他强调古典金本位制的好处并支持100％储备银行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This system, he held, would prevent the credit expansion that, according to the Austrian theory of the business cycle developed by Mises and Friedrich Hayek, led to inevitable depression. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他认为，该系统将防止信贷扩张，根据奥地利的米塞斯和哈耶克的商业周期理论，信贷扩张导致了不可避免的萧条。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He summarized his views for the general public in the often-reprinted pamphlet What Has Government Done to Our Money? (1964) and also wrote a textbook, The Mystery of Banking (1983).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他将给大众的观点结集在常被重印的小册子《政府对我们的钱做了什么？》 （1964年）中，还写了一本教科书，《银行的秘密》（1983年）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard showed the illumination that Austrian theory could bring to economic history in America's Great Depression (1963). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德在《美国的大萧条》（1963年）中表明了奥派理论可以给经济史带来启发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Far from being a proof of the failures of unregulated capitalism, the 1929 Depression illustrates rather the dangers of government interference with the economy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1929大萧条证明的是政府干预经济的危险，而远不是不受监管的资本主义的失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The economic collapse came as a necessary correction to the artificial boom induced by the Federal Reserve System's monetary expansion during the 1920s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>经济崩溃是对美联储在1920年代货币扩张导致的人为繁荣的必要调整。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The attempts by the government to "cure" the downturn served only to make matters worse.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府“治愈”经济下滑的企图只会使事情变得更糟。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In making this argument, Rothbard became a pioneer in "Hoover revisionism." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>论证这一观点，使罗斯巴德成为“胡佛修正主义”的先驱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Contrary to the myths promoted by Hoover himself and his acolytes, Hoover was not an opponent of big government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与胡佛本人和他的追随者宣称的神话相反，胡佛不是一个大政府的反对者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Quite the contrary, the economic policies of the " Engineer in Politics" prefigured the New Deal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恰恰相反，“政治工程师”的经济政策是新政的预演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard's view of Hoover is now widely accepted.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德对胡佛的看法现已被广泛接受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For Rothbard, banking policy was a key to American economic history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对罗斯巴德而言，银行政策对美国经济史至关重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like Michelet, he believed that history is a resurrection of the flesh; and his discussions are no dry-as-dust presentations of statistics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与米什莱一样，他认为历史是有血有肉的再现；他的讨论不是统计数据的枯燥展示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was always concerned to identify the particular actors and interests behind historical decisions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他始终关注具体个人和历史决策背后的利益。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The struggle between the competing Morgan and Rockefeller banking circles figures again and again in his articles in this field, collected in his A History of Money and Banking in the United States (1999).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>势均力敌的摩根和洛克菲勒银行圈之间的斗争，一次又一次地出现在他此类文章中，结集在《美国货币和银行史》（1999年）中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard ranged far beyond economics in his historical work. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德历史性著作触及的远超经济学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In a four-volume series, Conceived in Liberty (1975-1979), he presented a detailed account of American colonial history that stressed the libertarian antecedents of the American Revolution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在四卷系列的《孕育于自由》（1975-1979）中，他展示了对美国殖民地历史的详细说明，强调了美国革命的自由意志主义根源。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As usual, he challenged mainstream opinion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他像往常一样挑战主流观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had little use for New England Puritanism, and the virtues and military leadership of George Washington did not impress him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他很少提及新英格兰清教主义，乔治·华盛顿的美德和军事领导力也没有给他留下深刻的印象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For Rothbard, the Articles of Confederation were not an overly weak arrangement that needed to be replaced by the more centrally focused Constitution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于罗斯巴德，邦盟章程不是过于薄弱的安排，需要被更重视中央权力的宪法取代。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Quite the contrary, the Articles themselves allowed too much central control.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恰恰相反，章程允许的中央控制已经过多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although Rothbard usually found himself in close agreement with Mises, in one area he maintained that Mises was mistaken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管罗斯巴德通常与米塞斯意见一致，但在一个领域，他认为米塞斯是错的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mises contended that ethical judgments were subjective: ultimate ends are not subject to rational assessment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米塞斯主张伦理判断是主观的：最终目的不能被理性的评估。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard dissented, maintaining that an objective ethics could be founded on the requirements of human nature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德持有异议，认为基于对人的本性要求，可以建立一个客观的伦理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His approach, based on his study of Aristotelian and Thomist philosophy, is presented in his major work The Ethics of Liberty (1982), his major study of political philosophy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的做法，基于对亚里士多德和托马斯主义哲学研究，见于其重要著作《自由的伦理》（1982年），这是他对政治哲学的主要研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his system of political ethics, self-ownership is the basic principle. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他的政治伦理体系中，自我所有权是基本原则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given a robust conception of self-ownership, a compulsory government monopoly of protective services is illegitimate; and Rothbard endeavors to refute the arguments to the contrary of supporters of a minimal state, Robert Nozick chief among them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鉴于自我所有权的强大概念，政府强制垄断保护服务是非法的；罗斯巴德努力驳斥以罗伯特·诺齐克为首的与小政府支持者相反的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He contributes important clarifications to problems of libertarian legal theory, such as the nature of contracts and the appropriate standard of punishment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对自由意志主义法学理论问题，如合约的性质和适当的处罚标准，贡献了重要的澄清。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He explains why Mises's instrumental argument for the market does not fully succeed, though he finds much of value in it; and he criticizes in careful detail Hayek's view of the rule of law.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他解释为什么米塞斯的市场工具说法并不完全成功，虽然他发现了其中的价值；他认真详细地批评哈耶克的法律规则观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard modified the famous dictum of Marx: he wished both to understand and change the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德修改了马克思的名言：他希望既了解世界，又要改变世界。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He endeavored to apply the ideas he had developed in his theoretical work to current politics and to bring libertarian views to the attention of the general public. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他努力将他在其理论著作中发展的思想应用到当前政治中，让自由意志主义的观点引起大众关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One issue for him stood foremost. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有一个问题对他至为重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Like Randolph Bourne, he maintained that "war is the health of the state"; he accordingly opposed an aggressive foreign policy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>像伦道夫·伯恩一样，他认为“战争是政府的生命”，因此，他反对侵略性的外交政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His support for nonintervention in foreign policy led him to champion the Old Right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在外交政策上对不干预的支持使他成为老右派的领袖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>John T. Flynn, Garet Garrett and other pre-World War II "isolationists" shared Rothbard's belief in the close connection between state power and bellicose foreign policy.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>约翰·T·弗林，加雷特加勒特和其他二战前“孤立主义者”认同罗斯巴德国家权力和好战的外交政策之间有密切联系的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The situation was quite otherwise with postwar conservatism. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与战后的保守主义状况则恰恰相反。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although Rothbard was an early contributor to William Buckley's National Review, he rejected the aggressive pursuit of the Cold War advocated by Buckley and such members of his editorial staff as James Burnham and Frank S. Meyer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管罗斯巴德是威廉·巴克利的《国家评论》的一个早期的贡献者，他拒绝巴克利和他的编辑成员詹姆斯·伯纳姆和弗兰克迈耶主张的冷战的积极追求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He broke with these self-styled conservatives and thereafter became one of their strongest opponents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他与这些自封的保守派决裂，并在之后成为他们最强的对手之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For similar reasons, he condemned their neoconservative successors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出于近似的原因，他谴责他们的新保守主义的接班人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He followed a pragmatic policy of temporary alliances with whatever groups were, at a given time, opposed to militarism and foreign adventures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他执行一个与任何在特定时间反对军国主义和国外冒险的团体临时结盟的务实政策。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He set forward the basis for his political stance in a key essay, "Left and Right: The Prospects for Liberty". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在一篇文章中表明其政治立场的基础，“左与右：自由的前景”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This appeared in an important scholarly journal, Left and Right, which he established. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这篇文章发表在他创建的重要的学术期刊《左与右》中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This contained major essays on revisionist history and foreign policy, but unfortunately lasted only from 1965-1968.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本期刊包括关于修正主义历史和外交政策的重要文章，但不幸的是只从1965年持续到1968年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an effort to widen the influence of libertarian thought in the academic world, Rothbard founded the Journal of Libertarian Studies in 1977. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为努力扩大自由意志主义思想在学术界的影响，罗斯巴德在1977年创建了《自由意志主义研究杂志》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The journal began auspiciously with a symposium on Robert Nozick's Anarchy, State, and Utopia. Down to the present, it has remained the most important journal hospitable to libertarian ideas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>该杂志幸运地发轫于一次诺齐克的《无政府状态，国家和乌托邦》研讨会。到现在，它仍是自由意志主义思想的最重要的杂志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard established in 1987 another journal, the Review of Austrian Economics, to provide a scholarly venue for economists and others interested in Austrian theory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德在1987年创立了另一本杂志《奥地利经济学评论》，为经济学家和对奥地利学派的理论感兴趣的人提供一个学术阵地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It too is the key journal in its area of specialty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它也是在其专业领域的重要刊物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It has continued to the present, after 1997 under the new name Quarterly Journal of Austrian Economics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在1997年以后以新名字《奥地利经济学季刊》发行至今。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his comments on current events, Rothbard displayed an amazing ability to digest vast quantities of information on whatever subject interested him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他对时事的评论中，罗斯巴德展示了惊人的消化大量任何他感兴趣的信息的能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Whether, e.g., the question was competing factions in Afghanistan or the sources of investment in oil in the Middle East, he would always have the relevant data at his command. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，无论是阿富汗各派的竞争问题还是中东地区的石油投资来源问题，他总是有他想要的相关数据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sample of his columns, taken from the Rockwell Rothbard Report, is available in The Irrepressible Rothbard (2000). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的专栏文章样本，从《罗克韦尔-罗斯巴德》报告中节选，收录在《不可压制的罗斯巴德》（2000）中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another journal that he founded, The Libertarian Forum, provides his topical comments for the period 1969-1984. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>另一个他创办的杂志，《自由意志主义论坛》，收录了他从1969年至1984年期间的专题评论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He presented a comprehensive popular account of libertarianism in For A New Liberty (1973).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在《为新的自由》中提出了一个全面的自由意志主义的流行分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One last academic triumph remained for Rothbard, though sadly it appeared only after his death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德的最后学术成就，虽然让人神伤，在其身后出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In two massive volumes, Economic Thought Before Adam Smith and Classical Economics (1995), he presented a minutely detailed and erudite account of the history of economic theory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在两巨卷的《亚当·斯密前经济思想》和《古典经济学》（1995年）中，他对经济思想史进行了细微详尽的分析。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adam Smith, contrary to general belief, was not the founder of modern economics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与一般的看法相反，亚当·斯密不是现代经济学的创始人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His defense of a labor theory of value, modified and continued by his Ricardian successors, shunted economics onto the wrong path. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他对劳动价值理论的捍卫，由其后来人李嘉图修改并延续，让经济学走上歧途。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The heroes of Rothbard's study were the Spanish scholastics, who long before Smith had developed a subjective theory of value, and such later figures as Cantillon, Turgot, and Say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>罗斯巴德研究的英雄是西班牙经院哲学家，远在斯密之前就发展了主观价值理论，这些已故人物包括坎蒂隆，杜尔哥和萨伊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He dissects the heretical religious thought that prefigured Marxism and gives a mordant portrayal of the personality and thought of John Stuart Mill.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他剖析了预示着马克思主义的异端宗教思想，并对约翰·斯图亚特·穆勒的个性和思想给出了讽刺写照。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rothbard was closely associated with the Ludwig von Mises Institute from its founding in 1982 by Llewellyn H. Rockwell, Jr. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从卢埃林·罗克韦尔1982年成立米塞斯研究院以来，罗斯巴德与其关系紧密。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This organization became the main vehicle for the promotion of his ideas, and he served as its Academic Vice-President.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个机构成为宣扬他的思想的主要阵地，他作为其学术副主席。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He taught at Brooklyn Polytechnic Institute from the mid 1960s to the mid 1980s; from 1986 to his death on January 7, 1995, he was S.J. Hall Distinguished Professor of Economics at the University of Nevada, Las Vegas.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从1960年代到1980年代中期，他在布鲁克林理工学院任教；从1986年到1995年1月7日去世，他是内华达州拉斯维加斯大学的经济学教授。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

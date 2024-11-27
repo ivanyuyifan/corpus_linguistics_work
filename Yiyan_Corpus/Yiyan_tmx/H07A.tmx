@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200304T094031Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Supplier Responsibility 2009 Progress Report</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果公司2009年度供货商社会责任报告</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple and Supplier Responsibility</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果和供应商责任</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple is committed to ensuring the highest standards of social responsibility throughout our supply chain. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Apple致力于确保贯穿我们整个供应链的社会责任的最高标准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The companies we do business with must provide safe working conditions, treat employees with dignity and respect, and use environmentally responsible manufacturing processes wherever Apple products are made.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与我们有业务往来的公司必须提供安全的工作条件，以尊严对待和尊重员工，并使用对环境负责任（环保）的过程制造所有Apple产品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the past several years, Apple has required suppliers to commit to a comprehensiveSupplier Code of Conduct as a condition of their contracts with us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在过去的几年里，作为合同条件，Apple已要求供应商全面承诺遵守供应商准则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We drive compliance to the Code through an aggressive monitoring program, including factory audits,corrective action plans, and verification measures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们采取了积极的监控方式推动供应商对准则的遵守，包括工厂审查，纠正行动计划和核查措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple’s approach to supplier responsibility extends beyond compliance monitoring.We also provide detailed standards and ongoing training support to help suppliers continue to meet our expectations. And by making social responsibility part of the way we do business, we ensure that suppliers take our standards as seriously as we do.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Apple的方法超越了对供应商责任遵守情况的监督，我们还提供了详细的标准和持续的培训支持来帮助供应商，使他们能够持续符合我们的期望，在使社会责任成为我们做生意方式的一部分时，我们确保供应商把我们的这些标准像我们一样认真对待。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Setting Clear Expectations</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设定明确的期望</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Apple Supplier Code of Conduct outlines a comprehensive set of expectations covering labor, human rights, the environment, health and safety, ethics, and management systems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Apple的供应商行为准则概述了一套全面的涉及劳工，人权，环境，健康与安全，道德，管理系统的期望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every Apple supplier contract includes a commitment to comply with the Code.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每个苹果供应商的合同包括承诺遵守该守则。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our Supplier Code of Conduct draws on internationally recognized standards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的供应商行为准则采用的是国际公认的标准。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While similar to the Electronics Industry Citizenship Coalition (EICC) Code of Conduct, it is more stringent in several important areas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>类似于电子工业公民联盟（EICC的）行为准则，但是在几个重要领域Apple的准则比后者更严格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, Apple’s Code includes concepts from the International Labor Organization (ILO) conventions regarding the rights of workers to freely associate and bargain collectively. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，苹果的准则包含了来自国际劳工组织（ILO）公约的有关工人的权利，自由结社和集体谈判的概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our Code also prohibits discrimination based on pregnancy test results.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的准则还禁止基于测试结果的怀孕歧视。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As in previous years, we’ve continued to strengthen the Apple Supplier Code ofConduct based on our audit experience and input from stakeholders. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同往年一样，我们根据我们进行的审查经验和利益相关者的投入继续加强对苹果供应商准则的遵守。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our recent updates make the Code even more protective of the workers in our supply chain and further clarify our expectations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们最近更新了准则从而使这个准则能更多地保护在我们的供应链中的工人，并进一步明确了我们的预期。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To download the Apple Supplier Code of Conduct, visit www.apple.com/supplierresponsibility.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要下载苹果供应商行为准则，请访问www.apple.com/supplierresponsibility。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>2008 Program Highlights</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008情况重点介绍</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2008, we extended and enhanced our supplier responsibility programs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年，我们扩大和提高了我们的供应商责任项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We more than doubled the number of facilities audited for compliance with our Code,completing onsite audits of 83 facilities in 2008, compared with 39 facilities in 2007.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了审查对我们准则的遵守情况，2008年Apple完成了83次现场审查，比2007年的39次多出了一倍多。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We implemented more rigorous investigation methods and enhanced our remediation procedure for core violations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们实行了更严格的调查方法，增强了违反核心程序的整治。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, we instituted a more thorough procedure for verifying corrective actions resulting from an audit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，我们设立了一个更彻底的程序核实对审查结果的纠正行动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We developed an industry-leading position on recruitment practices in response to an audit discovery involving immigrating workers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在审查中发现涉及移民工人，我们因此开发了业界领先的招聘方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We learned that some of our suppliers had hired contract workers from one country to work in factories in another  that some of those workers had paid recruitment fees in excess of applicable legal limits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们了解到，一些供应商聘请了来自一个国家的合同工人在另一国的工厂工作，这些工人支付了部分的招聘费用，这超越了适用的法律限制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition to demanding reimbursement, we updated our Code to require that suppliers take responsibility for the entire recruitment process, including the recruitment practices and fees of labor agencies in the workers’ home countries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了要求偿还（合同工人的招聘费用），我们更新了准则，要求供应商明确整个招聘过程中的责任，包括招聘方法和合同工人母国的劳动机构中介费。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We expanded our efforts with our suppliers to train workers on their rights and to train management and supervisors on their social responsibility obligations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>扩大了我们和供应商的努力，满足工人受培训的权利和基于履行社会责任的义务方面培训管理人员及主管。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In partnership with our suppliers, more than 27,000 people were trained in 2008, up from2200 people in 2007.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在与供应商合作伙伴关系中，在2008年有超过27,000人接受了培训，在2007年是2200人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2008, we trained more than 400 Apple employees, empowering them to monitor compliance to our Code whenever they visit supplier facilities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年我们培训了400多名苹果公司的员工，授权他们能在任何时候访问供应商，监测对我们准则的遵守情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We launched an education and development pilot at one of our supplier’s factories to help workers fulfill their educational aspirations while continuing their employment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们在供应商的一个工厂推出了教育和发展试验，来帮助工人在工作的同时实现受教育的愿望，
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This report provides more information about specific findings and corrective actions from our 2008 audits, as well as a description of program enhancements designed to drive further improvements.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这份报告提供了更多的关于在2008年的特别发现和纠正措施的信息，以及旨在推动进一步改善这一计划的说明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Monitoring Compliance</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>监测遵守情况</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Audit Process</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审查过程</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our compliance program begins with a risk assessment that considers the location of the factory, the level of business involvement with Apple, and past audit performance—including corrective action closure and management’s commitment to improvement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的审查程序开始于风险评估，包括对工厂地点，工厂对苹果产品的参与程度以及以往审查的纠正措施，包括纠正措施的结束和管理层对改善的承诺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Apple audits a supplier, our employees take the lead—with the support of in-region staff and third-party experts who know the language and understand local regulations and practices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当苹果审查一个供应商，是由我们的员工主导，包括地区工作人员和通晓当地语言和了解当地规章和惯例的第三方专家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each of the auditors on the team is trained to use our detailed protocol and to assess every item across all 17 categories in our Code. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审查小组的每一个成员都接受了使用详细的指引和评估所有17类中每一个项目的训练。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if no violation is found, we evaluate the management system for each element of ourCode and identify areas for improvement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使没有发现违规，我们也会根据我们的行为准则评估管理体系，并找出需要改善的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apple procurement managers help coordinate the audit, while serving as an escalation point for any issues that arise during the audit and corrective action process. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苹果采购经理会帮助协调审查，在审查和纠正行动的进程出现的任何问题作升级服务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This direct involvement makes it clear to our suppliers that social responsibility is integral to their business relationship with Apple.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种直接的参与目的在于让供应商明白，社会责任是与苹果的业务关系中不可或缺的一部分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The audit includes:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审计内容包括：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Confidential interviews with randomly selected employees from the line, representing multiple shifts and both direct and contract workers</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>秘密采访生产线上随机挑选的员工，代表不同的班次以及被直接雇佣和派遣工人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Interviews with senior management in all major functional areas</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与高级管理人员就主要职能范围进行访谈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Physical inspections of manufacturing facilities and, as appropriate, living and dining areas</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>亲身检查生产设施，并酌情检查生活和就餐区域。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Review of records and relevant policies and procedures</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审查工厂记录和相关政策程序</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Corrective Action Process</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纠正措施的程序</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the conclusion of the audit, the audit team reviews the findings with the facility management, and the factory’s most senior manager provides written acknowledgement of the preliminary audit findings.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在审查结束后，审查小组江河当地的管理层一起审查调查结果，同时工厂的最高级管理人员提供书面确认初步审查结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When improvements are needed, Apple requires the supplier to produce a corrective action plan that addresses not only the specific violation, but also the underlying management system needed to prevent reoccurrence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当有需要改善的地方时，苹果要求供应商不仅仅就这些具体地方采取纠正措施，而且要修改相应的管理体系以防止再犯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We track completion of each corrective action to closure, with an expectation that all violations will be corrected as quickly as possible, but not later than 90 days after the audit.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们会跟踪每个纠正行动直至完成，我们期望所有违反规定的地方会尽快得到纠正，但不得迟于审查结束90天之后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To confirm that corrective actions have been closed to Apple’s satisfaction, our team performs a Corrective Action Verification audit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要确认纠正措施已完成并使苹果满意，我们的小组会执行一个纠正行动审查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we find issues that have been inadequately addressed, we continue to work with the supplier on additional improvement measures. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我们发现有问题没有充分解决，我们将继续与供应商合作，采取进一步的改善措施。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, where violations are numerous or severe and corrective actions are inadequate, we terminate the business relationship.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，当违反准则过多或很严重，纠正措施不足的，我们将终止业务关系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Audit Results</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>审查结果</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2008, we continued to expand the scope of our compliance program. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年我们继续扩大我们的准则遵守审查范围。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We completed onsite audits at 83 facilities, including 10 repeat audits and 73 first-time audits selected through a risk management process. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们通过风险管理程序，选择并完成了83次现场审查，其中包括10次重复审查和73次第一次审查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our return visits revealed continued performance improvements and better working conditions, with overall compliance increasing at every facility. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的回访显示了改进和更好的工作条件，整体遵守情况在每个工厂都有改进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>First-time audits revealed patterns of compliance and noncompliance similar to our first-time audits in 2007.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一次审查发现的遵守和不遵守准则的模式类似我们在2007年的第一次审查。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our most significant discovery involved recruitment practices in which our suppliers had hired workers from one country to work in factories in another country. Of the 83 facilities audited, we found six facilities where these contract workers stated they had paid recruitment fees that exceeded the applicable legal limits—often requiring them or their families to incur a debt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们最重要的发现涉及到招聘方式，我们的供应商雇佣了一个国家的工人到另一个国家工厂工作，在83次现场审查中，我们发现6处，这些合同工人表示他们支付的招聘费用超出适用的法律限制，往往需要他们或其家属承担债务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We classified this overcharge as a core violation,our most serious category of violation, since these workers may not feel at liberty to leave employment until the debt is paid.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们把这种超额收费归类为核心违反准则，这是我们认为的最严重的违反行为，因为他们在债务还清之前可能无法自由地辞职。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other core violations included one case of coaching workers interviewed in the audit process, seven cases of underage workers, and three cases of falsified records.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其他核心的违反准则，包括一例在面试审查过程中教唆工人，7例未成年工人，3例伪造记录。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

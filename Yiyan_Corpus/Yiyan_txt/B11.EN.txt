@@ -1,0 +1,68 @@
+Israel's Rocket-Hunting Ace Got His Start Playing Warcraft 
+War has once again erupted between Hamas and the Israel Defense Forces, with the Gaza-based militant group launching hundreds of rockets and missiles at Israeli towns. 
+But many of these projectiles never made it to their targets, thanks to the new Iron Dome missile defense system that's arguably become this conflict's most important technological difference-maker. 
+This article, first published in April, tracks the story of Iron Dome's most prolific "gunner." 
+While his record for shooting down missiles and rockets has by now undoubtedly fallen, the tale still gives insight into the battle now gripping Israel and Gaza.
+KFAR GVIROL, Israel --- While many of the boys in Idan Yahya's high school class were buffing up and preparing themselves for selection into elite combat units, this gawky teenager was spending "a lot of time" playing Warcraft --- the real-time strategy computer game where opposing players command virtual armies in a battle to dominate the fictional world of Azeroth.
+Four years later, the high school jocks who sweated it out in pre-military academies so they could make the cut into the Israel Defense Force's Special Operations units are now crawling through the sand dunes on the outskirts of the Gaza Strip and watching while Idan knocks rockets out of the sky hundreds of meters above their heads. 
+Idan Yahya, 22, an Iron Dome "gunner" in the Active Air Defense Wing 167, currently holds the record for the number of rockets intercepted: eight.
+People in the army describe him variously as a geek and an ace. 
+But the geek who grew up playingWarcraft is now a highly prized soldier on the cutting edge of real war craft. 
+He's the Israeli army's top rocket interceptor.
+The Iron Dome is a mobile anti-rocket interception system that Israel moves around the country to shoot down the rockets fired at its civilian population centers by armed groups in Gaza and southern Lebanon. 
+Its radar picks up launches and fires interceptor missiles at them if they're calculated to be heading towards populated centers. 
+The system has become increasingly important as Hamas, Hezbollah and other groups amass surface-to-surface missiles to hit the Israeli home front with, thus bypassing the Israel Defense Force's overwhelming advantage of concentrated firepower and fighter aircraft. 
+Should Israel attack Iran's nuclear installations, the expected rocket reprisals from the armed groups on its borders will keep Iron Dome very, very busy.
+As the war between Israelis and Arabs enters its sixth decade (or its 500th depending on who you ask), it is increasingly becoming a hi-tech rocket war. 
+The IDF's Director of Military Intelligence Maj. Gen. Aviv Kochavi in February said there were 200,000 rockets aimed at Israel from the south, north and east. 
+And in this increasingly technological battlefield of rockets, anti-rocket interceptors, radars, control rooms, drones and drone hacking, it is soldiers like Idan Yahya (and whoever his counterparts on the Arab side are) who are making the most impact.
+Computer geek, keyboard combatant, soldier, call him what you will, Idan and others like him man the controls of the latest rock star in advanced military technology. 
+"There are a lot of flashing blips, signs, symbols, colors and pictures on the screen. 
+You look at your tactical map; see where the threat is coming from. 
+You have to make sure you're locked onto the right target. 
+There's a lot of information and there is very little time. 
+It definitely reminds me of Warcraft and other online strategy games," Idan says.
+The young soldier has at his console a machine of vast computing power and aerial TNT. 
+Each Iron Dome battery is manned by a crew of 100 soldiers, including perimeter guards, working in shifts, and the entire system is connected to the larger Israeli multi-tiered air defense order of battle. 
+The unit is a mobile battlefield installation that meshes radar information from a mini multi-mission and fire control radar, powerful networks and processors, launchers, GPS-guided rockets, and human operators pushing the buttons and making the decisions. 
+It is the first system of its kind that is designed specifically to detect the launch and trajectory of short-range rockets, and intercept them in flight if they're deemed to be headed for a populated area.
+Based on information from the Iron Dome's radar about the incoming rocket's current and projected trajectory, the processors at the BMC (Better Management Command) calculate its Ground Impact Point whether it's going to fall into an open field or an apartment building §§C and based on that decides whether to shoot it down or leave it alone. 
+The incoming missile is not a static object that's being fired at, so the interceptor missile is constantly provided with updated trajectory information.
+The Iron Dome's ??brain' then, and what makes it such a successful system is its powerful 'trajectory prediction mechanism,' which assesses where along the trajectory the intercept point is going to be. 
+"When I shoot one down, I feel happy, satisfied. 
+I try disconnect from my feelings when I'm at the controls though," Idan says.
+The Iron Dome is different from the anti-ballistic systems out there for the simple reason that it's specifically designed for rockets between the 5km to 40km range, and for the other simple reason that is battle-proven and very, very successful. 
+For short-range mortar interception there is the Phalanx [a rapid-fire cannon for close-in protection], and for the longer-range missiles there are the Patriot andArrow interceptor systems. 
+But there has been nothing for the shorter-range rockets in the arsenals of a variety of terror groups, militias and even some states. 
+And nothing that has shot them out of the sky with such success.
+Following the barrage of over 4,000 Grad Katyusha rockets from southern Lebanon into northern Israel in the Second Lebanon War in the summer of 2006, Israel harried through the Iron Dome from development to deployment in five years. 
+The system's developers had to provide a solution to a challenging problem: design a rocket system that can identify a rocket launch, classify its type, calculate its trajectory, decide the level of the threat it poses, launch an interceptor missile at it, keep the interceptor locked onto the incoming rocket, and blow it out of the sky --- and all within a minimum of 15 seconds and a maximum time of 40 seconds, depending on the distance from the launch source.
+A long-range rocket launched from Iran, for instance, takes around 11 minutes to reach Israel; plenty of time for a Patriot or Arrow interceptor to lock onto it and shoot it down. 
+A rocket launched from Gaza takes 15 seconds to hit Ashkelon, a city in southern Israel with a population of about 120,000 people. 
+So the issue of speed to decision-to-interception was critical.
+The Iron Dome fits snugly into the IDF's multi-tiered missile defense system and may even soon provide cover fire to some of the bigger systems that tackle rockets of the100km §§C 200km range, like the ones in the arsenals of Hezbollah and Syria. 
+In an interview at the Hatzor air force base near Ashdod, Colonel Zvika Haimovich, commander of the Israel Air Force's Active Defense Wing, tells Danger Room that all of the air defense systems in Israel's arsenal "talk to each other" through a network in order to provide the best possible answer to incoming rocket fire. 
+The systems share data on the ballistic picture, about which targets are in the line of fire, and about which system is to be set into motion. 
+"Our battles are going to be more multi-arena and multi-dimensional. 
+In the past, if you wanted to protect Tel-Aviv from rocket attack, you only had to look east. 
+Now you need to look to Syria, Lebanon, and Gaza also," Haimovich says.
+The Iron Dome has been so successful in its last round of deployment --- interceptors shot down over 60 rockets headed for populated areas, at a success rate of 80 percent --- that the Israeli government has asked the U.S. administration for money to fund additional batteries. 
+According to reports here, the Israelis are asking for 700 million shekels (about $ 206 million), in addition to the $200 million the Obama administration has already provided for Iron Dome development. 
+It costs $45 million to produce an Iron Dome battery and every Tamir interceptor missile fired at a Grad or Kassam rocket costs 40,000 dollars. 
+There are 20 Tamir interceptors per battery (the Grads and Kassams they shoot down cost about $ 1,000 each; you do the math). 
+There are currently four operational Iron Dome batteries deployed in Israel, with the last one coming online on Thursday, April 5, in the presence of U.S. Ambassador Dan Shapiro, whose boss provided much of the funding for the Iron Dome project as a whole.
+Shapiro, making a visit to the newly operational battery on Thursday, tells Danger Room that the Pentagon and the Israeli Ministry of Defense were in talks about finding the money to help Israel build more of the machines. 
+Israeli officials say they'll need about 14 Iron Domes to provide countrywide security against short-range rockets §§C that's another 10 systems. 
+The Obama administration is keen to secure the funds, for several reasons, chiefly because, as Shapiro says, "the U.S. is committed to Israel's security," but also, as some analysts in Israel put it, because Obama wants to use funding for the Iron Dome as a carrot to entice Israel not to attack Iran's nuclear installations.
+Shapiro also did not rule out that funding the Iron Dome for the Israelis would be less of a donation and more of an investment in the possible future use of the system "in other theaters." 
+But funding another 10 more Iron Dome batteries, at a base cost of some $450 million might be beyond even a President who swears he's "got Israel's back." 
+In lieu of finding that kind of money, the Israelis are now working on increasing the Iron Dome's range from its current 70km maximum to 250km --- that way it can cover more of the small country without having to necessarily buy and build a lot more of the interceptor batteries. 
+Officers involved in the project say increasing Iron Dome's range is possible, but it remains to be seen how quickly and effectively this can be done.
+"The Iron Dome saves lives, pure and simple," says the U.S. ambassador, adding that he believes there will be "very strong support in Congress" for Israel's funding request. 
+"We're very proud to support this technology, which is an Israeli-developed technology, because of the acute threat of missiles fired by terrorist organizations against civilian populations here in Israel. 
+It's proven itself as an effective technology that's reached 80 percent success rate in its most recent round. 
+There is certainly the possibility that this technology could have other uses in other theaters, but I think that's something for military professionals in Israel, the United States and many other countries who may have an interest to discuss. 
+Our focus right now is on supporting the acceleration of the deployment of this system because it's part of our commitment to Israel's security," Shapiro says.
+"You need fighters; people who know how to use the technology, and even take decisions that go against the system's recommendations. 
+My Iron Dome operators are all fighters, and sure, many of them probably played PlayStation and computer games in their teens before they got to my unit. 
+But now we train them to look at a very complex ballistic picture, with a lot of information about targets and threats, a lot in the air, to decide which target is more threatened and which is less, to know how to communicate with other systems online, and to take decisions in a matter of seconds under conditions of extreme stress and with a lot of unknowns. 

@@ -1,0 +1,937 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200305T045452Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women and the vote</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女与投票权</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before 1918 no women were allowed to vote in parliamentary elections. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年之前，只有男人获许於国会选举投票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the early 20th century there were two main groups active in the campaign for women's suffrage, a term used to describe the right to vote.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20世纪初主要有两大团体致力於妇女选举权（suffrage）运动，此词用来形容投票权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These two groups were the 'suffragists' who campaigned using peaceful methods such as lobbying, and the 'suffragettes' who were determined to win the right to vote for women by any means. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>两团体分别为「妇女参政者」（suffragists），采用诸如游说等和平方式运动，而「妇女权利者」（suffragettes）则决意无论手段，赢取妇女投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their militant campaigning sometimes included unlawful and violent acts which attracted much publicity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>激进运动包括非法与暴力行为以吸引公众关注。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The campaign for the right to vote</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>投票权运动</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The modern campaign to secure the right to vote for women began in the mid-19th century.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>近代争取妇女投票权运动始於19世纪中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This aim was partially achieved with the Representation of the People Act 1918, which allowed some women over the age of 30 to vote in national elections.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>体现於1918年人民法案，达成部分目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Parliament (Qualification of Women) Act followed later the same year and allowed women to stand as Members of Parliament.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随後同年的国会（妇女参选资格）法案，容许妇女竞选国会议员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not until the Equal Franchise Act was passed in 1928 that women won the same voting rights as men.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1928年通过平权法案，妇女才拥有和男性同等投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those campaigning peacefully for women's suffrage were called suffragists. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和平地争取妇女投票权的称为妇女参政者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the early 20th century some women who pursued militant methods of campaigning were known by the initially derogatory term 'suffragettes', a description first used by the Daily Mail in 1906.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自20世纪初部分女性投身激进运动方式，被称为「妇女权利者」，当初乃眨义词，1906年《每日邮报》最先采用此称呼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, the term was adopted by women themselves and became widely used.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是此词获妇女接纳并广泛采用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Right to vote</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>投票权利</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women felt they should have the right to vote for many reasons, particularly because they had to pay taxes and abide by the law, just as men did. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女认为有很多理由该当有投票权利，特别是因为她们和男人一样交税和遵守法律。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They believed they had an equal right to influence Parliament and government by voting.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她们相信有同等权利，通过投票影响国会与政府。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early suffragist campaigning</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早期妇女参政者运动</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the 19th century, the franchise was extended to include more men both in the Second Reform Act 1867 and the Third Reform Act 1884.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在19世纪，1867年第二次改革法案，1884年第三次改革法案，放宽纳入更加男性拥有投票权。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many women who were denied the right to vote were in similar circumstances to these men, being rate-payers and subject to the same laws of the land.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更多工人阶级男性可以投票，而境况相当於他们的众多女性，同属纳税人，服从此土地上同一法律，投票权利遭否定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a growing sense of injustice and from the mid-19th century onwards groups of women joined together to campaign for the vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自19世纪中起，不公情绪滋长，进而有妇女联结成为组织，争取投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were known as suffragists.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>称之为妇女参政者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suffragist groups</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女参政者团体</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suffragist groups existed all over the country and under many different names but their aim was the same: to achieve the right to vote for women through constitutional, peaceful means.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女参政者团体在全国各地出现，名目不一但目标一致：通过宪政，和平手段达至妇女投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were regional groups, especially in urban centres like Manchester, which held public meetings and petitioned at local level. At national level, key individuals included Millicent Fawcett and Lydia Becker.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>诸地区组织，特别在市中心比如曼彻斯特，在本地层面举行公众集会和请愿，在全国层面，关键人物有米莉森·科茜（Millicent Fawcett）和莉迪亚·碧加（Lydia Becker）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lobbying</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>游说</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The suffragists believed in achieving change through parliamentary means and used lobbying techniques to persuade Members of Parliament sympathetic to their cause to raise the issue of women's suffrage in debate on the floor of the House.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女参政者相信通过国会途径以达目标，运用游说技巧，说服国会议员理解他们理念，在下议院辩论上提出妇女投票权议题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between 1870 and 1884 debates on women's suffrage took place almost every year in Parliament. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1870年到1884年，国会几乎每年都就妇女投票权辩论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This succeeded in keeping the issue in the public eye as Parliamentary proceedings were extensively covered in the national and regional press of the time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其时国会议程已经覆盖全国与地区媒介，成功在公众目光下维持话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was some criticism that by concentrating so heavily on activities in Parliament, the movement sacrificed opportunities to mobilise mass support throughout the rest of the country.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有些批评指过分集中在国会运动，牺牲动员全国各地群众支持运动的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Petitions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请愿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The use of petitions was another tactic employed by the suffragists to demonstrate support for their cause. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请愿是妇女参政者采用的另一策略，作用是阐释支持他们的理由。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of these petitions were presented to Parliament.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们呈交请愿给国会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Early petitions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首次请愿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first petition to Parliament asking for votes for women was presented to the House of Commons by Henry Hunt MP on behalf of a Mary Smith, on 3 August 1832. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1832年8月3日，众议员亨利·亨特（Henry Hunt）代表玛莉·史密斯（Mary Smith），向众议院呈交要求妇女投票权的首次请愿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same year, the Great Reform Act expanded the electorate, but to 'male persons' only.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同年大改革法案拓阔选民范围，但仅限「男士」。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Start of the suffragette movement</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开始妇女权利（suffragette）运动</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Pankhurst family is closely associated with the militant campaign for the vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾米琳·潘克特一家与争取投票权的激进运动有密切联系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1903 Emmeline Pankhurst and others, frustrated by the lack of progress, decided more direct action was required and founded the Women's Social and Political Union (WSPU) with the motto 'Deeds not words'.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1903年艾米琳·潘克特和其他人决定需要更多直接行动，并创立妇女社会与政治联盟（Women's Social and Political Union/WSPU），其格言是「别说，去做（Deeds not words）」。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women only</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只限女性</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Membership of the WSPU was limited to women only. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>WSPU限制只有女性加入会员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Emmeline Pankhurst's daughters, Christabel, Sylvia and Adela, were committed members.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾米琳·潘克特的女儿，克丽丝贝尔（Christabel），西维亚（Sylvia）和艾迪拉（Adela），都是中坚份子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>WPSU members were determined to obtain the right to vote for women by any means and campaigned tirelessly and sometimes violently to achieve this aim. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>WSPU成員决心不论手段，争取女性投票权，不懈地斗争，时或以暴力达到目的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Militant action</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>激烈行动</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However the lack of Government action led the WSPU to undertake more violent acts, including attacks on property and law-breaking, which resulted in imprisonment and hunger strikes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>激烈行动包括破坏财物，袭击政客，换来监禁和绝食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These tactics attracted a great deal of attention to the campaign for votes for women.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上述手法是为了吸引大众关注妇女投票权运动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Legal and constitutional support</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法律与宪制上支持</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not all those campaigning for women's right to vote favoured militant action.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是所有妇女投票权运动皆热衷激烈行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moderate women's organisations, such as the National Union of Women's Suffrage Societies (NUWSS) led by Millicent Fawcett, were instrumental in building up the legal and constitutional support for the enfranchisement of women, but their contributions were often overshadowed by the high profile actions of the suffragettes.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>温和妇女组织，诸如米莉森·科茜领导的全国妇女参政协会联盟（National Union of Women's Suffrage Societies/NUWSS），皆有功於妇女充权，加强法律与宪制上支持，但她们贡献往往被妇女权利者高调的行动所掩盖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Deeds not words'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>「别说，去做」</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imprisonment for their actions became an important tool for the Women's Social and Political Union (WSPU) and led to another important tactic, hunger striking.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女社会与政治联盟（WSPU）因其行动而遭监禁，是她们一大重要手段，从而衍生另一重要策略，绝食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hunger strikes</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝食</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first hunger strike was undertaken by Marion Wallace-Dunlop in 1909 as a protest when she was not given political prisoner status in prison. She had been arrested for damaging a wall in St. Stephen's Hall in the Houses of Parliament.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1909年，玛丽昂·华莱士-邓绿普（Marion Wallace-Dunlop）在一场示威中破坏国会大楼内圣士提反堂（St。 Stephen's Hall）的一幅墙，因而被捕，她在狱中没有得到政治犯待遇，实行首次绝食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When imprisoned, suffragettes would go on hunger strike, leading to the authorities force-feeding women in prison, a dangerous and humiliating treatment which provided the suffragettes with powerful propaganda.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每当监禁，妇女权利者将会绝食，以致政权在狱中向她们强行喂食，危险与有辱人格的对待为妇女权利者提供有力宣传。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Cat and Mouse Act'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>「猫和老鼠法案」</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Prisoners' Temporary Discharge for Ill-Health Act, also known as 'The Cat and Mouse Act' was passed in 1913. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1913年通过因健康问题临时释放囚犯法案，又被称为「猫和老鼠法案」。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This permitted the early release of women who had become so ill as a result of their hunger strike that they were at risk of death but required that they return to prison when their health was better to continue their sentence.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>允许提早释放因为绝食以致相当虚弱，有死亡风险的妇女，但要求她们健康好转後要重返监狱，继续服刑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hunger strike/force feeding process then began all over again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绝食/强行喂食的过程开始反覆重演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Conciliation Bill</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和解草案</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1910, a Conciliation Bill was read in Parliament. The bill was written to extend voting rights to women but failed to become law. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1910年国会宣读一份和解草案，撰写草案是要放宽妇女投票权，但未能成功立法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Following its failure there were violent clashes outside Parliament. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>失败随之而来是国会以外的暴力冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were further Conciliation Bills proposed in subsequent years but they failed to resolve the situation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此後数年，国会提出更多和解草案，但都无法调解状况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Emily Wilding Davison</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾米莉·怀奥亭·戴维森（Emily Wilding Davison）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Emily Wilding Davison was particularly committed to 'deeds not words', notably hiding in the House of Commons on a number of occasions, including on Census night in April 1911 when she spent the night in a cupboard in the Chapel of St Mary Undercroft in order to state 'House of Commons' as her address on her census return.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾米莉·怀奥亭·戴维森尤其致力於「别说，去做」，最为人知是多番躲在众议院，包括在1911年4月的人口普查之夜（Census night），她整晚躲在地下小教堂（Crypt Chapel）橱柜内，目的是要在人口普查答覆中申报自己居住在「众议院」。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was imprisoned eight times for offences including assault and stone-throwing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她因施袭与掷石等罪八度下狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her final, and most dramatic, act was to step out in front of the King's horse at the Epsom Derby in June 1913. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其结局相当戏剧化，1913年叶森打比大赛，她冲到国皇5马前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is unclear whether she intended to commit suicide, but she died soon afterwards of her injuries.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不清楚她是否打算自杀，她很快因伤去世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suffrage in wartime</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战时妇女权利者</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the outbreak of the First World War, Emmeline Pankhurst suspended the activities of the Women's Social and Political Union and concentrated her efforts on helping the government recruit women into war work.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当第一次世界大战爆发，艾米琳·潘克特暂停妇女社会与政治联盟的行动，集中其力量协助政府，招募妇女投入战争工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Changing perceptions</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>观念改变</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The involvement of women in the war effort did much to change perceptions of the role of women in British society.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女参与战争的影响，大幅改变英国社会对妇女角色的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During the war years women undertook jobs normally carried out by men and proved they could do the work just as well. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战时妇女投身本由男性从事工作，并证明她们做得一样好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Between 1914 and 1918, an estimated two million women replaced men in employment, resulting in an increase in the proportion of women in total employment from 24 per cent in July 1914 to 37 per cent by November 1918.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1914到1918年间，估计有二百万份女代男职工作，结果女性占总就业人数比例，由1914年7月的24%，增至1918年11月的37%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women's work?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女工作？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been proved that women were capable of jobs beyond those in traditionally 'female' roles, such as domestic service. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这证明妇女有能力工作，超越传统「良家妇女」定形，例如家务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, employers still deemed that women's work was worth less than men's and their wage packets did not match men's even for the same jobs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但雇主仍然认为妇女工作价值不及男性，即使同工，她们薪酬不如男性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, it was not just that women proved themselves equal to men in the workplace that the arguments for the right to vote were strengthened.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而这不仅在於证明妇女在职场与男性平等，也在加强妇女投票权的理据。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Widening the franchise</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>放宽投票权</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ongoing work of the suffragist movement and the commitment of the growing Labour Party movement to widening the franchise were also factors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女参政运动持续进行，工人阶级运动日益壮大的投入，也是放宽投票权的因素。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women get the vote</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>妇女取得投票权</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>During 1916-1917, the House of Commons Speaker, James William Lowther, chaired a conference on electoral reform which recommended limited women's suffrage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1916至1917年，众议院议长詹姆斯·威廉·罗达（James William Lowther）主持选举改革会议，主张限制妇女投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Influential consideration</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重大考虑</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An influential consideration, in addition to the suffrage movement and the growth of the Labour Party, was the fact that only men who had been resident in the country for 12 months prior to a general election were entitled to vote.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了妇女投票权运动与工党壮大，最重要考虑在於事实只有男性在大选前居於国内12个月，即有资格投票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This effectively disenfranchised a large number of troops who had been serving overseas in the war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大量为海外战事服务的人实质被剥夺投票权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>With a general election imminent, politicians were persuaded to extend the vote to all men and some women at long last.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当大选临近，终於说服从政者扩充妇女投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Representation of the People Act 1918</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年人民代表法案</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1918 the Representation of the People Act was passed which allowed women over the age of 30 who met a property qualification to vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年人民代表法案通过，允许年过30岁，符合财产资格女性投票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although 8.5 million women met this criteria, it was only about two-thirds of the total population of women in the UK.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管850万妇女合符标准，但仅代表英国全体女性40%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The same Act abolished property and other restrictions for men, and extended the vote to virtually all men over the age of 21. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法案同时放宽所有年满21岁男性投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The electorate increased from eight to 21 million, but there was still huge inequality between women and men.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选民总数由800万增至2100万，但男女之间仍有极大不公。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Equal Franchise Act 1928</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1928年平权法案</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was not until the Equal Franchise Act of 1928 that women over 21 were able to vote and women finally achieved the same voting rights as men. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1928年平权法案，年满21岁女性可以投票，最终达成与男性有平等投票权利。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This act increased the number of women eligible to vote to 15 million.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法案使合资格女性选民增至1500万。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women in the House of Commons</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女性在众议院</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1918 some women over the age of 30 got the vote. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年部分年满30岁女性得到投票权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was also the year that, a separate law was passed - the Parliament (Qualification of Women) Act - which allowed women to stand as candidates and be elected as MPs.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同年通过另一法律 - 国会（妇女参选资格）法案 - 容许妇女出任候选人，当选众议员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following year the first woman MP took her seat in the House of Commons.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>翌年首位女性众议员出席众议院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first woman MP</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首名女性众议员</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first woman to be elected to the Commons was Constance Markievicz, in the general election of 1918. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年大选，首位入选众议院的女性，是一名叫康斯坦斯·马克维其（Constance Markievicz）的波兰伯爵夫人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However as a member of Sinn Fein, she did not take her seat.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而由於她是新芬党成员，没有出席会议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first women to take her seat was Nancy Astor (Viscountess Astor), after a by-election in December 1919. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1919年12月补选，兰茜·艾斯特（Nancy Astor，艾斯特子爵夫人）成为首位出席会议女性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was elected as a Conservative for the Plymouth Sutton constituency after her husband, Waldorf Astor, the former MP, was elevated to the peerage.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>继其丈夫，前任众议员华德福·艾斯特（Waldorf Astor）晋升为贵族，作为保守党员的她在普利茅斯萨顿（Plymouth Sutton）选区当选。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She held the seat until she stood down in 1945. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她保住议席直到1945年退休。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although she had never been involved in campaigns for women’s suffrage, she was a great supporter of the women’s movement once in Parliament.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管她从未参与妇女投票权运动，但她一度是国会中重要的妇女运动支持者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her husband also worked to promote the admission of women to the House of Lords during the 1920s.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1920年代，她丈夫也致力於推动接纳女性进入上议院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women and the House of Lords</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>女性与上议院</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Women were given the right to stand for Parliament in 1918 but still could not become members of the House of Lords.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1918年女性得到出席国会的权利，但尚未能够成为上议院一份子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Rhondda Case</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朗德案例</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Margaret Haig Thomas, Viscountess Rhondda (1883–1958) was the daughter of David Alfred ('D.A.') Thomas, first Viscount Rhondda (1856–1918), a member of the House of Lords. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朗德女士（Lady Rhondda）7是朗德子爵（Viscount Rhondda）的女儿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As he had no sons he had made a special request for her daughter to be able to take his title after he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其时她父亲去世，膝下无子的他曾特别要求由女儿继承他的名字8。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However this did not entitle her to take his seat in the Upper House.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而她没资格取得父亲在上议院席位。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of the leading equalitarian feminists of her day, Lady Rhondda founded a pressure group called the Six Point Group and a feminist journal called 'Time And Tide'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她是当时最重要的平权主义，女权主义者之一，她成立一个名为六点团（Six Point Group）的施压团体，和一份名为《时代与趋势》（Time And Tide）的女权主义刊物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had been a militant suffragette in her youth, and had been jailed for setting fire to a post-box. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她自少便成为激进的妇女权利者，曾因焚烧邮箱入狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In prison she went on hunger strike.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在狱中绝食。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was determined to take her father’s seat in the Lords and based her claim on the Sex Disqualification Act 1919 which stated that "a woman shall not be disqualified by sex or marriage from the exercise of any public function".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她决心要继任父亲在上议院席位，在她要求下，1919年去除性别规限法案保障「女性不会因为其性别和婚姻而失去出任任何公职资格」。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her case was referred to the House of Lords Committee for Privileges and was heard in 1922. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1922年，她的案例送交上议院特权委员会审理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Initially the Committee found in her favour but this decision was soon reversed following opposition from the Lord Chancellor, Lord Birkenhead (F. E. Smith).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>初时判决对她有利，但裁决很快出现逆转。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

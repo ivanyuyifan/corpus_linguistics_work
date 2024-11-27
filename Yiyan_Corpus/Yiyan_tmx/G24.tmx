@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T073240Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Chinua Achebe: A life in writing</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>齐诺瓦·阿切比：写作者的一生</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In January 1966 Chinua Achebe attended a meeting of the newly founded Society of Nigerian Authors. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1966年1月齐诺瓦·阿切比参加了由新成立的尼日利亚作家协会（Society of Nigerian Authors，缩写SNA）举办的一场会议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His 1958 debut novel, Things Fall Apart, had made him a literary celebrity abroad and an influential public intellectual at home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1958年的处女作《崩溃》令他在国外文学界一举成名，同时还令他在国内成为了一名具有影响力的公共知识分子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But six years after the celebrations and optimism that marked Nigerian independence, he says there were already "far too many indications that we might not be going to have a good time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在举国满怀乐观庆祝尼日利亚独立后的第六年，他说已经有“太多的苗头显现，表明我们不可能过上好日子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was theft, corruption and even some violence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>盗窃、腐败，甚至还有暴力当道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It wasn't yet a complete failure, and we still thought we could get things right. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然还没到全盘皆输的时候，我们仍旧认为事情是朝着好的方向去的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But the SNA was sort of a trade union. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>SNA具有贸易组织的性质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We thought it would keep us writers safe."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们认为它能保护作家们的安全。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The meeting that night was delayed because one of the members was late. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于一位作家成员迟到，当晚的会议推迟进行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And then he burst through the door holding a book and shouting that I was a prophet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“随后他破门而入，手中拿着一本书吼道我是一个预言家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Everything in the book is happening,' he said, 'except the coup.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“书中写到的事情都发生了，”他说，“除了叛乱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The book was Achebe's fourth novel, A Man of the People, which was due to be published in London a few days later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这本书是阿切比的第四部作品——《人民公仆》，四天后将于伦敦发行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite being set in an unnamed African state, it was clearly a satire on post-independence Nigeria detailing the greed and vanity of the slide into corruption and the cynical lip service paid to traditional values by aspirant politicians on the make. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管书中并未指明故事发生在哪个非洲国家，但它很明显讽刺了独立后的尼日利亚，详尽地描写了野心勃勃唯利是图的政客在虚荣心和贪婪的驱使下堕落腐败，装模作样维护传统价值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'd ended the book with a coup," Achebe explains, "which was ridiculous because Nigeria was much too big a country to have a coup, but it was right for the novel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“书中我以叛乱做结局，”阿奇比解释到，“而尼日利亚如此之庞大，叛乱如果发生，根本是不可思议的事情，但在故事中它是合情合理的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night we had a coup." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那一晚我们国家真的发生了暴乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The prime minister was murdered, along with key regional politicians and members of their families, as elements from the military took control. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事态发展到了军方夺权，总理以及主要的地方官员和他们的家庭成员均惨遭杀戮。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And any confidence we had that things could be put right were smashed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们曾经以为事情的走向是正确的，现在这种信心全被粉碎了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That night is something we have never really got over."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那天晚上发生的是我们一直不能解决的事情。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The eerie prescience of Achebe's novel led to him being accused of having prior knowledge of the coup by the authorities. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奇比的小说奇迹般地预见了一切，当局因此认为他知道关于叛乱的内幕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While this allegation was entirely untrue in its specifics, in a wider sense his work has always been closely informed by, and intertwined with, Nigerian politics as well as with its culture, history and literature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但具体到细节上，这样的指控纯属无稽之谈，他的作品在广义上从尼日利亚政治获得灵感，并与之交织，与此同时还包括尼日利亚的文化，历史和文学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is a novelist, poet, children's writer, critic, editor and essayist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是一个小说家，诗人，儿童作家，评论家，编辑和论文集作者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His most recent essay collection, The Education of a British-Protected Child (Penguin), is published in paperback this week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他新近出版的论文集，《一个受英国保护的儿童受到的教育》（企鹅出版集团）的精装本将于本周出版。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Things Fall Apart told the tragic story of Okonkwo in late 19th-century Nigeria as Christian missionaries began their work in the region. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《崩溃》讲述了19世纪的尼日利亚，基督教组织在此地布道，奥康克瓦(Okonkwo)经历了悲惨命运。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No Longer at Ease (1960) features Okonkwo's grandson in the 1950s working for the British colonial civil service; Arrow of God (1964) went back to the early years of the century to interrogate relations between traditional and colonial faiths and power structures.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而在1960年的《动荡》中，奥康克瓦的孙子在英国殖民下的公务系统服务；1964年《神箭》回到世纪之初，对传统时期和殖民时期的信仰和权力机构进行了对比和拷问。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 2007 Achebe was awarded the inaugural Man Booker International prize. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2007年阿奇比被授予国际布克奖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The chair of judges, Elaine Showalter, said that in "redrawing the contours of African history" he had at the same time "redrawn the contours of the novel Joyce recreated for the 20th century, and illuminated the path for other writers seeking new words and forms for new realities and societies." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>评委主席艾莲·舒瓦特（Elaine Showalter）说，在“重绘非洲历史的轮廓”的同时，他还“重绘了乔伊斯在20世纪创造的小说的轮廓，他在词汇和形式上为其他寻找新世界和新现实的作家照亮了道路。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nelson Mandela said Achebe had "brought Africa to the rest of the world" and described him as "the writer in whose company the prison walls came down".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼尔森·曼德拉说阿奇比“将非洲介绍给了世界”，并称“在他的作品的陪伴下我走过了牢狱生涯。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Achebe was 80 last month and is a model of the grand old man of African writing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上个月阿奇比度过了80岁生日，跻身非洲作家中长老级的楷模人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But despite his status, he remains a contentious figure. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然身份特殊，但他仍然是一个能引发争议的人物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last month, on a rare visit to the UK, he gave a lecture at Cambridge University- an institution that turned him down for post-graduate study over 50 years ago- entitled "Nigeria's Painful Transitions". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上个月，他来到英国进行访问，这是少有的几次机会，他在剑桥大学——50年前拒绝了他的研究生申请的一所学校——进行名为《充满痛苦的尼日利亚过渡时期》的讲演。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He opened by expressing the hope that his words would not be too offensive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在开场时表示希望自己的言语不至于太过分。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The assumption was that he was warning the white members of the audience, but in reality his lecture was far more uncomfortable listening for the sizeable Nigerian contingent, including a slew of government and embassy dignitaries, as he spoke of "indolent kleptocrats" in the government, and "a cesspool of corruption".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许这是在提醒听众里的白人成员，但实际上，当他讲到政府里“懒惰的强盗统治”和“滋生腐败的粪池”时，坐立不安的是众多的尼日利亚听众，这包括不少政府和使馆要员在内。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before the lecture there had been some rumblings within the university that if Achebe was too outspoken, in particular about the Biafran war and the ongoing secessionist dispute in that part of Nigeria which remains a painful subject 40 years after the war ended, then there might be protests against him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这次演讲之前，校园里就已经风传如果阿奇比口无遮拦，尤其是在比夫拉战争和它结束40多年后仍在进行的分裂争议等问题上发挥，将会有一场针对他的抗议等着展开。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Extra security was discreetly deployed but in the end was not needed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们甚至准备了严格的安保措施，但最终没有用上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite his robust language, Achebe was mobbed after the event by well-wishers who formed an alarming crush round his wheelchair- he was paralysed in a car crash 20 years ago- as they attempted to take photographs and ask him questions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管阿奇比使用了粗鄙的语言，但在演讲结束后，还是有大批的支持者围上前来，推搡着挤在他的轮椅旁边（二十年前的一场车祸使他瘫痪）提问和拍摄照片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He explains that speaking about Nigeria in such critical terms is a painful duty, particularly because he lived the first part of his life "in a time of such hope, when the glories of Nigeria were very evident and independence could only crown our achievements. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他解释用这样的语言来批评尼日利亚是一份艰难的责任，尤其是因为他的前半生曾满怀着希望，“彼时的尼日利亚熠熠生辉，独立不过是迈向成功的最后一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had so many advantages: a large and youthful population full of energy and ideas and talent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们创造了如此之多的优势：一群充满活力和思想，年轻有为的天才。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After independence we would no longer be at the beck and call of the colonial master. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>独立之后我们将不再听候殖民宗主国的吆喝和指使。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We would be able to do what we wanted and achieve what we aspired to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们将按照自己的意愿来行事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was not just our hope, it was our expectation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这不仅是我们的愿望，还是我们的抱负。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When I was young we had everything to look forward to."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我还年轻的时候，我们对一切充满了向往。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Achebe was born in 1930 in the town of Ogidi in the south-east of the country, and christened Albert Chinualumogu Achebe by his evangelical Christian parents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1930年阿奇比出生在尼日利亚东南部城市奥基迪，父母信奉福音派基督教，他受洗后得到教名阿尔伯特·奇努阿鲁墨古·阿奇比（Albert Chinualumogu Achebe）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One of his stock jokes is to ask what he and Queen Victoria have in common. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个有关他的笑话是他曾被问及自己与维多利亚女王的共同点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We both lost our Albert." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们都失去了阿尔伯特。”（译注：维多利亚女王的丈夫名为阿尔伯特，1861年在她中年时离世。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He says there was some tension between his Christian upbringing and the traditional Igbo culture around him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说到自己在基督教环境中成长，这与他身边的伊格博族裔的传统相悖。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But my parents had the same sense of hope as I did, although we did not frame it in the same way, in that for them it would emerge out of our worshipping, literally, a different God."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但是我的父母和我怀有同样的希望，虽然我们实现它的方式不同，严格来说，我们信仰的不是同一个上帝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a precociously gifted schoolboy Achebe thrived in the colonial education system and enjoyed reading the English literary canon, even if Africans rarely fared well in its stories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在殖民教育系统里，早熟的阿奇比卓然不群，沉迷于阅读各种英文经典作品，尽管非洲人在讲故事方面并不长足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I took sides with the white men against the savages," he once wrote. He won a scholarship to the University of Ibadan where he read English, history and theology. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他曾写到，“我与白人并肩对战野蛮人。”他获得奖学金，进入伊巴丹大学学习英语，历史和神学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After university he was employed by the Nigeria Broadcasting Service as a scriptwriter, which led to his first visit to the UK to attend a BBC training course.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕业后他加入尼日利亚广播服务公司撰写剧本，并得到委派首次前往英国广播公司接受培训课程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My first reaction to England was one of enlightenment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我对英格兰的第一反应就是它所具有的文明程度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I realised they were really not so much better than us, and in some ways they were worse than us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我意识到他们并不比我们好到哪里去，在某种程度上还要比我们糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I also realised that they had their house in order in many ways we didn't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我同样发觉他们的住房规划有秩序，在很大程度上我们的确没有。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So the visit acted as a sort of correction to what I thought the world was, but also a realisation that we had to put our own house in order and not count on other people to do it for us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以这次访问类似于纠正了我以往对这个世界的看法，但同样也认识了我们必须自己规划家园，而不是指望别人来替我们做。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A first draft of Things Fall Apart had received some encouraging assessments when he was in England, but he returned home to refine his story of the flawed and wronged Okonkwo and the arrival of European powers in the wake of the 1885 Berlin conference- "which took place without African consultation or representation"- that intensified the scramble for Africa. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《崩溃》的初稿在英格兰得到了一些鼓励的话语，但回到家后他开始着手润饰他的故事，写犯下错误的奥康科沃，以及1885年柏林会议后紧跟来的欧洲势力加剧了非洲的混乱，——“柏林会议举行时没有非洲顾问或者代表团在场”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The book, the title of which comes from Yeats's poem "The Second Coming", has gone on to sell more than 10m copies and has been translated into more than 50 languages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书名《崩溃》摘自叶芝的诗歌《再生》，出版后这本书售出了超过一千万册，并被翻译成了50多种语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its splicing of English with Igbo rhythms, stories and proverbs was revelatory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书中将英语语言与伊格博韵律、故事以及谚语糅合，很具有启发性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wole Soyinka acclaimed it as the "first novel in English which spoke from the interior of an African character rather than . . . as the white man would see him".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>主沃尔·索因卡（Wole Soyinka）赞扬这本书是“第一部出自于非洲特色内核的英语小说，而非......从白人的角度出发。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Achebe's decision to write in English has been a source of debate since the beginning of his career, with writers such as the Kenyan author Ngugi wa Thiong'o criticising his use of the colonial language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>阿奇比从职业生涯初始便决定用英语写作，这一直是具有争议的话题，肯尼亚作家作家詹姆士·恩古吉（Ng?g? wa Thiong’o）等人批评他使用殖民语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1965 Achebe wrote: "I feel that the English language will be able to carry the weight of my African experience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1965年阿奇比写到：“我觉得英语可以承载我的非洲经历的重量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it will have to be a new English, still in full communion with its ancestral home but altered to suit its new African surroundings." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是它必须要作为一种新英语，始终与它的母国保持密切联系但同时发生变化来适应非洲土壤。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a position that he has, broadly, stuck to, although he also points out that some of his best poetry has been first written in Igbo. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大体上，这就是他所坚守的立场，但他还指出自己最好的一部分诗歌是用伊格博语进行的首次创作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When independence came in 1960 "it was as if the rains had come after a long period of harsh winds and bushfires". Encouraged by the apparent successes of India (1948) and Ghana (1957), "we thought we would do well to part ways with Her Majesty's empire on which the sun never set, to which the usual rejoinder was 'because God couldn't trust an Englishman in the dark'. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当1960年尼日利亚独立之时，“就好比飓风和山火肆虐久时，终于迎来了雨水。”印度（1948年）和加纳（1957年）获得的巨大成功鼓舞着他们，“我们认为我们可以完全脱离那个被戏谑‘因为上帝不相信黑暗中的英国人’而永远不见日落的帝国，过上我们自己的好日子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not that we knew what independence was intended to be like. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这并不意味着我们已经知道了独立的滋味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been given to us on a platter of gold, as our leader told us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的领导人告诉我们，那是一盘金子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only later did we learn that you cannot grant freedom in that way, we should have taken it on our own terms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可到后来我们才发现不该用这样的方式来品尝独立，我们应该有自己的模式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So year by year we found ourselves saying that we didn't like this, or weren't sure about that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此一年又一年，我们发现自己说着不能这样，或者不确定那样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We didn't have enough scepticism and should have known from simple human instinct that things were not shaping up the way they should. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的怀疑不够充分，通过简单的人类本能应该知道事情没有按照它应该进行的那样发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then came the coup, and then the counter-coup and soon after we were engaged in civil war." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着起了叛乱，又接着镇压叛乱，然后不久我们卷入了内战。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nigerian writers and intellectuals, he says, had entered into a "new and terrifying phase", in that independence seemed "without substance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼日利亚作家和知识分子，他说，进入了一个“新的恐怖时期”，这样看来独立似乎“缺乏了实质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course the pathology of colonialism was deep-rooted, and the wounds manifested themselves in many unforeseen ways, and the cold war was lingering in the background, but we could no longer go on blaming others and absolving ourselves of the need to take action." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然殖民主义的病理根深蒂固，它所呈现的伤口以诸多不为人知的方式呈现，而且冷战还在从中作梗，但我们不应该继续指责他人，为了战斗而为自己脱罪。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Achebe supported and spoke for the secessionist region of Biafra during the three-year war (1967-70). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三年战争时期（1967年-70年），阿奇比支持并声援主张分裂的比夫拉地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He broke with friends on the issue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为此时他与朋友决裂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His family- in 1961 he had married Christie, a psychology professor, with whom he has four children- who had to leave Lagos in the wake of the 1966 coup, were forced to go into hiding. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的家人——1961年阿奇比与心理学教授克里斯蒂结为夫妇，二人育有四个子女——不得不在1966年叛乱爆发前夕逃往老挝隐匿避难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It was a disaster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那是一场灾难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Nigerian military was armed to the teeth by big foreign powers, and three million people, including many children, died in a conflict in which starvation was deployed as a weapon of war." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尼日利亚军队在强大的国外势力的支持下，武装到了牙齿，很多人包括许多的孩子都在冲突中饿死了。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After the Biafran defeat Achebe entered party politics with the leftist People's Redemption Party, but his "sojourn" was marked by frustration and disappointment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比夫拉战败后，阿奇比加入左翼政治党派人民拯救党，但是他在“任期”中备受阻挠，深感挫败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The majority of people I met were there for their own personal advancement." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那里我见到的大多数人都是为了自己往上爬。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He went into academia, from where he has conducted his career ever since both as a teacher and writer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他进了学术界，此后开始了教师和作家这双重的职业生涯。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His 1975 essay on Conrad's Heart of Darkness, in which Achebe accepted Conrad's depiction of colonialism but detected too little condemnation of its fundamental racism, has been a pivotal point of debate in the subject ever since. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1975年，他在论文《论康拉德的&lt;黑暗之心&gt;》中肯定了康拉德对殖民主义的描述，但并没有发觉书中最基本的对种族主义的谴责，此后在这个问题上一直争论不断。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I felt it was my duty as an African writer to reflect on the work of Conrad. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得作为一名非洲作家，我有责任对康拉德的作品进行反思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I won't return there although I am pleased it sparked so much discussion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是我不会再去回顾它了，尽管它引发了很大的争论，我已经很满意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is good to show in stark outline what the real situation is, what the person at the other end of the whip is feeling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它清晰地展示了真实的情境，并激发了另一些人的反应，这已经很不错了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I also understood that I must get on with my work and not dwell on one subject or book."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我还知道的是，我必须继续自己的工作，不要停留在一个话题或书里头。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His most recent novel was Anthills of the Savannah, which was shortlisted for the 1987 Booker prize and dealt with the military regime that ran a west African republic. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他最近的长篇小说《荒原蚁丘》曾在1987年入选布克奖决赛名单，讲述的是一个统治着西非共和国的军事政权。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is currently engaged in a "semi-autobiographical" work that will take in his engagement with Biafra, but he acknowledges that his five novels, four of which were written by 1966, make for a "limited harvest". He claims he would like to have written more fiction, but "I go at the pace of inspiration and what I can physically manage- although I have produced poetry and rather a lot of essays on this and that over the years."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他近期开始着手创作“半自传体”作品，其中涉及到了他比夫拉之间的一些故事，而说到自己的五部小说作品，其中四部在1966年之前完成，他认为它们“收获有限。”他表示自己希望能创作出更多的小说作品，但是“我将会加快步伐，身体力行——但是一直以来我都在创作诗歌，还有相当一部分各种各样的论文。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160822T045427Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Dandelion Girl</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>蒲公英女孩</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The girl on the hill made Mark think of Edna St. Vincent Millay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>山头的女孩让马克想到了埃德娜·圣文森特·米莱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps it was because of the way she was standing there in the afternoon sun, her dandelion-hued hair dancing in the wind; perhaps it was because of the way her old-fashioned white dress was swirling around her long and slender legs. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也许是因为她那在夕阳前任由蒲公英花色的头发随风舞动的身姿；也许是因为她那旧式连衣裙裙摆缠绕着她修长双腿的模样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In any event, he got the definite impression that she had somehow stepped out of the past and into the present; and that was odd, because as things turned out, it wasn't the past she had stepped out of, but the future.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不论怎样，他都清楚地感觉到，她似乎是从过去穿越到现在的。这事儿说来也怪，因为不久后他便知道，她所来之处并非过去，而是将来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He paused some distance behind her, breathing hard from the climb. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在她背后不远处停了下来，爬山让他气喘不已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She had not seen him yet, and he wondered how he could apprise her of his presence without alarming her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还没有察觉到他，而他也在考虑怎样让她发现自己却又不吓着她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While he was trying to make up his mind, he took out his pipe and filled and lighted it, cupping his hands over the bowl and puffing till the tobacco came to glowing life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他一边要下定决心，一边拿出烟斗、填入烟丝点了火，然后弓起手挡在烟斗口前，吸了几口气，直到烟丝微微地发出光来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he looked at her again, she had turned around and was regarding him curiously.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当他再度望向她时，她已经转过身来，好奇地看着他了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He walked toward her slowly, keenly aware of the nearness of the sky, enjoying the feel of the wind against his face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他慢慢地走了过去，一面强烈地感觉到天空的迫近，一面享受着清风掠过面庞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He should go hiking more often, he told himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他默想，自己真该多出来走走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had been tramping through woods when he came to the hill, and now the woods lay behind and far below him, burning gently with the first pale fires of fall, and beyond the woods lay the little lake with its complement of cabin and fishing pier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>来这座小山丘的路上，他已经徒步穿过了一片树林。而现在，那片树林已经在他脚下很远了。它们像是在秋天的第一场暗火中静静燃烧着。更远处，则是一座小湖，湖边建有一座小木屋和一处钓台。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When his wife had been unexpectedly summoned for jury duty, he had been forced to spend alone the two weeks he had saved out of his summer vacation and he had been leading a lonely existence, fishing off the pier by day and reading the cool evenings away before the big fireplace in the raftered living room; and after two days the routine had caught up to him, and he had taken off into the woods without purpose or direction and finally he had come to the hill and had climbed it and seen the girl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于妻子意外地被招入陪审团，他只得独自度过从暑假挤出来的两周时间：白天在钓台钓鱼，晚上则在起居室的大壁炉前读书度过寒夜。按这套程序做了两天后，他开始走出小屋，在树林里漫无目的地游荡，最终来到这座小山丘，爬上去后遇见了这个女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her eyes were blue, he saw when he came up to her- as blue as the sky that framed her slender silhouette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他已走近了她，看到了她湛蓝的双眸——就像那映衬出她纤瘦的身影的天空一样蓝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her face was oval and young and soft and sweet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的鹅蛋脸年轻、柔和、而又甜美，让他心生悸动、感到似曾相识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It evoked a deja vu so poignant that he had to resist an impulse to reach out and touch her wind-kissed cheek; and even though his hand did not leave his side, he felt his fingertips tingle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他压抑住想要抚摩她那清风吹拂的面庞的冲动：尽管没有伸出手去，但他仍觉得指尖有隐隐的刺痛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why, I'm forty-four, he thought wonderingly, and she's hardly more than twenty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他心里一阵恐慌：怎么搞得，我都已经四十四了，而她基本上还没有二十岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What in heaven's name has come over me? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我这是着了什么魔了？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you enjoying the view?" he asked aloud.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他大声地问了句：“你喜欢这风景吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, yes," she said and turned and swept her arm in an enthusiastic semicircle. "Isn't it simply marvelous!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，是的。”她转回身去，用手划了一个夸张的半圈，“简直叫人不可思议！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He followed her gaze. "Yes," he said, "it is." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他顺着她的视线看过去，说道：“嗯，确实。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Below them the woods began again, then spread out over the lowlands in warm September colors, embracing a small hamlet several miles away, finally bowing out before the first outposts of the suburban frontier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>树林在他们的脚下继续向外延伸，以一片九月的温暖的秋色，覆盖了整块低地，怀抱着几英里外的一个小村庄，最终止于这城郊边缘的第一爿村落前。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the far distance, haze softened the serrated silhouette of Cove City, lending it the aspect of a sprawling medieval castle, making it less of a reality than a dream. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更远处，雾霭中柔和地显现出科沃城的轮廓，看上去就像绵延不断的中世纪城堡一般，如梦如幻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Are you from the city too?" he asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他问道：“你也是从那城里来的吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"In a way I am," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“也可以这么说吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She smiled at him. "I'm from the Cove City of two hundred and forty years from now."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她冲他笑着说，“我是从两百四十年后的科沃城来的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The smile told him that she didn't really expect him to believe her, but it implied that it would be nice if he would pretend. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一展笑容告诉他，她并不真的期望他会相信，但似乎又在希望他能够假装如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiled back. "That would be A.D. twenty-two hundred and one, wouldn't it?" he said. "I imagine the place has grown enormously by then."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他也笑着回应道：“那也就是2201年了，对吧？我猜那个时候这里肯定变得非常大了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, it has," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，没错。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's part of a megalopolis now and extends all the way to there." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这儿变成了大城市的一部分，一直延伸到那里。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She pointed to the fringe of the forest at their feet. "Two Thousand and Fortieth Street runs straight through that grove of sugar maples," she went on, "and do you see that stand of locusts over there?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她指着他们脚下森林的边缘，“2040大街笔直地穿过那片糖槭林。然后，你看到那边的洋槐了没？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes," he said, "I see them."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，看到了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"That's where the new plaza is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那里是新广场的所在地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its supermarket is so big that it takes half a day to go through it, and you can buy almost anything in it from aspirins to aerocars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那里有一个超大的超市，逛一遍要花上半天的时间。你在那里基本上可以买到从阿司匹林到飞行车的任何东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And next to the supermarket, where that grove of beeches stands, is a big dress shop just bursting with the latest creations of the leading couturiers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>超市旁边，也就是那片山毛榉那里，是一个大型的服装店，里面全是一流女装设计师的最新设计。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I bought this dress I'm wearing there this very morning. Isn't it simply beautiful?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我这身衣服就是今天早上刚在那买的，是不是很好看？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it was, it was because she made it so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要说是的话，也是因为穿着它的人是她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, he looked at it politely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过呢，他还是视之以礼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It had been cut from a material he was unfamiliar with, a material seemingly compounded of cotton candy, sea foam, and snow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它是用一种陌生的布料裁制的，这布料就像是棉花糖、海沫和雪花的混合物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no limit any more to the syntheses that could be created by the miracle-fiber manufacturers- nor, apparently, to the tall tales that could be created by young girls. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于手持神丝的织布师来说，制出这种材料就是信手拈来——显然，年轻女孩的奇思幻想也同样如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I suppose you traveled here by time machine," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得你是坐时光机器来的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Yes. My father invented one."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，我爸爸做了一台。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He looked at her closely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他凑近去看了看她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had never seen such a guileless countenance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从未见过这样一副坦诚的面容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"And do you come here often?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你经常来这吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, yes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“啊，是的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is my favorite space-time coordinate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里是我最喜欢的时空坐标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stand here for hours sometimes and look and look and look. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我在这里一待就是几小时，只是一直在看、看、看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Day before yesterday I saw a rabbit, and yesterday a deer, and today, you."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前天，我看到了一只兔子；昨天，是一只鹿；而今天，则是你。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"But how can there be a yesterday," Mark asked, "if you always return to the same point in time?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“但你怎么会到昨天呢？你不是一直是返回同一个时间点的吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Oh, I see what you mean," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“哦，我明白你的意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The reason is because the machine is affected by the passage of time the same as anything else, and you have to set it back every twenty-four hours if you want to maintain exactly the same co-ordinate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是因为时光机器和世间万物一样，会受到时间流逝的影响。如果你想精确保证相同的坐标，就得每二十四个小时把它回调一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I never do because I much prefer a different day each time I come back."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我从来都不调，因为我更喜欢每次过来都是不同的一天。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Doesn't your father ever come with you?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你父亲有陪你来过吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Overhead, a V of geese was drifting lazily by, and she watched it for some time before she spoke. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一群呈V字形排列的天鹅，慵懒地从他们头顶飞过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My father is an invalid now," she said finally. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她盯着它们看了会儿才终于开口说道：“我爸爸现在卧床不起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He'd like very much to come if he only could. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>要是可以的话，他一定非常想来。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But I tell him all about what I see," she added hurriedly, "and it's almost the same as if he really came. Wouldn't you say it was?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后她赶忙加上一句：“不过我会把我看到的东西全部都告诉他，这样应该就能像他真地来过一样了，是吧？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was an eagerness about the way she was looking at him that touched his heart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她殷切地看着他，让他心头涌起一阵渴望。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm sure it is," he said- then, "It must be wonderful to own a time machine."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一定是这样的，”他顿了顿，继续说道，“拥有一台时光机器一定很棒。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She nodded solemnly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她严肃地点了点头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They're a boon to people who like to stand on pleasant leas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“对那些喜欢站在晴空碧草下的人来说，它们是一份恩惠。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the twenty-third century there aren't very many pleasant leas left."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在二十三世纪，这样的地方已经不多了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiled. "There aren't very many of them left in the twentieth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笑了笑：“在二十世纪就不是很多了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I guess you could say that this one is sort of a collector's item. I'll have to visit it more often." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我猜你一定会说这里是一片世外桃源，我以后会多来看看的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Do you live near here?" she asked.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你住在这附近吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm staying in a cabin about three miles back. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我就在身后大约三英里外的一座小木屋里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'm supposed to be on vacation, but it's not much of one. My wife was called to jury duty and couldn't come with me, and since I couldn't postpone it, I've ended up being a sort of reluctant Thoreau. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我本来是来度假的，但我妻子被叫去陪审团了，没法跟我一起来。假期也没法延期，所以我只能迫不得已地当一回梭罗了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name is Mark Randolph."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我叫马克·兰道夫。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm Julie," she said. "Julie Danvers." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我叫朱莉，朱莉·丹佛斯。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The name suited her. The same way the white dress suited her- the way the blue sky suited her, and the hill and the September wind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这名字和她很相配，就像这身白色的连衣裙、这一片蓝天、这一小山丘以及这一袭秋风一样和她相配。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Probably she lived in the little hamlet in the woods, but it did not really matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许她住在林里的小村庄里，但这都无关紧要了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If she wanted to pretend she was from the future, it was all right with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果她想假装自己是从未来来的，他也没什么异议。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All that really mattered was the way he had felt when he had first seen her, and the tenderness that came over him every time he gazed upon her gentle face. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真正重要的是，他在第一眼见到她时的那种感觉，以及每次看到她平静的面容时那令他动心的柔情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"What kind of work do you do, Julie?" he asked. "Or are you still in school?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“朱莉，你是做什么工作的？还是说你还在上学？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'm studying to be a secretary," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我正在为成为一名秘书而学习。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She took a half step and made a pretty pirouette and clasped her hands before her. "I shall just love to be a secretary," she went on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她退了半步，优美地踮脚转了一圈，双手紧握胸前，然后继续说道，“我就喜欢当秘书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It must be simply marvelous working in a big important office and taking down what important people say. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一个又大又重要的办公室里工作，记录重要人士说的话，这一定非常棒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would you like me to be your secretary, Mr. Randolph?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>兰道夫先生，你希望我成为你的秘书吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I'd like it very much," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“非常愿意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"My wife was my secretary once- before the war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妻子也曾是我的秘书，那都是战前的事了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That's how we happened to meet." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们也是这样偶遇的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, why had he said that? he wondered.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>嗳，为什么自己要说这些呢？他有点惊讶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Was she a good secretary?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那她是个好秘书吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The very best. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她是最好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was sorry to lose her; but then when I lost her in one sense, I gained her in another, so I guess you could hardly call that losing her." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过很可惜，我失去了她。不过呢，我失去了一位好秘书，却得到了一个好妻子。所以我觉得这也不算是损失吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No, I guess you couldn't. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，我也觉得不是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, I must be getting back now, Mr. Randolph. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对了，兰道夫先生，我现在必须回去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dad will be wanting to hear about all the things I saw, and I've got to fix his supper."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爸爸一定在等着听我今天的所见所闻，我还要准备他的晚餐。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Will you be here tomorrow?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那你明天还会来这儿吗？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Probably. I've been coming here every day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“应该吧，我每天都来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good-bye now, Mr. Randolph."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那就再见啦，兰道夫先生。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Good-bye, Julie," he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“再见，朱莉。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He watched her run lightly down the hill and disappear into the grove of sugar maples where, two hundred and forty years hence, Two Thousand and Fortieth Street would be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他目送她轻快地跑下山，消失在那片糖槭林里。那是二百四十年后的2040大街。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He smiled. What a charming child, he thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笑了笑，心想，多么有魅力的孩子啊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It must be thrilling to have such an irrepressible sense of wonder, such an enthusiasm for life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种难以压抑的好奇心、以及对生活的热情，一定让人兴奋不已。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He could appreciate the two qualities all the more fully because he had been denied them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他现在更能完全地领会这两种特质，因为他曾经放弃过它们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At twenty he had been a solemn young man working his way through law school; at twenty-four he had had his own practice, and small though it had been, it had occupied him completely- well, not quite completely. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>二十岁时，他是一个不苟言笑的青年，在法学院的路上披荆斩棘；二十四岁有了自己的公司，虽然不大，但仍让他全身心投入其中——好吧，也不是全部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he had married Anne, there had been a brief interim during which making a living had lost some of its immediacy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>娶了安妮后，他有了一段短暂的休息。在此期间，养家糊口已不再是当务之急。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then, when the war had come along, there had been another interim- a much longer one this time- when making a living had seemed a remote and sometimes even a contemptible pursuit. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>再之后，战争接踵而至，他们有了另一段休息时间——这一次要长多了——这时，安分养家已经有些遥远，有时还会被当成可鄙的追求。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After his return to civilian life, though, the immediacy had returned with a vengeance, the more so because he now had a son as well as a wife to support, and he had been occupied ever since, except for the four vacation weeks he had recently been allowing himself each year, two of which he spent with Anne and Jeff at a resort of their choosing and two of which he spent with Anne, after Jeff returned to college, in their cabin by the lake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到市井生活后，生计问题又如复仇般汹汹来袭，这是因为他现在还要养活老婆孩子。除了最近允许自己每年过四周假期外，他比以往更加地投入了到工作中去。这四周的时间，两周与安妮和杰夫一同在事先决定的旅游胜地度过，另两周则在杰夫返校后，和安妮到他们在湖边的小木屋度过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year, though, he was spending the second two alone. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，今年他的这两周是独自度过的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, perhaps not quite alone.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好吧，也许不算全是一人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His pipe had gone out some time ago, and he had not even noticed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>烟斗已经熄灭多时，他都浑然不觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He lighted it again, drawing deeply to thwart the wind, then he descended the hill and started back through the woods toward the cabin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他再度把它点燃，迎着风深吸一口，便往山下走去，然后穿过树林，回到小木屋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The autumnal equinox had come and the days were appreciably shorter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>秋分已过，白昼在满满变短。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This one was very nearly done, and the dampness of evening had already begun to pervade the hazy air.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天的白天也即将过去，入夜的湿气已经弥漫在了朦胧的空气中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He walked slowly, and the sun had set by the time he reached the lake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他走得很慢，到湖边时太阳已经落山。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a small lake, but a deep one, and the trees came down to its edge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个湖很小，却很深，树木一直生长到湖畔。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The cabin stood some distance back from the shore in a stand of pines, and a winding path connected it with the pier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小木屋在距湖边有点远的地方，旁边列着一排松树。一条蜿蜒的小道将它和钓台相连。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Behind it a gravel drive led to a dirt road that gave access to the highway. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在它背后有条石子路，连着一条泥路，后者又通向公路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His station wagon stood by the back door, ready to whisk him back to civilization at a moment's notice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的旅行车停放在后门外，但凡一念之需就可以将他带回城市生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He prepared and ate a simple supper in the kitchen, then went into the living room to read. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他准备的晚餐很简单。在厨房就地吃完后，他来到起居室，开始读书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The generator in the shed hummed on and off, but otherwise the evening was unsullied by the usual sounds the ears of modern man are heir to. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>杂货间发动机的嗡嗡声时起时落，但夜晚在这些现代人耳中稀松平常的声音下还是静谧无瑕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Selecting an anthology of American poetry from the well-stocked bookcase by the fireplace, he sat down and thumbed through it to Afternoon on a Hill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他从壁炉旁摆得满满当当的书架上取下一本美国诗集，然后坐下来直接翻到《山丘午后》这一首。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

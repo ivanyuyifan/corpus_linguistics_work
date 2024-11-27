@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160110T075707Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Benjamin Franklin: "The First American"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本杰明·富兰克林：“美国第一人”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How does one characterize Benjamin Franklin? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怎么描绘本杰明·富兰克林（Benjamin Franklin）呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Journalist, scientist, educator, politician, writer, administrator, philosopher - he truly seemed to be able to do almost everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>记者，科学家，教育家，政客，作家，管理专家，哲学家——他似乎真是万事通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His accomplishments and the talents and interests which he displayed during the course of his long life - 1706 to 1790 - have caused him to be called both "the first American" and "the last universal man."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在他漫长的一生中（1706-1790），他所取得的成就、彰显的才华和广泛爱好赋予他“美国第一人”和“最后一位通人”的称号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Historian Samuel Eliot Morison gives this view of the man: "Franklin's secret, the thing that 'made him tick' and pulled every aspect of his mind together, was his love of people. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>历史学家塞缪尔·埃利奥特·莫里森(Samuel Eliot Morison)这样评价富兰克林：“富兰克林的成功秘诀——令他活力无限并将其心智各方面融汇在一起的东西——是他对人的热爱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He talked with English and French statesmen as an equal; he was as homely and comfortable as an old shoe." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他以平等的身份与英国和法国的政治家交谈；他就像一只穿旧了的鞋子，让人感到普通而又舒适。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Morison even speculated that if we had been alive in 1776 and had made a call upon Benjamin Franklin, he would have made us feel at home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫里森甚至推测，如果我们生活在1776年，并且登门拜访本杰明·富兰克林，他会使我们感到轻松自在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would have asked about our parents, and probably would have known them, or at least about them; he would then have asked us about ourselves, drawn us out, and sent us away with some good advice, a handshake, and a smile.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他会询问我们父母的情况，或许还认识他们，至少是知道他们；然后他会问我们的情况，鼓励我们畅谈临别时还会给予我们一些忠告，微笑并握手告别。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Benjamin was one of 17 children, all of whom were expected to help support the large Franklin household. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本杰明家有17个孩子，每个人都要为养活这个大家庭出力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a young child, he worked in the shop of his father, a soap and candlemaker, but this work did not appeal to a boy who loved to read and study. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>孩提时代，他便在父亲经营的制造肥皂和蜡烛的作坊里干活，但是这种工作对于像他这样热爱读书学习的孩子来说，实在没意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Therefore, when he was 12, Benjamin was sent to assist his half-brother James who had a printing shop. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，12岁那年，本杰明就被送到同父异母的哥哥詹姆斯的印刷店工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, surrounded by books, young Ben would often stay up late into the night reading on a wide range of subjects; and as he read, he practiced improving his own style of writing.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里，年幼的本杰明畅游书海，通宵达旦的阅读，涉猎广泛；他一边读书，他一边尝试提高自己的写作风格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1721, James began publishing a newspaper, the New England Courant. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1721年，詹姆斯开始出版一份报纸——《新英格兰报》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Benjamin secretly wrote articles for the paper under the pen name of "Dame Silence Dogood", putting them under the door of the print shop late at night so that his brother would not know the articles were his. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>本杰明悄悄地以“想做好事的沉默女士”为笔名为报纸撰稿，深夜将稿件放在印刷店的门缝下面，以防哥哥发现是他所作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were full of humor and wise observations of life in Boston, Franklin's birthplace, and they immediately became popular with the public.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>文章多是波士顿生活的写照，诙谐幽默，很快，受到读者的欢迎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When James was jailed for criticizing the British authorities, young Benjamin took over the publishing of the paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>詹姆斯由于抨击英国当局被捕入狱，年轻的本杰明接管了报纸出版的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In defense of freedom of speech and the press, he courageously printed a quotation from a London newspaper: "without freedom of thought, there can be no such thing as wisdom; and no such thing as public liberty without freedom of speech; which is the right of every man as far as by it if he does not hurt or control the right of another."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了争取言论和出版自由，他大胆引用了一家伦敦报纸的评论：“没有思想自由，就谈不上智慧；没有言论自由，便也谈不上公众自由；这是每个人的权利，只要他不仰仗自己的权利去伤害或者控制他人的权利。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After a quarrel with James, Benjamin left Boston to seek his own fortune. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来本杰明与詹姆斯发生了争吵，于是离开了波士顿，去找寻自己的未来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Failing to find work in New York City, the 17-year-old boy went on to Philadelphia where he found a job as a printer's apprentice and soon had a wide circle of friends. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在纽约市没有找到工作，这个17岁的小伙子便前往费城，在那里，他在印刷店做学徒，不久便结交了一大群朋友。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within a few years, Franklin had married, had started his own printing shop, and was looked upon as a successful young businessman.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不出几年，富兰克林结婚了，并开始经营自己的印刷店，成为了公认的成功青年实业家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1729, Franklin purchased the newspaper, The Pennsylvania Gazette. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1729年，富兰克林买下了《宾夕法尼亚报》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Besides the regular news, Franklin included his own articles and editorials alive with humor and wisdom; and soon the paper was the most widely read in all of colonial America.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除了日常新闻外，富兰克林还刊登自己撰写的充满机智幽默的文章和社论；很快，该报成为在殖民地时期的美国民众最喜爱的报纸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the same time, Franklin involved himself in community projects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，富兰克林积极参与社区事务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He founded, for example, the Junto, a discussion group that met weekly to debate the issues of the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如，他成立了一个叫做“小团体”的讨论小组，每周聚会一次，讨论当下的各种问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Junto was active for 30 years and developed into the American Philosophical Society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“小团体”活跃了30年，发展壮大成为今天的美国哲学协会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also founded the country's first subscription library and organized America's first fire-fighting and fire insurance companies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还成立了美国第一个收费图书馆，创立了美国第一个消防和火灾保险公司。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He helped to improve the local police force and to establish a hospital and a college which later became the University of Pennsylvania. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他帮助增强当地警力，并且创办了一家医院、一所大学，也就是后来的宾夕法尼亚大学。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He once said of his activities, " I would rather have it said, 'He lived useful,' than 'he died rich'''.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一次，他这样评价自己的活动：“我宁愿让人们说‘他生的有用’，而不是‘他死的富有’......”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1732, Franklin began the publication of an almanac under the name Richard Saunders (an English astrologer). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1732年，富兰克林开始以“理查德·桑德斯（英国的一位占星家）的名义出版年鉴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He continued to publish it annually for about 25 years, and it came to be known as Poor Richard's Almanac. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后25年间，他每年出版一本，这就是后来我们所熟知的《穷人理查德历书》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Franklin said in his autobiography: "I endeavored to make it both entertaining and useful­. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如富兰克林在自传中所说：“我努力赋予他娱乐性和实用性......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I considered it a proper vehicle for conveying instructions among the common people who bought scarcely any other books; I there fore filled all the little spaces that occurred between the remarkable days in the calendar with proverbial sentences chiefly such as inculcated industry and frugality."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把它视为适合在普通人中传输知识的工具（因为他们几乎不买其它书籍）；因此，我就用那些鼓励人勤奋和节俭的格言警句，填满日历上那些重要日子之间的空白。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By his own admission, Franklin's proverbs were not original but drawn from "the wisdom of many ages and nations". </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林自己承认，他的格言并不是独创的，而是从“许多时代和民族的智慧”中提炼出来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In his pursuit of his wisdom, he taught himself to read French, Spanish, Italian, German, and Latin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在追求智慧的道路上，他自学了法语、西班牙语、意大利语、德语和拉丁语。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the devices Franklin used to give the sayings a sharpness and impact were (a) the change of one or more words to a more graphic word or phrase, (b) the use of a shorter, more concise construction, and (c) the use of alliteration. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林想了一些办法使格言更富有锐气和影响力：（a）将一个或几个词变为更加生动的词或短语，（b）使用更加精简的结构（c）用头韵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following are examples:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(a) Original: Many strokes fell great oaks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（a）原文：不停击打，大树可伐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Franklin: Little strokes fell great oaks.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林：慢慢敲打，大树可伐</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(b) Original: The greatest talkers are the least doers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（b）原文：说得最多的往往是做的最少的</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Franklin: Great talkers, little doers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林：语言巨人，行动矮子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(c) Original: Waste not, want not.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（c）原文：勤俭节约，吃穿不缺</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Franklin: Sloth and silence are a fool's virtues.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林：懒惰与沉默，蠢人之美德
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These practical words of advice to the people, improved by Franklin's talent for simple, humorous writing, had universal appeal. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些对世人的劝诫之词，经过富兰克林天才的修改，变得更加简洁幽默，受到普通人的欢迎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of them, in one form or another, are still quoted today. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多格言至今仍以这样或那样的形式被人们所引用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Poor Richard's Almanac achieved worldwide fame and was published in many languages.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《穷人理查德历书》获得了全世界的赞誉，出版了多种语言的版本。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As to his proverbs on industry and thrift, Franklin practiced all he preached; and by 1748, at the age of 42, he was able to retire from business to devote his life to public service and the study of science. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林所倡勤奋和节俭的格言那样，自己都身体力行；1748年，42岁的富兰克林从商界退休，他 全身心致力于公共事业和科学研究。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Little did he know that he was entering the most important period of his life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>连他自己都不曾预料到，自己正在步入人生中最重要的阶段。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As an experimenter and practical user of scientific facts, Franklin looked for easier and better ways to do things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为一位实验家和科学成果的使用者，富兰克林尝试找寻简便易行的方式做事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He invented an open stove, the Franklin stove, which gave more heat and wasted less fuel than a fireplace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发明了耗更少燃料而释放更多热量的开放式火炉——富兰克林火炉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also made the first pair of bifocal glasses and invented a musical instrument called the glass harmonica and the stepladder chair.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还制作了双光眼镜，以及自己命名为玻璃口琴的乐器和活动梯子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Franklin is especially famous for his contributions in the field of electricity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>富兰克林尤其以其在电的领域里的贡献闻名于世。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The commonest terms used in electricity today are Franklin's words: battery, brush, armature, charge, condense, conductor, plus, minus, positive, negative - terms he made up as he made observations or conducted experiments. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今天关于电的最常用术语都是富兰克林发明的：电池，电刷，电枢，电荷，电容，导体，正电，负电，正极，负极——这些术语都是他在观察和实验中创造的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He is best known, however, for his discovery that electricity and natural lighting are the same. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，最出名的是他发现了电与自然界中的闪电是一回事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Flying a silk kite during a summer thunderstorm, Franklin was able to attract an electrical spark to a key tied to the kite string. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在夏季一个风雨交加的日子，富兰克林将一直丝绸风筝放上天空，风筝线上拴着一把钥匙，钥匙吸引了电火花。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>By comparing the characteristics of the natural spark with the man-made charge, Franklin was able to prove the similarity of electric matter and lightning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过对比自然电火花和人工电荷，富兰克林证实了带电物质和闪电之间的相似性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using this knowledge, he invented the lightning rod which today protects millions of buildings from lightning.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>利用这一知识，富兰克林发明了避雷针，使得今天数以百万计的建筑物便遭雷击。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also did pioneer work in the field of weather observation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他在气象观察领域也做了不少开拓性的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Few people know that it was Benjamin Franklin who discovered the movement of storms from west to east upon which all weather forecasting today has been based. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在很少有人知道，是本杰明·富兰克林发现了洋流自西向东运动的规律，今天所有的气象预报都基于此规律至上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also made the first scientific study of the Gulf Stream, that mysterious body of warm water that flows up the eastern coast of the United States and then heads off for Europe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，他还首先对墨西哥湾洋流进行了研究。那股神秘的暖流沿美国东海岸北上，而后向欧洲大陆涌去。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

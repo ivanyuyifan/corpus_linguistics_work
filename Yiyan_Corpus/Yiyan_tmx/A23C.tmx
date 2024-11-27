@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Scientists see gene trigger for rare childhood baldness  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学家发现遗传性脱发的致病基因
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Scientists said on Wednesday they had uncovered a gene that causes a rare but distressing form of childhood baldness, a finding that could help the quest to treat hair loss.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>科学家在本周三表示，他们已经发现了一个导致一种罕见的、令人苦恼的儿童脱发疾病的基因，这一发现可能对寻找治疗脱发的良方有所帮助。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Mutation in a gene called APCDD1 plays a key role in a disease called hereditary hypotrichosis simplex (HHS), which causes progressive hair loss starting in childhood.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一个被称为APCDD1的基因上所发生的突变，在一种被称为遗传性单纯少毛症（hereditary hypotrichosis simplex）的疾病中扮演了重要的角色，这一疾病从儿童时期就开始出现，越往后病情越严重。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Hair follicles start to shrink or narrow, causing the thick hair on the scalp to be replaced by "peach fuzz" of thin, fine hair.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>首先毛囊开始萎缩或者变窄，然后导致头皮上浓密的头发被稀疏的毛发替代。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>APCDD1, which is located on Chromosome 18, was found thanks to a trawl through the genome of several families from Pakistan and Italy where HHS goes back generations.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>APCDD1基因位于第18号染色体上，这一基因的发现多亏了对巴基斯坦与意大利两国多个家庭基因组的广泛排查，这些家庭中遗传性单纯少毛症病史可以追溯到好几代之前。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Lead author Angela Christiano, a professor of dermatology at Columbia University Medical Center, New York, dampened expectations for bald men hoping that a drug for hair regrowth now lies in sight.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>该研究的第一作者安吉拉·克瑞斯汀娜（Angela Christiano），是美国纽约哥伦比亚大学（Columbia University）医学中心皮肤病学教授，她的研究论文发表在英国《自然》（Nature）杂志上；不过她说，她可能不得不给脱发男性希望有一种能使头发再生的特效药的热切期盼泼冷水了，因为这种药目前还可望而不可及。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Male pattern baldness also entails follicular shrinkage, but the process is more complex and not directly comparable to HHS, she said.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>男性脱发的模式虽然（像女性一样）也需要经历毛囊萎缩这一阶段，但是男性（与女性相比）脱发过程更加复杂，而且与业已发现致病基因的遗传性单纯少毛症没有直接的可比性，她说。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Even so, the new finding is "highly significant" in terms of fundamental research, said Christiano.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>即便如此，从基础研究的角度来看，这一新发现仍然具有“高度的重要性”，克瑞斯汀娜说。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Among people with HSS, a flawed version of APCDD1 disrupts a signalling pathway in which genes instruct proteins to turn hair growth on or off.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>在患有遗传性单纯少毛症的病人中，APCDD1基因的突变形态干扰了基因表达蛋白质的信号传导通路，而这个蛋白质正好控制着头发的生长与否。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This so-called Wnt pathway has been extensively explored in lab mice, so finding that it also exists among humans is an important step forward in figuring out the causes of baldness.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这种所谓的“Wnt信号传导通路”（Wnt，是果蝇的无翅基因wingless与致癌基因位点Int-1的简称）已经在实验室老鼠中进行了广泛的探讨，所以发现这种信号传导通路也存在于人类当中，这意味着我们朝最终理解脱发的致病原因迈出了重要的一步。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"Furthermore, these findings suggest that manipulating the Wnt pathway may have an effect on hair follicle growth -- for the first time, in humans," said Christiano.
+</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“此外，这些发现还首次表明，在人类身上操控Wnt信号传导通路可能能够对毛囊生长起到作用，” 克瑞斯汀娜说。
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>"And unlike commonly available treatments for hair loss that involve blocking hormonal pathways, treatments involving the Wnt pathway would be non-hormonal."  </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>“同时不像普遍使用的脱发治疗方法那样需要阻断激素通路，Wnt信号传导通路疗法将不再需要阻断激素通路。”</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160905T050315Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No dead that are not dead</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有不死的死人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The blood. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>血。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My "name" is Sheila. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的“名字”希拉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sort of violence that doesn't end but that goes on and on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>暴力不会终止，它会一直持续下去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Three bodies so soon to be in parts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>三具尸体马上就要变成碎片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The fact of revenge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>复仇的真相。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No zombies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有僵尸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一直如此。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The dead stay dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>死的人死了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The living/dead is the one great "undeconstructable binary" (Aarspeth 12). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>活人或死人是一个伟大的“不能解构的二元”（亚斯珀斯 12）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The careful, months-long stalking of the people who are soon to be in parts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>仔细追捕了几个月的人马上就要变成碎片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The assignment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Messiah Detectives. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>弥赛亚侦探。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The path through the forest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>林中小路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The flat windowless back of the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子平整无窗的后墙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wet green grass. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>湿润的绿草。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nightcrawlers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>夜间的爬虫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The yellow porch light around front. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>走廊入口处黄色的光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rusted key. The average citizens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生锈的钥匙，平民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The rusted moths. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>生锈的飞蛾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stained fingers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脏污的手指。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sound of sleeping. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>睡着的声音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The smell of dinner rice. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>米饭的气味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ceiling fan.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>天花板的吊扇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not do these things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有做过这些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did these things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我做过这些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I will do these things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我要做这些事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have taken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们拿走了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have taken something away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们拿走了些什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There were wires. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>线。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went to the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我走进房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The house exists in a region that must fall under discipline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>房子盖在注定要倒塌的地方。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I followed the map. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我跟随地图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was a white screen door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有个白色的纱门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before that, a roadside swamp. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那前面，路边有片沼泽。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The green green of rushes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>绿绿的灌木丛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A sense of sun. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太阳的感觉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Light hurtling through space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四处扫射的光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Light from the deep past. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从遥远的过去传来的光。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sort of damp map that trails off in smudges. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>潮湿的地图被污渍遮盖线路。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The shredded dresses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脏破的裙子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The clean, clean cut of the sharpened knife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尖利的刀刃割出的平整的切口。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The expansion of administrative competence into a region" (Aarspeth 187). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“在一个地区扩张的行政能力”（亚斯珀斯 187）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unlocked door. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未锁的门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The thermostat turned down in the night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>晚上关闭的恒温器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sleeping bodies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沉睡的尸体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The taking off of shoes so as to move quietly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脱掉鞋子掩藏声响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The black and blue. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>遍体鳞伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is movement in an upstairs bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼上的床在动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am searching for what was taken. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在找被拿走的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The parallel structures of fascism, the party duplicating every level of public authority. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>法西斯主义的平行结构，政党跟当局如出一辙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The militia flanks the army, and then supersedes the army. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>游击队侧面攻击军队，然后取代军队。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The party police flanks the police, and then supersedes the police. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政党警察侧面攻击警察，然后取代警察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My job is to keep turmoil alive, to murder peace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的工作是让动荡持续，谋杀和平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The village has been too calm for too long. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这村子平静了太久。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not the nation which generates the State. Rather it is the State which creates the nation, conferring volition and therefore real life on a people made aware of their moral unity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是民族形成国家，而是国家创造了民族，赋予他们统一的意志和真实的生命。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These are the words that singe the inside of my skull.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些句子在我的头盖骨里灼烧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The map unfolds by flashlight. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地图在手电筒的光亮下呈现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is not a map. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是地图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rather an architectural rendering. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是建筑透视图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am in the kitchen. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在厨房里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I orient the schema. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我确定着方向。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name is. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的名字是。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The stairwell is to the north. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>楼梯向北。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My knife, unsheathed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的刀，在鞘里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Sheila." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“希拉”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have been clear with me, about the war. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些我都很清楚，关于战争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war is in danger. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争有危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In danger of ending. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结束的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have spelled it out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们拼写出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have read their White Papers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我读了他们的白皮书。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their experts have been made available to me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道他们的期望。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And to the average citizens. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>平民百姓也知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who have been made to understand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不得不知道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There is water running somewhere in the house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>哪儿来的水流进房子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hear it in the walls. The pipes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我听见水声在墙里，在管道里响。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are pipes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有管道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The hum of drones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无人机的轰鸣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The mind is at war with itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>思维混乱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The radical imposition of "interchangeable sameness" (Aarspeth 33).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“可更换的一致性”激进的。。。。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The living and the dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>活人和死人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Either/Or. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>活人或死人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are no living dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>没有活着的死人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nor dead that are not dead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也没有没死的死人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The running water, hurried on by gravity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>流动的水，被地心引力加速。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The buried stay buried, in this cold planet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>埋葬的已经埋葬了，在这个寒冷的星球上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am in the assigned house. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在指派的房子里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The drones have paused in skies. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无人飞机停在天空。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My name. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The unsheathed knife. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刀鞘里的刀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The war is in danger of ending. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>战争有结束的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They have spelled it out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们拼写出来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The ones I'm after are alive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我追赶的是活人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is my assignment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我的任务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I did not do these things. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我没有做过这些事情。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

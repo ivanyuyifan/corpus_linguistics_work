@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151227T130240Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Organization &amp; Preparation Tips</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>演讲组织及准备技巧</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before you even open up PowerPoint, sit down and really think about the day of your presentation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1. 以终为始在你打开PowerPoint前，请坐下来认真想一想你演讲那天的情形。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the real purpose of your talk? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你演讲的真正目的是什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why is it that you were asked to speak? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么要求你发言？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What does the audience expect? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听众的期望又是什么呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In your opinion, what are the most important parts of your topic for the audience to take away from your, say, 50-minute presentation? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你认为，听众从你50分钟（比如说）的演讲中获得最重要的信息是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remember, even if you've been asked to share information, rarely is the mere transfer of information a satisfactory objective from the point of view of the audience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>请记住，即使要求的是简单分享下信息，但在听众看来，纯粹地传递信息并非令人满意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, the audience could always just read your book (or article, handout, etc.) if information transfer were the only purpose of the meeting, seminar, or formal presentation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>毕竟，如果会议、研讨会或正式演讲仅是为了信息传递的话，听众完全可以看一看你的书（文章、讲义等）就行了，（还要听你讲干嘛？）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Know your audience as well as possible </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.尽量了解你的听众</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Before you begin to formulate the content of your presentation, you need to ask yourself many basic questions with an eye to becoming the best possible presenter for that particular audience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想成为优秀的演讲者，你需要在制作演示稿之前问自己一些基本问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the very least, you need to answer the basic "W questions".</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至少你需要回答下面几个基本的“W问题”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Who is the audience?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.听众是谁？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are their backgrounds? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有什么样的背景？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the purpose of the event?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2.这次演讲的目的是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is it to inspire? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是不是要激励？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why were you asked to speak?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.你为什么被邀请来演讲？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What are their expectations of you?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听众有什么样的期待？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where is it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4.在哪里举行？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When is it?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5.什么时候进行？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do you have enough time to prepare? What time of the day? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你有充足的准备时间吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Content, content, content </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3.内容为王</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No matter how great your delivery, or how professional and beautiful your supporting visuals, if your presentation is not based on solid content, you can not succeed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无论你的演讲技巧多棒，幻灯片做得多专业，多漂亮，如果你的演讲稿缺乏实实在在的内容，那你照样不会取得成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Don't get me wrong, I am not saying that great content alone will carry the day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要误会，我并不是说单凭好的内容就能获得成功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It almost never does. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不是的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Great content is a necessary condition, but not a sufficient one. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>好的内容只是必要条件，而不是充分条件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But your presentation preparation starts with solid content (appropriate for your audience) which you then build into a winning story that you'll use to connect with your audience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你应该以实实在在的内容（适合听众的）为出发点来准备演讲，再将这些内容有机串连成故事，娓娓向你的听众道来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A word of caution: Though I am emphasizing how important content is, I also am begging you to spare your audience a "data dump." A data dump - all too common unfortunately - is when a presenter crams too much information into the talk without making the effort to make the information or data applicable to the members of the audience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我强调内容很重要，但我也恳请你不要把听众当成“话桶”。“话桶”——不幸的是它普遍存在——就是演讲者不下功夫准备适合听众的内容，但却向听众强行灌输大量信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A data dump also occurs when data and information do not seem to build on the information that came earlier in the presentation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当演讲内容不是根据演讲之前的要求准备时，也会出现话桶的情况。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes it almost seems that the presenter is either showing off, or more likely, is simply afraid that if he does not tell the "whole story" by giving reams of data, the audience will not understand his message.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候演讲者似乎是在炫耀，或者可能担心如果不给出大量信息来讲述“整个故事”，听众就难以明白他的意思。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Do not fall into the trap of thinking that in order for your audience to understand anything, you must tell them everything. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不要陷入以下误区：为了让听众理解所有的内容，就必须告诉他们每一个细节。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Keep it simple </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>保持简单</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Simple does not mean stupid. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简单并不意味着愚蠢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Frankly, thinking that the notion of simplifying is stupid is just plain, well, "stupid." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坦率地说，认为简单就是愚蠢恰恰是简单而“愚蠢的”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Simple can be hard for the presenter, but it will be appreciated by the audience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>演讲者做到简单很难，但听众却喜欢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Simplicity takes more forethought and planning on your part because you have to think very hard about what to include and what can be left out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>简单需要更多的构思和计划，因为你必须认真考虑哪些内容应该包含在你的演讲中，哪些内容可以被排除在外。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is the essence of your message? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你演讲的核心内容是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is the ultimate question you need to ask yourself during the preparation of your presentation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是你在准备演讲时必须问自己的最终问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here's a simple exercise:</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面是一个简单的练习：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If your audience could remember only three things about your presentation,what would you want it to be?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果听众只能记住3条你介绍的东西，你希望它们是什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(1)__________</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（1）__________</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(2)__________</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（2）__________</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(3)__________</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（3）__________</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outlining your content  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>5.草拟内容</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I suggest you start your planning in "analog mode." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我建议你开始以“模拟模式”制作你的幻灯片。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That is, rather than diving right into PowerPoint (or Keynote), the best presenters often scratch out their ideas and objectives with a pen and paper. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也就是说，不要一开始就蒙头使用PowerPoint（或Keynote）软件，优秀的演讲者经常利用纸和笔来草拟他们的想法和目标。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Personally, I use a large whiteboard in my office to sketch out my ideas (when I was at Apple, I had one entire wall turned into a whiteboard!). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对我来说，我使用办公室中的一块大白板来简要描绘我的想法（当我在苹果公司的时候，我将一整面墙变成了我的白板！）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The whiteboard works for me as I feel uninhibited and freer to be creative. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用白板时，我感觉无拘无束，自由自在，创造力无限。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I can also step back (literally) from what I have sketched out and imagine how it might flow logically when PowerPoint is added later. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也可以从已拟出的内容后退一步，想象稍后使用PowerPoint时在逻辑上如何衔接。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, as I write down key points and assemble an outline and structure, I can draw quick ideas for visuals such as charts or photos that will later appear in the PowerPoint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，当在纸上勾画要点，组织大纲结构的时候，我能突然获得一些图表、照片等视觉化想法，而后再将这些想法用PPT表现出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though you may be using digital technology when you deliver your presentation, the act of speaking and connecting to an audience - to persuade, sell, or inform - is very much analog.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你演讲的时候，尽管使用数码技术进行了辅助支持，但说话和与听众互动——说服、推销、报告等行为，也是需要模拟的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cliff Atkinson in his 2005 book, "Beyond Bullet Points," smartly states that starting to create your presentation in PowerPoint before you have your key points and logical flow first worked out (on paper or a white board in my case) is like a movie director hiring actors and starting to film before there is a script in hand.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Cliff Atkinson在他2005出版的《超越要点》一书中打了个形象的比方，他说：在演讲要点和逻辑顺序没有弄清楚之前（用纸或白板）就着手使用PowerPoint制作演示文稿，正如一个电影导演还没拿到剧本就开始招聘演员演戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More on "planning analog" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更多关于“规划模拟” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I usually use a legal pad and pen (or a whiteboard if there is enough space) to create a rough kind of storyboard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我通常使用笔记本和钢笔（若空间足够大就使用白板）来画草图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I find the analog approach stimulates my creativity a bit more as I said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我发现这种模拟方法比我所说的更能激发我的创造力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No software to get in my way and I can easily see how the flow will go. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于没有幻灯片制作软件干扰思路，我可以很容易知道制作的逻辑流程。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I draw sample images that I can use to support a particular point, say, a pie chart here, a photo there, perhaps a line graph in this section and so on. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我可以画一个草图来支持我的某个观点，比如说在这里用一个饼图，在那里用一张照片，也许一个曲线图，等等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may be thinking that this is a waste of time: why not just go into PowerPoint and create your images there so you do not have to do it twice? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可能会想：这多浪费时间啊！为啥不直接用PowerPoint呢，非得同一件事情重复做两次？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Well, the fact is, if I tried to create a storyboard in PowerPoint, it would actually take longer as I would constantly have to go from normal view to slide sorter view to see the "whole picture." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个问题问的好，问题的答案是，如果我用PowerPoint来画图，那么实际上会花费更长的时间，因为我要不断地在PowerPoint普通视图和浏览视图之间切换，以了解幻灯片内容的“全貌”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The analog approach (paper or whiteboard) to sketch out my ideas and create a rough storyboard really helps solidify and simplify my message in my own head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>采用该模拟方法（在纸上或白板上）酝酿我的想法并勾画草图，可以帮助我巩固和简化大脑中的信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I then have a far easier time laying out those ideas in PowerPoint. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以当我用PowerPoint表达那些想法时，就很容易了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I usually do not even have to look at the whiteboard or legal pad when I am in PowerPoint, because the analog process alone gave a clear visual image of how I want the content to flow. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当使用PowerPoint时，我通常都不看刚才使用的白板和笔记本了，因为模拟过程就给了我清晰的视觉化图像，演讲内容流程如何走向，都历历在目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I glance at my notes to remind me of what visuals I thought of using at certain points and then go to iStockphoto.com or to my own extensive library of high-quality stock images to find the perfect image.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看一眼我的笔记，回忆一下某一要点我使用了什么视觉化图形，然后到iStockphoto.com网站或我自己的高品质图像库中寻找最完美的图像。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Have a sound, clear structure </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>6.告知听众一个清晰的结构</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take a page out out the McKinsey presentation handbook: presentation structure is paramount. Without it, your wonderful style, delivery and great supporting visuals will fall flat. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>翻开麦肯锡演讲手册的一页：演讲的结构是至关重要！没有一个好的结构，再好的台风、表达能力和强大的视觉化支持也是白费。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you took the time in the first step to outline your ideas and set them up in a logical fashion, then your thinking should be very clear. You can visualize the logic of your content and the flow of the presentation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果在一开始你就能够及时描述出你的想法并把它设置于一定的逻辑结构之中，那么你的思路就会变得很清晰，你可以使所讲内容的逻辑性和演讲的流程更加的形象化。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If your ideas are not clear first, it will be impossible to design the proper structure later when you create visuals and/or supporting documents. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你的想法不是很清晰，即便写出形象化或支撑性文案也很难设计出合适的演讲结构。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your audience needs to see where you are going. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听众需要知道自己听到哪了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And it is not enough to simply have an "agenda" or "road map" slide in the beginning that illustrates the organization of your talk. If you do not actually have a solid road of logic and structure, then an outline slide will be of no use. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在演讲开始时仅仅用“议程”或“线路图”这类幻灯片来说明你演讲的结构是不够的，如果你没有一个牢固的逻辑结构目录页是毫无用处的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, the audience may become even more irritated since you made the promise of organization in the beginning, but then failed to deliver the promise with a presentation which is muddled and lacks focus.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不但如此，听众可能会因为你杂乱无章和缺乏重点的演讲没有兑现刚开讲时约定的演讲结构而变得更加恼火！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dakara nani? (so what?) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>7. Dakara nani（那又怎样？） </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Japanese I often say to myself, "dakara nani?" or "sore de¡­?"which translate roughly as "so what?!" or "your point being¡­?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在日本我经常对自己说“dakara nani?”或者“sore de...?”，翻译过来大致的意思就是“那又怎样？”或者“你的观点是......？”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I say this often while I am preparing my material. When building the content of your presentation always put yourself in the shoes of the audience and ask "so what?" Really ask yourself the tough questions throughout the planning process. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我这样问自己常常是在准备材料的时候，当构建演讲框架的时候把自己放在听众的位置上问一问“那又如何呢？”，在准备过程中自始至终的问一问自己这个难以回答的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, is your point relevant? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举个例子，这和你的主题有关吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It may be cool, but is it important or help your story in a very important way­or is it fluff? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>或许这个点子很cool，但是它是否重要呢？是否能有效的帮你讲故事？还是它毫无价值！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Surely you have been in an audience and wondered how what the presenter was talking about was relevant or supported his point. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设身处地的从听众的角度出发，想一想演讲者所说的是否和他的观点有联系或是能支持他的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So what?" you probably said to yourself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那又怎样？”，你或许可以问问自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"So what?" - always be asking yourself this very important, simple question. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那又怎样？”——是重要而简单的一种自省自问！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you can't really answer that question, then cut that bit of content out of your talk.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你不能真正的回答这个问题就删除你要讲的那部分内容吧！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you pass the elevator test?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>8.你能通过“电梯实验”吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Check the clarity of your message with the elevator test. This exercise forces you to "sell" your message in 30-45 seconds. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用电梯实验来检测你要表达的信息是否清晰，它迫使你在30-45秒内卖出你的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine this is the situation: You have been scheduled to pitch a new idea to the head of product marketing at your company, one of the leading technology manufactures in the world. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>身临其境的想一下：你被所在的世界领先的科技制造企业安排向高端市场推销一个新概念，时间和费用都很紧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Both schedules and budgets are tight; this is an extremely important opportunity for you if you are to succeed at getting the OK from the executive team. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这对你来说是一次千载难逢的机会，成功的话就会获得公司高层的认可。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When you arrive at the Admin desk outside the vice-president's office, suddenly she comes out with her coat and briefcase in hand and barks, "Sorry, something's come up, give me your pitch as we go down to the lobby"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当你到副总裁门外的时候她急匆匆的拿着外套和公文包往外走，大声说“对不起，现在有些忙，我们下到大厅前给我说下你的产品”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Imagine such a scenario. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>设想一个方案！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Could you sell your idea in the elevator ride and a walk to the parking lot? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能在电梯到停车场的这段时间里推销出你的想法吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sure, the scenario is unlikely, but possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然方案有时候是不靠谱的，但或许又有可能呢！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What is very possible, however, is for you to be asked without notice to shorten your talk down, from, say, 20 minutes, to 10 minutes (or from a scheduled one hour to 30 minutes), could you do it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很有可能！无论如何，这都要求你忽略掉演讲的缩短，从讲20分钟到讲10分钟（或是从1个小时缩至30分钟），你能做到吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>True, you may never have to, but practicing what you might do in such a case forces you to get your message down and make your overall content tighter and clearer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对，你也许永远不必这么做，但这样练习可以迫使你减少你要表达的信息，让你的内容从头到尾都简单明了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Author, Ron Hoff ("I Can See You Naked") reminds us that your presentation should be able to pass the David Belasco test while you're in the planning stages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>《我看到你赤裸》的作者Ron Hoff提醒我们，你的演讲在计划阶段就应该能通过大卫·贝拉斯科测试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>David Belasco was a producer who insisted that the core idea for every successful play he produced could be written as a simple sentence on the back of a business card. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>电影制片人大卫·贝拉斯科认为，他每部成功电影的核心思想都能够简化成一句话，可以写在名片背面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Try it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>试试看。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you crystallize the essence of your presentation content and write it on the back of a business card? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能凝练演示稿的主要内容，并将其写在名片上吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If the task is impossible for you, then you may want to think again and get your message down pat in your mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你做不到，那么你就需要再次思考，牢记演讲内容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This too is certainly something you do before you ever begin to open up PowerPoint (Keynote).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这也是你启动PowerPoint（Keynote）之前需要做的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The art of story telling </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>9.讲故事的艺术</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Good presentations include stories. The best presenters illustrate their points with the use of stories, most often personal ones. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>精彩的演讲会包含故事，优秀的演讲者会用故事列举他们的观点，而且这些故事很多都是他们的亲身体验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The easiest way to explain complicated ideas is through examples or by sharing a story that underscores the point. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通过举例子或分享故事来突出主题是解释复杂观念最简易的方法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Stories are easy to remember for your audience. If you want your audience to remember your content, then find a way to make it relevant and memorable to them. You should try to come up with good, short, interesting stories or examples to support your major points.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>故事很容易被记住，如果你想听众记住你演讲的内容你应该找一个恰当的令人难忘的方法，你不妨用一个精彩简短、回味无穷的故事或事例来支持你的主要观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In addition, it is useful to think of your entire 30 minute presentation as an opportunity to "tell a story." Good stories have interesting, clear beginnings, provocative, engaging content in the middle, and a clear, logical conclusion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>除此以外，将一场30分钟的演讲当做讲故事来思考会有助于演讲的效果。精彩的故事有意思、开场简洁，中间讲起来引人入胜，并且结尾清晰符合逻辑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have seen pretty good (though not great) presentations that had very average delivery and average graphics, but were relatively effective because the speaker told relevant stories in a clear, concise manner to support his points. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我看过的非常好的演讲在信息传达和图像运用上都很一般，但是却相对有效，因为演讲者用了简洁明了的故事来支持他的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rambling streams of consciousness will not get it done; audiences need to hear (and see) your points illustrated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>混乱的思维无法取得成功，听众需要听到（或看到）能代表你观点的例子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Confidence - How to get it </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>10.如何获得自信</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The more you are on top of your material the less nervous you will be. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于所要讲的材料越熟悉你的紧张感就会越少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you have taken the time to build the logical flow of your presentation, designed supporting materials that are professional and appropriate, there is much less to be nervous about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你花些心思组织演讲的逻辑线，并且合理专业的设计将要用到的支撑材料，那么几乎就没什么紧张的了！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And, if you have then actually rehearsed with an actual computer and projector (assuming you are using slideware) several times, your nervousness will all but melt away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，假使你能够用投影和电脑模拟练习几次的话，你的紧张感就会自然消退的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg />
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg />
+</tuv>
+</tu>
+</body>
+</tmx>

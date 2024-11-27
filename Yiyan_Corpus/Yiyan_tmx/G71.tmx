@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T083543Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My grandfather was a legend</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的祖父是个传奇</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Curious thing happened when my grandfather died, the sort of thing that seems more and more curious as the years pass, investing itself with significance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我祖父去世的时候发生了一件很奇怪的事情，这件事似乎随着岁月流逝变得越来越古怪，越来越重要。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the time I was living in New York, and since this was the middle of the last decade, I was always only a phone call away from my family in India. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我住在纽约的时候，因为那时正是上个十年的中间，我离印度的家其实只有一个电话之遥。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What we weren't able to do, though, was text each other; I had been told by my mobile provider that the network systems in the two countries were misaligned in some key manner. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是，我们却不能给彼此发短信。移动通信运营商告诉我，两国之间的网络系统在某些关键程式上不一致。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This had sounded too vague - too 20th-century - to be truly credible, so my sister and I attempted a number of times to exchange texts, out of habit and idle hope, before admitting that we were wholly defeated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个理由听起来太牵强——太二十世纪——没有可信度。出于习惯，我和我妹妹带着渺茫的希望尝试了好多次互发短信，不过到最后我们只能承认失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then in March 2007, when the old man passed on after a long illness, my sister took another crack at it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2007年的三月，当祖父在长期折磨的病痛中去世的时候，妹妹再次尝试了发短信给我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She couldn't call right at that moment but she wanted to let me know, so she fired off a text, expecting it, as always, to sink into the void. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她不能即时打电话，但是她想让我知道，所以她发出了一条短信，像往常一样，她以为这次短信也会如泥牛入海。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this occasion, however, the iron laws of telecommunications unbent themselves and the message made it through, into my phone, waking me up in the dead of night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是这一次，电子通讯的铁律柔软了一次，短信发到了我手机上，把我从凌晨五点的寂静中吵醒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just this once. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，幸运仅此一次。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even five seconds later, when I tried to reply, the channel had snapped shut, and it never opened up again.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至五秒钟后，当我试着回复时，通讯渠道再次关闭，之后再没有重开过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A final flare of mystery from a mysterious man, I thought. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我把这想成是神秘的祖父，最后留下的让人参悟不透的一瞬。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was 94 when he died, and he and my grandmother had stayed with us, whenever possible, for much of my life; my father was their eldest son. I should have known him far better than I do, I realised upon his death. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他去世时94岁高龄，因为我的父亲是家里的长子，在我大部分的生命中，只要可能，他与祖母都和我们住在一起；直到祖父的逝世，我才明白我应当比我所知的更深入地去了解他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I grew up around him, accustomed to his presence at home: to his shirtless torso, brown as a violin; to the angle at which he arced his leanness over the newspaper; to the ellipses of sunlight in which he liked to sit, in feline habit, next to the window; to the low bicker of his voice in prayer; to his twitchy handwriting; and, in his final years, to the degree of cloudiness in his fast-fading eyes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在他身边长大，早就习惯了他在家里的存在：他打着赤膊时的小提琴般棕色的躯干；他看报纸时，弓起的瘦削脊背；他喜欢像猫那样懒洋洋地靠在窗边享受那片阴凉；还有他那娓娓轻柔的祈祷声，跳动不安的字迹；以及，在祖父人生的最后几年里他那逐渐失神的双眼中的阴翳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were the precise aspects of a precise man.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些东西是一个精确的人的几个精确的侧面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was, by no means, shy or retiring, and he involved himself with great energy in my early boyhood, such that my memories of those years can run together like a heavy-handed pastiche of grandfather-grandson montages. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父并不是那种容易害羞或者不善于社交的人，而且，在我还年幼的时候，我的祖父花了不少心思来照顾我，以至于我关于那些年的记忆，能像一副祖孙蒙太奇的拼接画一样揉在一起。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here he is, dropping me off on his bicycle at the stop for my school bus. Here he is, sitting with me, watching the cricketer Patrick Patterson bowl on our black-and-white television. Here he is, telling me stories, spun mostly out of his capacious memory for Hindu myth and dramatised to eye-popping effect. Here he is, teaching me arithmetic, his mind as sharp as soda. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这幅画卷里祖父送我到校车巴士站，然后把我从单车上抱了下来；祖父和我一起坐在黑白电视前，看着板球手帕特里克·帕特森的比赛；祖父总是从那似乎永不枯竭的印度神话中选取故事，然后给我讲一个个戏剧化得让人瞠目结舌的故事；他教我数学，他的思维迅猛可谓电光火石。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He brooked no dullness, even from a boy in his very first throes of long division.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是一个刚刚开始令他痛苦的长除法运算的小男孩，祖父也不能容忍迟钝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'The answer is 12,' I'd venture, for instance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这道题答案是12。”我有时也会想碰碰运气猜个答案。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'That's the quotient,' he'd snap. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“那只是除得的商，他厉声说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'You've forgotten about the remainder altogether.' </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你完全忘记了余数”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He didn't rap me on my knuckles with a ruler, as he had done with his own children. But the rebuke of scorn was almost as stinging.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他不曾像对待自己的孩子一样，拿着尺子用力拍击我的膝关节，但是他的责备还是让我如坐针毡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, when he had to call upon the president of India in connection with a temple trust that he ran, he took me with him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经有一次，祖父不得不为了自己经营的神庙基金会，和印度总统会面协商，结果他把我也带去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An eight-year-old boy, meeting the president - imagine the intoxication! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>想象一下——一个八岁的小男孩去会见总统——这是多么激动人心啊！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I still have a photograph from that encounter, taken in President Ramaswamy Venkataraman's study, the two old men standing long and solemn on either side of me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我到现在还保留着那次会面的照片。那是在总统拉马斯瓦米·文卡塔拉曼的书房里拍的，两个年已及艾的男人一脸严肃地站在我旁边。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My grandfather looks the way I have always known him to look: the nimbus of white hair aglow with soft light, the nose hooked like the beak of a bird of prey, the skin on his hands wrinkled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父的神态和往常一样：他那灵逸花白、散发柔光的银发，如猛禽尖喙的鹰钩鼻，满布皱纹的双手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I am wearing a cream-coloured T-shirt with brown stripes, and my face is occupied entirely by overlarge spectacles and a grin of delirious happiness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我穿着棕白条纹的T恤衫，戴着一副超大的眼镜，因欣喜若狂咧嘴而笑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I've grown up to be very similar to him, I'm sometimes told by my father's sister, and every time she observes another trait that I've inherited from him, I add it silently to the running list in my head. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我姑妈有时说我越长越像祖父，每次她发现我从祖父那里遗传的又一特征，我都会默默地把它列入脑中的清单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started the list myself when I was a boy, as soon as I turned old enough and sensible enough to observe both my grandfather and myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当我还是个小男孩的时候，我就开始列这个单子，直到我足够成熟、理智地观察我和我的祖父。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some of the items on this roster appear trivial: unhealthy skin, for instance, or being restless readers, or being particular about our meals, or being particular really about the way most things are done. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>清单上的条目有些过于琐碎，比如：不健康的肤色、手不释卷、对食物特别挑剔、对大多数事情都有独特的处理方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But there were also deeper kinships: an impatience with fools; a meticulous industry; an unending love of language; a certain self-sufficiency that makes it difficult to feel lonely, but that renders a rare spell of loneliness all the more fearsome and crippling. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但我们之间也有更深层次的联系，例如：同样地对工具不耐烦、做事一丝不苟、对语言无止境的热爱、自信得很难感觉到孤独，但是它在某些时候带来的孤独感不仅使我们不寒而栗更深受其害。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My grandfather was all edges and sharp corners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父是个固执己见的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I came to think - to worry - that we were cast from the same essential mould, and I have spent years filing myself down into a less severe version of him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不禁要想——去担心——我们是用同一个模子刻出来的，而我不过花了数年时间成为一个不那么严肃的他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Given all this, I now wonder, why did I fail to learn more about him? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我现在不禁想，既然我知道我和祖父这么相似，为什么我不能更多地了解他呢？事</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is true that, for all the diligence my family has expended on passing down the rituals of our religion, it has never been as attentive to personal histories; I know absolutely nothing about my eight great-grandparents except for the name of one of them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实是，我们家族把所有精力倾注于宗教传统的传承，从来没有重视个人经历；关于我八个曾祖父母，除了他们的名字，别的我一无所知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even so, my grandfather always felt like a special case - less a real person than a character pulled out of a fable, his abilities and his flaws both immensely larger than life, and his past obscured as much by my own ignorance as by the half-truths and legends that swirl around him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然如此，我的祖父常常就像一个特例——他比寓言故事里的传奇人物更不真实，他的能力和缺点都远远超出了生活，由于我自身的无知和围绕着他的带有传奇色彩、真假参半的传言，他的过去愈加扑朔迷离。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The human mind requires coherence, craves it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人类的记忆需要甚至渴求连贯性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Out of the most motley assortment of disjointed facts and malformed rumours, we compulsively build ourselves a narrative, and we can cling to that narrative so obstinately that it begins to stand in for reality. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在各种杂乱无章的事实片段和天花乱坠的流言蜚语中，我们往往会强迫自己编造一个故事，然后义无反顾地相信它，直到有一天它们取代了真正的事实。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hold in my head a sketchy biography of my grandfather, populated by the stories I've been told, the conjectures I've made, and the resounding uncertainties that still hover over his life.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我凭借那些道听途说的故事、自己空穴来风的推断和尚未有定论的说法，在脑海中建构起祖父的简略传记。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was born a century ago in the small Tamil village of Kattalai, deep in the heart of south India - a village that, it dawns upon me even as I write this, I have been remiss in never visiting. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个世纪前，他出生于一个泰米尔人的小村庄，卡塔莱，那是南印度中部的偏远地区——一个我只有在动笔写这篇文章时才渐渐感知它的存在的小村落，我因为从未踏上那片土地而忽视它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For many years, I was under the impression that he ran away from home at the age of 14; as a boy on a subsistence diet of adventure novels, I used to regard this as the sole feat of derring-do in my family history. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很多年来，我一直有这样的印象：祖父十四岁就离家出走；作为一个如饥似渴地阅读冒险小说的男孩，我过去一直把把这当作我家族唯一的英雄事迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It turns out that he left only when he was 18, after he had completed a degree in mathematics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但事实是，他十八岁才离家，在他获得了数学学士学位后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, he did then run away in the classically exciting sense of the term, severing all contact with his family, taking to the road as a Hindu mendicant, living on charity and his wits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那以后，在“离家出走”这个词语的令人心潮澎湃的古典意味中，他断绝了与家人的所有联系，像一个印度教的乞丐一样和路人谈话，依靠慈善机构和自己的才智为生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'It must have been,' my father once said to me, 'the life of a vagabond.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这肯定是，”父亲曾对我说，“行者的生活。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also displayed a new-found ability to quote the Bard. Did he take three months off to plough through a copy of The Riverside Shakespeare?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他甚至还能巧妙地引述莎翁的词句，莫非他花了三个月通读了《莎翁全集》？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was speculating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父亲这样推测。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These were my grandfather's lost years, never recounted or explained, closed off to us until the day he died. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父那些失落时光中的岁月，从没有讲述或加以诠释过，直到他去世，这扇通往祖父世界的门永远的被关上了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, I believe, he let it slip that he had headed up India's eastern coast, towards Calcutta, but this fine splinter of information apart, we have nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我确信他曾不经意间提到过朝向加尔各答前往印度东海岸的事情，不过除了这一珍贵的信息碎片，我们再无其他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We don't know how long he was away, or how he travelled, or where he stayed, or whom he met, or why he ended this spiritual walkabout. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不知道他离开了多久，如何旅行，在哪里停留，见了何人，以及为什么终止这趟心灵的远足。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He never returned to live in Kattalai; after this prolonged silence, his family heard from him only when he came back south to live in the city of Madras, where he was acting with - and also serving as the cashier of - a musical theatre troupe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他再也没回过卡塔莱（Kattalai）居住。杳无音信很久以后，他的家人终于收到他的来信，此时他已经回到南方，在马德拉斯城的一个音乐剧团同时兼任出纳和乐手。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This was the first sign of a new man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是他焕然新生的第一个标志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Kattalai, my grandfather had not trained in music, nor had he shown any keenness for the stage - and yet here he was, singing and declaiming in mythological dramas alongside the stalwarts of his time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>住在卡塔莱的时候，我祖父并没有接受过任何音乐训练，也没有表现出对舞台有什么敏锐天赋，但他确确实实就在这里，和一帮与他同时代的伙伴们在神话剧中唱着讲着。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Did you never press him about what he did in that period when he was away?' I asked my father recently.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“难道你从没有逼问过他在出走的那段时间里都做了些什么吗？”最近我曾这样问过爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'He never encouraged such questions,' my father replied. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他从不鼓励我问这些问题”爸爸回答说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I sensed some regret lacing his voice. 'And he never wanted to talk about it of his own accord.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我感觉他的声音里夹杂着一丝遗憾。“而且他自己也不愿意谈论那些事”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reconstructing the details of my grandfather's wanderings can feel like a thought experiment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重现我祖父这段漂泊经历的细节感觉上像是一次思想实验。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That span of time changed him, but since we know only the man who emerged out of the other end, the most we can do is make forensic guesses about what happened during those years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那段时光改变了他，不过由于我们仅知他突然离开搬到印度另一端去住，我们最多也就是对那段时间里发生的事进行一些最合乎情理的猜测。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had acquired, for example, a profound familiarity with the Upanishads, a canon of Hindu philosophical texts, and he had also studied the first rudiments of a system of faith-healing that he practised throughout his life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比方说，他不仅对奥义书这部印度哲学著作有了深刻的理解，还学习了信仰治疗法的基础，并且沿用一生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had he apprenticed under some teacher of philosophy, or under a Hindu shaman? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他有没有拜哪位哲学泰斗或萨满为师？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He also displayed a new-found ability to quote the Bard, accurately and at length, the lines ringing with his nasal twang. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他甚至还能巧妙地引述莎翁的词句，一字不差，在他带着鼻音的吟咏下，更为悦耳动听。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Did he take three months off to plough through a copy of The Riverside Shakespeare? He had learnt to cook, too, with uncommon proficiency for a man of his time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>莫非他花了三个月通读了《莎翁全集》？他甚至还学会了做饭，在他的同龄人中，这种熟练程度着实令人惊讶。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Had he needed this skill during his perambulations?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他漫游在外的时候是否需要这个技能？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even after he returned, my grandfather continued to move in enigmatic ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是在他回来之后，祖父仍继续以谜一样的方式不停地搬家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He shifted, on an inscrutable impulse, to Delhi, where he taught mathematics at a school for a while; his students apparently performed so well in their exams that they hoisted him on their shoulders and paraded him around the school. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他没有任何先兆地搬到了德里，在那的一所学校里教了一阵数学。显然他的学生们考得都不错，以致学生们将他高举在肩膀上绕着学校游行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The father of one of his pupils, a civil servant, was impressed by my grandfather, securing for him a position in the coal ministry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中一个孩子的公务员父亲对我祖父印象很好，甚至因此向他保证能提供一份在政府煤炭部门的工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He was nominally employed by the government for the rest of his working life, but as far as I can see, he really seems to have passed those days turning himself into a sort of polymath. My grandfather blazed with knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是祖父名义上余下的工作生涯都受雇于政府了，不过在我看来，他早就是一个博学者了，他浑身都闪烁着智慧的光芒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His Sanskrit grew so fluent that he could compose lengthy verses of prayer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的梵文变得非常流利，足够创作大段的祷告诗句。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gave public performances as a storyteller, in which he would first recite sing-song snatches of the Hindu epics and then, out of these, extrude a moral commentary. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>祖父以讲故事的方式经常公开表演，他会先背诵一段印度神话的歌咏片段，然后再引申出一段道德评论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He soaked up the ancient architectural principles of temple design. One of the temples he had helped to plan lies a few kilometres west of where I now live in Delhi; every time I drive past this temple, I gaze up at it, sitting proud and solitary upon its hillock of rock.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还掌握了古代庙宇的建筑准则，他协助设计的一座神庙就坐落在我现在德里的住处以西的几公里处，每当我驾车经过这神庙的时候，我都会仰头凝视，一个人自豪地站在那里，静静地面对那一山岩石。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody in the family is even roughly aware of how my grandfather learnt all that he learnt, and a particular opacity surrounds the expertise for which he was best known. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家里没有人知道祖父到底是怎么学到那些技能，特别是他最为人熟知的专业知识。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From somewhere - from many sources, probably - he had gathered up prayers and incantations that were supposed to relieve people of their illnesses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他会从不为人知的地方搜集祷告文和据说能消除人们痛苦的咒文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sitting opposite his 'patient', he would mutter, for minutes on end, the prayer to purge that specific ailment. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他坐在“患者”对面，喃喃自语，不停地念据说能治愈小病的祷文。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He bristled with concentration during these sessions, his papery lips aflutter.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这期间，他总是全神贯注，只有薄唇在张张合合。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On occasion, setting aside my scepticism, I submitted myself to these disconcerting consultations. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候，我会把我的疑问搁置一旁，直接参与这些令人不安的会诊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A bubble of silence would drop around us, as if he had managed to shut the universe away for those 10 minutes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那十分钟里，我们的周围一片寂静，就像他把世界隔绝在外了一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd bend my ears, trying to pick up some of the words that he was whispering under his breath, but invariably I would hear nothing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾经竖起耳朵想从他的喃喃自语里听清只字片语，但一直徒劳无功。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then I'd look at him looking at me - or through me, into some hidden beyond. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时我会发现他正看着我——或者说透过我，凝视着冥冥中更深远的存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The air around him crackled; his aura was so strong that invariably, towards the end of each of these sessions, ripples of doubt would run through my mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他周围的空气似乎都因他而砰裂四散，他的圣光会一直笼罩着整个过程。直到结束，疑云依然充斥我的脑海。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Maybe I was wrong, I would think, maybe these old prayers had a real potency to them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我曾想，也许我错了，这些古祷词真的有潜在的功效。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

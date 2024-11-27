@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T113154Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The incredible shrinking airline  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国航空业正在全面萎缩
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carriers long accustomed to elbowing their way to market share by adding planes and routes and destinations are now scrambling to see who can shrink the fastest, changing the entire business model for flying people from point A to point B — including, in many cases, the elimination of points A and B altogether.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>长期以来，航空公司习惯依靠增加飞机、航线和目的地数量来扩大其市场份额。如今，他们却争着缩减运营规模、力图改变把客人从A地送到B地的商业模式，很多情况下还包括直接取消从A地到B地的航线。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arne Haak, AirTran’s CFO, captured the current mindset of the airline industry when he told analysts at this month’s Merrill Lynch investors conference in New York that "minus-4% is the new growth."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在今年6月的纽约美林公司（Merrill Lynch）的投资者论坛上，穿越航空（Air Tran）的首席财务官Arne Haak指出：“最新的增长率是-4%。”这反映了航空业当前的心态。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While negative growth describes everything about the industry today, from routes to new plane orders, Haak was talking about capacity as carriers are now preparing to cut more deeply through the rest of this year than they had initially planned.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在全球航空业从航线到新的飞机订单都是负增长，而Haak谈及的还有运力上的负增长，因为各大航空公司都打算在本年内对运力进行更大的削减，甚至超过了他们原先所计划的。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For example, Delta, which earlier had said it would cut capacity 6% to 8% this year, said in June that it planned to trim 10%. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如说，美国达美航空（Delta Airlines）早些时候曾说计划在今年将运力削减6%-8%，但在今年六月这一数字变成了10%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>American, whose previous forecast had called for a 6.5% cut, is now saying it will be closer to 7.5%.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而美国航空（American Airlines）则把原先预计的6.5%上升为现在的7.5%。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even Southwest is cutting back further. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>连西南航空也在对运力进行削减。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We won’t go out of business if we have too few airplanes," CEO Gary Kelly told analysts at the Merrill Lynch conference.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“即便我们只有很少的飞机，也可以生存下去，”西南航空总裁Gary Kelly在美林论坛上对分析师们说道。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A structural industry shift  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空业的结构性转移
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While the industry has gone through capacity-cutting binges before, airline executives and analysts say that what makes these cuts different is that capacity will be very slow to return after the economy turns around.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空业之前曾经发生过运力削减，但这次的情况却不一样。航空公司的管理人员和分析师们认为，这次的不同在于即便经济开始好转，运力的恢复也将非常缓慢。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Gone are the days of freewheeling growth built on unprofitable expansion designed to flood markets and capture market share. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以低价倾销和争夺市场份额为目的的无利可图的扩张时代已经过去了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the foreseeable future, a humbled U.S. airline industry will be playing it safe.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在不远的将来，美国的航空业需要稍作收敛以生存下去。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"This is a major structural shift for our industry," said Vaughn Cordle, an analyst with the AirlineForecasts consultancy.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这是航空业的结构性变化，”AirlineForecasts的分析师Vaughn Cordle如是说。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A major part of that shift will be a rapid migration away from the legacy airlines’ traditional hub-and-spoke networks.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这次行业转型的重要一部分，将会是传统航空公司从中枢网络型架构的转变
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The hub model is just not working as well as it was 10 years ago," Cordle said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“中枢网络型架构已不像十年前那么管用了，”Cordle表示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There’s been a greater penetration of the low-cost carriers, flying more point to point."  What is shifting along with diminishing capacity is the passenger experience. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“廉价航空公司对市场的渗透已经加强，开发了更多的点对点航线。”  同时，乘客的体验也随着运力的削减而转移。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fewer planes and fewer flyers has resulted in more flights arriving on time with less lost baggage.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>飞机和航空公司的数量少了，使得航班正点率得到提高，行李丢失率也降低了。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It’s already had some small positive impact on congestion," said Robert Poole, director of transportation studies at the Reason Foundation, a public policy think tank.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这对航线和机场的拥挤现象产生了一定的缓解作用，”公司政策研究智囊机构Reason Foundation的运输研究总监Robert Poole说道。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Of course, carrier executives were not motivated by congestion relief or other improvements to passengers’ experience when they decided to pull seats out of the system. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，航空公司的管理者们并非考虑到缓解航线拥挤状况和提升乘客体验而决定缩减机队规模。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, the downsizing started last year as a response to the run-up of fuel prices, which created an urgent need to cut overall expenses.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，这些从去年开始出台的措施是出于燃油价格上涨的考虑，使得他们面临削减成本的迫切需要。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until that time, airlines had been coming off a good year in 2007, when traffic and capacity were on the rise, particularly in international markets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而此前的2007年却是航空公司的黄金年，当时客流量和运力都呈现上升势头，尤其在国际航线方面的表现更好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Carriers had been adding aircraft, routes, flights and capacity wherever they could to break into markets and broaden their networks and scope.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>于是，航空公司为开发市场和扩展网络覆盖而大量地地增加飞机、航线、航班和运力。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We grew a little too aggressively," AirTran’s Haak admitted.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们的增长有点太冒进了，”AirTran的Haak承认说。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nobody realized just how aggressively until fuel prices threw the industry into a nosedive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而没有人知道这一切有多么冒进，直到燃油价格的高涨将航空业抛进了漩涡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The airlines immediately began planning capacity cuts and raising ticket prices to help absorb higher fuel prices.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空公司马上开始计划削减运力和提高机票价格，希望借此抵消在燃油方面的开支。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Average domestic airfares in Q3 2008 rose 10.4% compared with the same period in 2007, reaching an average of $362, the highest quarterly average in 13 years, according to the Transportation Department’s Bureau of Transportation Statistics.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国运输部的运输统计局的数据显示，2008年第三季度的平均国内机票价格高达362美元，同比上升10.4%，创13年来的季度平均值新高。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In fact, the Q3 2008 average fare was 22% higher than the post-9/11 third-quarter low of $297 in 2004.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>实际上，对比2004年9/11后第三季度票价低迷期的297美元，2008年第三季度的平均票价增幅达到22%。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A la carte pricing, here to stay</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>按项目收费模式将持续
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When it became clear that capacity cuts and higher fares weren’t enough, carriers started piling on fees for checked bags, assigned seats and other "enhanced services." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>航空公司意识到单靠削减运力和提高票价并不足够，于是开始对行李托运、指定座位和其它“增值服务”收费。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moreover, the emerging consensus within the industry is that this so-called a la carte pricing model is here to stay.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，业内已逐渐达成一个共识：所谓“按项目收费”（a la carte）的模式将持续下去。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That’s simply because it works. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这招确实管用。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continental, for example, projects it will pull in $200 million in ancillary revenue this year, up from an earlier estimate of $130 million.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>举例说，大陆航空公司（Continental Airlines）今年的辅助营收入将达到2亿美元，高于早前预期的1.3亿美元。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continental initially decided not to add fees, hoping that maintaining its inclusive fare model would pull passengers from other airlines. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大陆航空原本不打算增加额外收费，希望保留其全包的定价模式以从竞争对手处拉来更多的乘客。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in fact, CEO Larry Kellner told the Merrill Lynch conference, "We didn’t see a customer shift."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而其首席执行官Larry Kellner在美林公司的论坛上道出了事实：“我们没看到预期的顾客转移。”  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passengers, he said, are more willing to pay unbundled fees than they are a higher fare. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他还说，非捆绑式的费用比高昂的机票价格更容易被乘客所接受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, Continental is adding more fees.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在大陆航空选择了增加收费项目。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"A la carte revenue is one of the most structural changes that has happened to our industry," US Airways President Scott Kirby said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“按项目收费模式已成为本行业最大的结构性变化之一，”合众国航空公司总裁Scott Kirby说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It will be here a decade from now."  Similarly, American Airlines CEO Gerard Arpey called unbundling "key" to the airline’s financial survival.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“这种模式将从现在起持续十年。”  相似地，美国航空公司总裁Gerard Arpey也认为这种模式是航空公司熬过经济困境的关键。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That’s because the revenue on the table is substantial. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些辅助收益的作用是显而易见的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Delta and United each figure to take in $1 billion or more in revenue this year from the extra fees.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>达美航空（Delta Airlines）和美联航（United Airlines）各自估算今年至少有10亿美元的收益来自额外的收费。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And while JetBlue CEO David Barger said his airline doesn’t want to be known as a company that is nickel-and-diming its customers, passengers seem amenable to paying for extras, seeing the fees as a chance to purchase up.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>捷蓝航空（JetBlue Airlines）首席执行官David Barger提及到，他不想让顾客认为公司在对他们“斤斤计较”。另一方面，乘客们却似乎很愿意付更多的钱去购买服务升级的机会。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There’s been no pushback from passengers against airlines for charging these fees," Cordle said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“航空公司并没接到顾客对收取这些费用的负面反馈，”Cordle说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"All airlines are going to move to this a la carte revenue even more so than before."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所有的航空公司都将采用这种按项目的收费模式，并把它进一步拓展。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, the airlines have continued expanding their menu of additional fees since fuel prices dropped during the latter half of last year; the fees expansion has continued this year even as carriers began discounting base fares to lure more passengers compensating for the drop in demand.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便燃油价格在08年下半年有所降低，为弥补今年需求的下降，航空公司也开始降价以吸引更多乘客，这些收费服务项目也在不断地被扩充。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Raphael Bejar, CEO of AirSavings, a consultancy that helps airlines develop programs for boosting their ancillary revenue and purchasing items such as fuel, said, "Carriers thought the crisis was going to be better this year, and obviously this is not happening. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帮助航空公司提升辅助收入和燃料等物料采购方案的咨询公司Air Saving的首席执行官Raphael Bejar提到：“航空公司都以为经济危机在2009年会出现好转，而很明显这并没有发生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I’m not sure it will improve in the next six to nine months."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我怀疑这种状况在未来的6到9个月都不会得到改善。”  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Macroeconomic data verify what everyone in the travel industry has experienced thus far this year: As the economy tanked, consumers cut back on nonessential expenditures, including travel, which in turn has been driving the airlines to cut capacity.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年以来，旅游业内人士所经历的变化都在宏观经济数据上反映了出来：随着经济发展停滞不前，消费者削减了包括旅游在内的非必要性开销。这导致了航空公司不得不缩减运力。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Personal Q1 consumption expenditures in the U.S. fell by about $550 billion quarter over quarter, a drop of 5%, federal data show.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>联邦的数据显示，2009年第一季度美国的个人消费支出环比下降了5 500亿美元，降幅达5%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The amount that consumers spend for airline travel as a percentage of overall personal consumption dropped by about half, Cordle said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Cordle还指出，航空旅游的开支占消费者个人所有开支比重下降了大约一半。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Business travel hits the skids  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商务旅行大刹车
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But where the belt-tightening has really hit airlines has been the business sector, where corporate travelers are downgrading to the back of the plane or refraining from traveling altogether.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而消费者减少开支预算对航空公司真正的打击是在商务旅游方面。商务旅行者开始选择乘坐经济舱，或者避免多人同时出行。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That appears to be the case for international travel in particular, according to IATA, which reported that corporate and other premium traffic in the front of the plane, where airlines make their most profitable margins on passenger revenue, is down 19.2% for the first quarter and 22% for April.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据IATA的报告，这种情况在跨国旅行中最为普遍，导致航空公司利润率最高的头等、公务舱收入第一季同比下跌了19.2%，而四月份更是下跌了22%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As a result, IATA has recently revised its forecast of 2009 industry losses, more than doubling it to a $9 billion loss for airlines worldwide.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此，IATA最近把其对2009年全球航空业的亏损预测提升了一倍以上，达到了90亿美元。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>IATA predicts that $1 billion of that loss this year will be for U.S. airlines, which have been particularly hard hit by the drop in international travel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于国际旅游人数减少带来的强烈冲击，IATA预测今年美国航空公司的损失将达10亿美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passengers on U.S. carriers’ international flights dropped 12.3% in March, the largest year-over-year decline since December 2001, the Bureau of Transportation Statistics reported.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据美国运输统计局的报道，今年3月美国的国际航班载客量同比下跌12.3%，是2001年12月份以来的最大跌幅。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Domestic routes have performed only slightly better, with U.S. airlines carrying 8.6% fewer domestic passengers this past March than in March 2008.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国内航线的表现也只是稍微好一点，3月份载客量同比减少了8.6%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just as IATA expressed concerns about the drop in premium traffic for the industry on a global scale, U.S. airline executives voiced fears about the free-falling demand for corporate and higher-yield air travel, which has forced the carriers to discount ticket prices, exacerbating the problem.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>IATA对航空业两舱载客量的下降表示关注，而美国航空公司的管理者们也很担忧直线下滑的商务旅行和高收益客人需求，这种担忧迫使他们开始对机票打折，这又使问题进一步恶化。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Continental’s Kellner said that as business travel and yields dropped, airlines had to fill their planes with leisure passengers. The only way to do that, he said, was by cutting base fares.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大陆航空的Kellner表示，随着商务旅客量和收益的降低，航空公司不得不吸引休闲旅行者来填满飞机，而只有降低基础票价才能达到这个目的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At Southwest, which has announced plans to cut capacity 6% by the end of the year, CEO Kelly said revenue divided by capacity was weaker in June than in May, when unit revenue fell about 9% from a year earlier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西南航空早前宣布2009年内将削减6%的运力，其首席执行官Kelly指出该公司今年6月份的单位收入低于5月份，而5月份的单位收入同比下降了9%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Moreover, Kelly said, weaker business travel has cut into the number of last-minute, full-fare tickets and traffic on shorter routes.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Kelly还说，商旅业务的萎缩也减少了临时出行、全票价和短程航线的需求。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to Kirby, US Airways is finding that "not only are there fewer business travelers; those that are traveling are more able to purchase leisure fares," which has been further depressing revenue.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Kirby说，合众国航空发现“不单是商务旅行者减少了，其他旅行者也倾向于购买休闲票价，”这进一步影响了收入。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Post-Memorial Day, the bookings have been extremely strong, but the pricing environment has remained weak," he said.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“纪念日假期后的预订量非常大，但价格环境仍然疲软，”Kirby说。
+Arpey觉得机票降价是有必要的，他认为“只有通过价格上的优势才能留住客运量”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arpey defended American’s discounting by arguing that "you have to be competitive on price or you are going to lose traffic," while Delta President Edward Bastian asserted: "The competitive intensity is rather extreme. It is going to put pressure on pricing. But we’re not going to put seats out there in markets that are not going to get returns."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而达美航空总裁Edward Bastian则坚称：“竞争非常白热化，这对价格有更大的压力，但是我们不会在不能产生回报的市场上投入更多运力。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The world, on sale</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>全世界都在降价
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Revenue per enplanement, which Cordle considers a good proxy metric for fares, was down 20% for the first quarter, year over year, he estimated. Meanwhile, yields were down about 13% for the same time period.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Cordle认为每架飞机的收益（revenue per enplanement）是反映机票价格的有效指标，他曾预测该指标2009年第一季度同比将下降20%，同时这一时期的收益也下降了13%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not surprisingly, airline executives are finding the mix of deeply discounted fares and dropping demand to be extremely toxic on marginal routes.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>同时，航空公司管理者们也发现折扣幅度很大的机票价格和下降的需求对于边际航线的负面影响是很大的。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The industry landscape is considerably on sale," JetBlue’s Barger said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“航空业目前处于买方市场，”捷蓝航空的Barger说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Zeroing in on transcontinental fares, he observed, "When competitors are offering walk-up fares of $99 to $109, it’s just not prudent to be in that landscape."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>谈到一些洲际航线时，他说“当竞争者在以99到109美元销售机票时，追随他们进行打折并不明智。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kelly said that since February, Southwest has "seen a decline in our full-fare market. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Kelly指出，西南航空从二月份开始“发现全价机票的市场正在萎缩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It’s still a very low-fare environment, and competitors have a plethora of low fares out there in our markets."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>票价环境还是偏低，而竞争者们在我们的市场上的廉价机票也有大量的过剩”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What’s more, the discounting is worldwide.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而且，这是一次全球范围的价格下调。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>IATA reported a 15% drop in economy fares for March, compared with the same month last year, and it estimated that premium fares might be down as much as 44% in April, year over year.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据IATA报道，今年3月份的经济舱票价同比下降15%，并预测两舱的价格在4月份可能同比下降了44%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In an environment where the lowest fare captures the consumer, Bejar predicted that low-cost carriers such as Ireland’s Ryanair or AirTran in the U.S. were the best bets to thrive and survive. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在现今市场环境下，廉价的机票更受到消费者的青睐。Bejar预测廉价航空公司，如爱尔兰的瑞安航空或美国的穿越航空等最有可能得以生存和发展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"They have lower costs," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们的运营成本更低，”Bejar说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Their cash flow is much more positive. They benefit more from ancillary revenue."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们拥有非常好的现金流，并从辅助收益中获益。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Haak said that from AirTran’s perspective, the key is commodity pricing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Haak提出从穿越航空的情况来说，关键是商品式的定价方式。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"There’s little difference in a seat," he said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“其实一个座位方面的价格差异并不大，”他说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"At the end of the day, people shop for price. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“人们最终还是着眼于价格。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And cost? It’s part of our DNA."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>成本？这本来就是我们的竞争优势。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But some observers see things differently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而一些观察家也有不同的看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The industry’s drive to cut capacity further this fall, they say, will level the playing field on the pricing front.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们认为行业在今年秋天进一步削减运力的做法将会平衡价格的下调。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Industry analyst Darryl Jenkins predicted that as the carriers start to pull down more seats to balance supply with demand, prices will start rising, eliminating the appeal of the cheaper fare bands.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>行业分析师Darryl Jenkins预测，随着航空公司通过减少运力让供求平衡，价格会开始上涨，从而降低航空公司卖低票价的吸引力。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lean, but not lean enough  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还需进一步削减
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The need for the further capacity cuts emerged this spring as traffic dips outpaced the cuts carriers had initiated during the first quarter.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>进一步削减运力的必要性在今年春天开始显现，这是由于航空公司在第一季度的运力削减幅度赶不上收入下跌的速度。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Arpey said that although recent capacity cuts had made American leaner, "it’s insufficient to meet this year’s challenge."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Arpey说尽管近期的运力削减措施使美国航空业的臃肿程度稍微改善，“但这并不足以对付今年出现的挑战。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That appears to be an industrywide problem. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这看来是一个涉及整个航空业的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nine largest U.S. airlines cut their capacity 8% in May but reported traffic declines of 9% for the month. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国最大的9家航空公司五月份的运力已削减了8%，但当月的收入还是下滑了9%。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, when the usual June bump in traffic failed to materialize, carrier executives said they knew they would need to do more cutting after the summer traveling season.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常六月份的客流量大增并没有出现，航空公司的管理人员们说他们需要在今年夏天旅行旺季后削减更多的运力。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"June is one of our stronger travel months," Bastian said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“六月是我们的旅游旺季之一，”Bastian说道。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But he noted that this year, Delta did not see the expected traffic increase for the month.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他同时也指出，达美航空这个月并没看到预期的客流量上升。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The resulting June jitters drove the carriers to examine routes for more cuts. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六月份令人担忧的情况使航空公司进一步评估各条航线的运力削减。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Kelly said that Southwest was "trimming flights that are unpopular and unprofitable."  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Kelly指出，西南航空“正在暂停那些不受欢迎和不盈利的航班”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>While Southwest is a strictly domestic carrier, the same thing is happening on other airlines’ international routes.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>西南航空是一家专营美国国内航线的航空公司，但同样的情况也发生在其它航空公司的国际航线上。
+</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

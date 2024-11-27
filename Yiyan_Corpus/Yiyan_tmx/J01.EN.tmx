@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200905T155757Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CHAPTER 1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第1章</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE WAVE FUNCTION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波函数</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE SCHRODINGER EQUATION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>薛定鄂方程</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine a particle of mass m, constrained to move along the x-axis, subject to some specified force F (x, t) (Figure 1.1). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假设一个质量为m的粒子被限制沿x轴运动，所受的力为F(x，t)（图1.1）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The program of classical mechanics is to determine the position of the particle at any given time: x (t). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在经典力学中要解决的问题是决定在给定任意时刻这个粒子的位置：x(t)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once we know that, we can figure out the velocity (v = dx/dt), the momentum (p = mv), the kinetic energy (T = (1/2)mv 2 ) , or any other dynamical variable of interest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由此可以求出速度（v=dx/dt），动量（p=mv），动能（2T=(1/2)mv），或者其它任何感兴趣的动力学量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And how do we go about determining x(t)? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如何决定x(t)？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We apply Newton's second law: F = ma.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们应用牛顿（Newton）第二定律：F=ma。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(For conservative systems - the only kind we shall consider, and, fortunately, the only kind that occur at the microscopic level - the force can be expressed as the derivative of a potential energy function, <Equation>, and Newton's law reads <Equation>.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（对保守体系－我们将仅考虑的体系，并且很幸运，也是在微观尺度所需考虑的唯一体系－力可以表示为势能函数的导数，<公式>，牛顿第二定律可以写为<公式></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This, together with appropriate initial conditions (typically the position and velocity at t = 0), determines x(t).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个方程和适当的初始条件一起（一般讲在t=0时刻的位置和速度），可以决定x(t)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Quantum mechanics approaches this same problem quite differently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>量子力学探讨这个问题是完全不同的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In this case what we're looking for is the wave function, (x, t), of the particle, and we get it by solving the Schrodinger equation: <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们要寻找的是粒子的波函数，Ψ(x，t)，得到这个波函数是通过解薛定鄂（Schrodinger）方程：<公式>。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here i is the square root of -1, and h is Planck's constant-or rather, his original constant (h) divided by 2<Symbol>. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里i是-1的平方根，h=是普朗克（Planck）常数－或者最初的常数（h）除以2π：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Schrodinger equation plays a role logically analogous to Newton's second law: Given suitable initial conditions [typically, (x, 0)], the Schrodinger equation determines <Symbol>(x, t) for all future time, just as, in classical mechanics, Newton's law determines x(t) for all future time.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>薛定鄂方程的作用和地位从逻辑上讲就像牛顿第二定律：给定适当的初始条件（一般来说，Ψ(x，0)），薛定鄂方程决定以后所有时刻的波函数Ψ(x，t)，就像经典力学中牛顿定律决定以后所有时刻的x(t)。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>THE STATISTICAL INTERPRETATION</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波函数的统计诠释</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what exactly is this "wave function", and what does it do for you once you've got it? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在严格的意义上“波函数”是什么，一旦你得到波函数它可以为你做什么？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After all, a particle, by its nature, is localized at a point, whereas the wave function (as its name suggests) is spread out in space (it's a function of x, for any given time t).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>首先，一个粒子由其本质，是位于一个点，而波函数（像它的名字暗示那样）是在空间的一个分布（在任何给定时间t，它是x的一个函数）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How can such an object be said to describe the state of a particle? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样一个东西如何表示一个粒子的状态呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The answer is provided by Born's statistical interpretation of the wave function, which says that |(<Symbol>(x|t)|2 gives the probability of finding the particle at point x, at time t - or, more precisely, <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案由波恩（Born）关于波函数的统计诠释给出，这个诠释指出|Ψ(x，t)|2给出在时刻t在x处发现这个粒子的几率——或者更精确地说，这个几率是|Ψ|2的图形中a到b之间所包含的面积。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the wave function in Figure 1.2, you would be quite likely to find the particle in the vicinity of point A, and relatively unlikely to find it near point B.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对图1.2所给的波函数，你将非常可能在点A附近区域发现粒子，因为那里的|Ψ|2比较大，而在B点附近可能发现不了粒子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The statistical interpretation introduces a kind of indeterminacy into quantum mechanics, for even if you know everything the theory has to tell you about the particle (to wit: its wave function), you cannot predict with certainty the outcome of a simple experiment to measure its position - all quantum mechanics has to offer is statistical information about the possible results.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>波函数的统计诠释在量子力学中引入了一种不确定性，即便你根据这个理论知道了一个粒子的所有信息（它的波函数），你仍然不能在一个简单的测量它位置的实验中确切地预言实验结果——量子力学所能提供的仅是一些可能结果的统计信息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This indeterminacy has been profoundly disturbing to physicists and philosophers alike. Is it a peculiarity of nature, a deficiency in the theory, a fault in the measuring apparatus, or what? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个不确定性曾严重困惑了物理学家和哲学家，很自然人们要问，这种不确定性是事物的本质，还是理论的缺陷？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suppose I do measure the position of the particle, and I find it to be at the point C. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假定我确实测量了这个粒子的位置并且发现它在点C。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question: Where was the particle just before I made the measurement?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题：在我恰好进行测量之前这个粒子在那里？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are three plausible answers to this question, and they serve to characterize the main schools of thought regarding quantum indeterminacy: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有三种可能的回答，它们代表三种主要学派对不确定性的不同看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The realist position: The particle was at C. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现实主义学派：粒子还是在C。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This certainly seems like a sensible response, and it is the one Einstein advocated.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>听起来像一个很合理的回答，这也是爱因斯坦（Einstein）所持的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note, however, that if this is true then quantum mechanics is an incomplete theory, since the particle really was at C, and yet quantum mechanics was unable to tell us so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是注意，如果这是真实的，这就意味着量子力学是一个不完备的理论，如果粒子在测量前就在C，而量子力学没有能力告诉我们这一点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To the realist, indeterminacy is not a fact of nature, but a reflection of our ignorance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对现实主义而言，不确定性不是自然的本性，而是反映了我们对自然的无知。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As d'Espagnat put it, "the position of the particle was never indeterminate, but was merely unknown to the experimenter."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>d′Espagnat强调说“粒子的位置从来就不是不可确定的，而仅是试验者不知道而已。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Evidently <Symbol> is not the whole story-some additional information (known as a hidden variable) is needed to provide a complete description of the particle.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>显然Ψ不是全部的故事——需要提供某些附加的信息（称为隐变量）才能提供对粒子的完全描述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The orthodox position: The particle wasn't really anywhere.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正统学派：粒子哪也不在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was the act of measurement that forced the particle to "take a stand" (though how and why it decided on the point C we dare not ask). </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是测量强迫粒子“在某处露面”（尽管我们无法知道为什么及如何它决定在C露面）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jordan said it most starkly: "Observations not only disturb what is to be measured, they produce it. ... </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Jordan更加明确地指出：“观测者不仅扰动了被观测量，而且产生了它...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We compel [the particle] to assume a definite position?" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们强迫（粒子）出现在特定的位置。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This view (the so-called Copenhagen interpretation) is associated with Bohr and his followers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种观点（称为哥本哈根（Copenhagen）学派解释），源于波尔（Bohr）和其追随者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among physicists it has always been the most widely accepted position.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在物理学家中是被最广泛接受的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Note, however, that if it is correct there is something very peculiar about the act of measurement - something that over half a century of debate has done precious little to illuminate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>可是注意，如果这种观点是正确的，测量的作用将非常独特－对其争论了半个世纪但少有进展。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The agnostic position: Refuse to answer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>3．不可知论学派：拒绝回答。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is not quite as silly as it sounds - after all, what sense can there be in making assertions about the status of a particle before a measurement, when the only way of knowing whether you were right is precisely to conduct a measurement, in which case what you get is no longer "before the measurement"? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个回答并不是像它听起来那样糊涂愚蠢——首先，知道你的回答是否正确的唯一途径是进行一个精确的测量，那么什么情况可以叫做“测量前”？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is metaphysics (in the perjorative sense of the word) to worry about something that cannot, by its nature, be tested.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这种情况下，对测量前粒子的状态进行论断有什么意义？为某些由其本质是不可能被检测的事而担忧是故弄玄虚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pauli said, "One should no more rack one's brain about the problem of whether something one cannot know anything about exists all the same, than about the ancient question of how many angels are able to sit on the point of a needle."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>泡利（Pauli）曾说过：“和讨论一个针尖上能坐多少天使的远古问题一样，我们无需为某些我们根本无法知道的事情浪费脑力”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For decades this was the "fall-back" position of most physicists: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数十年来，大多数物理学家采取这种回避的姿态：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They'd try to sell you answer 2, but if you were persistent they'd switch to 3 and terminate the conversation.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们向你兜售正统学派的观点，但是如果你坚持，他们停止对话，又会回到不可知论的观点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Until fairly recently, all three positions (realist, orthodox, and agnostic) had their partisans.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到最近，所有三种观点还都有自己的支持者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in 1964 John Bell astonished the physics community by showing that it makes an observable difference if the particle had a precise (though unknown) position prior to the measurement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在1964年JohnBell震惊了物理学界，他宣布粒子在测量前有没有一个确定的位置在观测上会导致不同的测量结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bell's discovery effectively eliminated agnosticism as a viable option, and made it an experimental question whether 1 or 2 is the correct choice.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Bell的发现排除了不可知论作为一种可能的观点，并且把判断正统观点和现实主义观点谁是正确的变成一个实验的问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'll return to this story at the end of the book, when you will be in a better position to appreciate Bell's theorem; </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我将在本书结尾重回到这个问题，那时你们的知识能使你们更好地欣赏Bell的论述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>for now, suffice it to say that the experiments have confirmed decisively the orthodox interpretation: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>至于现在，只需指出实验已经决定性的证实了正统观点：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A particle simply does not have a precise position prior to measurement, any more than the ripples on a pond do; it is the measurement process that insists on one particular number, and thereby in a sense creates the specific result, limited only by the statistical weighting imposed by the wave function.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个粒子在测量前没有一个确定的位置，就像水面的波纹，是测量的过程给出了一个具体数量，在这个意义上，给出了受波函数统计权重限定的特定的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But what if I made a second measurement, immediately after the first?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果紧接着第一次测量进行第二次测量，能测量到什么结果？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would I get C again, or does the act of measurement cough up some completely new number each time? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>粒子还是在C？还是每次都测量到一个完全的不同的新结果？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On this question everyone is in agreement: A repeated measurement (on the same particle) must return the same value.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这个问题上所有人都是完全一致的：一个重复实验（对同一粒子）将产生同样的结果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, it would be tough to prove that the particle was really found at C in the first instance if this could not be confirmed by immediate repetition of the measurement.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>的确，如果紧接的第二次测量不能证实粒子在C，它将是很困难证明粒子在第一次测量确实出现在C。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>How does the orthodox interpretation account for the fact that the second measurement is bound to give the value C?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正统观点如何解释第二测量结果限制粒子在C？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Evidently the first measurement radically alters the wave function, so that it is now sharply peaked about C (Figure 1.3).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实是第一次测量完全改变了波函数，所以它现在是尖锐的在C点耸起（图1.3）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We say that the wave function collapses upon measurement, to a spike at the point C (soon spreads out again, in accordance with the Schrodinger equation, so the second measurement must be made quickly).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们称之为由于测量产生的波函数的坍塌，在C点生成针状波形（由于波函数遵从薛定鄂方程，这个波将很快弥散开来，所以第二次测量要立即进行）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There are, then, two entirely distinct kinds of physical processes: "ordinary" ones, in which the wave function evolves in a leisurely fashion under the Schrodinger equation, and "measurements", in which <Symbol> suddenly and discontinuously collapses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以存在两类完全不同的物理过程：“正常”类，波函数按薛定鄂方程“从容不迫”的演化，“测量”类，由于测量，波函数突然和不连续的坍塌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>1.3 PROBABILITY</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1.3 几率</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Because of the statistical interpretation, probability plays a central role in quantum mechanics, so I digress now for a brief discussion of the theory of probability.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于统计诠释，几率在量子力学中起着非常重要的作用，所以现在我们偏离主题简短讨论一下几率理论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is mainly a question of introducing some notation and terminology, and I shall do it in the context of a simple example.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>以一个简单的例子，介绍一些术语和概念。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Imagine a room containing 14 people, whose ages are as follows: one person aged 14</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>假设一个屋子中有14个人，他们的年龄分布为：14岁1人，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>one person aged 15</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>15岁1人，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> three people aged 16</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>16岁3人，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>two people aged 22</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>22岁2人，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>two people aged 24</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>24岁2人，</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>five people aged 25.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>25岁5人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If we let N (j) represent the number of people of age j, then</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我们用N(j)表示年龄为j的人数，则</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(14) = 1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(14)=1</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(15) = 1</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(15)=1</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(16) = 3</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(16)=3</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(22) = 2</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(22)=2</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(24) = 2</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(24)=2</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>N(25) = 5</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>N(25)=5</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>while N (17), for instance, is zero.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而其余N(j)，例如N(17)，为零。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The total number of people in the room is <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>屋子中的总人数为<公式></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(In this instance, of course, N = 14.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（当然，在上面例子中，N=14。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Figure 1.4 is a histogram of the data.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>图1.4是以上数据的直方图。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following are some questions one might ask about this distribution.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>下面是关于这个分布的一些我们可能要问的一些问题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question 1. If you selected one individual at random from this group, what is the probability that this person's age would be 15?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题1. 如果随机从这组人群中选出一个人，并且年龄为15岁，其几率为多少？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> Answer: One chance in 14, since there are 14 possible choices, all equally likely, of whom only one has this particular age.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案：1/14，因为有14种可能的选择，每种机会相等，而只有一人年龄符合要求。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If P(j) is the probability of getting age j, then P(14) = 1/14, P(15) = 1/14, P(16) = 3/14, and so on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果P(j)是选出年龄为j的几率，则P(14)=1/14，P(15)=1/14，P(16)=3/14，...</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一般有，<公式>。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Notice that the probability of getting either 14 or 15 is the sum of the individual probabilities (in this case, 1/7).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意到选出年龄为14或15岁的几率为年龄为14岁的几率同年龄为15岁的几率之和（本例中，为1/7）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In particular, the sum of all the probabilities is 1 - you're certain to get some age: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>特别有，所有几率之和为1——如果不限定选出人的年龄<公式>：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question 2. What is the most probable age?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题2. 最可几年龄是那个年龄？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Answer: 25, obviously; five people share this age, whereas at most three have any other age.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案：显然为25岁；5个人具有这个年龄，而另外的年龄，至多只有3人有一样的年龄。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, the most probable j is the j for which P(j) is a maximum.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普遍有，最可几j是使P(j)取最大值的j。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question 3. What is the median age?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题3. 中值年龄是多大？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Answer: 23, for 7 people are younger than 23, and 7 are older.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案：23岁，因为7人比这个年龄大，7人比它小。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(In general, the median is that value of j such that the probability of getting a larger result is the same as the probability of getting a smaller result.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（普遍有，中值j是比它大的值的几率和比它小的值的几率各占一半。） </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question 4. What is the average (or mean) age?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题4. 平均年龄是多大？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Answer: <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案：<公式>。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, the average value of j (which we shall write thus: (j)) is given by <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普遍的，j的平均值（我们将写作<j>)是<公式>。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Notice that there need not be anyone with the average age or the median age-in this example nobody happens to be 21 or 23.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意可能没有任何人的年龄是平均年龄或中值年龄？本例中没有人年龄是21岁或23岁。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In quantum mechanics the average is usually the quantity of interest; in that context it has come to be called the expectation value.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在量子力学中平均值是通常最感兴趣的量；在这个意义上它被称为期待值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's a misleading term, since it suggests that this is the outcome you would be most likely to get if you made a single measurement (that would be the most probable value, not the average value)-but I'm afraid we're stuck with it.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是个容易产生误解的叫法，因为它暗含着在一次测量中这是你最可能得到的结果（其实最可能得到的应该是最可几值，而不是平均值—不过我们还是保留这个称呼。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Question 5. What is the average of the squares of the ages?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>问题5.年龄平方的平均是多少？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Answer: You could get 142 = 196, with probability 1/14, or 152 = 225, with probability 1/14, or 162 = 256, with probability 3/14, and so on.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>答案：你有142=196，几率为1/14，152=225，几率为1/14，162=256，几率为3/14，等。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The average, then, is <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因此平均值为<公式>。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In general, the average value of some junction of j is given by <Equation>.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普遍地，可以给出j的函数的平均值<公式></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(Equations 1.6, 1.7, and 1.8 are, if you like, special cases of this formula.) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>（1.6，1.7，1.8式是上式的特殊形式。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beware: The average of the squares (<j2>) is not ordinarily equal to the square of the average (<j2>).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>注意：平方的平均<j2>一般情况下是不等于平均的平方的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For instance, if the room contains just two babies, aged 1 and 3, then <x 2> = 5, <x>2 = 4.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>例如，屋子里仅有两个婴儿，一个1岁，另一个3岁，则<j2>=5，而<j2>=4。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now, there is a conspicuous difference between the two histograms in Figure 1.5, even though they have the same median, the same average, the same most probable value, and the same number of elements: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在图1.5所给的两个直方图中，即便它们有着同样的中值、平均值、最可几值和同等数目的元素，它们仍然有着明显的不同：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first is sharply peaked about the average value, whereas the second is broad and flat. (The first might represent the age profile for students in a big-city classroom, and the second the pupils in a one-room schoolhouse.)</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第一个是非常集中地放置在平均值的地方，而第二个很宽很平。（第一个可能代表一个大城市学校班级中学生年龄的分布，而第二个可能代表偏远地区仅有一个教室的学校中学生年龄的分布。）</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We need a numerical measure of the amount of "spread" in a distribution, with respect to the average.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们需要一个分布对平均值“弥散”数量上的量度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The most obvious way to do this would be to find out how far each individual deviates from the average, <Equation>, and compute the average of Δj.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个量度一种最明显的方法是找出每一个个体对平均值的偏差是多少，即<公式>，然后计算Δj的平均值。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Trouble is, of course, that you get zero, since, by the nature of the average, Δj is as often negative as positive: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样做的问题在于，由于平均值的性质，Δj的值有正有负，正负相消，你得到的结果为零：<公式>。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

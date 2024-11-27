@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160827T020223Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Starship Mechanic</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>星船技工</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The floor of Borderlands Books had been polished to mirror brightness. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>博德兰书店的地板擦得光可鉴人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A nice trick with old knotty pine, but Penauch would have been a weapons-grade obsessive-compulsive if he'd been human. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用过许多年的节松木地板擦成这样可是需要些技巧的，如果佩纳奇是地球人，他必定是一个武器级的强迫症患者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I'd thought about setting him to detailing my car, but he's just as likely to polish it down to aluminum and steel after deciding the paint was an impurity.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我考虑过让他把我的车仔细擦一擦，不过他若是认定了油漆的成分不纯，很可能一直把车擦到铝和钢都露出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When he discovered that the human race recorded our ideas in books, he'd been impossible to keep away from the store. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从他知道了人类把思想记录在书籍中之后，就不愿离开书店半步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Penauch didn't actually read them, not as such, and he was most reluctant to touch the volumes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>佩纳奇并不怎么阅读这些书，他尤其不愿意碰那些成卷的作品。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He seemed to view books as vehicles, launch capsules to propel ideas from the dreaming mind of the human race into our collective forebrain.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他似乎把书籍当成了一种运载工具，一种发射出去的密封舱，能把那些爱做梦之人的想法推送到整个人类群体的大脑之中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Despite the fact that Penauch was singular, unitary, a solitary alien in the human world, he apparently didn't conceive of us as anything but a collective entity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管佩纳奇是人类世界里一个孤单孤独孤零零的外星生物，他却毫不怀疑地认定人类是一个集体。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The xenoanthropologists at Berkeley were carving Ph.D.s out of that particular clay as fast as their grad students could transcribe Penauch's conversations with me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伯克利的异星人类学家们研究这团奇异的粘土状生物，成就了一批批的博士；他们的徒子徒孙们则不停地转录佩纳奇与我的交流对话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He'd arrived the same as David Bowie in that old movie. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他到达地球的情形就像大卫·鲍伊在那部老电影里表演的一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No, not Brother from Another Planet; The Man Who Fell to Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>是那部《天降财神》，不是《异星兄弟》。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tumbled out of the autumn sky over the Cole Valley neighborhood of San Francisco like a maple seed, spinning with his arms stretched wide and his mouth open in a teakettle shriek audible from the Ghost Fleet in Suisun Bay all the way down to the grubby streets of San Jose.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在旧金山的科尔谷居住区，他从秋日的天空中滚落下来，像一颗枫树的种子。他伸展手臂飞速旋转，张开嘴巴发出尖锐的响声，像烧开了水的壶。那声音极响亮，从瑟苏恩湾的幽灵舰到圣何塞凌乱的街道，哪儿都能听见。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The subject's fallsacs when fully deployed serve as a tympanum, producing a rhythmic vibration at a frequency perceived by the human ear as a high-pitched shriek. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究对象的降落囊完全展开时，功能相当于一个鸣腔，能够产生有节奏的震动。其震动频率被人耳感知为一种高音调的尖叫声。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Xenophysiological modeling has thus far failed to generate testable hypotheses concerning the volume of the sound produced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>鉴于该声音音量过大，异星生理学建模方面的研究远未能提出可检验的假设。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some observers have speculated that the subject deployed technological assistance during atmospheric entry, though no evidence of this was found at the landing site, and subject has never indicated this was the case.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一些观察者推断，研究对象进入大气层时使用了技术辅助设备，但是在降落地点并未发现相关证据。而且研究对象从未确认这一推断的真实性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>-- Scholes, Jen West. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——斯科尔斯，珍·韦斯特.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Reader's Guide to Earth's Only Living Spaceman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>读者指南：地球上唯一活着的外星人</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Feldman, Jude A. San Francisco: Borderlands Books, 2014.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>费尔德曼，裘德 A. 旧金山：博德兰书店， 2014</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was easier keeping Penauch in the bookstore. The owners didn't mind. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>让佩纳奇待在书店里更方便，店主们也并不介意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They'd had hairless cats around the place for years--a breed called sphinxes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有一只“斯芬克斯”品种的无毛猫，在店里养了很多年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The odd animals served as a neighborhood tourist attraction and business draw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这只古怪的动物既可以吸引附近的游客，又可以招徕生意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A seven-foot alien with a face like a plate of spaghetti and a cluster of writhing arms wasn't all that different. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而外星人有七英尺高的个头，脸长得像一盘意大利面，身上还有一丛不停扭动的胳膊。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not in a science fiction bookstore, at least.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的功能和猫咪也差不了多少，至少在一家科幻书店里是这样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Thing is, when Penauch was out in the world, he had a tendency to fix things.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>佩纳奇的问题在于，他一走入外面的花花世界，就总是喜欢修理东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This fixing often turned out to be not so good. No technology was involved. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他通常都修得不太好，没有什么技术含量。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Penauch's body was demonstrably able to modify the chitinous excrescences of his appendages at will. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>已经证实佩纳奇可以随意改变他附肢上的壳质瘤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he needed a cutting edge, he ate a bit of whatever steel was handy and swiftly metabolized it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果需要刀刃，他就会随便找一点铁吃下去，然后迅速将铁块变成需要的形状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he needed electrical conductors, he sought out copper plumbing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果需要电导体，他就四处找铜管子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If he needed logic probes, he consumed sand or diamonds or glass.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果需要逻辑探针，他就吃一点砂子、玻璃或者钻石。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was all the same to Penauch.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为这几样对佩纳奇而言都是一样的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As best any of us could figure out, Penauch was a sort of tool. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们能想到最高明的见解就是：佩纳奇是某种工具。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Swiss army knife that some spacefaring race had dropped or thrown away, abandoned until he came to rest on Earth's alien shore.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他是一把“瑞士军刀”，某个宇宙飞行中的种族把他丢失、扔掉或者遗弃，落到了地球这片陌生的土地上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And Penauch only spoke to me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而佩纳奇只对我一个人说话。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The question of Penauch's mental competence has bearing in both law and ethics. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>佩纳奇的思维能力问题涉及法律与道德两方面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pratt and Shaw (2013) have effectively argued that the alien fails the Turing test, both at a gross observational level and within the context of finer measurements of conversational intent and cooperation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>普拉特和肖（2013）有力地证明了这个外星生物没有能力通过图灵测试，不管是基于粗略观察的测试还是在对话中精确测量其意图与合作的测试，佩纳奇都没能通过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cashier (2014) claims an indirectly derived Stanford-Binet score in the 99th percentile, but seemingly contradicts herself by asserting that Penauch's sentience is at best an open question. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凯希尔（2014）指出，她以间接的方式测量了佩纳奇在斯坦福-比奈量表中的得分，其分数落在第99百分位。但她似乎自相矛盾地断言，佩纳奇的感知能力在面对开放性的问题时表现得最好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Is he (or it) a machine, a person, or something else entirely?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他（它）究竟是一台机器，一个人还是其他什么东西呢？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>--Browne, S. G. "A Literature Review of the Question of Alien Mentation." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>——布朗尼， S. G. 《关于异星生物心理状态问题的文献综述》</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Journal of Exogenic Studies II</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>地外研究II</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>4 (August 2015).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>4 (2015年8月).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first time he fixed something was right after he'd landed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他第一次修理东西是在刚着陆的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Penauch impacted with that piercing shriek at 2:53 p.m. Pacific Time on Saturday, July 16, 2011, at the intersection of Cole and Parnassus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2011年7月16日，星期六，太平洋时间下午两点五十三分，在科尔路和帕纳塞斯路的交口处，伴随着刺耳的叫声，佩纳奇撞向地球。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every window within six blocks shattered. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>六个街区内的每一扇窗户都震碎了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Almost a hundred pedestrians and shoppers in the immediate area were treated for lacerations from broken glass, over two dozen more for damage to hearing and sinuses.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现场近一百名行人和购物者被玻璃割伤，一百二十多人有听力和鼻窦损伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I got to him first, stumbling out of Cole Hardware with a headache like a cartoon anvil had been dropped on me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是第一个接近他的人，当时我磕磕绊绊跑出了科尔五金器具商店，头疼得好像漫画里的大铁砧砸到了我脑袋上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inside, we figured a bomb had gone off. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我在店里还以为是炸弹爆炸了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All the vases in the homeware section had exploded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家庭用品区里所有的花瓶都炸开了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Luckily I'd been with the fasteners. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很走运，正待在紧固件附近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The nails sang, but they didn't leap off the shelves and try to make hamburger of me.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>钉子都在唱歌，所幸它们没有跳下货架我把压成汉堡包。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Outside, there was this guy lying in a crater in the middle of the intersection, like Wile E. Coyote after he'd run out of Acme patented jet fuel. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商店外面，这个家伙正躺在十字路口中心的一个大坑里面，好像威利狼的小火箭烧光了极致牌喷气燃料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hurried over, touched his shoulder, and realized what a goddamned mess he was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我匆匆跑过去，拍了拍他的肩膀，意识到这是多么乱七八糟的一团东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then half a dozen eyes opened, and something like a giant rigatoni farted before saying, "Penauch."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>接着他睁开了六只眼睛，一个好像超大型通心粉的东西发出放屁似的声音，然后说到“佩纳奇。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Weird thing was, I could hear the spelling.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>真奇怪，我能听见这个词的拼写。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Though I didn't know it in that moment, my old life was over, my new one begun.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当时我并不知道，就在那一刻，我过去的生活结束了，新的人生旅程已经开始。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Penauch then looked at my shattered wristwatch, grabbed a handful of BMW windshield glass, sucked it down, and moments later fixed my timepiece.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后佩纳奇看到我的手表震碎了，他抓过一把宝马车的挡风玻璃碎片吞了下去，过了一会就把我的手表修好了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For some value of "fixed."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>某种意义上的“修好了”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It still tells time, somewhere with a base seventeen counting system and twenty-eight point one five seven hours a day. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的表又走起来了，不过走一圈是17格，一天是28.157个小时。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It shows me the phases of Phobos and Deimos, evidence that he'd been on (or near) Mars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>手表能告诉我火卫一和火卫二的时相，这说明他曾经到过火星或者火星附近。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Took a while to figure that one out. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是我花了不少时间才琢磨出来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And the thing warbles whenever someone gets near me carrying more than about eight ounces of petroleum products. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，如果有人拿着8盎司以上的石油制品走近我，这块表就会发出鸟鸣般的颤音。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Including grocery bags, for example, and most plastics.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比如购物袋和大部分的塑料制品都有此效果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could probably get millions for it on eBay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果把这块表放到易趣上去卖，我大概能赚好几百万。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Penauch's first artifact, and one of less than a dozen in private hands.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这是佩纳奇的第一件手工制品，而私人手中一共只存有不到十二件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government owns him now, inasmuch as anyone owns Penauch. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>佩纳奇现在归政府了，因为人人都想拥有他。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They can't keep him anywhere. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>把他安置在哪儿都看不住。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He "fixes" his way out of any place he gets locked into. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不管他被锁在什么地方，都能“修”一条路出来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He comes back to San Francisco, finds me, and we go to the bookstore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他回到了旧金山，找到了我，然后我们一起去了书店。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Where Penauch polishes the floors and chases the hairless cats and draws pilgrims from all over the world to pray in Valencia Street. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里佩纳奇可以擦地板、追无毛猫玩，他还吸引了全世界的“朝圣者”来瓦伦西亚大街祷告。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20151120T154402Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Home Perfumery </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自制室内清新剂</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This all started when my Mom was exposed to radiation and developed a super-power.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一切都发生于我妈接受放疗并产生了超能力之后。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Seriously.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很认真地说哦。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At 58, my mother was treated for cancer with injections of radioactive iodine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在我母亲岁时，接受了治疗癌症的放射碘注射。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When it was over, her cancer was gone, but she'd developed an unnaturally acute sense of smell, which seems to be permanent. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>治疗结束后，她的癌细胞消失了，同时她的嗅觉却变得异常敏锐起来，而这种变化似乎会陪伴她众生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She soon became fascinated with perfumery and aromatherapy, and one day asked me, "How do you capture a natural fragrance?"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>就这样，她很快迷上了香水和香薰，有一天她冷不丁地问起我：“你该怎样留住天然的芬芳？”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The trick is called steam distillation, and it's little known today because the fragrance industry has replaced the independent perfumer, who used to sweat in solitude over a bubbling basement still. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>窍门就是蒸馏法，但是这项工艺在今天已很少为大众所知，因为香水工业已经取代了个体的香水艺人，他们仍习惯于呆在偏僻的地下室，对着沸腾的蒸馏锅汗流浃背。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But in 18th-century France, the perfumer's knowledge of steam distillation amounted to a kind of practical alchemy -- the ability to capture a beautiful, ephemeral sensation and preserve it for sale.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在18世纪的法国，香水艺人的这项蒸馏工艺被总结是一种有实用价值的炼金术—— 一种能够捕获美好易逝的香气，并把这香气储存出售的魔力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Here we extract the earthy scent of rosemary, but almost any fragrant plant should work well for this project. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在这里我们会摘录迷迭香的芳香提取法，而利用这种方法，你还可以提取其他芳香植物的香味。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The technique is simple: steam rises through a strainer full of plant matter, vaporizing volatile oils and other fragrant compounds, which condense on an icy bowl and drip into a small receiving bowl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>方法很简单：蒸气会升腾透过装满了植物枝叶的篦子，植物中的芳香精油和其他芳香物质会借助蒸气，通过冰碗的冷凝作用，化成液体滴入收集器皿中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Start your essence!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赶快开始吧！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>CAUTION: Do not use glass cookware in this project unless you understand how to prevent breakage due to thermal shock. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>小贴士：在制作过程中请避免使用玻璃器皿，它们很容易被滚烫的蒸气激碎。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even borosilicate glass can shatter explosively if heated or cooled too rapidly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使是硼硅酸盐玻璃，如果遇到剧烈的加热和冷却作用，也会有爆裂的危险。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also, be very careful to avoid steam burns while inspecting the still and/or emptying the receiving bowl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在检查或清理收集器皿时，小心蒸气烫伤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sections</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>基础步骤</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Choose your plants. Prepare your plants.Assemble your still. Load the plants. Insert the upper strainer(s) (optional). Position your receiving bowl. Drop in the condenser. Extract the fragrance. Collect the fragrance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>选择芳香植物、处理植物枝叶、组装蒸馏锅、装填植物枝叶、安装一层篦子、放置收集器皿、放入冷凝装置、蒸馏出芳香物质、收集芳香精华。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tools</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工具</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Additional strainer(s), (optional), stainless steel to fit the pot</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与蒸馏锅匹配的不锈钢篦子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Condensing bowl, large, stainless steel of a larger diameter than the pot</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冷凝碗，不锈钢材质，直径要大于蒸馏锅的直径</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Eye dropper, or turkey baster</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>胶头滴管</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Hot pad</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔热垫</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jars</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>广口瓶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Oven mitts</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>隔热手套</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pliers, or kitchen tongs</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>镊子或厨用夹</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pot, stainless steel</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不锈钢碗</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pruning shears</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>修剪剪刀</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Receiving bowl, small, stainless steel to fit inside the pot</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>收集器皿，不锈钢材质，要能正好放进蒸馏锅</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Relevant parts  Raw plant matter Here I use 4" sprigs of fresh rosemary, 160 total.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>芳香植物我准备了寸长的新鲜迷迭香枝，共枝。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ice</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>冰块若干</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 1 -- Choose your plants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤一——选择芳香植物</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Decide what kind of fragrance(s) you would like to extract. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确定你想得到的香型。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Generally, the stronger your plant matter smells to begin with, the better. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>大体上那些一闻上去味道就特别冲的植物是最好的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rosemary, lemon verbena, vanilla, scented gardenia, lavender, and wild rose are just a few of the many possibilities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>迷迭香、柠檬叶、香草、栀子、薰衣草、野蔷薇都是不错的选择。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 2 -- Prepare your plants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤二——处理植物枝叶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In preparing your plants, there is a tradeoff between the need to pack as many plants into the still as possible and the need to avoid any processing (such as drying or grinding) that releases the plant's fragrances prematurely.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>准备植物过程中，你既要在锅中尽可能多地装入植物枝叶，又要避免任何加工过程，如风干或研磨。这些做法都会提前释放植物内的芳香物质。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fresh, whole plants are best if you have a large still with plenty of room. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>锅子容量大的话，能够放入整棵新鲜植物是最佳的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dried whole plants are commonly used. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>通常会用到的就是整棵的干燥植物。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Grinding is generally not recommended. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们一般不建议研磨。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We compromised by gently stripping the leaves off fresh rosemary sprigs with our fingers, as shown in the photo.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以用手指轻轻地把迷迭香的叶子从枝上剥下来。如图所示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 3 -- Assemble your still.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤三——组装蒸馏锅</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set the pot on the stove and fill it with water to just below the bottom strainer when it's in place. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将锅座在炉子上，倒入的清水正好位于放好后的篦子下部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Tap water is fine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自来水就可以。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then put the strainer in place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后装上篦子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 4 -- Load the plants.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤四——装填植物枝叶</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fill the bottom strainer with an even, loose layer of your plant matter. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将植物枝叶松散地平铺在篦子底部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You may compact the plants a bit, but be sure to leave them loose enough to allow steam to pass through from below.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你可以铺的更紧凑些，但必须保留足够的缝隙，以保蒸气顺利通过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 5 -- Insert the upper strainer(s) (optional).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤五——放上一层篦子</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The upper strainer provides a level resting surface for the small receiving bowl, which makes it easy to insert and remove even while hot.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在上面放一层篦子，就可以在其上放置收集器皿了，这样在很烫的情况下也可以轻松放置和取出器皿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I think of a layer of plants as a "stage." The diagram (in Step 3) shows only one stage, but in fact you can have as many stages as you can find strainers to fit your pot. The only limit is their structural stability -- don't pile them high enough to tip over!</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果把铺满枝叶的一层看做底座的话，我在上面只加了一层篦子。实际上，如果你能找到合适大小的篦子，你可以多加几层，注意不要摞得太高。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 6 -- Position your receiving bowl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤六——放置收集器皿</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The small receiving bowl sits on the bottom of the uppermost strainer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作为收集器皿的小碗要放在最上面的那层篦子上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If you have only 1 strainer, you can just set the bowl on top of the plants, or you can clear a space in the plant layer for the bowl to rest. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你只有一个篦子，那就把碗直接放在码好的植物上，或者你专门在枝叶中清理出一块地方放碗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Just make sure that it's centered in the pot, and as level as possible.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一定要放在锅的中心并保持水平。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 7 -- Drop in the condenser.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤七——放入冷凝装置</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Fill the large condensing bowl generously with ice and position it in the opening of the top strainer, as shown. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将作为冷凝装置的大碗里装满冰块，并将它放在最上面一层的篦子口。如图所示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Make sure that it's level and centered over the receiving bowl. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确保它水平放置，中心和收集碗的中心对齐。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Your still is complete. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这样你的蒸馏装置就完成了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I named mine the VapoShrub.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我给我的这个装置起名叫 VapoShrub。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 8 -- Extract the fragrance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤八——蒸馏出芳香物质</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set the burner to medium-high heat and bring the water in the pot to an even simmer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>将火力调整为中火，使锅里的水保持沸腾状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I find that I can judge by the sound of the simmering water. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我是通过听声音确定水是沸腾着的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But if you need to lift off the bowls and strainer(s) to check visually, it won't hurt anything as long as you remember to protect your hands with oven mitts against possible burns from escaping steam.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你需要挪开篦子检查，这倒也无妨，只要你带上隔热手套，避免将手烫伤就行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The boiling water produces steam, which passes through your plant material, where it collects volatile fragrance compounds before rising to the top of the pot. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>沸腾的水会产生蒸汽，将植物中含有的芳香物质蒸馏出来，并一直升腾到蒸馏锅的顶部。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There, it encounters the cold outer surface of the large bowl and condenses, with its extracted volatiles. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在那里遇到冰冷的大碗底，冷凝成水滴，植物挥发出的芳香物质便含在其中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Condensate flows down the surface of the bowl and accumulates at its lowest point, from which it drips into the receiving bowl.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凝结的水滴会沿着碗底流下，然后滴到下面的收集器皿里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Depending on how much material you extract and the particular distillation conditions, the contents of the receiving bowl may form a clear floral water, a cloudy emulsion, or separate layers of water and oils.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>由于受到植物总量和蒸馏条件的特殊性的影响，收集器皿里的植物精华可能是清澈的，也可能是浑浊的也可能油水分层的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Step 9 -- Collect the fragrance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>步骤九——收集芳香精华</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Check on the distillation periodically to empty the small receiving bowl. Be wary of steam burns when you remove the condensing bowl, and don't try to handle the receiving bowl with bare hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>时不时地检查蒸馏装置，及时清空收集器皿并小心烫伤，千万不要徒手触摸器皿。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Use pliers or kitchen tongs to grasp the receiving bowl by its rim, lift it out of the still, and pour off into a jar.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴上隔热手套，捏住碗的边缘取出，将萃取液倒入广口瓶中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Each time you empty the bowl, use a different container so that you can compare the smell and appearance of each fraction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每清空一次，换另外一只碗接取萃取液。这样你就可以比较每次得到液体的气味和外观。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This will help you decide when the distillation is complete, and will prevent diluting the more potent, earlier fractions with the later ones, which will be weaker.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这会帮你决定什么时候蒸馏结束，蒸馏时间越久，萃取液的浓度就越低。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If your distillate has a layer of oil floating on top, congratulate yourself: this is the essential oil of your plant material. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果你得到的萃取液表面飘浮着一层油，为你自己喝彩吧：这就是从你植物里萃取出来的精油。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Skim it off with an eyedropper or turkey baster. It will keep indefinitely.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用胶头滴管撇去精油，这些精油很容易挥发。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there's no oil, or not enough to separate, don't despair. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果没有精油或者量很少不足以收集起来，千万不要灰心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The watery herbal distillate that you've produced, also known as a hydrosol or floral water, is also a valuable commodity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些水一样的草本精华同样是众所周知的纯露或花露，也是很有价值的东西。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It should keep for a long time in the refrigerator, or you can dilute it with 1 part in 10 of strong rubbing or grain alcohol and store it in a cool, dark place.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>放在冰箱里可以储存很长时间，或者以比的比例，与粗糙的磨砂粒或酒精混合，放于凉爽阴暗处储存。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

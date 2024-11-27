@@ -1,0 +1,863 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20200203T091354Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why can't Greece shake its corruption problem?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊腐败痼疾为何难以根除</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>PAROS, Greece — A few summers ago, every merchant on this island—which means pretty much everybody with a job—faced ruin. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帕罗斯，希腊——几年前的一个夏天，这座岛上几乎所有的商人——差不多相当于每个有工作的人——都面临着灭顶之灾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Greece’s economic catastrophe had bankrupted the government and brought nearly every industry to a standstill. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊经济大灾难导致政府破产，几乎每个行业都进入停滞状态。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A modern European country faced the prospect of unthinkably widespread poverty. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个当代欧洲国家面临着范围之广难以设想的贫穷危机。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The local crisis reached up to the highest level: the European Union contemplated the collapse of the euro. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>局部危机达到了最高点：欧盟甚至都已经预期了欧元的崩溃。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile, here on Paros, where the crisis was exacerbated by a global recession that had depressed tourism, mom- and-pop hotels, cafes, and tchotchke shops were going bust.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，受全球经济危机对旅游业的影响，帕罗斯遭遇了更为严峻的危机影响，夫妻旅店、咖啡馆和饰品店纷纷倒闭关门。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To avoid calamity, Europe agreed to spend hundreds of billions of dollars to bail out Greece. In return, Greece pledged to overhaul nearly everything about its economy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了扼制灾难，欧洲同意花费数千亿美元援救希腊，作为条件，希腊保证全面实行经济改革。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government promised to fire half its employees, and liberalized laws on everything from trucking to private universities. Generous pension benefits were slashed, and once-cushy lifetime government gigs were turned over to the free market.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊政府答应解雇其一半员工，放宽从货运到私立大学等的法律政策，削减高额养老金，曾经高枕无忧的政府官员被推向了自由市场。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The reforms were supposed to rout corruption from the senior ranks of government, bring efficiency and a service ethos to a notoriously indifferent government, and make it easy for entrepreneurs to launch new businesses. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此次改革本应彻底根除高级政府官员层面的腐败问题，为臭名昭著冷酷无情的政府注入高效、服务的理念，方便企业开展新业务。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many Greeks were anguished, even taking to the streets to protest the overhaul of a welfare system that had given the working poor and lower middle class an exceptionally humane and dignified standard of living. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多希腊人非常愤怒，甚至上街游行抗议福利制度的改革，因为福利制度给低收入人群和下层中产阶级提供了相当人道有尊严的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But on the bright side, others saw a window opening: finally, the cozy and corrupt Greek economy would be cracked open by genuine market discipline. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是往好的方面看，其他人看到了一扇新开启的窗：舒适腐败的希腊经济终于要被真正的市场约束打破了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Scouring out corruption and entitlements might be painful, but it would also clean up daily life and create genuine opportunities.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>剔除腐败和津贴的过程可能是非常痛苦的，但是它可以整治日常生活，创造真正的机会。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Europe came through on its end of the deal: hundreds of billions flowed into the Greek treasury. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>欧洲最后同意拨款：数千亿美元流入希腊国库。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This year, the island is flush again. The tourists are back, eager to spend their euros. New souvlaki joints fill once quiet alleys. Bars have sprung up in orchards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年，这座岛屿重新焕发生机，大量游客回归，迫不及待地想找地儿花钱，一度沉寂的小巷到处充斥着烤肉串的叫卖声，果园里的酒吧如雨后春笋般涌现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Small business owners who have exuded anxiety since 2008 are once again smiling and confident.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2008年后小商小贩一筹莫展的脸上再次展露笑容和自信。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But not everything has changed in Greece. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但在希腊这块土地上，并不是所有的事情都得到了改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In daily life here, cheating, bribes, and tax evasion are still a matter of course. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在日常生活中，舞弊、受贿和逃税依然非常普遍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even anticorruption officials reputedly accept bribes, and only one Cabinet minister has gone to prison for embezzlement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据说连反腐官员都接受贿赂，且仅有一名内阁大臣因挪用公款被判入狱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the bottom level, freelance workers and shopowners still hide most of their income, like a workman who got angry when I filed a receipt for the repairs he did at my house.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>社会底层的自由职业者和店家依然隐藏他们大部分的收入，比如有一次有个修理工人来我家修理，因我给他开了张发票而勃然大怒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What’s happened over the past five years shows Europe’s surprising ability to pull together as a region and avoid a financial disaster. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>过去的五年见证了欧洲团结一致齐心协力扼制金融危机的惊人能力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But developments on the ground in Greece offer a less encouraging view of human nature. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在希腊这片土地上的发展暴露出了人性令人气馁的一面。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In response to additional laws and regulations, Greece’s corrupt system has simply upped its game. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了响应附加的法律法规，希腊腐败系统仅仅是升级了一下他们的游戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If anything, the new rules have just given Greeks more official protocol to maneuver around.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果真要说有什么区别的话，那就是新法规给希腊提供更多名正言顺的机会来进行暗箱操作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Why does this corrupt system survive, when everything points toward how it needs to be improved?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为什么即使所有迹象都表明希腊腐败系统必须进行调整，它还能这么顽强？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Macroeconomists and development theorists have studied this problem for years, examining cases in countries that are abjectly poor and ones that are developed and comparatively rich, like Greece. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宏观经济学家和发展理论家对这个问题进行了多年的研究，分析了极度贫困国家和相对发达富裕国家（比如希腊）的一些例子。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been bold initiatives underwritten by international loans, and pointed local efforts like Italy’s long-losing battle against Mafia-driven graft. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在国际援助贷款的支持下，希腊也尝试了很多大胆的举动，也展开了像意大利对付黑手党腐败的长期斗争。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But conversations with ordinary people in Greece make it clear just why it’s so hard to reverse a culture of corruption once it becomes engrained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是从希腊普通百姓的口中可以很容易地得知为何要根除希腊根深蒂固的腐败文化如此艰难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even in a relatively prosperous European country, never mind Liberia or India, the most immediate self-interested move is for everyone to keep playing the game.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即便是在一个相对繁荣的欧洲国家，更别说利比里亚或者印度了，对于每个人来说最无损自身利益的事情就是保持现状。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>MY ANCESTORS HAVE LIVED for centuries on Paros, since before Greece fought for independence from the Ottoman Empire in 1821. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早在1821年希腊从奥斯曼帝国统治中争取独立前，几个世纪以来我的祖先就一直居住在帕罗斯岛上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My grandparents were the first generation to leave the island for Athens, after World War II, but we’ve been coming here every summer since then.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的祖父母是二战后离开帕罗斯前往雅典的第一代，从那以后我们每年夏天都会回来这里。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although my lineage is pure Greek, I grew up with American attitudes about cheating. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然我是纯希腊血统，但对待作弊却有着美国式的态度。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I spent my childhood surrounded by a certain moralism that I found appealing: you don’t cheat not because you might get caught, but because it’s wrong. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从小我就被教育：不作弊并不是因为你可能被抓，而是因为这是不对的。我很赞同。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You pay taxes because it’s the law and the government provides security and services in return, regardless of whether your politics are welfare-state liberal or “don’t tread on me” libertarian.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你交税是因为这法律规定的而且政府给你提供安全和服务作为回报，不管你是福利国家自由论者还是主张“不要践踏我的权利”主义者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This is not how people see the bargain in Greece. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而人们并不这样看待希腊的税收交易。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Individuals refuse to pay taxes or obey the rules not just because it’s cheaper and easier to do so, but also because they don’t want to be suckers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人们拒绝纳税或者不遵守法律不仅仅是因为这样做简单易行代价低廉，还有一点就是他们不想当傻瓜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“I took my daughter to the government day care and they put her on the waiting list. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我带我女儿去政府办的日托所，结果他们把我女儿放在候补名单上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The waiting list! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>候补名单！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Can you imagine?” a man griped to me recently. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>你能想象吗？”最近一名男士向我抱怨到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“And then they expect me to pay taxes! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他们还指望我交税！</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I’ll pay taxes when they do their job.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>等他们做好自己的工作再说吧。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The man wasn’t a sidewalk souvenir vendor or otherwise working in the gray market. He was an insurance broker, making small talk in his office while filling out a 20-page form to insure my moped, a glorified bicycle whose Greek government-mandated paperwork was more complicated than an American mortgage application.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这名男士既不是在路边摆摊卖纪念品的也没在水货市场工作，而是个保险经纪人。在他的办公室里，他一边闲聊一边填写一份20页的表格用于投保我的助力车（其实就是美化的自行车），希腊政府规定要填写的这个文件比美国贷款申请还复杂。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Greek system can feel like a Mexican standoff. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个希腊系统让人感觉像是墨西哥僵局。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Citizens won’t obey the law until the government fulfills its duties. The government shirks its duties because it doesn’t have enough revenue to govern responsibly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>市民不遵守法律，除非政府履行职责，而政府推卸责任因为没有足够的税收支撑管理。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Small-time tax cheats refuse to bend until the corrupt elite is tried and imprisoned. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>无足轻重的逃税者拒绝先低头，除非贪污分子被绳之以法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The government says it can’t punish scofflaws because it doesn’t have the resources. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>政府说它不能惩罚违反法律者因为没有资金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And so the vicious circle turns.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>恶性循环如此反复。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beach touts in Paros, Greece, sometimes pick up old receipts and give them to new customers as a way to avoid paying taxes to the government.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊，帕罗斯，海滩商贩有时候捡一些旧的发票给新客人，以此逃避向政府付税。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Merchants watch out for the tax man. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>商人都小心提防税务人员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If they know the customer, they don’t issue the legally required receipt. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他们认识顾客的话，就不会开具法定发票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Workmen offer discounts: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工人向雇主提供折扣：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>20 percent off a job if you pay under the table. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果偷偷支付工资，那么每份工作工资打8折。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Beach touts pick up old receipts and give them to new customers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>海滩商贩拿旧发票给新客人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Only nerds check carefully and demand a fresh receipt.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>只有呆子才会仔细检查发票并要求开张新发票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The electrician who rewired my house called in a panic after I deposited the payment in his bank account.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个电工来我家换新电线的时候，我把钱存进了他的银行卡，结果他惊恐地打了个电话过来。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“Can you take it back?” he pleaded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“能不能请您退回去？”他恳求到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There was no way to erase the transaction. Now he would have to pay value-added tax (as he was legally obligated to do).</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>交易痕迹是没办法被抹去的，现在他就不得不缴纳增值税了（这本是他的法定义务）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“There goes all my profit,” he complained. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我所有的利润都没了，”他抱怨到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That wasn’t true, but it irked him that he’d have to share a few hundred euros of his take with the government.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>事实没他讲得那么夸张，不过想到要与政府分享收入的几百欧元他就感到生气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cheating is so common that the few who don’t do it feel like saps. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>作弊行为如此普遍，不作弊的倒反而像傻瓜。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Among them are salaried employees who don’t have the option to hide their income. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其中就有那些领薪水的员工，他们是没有办法隐藏收入的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They must pay their ever-increasing tax bills, carrying a disproportionate share of the burden, and yet they don’t see any improvement from the government. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们必须支付不断上涨的税单，承受着不成比例的负担，而且还看不见政府有任何作为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Complaining is a social lubricant, whether it’s about the tab you escaped, or the one you paid.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>抱怨是一种社会润滑剂，不管是关于你逃掉的亦或是支付的税单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“Sixteen thousand euros, my friend, that’s the name of my pain,” an antique dealer told me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“16,000欧元啊老兄，说起这个我就肉疼，”一个古董商跟我说到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“After you pay that, nothing feels good.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“付了这些，你就哪哪都不好了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“You must have made a nice profit if your tax bill was that high,” I said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“能付这么高的税，看来赚得不错啊，”我说到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“I’m barely living,” he said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我都快活不下去了，”他说到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>IT’S TEMPTING to blame all this misbehavior on some kind of national character. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们很容易把这些不良行为归因于某种国民性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I admit at times I’ve thought that myself, but I’ve observed enough to know that it’s not that simple. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我承认有时候我自己也会这么想，但我知道事情没那么简单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A whole web of social structures undergirds bad attitudes and practices. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>整个社会结构网络从根本上加强了这些不好的态度和行为。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Historians go even deeper; they start the story with the Ottoman Empire, which dominated the region, including most of Greece, from 1453 until the end of World War I.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>历史学家研究的更为深入；他们从奥斯曼帝国开始剖析，奥斯曼帝国从1453年起至二战结束一直控制着这个地方包括希腊的大部分地区。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Greece still carries the traces of Ottoman rule, under which it chafed for four centuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊还残留着奥斯曼统治的痕迹，在这种统治下它经受了4个世纪的磨难。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sultanate in Istanbul tried to crush provincial uprisings, but was remarkably tolerant toward territories that paid their tribute and created no problems. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊斯坦布尔的苏丹王试图压制各省起义，但是对进贡不滋事的地区却相当宽容。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Ottomans ruled through a combination of neglect and stifling bureaucracy, which gave rise to a system of institutionalized bribes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥斯曼人通过放任僵化的官僚主义实行统治，渐渐形成了机构受贿的体制。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The sultan milked his provincial governors, who in turn squeezed the citizenry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>苏丹王压榨省长，省长就压榨人民。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Taxes were just another negotiable kickback.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>税收只不过是另一种可协商的佣金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>That Ottoman legacy is still alive, nearly two centuries after the first parts of Greece won independence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在离希腊首次取得独立胜利近两世纪的今天，奥斯曼的遗留问题依然存在。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Greek elites mirror the predatory habits of the sultanate, while the citizens act as if evading taxes is a heroic act of revolt against the occupier. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊官员效仿苏丹王的掠夺习惯，而市民则把逃税当成是反抗掠夺者的英雄之举。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“You know what they say about the rotten fish, don’t you? It stinks from the head,” said a restaurant owner who for most of my lifetime has avoided ringing up dinner bills at the cash register.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“你知道人们怎么形容烂鱼的吧？烂鱼都是从头开始发臭的，”一个餐馆老板如是说，我从没见过他在收银机里输入过用餐账单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Those officials and the plutocratic elite have escaped the crisis relatively unscathed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些官员和财团精英受经融危机的影响相对较小，躲过了一劫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One minister, Akis Tsochadzopoulos, who stole an obscene amount of money from defense contracts, was sentenced to 20 years in jail. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个名叫Akis Tsochadzopoulos 的部长因偷窃数额巨大的国防合同金被判有期徒刑20年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the most part, however, the rich and powerful have been left alone even as small business owners and pensioners have been squeezed by huge tax hikes and massive cuts in benefits. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但是在大多数情况下都是小公司老板和领养老金者被巨额税赋压榨同时享受的福利又被大幅削减，而有钱有势的人却安然无恙。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the vast numbers of Greeks in that category, it’s hard to appreciate why they should be more accountable than the government itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以对大部分希腊普通老百姓来说，他们很难理解为何自己要比政府更负责任。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even the new tax inspectors sometimes turn out to be on the take, shopowners say, offering to take a bribe in exchange for a lower fine that goes to the treasury.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时候即使是税务稽查员也会收取贿赂，店主说到，他们收取贿赂就会给你少开充公的罚单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After Greece instituted tax hikes, demonstrators rallied outside Parliament against the increases, claiming that they were being driven out of business.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>希腊开始增税后，示威者到国会大厦外游行抗议加税，声称他们生意已经难以维系。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Suspicion breeds suspicion, and everyone has a horror story. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>怀疑滋生怀疑。每个人都有一个故事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A doctor who is a family acquaintance told me that he used to be a model citizen, declaring all his income and scrupulously paying taxes. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>家中的一名旧识是一个医生，他跟我说，以前他堪称模范市民，所有收入全部上报，该交的税一分不少。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then, he said, some years ago he was hit with a huge bill by the tax inspector.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>结果，几年前的某天税务稽查员却给他开了一张大额的罚单。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“We know you hide 40 percent of your income,” the inspector told him. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们知道你肯定隐瞒你40%的收入，”稽查员跟他说到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“So we’ve charged you accordingly.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“所以我们罚你也是有理有据的。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The doctor promptly stopped reporting his full income, and has been strategically lowballing it ever since.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这名医生赶紧停止全部上报自己的收入，从那之后开始通过种种方法报低收入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Academic economists have been fascinated by the persistence of Greek corruption since the reforms. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>改革后的希腊居然还能持续腐败着实让学术经济学家百思不得其解。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Yannis Ioannides, an economist at Tufts University, and Costas Azariadis, an economist at Washington University in St. Louis, surveyed the topic for a forthcoming book published by MIT. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>塔夫斯大学的经济学家Yannis Ioannides和圣路易斯华盛顿大学的经济学家Costas Azariadis在一本即将由麻省理工学院出版的书中调研了该话题。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In it, they offer suggestions on stanching the corruption: they’d like to see the government mount a genuine effort to punish wrongdoers at the top, coupled with a robust new independent watchdog agency to catch tax cheats and embezzlers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>书中他们提出了一些遏制腐败的建议：首先他们希望政府能够切实增加对违反法律者的惩罚力度，新设强健独立的监督机构用以监管逃税者和盗用公款者。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Still, they’re not optimistic these measures would change what they call “the entire value system of nihilism and antisocial behavior that parents and schools have allowed to percolate through Greek society.” </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过，他们对于这些措施是否能改变他们口中的“无政府主义的整套价值体系以及父母和学校任由其渗透整个希腊社会的反社会行为”并不乐观。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Research has shown that Greece’s culture of mistrust and cheating is far more extreme than anywhere in Europe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>研究表明，希腊的怀疑和作弊文化比欧洲任何国家都来得极端。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>According to surveys, 80 percent of Greeks believe it’s all right to claim government benefits to which they are not entitled, while 20 percent disapprove. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>据调查，80%的希腊人认为要求政府提供他们并无权享有的福利没有任何问题，只有20%的人不同意这么做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In most of Europe, the ratio is almost exactly flipped.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>而在大部分欧洲国家，这两者的比例几乎是反过来的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A look around the world doesn’t offer much inspiration that corrupt cultures can mend their ways. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纵观全球也未能给治理腐败文化带来任何灵感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been some successes: </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也有一些成功的例子：</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>New York’s Tammany Hall was once synonymous with total corruption. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>纽约的坦幕尼协会曾经一度就是腐败的代名词。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So were Hong Kong and Singapore. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有香港和新加坡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Time and reform turned them into models of efficiency, relatively speaking, though the latter two are notably undemocratic today. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>相对而言，虽然后两者是非民主国家，但从所用时间以及改革措施来看，它们堪称效率模范。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More common are the kinds of marginal improvements seen in places like Rwanda or the former Soviet republic of Georgia, where reformers have steadily improved police, courts, and some other government services but where graft, bribery, and inefficiency are still serious problems.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>比较常见的情况是诸如卢旺达或者格鲁吉亚苏维埃社会主义共和国采取的边际改进，虽然改革者稳步提高警察、法院和其他政府服务质量，但是贪污、受贿和低效等问题依然严重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some observers argue that Greece’s economic near-death experience wasn’t deadly enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有的观察家认为，希腊濒临死亡的经济还死得不够透。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“People didn’t starve in the streets,” said Yiannis Vlahos, a surgeon who also writes a column for Estia, one of Greece’s oldest newspapers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“人们还没体验过什么是‘路有冻死骨’，” Yiannis Vlahos说到，他是一名外科医生，同时也是Estia（希腊历史最悠久的报纸之一）的专栏作家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>“We didn’t suffer enough. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们遭受的苦难还不够深重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now things are a little better and everyone thinks they got away with it.”</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在事情开始有点好转人们就以为他们已经摆脱了危机。”</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

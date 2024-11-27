@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Virtual Criminology Report 2009</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>2009虚拟犯罪学报告</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Virtually Here: The Age of Cyber Warfare</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>已经来临：网络电子战争</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>CONTENTS</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>目录：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Foreword</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>前言</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Introduction</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>介绍</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Is the Age of Cyber War at Hand? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>网络信息战是否已经来临？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The Private Sector in the Crosshairs</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>站在十字准心的私营部门</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Setting the Agenda for a Public Debate on Cyber Defense Policy</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>将有关网络信息防御策略的公开辩论提上议事日程
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Moving Forward</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>进步</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Contributors</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>供稿人</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Foreword</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>序言：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>War is not a term to be tossed around lightly. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>战争不是一个可以随意被扔弃的术语。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>That is why the growing debate over cyber war has caught our attention.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>这也是逐渐增长的有关与网络信息战的辩论引起我们关注的原因。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Introduction</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>介绍：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Is the “Age of Cyber War” at hand? </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>信息战即将到来吗？</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>This year, the fifth annual McAfee Virtual Criminology Report contemplates this question and others prompted by the fact that nation-states are arming themselves for the cyberspace battlefield.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>今年，第15个年度mcafee虚拟犯罪报告关注到了这个问题，并提及到了有关国家间正在武装自己的信息空间战的领域。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since our 2007 report, when we last discussed the growing cyber threat to national security, there have been increasing reports of cyber attacks and network infiltrations that appear to be linked to nation-states and political goals.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>自从我们在2007年的报告中讨论正在增长的威胁到国家安全的信息威胁以来，越来越多的涉及到国家间和政治目标有关信息攻击和网络渗透的报告。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The most obvious of these attacks was the August 2008 cyber campaign against Georgia during the South Ossetia War. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>其中最显而易见的是2008年8月南奥赛梯发生的反对格鲁其亚的信息战役。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>We decided it was time to further examine whether cyber warfare is now a part of human conflict that we should get used to seeing more often.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>我们觉得现在是时候进一步的检查信息战是否已经成为了我们过去习以为常的人类冲突中的一部分。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Three key findings emerged:</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>三个浮现出来的重要发现：</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Although there is no commonly accepted definition for cyber war today, we have  seen nation-states involved in varying levels of cyber conflict. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>尽管今天还没有一个针对信息战的普遍接受的信息战定义，但是我们可以看到国家间正在卷入各类不同级别的信息冲突之中。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Further, while we have not yet seen a “hot” cyber war between major powers, the efforts of nation-states to build increasingly sophisticated cyber attack capabilities, and in some cases demonstrate a willingness to use them, suggests that a “Cyber Cold War” may have already begun.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>深入来看，在我们还没有看到在主要的力量之间的比较“热”的信息战的同时，国家间建立越来越高精尖的信息战能力的努力，以及在一些事例自动自发使用信息战的范例，说明“电子冷战”也许已经开始了。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If a major cyber conflict between nationstates were to erupt, it is very likely that the private sector would get caught in the crossfire. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>如果国家间爆发一场大规模的信息冲突，很有可能是交叉火力中的牺牲品。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Most experts agree that critical infrastructure systems—such as the electrical grid, banking and finance, and oil and gas sectors— are vulnerable to cyber attack in many countries. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大多数专家认同一些非常重要的基础系统，比如说电力网络，银行以及金融和石油以及天然气部门面对信息攻击都是很脆弱的，针对大部分国家都是如此。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some nation-states are actively doing?reconnaissance to identify specific vulnerabilities in these networks. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些国家正在积极的进行勘察以期在这些系统中找出具体的薄弱点。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>In the words of one expert, nation-states are “laying the electronic battlefield and preparing to use it.”</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一位专家声称，各国正在瞄准电子战领域并准备使用它。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Too much of the debate on policies related to cyber war is happening behind closed doors. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大量的有关信息战的策略的讨论正在幕后进行着。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Important questions, such as where to draw the line between cyber espionage and cyber war, are being discussed in private, or perhaps not at all. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>一些重要的问题，比如如何界定信息间谍活动和信息战之间的区别，正在私下讨论，或者还没有讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Many governments have chosen to keep debate on cyber conflict classified. </seg></tuv>
+<tuv xml:lang="zh-CN"><seg>大部分政府都选择保持针对分级的信息冲突的讨论。</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Since governments, corporations and private citizens all have a stake in the future of the Internet, it is time to open a global dialogue on how to manage this new form of conflict.</seg></tuv>
+<tuv xml:lang="zh-CN"><seg>当政府，企业，以及市民都和互联网的未来有着利益关系时，就是开展全球有关如何管理这种新形式的冲突的讨论的时候了。</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160826T153304Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Star</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这颗恒星的死亡</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is three thousand light-years to the Vatican. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这里距离梵蒂冈（译者注：罗马天主教教皇所在地）三千光年。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once, I believed that space could have no power over faith, just as I believed the heavens declared the glory of God's handwork. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经我相信，宇宙无法战胜人的信念，就如同我曾相信天空是上帝造物荣光的昭示一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now I have seen that handiwork, and my faith is sorely troubled. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在我已亲眼见过了上帝的作品，我曾经的信条被强烈而痛苦地动摇。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I stare at the crucifix that hangs on the cabin wall above the Mark VI Computer, and for the first time in my life I wonder if it is no more than an empty symbol.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我凝视着那个挂在舱壁上，就在马克六代计算机上方的带有耶稣受难像的十字架。生命中头一次，我疑惑着，这十字架是否只不过是个空洞的象征。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have told no one yet, but the truth cannot be concealed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我还没有把这些告诉其他人。然而真理无法被掩埋。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The facts are there for all to read, recorded on the countless miles of magnetic tape and the thousands of photographs we are carrying back to Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数据就在那里供人解读，它们被记录在我们将要带回地球的长长的磁带以及数千张照片上。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Other scientists can interpret them as easily asI can, and I am not one who would condone that tampering with the truth which often gave my order a bad name in the olden days.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>其它科学家们十有八九都比我更能够轻易地解读这些数据。我不能容忍真理被曲解——曾经，类似的曲解常常把我所属的群体冠以恶名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The crew were already sufficiently depressed: I wonder how they will take this ultimate irony. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太空舱的工作人员们已经够沮丧了。他们居然能承受这种天大的讽刺。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Few of them have any religious faith, yet they will not relish using this final weapon in their campaign against me- that private, good-natured, but fundamentally serious war which lasted all the way from Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们倒也没什么宗教信仰，但他们也不会享受在与我的对抗中使用这种终极武器——那场私下的、形式温和但本质严肃的从地球一路持续而来的对抗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It amused them to have aJesuit as chief astrophysicist: Dr. Chandler, for instance, could never get over it. (Why are medical men such notorious atheists?) </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们觉得我这样的基督徒能成为首席天体物理学家是件可笑的事情，比如钱德勒博士就始终对此耿耿于怀（为什么医学领域的家伙们都是人见人烦的无神论者？）。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes he would meet me on the observation deck, where the lights are always low so that the stars shine with undiminished glory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时他会在瞭望台上和我碰见，那里光线微弱，因此星辰持续闪耀出壮丽的光辉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He would come up to me in the gloom and stand staring out of the great oval port, while the heavens crawled slowly around us as the ship turned over and over with the residual spin we had never bothered to correct.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>黑暗中他向我走来，然后站住，远远凝视着飞船巨大的椭圆形左舷，与此同时，飞船以我们懒得修正的剩余自旋误差倾覆地旋转着，天空慢慢移近我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Well, Father," he would say at last, "it goes on forever and forever, and perhapsSomething made it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“嗯，神父，”最后他会说，“宇宙是永恒的，也许有什么东西创造了它。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But how you can believe that Something has a special interest in us and our miserable little world- that just beats me." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但你居然相信有什么东西对我们以及我们那可怜的小世界有特殊的兴趣。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then the argument would start, while the stars and nebulae would swing around us in silent, endless arcs beyond the flawlessly clear plastic of the observation port.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我就是无法接受这一点。”然后我们开始争辩，恒星和星云在一旁静静摇曳。透明无暇的塑料瞭望窗外，弧光也不断闪现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was, I think, the apparent incongruity of my position that cause most amusement among the crew. In vain I pointed to my three papers in the AstrophysicalJournal, my five in the Monthly Notices of the Royal Astronomical Society. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我想他们感到可笑，一定是因为他们认为我明显与自己的职位不匹配，即使拿出我在《天体物理学杂志》上发表的三篇论文以及五篇发表在皇家天文学会的每月评介中的论文，也是徒然。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I would remind them that my order has long been famous for its scientific works. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我应提醒他们，我们群体所贡献的科学成果已久负盛名。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We may be few now, but ever since the eighteenth century we have made contributions to astronomy and geophysics out of all proportion to our numbers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们这种人现在也许不多了，但我们是自从十八世纪开始就为天文学和地球物理学做出了大量贡献的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Will my report on the Phoenix Nebula end our thousand years of history? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的关于凤凰星云的报告会结束我们（注：指天主教）一千年的历史吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It will end, I fear, much more than that.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我惧怕，它会结束，甚至会比结束还要可怕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I do not know who gave the nebula its name, which seems to me a very bad one.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不知道谁给凤凰星云起了这么个不好的名字。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If it contains a prophecy, it is one that cannot be verified for several billion years. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果它包含一个预言，那也是个几十亿年也无法被证实的预言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even the word "nebula" is misleading; this is a far smaller object than those stupendous clouds of mist- the stuff of unborn stars- that are scattered throughout the length of the MilkyWay. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>甚至“凤凰”这个词极具误导性，凤凰是与巨大的星云本身相比小得无法估量的东西，而星云与散落整个银河系的未形成恒星的众多物质和宏大宇宙相比也只是微乎其微。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the cosmic scale, indeed, the Phoenix Nebula is a tiny thing- a tenuous shell of gas surrounding a single star.Or what is left of a star. . .</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>凤凰星云只是一颗恒星旁边脆弱的“气态外壳”，抑或是一颗恒星灭亡后形成的残余......</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Rubens engraving of Loyola seems to mock me as it hangs there above the spectrophotometer tracings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>挂在分光光度计（注：用分光谱光度法分析物质的仪器）上方的那幅当年由鲁本斯描绘的圣像似乎也在嘲讽着我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>What would you, Father, have made of this knowledge that has come into my keeping, so far from the little world that was all the Universe you knew? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>造物主啊，你凭什么创造出了我所信仰的这一切真实，在地球那个小世界中创造出了你认为自己知道的宇宙？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would your faith have risen to the challenge, as mine has failed to do?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的信念崩溃了，而造物主啊，你的信念还可能高于这宏大现实的挑战之上吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You gaze into the distance, Father, but I have traveled a distance beyond any that you could have imagined when you founded our order a thousand years ago. No other survey ship has been so far from Earth: we are at the very frontiers of the explored Universe. We set out to reach the Phoenix Nebula, we succeeded, and we are homeward bound with our burden of knowledge. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所谓的造物主啊，你的视野是渺小的。但是我现在到达的却是你一千年前创立教义时远远无法想象的、其它太空舰都没能到达的最远距离，我们到了已探索过宇宙的“边缘”，我们成功到达了凤凰星云，现在带着我们所知获的沉重的一切，正踏上返程，终点是地球母星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I wish I could lift that burden from my shoulders,but I call to you in vain across the centuries and the light-years that lie between us.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我很难承受这样的真实，我曾经的信仰崩溃了，我徒然地想要穿过无穷光年和数个世纪呼唤你。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On the book you are holding the words are plain to read. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在你留下的典籍上明明白白地写着“为神的无上荣耀（注：原文为拉丁语，对应的英文为For the greater glory of God）”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>AD MAIOREM DEIGLORIAM, the message runs, but it is a message I can no longer believe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这所谓的真理流传着，而我已无法继续信仰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Would you still believe it, if you could see what we have found?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>万能的造物主啊，若你能亲眼看到我们的发现，你还会相信你创设出的一切吗？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We knew, of course, what the Phoenix Nebula was. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当然，我们知道凤凰星云是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Every year, in our Galaxy alone, more than a hundred stars explode, blazing for a few hours or days with hundreds of times their normal brilliance until they sink back into death and obscurity. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>每年单单在我们星系就有一千多颗恒星爆炸，于是这些恒星在陷入沉寂灰暗之前，闪耀出的是持续数小时或者几天的千倍于恒星正常亮度的强烈光芒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Such are the ordinary novas- the commonplace disasters of the Universe. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但这也只是茫茫宇宙中一桩常见的小事。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I have recorded the spectrograms and light curves of dozens since I started working at the Lunar Observatory.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一直以来我在月球天文台工作记录下来的光谱图像和光变曲线（注：天体相对于时间的亮度变化图形）有好些打。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But three or four times in every thousand years occurs something beside which even a nova pales into total insignificance.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但每隔一千年，都会发生三四次比新星（注：天文词汇）诞生还要重大得多的事情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When a star becomes a supernova, it may for a little while outshine all the massed suns of the Galaxy. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在一颗恒星化为超新星的瞬间，它的光芒可能盖过一个星系的所有恒星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Chinese astronomers watched this happen in A.D. 1054, not knowing what it was they saw. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中国的天文学者在公元1014年发现并记录下了这个当时他们看不懂的天象。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Five centuries later, in 1572, a supernova blazed inCassiopeia so brilliantly that it was visible in the daylight sky. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五个世纪后的1572年，仙后座的一颗超新星的爆发十分明亮，甚至在当时白天就能被观察到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>There have been three more in the thousand years that have passed since then.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此后的一千年里，还有三次超新星的爆发被记载。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our mission was to visit the remnants of such a catastrophe, to reconstruct the events that led up to it, and, if possible, to learn its cause. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们此行的任务是去拜访一次超新星爆发灾难后的残局并尝试了解这颗超新星爆发的前因后果。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We came slowly in through the concentric shells of gas that had been blasted out six thousand years before, yet were expanding still. They were immensely hot, radiating even now with a fierce violet light,but were far too tenuous to do us any damage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们慢慢地穿过六千年前爆发形成而仍在扩散的气态云体，它仍残留着高温、辐射和强烈的紫色光，不过远远不会毁坏我们的太空舰和舱室。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When the star had exploded, its outer layers had been driven upward with such speed that they had escaped completely from its gravitational field. Now they formed a hollow shell large enough to engulf a thousand solar systems, and at its center burned the tiny, fantastic object which the star had now become- a White Dwarf, smaller than earth, yet weighing a million times as much.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当年爆炸时，恒星的最外层成分由于高速均已脱离这个星云系的引力场，如今它们已形成足以包围一千个恒星系的空壳，恒星的中心熔为了神奇的比地球小得多却重上一百万倍的白矮星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The glowing gas shells were all around us, banishing the normal night of interstellar space. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>散发出光热的气壳掩盖了宇宙中的微光，包围着我们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were flying into the center of the cosmic bomb that had detonated millennia ago and whose incandescent fragments were still hurtling apart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们正向一颗已于千年前引爆而炽热碎片仍持续飞散的炸弹中央飞去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The immense scale of the explosion, and the fact that the debris already covered a volume of space many millions of miles across, robbed the scene of any visible movement. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爆炸范围之大以及其碎片覆盖范围之广剥夺了我们对飞船移动的空间感。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It would take decades before the unaided eye could detect any motion in these tortured wisps and eddies of gas, yet the sense of turbulent expansion was overwhelming.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>处于这种势不可挡的气旋混乱扩张之中，肉眼需要几十年的时间才分辨得出任何移动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We had checked our primary drive hours before, and were drifting slowly toward the fierce little star ahead. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数小时之前我们检查完毕主驱动机，朝着眼前凶悍的小白矮星缓缓行进。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Once it had been a sun like our own, but it had squandered in a few hours the energy that should have kept it shining for a million years. Now it was a shrunken miser, hoarding its resources as if trying to make amends for its prodigal youth.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>曾经它是如同我们的太阳一样的存在，如今它已在几个小时内挥霍了足以让它继续闪耀百万年的能量，变成了现在的一颗自我囤积的似乎想补偿自己曾经挥霍过的青春辉煌的小东西，如同一位风烛残年的守财奴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No one seriously expected to find planets. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此前全体船员都没有期待过我们能在这发现行星。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If there had been any before the explosion, they would have been boiled into puffs of vapor, and their substance lost in the greater wreckage of the star itself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为即使超新星爆炸前有过行星，它们也该被销熔成烟气，余物也随超新星爆炸的庞大残骸飘散开来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But we made the automatic search, as we always do when approaching an unknown sun, and presently we found a single small world circling the star at an immense distance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而当我们启动了常规的自动搜寻时，不一会竟发现了一个小小的天体以超长的轨道远远地绕着白矮星旋转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It must have been the Pluto of this vanished SolarSystem, orbiting on the frontiers of the night. Too far from the central sun ever to have known life, its remoteness had saved it from the fate of all its lost companions.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那么它一定是位于这个几乎消失的太阳系边缘的冥王星了——寒冷、黑暗、了无生机，却也因漫长距离的福荫，得以在爆炸浩劫中生还。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The passing fires had seared its rocks and burned away the mantle of frozen gas that must have covered it in the days before the disaster. We landed, and we found theVault.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>爆炸的炽热火光烧灼了这颗星的岩石地表，也把原本冰冷的行星外壳销毁，于是我们得以在这颗行星上着陆，然后，我们竟找到了这个星系的生命墓穴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Its builders had made sure that we should. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>它的建造者们不遗余力地确保了我们的发现。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The monolithic marker that stood above the entrance was now a fused stump, but even the first long-range photographs told us that here was the work of intelligence. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>尽管入口上方的巨大标志成为一个熔化后的残骸，我们还是在第一次远距离图像上就发现了这里是文明的标志。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A little later we detected the continent-wide pattern of radioactivity that had been buried in the rock. Even if the pylon above theVault had been destroyed, this would have remained, an immovable and all-but eternal beacon calling to the stars. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后我们检测到整块陆地的地表内部都存在放射信号，即使墓穴上方的标塔被毁坏了，这种全面而永久的放射也是一种向全宇宙召唤的稳妥信号。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our ship fell toward this gigantic bull's eye like an arrow in to its target.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的飞船降落在牛形巨大残骸的眼部，像是落在靶心的箭头。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The pylon must have been a mile high when it was built, but now it looked like a candle that had melted down into a puddle of wax. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这座标塔当年一定有一英里高，但现在它的样子如同蜡烛熔化成了一摊蜡。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It took us a week to drill through thefused rock, since we did not have the proper tools for a task like this. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们没有适用的工具，因此花费了一周时间去钻探这熔化的岩石遗迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We were astronomers, not archaeologists, but we could improvise. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽说我们是天文工作者而不是做考古的，我们可以即兴工作。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our original purpose was forgotten: this lonely monument, reared with such labor at the greatest possible distance from the doomed sun, could have only one meaning. A civilization that knew it was about to die had made its last bid for immortality.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>原本的计划项目被抛诸脑后。这个孤寂地位于爆发过的恒星星系最远的边界上的，花费了如此精力而建造出来的遗迹，只能说明一件事，即一个已知自身将要灭亡的文明为了永存，努力留下了最后的痕迹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It will take us generations to examine all the treasures that were placed in theVault. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>墓穴里留下的来自这个文明的所有宝贵财富将穷尽我们几代人的精力方能探索完毕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They had plenty of time to prepare, for their sun must have given its first warnings many years before the final detonation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们有很多时间准备，因为他们的恒星在最后的爆发的多年前已经作出了预示。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Everything that they wished to preserve, all the fruits of their genius, they brought here to this distant world in the days before the end, hoping that some other race would find it and that they would not be utterly forgotten.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们希望为遥远后世留下这不计其数的智慧产物，以令后世记住他们的文明光辉。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If only they had had a little more time! </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果他们有更多的时间该多好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They could travel freely enough between the planets of their own sun, but they had not yet learned to cross the interstellar gulfs,and the nearest Solar System was a hundred light-years away. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们已经可以自由地在星系中的行星间穿梭，可惜他们还没来得及学会跨星系的探索。离他们最近的星系在一百光年以外的远处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Even if they had not been so disturbingly human as their sculpture shows, we could not have helped admiring them and grieving for their fate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>即使他们并不像他们留下的艺术品所展示的那样动人至深，我们也一样无法遏制对他们的敬意和对他们悲惨命运的深切同情。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They left thousands of visual records and the machines for projecting them, together with elaborate pictorial instructions from which it will not be difficult to learn their written language. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们留下了数以千计的影像记录和用以播放它们的设备，连同用以掌握他们的文字的精美的图文说明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have examined many of these records, and brought to life for the first time in six thousand years the warmth and beauty of a civilization that in many ways must have been superior to our own. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们通览了这些遗产，六千年来首次，在我们眼前似乎活生生地展现出一个温暖美好的比我们先进得多的文明种族。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps they only showed us the best, and one can hardly blame them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许他们只展示出了最好的一切，那也无可厚非。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But their worlds were very lovely, and their cities were built with a grace that matches anything of man's. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的世界如此美妙，城市和我们的如此相似而相通。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We have watched them at work and play, and listened to their musical speech sounding across the centuries. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>影像记录着他们工作玩乐，我们也听到他们几个世纪前的音乐般的美妙语言。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>One scene is still before my eyes- a group of children on a beach of strange blue sand, playing in the waves as children play on Earth.Curious whiplike trees line the shore, and some very large animal is wading in the shallows, yet attracting no attention at all.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>还有个场景让我印象深刻，那是他们的儿童在蓝色的沙滩上，如同地球上的儿童一样，在海浪中欢乐嬉戏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And sinking into the sea, still warm and friendly and life-giving, is the sun that will soon turn traitor and obliterate all this innocent happiness.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>暮色沉沉，恒星带着温暖而友善，充满生机的光辉消失在海平面，而也正是同一颗恒星，它很快就会无情地抹杀和终结此前的一切美好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps if we had not been so far from home and so vulnerable to loneliness, we should not have been so deeply moved. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许，如果我们大家并没有离母星这样远并易感孤单，我们就不会被深深打动。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of us had seen the ruins of ancient civilizations on other worlds, but they had never affected us so profoundly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们中的很多人都见过其他一些古文明的遗产，但那些带给我们的震动都远不如这一次深刻。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This tragedy was unique. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们头一次遇到这样的悲剧，特别的悲剧。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is one thing for a race to fail and die, as nations and cultures have done on Earth. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一个种族无力而消亡，纵览我们地球的各国家和文化，这样的事情也不是没发生过。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But to be destroyed so completely in the full flower of its achievement, leaving nosurvivors- how could that be reconciled with the mercy of God?</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而像这一种，文明成就尽数被毁，人民无一生还。这怎能符合所谓上帝的仁慈？</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My colleagues have asked me that, and I have given what answers I can. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我的同事们这样问过我，我尽力回应了他们。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Perhaps you could have done better, Father Loyola, but I have found nothing in the Exercitia Spiritualia that helps me here. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许换你来回答，你会比我更好，我的造物主。然而我是给不出站得住脚的论据的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They were not an evil people: I do not know what gods they worshiped, if indeed they worshiped any. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们不是邪恶的物种，我也不知道他们可能具备什么样的信仰。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

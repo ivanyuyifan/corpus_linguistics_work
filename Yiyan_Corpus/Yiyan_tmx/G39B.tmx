@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160124T074406Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang: 'I'd play the piano at 5am'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>朗朗：我每天早上5点练琴</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Lang Lang was nine, his father told him to kill himself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗九岁时，他爸爸让他自杀。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Four years before, his father had decided that his only son should become the No 1 classical pianist in China. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>四年前，他爸爸决心使自己的独生子一定要成为中国第一的古典钢琴家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He gave up his job as a policeman and took his son to live in Beijing, leaving Lang Lang's mother behind, planning to get the child into the prestigious Central Conservatory of Music.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为此他辞去警察的工作，带着儿子住在北京，郎朗的妈妈被冷落在一边，这一切就是希望让孩子进入著名的中央音乐学院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>However, his teacher in Beijing, nicknamed Professor Angry by Lang Lang, had other ideas. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然而，他北京的老师，郎朗给他起外号叫生气教授的，有别的想法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Professor Angry didn't like me and she always gave me a hard time," he remembers. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“生气教授不喜欢我，总是让我不好过，”他回忆到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"One afternoon she said that I had no talent, that I shouldn't play the piano and I should go home. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“一天下午，她说我没有天分，我不应该弹钢琴，应该回家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She basically fired me before I could even get into the conservatory!"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她基本是在把我扼杀在摇篮中！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Unbelievably, when Lang Lang's father heard the news, he demanded that the boy take his own life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当郎朗的爸爸听到这个消息后觉得难以置信，他要求儿子选择自己的人生。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's really hard to talk about. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很难描述。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father went totally nuts," says Lang Lang quietly. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸爸彻底疯了，”郎朗平静地说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"He said: 'You shouldn't live any more - everything is destroyed.'</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“他说，‘你不该再活下去了-一切都毁了。’</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>" The father handed his son a bottle saying, "Take these pills!" </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>”爸爸给儿子一个瓶子，说：“把这些药吃了！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Lang Lang ran out on to the balcony to get away from him, his father screamed: "Then jump off and die."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当郎朗跑到阳台上以躲避他，他爸爸尖叫道：“跳下去，死吧！”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I got totally crazy too," says Lang Lang. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我也完全疯了，”郎朗说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I was beating the wall, trying to prevent myself from being a pianist by destroying my hands. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我使劲捶墙，为了毁了自己的手，这样就不用当钢琴家了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I hated everything: my father, the piano, myself. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我恨一切：我爸，钢琴，自己。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I went nuts too. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我也疯了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And then somehow, we just stopped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后忽然，我们都停下来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father went out or I ran out - I can't remember, but somehow we stopped. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也忘了是我爸先走出来的还是我先出来的，反正不知为何，我们停下来了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After that I didn't want to play piano any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从那时起我再也不想弹钢琴了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I said, "OK, fine. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我说，‘行，好。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Let's go home.'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>咱们回家。’”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now 28, Lang Lang has surpassed his father's ambition. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现年28岁的郎朗超越了他爸爸的野心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The musician's recitals and concerts sell out in every major city in the world and he is the first Chinese pianist to be engaged by the Vienna and Berlin philharmonic orchestras.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这位音乐家的独奏会和音乐会在世界各大城市一售而空，他是第一位维也纳和柏林交响乐团管弦乐队邀请的中国钢琴家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang has played to President Obama at the White House and before a global audience of billions at the opening of the Beijing Olympic Games in 2008. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗在白宫为奥巴马总统演奏，在2008年北京奥运会开幕式时为亿万观众演奏。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The "Lang Lang effect" is credited with inspiring China's 40 million classical piano students and, in 2009, he was listed in Time Magazine's 100 Most Influential People in the World. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗效应鼓舞了中国4千万学习古典钢琴的学生。2009年他名列时代杂志百名最具影响力的人物排行榜中。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>His name, Lang Lang, has even become a trademark.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他的名字“郎朗”甚至成为商标被注册。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Now the pianist is based in New York and lives a rock star lifestyle, but he began his career in a Beijing slum under a super-strict regime of practice overseen by his unforgiving father, Lang Guoren. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在这位钢琴家定居于纽约，过着一种摇滚明星的生活，但是他是在北京的贫民窟里，在他严格的父亲郎国任的监视下异常严厉的不断练习中开始他的职业生涯的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang explains: "I started lessons when I was three and a half. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗解释道：“我三岁半开始学钢琴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the beginning I just played a little but, when I was five, I played my first recital, and from that point my parents had high hopes for me; especially my father."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>开始只是弹弹，五岁时我第一次开独奏会，从那开始，我父母对我寄予厚望；尤其是我爸爸。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang's parents are from Shenyang, an industrial city north-east of Beijing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗父母来自沈阳，北京东北方向的一个工业城市。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They married at the end of the cultural revolution. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们在文革末结婚。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang says: "People were starting to connect with the west, and the piano was becoming an important instrument. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗说：“那时人们刚开始接触一些西方的东西，钢琴也逐渐成为一种重要的乐器。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother had always wanted to be a musician and my father played in the air force orchestra before the budget was cut and he had to become a policeman. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈总是想成为一名音乐家，我爸爸在空军交响乐团工作，但后来国家裁军，他只好当了一名警察。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My parents bought our piano before I was born - it cost half their annual salary."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我父母在出生前就买了钢琴——它花了他们年薪的一半。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Born during China's one-child policy (which is still in operation), the young musician became his parents' sole focus. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在中国独生子女政策下出生（现在这个政策仍在推行），这位年轻的音乐家成了他父母唯一的关注点。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Lang Lang was nine, his father and his piano teacher decided that he must leave Shenyang for Beijing, home of the Central Conservatory of Music. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当郎朗九岁时，他父亲和钢琴教师决定他必须离开沈阳去北京，中央音乐学院的所在地。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>If his father had been strict before, he soon became a lot harder.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果说他父亲以前对他很严格的话，那么从此后他变得更严格了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang explains: "My father quit his job as a policeman and we went to Beijing. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗解释道：“我爸爸辞掉警察的工作，我们去了北京。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My mother didn't come - she needed to earn money for us. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我妈妈没去——她需要为我们赚钱。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Twenty years ago, the trains from Shenyang to Beijing were slow and took a whole day or night. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20年前，从沈阳到北京的火车很慢，要一整整一天或加上一晚的时间。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As we had to save money, my mum couldn't always come to see me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>因为我们必须节省钱，我妈妈就不能总来看我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I really missed her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我非常想她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was a bad time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时是最糟糕的时候。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I didn't want to leave my home town where I had my friends, relatives, my mum and our little apartment."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我不想离开家乡，亲友，我妈妈和我们的小公寓。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang and his father rented a room in a slum where five families shared one sink and one toilet. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗和他的父亲在贫民区租了一间屋子，那里五户人共用一个洗漱间和一个厕所。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Their room was furnished with their piano and a bunk bed. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们的房间里摆着钢琴和一个双层的上下床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We rented the cheapest place in a bad neighbourhood," says Lang Lang. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们在一个不好的地方租了最便宜的地方，”郎朗说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The walls were thin - almost like paper - and the neighbours were pissed off because I practised at 5am. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“墙壁很薄，几乎像纸一样薄，邻居经常发火因为我在早上五点练琴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They would throw punches at our door and I was scared that I would get beaten up."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们会猛敲我们的门，我很害怕，几乎要崩溃了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In Beijing, Lang Lang's father had to be both mother and father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在北京郎朗的父亲不得不既当爸又当妈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang says: "He didn't like to cook or do the laundry, because my mum had always done it. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗说：“他不喜欢做饭和洗衣服，因为以前都是我妈做。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>We couldn't do much, because we only had Mum's salary and had to pay for expensive piano lessons once a week, and if there was a competition, twice a week. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们不能做太多，因为我们仅仅靠妈妈的工资生活，还得为每周一次的昂贵的钢琴课付钱。一周两次的比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It was really hard. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>太艰难了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father became strict and strange. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸爸变得非常严厉并且古怪。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the morning I practised for one hour, and after school I practised the whole afternoon and early evening and then I would do homework. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>早上我练一小时，上完学我练整个下午和傍晚，然后再做作业。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I was practising 65% of the time. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>65%的时间都用来练琴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>My father and I always had arguments about how to play this or that. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我爸爸和我总为怎么弹而争论。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He had a very strong personality and I also have quite a strong personality, so there was a big clash. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他脾气很固执，我也很固执，所以经常发生冲突。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sometimes he hit me - not hard though, he was just trying to scare me. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>有时他打我——但不重，他只是想吓吓我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He yelled really loud too."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他发火的声音也特别大。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang's father does not understand English, but in the past, he has spoken about the way he pushed his son. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗的父亲不懂英语，但过去，他谈及他怎么推着儿子往前走。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He said: "The way I see it is, pressure always turns into motivation. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他说：“我觉得，压力总是变成动力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang is well aware that if he fails to be outstanding at playing the piano, he has nothing."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗非常清楚，如果他在弹钢琴上不能出类拨萃的话，他就什么也不是了。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang disagrees. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>郎朗不同意。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I think that attitude is wrong because there are a lot of things you can do in the world," he says. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我认为这种想法是错的，因为世界上有各种事你可以去做，”他说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"When I was nine, I didn't like my father. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我九岁时，我不喜欢我爸爸。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I knew he had dedicated his life to me, but I thought it was too much. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我知道他为了我牺牲了自己的生活，但我觉得太过了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I found the pressure unnecessary because I was a workaholic from the very beginning. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我觉得没必要给我这些压力，因为我从开始就一直很努力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I could understand if I was lazy and didn't care, but I didn't need that kind of push, because I knew what I wanted."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果我很懒或不上心的话，我可以理解，但我不需要他的逼迫，因为我知道我想要什么。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Indeed, the musician has always had as much faith in himself as his father has. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>确实，这个音乐家一直对自己有信心，像他父亲一样。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But it was after Professor Angry had told Lang Lang some home truths, that the boy's relationship with his father hit an all-time low. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但当生气教授告诉郎朗那令人难以接受的评价时，这个男孩和他父亲的关系空前的糟糕。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But they did not return to Shenyang afterwards. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>但他们后来没有返回沈阳。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"For three months, I didn't touch the piano," says Lang Lang. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“整整三个月我没碰琴，”郎朗说。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We stayed in Beijing, I don't know why. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我们呆在北京，我不知道为什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Probably because having to go home would have resulted in shame for us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>也许因为回家对我们来说意味着耻辱。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then one day at school, his fellow students hectored Lang Lang into playing some Mozart. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>一天在学校，他的同学捉弄郎朗弹莫扎特。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He laughs: "They asked me to play, and I said no, I don't play any more. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他笑着说：“他们叫我弹，我说不，我不再弹琴了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then they just applauded and applauded. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>然后他们一遍遍的鼓掌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>They gave me a score and forced me to play. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他们给我一个乐谱强迫我弹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I started and realised that I actually loved to play the piano. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我开始弹，然后意识到我真的热爱弹琴。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So I went home and told my father, 'Find me another teacher, I'd like to play again.'"</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>所以我回家告诉我爸爸，‘再找一个老师，我还想弹琴。’”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>So began 19 months of intensive practice as father and son redoubled their attempts to get Lang Lang into the conservatory. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他开始了19个月的密集练习，父子俩都更努力使郎朗进入中央音乐学院。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Finally, when Lang Lang was 10, he was admitted on a full scholarship. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>最终，当郎朗十岁时，他得到全额奖学金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lang Lang and his father remained in their slum until he was 15, when they left for America to continue his studies in Philadelphia.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他和父亲一直在贫民区呆到他15岁，接着去了美国费城继续深造。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

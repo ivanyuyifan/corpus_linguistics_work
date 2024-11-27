@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160111T120444Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Betty Ford, Former First Lady, Dies at 93 </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>前第一夫人贝蒂福特逝世，享年93岁</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Betty Ford, the outspoken and much-admired wife of President Gerald R. Ford who overcame alcoholism and an addiction to pills and helped found one of the best-known rehabilitation centers in the nation, died Friday in Rancho Mirage, Calif. She was 93.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坦率直言、备受爱戴的福特总统夫人，周五在Rancho Mirage逝世，享年93岁。她曾克服酗酒和药物上瘾的恶习，帮助创建全美最有名的康复中心之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her death was confirmed by Chris Chase, Mrs. Ford's biographer.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特夫人的传记作者Chris Chase确认了这一消息。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The news of her death at Eisenhower Medical Center brought statements of condolence from President Obama, former Presidents George Bush, George W. Bush and Jimmy Carter, and Nancy Reagan, the former first lady.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>奥巴马总统、前总统布什和小布什，吉米卡特以及前第一夫人南希里根都对她的死致以唁电。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"She was Jerry Ford's strength through some very difficult days in our country's history," Mrs. Reagan said, "and I admired her courage in facing and sharing her personal struggles with all of us."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“她支撑杰瑞福特走过我们国家历史上一些非常艰难的岁月，我敬佩她和我们一起面对和共同承担困境的勇气。”里根夫人评价她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Few first ladies have been as popular as Betty Ford, and it was her frankness and lack of pretense that made her so. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>很少有像她一样受人爱戴的第一夫人，这都是因为她的坦率和不屑伪装。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She spoke often in support of the Equal Rights Amendment, endorsed legalized abortion, discussed premarital sex and revealed that she intended to share a bed with her husband in the White House.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她多次公开支持平等权利修正案，支持合法堕胎，发表对婚前性行为的意见，甚至透露她和丈夫在白宫睡同一张床。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When her husband's voice failed him the morning after he was defeated by Jimmy Carter in 1976, it was she who read the official concession statement with smiling grace. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1976年的那个清晨，当福特在大选中输给吉米卡特后无法做到镇定的发表失败演讲，,是她面带得体的微笑宣读了官方竞选失败声明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when Mr. Ford died in December 2006, it was Mrs. Ford who announced his death. The six days of national mourning returned her to a spotlight she had tried to avoid in her later years, living in Rancho Mirage, Calif., a golf community southeast of Palm Springs, and tending to her clinic there, the Betty Ford Center.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特于2006年12月去世的时候，也是她宣布了丈夫的死讯，六天的国家哀悼日把她从加州Rancho Mirage重新带到了晚年一直想要回避的聚光灯下，Rancho Mirage是棕榈泉东南部的一个高尔夫小区，她在那里打理她的诊所——贝蒂福特中心。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The country's affection for Betty Ford transcended party lines. It began in earnest slightly more than two months after Gerald Ford became president in August 1974, following President Richard M. Nixon's resignation over Watergate. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这个国家对她的感情超越了党派的界限，这段感情是在1974年8月福特接替因水门事件辞职的尼克松之后两个月多一点开始的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mr. Ford had been vice president for less than 10 months, named by Nixon to succeed Spiro T. Agnew, who had resigned in disgrace over accusations of bribery and tax evasion. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在被尼克松任命为副总统以接替因被控受贿和逃税而灰溜溜辞职的Spiro T. Agnew之后，福特只在这个位置呆了不到10个月。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>On Sept. 28, 1974, Mrs. Ford had a radical mastectomy after doctors discovered cancer in her right breast.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1974年9月28日，在被医生发现右乳房的癌症之后，福特夫人进行了一次彻底的乳房切除术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Courage Against Cancer</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>和癌症抗争的勇气</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Within days, 10,000 letters, more than 500 telephone calls, more than 200 telegrams and scores of floral arrangements poured into the White House and into her suite at Bethesda Naval Hospital. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>数天之内，10000封信件、超过500个电话以及两百多封电报和几十把鲜花如潮水般涌进白宫和她位于Bethesda 海军医院的病房。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In the months that followed, tens of thousands of American women, inspired by Mrs. Ford's forthrightness and courage in facing her illness, crowded into doctors' offices and clinics for breast-cancer examinations.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随后的几个月，成千上万名被福特夫人面对疾病的坦率和勇气所鼓舞的妇女涌进医生的办公室和诊所检测乳房癌。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>After leaving the hospital, Mrs. Ford underwent chemotherapy treatment for two years. In November 1976, her physician announced that she had made a complete recovery.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>出院后，福特夫人继续接受了两年的化疗，1976年11月，主治医生宣布她痊愈。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs. Ford was once asked if she felt sorry for herself during the trauma of losing her breast.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特夫人曾经被问到失去乳房的痛苦经历是否让她自怜自艾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"No! Oh, no heavens, no," she replied. "I've heard women say they'd rather lose their right arm, and I can't imagine it. It's so stupid. I can even wear my evening clothes." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“不，根本没有那回事，”她回答到，“我听有些人说她们更愿意失去右手，我简直不敢想象，这太愚蠢了，没有乳房我也一样可以穿晚礼服。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She advised women facing such an operation to "go as quickly as possible and get it done." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她建议要做手术的女同胞们“勇敢面对，尽快把手术搞定。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Once it's done," she said, "put it behind you and go on with your life." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“事情过去了，就别再多想了，继续过你的生活."</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Breast cancer was only one of the medical battles Mrs. Ford won.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>乳腺癌只是福特夫人战胜的众多疾病之一。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Confronting Addiction </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>勇敢面对药物上瘾</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her dependency on pills began in 1964 with a medical prescription to relieve constant pain from a neck injury and a pinched nerve. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>自从1964年因为减缓颈部伤势疼痛和神经痛而开始接受处方治疗后，她就开始对药物上瘾。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her drinking, which became troublesome as she was faced with her husband's frequent absences on political business, grew increasingly serious as Mr. Ford's Congressional career advanced. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在丈夫经常缺席一些政治活动后，她酗酒的问题也开始令人头疼，尤其在福特的政治生涯更进一步的时候这个问题就显得越发严重。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her loneliness was compounded by low self-esteem and a debilitating self-consciousness about things like her lack of a college degree.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>缺少自尊和因没有大学学位而日渐削弱的自我意识使她觉得更加孤独。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"Now I know that some of the pain I was trying to wipe out was emotional," she recalled in "Betty: A Glad Awakening" (1987), the second volume of her autobiography written with Ms. Chase. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“现在我明白一些我极力想要摆脱的疼痛是情感方面的，”她在和Chase女士一块撰写的自传第二卷“Betty: A Glad Awakening” (1987)中回忆到。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Going back to the days when her husband was a Michigan congressman and minority leader in the House of Representatives, she remembered that "on one hand, I loved being 'the wife of'; on the other hand, I was convinced that the more important Jerry became, the less important I became."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回想起当丈夫还是密西根国会议员和众议院少数党领袖的日子，她写到“一方面，我喜欢做他的妻子，另一方面，我也明白杰瑞的身份越重要，相比之下我就越发微不足道。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1978, the year after leaving the White House, her husband, children, doctors and several friends confronted her about her drinking and her abuse of pills. She refused to acknowledge that a problem existed, calling her family "a bunch of monsters," but she eventually entered the Long Beach Naval Hospital in California for treatment.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1978年在搬出白宫后，她被丈夫、孩子、医生以及几个朋友当面逼问她酗酒和滥用药物的问题，她坚决否认有这回事，还把她的家人称作“一群可怕的人”，最终她还是在加州的长滩海军医院接受治疗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Betty Ford Center, dedicated on Oct. 3, 1982, was a direct result of Mrs. Ford's victory over her alcoholism and addiction. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>建成于1982年10月3日的贝蒂福特中心，就是在福特夫人成功克服酒精上瘾和药物滥用后兴建的。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Set on 14 acres on the campus of the Eisenhower Medical Center 11 miles southeast of Palm Springs, the center was a nonprofit venture spearheaded by Mrs. Ford and Leonard K. Firestone, an industrialist and former ambassador to Belgium who raised a major part of the money.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中心坐落于棕榈泉东南部11英里的艾森豪威尔医疗中心内，占地14英亩，是一个由福特夫人和实业家Leonard K. Firestone共同创建的非盈利性组织，Leonard K. Firestone曾经是美国驻比利时大使，他筹集了大部分资金。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The center's philosophy, drawn from the 12-step program of Alcoholics Anonymous, is based on peer interaction and learning to identify and express feelings. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>中心的开办宗旨，源自匿名戒酒协会的“12个步骤”原则，建立在同伴互动的基础上学会辨识和表达感受。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many celebrities, including Elizabeth Taylor, Liza Minnelli, Mary Tyler Moore, Mickey Mantle and Darryl Strawberry, spent time there.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>许多名人包括Elizabeth Taylor, Liza Minnelli, Mary Tyler Moore, Mickey Mantle 和 Darryl Strawberry,都曾在这里接受治疗。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"It's hard to make anyone understand what it's like to have your name on something, to be given credit for things you haven't done," Mrs. Ford wrote. "I've been at meetings where someone turned and thanked me, and I hugged the person and said, 'Don't thank me, thank yourself, you're the one who did it, with God's help.' From the beginning, we have wanted every patient at the center to feel, 'I'm important here, I have some dignity.' "</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“很难让人相信据有某份功劳是什么感觉，或者误被别人以为做了某事而受到表扬的感受，”福特夫人写到，“会议上经常有人过来感谢我，我会拥抱着他/她说‘不用谢我，谢你自己，在上帝的帮助下，你成功了.'从一开始我就希望中心的每一个病人都能感受到”我在这里有分量，有尊严。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Betty Ford was good at doing the things that every first lady does: accompanying her husband on tours and public ceremonies and holding dinners and parties. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特夫人擅长做所有第一夫人都会做的事情：陪丈夫进行访问和参加公共场合的纪念仪式，举办晚宴和派对。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her parties usually lasted past midnight as she danced from one partner to another.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她的派对经常持续到午夜过后，因为她经常和一个又一个的舞伴跳舞。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But unlike many other wives of presidents, Mrs. Ford rarely hesitated to make public her views on touchy subjects. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不过和其他总统夫人不同，福特夫人在就敏感问题公开发表意见的时候很少犹豫。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She held a White House news conference announcing her support of the Equal Rights Amendment; the mail response ran three to one against her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她曾经在白宫举行新闻发布会表示对平等权利修正案的支持，回信反对她的人是支持她的人的三倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In 1975, appearing on "60 Minutes," she said she "wouldn't be surprised" if her daughter, Susan, had a premarital affair; the mail was four to one against her. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1975年，她上”60分钟“接受访问，她说如果女儿susan有婚前性行为，她"不会感到惊讶”，这次反对的人是支持的4倍。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her husband jokingly told her later that the comment had cost him 20 million votes in the 1976 election, she said.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说她的丈夫后来开玩笑的告诉她上述这番言论让他在1976年的选举中失去了2000万张选票。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A decade later, reminiscing with Margaret Truman for Ms. Truman's book "First Ladies," she voiced regret over that television appearance. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>10年之后，在和Margaret Truman 一起为后者的书“第一夫人们”回忆的时候，她表示后悔那次上电视节目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later that year, despite her advocacy for abortion rights, she reined herself in. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当年晚些时候，在表达她对堕胎权利支持的同时，她变得小心翼翼。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She said nothing about the Republican platform that called for a constitutional amendment to ban abortion.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>对于共和党要求修改宪法修正案以禁止堕胎的纲领，她也没有发表任何看法。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She also told Ms. Truman that she had warned her husband not to pardon Nixon, a more definitive statement than one she made in "The Times of My Life" (1978), the first volume of Mrs. Ford's autobiography. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她还告诉Truman她曾经提醒过自己的丈夫不要特赦尼克松，这比她在自己传记的第一卷“The Times of My Life” (1978)中的表述更进一步。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In that book she said she had known that a pardon would be unpopular but that she had supported it anyway.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在书中，她表示虽然知道很多人不能接受特赦尼克松的决定，不过她还是支持这个决定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"I think it had to be done," she wrote. Nevertheless, she said, she believed it cost her husband the election.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“我觉得应该这么做，”她写道，尽管如此，她还是相信特赦尼克松让她丈夫失去了总统大选。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs. Ford said she had been influential in President Ford's appointments of Carla Hills as secretary of housing and urban development and Anne Armstrong as ambassador to Britain. She was unsuccessful, however, in urging him to appoint a woman to the Supreme Court.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特夫人说她影响了福特任命Carla Hills为美国住房与城市发展部部长和Anne Armstrong 为驻英大使的决策，不过当她建议福特在最高法院任命一个女性时也遭到了失败。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She was, in her own words, "more of a hawk" than her children on the war in Vietnam. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用她自己的话来说，和她的孩子们在越战中的角色相比，她自己更像是只老鹰。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although she said she believed men and women should give two years of service to the country, she confessed she was "very relieved" when her sons drew high draft-lottery numbers.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然她觉得不论男女都应该为国家服役两年，但她也承认为儿子们在征兵抽签中抽到好签而长舒一口气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A Relaxed White House </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白宫吹进的一股清风</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Mrs. Ford brought a relaxed touch to the White House within days of moving in. She asked why the staff never returned a greeting and was told that President Nixon and the first lady, Pat Nixon, had preferred them to be as silent and invisible as possible. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>福特夫人在搬入白宫数天之内就带去了一股轻松自然的气息，刚搬进去的时候她问工作人员为什么和他们打招呼没有反应，工作人员告诉她前任总统尼克松和第一夫人希望他们尽可能安静和保持透明。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>An immediate change went into effect, to the degree that during family meals the president and the butler compared golf scores. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这种情况马上发生立竿见影的改变——在家庭聚餐活动时总统甚至和白宫管家玩起了高尔夫一较高下。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And when Mrs. Ford returned from her mastectomy, the staff lined up with signs reading, "We love you, Betty."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当福特夫人做完乳房切除术从医院出院，工作人员排成一行大字表达了他们的心声——“我们爱你，贝蒂”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She disliked other manifestations of Mrs. Nixon's formal tastes, particularly the choice of stiff furniture, which had replaced the more comfortable Kennedy ambience from the early '60s. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她也不喜欢尼克松夫人拘谨的品味，特别是尼克松夫人替换掉肯尼迪60年代早期风格的更舒适的家具而以呆板的家具取而代之。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Although she left the d¨¦cor as it was, she could not resist a bit of deviltry. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>虽然福特夫人保持白宫的装修原封不动，却忍不住对室内布置做出一点小小的改变。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A ceramic bowl in the Yellow Oval Room was supported by two Greek goddesses, one of them with her hands out. "Every time I went through," Mrs. Ford said, "I used to put a cigarette between her fingers." Her mischievous side also surfaced after her husband complained that she was too thin. Borrowing a skeleton from a hospital, she dressed it in her hat and coat and sat it in a bedroom chair to welcome him.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>白宫黄色椭圆厅有一个由两个希腊女神托着的陶瓷碗，其中一个女神的手是张开的，“每次我从那里走过，都会塞根香烟在她手里。”福特夫人说。在被丈夫抱怨太瘦了之后，她也体现了自己恶作剧的一面——她从医院借了一副人体骨架，给它穿上自己的帽子和外套，放在卧室的一张椅子上欢迎男主人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Later, when she was no longer first lady, she was criticized in some circles for having a facelift almost immediately after overcoming her addictions. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在卸任第一夫人之后，她也因为在克服酒瘾等恶习后就立即做除皱手术而受到一些人的批评。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She wanted, she said, a fresh new face for her new life. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她说她只是想以一副焕然一新的面貌来迎接新的生活。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She later thought that some of the resentment stemmed from the fact that she could no longer be perceived as a victim of cancer, drugs and drink.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>后来她认为一些人讨厌她是因为他们再也不能以癌症、药物和酒精受害者的身份看待她。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg> "It was easier to be sorry for me, to feel superior to me, and therefore to root for me," she said. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“以前人们更习惯同情我，把我看成弱者，因而支持我。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"We all like to cheer an underdog. But I'd stopped being an underdog; I'd gotten myself in hand."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们都习惯同情弱者，不过我已经不再是弱者了，我掌握了自己的命运。” </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Elizabeth Anne Bloomer was born on April 8, 1918, in Chicago to William S. Bloomer and the former Hortense Neahr. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伊利莎白安布鲁默于1918年4月8日出生在芝加哥，父亲是威廉 S. 布鲁默 ，母亲是Hortense Neahr. </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She always wanted to be called Elizabeth but ended up with Betty, Bet or Bets. She was the youngest child and the only girl in a family of three children. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她喜欢别人喊她“伊利莎白”不过最后人们却总是叫她贝蒂，bet或者bets，她是家里三个小孩里面最小的，也是唯一的女孩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her father was a traveling salesman in conveyor belts for factories. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>父亲是工厂传送带的旅行推销员。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The family moved to Grand Rapids, Mich., when she was 2.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在她两岁的时候全家搬到密西根的Grand Rapids。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The Bloomers were financially comfortable, lived in a fashionable area and spent summers at Whitefish Lake. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她家经济宽松，住在一个高档区域，夏天一家经常去Whitefish 湖玩。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>She began dancing lessons when she was 8, and for two summers after graduation from high school she attended Bennington School of the Dance at Bennington College in Vermont. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>她从八岁开始就学习舞蹈课程，高中毕业之后的两个暑期她一直去佛蒙特州伯明顿舞蹈学校上课。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At 14, she was confirmed as an Episcopalian (her mother's religion; her father was a Christian Scientist) and began working on Saturdays, for $3, as a model for Herpolsheimer's department store.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>14岁的时候她正式成为圣公会教徒（和她母亲的宗教相同，父亲是基督教科学派），并开始在周六为Herpolsheimer百货商店做兼职模特，报酬是3美元。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At 20, she was in New York, living on the fringes of Greenwich Village and attending dance classes with Martha Graham. She also joined her troupe.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>20岁的时候她住在纽约格林威治城的郊区，参加Martha Graham的舞蹈课，还加入了Martha Graham的演唱团。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dance was always a major interest, and Mrs. Ford said many times that she was disappointed that she had never been quite good enough to be a first-rate dancer. When she went to China with her husband in 1975, however, she enchanted the Chinese by kicking off her shoes and dancing in her stocking feet at a Beijing school.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>跳舞一直是她最大的爱好，福特夫人多次提到她对自己不能当一个一流舞者感到很失望，1975年她陪同丈夫去中国的时候，在北京一所学校里她把鞋子扔到一边，穿着袜子跳舞受到中国人的欢迎 。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Her mother persuaded her to return to Grand Rapids in 1941, but not before she had modeled on Seventh Avenue and for the John Robert Powers modeling agency. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>直到1941年她在第七大道成为模特并且为John Robert Powers 模特经纪公司工作之后，她才听从母亲的建议回到了Grand Rapids的家。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Back home, she became a fashion coordinator for the store in which she had been a teenage model. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>回到家后，她在以前做模特时工作的一家店里成为服装搭配师。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>In her spare time, she taught dance to underprivileged and disabled children.</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>业余时间她还教贫困和残疾儿童舞蹈。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The following year, she married William C. Warren, a furniture dealer. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>第二年，她嫁给了一个家具商人William C. Warren。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The marriage ended in divorce in 1947, and she did not ask for alimony. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>1947年这段婚姻以离婚而告终，她也没有要求任何赡养费。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>When Mr. Ford became vice president and his wife's first marriage was disclosed, Mrs. Ford was asked why she had kept it a secret. She hadn't, she said: "No one ever bothered to ask."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在福特成为副总统后她的这段婚姻被曝光。在被问到为什么这段婚姻隐瞒了这么久的时候，她说：“我没有隐瞒，只是从来没有人问起过而已。”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Some months after her divorce, she began dating Gerald R. Ford, a lawyer with political ambitions and a man she described as "probably the most eligible bachelor in Grand Rapids." </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>离婚数月之后，她开始和杰拉德 R.福特约会，彼时福特是个富有政治抱负的律师，用她的话来讲“很可能是Grand Rapids最好的如意郎君”。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

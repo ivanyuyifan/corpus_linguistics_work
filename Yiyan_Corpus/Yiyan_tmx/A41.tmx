@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="en-US" srclang="EN-US" o-tmf="ATM" changedate="20160305T114000Z" changeid="Think">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From the wheelchair based on an F1 car to the 'Terminator' exo-skeleton suit: How technology is transforming the Paralympics </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从F1式轮椅到"终结者”钢铁战袍：技术如何改变残奥会</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Technology includes the 'Brain Sled' you control with you mind and the 'Ghost' glove that trains you to swim like Phelps  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些技术包括：通过意念控制的“脑雪橇”、比菲尔普斯游得还快的“鬼手套”等
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>But controversy over blade runners begs the question: Is technology levelling the playing field - or conferring an unfair advantage?  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“刀锋战士”引发的争议提出了问题：赛场上的技术，是为了维护公平竞争还是赋予了不公平的竞争优势？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>High tech wheels: BMW used their F1 experience to design the perfect wheelchairs for Britain's basketball teams  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>高科技轮椅： 宝马公司利用F1技术为英国篮球队设计了这款完美的轮椅
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As Britain? s paralympic basketball team takes to the court, they have a secret weapon - a hi-tech foam seat designed by BMW engineers using cutting-edge technologies from motor sport.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>正如英国残奥会篮球队在球场上展示的那样，他们有秘密武器－－1款由宝马工程师借用摩托车运动中的前沿技术设计出的高科技泡沫坐椅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is just part of a range of cutting-edge technologies on show at the Paralympics this year - from the Ghost glove improves technique by offering vibrating feedback on your form and posture, to human exo-skeletons which provide 'Iron Man'-style superhuman strength.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这只是本年度残奥会展示的前沿技术的一部分－－“鬼手套”，能提供人体体形与姿势的振动反馈，和“外骨骼”服装，能为运动员提供像“钢铁侠”一样的超人般的力量。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At the next Paralympics, we could see blind runners taking a course unaided thanks to headsets which can watch for hurdles as well as providing left and right instructions, and perhaps a new generation of 'blade runners', who can use advanced technology to push themselves even further.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>在未来的残奥会，我们可以看到盲人赛跑选手借助耳麦来辨别障碍物，就像我们现在提供的方向指示一样。也许新一代 “刀片式假肢”赛跑者，可以利用更先进的技术，跑得更远。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The technology is well-embedded in the 2012 Games, with the carbon 'blade runners' perhaps the most visible example of the aiding technology.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>2012 年奥运会赛场上展示的新技术中，碳纤维“刀片式”运动义肢可能是最显眼的辅助运动技术。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The current carbon fibre running prostheses, such as those used by Oscar Pistorius, can now deliver an elastic energy return of 92 per cent, compared to 95 per cent for natural human tendons.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>当前的碳纤维运动义肢，如奥斯卡 皮斯特里斯使用的这种，可以提供92%的回弹力，而人类筋腱的自然弹力是95%。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The connection between the body and the artificial limb has also been improved ? sockets use silicone liners to prevent blistering and discomfort while suction valves are used to provide a seamless connection between the skin and prosthetic.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>人体和义肢之间的连接技术也得到改进 ― ― 使用有机硅内衬可以防止起泡和不舒适；使用吸引瓣膜可以让皮肤和假体之间达到无缝连接。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The advances made for these Paralympics are unlikely to remain confined to the Olympic Park. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些为残奥会准备的新技术不仅限于奥林匹克公园。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The International Paralympic Committee (IPC) stipulates in its guidelines that manufacturers of all the equipment used during London 2012 must consider the cost and large-scale availability of their products, ensuring that their developments are not restricted to the elite.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际残奥会委员会 （IPC） 在其准则中明文规定：在 2012 年伦敦奥运会期间使用的所有设备的制造商，必须考虑其产品的成本和技术应用的广泛性，以确保产品市场不仅限于运动精英。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Lighter, more agile carbon-fibre wheelchairs are already commercially available, but can cost as much as £2,000. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>更轻、 更敏捷的碳纤维轮椅已经面市，但价格高达 2000 英镑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>As this technology develops, thanks, in part, to the work sports engineers are doing with elite athletes, their availability is likely to dramatically increase.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>随着这一技术的进一步发展，还要归功于体育工程师与精英运动员努力付出，大大提高了碳纤维轮椅的普及性。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Another technology helping Paralympians at the moment is the throwing frame - a key piece of equipment for many Paralympic discus, shot put and club throwers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前残奥会应用的另一种技术是投掷框－－许多铁饼、 铅球、标枪等投掷运动所需设备中的关键部件。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>These frames were once crudely adapted chairs, but for the 2012 Paralympics many athletes have turned to engineers to refine their design.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这些设备以前只是简单改装过的椅子罢了，但 在2012年残奥会，许多运动员已求助于工程师来优化他们的设计。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Derek Derenalagi of Great Britain takes a shot at glory, supporting by state-of-the-art frames that allow him to put his full weight behind the discus . </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国运动员铁饼德里克一掷定音，夺取荣耀，靠的就是他背后最先进的投掷框，可以把身体全部重量投出去。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Take soldier Derek Derenalagi, whose Land Rover was blown up in Afghanistan in 2007, competes on two artificial legs, so he needs support when he throws the discus.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>德里克以前当过兵，2007年他的路虎车在阿富汗战场上被炸，失去了双腿，所以他扔铁饼时需要投掷框的支持。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the 2012 Games, engineering charity Remap helped devise a new aluminium frame, which has special plate sockets for the prosthetics.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>慈善机构Remap帮助2012 年奥运会设计制作了新的铝制框架，其特殊钢板插座方便假肢嵌入。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>This allows Derek, 37, to generate more power without losing any balance.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这有助于37岁的德里克既不失衡还能使出更多的力气。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remap volunteer Roger Thorn told The Mirror: 'We were simply amazed at the energy Derek produces and knew we would have to design a very strong frame'
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>Remap的志愿者罗杰 ・ 索恩告诉《镜报》记者：“ 我们很吃惊，德里克能使出这么大的力气，我们知道，必须为他设计出一个很结实的投掷框。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The wheel, re-invented: Great Britain's David Weir finishes 3rd during Round 1, Heat 1 of the Men's 1500m
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>重新设计的轮椅：英国选手戴维 ・ 韦尔，男子1500米预赛第一组首轮第三名
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Then on to the finish line: David Weir then celebrates as he wins gold in the Men's 5000m
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>终点线： 戴维 ・ 韦尔为赢得男子 5000 米金牌而欢呼
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Craig Maclean (left) and Anthony Kappes of Britain's track cycling team celebrate winning the Men's Individual B-Sprint Gold Medal Final at the London 2012 Paralympic games in the Velodrome
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国田径自行车队的克雷格 ・ 麦克莱恩 （左） 和安东尼 ・ 卡帕斯赢得2012残奥会室内自行车赛男子个人B－短道金牌。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The track teams also have high-end hardware around them when they race .
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国田径队也有高科技产品助阵。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>David Weir - who won his first Gold on Sunday evening, is fitted with a custom-built chair at a cost of £ 5,000.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>戴维 ・ 韦尔在星期天晚上赢得他的第一块金牌，他使用的特制轮椅花费了 5000 英镑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>He told the Telegraph: 'Actually our chairs are like Formula One cars; they're the absolute cutting edge of technology, and everything has to be just perfect.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>他告诉《每日电讯》: “其实我们的轮椅就像F1赛车 ，绝对是尖端科技产品，一切都完美无缺。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'If it wasn't for wheelchair racing I don't know what I would have done. I'd probably have been a bum.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如果没有轮椅篮球赛，我不知道自己能做什么，很可能是个游手好闲的人。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'There are more kids on the streets in wheelchairs and the public are used to seeing them. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>街上坐轮椅的孩子有很多，市民们也熟视无睹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Also I think people have become fascinated by the Paralympics from what they've seen on TV. They realise they can be as exciting as able-bodied sport.'
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>此外，我想，大家从电视上看到残奥会，并开始喜欢残奥会了，他们意识到残疾人也可以像健全人一样，参与运动并为之兴奋。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Archery by foot: Matt Stutzman on his way to win the silver medal in Archery at the Paralympic Games, London
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>用脚射箭：麦特 斯塔茨曼在伦敦残奥会射箭比赛中赢得银牌
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The feet of Matt Stutzman of the United States holds his bow in technology specially created to for the sport
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>美国选手麦特 斯塔茨曼的脚搭在专为他设计的弓上
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile Jeff Fabry of the U.S. uses his mouth to fire an arrow on the way to winning gold in the Men's Individual Compound-W1 classification Archery final  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，美国的杰夫 法布里用他的嘴射箭，最终在男子个人复合 W1 分类射箭决赛获得金牌。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Last week, The Mail on Sunday revealed UK Sport had spent 拢700,000 on research and innovation.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>上周的《星期日邮报》 透露，英国在体育研究和创新方面花费了 700 000 英镑。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>To assess aerodynamic efficiency, wheelchairs have been blasted with air in wind tunnels built by defence firm BAE Systems and used to develop the Eurofighter Typhoon jet.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>为了评估气流动力学效率，英国动用 BAE*公司用于欧洲台风战斗机测试的风 洞对轮椅进行测试。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Manoeuvrability has been measured using cutting-edge tracking technology developed by Formula 1 team McLaren, while the seats have been created by car firm BMW.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>轮椅的可操纵性通过了F1麦可伦队开发的高端跟踪技术测试，椅座由宝马公司生产。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It is a far cry from the Stoke Mandeville Games, the pre-runner to the Paralympics in 1948.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与1948 年首届斯托克曼德维尔残奥会相比，进步太大了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At that time, wheelchairs weighed up to 23kg. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>那时候，轮椅重达 23 公斤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nowadays, thanks to carbon-fibre chairs and precise engineering, the weight is down to just 2kg.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>如今的碳纤维轮椅加上精致的工艺，重量仅有 2 公斤。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Alison Macpherson, &amp;shy;research &amp;shy;co-ordinator at UK Sport, told The Mirror: 'The advances are amazing.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国体育研究员艾莉森 ・ 麦克弗森告诉《镜报》：“技术进步真令人惊叹。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'We have put a lot of work into improving the athletes medal &amp;shy;chances. But in the end it' s all about their talent and hard work.'
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的工作是为运动员获奖提供条件，但最终还要靠他们的天分和努力。”
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Britain's Paralympians model their range of specially-adapted supports as they prepare to bring back the gold  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国的残疾运动员也最大程度地利用改装设备帮他们赢回金牌
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Over at UK company Tharsus, Stephen Miller, a Team GB club and discus thrower, has been working to create a bespoke throwing frame which straps the athlete in by his thighs, allowing them to use all their force to throw with a free range of movement.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国投掷选手斯蒂芬 ・ 米勒，过去曾在英国一家公司 Tharsus工作，致力于设计一种特制的投掷框，可以固定到运动员的大腿上，帮助他们在自由活动的范围内能使出全身力量去投掷。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meanwhile Ossur, one of the world's leading prosthetics manufacturers, has developed a specially-designed leg prosthetic for use in track cycling.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>与此同时，世界上领先的假肢制造商，Ossur公司制作了专门用于场地自行车赛的假肢。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Five times Paralympic gold medalist Jody Cundy has been working with engineers since Beijing to modify the design of his Ossur artificial limb so it is now more lightweight and aerodynamic, and no longer requires a cycling shoe as the leg clips into the pedal.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>五次残奥会奖牌得主朱迪 康迪，自北京奥运会之后 ，与工程师合作，对他的 Ossur 假肢进行设计改良，现在的假肢更轻、更符合空气动力学要求，并且不再需要单车鞋固定到脚踏板。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Future tech: The Ekso exo-skeleton which lets paraplegics walk again  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未来科技：Ekso外骨骼让截瘫患者重新行走
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The first Ekso was sold this year - and one day, such "Iron Man" -style suits could allow athletes to perform superhuman feats such as lifting enormous weights.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>今年，第一套Ekso 被出售，希望有一天，这种 ' 铁人 '风格的外套能让运动员像超人一样力大无穷。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>At present, the exoskeleton can only walk slowly, and the expensive, computer-controlled hydraulic machines is used to deliver the health benefits of walking to paralysed patients.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>目前的外骨骼技术，行走速度慢、价格昂贵，计算机控制的液压装置只能让瘫痪病人体验行走的益处。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Defence companies such as Lockheed Martin and Raytheon have already expressed interest in the technology for use on the battlefield.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>洛克希德马丁和雷神等国防公司已经表示，他们有兴趣在战场上应用这项技术。  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>From peaceful games to warfare.. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>从和平游戏到战争....</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Exo-skeletons could help Paralympians reach new heights - and defence companies have also expressed interest in the technology for use on the battlefield  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>外骨架可以帮助残迹运动员达到新的高度－－而且国防部门也表示他们有意在战场上使用该的技术
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Jon-Allan Butterworth, also of Team GB, uses a prosthetic arm that has been specially designed to allow him to cycle in the most aerodynamic position possible.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国团队的巴特沃思 乔恩 ・ 艾伦，使用专门设计的假臂，帮助他尽可能达到空气动力学最佳位置。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BMW used their F1 experience to design the perfect wheelchairs for Britain's basketball teams.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宝马公司应用 F1 技术为英国篮球队设计最完美的轮椅。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Britain? s athletes were scanned using 3D optical scanners as they sat on a beanbag-esque " seat " which captured their position as they sat in it, to an accuracy of 1mm.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国运动员坐进“豆袋式”的椅子里，使用 3D 光学扫描仪进行扫描，以确定落座位置，精确度为 1 毫米。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Using the same computer-aided design processes used to build F1 cars, and hi-tech '3D printing' machines, the engineers created bespoke seats from the 3D scans which fit each athlete precisely.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>使用与F1 赛车相同的计算机辅助技术，以及高超的3D打印技术，工程师们生产出的定制座椅与 3D 扫描一样，非常适合每一名运动员。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Louise Sugden, Ade Oregbem and Claire Williams in their moulded-wheelchairs  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>路易丝 ・ 萨格登、 艾德・奥格博姆和克莱尔 ・ 威廉斯与他们的模压轮椅  </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>For the first time, the new moulded foam seat will enable athletes to move as one with their chair - shaving 0.14 of a second off their time to complete a 20m straight line course.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新的模塑泡沫座位首次使运动员与他们的座椅融为一体，在20米的直线距离中每秒可节省0.14秒。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ade Orogbemi, who will use the modified wheelchair at the Paralympic World Cup, said, "The new seat has improved my game enormously. The stability gives me the ability to turn quickly both going right and left which I was unable to do before.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>艾德・奥格博姆将在残奥世界杯使用改良后的轮椅，他说，“新轮椅大大改善了我的比赛，良好的稳定性可以保证我很快地左右转弯，以前是做不到的”。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not just your standard wheelchair: The IOC insists that all technology filters through to the wider population  '</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>不只为个人定制的标准轮椅： 国际奥委会要求，奥运全采用的所有技术都要向大众普及。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The extra speed it gives me around the court makes it easier to defend against the best attacking sides in the world to give us that unique advantage. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这款轮椅在篮球场上速度更快，面对世界顶级对手我也可以很好地防守，这是轮椅给我的独特优势。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>I believe it is allowing me to play my best ever basketball."</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我相信，它可以助我一臂之力，打出最好水平。"
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The seats were created in hi-tech rapid prototyping machines which 'print' solid objects layer by layer over the course of 24 hours.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>椅座的生产是利用快速原型机，连续24小时将固体材料逐层“打印”而成。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BMW use the machines extensively in car design, creating 50,000 prototypes per year for use in tests.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>宝马公司在汽车设计中广泛应用该技术，每年生产50000个 原型用于样车测试。 </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'Rapid prototyping' is an industrial process similar to printing in 3D - engineers take a 3D computer model, then use a van-sized sintering machine to create a plastic version in the real world. The seats are crafted from a super-flexible material called Duraform EX.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“快速原型”制作过程类似于3D打印－－工程师先建立一个 3D 电脑模型，再利用中巴大小的烧结机制作出仿真塑料模型，椅座材质采用了一种叫作Duraform EX的超柔软材料。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The "close fit" of the chair allowed engineers to shave weight off elsewhere, cutting holes in the material of the wheelchair to shave off crucial grams.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这款椅座与人体结合紧密度高，工程师通过去掉多余的材料、多打孔等措施，以减轻椅座重量。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It' s an entirely new idea that has never been used before - described as a  step forward? for the sport by the International Wheelchair Basketball Federation.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>国际轮椅篮球联合会认为，这是个崭新的想法，以前从未尝试过，对这项运动来说是一次飞跃。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Blade runners: Levelling the playing field - or conferring an unfair advantage?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>刀锋战士： 维护赛场公平竞争还是授予不公平的优势？
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The South African runner Oscar Pistorius has been accused of using spring-loaded legs which make him ? superhuman? - letting him use 20% less energy at high speeds.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>南非选手奥斯卡 皮斯特里斯已被指控使用弹簧腿使他成为 “超人”－－至少 让他在奔跑状态下节省 20%的体力。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>And during his defeat this week, he accused Alan Oliveira of winning due to his extra-extended springs.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这一周比赛失利后，奥斯卡指责获胜的艾伦 ・ 奥利韦拉假肢上的弹簧太长。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Engineers believe that legs where the ? springiness? is adjusted during the run could perform even better.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>工程师们认为， 经过跑步运动调整后的假肢弹性更佳。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Aftermath: Oscar Pistorius (left) congratulates Alan Oliveira following the race - but then arguments broke out about how much of an advantage Oliveira's springs offered him
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>赛后： 奥斯卡 皮斯特里斯 （左） 向艾伦 ・ 奥利维拉表示祝贺－－但很快爆发了争议：奥利韦拉的刀片式假肢到底给他带来多少竞争优势
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Shock: Oliveira (left) was a surprise winner in the T44 200m final at Olympic Park  ? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>震惊： 奥利维拉 （左） 是在奥林匹克公园T44 200 米 决赛意外获胜。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Pistorius tends to start off slow,? says Dr Jim Usherwood of the Wellcome Trust.
+? But if you could adjust the spring with a dynamic spring or some gentle powering in the upper leg, he would be even faster.?
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>韦尔科姆基金会的吉姆 厄舍伍德 博士说：“皮斯特里斯在比赛中速度明显慢了下来，如果他能够动态地调整刀片弹性或者大腿力量更柔韧些，速度会更快”。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Under current Paralympic rules, though, such legs would not be legal in competition.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>根据残奥会现行规则，这种假肢不允许参加比赛。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Future tech: The 'Brain Sled' you control with you mind  The ? </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>未来科技： 利用意念控制 的' 脑雪橇 '
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Brain Sled? was designed by engineering students at Imperial college, and uses electrical signals in the brain to ? steer? a sled in a bobsleigh-style event.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>帝国大学工程系学生设计的这款雪橇，利用人类大脑产生的电信号来操纵雪橇滑行。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>It's technically feasible now, using a commercially available ? mind-reading? headset called the Emotiv EPOC ($299), which is sometimes used by video gamers.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>这款设计从技术上来讲是可行的，利用了一款视频游戏玩家常用的 Emotiv EPOC （市场价299美元）耳麦，具有'读心'功能。
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The 'Brain Sled' uses electrical signals in the brain to 'steer' a sled in a bobsleigh-style event  </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>“脑雪橇”：利用人类大脑电信号操纵和驾驭雪橇
+</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>"The prototype we made has working parts," says Dr Dominic Southgate of Imperial College, London.
+'With training, it could steer left and right, and open up sports to completely paralysed athletes."
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>伦敦帝国学院多米尼克 索斯盖特博士说：“我们制做的雪橇原型有几个工作部件，通过训练后，可以引导左右旋转，从而帮助完全瘫痪的运动员参与比赛。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Many of the technologies already exist. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>现在，很多技术已经上市了。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our "brain sled" prototype was based on a commercially available ? mind-reading? headset which reads brain waves - and once you train up the system, if you think —Left— , it will turn left.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们 '脑雪橇' 技术是基于市面上的 '读心' 耳机，通过训练系统来读取脑电波，你想着 '左' 的时候，它会向左转。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>'But it wouldn’t be legal in the Paralympics as they stand. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>脑雪橇还未列入残奥会比赛项目。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Our project opened up possibilities for new sports - as well as raising a question about what ? sport? actually is.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>我们的目标是为开辟新的运动项目，还有，要搞清楚这项 '运动' 到底是什么。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The new seat design was so radical it had to be approved by the Paralympic committee to see that it met the strict regulations for the sport.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>新的座位设计过于前卫，不得不通过残奥会委员会认定，看是否它符合这项运动的相关规定。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Much of the equipment used by the UK teams has been tested at British Aerospace's wind tunnel in Wharton. </seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>英国队使用的大部分装备都经过沃顿英国航天风洞的测试。</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Wheelchair athletes move at speeds of up to 20mph, and simply pulling a T-shirt down over an athlete' s knees can shave tenths of a second off performance.
+</seg>
+</tuv>
+<tuv xml:lang="ZH-CN">
+<seg>坐轮椅的运动员移动速度高达 20 英里/小时，仅拉下运动员的一件 T 恤到膝盖，足以影响1/10秒的表现。</seg>
+</tuv>
+</tu>
+</body>
+</tmx>
