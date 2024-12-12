@@ -6,7 +6,6 @@ from gensim.models import LdaModel
 import re
 import pyLDAvis.gensim_models
 import pyLDAvis
-import numpy as np
 from wordcloud import WordCloud
 
 # 数据预处理函数
