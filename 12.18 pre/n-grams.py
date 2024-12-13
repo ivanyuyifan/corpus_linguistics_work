@@ -1,6 +1,5 @@
 from ltp import LTP,StnSplit
 from collections import Counter
-import os
 
 # 文件路径
 file_path = "/Users/fafaya/Desktop/corpus_linguistics_work/12.18 pre/一带一路_绿色（语料全）.txt"
